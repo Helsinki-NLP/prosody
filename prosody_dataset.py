@@ -52,6 +52,7 @@ class ProsodyDataset(data.Dataset):
 
 
 def load_data():
+    # TODO: update with prosody dataset and loading
     tagged_sents = nltk.corpus.treebank.tagged_sents()
     tags = list(set(word_tag[1] for sent in tagged_sents for word_tag in sent))
     tags = ["<pad>"] + tags
