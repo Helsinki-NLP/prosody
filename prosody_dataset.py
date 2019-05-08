@@ -10,8 +10,8 @@ class ProsodyDataset(data.Dataset):
     def __init__(self, tagged_sents, tag2id):
         sents, tags_li = [], [] # list of lists
         for sent in tagged_sents:
-            words = [word_pos[0] for word_pos in sent]
-            tags = [word_pos[1] for word_pos in sent]
+            words = [word_tag[0] for word_tag in sent]
+            tags = [word_tag[1] for word_tag in sent]
             sents.append(["[CLS]"] + words + ["[SEP]"])
             tags_li.append(["<pad>"] + tags + ["<pad>"])
         self.sents, self.tags_li = sents, tags_li
