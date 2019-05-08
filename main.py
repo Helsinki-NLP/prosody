@@ -12,7 +12,7 @@ def main():
 
     device = 'cuda' if torch.cuda.is_available() else 'cpu'
 
-    train_data, test_data, tag2id, id2tag = utils.load_data()
+    train_data, test_data, tag2id, id2tag = prosody_dataset.load_data()
 
     model = Net(device, vocab_size=len(tag2id))
     model.to(device)
