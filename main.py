@@ -22,7 +22,7 @@ parser.add_argument('--save_path',
                     default='results.txt')
 parser.add_argument('--log_every',
                     type=int,
-                    default=10)
+                    default=50)
 parser.add_argument('--learning_rate',
                     type=float,
                     default=0.0001)
@@ -34,7 +34,7 @@ parser.add_argument('--gpu',
                     default=0)
 parser.add_argument('--number_of_sents',
                     type=int,
-                    default=500)
+                    default=1000)
 parser.add_argument('--test_and_dev_split',
                     type=float,
                     default=.1)
@@ -151,7 +151,7 @@ def train(model, iterator, optimizer, criterion, config):
         optimizer.step()
 
         if i % config.log_every == 0 or i+1 == len(iterator):
-            print("step: {}/{}, loss: {:<.4f}".format(i+1, len(iterator), loss.item()))
+            print("Training step: {}/{}, loss: {:<.4f}".format(i+1, len(iterator), loss.item()))
 
 
 def valid(model, iterator, tag_to_index, index_to_tag):
