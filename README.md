@@ -4,10 +4,14 @@ Prosody prediction using BERT
 ## Instructions
 
 To install the requirements run:
-```pip3 install -r requirements.txt```
+
+```console
+pip3 install -r requirements.txt
+```
 
 Run training by executing:
-```
+
+```console
 python3 main.py \
     --batch_size 16 \
     --epochs 5 \
