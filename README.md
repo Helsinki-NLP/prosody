@@ -20,8 +20,8 @@ python3 main.py \
     --learning_rate 0.0001 \
     --weight_decay 0 \
     --gpu 0 \
-    --number_of_sents 33047 \
-    --test_and_dev_split .1 \
+    --number_of_sents 33047 \ # Use this to select only a subset of examples
+    --test_and_dev_split .1 \ # This will create splits 90/10/10
     --optimizer adam \
     --seed 1234
 ```
