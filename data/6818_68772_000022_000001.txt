@@ -1,0 +1,7 @@
+It	2	0
+is	0	1
+probably	2	0
+a	0	1
+mere	1	0
+coincidence	1	2
+.	NA	NA

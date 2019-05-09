@@ -1,0 +1,9 @@
+What	2	0
+about	1	1
+?	NA	NA
+she	0	0
+asked	0	1
+,	NA	NA
+sitting	0	0
+down	1	2
+.	NA	NA

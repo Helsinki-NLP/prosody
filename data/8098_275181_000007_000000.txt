@@ -1,0 +1,7 @@
+We	0	0
+proceeded	2	1
+to	0	0
+look	0	0
+for	0	1
+traces	2	2
+.	NA	NA

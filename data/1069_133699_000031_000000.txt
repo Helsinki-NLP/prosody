@@ -1,0 +1,5 @@
+You	0	0
+say	0	1
+that	2	1
+right	1	2
+.	NA	NA

@@ -1,0 +1,17 @@
+The	0	0
+first	2	0
+persons	0	1
+to	0	0
+be	0	0
+written	0	1
+to	0	0
+are	0	0
+Dick's	1	1
+brother	2	2
+and	0	0
+the	0	0
+Earl	2	0
+of	0	0
+Dorincourt's	1	1
+lawyer	2	2
+.	NA	NA

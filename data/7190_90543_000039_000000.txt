@@ -1,0 +1,17 @@
+I	0	0
+had	2	0
+become	0	0
+so	0	0
+accustomed	1	0
+to	0	2
+Quarles	2	1
+jumping	1	0
+to	0	1
+some	0	0
+sudden	2	1
+conclusion	1	2
+that	2	0
+I	0	0
+was	0	1
+disappointed	2	2
+.	NA	NA

@@ -1,0 +1,6 @@
+Double	1	1
+crossing	2	1
+him	0	0
+,	NA	NA
+eh	1	2
+?	NA	NA

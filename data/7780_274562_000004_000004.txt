@@ -1,0 +1,11 @@
+His	0	1
+bride	2	0
+was	0	1
+the	0	0
+loveliest	2	0
+and	0	1
+most	0	1
+devoted	1	0
+of	0	0
+women	1	2
+.	NA	NA

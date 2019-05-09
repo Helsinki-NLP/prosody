@@ -1,0 +1,13 @@
+What	2	0
+is	1	1
+there	0	0
+we	0	0
+can	0	1
+do	2	2
+?	NA	NA
+they	2	0
+said	1	1
+to	0	0
+one	0	0
+another	1	2
+.	NA	NA

@@ -1,0 +1,14 @@
+Find	2	1
+her	0	0
+,	NA	NA
+worthy	0	1
+Bobo	2	2
+,	NA	NA
+and	1	0
+an	0	0
+immense	0	0
+reward	1	1
+will	0	0
+be	0	0
+yours	2	2
+.	NA	NA

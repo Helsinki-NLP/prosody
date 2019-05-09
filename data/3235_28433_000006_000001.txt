@@ -1,0 +1,12 @@
+Every	2	0
+stateroom	1	0
+was	0	1
+full	2	2
+;	NA	NA
+each	2	0
+seat	0	0
+at	0	0
+the	0	0
+tables	1	1
+occupied	1	2
+.	NA	NA

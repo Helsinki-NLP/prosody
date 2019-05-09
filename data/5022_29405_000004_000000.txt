@@ -1,0 +1,12 @@
+I	2	0
+betray	0	0
+no	1	0
+confidence	2	2
+in	0	0
+presenting	1	0
+this	0	1
+copy	2	0
+of	0	0
+his	0	1
+confession	2	2
+.	NA	NA

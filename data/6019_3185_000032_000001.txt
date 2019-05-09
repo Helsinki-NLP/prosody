@@ -1,0 +1,14 @@
+In	0	0
+that	1	0
+short	1	0
+interval	1	2
+other	2	0
+events	0	1
+had	0	0
+occurred	2	1
+no	1	0
+less	0	0
+terrific	0	0
+and	0	1
+mysterious	2	2
+.	NA	NA

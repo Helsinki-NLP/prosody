@@ -1,0 +1,5 @@
+Don't	2	0
+go	0	1
+,	NA	NA
+mamma	1	2
+.	NA	NA

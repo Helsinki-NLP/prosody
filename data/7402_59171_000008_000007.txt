@@ -1,0 +1,14 @@
+Why	2	0
+should	0	0
+I	0	1
+not	1	1
+say	2	0
+it	0	1
+when	0	0
+I	0	0
+believe	1	1
+that	1	0
+it	0	1
+is	0	0
+true	2	2
+?	NA	NA

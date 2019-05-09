@@ -1,0 +1,14 @@
+Good	0	0
+bye	1	0
+,	NA	NA
+Isabel	2	2
+,	NA	NA
+said	0	0
+he	1	0
+,	NA	NA
+without	0	1
+further	1	0
+circumlocution	1	0
+or	0	0
+ceremony	1	2
+.	NA	NA

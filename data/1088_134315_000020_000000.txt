@@ -1,0 +1,9 @@
+Is	1	0
+that	0	0
+your	1	1
+creed	1	2
+?	NA	NA
+she	1	0
+asked	0	1
+quietly	2	2
+.	NA	NA

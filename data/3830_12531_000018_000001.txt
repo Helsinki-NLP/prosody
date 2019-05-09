@@ -1,0 +1,7 @@
+Some	2	0
+take	0	0
+it	0	1
+there	0	0
+with	2	1
+them	0	2
+.	NA	NA

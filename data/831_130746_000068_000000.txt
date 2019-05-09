@@ -1,0 +1,5 @@
+But	0	1
+the	0	0
+Christian	2	1
+name	1	2
+?	NA	NA

@@ -1,0 +1,3 @@
+Coronel	1	1
+stopped	2	2
+.	NA	NA

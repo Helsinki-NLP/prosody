@@ -1,0 +1,5 @@
+Can	0	1
+you	2	1
+tell	0	0
+me	2	2
+?	NA	NA

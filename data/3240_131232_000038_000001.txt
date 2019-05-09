@@ -1,0 +1,6 @@
+It	2	0
+then	1	0
+came	0	1
+to	0	0
+life	2	2
+.	NA	NA

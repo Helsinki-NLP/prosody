@@ -1,0 +1,9 @@
+No	2	2
+,	NA	NA
+that	2	0
+would	0	0
+have	0	1
+scattered	1	1
+them	0	0
+more	1	2
+.	NA	NA

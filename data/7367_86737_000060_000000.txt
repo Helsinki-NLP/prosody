@@ -1,0 +1,6 @@
+You	2	0
+intend	1	0
+visiting	0	0
+Il	0	1
+Colosseo	2	2
+.	NA	NA

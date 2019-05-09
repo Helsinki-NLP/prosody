@@ -1,0 +1,4 @@
+Put	2	0
+up	2	1
+only	1	1
+by	1	2

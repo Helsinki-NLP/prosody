@@ -1,0 +1,7 @@
+'Tiger	2	1
+?	NA	NA
+'	NA	NA
+replied	1	0
+the	0	1
+queen	2	2
+.	NA	NA

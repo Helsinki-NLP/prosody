@@ -1,0 +1,5 @@
+His	0	1
+method	2	0
+was	0	1
+systematic	2	2
+.	NA	NA

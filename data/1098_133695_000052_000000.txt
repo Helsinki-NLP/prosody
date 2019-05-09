@@ -1,0 +1,4 @@
+Very	1	0
+likely	0	1
+not	2	2
+.	NA	NA

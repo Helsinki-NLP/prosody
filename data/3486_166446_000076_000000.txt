@@ -1,0 +1,14 @@
+I	0	0
+saw	1	0
+Norhala	1	2
+draw	1	0
+herself	0	0
+up	1	2
+,	NA	NA
+sharply	2	2
+;	NA	NA
+stand	2	0
+listening	0	1
+and	0	0
+alert	2	2
+.	NA	NA

@@ -1,0 +1,16 @@
+But	0	0
+,	NA	NA
+my	0	0
+father	2	1
+,	NA	NA
+cried	1	0
+Lorenzo	1	2
+,	NA	NA
+Florence	2	0
+is	0	1
+free	1	1
+,	NA	NA
+Florence	2	0
+is	0	1
+happy	2	2
+.	NA	NA

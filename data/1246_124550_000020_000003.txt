@@ -1,0 +1,15 @@
+Kennicott	1	0
+had	0	1
+asserted	2	0
+that	0	0
+the	0	2
+villager's	2	0
+lack	1	0
+of	0	1
+courtesy	2	2
+is	2	0
+due	0	0
+to	0	0
+his	0	1
+poverty	2	2
+.	NA	NA

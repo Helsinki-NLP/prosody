@@ -1,0 +1,7 @@
+Nonsense	2	2
+!	NA	NA
+said	0	0
+the	0	0
+professor	0	0
+sharply	2	2
+.	NA	NA

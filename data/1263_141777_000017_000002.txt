@@ -1,0 +1,17 @@
+Had	1	0
+they	0	0
+somehow	1	0
+learned	0	0
+of	0	1
+his	0	0
+own	0	0
+presence	1	0
+nearby	2	2
+,	NA	NA
+were	0	0
+they	0	0
+out	1	0
+to	0	1
+find	1	0
+him	1	2
+?	NA	NA

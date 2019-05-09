@@ -1,0 +1,12 @@
+It	1	0
+was	0	0
+a	0	0
+necessity	2	2
+,	NA	NA
+doubtless	2	2
+;	NA	NA
+but	1	0
+what	0	0
+a	0	0
+pity	1	2
+!	NA	NA

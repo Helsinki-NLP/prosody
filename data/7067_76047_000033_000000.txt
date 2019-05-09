@@ -1,0 +1,4 @@
+You	0	0
+know	1	1
+that	2	2
+?	NA	NA

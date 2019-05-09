@@ -1,0 +1,14 @@
+In	0	0
+an	0	0
+American	2	0
+watch	1	0
+factory	1	2
+one	2	0
+man	0	0
+tends	0	1
+twelve	2	0
+or	0	1
+fifteen	0	0
+automatic	0	1
+machines	2	2
+.	NA	NA

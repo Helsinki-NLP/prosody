@@ -1,0 +1,17 @@
+He	0	0
+laid	2	0
+the	0	0
+revolver	2	0
+ready	0	0
+to	0	0
+his	0	1
+hand	2	2
+upon	2	0
+the	0	0
+piece	1	0
+of	0	1
+furniture	2	0
+he	0	0
+was	0	1
+examining	2	2
+.	NA	NA

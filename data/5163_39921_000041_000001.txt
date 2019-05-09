@@ -1,0 +1,14 @@
+His	0	0
+eyes	2	0
+had	0	1
+lost	1	1
+their	0	0
+unconcerned	1	0
+glitter	1	2
+,	NA	NA
+but	0	0
+his	1	0
+voice	2	0
+was	0	1
+defiant	2	2
+.	NA	NA

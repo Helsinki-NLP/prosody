@@ -1,0 +1,14 @@
+Bring	2	0
+me	0	0
+your	1	0
+shirt	0	0
+on	0	1
+Saturday	2	2
+,	NA	NA
+and	0	0
+I'll	0	0
+wash	2	0
+it	0	1
+for	0	0
+you	1	2
+.	NA	NA

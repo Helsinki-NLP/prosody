@@ -1,0 +1,13 @@
+Then	2	0
+there	0	0
+was	0	0
+a	0	1
+great	1	0
+scrambling	2	0
+and	0	2
+the	0	0
+Crickets	1	0
+frolicked	2	1
+with	0	0
+them	1	2
+.	NA	NA

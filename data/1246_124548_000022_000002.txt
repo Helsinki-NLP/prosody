@@ -1,0 +1,11 @@
+How	2	0
+does	0	1
+the	0	0
+poor	1	0
+fish	1	0
+know	2	2
+?	NA	NA
+'	NA	NA
+says	2	0
+they	1	2
+.	NA	NA

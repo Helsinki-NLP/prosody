@@ -1,0 +1,17 @@
+Oh	2	1
+,	NA	NA
+well	2	2
+,	NA	NA
+said	2	0
+Nora	0	1
+laughing	2	2
+,	NA	NA
+the	0	0
+whole	2	0
+thing	0	1
+is	0	0
+not	0	0
+worth	0	1
+quarreling	1	0
+about	2	2
+.	NA	NA

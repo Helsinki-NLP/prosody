@@ -1,0 +1,7 @@
+Alice	2	1
+Greggory	1	1
+turned	1	0
+as	0	0
+if	0	1
+stung	2	2
+.	NA	NA

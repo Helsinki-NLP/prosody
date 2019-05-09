@@ -1,0 +1,8 @@
+He	0	0
+fled	2	0
+from	0	1
+Beaufort	1	0
+,	NA	NA
+North	0	1
+Carolina	1	2
+.	NA	NA

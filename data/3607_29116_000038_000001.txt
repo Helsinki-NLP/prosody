@@ -1,0 +1,14 @@
+I	0	0
+meant	1	0
+nothing	1	2
+,	NA	NA
+Balloon	2	0
+talks	1	1
+a	0	0
+little	0	0
+freely	0	0
+sometimes	0	1
+,	NA	NA
+with	0	0
+men	2	2
+.	NA	NA

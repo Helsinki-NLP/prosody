@@ -1,0 +1,5 @@
+He	0	0
+noted	1	1
+two	0	0
+Chinamen	2	2
+.	NA	NA

@@ -1,0 +1,8 @@
+I	2	0
+always	0	1
+give	0	0
+myself	1	0
+a	0	1
+Christmas	0	0
+present	2	2
+.	NA	NA

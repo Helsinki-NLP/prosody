@@ -1,0 +1,9 @@
+Throw	1	0
+it	0	0
+among	0	0
+them	0	1
+quickly	1	2
+!	NA	NA
+cried	0	0
+she	2	2
+.	NA	NA

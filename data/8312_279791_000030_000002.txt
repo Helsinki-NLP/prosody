@@ -1,0 +1,13 @@
+The	0	0
+enchanter	1	0
+found	0	1
+this	0	0
+bride	1	1
+so	2	0
+ugly	0	2
+that	0	0
+he	0	0
+could	0	0
+not	1	0
+advise	2	2
+.	NA	NA

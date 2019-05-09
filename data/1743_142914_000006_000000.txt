@@ -1,0 +1,10 @@
+I	0	0
+didn't	1	0
+mean	0	0
+to	0	1
+scare	1	0
+him	0	1
+,	NA	NA
+apologized	1	1
+peter	2	2
+.	NA	NA

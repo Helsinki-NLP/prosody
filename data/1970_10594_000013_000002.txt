@@ -1,0 +1,4 @@
+I	0	0
+waited	2	1
+respectfully	1	2
+.	NA	NA

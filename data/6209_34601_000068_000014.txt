@@ -1,0 +1,4 @@
+Tear	1	0
+and	0	1
+crunch	1	2
+!	NA	NA

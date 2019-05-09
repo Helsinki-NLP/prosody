@@ -1,0 +1,15 @@
+'What	2	2
+!	NA	NA
+have	0	0
+you	0	0
+dropped	2	0
+your	0	0
+shot	1	1
+flask	1	1
+too	2	2
+?	NA	NA
+'	NA	NA
+asked	1	1
+the	0	0
+boy	2	2
+.	NA	NA

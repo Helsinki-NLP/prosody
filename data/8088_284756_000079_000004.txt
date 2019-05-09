@@ -1,0 +1,3 @@
+Like	1	0
+this	1	2
+.	NA	NA

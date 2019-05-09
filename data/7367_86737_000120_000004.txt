@@ -1,0 +1,9 @@
+But	1	0
+nothing	2	0
+could	0	1
+be	0	0
+farther	2	0
+from	0	1
+his	0	0
+thoughts	1	2
+.	NA	NA

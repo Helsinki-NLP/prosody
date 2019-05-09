@@ -1,0 +1,4 @@
+I	1	0
+am	0	1
+right	2	2
+.	NA	NA

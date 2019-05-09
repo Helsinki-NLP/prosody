@@ -1,0 +1,16 @@
+They	0	0
+must	2	0
+have	0	2
+fixed	1	0
+up	0	0
+a	0	1
+lot	2	0
+of	0	0
+ammunition	1	1
+that	0	0
+way	1	1
+before	1	0
+they	0	0
+tackled	0	0
+us	2	2
+.	NA	NA

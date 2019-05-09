@@ -1,0 +1,13 @@
+Only	2	0
+the	0	1
+bravest	2	0
+and	0	1
+the	0	0
+luckiest	1	1
+men	0	0
+come	0	0
+here	1	2
+,	NA	NA
+Eric	1	0
+said	2	2
+.	NA	NA

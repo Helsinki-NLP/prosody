@@ -1,0 +1,16 @@
+This	2	0
+resulted	1	1
+from	0	0
+the	0	0
+fact	2	1
+that	0	0
+George	1	0
+the	0	1
+third	2	1
+.	NA	NA
+had	0	0
+not	0	0
+yet	0	0
+been	0	1
+born	2	2
+.	NA	NA

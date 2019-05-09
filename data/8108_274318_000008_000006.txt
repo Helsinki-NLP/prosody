@@ -1,0 +1,12 @@
+He	0	0
+felt	1	0
+lost	1	2
+,	NA	NA
+shelterless	2	1
+in	0	0
+the	0	0
+depths	2	0
+of	0	1
+his	0	0
+soul	1	2
+.	NA	NA

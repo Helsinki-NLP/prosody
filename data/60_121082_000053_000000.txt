@@ -1,0 +1,7 @@
+Well	2	1
+,	NA	NA
+what	1	0
+do	0	0
+you	0	0
+want	2	2
+?	NA	NA

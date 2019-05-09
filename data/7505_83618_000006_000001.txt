@@ -1,0 +1,11 @@
+Who	1	0
+shall	0	0
+say	2	0
+that	0	1
+his	0	0
+instinct	1	1
+led	1	0
+him	0	1
+here	0	0
+astray	2	2
+?	NA	NA

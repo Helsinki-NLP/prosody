@@ -1,0 +1,9 @@
+I	2	1
+thought	1	0
+you	0	0
+would	0	1
+be	0	0
+interested	1	1
+in	0	0
+it	1	2
+.	NA	NA

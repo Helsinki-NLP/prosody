@@ -1,0 +1,8 @@
+three	2	0
+million	0	1
+francs	2	1
+!	NA	NA
+I	1	0
+went	0	0
+on	1	2
+.	NA	NA

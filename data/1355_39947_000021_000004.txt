@@ -1,0 +1,15 @@
+Here	2	0
+is	0	1
+the	0	0
+place	2	1
+where	0	0
+imagination	1	0
+in	0	1
+play	2	0
+and	0	1
+later	1	0
+in	0	0
+art	2	2
+come	2	0
+in	0	2
+.	NA	NA

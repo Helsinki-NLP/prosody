@@ -1,0 +1,15 @@
+The	1	0
+deeps	2	0
+within	1	0
+were	0	1
+too	1	0
+troubled	2	2
+for	0	0
+healing	0	1
+power	2	0
+to	0	1
+come	0	0
+out	1	0
+of	0	1
+them	1	2
+.	NA	NA

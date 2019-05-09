@@ -1,0 +1,9 @@
+Goodbye	2	0
+,	NA	NA
+you	0	0
+old	1	1
+,	NA	NA
+gnarled	1	0
+Oak	0	1
+Trees	1	2
+!	NA	NA

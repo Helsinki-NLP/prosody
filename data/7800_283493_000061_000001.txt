@@ -1,0 +1,13 @@
+Why	2	0
+,	NA	NA
+I	0	1
+warrant	2	0
+you	0	2
+can	0	0
+see	0	0
+every	1	0
+hair	1	0
+on	0	1
+his	0	0
+head	1	2
+.	NA	NA

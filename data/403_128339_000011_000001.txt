@@ -1,0 +1,14 @@
+It	1	0
+was	0	0
+nothing	1	2
+that	1	0
+the	0	0
+decree	1	0
+bore	0	0
+date	2	1
+since	0	0
+his	0	0
+return	0	0
+to	0	1
+France	1	2
+.	NA	NA

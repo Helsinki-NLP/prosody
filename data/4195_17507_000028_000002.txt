@@ -1,0 +1,11 @@
+So	2	0
+I	2	0
+leave	0	1
+him	0	0
+home	1	1
+,	NA	NA
+for	0	0
+I	0	0
+am	0	1
+kind	2	2
+.	NA	NA

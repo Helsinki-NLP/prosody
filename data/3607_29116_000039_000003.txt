@@ -1,0 +1,7 @@
+That's	2	0
+good	0	1
+economy	2	1
+,	NA	NA
+isn't	0	0
+it	1	2
+?	NA	NA

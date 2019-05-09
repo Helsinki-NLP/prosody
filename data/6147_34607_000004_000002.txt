@@ -1,0 +1,9 @@
+But	1	0
+she	0	0
+would	0	0
+have	0	1
+left	2	0
+him	0	0
+a	0	1
+god	2	2
+.	NA	NA

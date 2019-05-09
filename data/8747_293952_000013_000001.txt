@@ -1,0 +1,7 @@
+Alice	1	1
+has	0	0
+such	1	0
+a	0	1
+tender	0	0
+heart	2	2
+.	NA	NA

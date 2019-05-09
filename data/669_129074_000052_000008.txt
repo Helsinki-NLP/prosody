@@ -1,0 +1,14 @@
+Of	1	0
+course	2	0
+he	0	1
+would	0	0
+come	1	2
+;	NA	NA
+what	2	0
+could	1	0
+he	0	0
+do	0	0
+else	1	1
+but	0	0
+come	1	2
+?	NA	NA

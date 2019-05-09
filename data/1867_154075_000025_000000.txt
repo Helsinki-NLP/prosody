@@ -1,0 +1,8 @@
+Go	0	0
+on	2	2
+,	NA	NA
+the	0	0
+leader	0	0
+was	0	1
+repeating	1	2
+.	NA	NA

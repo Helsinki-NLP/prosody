@@ -1,0 +1,5 @@
+I	0	0
+am	0	0
+so	1	1
+glad	2	2
+.	NA	NA

@@ -1,0 +1,8 @@
+Have	2	1
+the	0	0
+weeds	2	1
+destroyed	1	1
+the	0	0
+good	0	0
+seed	2	2
+?	NA	NA

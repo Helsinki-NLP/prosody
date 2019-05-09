@@ -1,0 +1,12 @@
+In	1	0
+very	2	0
+good	0	1
+health	1	2
+,	NA	NA
+and	1	0
+appears	2	0
+resigned	0	1
+to	0	0
+her	0	0
+loss	1	2
+.	NA	NA

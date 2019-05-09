@@ -1,0 +1,14 @@
+As	2	0
+it	0	0
+was	0	0
+,	NA	NA
+she	0	1
+scarcely	2	1
+took	0	0
+in	0	0
+the	0	1
+sense	2	0
+of	0	1
+his	0	0
+words	2	2
+.	NA	NA

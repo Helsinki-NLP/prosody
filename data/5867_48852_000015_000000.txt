@@ -1,0 +1,12 @@
+No	1	0
+,	NA	NA
+mamma	0	1
+,	NA	NA
+no	2	2
+;	NA	NA
+what	2	0
+good	0	0
+can	0	0
+it	0	0
+do	1	2
+?	NA	NA

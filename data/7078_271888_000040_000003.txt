@@ -1,0 +1,10 @@
+Is	2	1
+that	2	1
+the	0	0
+way	1	0
+a	0	1
+woman	0	0
+shows	2	0
+her	0	1
+affection	2	2
+?	NA	NA

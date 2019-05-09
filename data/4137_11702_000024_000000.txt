@@ -1,0 +1,11 @@
+Do	2	1
+tell	1	0
+me	0	2
+,	NA	NA
+did	0	0
+the	0	0
+King	0	0
+of	0	0
+Barodia	1	1
+apologise	2	2
+?	NA	NA

@@ -1,0 +1,9 @@
+That	1	0
+is	0	0
+why	1	0
+I	0	1
+said	2	0
+we	0	1
+must	2	1
+wait	2	2
+.	NA	NA

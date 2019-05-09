@@ -1,0 +1,10 @@
+He	0	0
+was	0	0
+all	1	0
+the	0	0
+more	1	0
+furious	1	2
+,	NA	NA
+because	1	1
+despairing	2	2
+.	NA	NA

@@ -1,0 +1,5 @@
+It	0	0
+is	1	0
+a	0	1
+protection	2	2
+.	NA	NA

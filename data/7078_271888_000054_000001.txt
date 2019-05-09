@@ -1,0 +1,11 @@
+But	2	0
+I	0	1
+cannot	2	1
+promise	2	2
+that	1	0
+I	0	0
+will	0	1
+never	1	0
+tell	0	0
+him	1	2
+.	NA	NA

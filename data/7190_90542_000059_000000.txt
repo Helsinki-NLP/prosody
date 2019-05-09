@@ -1,0 +1,9 @@
+The	0	0
+coachman	2	1
+pocketed	2	1
+his	0	0
+money	1	0
+and	0	1
+drove	0	0
+away	2	2
+.	NA	NA

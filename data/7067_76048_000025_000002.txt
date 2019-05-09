@@ -1,0 +1,15 @@
+Its	1	1
+delight	2	0
+was	1	1
+particularly	1	0
+manifest	1	2
+in	0	0
+the	0	0
+cream	1	0
+and	0	1
+salad	2	0
+it	0	1
+produced	0	0
+for	0	0
+lunch	2	2
+.	NA	NA

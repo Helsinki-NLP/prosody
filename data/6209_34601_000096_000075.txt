@@ -1,0 +1,6 @@
+But	0	0
+no	2	2
+it	0	0
+is	0	0
+long	1	2
+.	NA	NA

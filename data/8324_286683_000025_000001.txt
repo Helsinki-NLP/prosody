@@ -1,0 +1,10 @@
+Then	2	0
+they	0	0
+kept	0	1
+still	2	2
+and	0	0
+listened	1	0
+to	0	1
+their	0	0
+mother	1	2
+.	NA	NA

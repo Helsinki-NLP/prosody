@@ -1,0 +1,15 @@
+This	2	0
+time	0	1
+he	0	0
+fell	0	0
+face	2	0
+downward	0	0
+on	0	0
+the	0	1
+pavement	1	2
+,	NA	NA
+and	0	0
+moved	2	1
+no	1	0
+more	2	2
+.	NA	NA

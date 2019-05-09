@@ -1,0 +1,3 @@
+A	1	0
+present	1	2
+?	NA	NA

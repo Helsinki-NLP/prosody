@@ -1,0 +1,16 @@
+Whatever	2	0
+appearance	1	0
+of	0	1
+indifference	0	0
+Barkilphedro	1	0
+tried	0	0
+to	0	1
+exhibit	2	2
+,	NA	NA
+his	0	0
+wonder	2	1
+had	0	0
+equalled	0	1
+his	0	0
+joy	2	2
+.	NA	NA

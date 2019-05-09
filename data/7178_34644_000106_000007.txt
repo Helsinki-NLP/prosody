@@ -1,0 +1,11 @@
+You	0	0
+believe	1	0
+yourself	1	0
+a	0	1
+player	2	2
+;	NA	NA
+you	2	0
+are	0	0
+a	0	1
+senator	1	2
+.	NA	NA

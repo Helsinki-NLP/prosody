@@ -1,0 +1,9 @@
+Woman's	2	1
+vanity	2	0
+always	0	1
+betrays	1	0
+itself	0	0
+over	0	0
+her	0	1
+picture	2	2
+.	NA	NA

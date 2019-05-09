@@ -1,0 +1,11 @@
+He	2	0
+is	0	0
+a	0	1
+distinguished	1	0
+army	0	0
+officer	0	2
+and	1	0
+a	0	0
+fine	1	0
+engineer	1	2
+.	NA	NA

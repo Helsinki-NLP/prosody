@@ -1,0 +1,5 @@
+You	2	0
+are	0	0
+very	0	1
+wise	1	2
+.	NA	NA

@@ -1,0 +1,12 @@
+Merriwig	2	1
+looked	0	0
+round	1	0
+him	0	2
+to	0	0
+see	1	0
+that	0	0
+there	0	0
+were	0	0
+no	1	1
+eavesdroppers	1	2
+.	NA	NA

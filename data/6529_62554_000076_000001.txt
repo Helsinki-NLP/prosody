@@ -1,0 +1,12 @@
+No	1	0
+doubt	2	1
+because	2	0
+it	0	1
+was	0	0
+not	1	0
+their	1	0
+interest	0	1
+to	0	0
+do	2	0
+it	0	2
+.	NA	NA

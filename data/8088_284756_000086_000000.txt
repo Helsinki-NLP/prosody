@@ -1,0 +1,6 @@
+It	0	0
+worked	2	1
+!	NA	NA
+he	0	0
+cried	2	2
+.	NA	NA

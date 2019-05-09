@@ -1,0 +1,9 @@
+'Course	2	0
+it's	0	1
+cold	2	1
+!	NA	NA
+I	0	0
+answered	0	0
+,	NA	NA
+acridly	1	2
+.	NA	NA

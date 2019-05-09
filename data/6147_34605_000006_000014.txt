@@ -1,0 +1,6 @@
+She	0	0
+usurped	2	1
+rather	1	0
+than	0	1
+charmed	2	2
+.	NA	NA

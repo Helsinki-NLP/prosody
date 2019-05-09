@@ -1,0 +1,10 @@
+Perhaps	2	0
+we	0	1
+can	0	0
+find	2	1
+play	2	1
+for	0	0
+them	0	0
+in	0	0
+Iceland	1	2
+.	NA	NA

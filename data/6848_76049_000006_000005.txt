@@ -1,0 +1,11 @@
+If	0	1
+there	1	0
+had	0	0
+been	0	0
+any	0	0
+talk	2	2
+that	2	1
+fact	2	1
+answered	2	0
+it	0	2
+.	NA	NA

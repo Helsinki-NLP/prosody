@@ -1,0 +1,7 @@
+Which	0	0
+so	1	0
+attracts	1	1
+you	0	0
+in	0	1
+her	2	2
+.	NA	NA

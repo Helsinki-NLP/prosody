@@ -1,0 +1,8 @@
+Your	0	0
+women	2	0
+are	0	0
+inevitably	0	1
+false	2	1
+and	0	0
+fickle	2	2
+.	NA	NA

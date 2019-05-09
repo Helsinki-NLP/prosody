@@ -1,0 +1,11 @@
+Skaggsy	2	1
+looked	1	0
+at	0	1
+them	1	1
+regretfully	2	2
+as	1	0
+he	0	0
+sipped	0	0
+his	0	0
+liquor	2	2
+.	NA	NA

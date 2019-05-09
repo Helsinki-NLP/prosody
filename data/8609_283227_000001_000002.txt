@@ -1,0 +1,12 @@
+I	0	0
+had	2	1
+,	NA	NA
+therefore	0	0
+,	NA	NA
+to	0	0
+suffer	2	2
+,	NA	NA
+as	2	0
+was	0	0
+just	0	2
+.	NA	NA

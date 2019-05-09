@@ -1,0 +1,16 @@
+Men	2	0
+lived	0	0
+in	0	1
+a	0	0
+state	1	0
+of	0	1
+communism	2	2
+;	NA	NA
+whether	1	0
+positive	2	1
+or	0	0
+negative	0	0
+it	0	0
+matters	1	1
+little	1	2
+.	NA	NA

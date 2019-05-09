@@ -1,0 +1,7 @@
+Come	0	0
+up	2	2
+and	0	0
+speak	1	0
+with	0	0
+me	1	2
+.	NA	NA

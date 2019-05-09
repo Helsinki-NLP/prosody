@@ -1,0 +1,10 @@
+Well	2	0
+,	NA	NA
+it's	0	1
+too	1	0
+,	NA	NA
+too	0	1
+splendid	1	1
+for	0	0
+anything	0	2
+.	NA	NA

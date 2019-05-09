@@ -1,0 +1,6 @@
+And	0	0
+yet	1	0
+it	0	1
+must	1	1
+be	2	2
+.	NA	NA

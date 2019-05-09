@@ -1,0 +1,8 @@
+Even	1	0
+after	0	1
+Charles's	1	1
+accession	1	2
+he	0	0
+despaired	2	0
+not	0	2
+.	NA	NA

@@ -1,0 +1,8 @@
+I	0	0
+will	2	1
+visit	1	1
+my	0	0
+friends	1	1
+in	0	0
+Iceland	2	2
+.	NA	NA

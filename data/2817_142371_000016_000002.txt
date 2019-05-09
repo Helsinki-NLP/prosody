@@ -1,0 +1,7 @@
+I	0	0
+must	2	0
+have	0	1
+your	0	0
+opinion	0	0
+too	2	2
+.	NA	NA

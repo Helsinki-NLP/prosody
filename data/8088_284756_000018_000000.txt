@@ -1,0 +1,8 @@
+Fine	2	1
+,	NA	NA
+Taylor	2	2
+!	NA	NA
+he	0	0
+greeted	1	0
+me	0	2
+.	NA	NA

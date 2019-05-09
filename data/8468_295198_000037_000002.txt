@@ -1,0 +1,5 @@
+Just	0	1
+try	2	0
+the	0	1
+scales	2	2
+.	NA	NA

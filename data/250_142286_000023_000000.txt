@@ -1,0 +1,5 @@
+mr	0	0
+Thornton	2	1
+looked	0	1
+annoyed	2	2
+.	NA	NA

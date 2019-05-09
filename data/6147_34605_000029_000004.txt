@@ -1,0 +1,11 @@
+Gallantry	2	1
+found	1	0
+its	0	1
+convenience	1	1
+in	0	0
+a	0	0
+certain	2	0
+medley	2	1
+of	0	0
+ranks	1	2
+.	NA	NA

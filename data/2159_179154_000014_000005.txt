@@ -1,0 +1,11 @@
+He	0	1
+sarcastically	2	0
+asked	1	0
+him	0	1
+if	0	0
+he	1	2
+didn't	1	0
+want	1	1
+the	0	0
+earth	2	2
+.	NA	NA

@@ -1,0 +1,6 @@
+Did	1	0
+they	2	0
+hate	0	1
+each	0	0
+other	1	2
+?	NA	NA

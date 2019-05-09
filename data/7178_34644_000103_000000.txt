@@ -1,0 +1,9 @@
+A	0	0
+man	2	1
+came	0	0
+out	0	1
+from	0	0
+behind	1	0
+the	0	1
+pillars	2	2
+.	NA	NA

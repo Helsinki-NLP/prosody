@@ -1,0 +1,14 @@
+Ah	2	1
+,	NA	NA
+now	1	1
+,	NA	NA
+that	2	0
+would	0	1
+be	0	0
+telling	2	1
+!	1	0
+Deasey	NA	NA
+would	0	0
+make	0	0
+reply	2	2
+.	NA	NA

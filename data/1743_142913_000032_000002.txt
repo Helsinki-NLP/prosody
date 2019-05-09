@@ -1,0 +1,9 @@
+One	2	0
+is	0	1
+all	2	0
+I	1	0
+can	0	1
+take	0	1
+care	0	0
+of	1	2
+.	NA	NA

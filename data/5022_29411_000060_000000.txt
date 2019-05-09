@@ -1,0 +1,11 @@
+Was	2	0
+this	2	1
+the	0	0
+dear	1	0
+Cristel	0	1
+so	1	0
+well	0	0
+known	0	1
+to	0	0
+me	2	2
+?	NA	NA

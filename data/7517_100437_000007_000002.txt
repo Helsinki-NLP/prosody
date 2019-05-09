@@ -1,0 +1,13 @@
+Usually	2	2
+I	1	0
+speak	0	0
+about	1	0
+it	0	1
+at	0	0
+my	0	0
+first	1	0
+meeting	1	0
+with	0	1
+a	0	0
+stranger	1	2
+.	NA	NA

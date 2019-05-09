@@ -1,0 +1,17 @@
+That	0	0
+child	2	0
+was	0	1
+brought	2	0
+up	0	2
+,	NA	NA
+and	1	0
+trained	2	1
+to	0	0
+be	0	0
+a	0	0
+mountebank	1	2
+at	1	0
+markets	1	0
+and	0	1
+fairs	1	2
+.	NA	NA

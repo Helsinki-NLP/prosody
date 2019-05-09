@@ -1,0 +1,7 @@
+You	0	1
+have	1	0
+noticed	2	0
+it	0	1
+,	NA	NA
+then	1	2
+?	NA	NA

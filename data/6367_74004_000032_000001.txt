@@ -1,0 +1,13 @@
+He	2	0
+asserts	1	1
+that	0	0
+Sylvia	2	0
+turned	0	1
+square	1	0
+around	2	1
+and	0	0
+kissed	2	1
+the	0	0
+Old	0	1
+Fellow	2	2
+.	NA	NA

@@ -1,0 +1,17 @@
+Tell	2	0
+me	0	1
+,	0	0
+mr	NA	NA
+john	1	2
+,	NA	NA
+did	0	0
+you	0	0
+give	2	0
+it	0	0
+him	0	1
+well	1	0
+when	0	1
+you	0	0
+got	2	0
+him	0	2
+?	NA	NA

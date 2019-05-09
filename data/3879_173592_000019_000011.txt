@@ -1,0 +1,12 @@
+Put	2	0
+them	0	0
+out	2	2
+,	NA	NA
+and	0	0
+they	1	0
+will	0	0
+bring	1	0
+the	0	1
+corn	1	1
+faster	1	2
+.	NA	NA

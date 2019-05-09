@@ -1,0 +1,12 @@
+These	2	0
+boys	1	0
+were	0	0
+named	0	1
+james	1	0
+McNeill	2	2
+,	NA	NA
+William	2	1
+,	NA	NA
+and	0	0
+Charles	1	2
+.	NA	NA

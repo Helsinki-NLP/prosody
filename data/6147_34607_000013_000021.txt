@@ -1,0 +1,12 @@
+Queen	1	0
+Anne	2	0
+,	NA	NA
+as	0	1
+we	0	0
+have	0	0
+just	0	1
+observed	2	1
+,	NA	NA
+was	0	0
+popular	2	2
+.	NA	NA

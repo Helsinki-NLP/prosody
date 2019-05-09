@@ -1,0 +1,10 @@
+How	1	0
+funny	1	1
+you	0	0
+are	1	1
+,	NA	NA
+Edith	2	2
+,	NA	NA
+said	0	0
+Belle	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+However	2	0
+I	0	1
+hope	2	1
+we	0	0
+will	0	0
+not	0	1
+have	2	1
+to	1	2
+.	NA	NA

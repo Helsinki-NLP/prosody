@@ -1,0 +1,5 @@
+I've	1	0
+been	0	0
+chasing	1	1
+you	2	2
+.	NA	NA

@@ -1,0 +1,10 @@
+You	0	0
+must	1	0
+employ	0	0
+energy	1	2
+,	NA	NA
+but	0	0
+more	1	0
+particularly	1	1
+resignation	1	2
+.	NA	NA

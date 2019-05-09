@@ -1,0 +1,16 @@
+And	1	0
+mrs	0	1
+Charley	1	0
+knows	0	0
+it	0	1
+too	0	0
+,	NA	NA
+although	0	0
+she	0	0
+can't	1	1
+prove	1	0
+it	0	2
+more's	2	1
+the	0	0
+pity	2	2
+!	NA	NA

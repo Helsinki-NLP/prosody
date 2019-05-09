@@ -1,0 +1,8 @@
+No	0	0
+doubt	2	0
+my	0	2
+appearance	2	1
+was	0	0
+against	0	0
+me	1	2
+.	NA	NA

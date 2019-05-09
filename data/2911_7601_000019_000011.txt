@@ -1,0 +1,6 @@
+It	0	0
+grew	0	0
+louder	1	1
+louder	1	1
+louder	2	2
+!	NA	NA

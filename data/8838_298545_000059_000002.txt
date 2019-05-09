@@ -1,0 +1,7 @@
+He'll	0	0
+do	0	0
+yet	2	2
+!	NA	NA
+cried	2	0
+Purvis	0	2
+.	NA	NA

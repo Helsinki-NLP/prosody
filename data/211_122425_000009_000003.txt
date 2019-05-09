@@ -1,0 +1,4 @@
+Justice	2	1
+before	0	0
+everything	1	2
+.	NA	NA

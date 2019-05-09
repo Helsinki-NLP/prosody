@@ -1,0 +1,10 @@
+Bibbs	2	2
+,	NA	NA
+do	1	0
+you	0	0
+want	1	1
+me	0	0
+to	0	0
+marry	0	0
+you	2	2
+?	NA	NA

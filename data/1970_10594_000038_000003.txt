@@ -1,0 +1,11 @@
+But	2	1
+this	2	0
+has	0	1
+been	2	0
+in	0	0
+my	0	1
+pocket	2	1
+for	0	0
+six	1	1
+years	2	2
+.	NA	NA

@@ -1,0 +1,17 @@
+On	1	0
+the	0	1
+threshold	2	0
+of	0	1
+wedding	1	0
+nights	0	2
+stands	2	0
+a	0	1
+smiling	2	0
+angel	0	2
+with	1	0
+his	0	0
+finger	2	0
+on	0	0
+his	0	1
+lips	2	2
+.	NA	NA

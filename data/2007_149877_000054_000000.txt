@@ -1,0 +1,15 @@
+You	0	0
+haven't	2	0
+anything	0	1
+on	0	0
+hand	1	1
+for	0	0
+the	0	0
+night	2	0
+,	NA	NA
+have	0	0
+you	1	2
+?	NA	NA
+added	2	0
+Hurstwood	1	2
+.	NA	NA

@@ -1,0 +1,13 @@
+Smells	2	0
+as	0	0
+if	0	1
+the	0	0
+woods	1	0
+were	0	0
+on	0	1
+fire	2	1
+somewhere	1	2
+,	NA	NA
+hinted	0	0
+Pod	2	2
+.	NA	NA

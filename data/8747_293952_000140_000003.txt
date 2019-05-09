@@ -1,0 +1,6 @@
+Miss	1	1
+Berengaria	1	0
+turned	1	1
+to	0	0
+Beryl	2	2
+.	NA	NA

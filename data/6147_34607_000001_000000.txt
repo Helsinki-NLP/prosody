@@ -1,0 +1,3 @@
+QUEEN	1	0
+ANNE	1	2
+.	NA	NA

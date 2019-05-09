@@ -1,0 +1,7 @@
+Eat	1	0
+away	1	0
+,	NA	NA
+hell	0	0
+born	0	2
+boy	2	2
+!	NA	NA

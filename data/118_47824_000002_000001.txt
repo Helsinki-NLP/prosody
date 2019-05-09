@@ -1,0 +1,11 @@
+He	0	0
+lay	2	0
+there	0	1
+still	0	0
+shivering	1	2
+,	NA	NA
+beneath	1	1
+the	0	0
+heavy	1	0
+blankets	1	2
+.	NA	NA

@@ -1,0 +1,10 @@
+The	0	0
+counters	2	1
+were	0	0
+in	0	0
+a	0	1
+heap	2	2
+,	NA	NA
+I	1	0
+said	1	2
+.	NA	NA

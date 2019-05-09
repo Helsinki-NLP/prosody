@@ -1,0 +1,4 @@
+They	1	0
+did	2	1
+so	1	2
+.	NA	NA

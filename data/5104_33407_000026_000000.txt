@@ -1,0 +1,13 @@
+Let	2	0
+this	0	0
+gift	1	1
+show	0	0
+my	0	0
+love	2	1
+,	NA	NA
+Leif	0	0
+Ericsson	1	2
+,	NA	NA
+he	0	0
+said	2	2
+.	NA	NA

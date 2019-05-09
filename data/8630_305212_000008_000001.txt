@@ -1,0 +1,15 @@
+The	0	0
+sum	2	1
+required	2	1
+was	0	0
+offered	2	1
+with	0	0
+such	2	0
+delicacy	1	1
+that	0	0
+it	0	0
+could	0	0
+not	2	0
+be	0	1
+declined	2	2
+.	NA	NA

@@ -1,0 +1,6 @@
+This	0	0
+shot	2	2
+still	1	0
+betokened	0	0
+life	0	2
+.	NA	NA

@@ -1,0 +1,8 @@
+The	0	0
+landing	2	2
+stair	1	0
+was	0	0
+full	0	0
+of	0	1
+people	1	2
+.	NA	NA

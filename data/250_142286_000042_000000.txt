@@ -1,0 +1,6 @@
+'London	0	0
+and	1	2
+the	1	0
+Alhambra	1	2
+!	NA	NA
+'	NA	NA

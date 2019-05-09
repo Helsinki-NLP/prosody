@@ -1,0 +1,8 @@
+mrs	0	0
+Spencer	1	0
+says	0	2
+oh	2	0
+,	0	1
+mr	NA	NA
+Cuthbert	1	2
+!	NA	NA

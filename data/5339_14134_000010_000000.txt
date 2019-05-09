@@ -1,0 +1,13 @@
+It	1	0
+was	0	0
+apparently	2	1
+by	0	0
+john	1	1
+Foster's	1	1
+wish	1	1
+that	0	0
+Philip	2	0
+had	0	1
+been	0	0
+summoned	2	2
+.	NA	NA

@@ -1,0 +1,10 @@
+These	2	0
+thoughts	2	1
+held	1	0
+my	0	1
+attention	1	1
+all	1	0
+the	0	0
+way	0	0
+out	2	2
+.	NA	NA

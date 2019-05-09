@@ -1,0 +1,7 @@
+Come	1	2
+,	NA	NA
+who	2	1
+is	1	0
+my	0	0
+father	1	2
+?	NA	NA

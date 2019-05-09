@@ -1,0 +1,12 @@
+Nor	2	0
+was	0	0
+I	0	1
+greatly	0	1
+astonished	2	0
+at	1	1
+the	0	0
+nature	1	0
+of	0	0
+his	0	1
+decision	1	2
+.	NA	NA

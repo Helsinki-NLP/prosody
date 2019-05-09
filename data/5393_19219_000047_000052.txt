@@ -1,0 +1,5 @@
+That	2	0
+brute	0	0
+beast	0	1
+submits	1	2
+.	NA	NA

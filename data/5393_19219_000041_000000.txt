@@ -1,0 +1,8 @@
+Do	0	0
+you	0	0
+know	2	0
+where	0	0
+m	0	1
+Fauchelevent	1	1
+is	2	2
+?	NA	NA

@@ -1,0 +1,13 @@
+How	2	1
+you	0	0
+got	0	0
+aboard	1	2
+,	NA	NA
+and	0	0
+what	1	0
+your	0	1
+object	2	1
+was	1	1
+in	0	0
+coming	2	2
+.	NA	NA

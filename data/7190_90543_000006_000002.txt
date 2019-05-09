@@ -1,0 +1,12 @@
+A	1	0
+safe	2	1
+which	0	0
+stood	1	0
+in	0	0
+a	0	1
+corner	2	0
+had	0	2
+been	0	0
+broken	2	0
+open	1	2
+.	NA	NA

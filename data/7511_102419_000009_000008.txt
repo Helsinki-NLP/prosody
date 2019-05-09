@@ -1,0 +1,13 @@
+We	0	0
+were	0	0
+very	2	0
+comfortably	0	0
+situated	0	2
+,	NA	NA
+and	2	0
+in	0	0
+time	1	2
+became	2	0
+really	0	0
+happy	1	2
+.	NA	NA

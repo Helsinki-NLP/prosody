@@ -1,0 +1,12 @@
+Bolingbroke	2	0
+was	0	1
+in	0	0
+his	0	0
+meridian	1	2
+,	NA	NA
+and	0	0
+Richelieu	2	0
+in	0	1
+his	0	0
+dawn	2	2
+.	NA	NA

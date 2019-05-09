@@ -1,0 +1,7 @@
+What	1	0
+is	0	0
+the	0	1
+use	1	0
+of	0	2
+joking	2	2
+?	NA	NA

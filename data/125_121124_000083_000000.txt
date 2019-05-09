@@ -1,0 +1,4 @@
+Yes	1	1
+;	NA	NA
+well	1	2
+?	NA	NA

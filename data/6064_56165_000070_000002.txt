@@ -1,0 +1,8 @@
+Don't	2	1
+let	1	0
+her	0	1
+do	2	0
+it	0	1
+,	NA	NA
+Edith	1	2
+.	NA	NA

@@ -1,0 +1,6 @@
+I	2	0
+was	0	1
+sorry	0	1
+,	NA	NA
+too	2	2
+.	NA	NA

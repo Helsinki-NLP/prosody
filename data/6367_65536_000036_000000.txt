@@ -1,0 +1,13 @@
+Yet	0	0
+you	1	0
+have	0	1
+been	0	0
+a	0	0
+very	1	0
+successful	1	0
+man	1	2
+,	NA	NA
+she	0	0
+said	1	0
+wonderingly	1	2
+.	NA	NA

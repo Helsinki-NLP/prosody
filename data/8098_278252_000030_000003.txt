@@ -1,0 +1,9 @@
+At	1	0
+dusk	2	0
+I	0	1
+had	0	0
+covered	1	0
+only	0	2
+three	1	0
+miles	0	2
+.	NA	NA

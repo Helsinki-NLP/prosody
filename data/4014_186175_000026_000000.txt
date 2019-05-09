@@ -1,0 +1,13 @@
+They	0	0
+were	0	0
+crossing	1	0
+a	0	0
+short	1	0
+gallery	1	2
+when	0	0
+Slim	2	2
+abruptly	2	0
+signaled	0	1
+a	0	0
+halt	2	2
+.	NA	NA

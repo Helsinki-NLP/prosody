@@ -1,0 +1,16 @@
+So	1	0
+he	0	0
+lay	1	0
+and	0	0
+moaned	0	2
+,	NA	NA
+and	1	0
+she	1	0
+sat	1	1
+crushed	1	0
+and	0	1
+speechless	1	0
+with	0	1
+despairing	1	0
+misery	2	2
+.	NA	NA

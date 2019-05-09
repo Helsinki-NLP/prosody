@@ -1,0 +1,6 @@
+Make	2	0
+it	0	1
+the	0	0
+day	0	1
+after	2	2
+.	NA	NA

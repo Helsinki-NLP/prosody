@@ -1,0 +1,12 @@
+Yes	2	1
+,	NA	NA
+yes	2	1
+,	NA	NA
+but	0	0
+child	2	0
+,	NA	NA
+all	0	0
+Congressmen	0	1
+do	0	0
+that	2	2
+.	NA	NA

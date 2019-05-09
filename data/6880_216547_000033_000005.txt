@@ -1,0 +1,13 @@
+The	0	0
+most	2	1
+deserving	2	1
+among	0	0
+us	0	0
+is	0	0
+he	1	1
+who	0	0
+plays	1	0
+best	1	2
+this	1	1
+part	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+The	0	1
+Beeches	0	0
+only	1	0
+laughed	1	2
+and	0	0
+went	0	0
+on	0	0
+growing	2	2
+.	NA	NA

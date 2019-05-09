@@ -1,0 +1,10 @@
+I	2	0
+fancy	0	0
+they	0	0
+wanted	1	0
+it	0	2
+as	0	0
+conspicuous	0	0
+as	0	1
+possible	2	2
+.	NA	NA

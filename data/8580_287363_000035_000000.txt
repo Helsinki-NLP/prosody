@@ -1,0 +1,11 @@
+Getting	1	0
+our	0	0
+wireless	1	0
+apparatus	1	1
+in	0	0
+shape	2	2
+,	NA	NA
+answered	1	0
+the	0	0
+lad	1	2
+.	NA	NA

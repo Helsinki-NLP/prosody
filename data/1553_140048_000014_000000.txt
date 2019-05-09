@@ -1,0 +1,5 @@
+A	0	1
+babe	2	1
+,	NA	NA
+corrected	0	1
+Rebecca	1	2

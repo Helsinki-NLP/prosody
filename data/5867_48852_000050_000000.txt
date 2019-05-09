@@ -1,0 +1,9 @@
+I'll	2	0
+come	0	0
+back	0	1
+with	0	0
+you	2	1
+,	NA	NA
+said	0	0
+Johnny	1	2
+.	NA	NA

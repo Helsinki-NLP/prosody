@@ -1,0 +1,12 @@
+He	2	0
+asked	2	1
+little	0	0
+parties	1	1
+and	0	0
+invented	0	0
+festivities	1	1
+to	0	0
+do	0	0
+her	0	0
+honour	2	2
+.	NA	NA

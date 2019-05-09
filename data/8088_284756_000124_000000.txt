@@ -1,0 +1,7 @@
+I	1	0
+looked	0	0
+down	1	0
+at	0	1
+the	0	1
+girl	2	2
+.	NA	NA

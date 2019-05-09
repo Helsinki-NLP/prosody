@@ -1,0 +1,7 @@
+I	2	0
+stand	0	1
+for	1	1
+the	0	0
+latter	1	1
+plan	1	2
+.	NA	NA

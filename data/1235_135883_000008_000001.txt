@@ -1,0 +1,5 @@
+Allow	1	0
+me	0	1
+one	1	1
+word	2	2
+.	NA	NA

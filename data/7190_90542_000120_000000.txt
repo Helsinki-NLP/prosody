@@ -1,0 +1,17 @@
+I	0	0
+think	0	0
+there	0	0
+would	1	0
+have	0	1
+been	1	0
+other	0	0
+heads	0	1
+missing	2	0
+if	0	1
+he	0	0
+had	2	0
+been	1	2
+,	NA	NA
+Quarles	1	0
+answered	1	2
+.	NA	NA

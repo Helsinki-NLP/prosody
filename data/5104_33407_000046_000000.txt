@@ -1,0 +1,15 @@
+I	0	0
+have	2	0
+not	0	0
+been	0	0
+so	0	0
+very	0	1
+far	2	2
+,	NA	NA
+but	0	0
+I	2	0
+have	0	0
+found	1	0
+something	0	1
+wonderful	2	2
+.	NA	NA

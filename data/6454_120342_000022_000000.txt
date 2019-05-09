@@ -1,0 +1,13 @@
+Kisses	2	1
+flung	2	0
+from	0	0
+the	0	0
+window	2	2
+;	NA	NA
+kisses	2	1
+flung	0	0
+back	1	0
+from	0	0
+the	0	0
+street	2	2
+.	NA	NA

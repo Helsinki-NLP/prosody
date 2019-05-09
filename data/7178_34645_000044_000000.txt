@@ -1,0 +1,15 @@
+The	0	0
+confrontation	2	0
+of	0	1
+Hardquanonne	2	0
+with	0	1
+Gwynplaine	0	0
+had	0	0
+taken	0	0
+place	2	2
+.	2	0
+Barkilphedro	NA	NA
+had	0	1
+been	0	0
+present	2	2
+.	NA	NA

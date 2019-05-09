@@ -1,0 +1,12 @@
+Well	0	0
+,	NA	NA
+that's	1	0
+mr	0	0
+Beaumont	2	1
+,	NA	NA
+said	0	0
+the	0	0
+barmaid	1	2
+,	NA	NA
+anyhow	2	2
+.	NA	NA

@@ -1,0 +1,5 @@
+Exactly	2	1
+,	NA	NA
+I	0	0
+answered	1	2
+.	NA	NA

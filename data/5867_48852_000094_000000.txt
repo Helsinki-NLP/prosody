@@ -1,0 +1,4 @@
+I	2	0
+don't	0	1
+know	0	2
+.	NA	NA

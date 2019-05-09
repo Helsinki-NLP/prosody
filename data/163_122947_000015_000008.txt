@@ -1,0 +1,14 @@
+Is	0	0
+not	1	0
+life	2	0
+a	0	1
+hundred	0	0
+times	1	0
+too	0	1
+short	0	0
+for	2	0
+us	2	2
+to	0	1
+bore	1	0
+ourselves	1	2
+?	NA	NA

@@ -1,0 +1,12 @@
+Did	0	0
+she	2	2
+did	1	0
+she	0	1
+really	1	0
+promise	0	1
+to	0	0
+marry	0	0
+him	0	0
+,	NA	NA
+Ruggles	2	2
+?	NA	NA

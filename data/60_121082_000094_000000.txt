@@ -1,0 +1,8 @@
+Not	1	0
+at	0	1
+all	2	1
+,	NA	NA
+my	0	0
+good	1	0
+friend	1	2
+.	NA	NA

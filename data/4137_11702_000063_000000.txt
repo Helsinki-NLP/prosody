@@ -1,0 +1,13 @@
+And	2	1
+who	0	0
+might	1	1
+Coronel	0	0
+be	1	2
+?	NA	NA
+said	1	0
+the	0	0
+King	1	0
+,	NA	NA
+rather	0	1
+sternly	1	2
+.	NA	NA

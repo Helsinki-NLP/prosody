@@ -1,0 +1,12 @@
+Why	0	0
+,	NA	NA
+Belle	2	0
+,	NA	NA
+I	0	1
+cannot	0	0
+imagine	1	0
+your	0	1
+doing	0	0
+anything	0	1
+else	2	2
+.	NA	NA

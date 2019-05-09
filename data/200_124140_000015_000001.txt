@@ -1,0 +1,7 @@
+It	1	0
+must	2	0
+be	0	0
+an	0	1
+amusing	1	1
+study	2	2
+.	NA	NA

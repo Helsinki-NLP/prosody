@@ -1,0 +1,17 @@
+As	0	0
+all	0	0
+this	2	0
+was	0	1
+being	1	0
+revealed	1	0
+to	0	0
+Philip	1	2
+,	NA	NA
+he	0	0
+sat	2	1
+apparently	1	0
+unmoved	1	1
+and	0	0
+simply	1	0
+attentive	1	2
+.	NA	NA

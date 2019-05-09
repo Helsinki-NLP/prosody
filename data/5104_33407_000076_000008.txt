@@ -1,0 +1,10 @@
+But	1	0
+ill	0	0
+luck	2	2
+came	0	1
+,	NA	NA
+and	0	0
+he	0	0
+grew	0	0
+poor	2	2
+.	NA	NA

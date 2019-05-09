@@ -1,0 +1,13 @@
+It	0	0
+was	0	1
+I	2	1
+who	0	0
+introduced	1	1
+that	1	0
+novelist	1	1
+to	2	0
+it	0	2
+six	2	0
+months	0	0
+before	2	2
+.	NA	NA

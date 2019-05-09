@@ -1,0 +1,12 @@
+Grotesque	2	2
+,	NA	NA
+alien	2	1
+and	0	0
+terrifying	1	2
+,	NA	NA
+it	1	0
+made	0	0
+no	1	0
+hostile	0	0
+move	1	2
+.	NA	NA

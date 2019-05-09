@@ -1,0 +1,12 @@
+I	0	0
+cannot	1	0
+make	0	0
+head	0	0
+against	0	0
+it	1	2
+.	NA	NA
+Out	2	1
+with	0	0
+the	0	0
+oars	2	2
+!	NA	NA

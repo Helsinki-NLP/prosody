@@ -1,0 +1,12 @@
+I	1	0
+have	0	0
+had	2	0
+some	0	1
+small	1	0
+connection	1	0
+with	0	1
+politics	2	1
+and	0	0
+public	0	1
+life	2	2
+.	NA	NA

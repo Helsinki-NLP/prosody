@@ -1,0 +1,6 @@
+But	0	1
+I	0	0
+little	0	1
+knew	2	1
+him	1	2
+!	NA	NA

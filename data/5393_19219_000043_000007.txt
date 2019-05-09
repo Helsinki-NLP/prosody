@@ -1,0 +1,14 @@
+Your	2	0
+aunt	0	2
+will	0	0
+permit	0	0
+it	0	0
+,	NA	NA
+although	0	0
+she	1	0
+has	0	1
+a	0	0
+right	1	1
+to	0	0
+you	2	2
+.	NA	NA

@@ -1,0 +1,10 @@
+He	2	0
+brought	1	0
+news	0	1
+that	0	0
+unknown	0	0
+tortures	0	1
+were	0	0
+going	0	0
+on	2	2
+.	NA	NA

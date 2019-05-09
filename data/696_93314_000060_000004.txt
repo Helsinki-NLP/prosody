@@ -1,0 +1,13 @@
+If	0	1
+you	0	0
+don't	2	0
+have	1	0
+a	0	1
+complete	1	1
+change	2	1
+you'll	0	0
+go	1	0
+all	2	0
+to	0	1
+pieces	1	2
+.	NA	NA

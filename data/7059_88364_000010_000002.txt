@@ -1,0 +1,11 @@
+As	1	0
+an	0	1
+institution	2	1
+it	0	0
+advertises	1	1
+itself	1	0
+with	0	0
+the	0	1
+sweeping	0	0
+gesture	2	2
+.	NA	NA

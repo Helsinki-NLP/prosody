@@ -1,0 +1,4 @@
+About	2	0
+three	0	1
+weeks	0	2
+.	NA	NA

@@ -1,0 +1,6 @@
+Planchet	2	0
+turned	0	0
+to	0	1
+his	0	0
+housekeeper	2	2
+.	NA	NA

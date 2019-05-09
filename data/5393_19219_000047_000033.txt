@@ -1,0 +1,10 @@
+I	2	0
+am	0	0
+no	0	0
+longer	0	0
+Royalist	1	2
+except	1	0
+towards	0	1
+that	1	0
+royalty	1	2
+.	NA	NA

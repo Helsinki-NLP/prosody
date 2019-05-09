@@ -1,0 +1,14 @@
+I	1	0
+had	0	0
+not	0	0
+heard	0	0
+a	0	1
+sound	2	0
+in	0	1
+the	0	0
+house	1	2
+,	NA	NA
+but	1	0
+he	0	0
+had	1	2
+.	NA	NA

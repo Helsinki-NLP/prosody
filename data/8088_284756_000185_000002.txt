@@ -1,0 +1,13 @@
+Her	2	0
+eyes	0	0
+met	0	1
+mine	2	2
+and	1	0
+I	0	0
+knew	0	0
+that	0	0
+I	0	0
+had	0	1
+not	1	1
+misunderstood	2	2
+.	NA	NA

@@ -1,0 +1,5 @@
+About	2	1
+two	0	0
+miles	1	0
+now	0	2
+.	NA	NA

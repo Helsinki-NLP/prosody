@@ -1,0 +1,12 @@
+I	1	0
+observe	0	0
+,	NA	NA
+also	2	0
+,	NA	NA
+that	0	1
+you	0	0
+have	0	0
+turned	1	0
+against	0	1
+potatoes	2	2
+.	NA	NA

@@ -1,0 +1,8 @@
+I've	2	1
+took	2	0
+a	0	1
+fancy	1	1
+to	0	0
+this	0	1
+place	2	2
+.	NA	NA

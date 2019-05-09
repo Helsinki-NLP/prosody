@@ -1,0 +1,15 @@
+One	2	0
+spring	1	1
+after	1	0
+they	0	0
+had	0	1
+been	0	0
+in	0	0
+that	0	0
+land	1	1
+for	0	0
+four	0	0
+years	1	2
+,	NA	NA
+Eric	2	0
+said	1	2

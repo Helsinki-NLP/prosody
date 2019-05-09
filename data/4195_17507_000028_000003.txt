@@ -1,0 +1,12 @@
+I	1	0
+do	0	0
+not	1	0
+wish	0	0
+the	0	2
+signorini	2	1
+bella	1	1
+to	0	0
+tire	1	0
+and	0	0
+weep	2	2
+.	NA	NA

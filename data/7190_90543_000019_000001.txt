@@ -1,0 +1,9 @@
+Did	1	0
+Sir	0	0
+Joseph	0	0
+Maynard	1	1
+burgle	1	0
+his	0	0
+own	0	1
+house	2	2
+?	NA	NA

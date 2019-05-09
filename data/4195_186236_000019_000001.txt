@@ -1,0 +1,12 @@
+We're	0	0
+no	1	0
+worse	0	0
+off	1	2
+than	0	1
+before	2	2
+we	0	0
+came	0	0
+,	NA	NA
+are	0	0
+we	1	2
+?	NA	NA

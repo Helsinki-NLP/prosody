@@ -1,0 +1,16 @@
+I	2	0
+take	1	0
+it	0	1
+kindly	2	0
+,	NA	NA
+said	0	1
+Mrs	1	0
+Carey	1	1
+;	NA	NA
+and	0	0
+so	2	0
+you	0	1
+keep	0	0
+house	1	1
+together	2	2
+!	NA	NA

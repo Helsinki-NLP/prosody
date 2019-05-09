@@ -1,0 +1,11 @@
+At	1	0
+last	2	1
+a	0	0
+sudden	1	0
+change	1	1
+took	0	0
+place	1	1
+in	0	0
+her	0	0
+fortunes	1	2
+.	NA	NA

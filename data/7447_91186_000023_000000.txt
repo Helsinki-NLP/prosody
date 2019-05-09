@@ -1,0 +1,7 @@
+Piano	0	0
+composers	2	1
+and	0	0
+virtuosos	0	1
+rapidly	2	0
+increase	1	2
+.	NA	NA

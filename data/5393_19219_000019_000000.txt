@@ -1,0 +1,12 @@
+Then	2	0
+they	0	1
+returned	0	1
+home	2	2
+to	0	0
+the	1	0
+Rue	1	0
+des	0	0
+Filles	0	0
+du	0	1
+Calvaire	2	2
+.	NA	NA

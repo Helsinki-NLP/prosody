@@ -1,0 +1,15 @@
+It	0	0
+is	2	0
+but	1	0
+an	0	0
+accident	0	1
+of	0	0
+the	0	0
+atmosphere	1	2
+the	0	0
+portent	2	1
+of	0	0
+an	0	0
+approaching	2	1
+storm	2	2
+.	NA	NA

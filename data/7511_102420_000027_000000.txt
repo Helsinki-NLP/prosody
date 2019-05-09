@@ -1,0 +1,11 @@
+mr	2	0
+Murry	0	0
+is	0	1
+an	0	0
+old	1	0
+time	0	0
+acquaintance	2	2
+of	0	0
+mrs	0	0
+O'Shaughnessy's	1	2
+.	NA	NA

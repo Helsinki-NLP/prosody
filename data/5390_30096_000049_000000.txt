@@ -1,0 +1,5 @@
+Yes	2	0
+,	NA	NA
+my	0	1
+dear	1	2
+.	NA	NA

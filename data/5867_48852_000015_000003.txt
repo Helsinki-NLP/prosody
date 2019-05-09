@@ -1,0 +1,5 @@
+I	0	0
+love	2	0
+him	0	1
+dearly	2	2
+.	NA	NA

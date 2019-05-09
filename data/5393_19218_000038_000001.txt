@@ -1,0 +1,8 @@
+In	0	0
+truth	2	1
+,	NA	NA
+this	2	0
+laughter	0	0
+is	0	1
+suspicious	2	2
+.	NA	NA

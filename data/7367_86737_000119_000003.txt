@@ -1,0 +1,8 @@
+Vampa	2	1
+was	0	0
+twelve	2	2
+,	NA	NA
+and	0	0
+Teresa	1	0
+eleven	0	2
+.	NA	NA

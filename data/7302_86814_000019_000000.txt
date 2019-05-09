@@ -1,0 +1,9 @@
+Do	1	0
+you	0	0
+not	0	0
+recognize	1	0
+me	0	1
+,	NA	NA
+unhappy	0	0
+child	2	2
+?	NA	NA

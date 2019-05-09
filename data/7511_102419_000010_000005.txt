@@ -1,0 +1,7 @@
+I	2	0
+want	2	1
+to	0	0
+live	1	1
+here	1	0
+always	0	2
+.	NA	NA

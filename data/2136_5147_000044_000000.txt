@@ -1,0 +1,13 @@
+'I'm	0	1
+glad	1	0
+I	0	0
+was	0	0
+not	1	0
+the	0	1
+first	2	2
+,	NA	NA
+'	NA	NA
+said	2	0
+my	0	0
+father	1	2
+.	NA	NA

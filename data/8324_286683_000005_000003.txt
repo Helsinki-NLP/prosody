@@ -1,0 +1,17 @@
+The	0	0
+other	2	1
+pond	0	0
+people	0	1
+liked	2	1
+them	0	0
+much	2	1
+better	2	1
+than	0	0
+they	0	0
+did	1	0
+their	0	1
+neighbors	2	1
+,	NA	NA
+the	0	0
+Minks	2	2
+.	NA	NA

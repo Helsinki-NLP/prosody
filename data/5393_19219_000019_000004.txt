@@ -1,0 +1,16 @@
+The	0	0
+house	2	0
+was	0	0
+no	1	0
+less	0	1
+fragrant	2	1
+than	1	0
+the	0	0
+church	2	1
+;	NA	NA
+after	1	0
+the	1	0
+incense	0	2
+,	NA	NA
+roses	2	2
+.	NA	NA

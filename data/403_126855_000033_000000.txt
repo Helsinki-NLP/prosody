@@ -1,0 +1,4 @@
+Boys	2	1
+a	0	0
+bridge	2	2
+!	NA	NA

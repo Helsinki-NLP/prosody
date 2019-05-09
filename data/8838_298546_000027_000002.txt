@@ -1,0 +1,9 @@
+Why	2	0
+do	0	0
+you	0	0
+eat	0	1
+toast	2	1
+with	0	0
+every	1	1
+meal	2	2
+?	NA	NA

@@ -1,0 +1,4 @@
+Where's	1	1
+the	0	0
+servant	2	2
+?	NA	NA

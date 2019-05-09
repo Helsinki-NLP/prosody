@@ -1,0 +1,14 @@
+The	0	0
+man	2	0
+of	0	1
+superior	0	0
+abilities	1	1
+always	2	0
+finds	0	1
+admirers	1	1
+,	NA	NA
+go	1	0
+where	0	0
+he	0	0
+will	1	2
+.	NA	NA

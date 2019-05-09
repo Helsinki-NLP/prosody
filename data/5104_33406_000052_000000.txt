@@ -1,0 +1,7 @@
+So	1	0
+they	0	0
+went	0	1
+on	1	1
+toward	2	0
+it	0	2
+.	NA	NA

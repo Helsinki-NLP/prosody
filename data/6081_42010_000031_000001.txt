@@ -1,0 +1,15 @@
+She	0	0
+loves	2	0
+that	1	1
+rascal	1	0
+intensely	1	2
+,	NA	NA
+and	0	0
+he	1	0
+has	0	0
+a	0	0
+wonderful	1	0
+influence	0	0
+over	2	0
+her	1	2
+.	NA	NA

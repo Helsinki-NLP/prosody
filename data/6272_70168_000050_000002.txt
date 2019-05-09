@@ -1,0 +1,12 @@
+I	2	0
+could	0	0
+never	2	1
+perform	0	0
+mechanically	1	1
+what	0	0
+I	0	0
+heard	1	0
+now	1	1
+from	0	0
+Verry	2	2
+.	NA	NA

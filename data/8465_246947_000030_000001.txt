@@ -1,0 +1,11 @@
+I	0	0
+never	1	0
+could	2	1
+understand	0	0
+taking	1	1
+to	0	0
+people	1	0
+at	0	1
+first	1	0
+sight	2	2
+!	NA	NA

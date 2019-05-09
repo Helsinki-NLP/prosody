@@ -1,0 +1,11 @@
+Ah	2	0
+!	NA	NA
+by	0	0
+the	0	1
+bye	1	2
+!	NA	NA
+where	2	0
+is	0	1
+the	0	0
+Jew	0	2
+?	NA	NA

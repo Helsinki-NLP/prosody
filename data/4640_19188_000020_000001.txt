@@ -1,0 +1,5 @@
+Combeferre	2	1
+took	0	0
+the	0	0
+word	1	2
+.	NA	NA

@@ -1,0 +1,7 @@
+You	2	0
+are	0	1
+so	1	0
+true	2	1
+and	0	0
+honest	1	2
+!	NA	NA

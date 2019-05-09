@@ -1,0 +1,4 @@
+Bobby	2	1
+sprang	1	0
+upright	1	2
+.	NA	NA

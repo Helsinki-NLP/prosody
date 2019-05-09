@@ -1,0 +1,13 @@
+It	0	0
+was	1	0
+,	NA	NA
+in	0	1
+fact	2	1
+,	2	2
+Eponine	NA	NA
+,	NA	NA
+who	0	0
+had	0	0
+addressed	2	1
+Thenardier	2	2
+.	NA	NA

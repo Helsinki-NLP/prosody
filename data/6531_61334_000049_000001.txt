@@ -1,0 +1,12 @@
+Then	0	0
+Jehu	2	2
+drew	1	0
+his	0	1
+bow	2	2
+and	0	0
+shot	2	0
+Joram	0	1
+through	0	0
+the	0	0
+heart	2	2
+.	NA	NA

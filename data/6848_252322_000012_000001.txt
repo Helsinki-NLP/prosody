@@ -1,0 +1,10 @@
+Leave	2	0
+me	0	1
+,	NA	NA
+Craggs	2	2
+leave	2	0
+me	0	0
+alone	1	0
+with	0	0
+him	1	2
+.	NA	NA

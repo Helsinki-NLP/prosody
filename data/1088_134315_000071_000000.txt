@@ -1,0 +1,13 @@
+If	1	0
+you	0	0
+would	2	0
+only	0	0
+wait	2	2
+,	NA	NA
+sir	1	2
+,	NA	NA
+pleaded	1	0
+the	0	0
+agonized	0	0
+Fisher	1	2
+.	NA	NA

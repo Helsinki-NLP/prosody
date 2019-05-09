@@ -1,0 +1,13 @@
+Oh	2	0
+,	NA	NA
+I	0	1
+believe	0	0
+everything	2	0
+I	0	1
+am	0	0
+told	1	1
+,	NA	NA
+said	0	0
+the	0	0
+Caterpillar	2	2
+.	NA	NA

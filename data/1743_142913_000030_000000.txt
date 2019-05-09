@@ -1,0 +1,8 @@
+Jenny	2	1
+paused	2	0
+and	0	1
+jerked	1	1
+her	0	0
+tail	2	0
+impatiently	1	2
+.	NA	NA

@@ -1,0 +1,9 @@
+She	0	0
+would	0	1
+not	2	1
+let	1	0
+me	0	1
+draw	2	1
+it	0	0
+out	2	2
+.	NA	NA

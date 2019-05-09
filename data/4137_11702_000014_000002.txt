@@ -1,0 +1,11 @@
+I	2	0
+think	1	0
+I'll	0	0
+go	1	1
+for	0	0
+a	0	0
+walk	2	0
+in	0	2
+the	0	1
+forest	2	2
+.	NA	NA

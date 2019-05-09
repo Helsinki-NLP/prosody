@@ -1,0 +1,9 @@
+Such	2	1
+,	NA	NA
+at	0	0
+least	1	2
+,	NA	NA
+is	1	0
+my	1	1
+opinion	1	2
+.	NA	NA

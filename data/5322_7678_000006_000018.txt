@@ -1,0 +1,9 @@
+He	0	0
+made	2	0
+his	0	1
+way	1	0
+out	1	0
+of	0	1
+the	0	0
+thicket	1	2
+.	NA	NA

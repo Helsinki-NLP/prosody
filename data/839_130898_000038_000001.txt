@@ -1,0 +1,16 @@
+Through	0	0
+the	0	0
+mists	2	2
+on	2	0
+the	0	0
+twenty	0	0
+seventh	1	1
+,	NA	NA
+it	0	0
+sighted	2	0
+the	0	1
+port	1	0
+of	0	0
+Heart's	1	0
+Content	1	2
+.	NA	NA

@@ -1,0 +1,7 @@
+Simon	2	1
+Screecher	0	1
+was	0	0
+more	1	0
+than	0	1
+willing	1	2
+.	NA	NA

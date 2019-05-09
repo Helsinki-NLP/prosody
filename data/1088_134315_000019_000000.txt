@@ -1,0 +1,11 @@
+Cut	0	0
+a	0	0
+man's	2	1
+flesh	2	1
+and	0	0
+it	0	1
+heals	2	0
+,	NA	NA
+he	0	1
+said	1	2
+.	NA	NA

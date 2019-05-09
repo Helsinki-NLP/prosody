@@ -1,0 +1,6 @@
+Why	2	0
+was	0	0
+she	0	0
+a	0	1
+Protestant	1	2
+?	NA	NA

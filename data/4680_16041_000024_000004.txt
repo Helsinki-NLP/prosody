@@ -1,0 +1,14 @@
+At	1	0
+dusk	2	2
+,	NA	NA
+every	1	0
+window	2	1
+where	0	0
+a	0	0
+candle	1	0
+was	0	1
+burning	1	1
+received	0	0
+a	0	0
+shot	2	2
+.	NA	NA

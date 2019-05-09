@@ -1,0 +1,10 @@
+Drouet	2	1
+followed	2	0
+him	0	0
+with	0	1
+his	0	0
+eyes	1	1
+,	NA	NA
+much	0	0
+interested	1	2
+.	NA	NA

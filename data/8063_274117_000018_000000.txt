@@ -1,0 +1,9 @@
+I	2	0
+should	0	1
+not	1	1
+like	1	1
+that	2	0
+,	NA	NA
+said	0	1
+Porthos	1	2
+.	NA	NA

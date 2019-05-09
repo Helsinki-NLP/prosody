@@ -1,0 +1,9 @@
+Instead	0	0
+of	0	0
+obedience	1	2
+,	NA	NA
+I	2	0
+received	2	1
+a	0	0
+message	1	2
+.	NA	NA

@@ -1,0 +1,7 @@
+Jerry	2	1
+clapped	1	1
+him	0	0
+on	0	0
+the	0	0
+shoulder	2	2
+.	NA	NA

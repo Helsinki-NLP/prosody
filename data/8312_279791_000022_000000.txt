@@ -1,0 +1,11 @@
+Why	2	0
+can	0	1
+I	0	0
+not	0	0
+return	0	1
+and	0	0
+govern	2	0
+it	0	0
+as	0	1
+before	2	2
+?	NA	NA

@@ -1,0 +1,6 @@
+With	0	0
+this	2	2
+Blasi	2	1
+ran	0	0
+on	1	2
+.	NA	NA

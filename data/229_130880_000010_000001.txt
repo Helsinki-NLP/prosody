@@ -1,0 +1,14 @@
+I	0	0
+found	2	0
+it	0	1
+by	1	0
+the	0	0
+ninth	1	1
+parallel	2	1
+off	1	0
+the	0	1
+northwestern	2	0
+shores	1	2
+of	0	0
+Ceylon	1	2
+.	NA	NA

@@ -1,0 +1,6 @@
+Somebody	2	0
+must	0	1
+bury	2	1
+the	0	0
+dead	2	2
+.	NA	NA

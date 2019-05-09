@@ -1,0 +1,9 @@
+We	2	0
+are	0	0
+rich	1	2
+,	NA	NA
+as	1	0
+rich	1	0
+as	0	1
+kings	1	2
+!	NA	NA

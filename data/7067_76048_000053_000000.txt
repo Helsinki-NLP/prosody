@@ -1,0 +1,13 @@
+Her	0	0
+reflections	2	1
+travelled	1	1
+fast	2	2
+and	0	0
+broke	2	0
+out	1	1
+now	0	0
+far	1	0
+ahead	0	0
+of	0	1
+him	0	2
+.	NA	NA

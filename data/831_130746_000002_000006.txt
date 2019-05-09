@@ -1,0 +1,5 @@
+That	2	0
+made	1	1
+ten	2	0
+minutes	0	2
+.	NA	NA

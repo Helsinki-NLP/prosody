@@ -1,0 +1,16 @@
+He	0	0
+played	1	0
+the	0	0
+blackguard	1	0
+in	0	1
+a	0	0
+masterly	1	0
+style	2	2
+when	2	0
+necessary	1	1
+,	NA	NA
+he	0	0
+used	1	0
+his	0	0
+fists	0	2
+.	NA	NA

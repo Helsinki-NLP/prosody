@@ -1,0 +1,5 @@
+Oh	2	1
+,	NA	NA
+you	0	0
+have	1	2
+?	NA	NA

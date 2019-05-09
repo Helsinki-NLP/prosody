@@ -1,0 +1,10 @@
+Now	2	0
+Lord	0	1
+Chiltern	0	1
+was	0	0
+again	1	0
+his	0	1
+very	2	1
+intimate	0	0
+friend	0	2
+.	NA	NA

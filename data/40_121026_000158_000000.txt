@@ -1,0 +1,10 @@
+This	1	0
+action	2	1
+is	0	0
+somewhat	1	0
+too	0	0
+sublime	2	0
+to	0	1
+be	0	0
+natural	1	2
+.	NA	NA

@@ -1,0 +1,17 @@
+Ere	2	0
+he	0	0
+had	0	0
+reached	0	0
+his	0	1
+twenty	0	0
+first	1	1
+year	2	1
+Justinian	1	0
+had	0	1
+plunged	1	0
+into	0	0
+war	1	0
+with	0	1
+the	0	0
+Bulgarians	2	2
+.	NA	NA

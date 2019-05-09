@@ -1,0 +1,8 @@
+He	0	1
+was	1	0
+half	2	1
+seated	0	0
+on	0	0
+the	0	2
+chest	2	2
+.	NA	NA

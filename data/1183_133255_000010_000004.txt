@@ -1,0 +1,12 @@
+A	0	1
+sponge	2	0
+in	0	0
+every	0	0
+package	2	0
+,	NA	NA
+so	1	2
+always	2	1
+READY	0	0
+for	0	0
+use	0	2
+.	NA	NA

@@ -1,0 +1,12 @@
+We	2	0
+shall	0	0
+have	1	0
+to	0	1
+proceed	0	1
+cautiously	1	0
+then	1	2
+,	NA	NA
+spoke	2	0
+mr	0	0
+Jenks	1	2
+.	NA	NA

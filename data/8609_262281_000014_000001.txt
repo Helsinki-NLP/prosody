@@ -1,0 +1,6 @@
+Martha	2	1
+withdrew	0	0
+with	0	1
+the	0	0
+child	2	2
+.	NA	NA

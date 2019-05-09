@@ -1,0 +1,13 @@
+We	2	0
+shall	0	0
+manage	0	0
+to	0	1
+exist	1	0
+if	0	1
+she	0	0
+doesn't	2	1
+,	NA	NA
+said	0	0
+Jessica	1	1
+dryly	2	2
+.	NA	NA

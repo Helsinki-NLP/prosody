@@ -1,0 +1,11 @@
+What	2	0
+did	0	0
+you	0	0
+expect	2	2
+to	0	0
+find	1	1
+here	0	0
+?	NA	NA
+I	0	0
+asked	1	2
+.	NA	NA

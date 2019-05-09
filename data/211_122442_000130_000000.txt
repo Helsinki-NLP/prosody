@@ -1,0 +1,5 @@
+Do	2	0
+you	0	0
+need	1	1
+money	1	2
+?	NA	NA

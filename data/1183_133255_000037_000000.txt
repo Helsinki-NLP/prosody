@@ -1,0 +1,8 @@
+El	0	0
+Perfecto	1	1
+Veda	1	0
+Rose	0	0
+Rouge	0	0
+A	0	1
+WONDERFUL	2	0
+BEAUTIFIER	2	2

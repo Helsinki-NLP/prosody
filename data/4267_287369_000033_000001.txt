@@ -1,0 +1,8 @@
+I	0	0
+hope	1	0
+lightning	2	1
+doesn't	0	0
+strike	0	0
+around	1	1
+here	1	2
+.	NA	NA

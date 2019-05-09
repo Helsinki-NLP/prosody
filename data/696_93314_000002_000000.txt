@@ -1,0 +1,8 @@
+They	0	0
+shine	1	0
+like	0	1
+gold	2	1
+,	NA	NA
+she	0	0
+said	1	2
+.	NA	NA

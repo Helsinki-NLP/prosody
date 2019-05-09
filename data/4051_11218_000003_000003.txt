@@ -1,0 +1,16 @@
+These	0	1
+bright	2	0
+objects	1	1
+sprouted	0	0
+higher	1	2
+,	NA	NA
+and	0	0
+proved	1	0
+to	0	1
+be	0	0
+the	0	0
+steel	2	0
+heads	1	0
+of	0	1
+spears	2	2
+.	NA	NA

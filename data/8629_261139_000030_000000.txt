@@ -1,0 +1,16 @@
+It	1	0
+was	0	0
+a	0	0
+solemn	1	1
+assertion	1	2
+,	NA	NA
+but	1	0
+it	0	1
+failed	2	0
+to	0	1
+convince	0	0
+the	0	1
+crowd	1	0
+before	1	0
+him	0	2
+.	NA	NA

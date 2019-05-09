@@ -1,0 +1,9 @@
+He	0	0
+lifted	2	1
+his	0	0
+shoulders	2	0
+with	0	0
+a	0	1
+deprecating	0	0
+smile	2	2
+.	NA	NA

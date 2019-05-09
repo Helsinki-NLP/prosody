@@ -1,0 +1,11 @@
+When	0	0
+an	0	1
+imposture	2	0
+is	0	1
+unmasked	2	2
+it	1	0
+is	0	0
+no	1	0
+longer	0	0
+dangerous	1	2
+.	NA	NA

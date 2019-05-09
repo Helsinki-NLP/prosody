@@ -1,0 +1,5 @@
+Mohammed	2	2
+is	0	0
+God's	1	0
+prophet	1	2
+.	NA	NA

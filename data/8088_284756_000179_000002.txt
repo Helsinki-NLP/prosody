@@ -1,0 +1,17 @@
+Dimly	2	2
+,	NA	NA
+I	1	0
+could	0	0
+see	1	0
+there	0	0
+a	0	1
+low	0	0
+couch	2	2
+,	NA	NA
+piled	2	0
+high	1	1
+with	0	0
+soft	1	1
+marine	0	0
+growths	2	2
+.	NA	NA

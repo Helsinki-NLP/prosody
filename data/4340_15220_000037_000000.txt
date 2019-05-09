@@ -1,0 +1,8 @@
+Don't	2	1
+know	0	0
+what	1	1
+to	0	0
+do	0	0
+with	1	2
+Sancho	2	2
+.	NA	NA

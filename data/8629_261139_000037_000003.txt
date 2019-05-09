@@ -1,0 +1,5 @@
+Don't	1	0
+stain	0	0
+yours	1	1
+don't	2	2
+'	NA	NA

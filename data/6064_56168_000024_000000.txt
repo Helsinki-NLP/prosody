@@ -1,0 +1,3 @@
+What	1	0
+for	1	2
+?	NA	NA

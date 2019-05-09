@@ -1,0 +1,5 @@
+I	0	0
+have	1	0
+heard	0	1
+so	2	2
+.	NA	NA

@@ -1,0 +1,10 @@
+So	0	0
+much	2	0
+as	0	1
+that	2	2
+?	NA	NA
+she	0	0
+cried	1	0
+almost	0	1
+joyously	1	2
+.	NA	NA

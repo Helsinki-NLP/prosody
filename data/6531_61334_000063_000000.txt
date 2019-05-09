@@ -1,0 +1,12 @@
+When	0	0
+Jehu	2	0
+of	0	1
+Israel	0	0
+died	2	2
+,	NA	NA
+he	0	0
+was	1	0
+succeeded	1	0
+by	0	1
+Jehoahaz	2	2
+.	NA	NA

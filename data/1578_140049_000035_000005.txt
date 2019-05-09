@@ -1,0 +1,17 @@
+The	0	0
+brass	2	1
+glistened	1	0
+like	1	1
+gold	2	0
+,	NA	NA
+and	0	2
+the	0	0
+crimson	2	0
+paper	0	1
+shade	2	2
+glowed	2	0
+like	0	0
+a	0	1
+giant	1	0
+ruby	2	2
+.	NA	NA

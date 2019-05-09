@@ -1,0 +1,5 @@
+A	0	1
+QUEER	2	0
+PLACE	1	1
+TO	0	0
+LIVE	2	2

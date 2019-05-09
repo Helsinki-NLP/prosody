@@ -1,0 +1,12 @@
+I'm	0	0
+going	1	0
+away	1	2
+;	NA	NA
+say	1	0
+good	0	0
+by	1	1
+.	NA	NA
+'	NA	NA
+No	1	0
+answer	0	2
+.	NA	NA

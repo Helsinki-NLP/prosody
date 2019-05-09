@@ -1,0 +1,17 @@
+In	0	0
+the	0	0
+meantime	1	1
+he	0	0
+told	2	0
+me	1	2
+that	0	0
+my	2	0
+friend	1	0
+had	0	1
+certainly	0	0
+not	1	1
+many	0	0
+hours	1	1
+to	0	0
+live	2	2
+.	NA	NA

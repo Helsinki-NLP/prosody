@@ -1,0 +1,6 @@
+Yes	2	1
+,	NA	NA
+shouted	1	0
+his	0	0
+men	0	2
+.	NA	NA

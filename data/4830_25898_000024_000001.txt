@@ -1,0 +1,16 @@
+What's	1	0
+the	0	0
+matter	0	0
+with	2	1
+the	0	0
+chick	2	2
+?	NA	NA
+'	NA	NA
+cried	2	0
+mrs	0	0
+Cluck	2	1
+,	NA	NA
+in	1	0
+great	0	0
+alarm	1	2
+.	NA	NA

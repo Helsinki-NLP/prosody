@@ -1,0 +1,8 @@
+In	0	0
+August	2	1
+we	0	0
+had	1	0
+two	0	0
+weeks'	0	1
+vacation	1	2
+.	NA	NA

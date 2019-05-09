@@ -1,0 +1,6 @@
+Of	1	0
+whom	1	0
+are	0	0
+you	0	1
+speaking	2	2
+?	NA	NA

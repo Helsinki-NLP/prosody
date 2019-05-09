@@ -1,0 +1,11 @@
+I	2	0
+and	0	0
+my	0	1
+poor	2	0
+father	0	1
+became	1	0
+as	0	1
+it	0	0
+were	2	1
+outcasts	1	2
+.	NA	NA

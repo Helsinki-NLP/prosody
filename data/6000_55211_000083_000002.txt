@@ -1,0 +1,4 @@
+Billy	1	0
+was	0	1
+puzzled	1	2
+.	NA	NA

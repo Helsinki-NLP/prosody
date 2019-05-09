@@ -1,0 +1,11 @@
+I	2	1
+do	0	0
+not	0	0
+ask	0	1
+what	1	0
+you	0	0
+have	0	1
+done	2	1
+for	0	0
+me	2	2
+.	NA	NA

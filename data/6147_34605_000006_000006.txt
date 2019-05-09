@@ -1,0 +1,7 @@
+She	0	0
+walled	2	0
+herself	1	0
+round	1	0
+with	0	1
+pride	2	2
+.	NA	NA

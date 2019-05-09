@@ -1,0 +1,9 @@
+I	0	0
+don't	2	1
+believe	1	0
+she's	0	1
+in	1	1
+college	2	1
+any	0	0
+more	1	2
+.	NA	NA

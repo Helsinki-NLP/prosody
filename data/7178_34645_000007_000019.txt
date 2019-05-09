@@ -1,0 +1,13 @@
+Christina	2	0
+seized	0	1
+Monaldeschi	2	2
+,	NA	NA
+had	1	0
+him	0	0
+confessed	2	1
+and	0	0
+assassinated	2	1
+,	NA	NA
+and	0	0
+said	2	2
+,	NA	NA

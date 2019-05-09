@@ -1,0 +1,17 @@
+Everything	2	1
+is	0	0
+in	0	0
+readiness	0	1
+for	0	0
+our	1	0
+flight	2	2
+,	NA	NA
+and	1	0
+we	0	0
+can	0	0
+select	1	1
+any	1	0
+time	0	1
+we	0	0
+choose	1	2
+.	NA	NA

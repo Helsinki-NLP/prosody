@@ -1,0 +1,11 @@
+Come	2	2
+,	NA	NA
+let	2	0
+us	0	0
+talk	1	1
+a	0	0
+little	0	0
+about	0	0
+my	0	1
+father	1	2
+.	NA	NA

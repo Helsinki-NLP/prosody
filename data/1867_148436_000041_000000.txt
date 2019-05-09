@@ -1,0 +1,11 @@
+Maybe	2	0
+you	0	0
+want	1	0
+to	0	1
+pay	1	0
+me	2	2
+?	NA	NA
+he	0	0
+suggested	1	1
+fiercely	1	2
+.	NA	NA

@@ -1,0 +1,7 @@
+I'm	1	0
+filling	1	0
+my	0	0
+basket	1	1
+,	NA	NA
+citizen	2	2
+.	NA	NA

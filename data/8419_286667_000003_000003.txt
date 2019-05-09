@@ -1,0 +1,9 @@
+Then	2	0
+he	0	1
+would	0	0
+seem	0	1
+to	0	0
+fall	2	0
+asleep	0	0
+again	2	2
+.	NA	NA

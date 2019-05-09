@@ -1,0 +1,8 @@
+That	2	0
+is	0	1
+just	2	1
+what	1	0
+is	0	1
+so	1	0
+sickening	1	2
+.	NA	NA

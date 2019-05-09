@@ -1,0 +1,5 @@
+In	0	0
+vain	2	1
+Anne	1	1
+pleaded	1	2
+.	NA	NA

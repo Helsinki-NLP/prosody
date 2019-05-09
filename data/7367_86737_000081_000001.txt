@@ -1,0 +1,14 @@
+Come	1	2
+,	NA	NA
+sit	0	0
+down	2	2
+,	NA	NA
+and	0	0
+tell	1	0
+us	0	0
+all	1	0
+about	1	0
+this	0	1
+Signor	0	0
+Vampa	1	2
+.	NA	NA

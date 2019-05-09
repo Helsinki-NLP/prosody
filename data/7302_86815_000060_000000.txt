@@ -1,0 +1,11 @@
+Oh	2	1
+,	NA	NA
+pardon	1	0
+me	0	1
+,	NA	NA
+sir	2	1
+;	NA	NA
+let	1	0
+me	0	0
+live	2	2
+!	NA	NA

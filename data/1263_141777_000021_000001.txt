@@ -1,0 +1,15 @@
+Rynch	1	0
+froze	1	2
+,	NA	NA
+so	1	0
+startled	2	0
+that	0	1
+he	0	0
+could	0	0
+not	1	0
+think	0	0
+clearly	1	0
+for	0	0
+a	0	0
+second	0	2
+.	NA	NA

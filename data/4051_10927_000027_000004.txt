@@ -1,0 +1,8 @@
+He	0	0
+doesn't	2	0
+even	0	0
+know	0	0
+what	0	1
+love	1	0
+is	0	2
+.	NA	NA

@@ -1,0 +1,9 @@
+I	0	1
+may	0	0
+not	2	0
+make	0	1
+mine	1	1
+only	0	0
+eye	2	1
+service	2	2
+.	NA	NA

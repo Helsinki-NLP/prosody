@@ -1,0 +1,8 @@
+I	1	0
+watched	2	1
+them	0	1
+and	0	0
+they	0	0
+watched	1	1
+her	2	2
+.	NA	NA

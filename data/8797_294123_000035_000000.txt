@@ -1,0 +1,13 @@
+The	0	0
+most	2	1
+admired	2	1
+quality	2	1
+to	0	0
+day	2	0
+of	0	0
+the	0	1
+Japanese	1	0
+is	0	1
+his	0	0
+patriotism	2	2
+.	NA	NA

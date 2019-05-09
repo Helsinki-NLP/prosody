@@ -1,0 +1,11 @@
+That	2	2
+,	NA	NA
+said	0	0
+Coronel	1	0
+simply	1	1
+,	NA	NA
+is	0	0
+much	1	0
+more	1	0
+surprising	1	2
+.	NA	NA

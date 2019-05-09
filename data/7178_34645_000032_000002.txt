@@ -1,0 +1,13 @@
+He	0	0
+did	0	0
+not	1	1
+believe	2	1
+that	0	0
+it	0	2
+had	0	0
+all	1	0
+been	0	0
+done	0	1
+for	0	0
+Gwynplaine	1	2
+.	NA	NA

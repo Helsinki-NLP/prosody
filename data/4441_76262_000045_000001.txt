@@ -1,0 +1,8 @@
+I	2	0
+say	1	0
+,	NA	NA
+what	0	0
+a	0	0
+sweet	0	1
+thing	2	2
+!	NA	NA

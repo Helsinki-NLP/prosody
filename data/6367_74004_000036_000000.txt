@@ -1,0 +1,8 @@
+No	2	1
+,	NA	NA
+I	0	0
+never	2	1
+,	NA	NA
+I	0	0
+said	1	2
+.	NA	NA

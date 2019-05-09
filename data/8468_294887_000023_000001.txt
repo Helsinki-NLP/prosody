@@ -1,0 +1,12 @@
+The	0	0
+letter	1	1
+requested	2	2
+me	0	0
+to	0	0
+find	2	0
+them	0	1
+and	0	0
+give	0	0
+them	0	0
+warning	1	2
+.	NA	NA

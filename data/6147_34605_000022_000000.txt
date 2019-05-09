@@ -1,0 +1,10 @@
+This	1	0
+is	0	0
+the	0	1
+pleasant	2	1
+view	0	1
+to	0	0
+take	2	0
+of	0	1
+religion	1	2
+.	NA	NA

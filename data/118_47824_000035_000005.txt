@@ -1,0 +1,5 @@
+Bobby	2	0
+started	0	1
+to	0	0
+rise	1	2
+.	NA	NA

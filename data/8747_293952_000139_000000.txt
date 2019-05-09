@@ -1,0 +1,9 @@
+Jerry	1	1
+grinned	1	0
+,	NA	NA
+and	0	2
+ducked	2	0
+towards	1	1
+the	0	0
+door	1	2
+.	NA	NA

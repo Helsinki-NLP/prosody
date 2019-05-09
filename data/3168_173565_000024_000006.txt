@@ -1,0 +1,16 @@
+That	1	0
+is	0	0
+why	1	0
+I	0	1
+experienced	2	1
+such	1	1
+joy	2	0
+when	0	1
+I	0	0
+felt	2	1
+that	0	0
+I	0	0
+loved	2	1
+that	1	1
+man	1	2
+.	NA	NA

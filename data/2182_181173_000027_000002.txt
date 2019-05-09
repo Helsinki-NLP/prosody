@@ -1,0 +1,4 @@
+Trade's	2	0
+been	0	1
+prime	1	2
+!	NA	NA

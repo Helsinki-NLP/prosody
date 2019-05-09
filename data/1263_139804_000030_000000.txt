@@ -1,0 +1,14 @@
+Their	2	0
+Redeemer	0	1
+is	0	0
+worshiped	1	1
+quite	0	0
+separately	1	1
+from	0	0
+God	2	2
+,	NA	NA
+and	1	0
+with	0	0
+distinctive	1	0
+adorations	1	2
+.	NA	NA

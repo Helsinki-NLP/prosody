@@ -1,0 +1,9 @@
+His	1	0
+sole	2	1
+appeal	1	0
+was	0	0
+to	0	0
+the	0	1
+spinal	2	0
+column	1	2
+.	NA	NA

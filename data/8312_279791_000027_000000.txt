@@ -1,0 +1,6 @@
+But	0	0
+no	1	0
+one	0	1
+regarded	2	1
+her	2	2
+.	NA	NA

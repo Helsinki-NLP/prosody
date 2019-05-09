@@ -1,0 +1,11 @@
+He	0	0
+went	2	1
+toward	2	0
+the	0	2
+place	2	1
+where	1	0
+he	0	0
+had	0	0
+left	1	0
+him	1	2
+.	NA	NA

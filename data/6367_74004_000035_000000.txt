@@ -1,0 +1,15 @@
+It	0	0
+was	2	0
+a	0	1
+girl's	2	1
+exclamation	2	2
+,	NA	NA
+but	0	0
+nothing	1	0
+else	1	0
+would	0	0
+have	0	1
+expressed	2	0
+his	0	1
+feelings	0	2
+.	NA	NA

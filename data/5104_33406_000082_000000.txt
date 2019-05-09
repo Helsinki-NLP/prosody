@@ -1,0 +1,9 @@
+And	0	0
+it	1	0
+is	0	0
+still	0	1
+summer	2	2
+!	2	1
+Thorhild	NA	NA
+said	1	2
+.	NA	NA

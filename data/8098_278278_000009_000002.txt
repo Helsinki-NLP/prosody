@@ -1,0 +1,13 @@
+The	0	0
+only	1	1
+trouble	2	1
+will	0	0
+be	0	0
+in	0	1
+starting	2	0
+the	0	1
+fire	2	2
+,	NA	NA
+said	1	0
+Pod	2	2
+.	NA	NA

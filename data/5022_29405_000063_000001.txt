@@ -1,0 +1,12 @@
+On	2	0
+this	0	1
+ground	2	1
+,	NA	NA
+I	2	1
+declined	2	1
+to	0	0
+answer	1	0
+any	1	0
+more	0	1
+questions	1	2
+.	NA	NA

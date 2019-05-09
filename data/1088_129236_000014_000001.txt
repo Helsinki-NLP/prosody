@@ -1,0 +1,8 @@
+It	0	0
+makes	0	0
+all	2	1
+things	2	1
+alive	2	0
+and	0	1
+significant	1	2
+.	NA	NA

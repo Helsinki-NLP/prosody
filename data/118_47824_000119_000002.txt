@@ -1,0 +1,8 @@
+I	1	0
+can't	0	1
+go	0	0
+on	2	1
+this	0	0
+way	1	2
+indefinitely	2	2
+.	NA	NA

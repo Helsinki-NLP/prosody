@@ -1,0 +1,17 @@
+Gwynplaine	2	2
+was	0	0
+as	1	0
+a	0	0
+man	1	0
+on	0	1
+whose	0	0
+head	1	0
+a	0	1
+tile	2	1
+falls	1	0
+from	0	1
+the	0	0
+palace	2	0
+of	0	1
+dreams	1	2
+.	NA	NA

@@ -1,0 +1,14 @@
+Now	1	0
+from	2	0
+this	0	1
+fact	2	1
+arises	2	0
+a	0	1
+consideration	2	0
+of	0	1
+great	1	0
+importance	1	1
+to	0	0
+our	0	0
+subject	1	2
+.	NA	NA

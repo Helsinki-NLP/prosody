@@ -1,0 +1,4 @@
+So	2	0
+does	0	1
+Margaret	1	2
+.	NA	NA

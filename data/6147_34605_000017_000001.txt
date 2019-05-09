@@ -1,0 +1,9 @@
+Elizabeth	2	1
+was	0	0
+more	1	0
+than	0	0
+English	1	2
+she	1	0
+was	0	0
+Anglican	1	2
+.	NA	NA

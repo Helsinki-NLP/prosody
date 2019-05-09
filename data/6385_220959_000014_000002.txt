@@ -1,0 +1,16 @@
+For	0	0
+this	2	1
+union	1	0
+of	0	1
+the	0	0
+male	2	0
+and	0	2
+female	2	0
+exists	0	1
+in	0	0
+all	1	0
+living	0	0
+beings	1	1
+and	0	0
+plants	2	2
+.	NA	NA

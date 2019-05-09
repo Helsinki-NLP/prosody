@@ -1,0 +1,16 @@
+Hearken	2	2
+!	NA	NA
+and	0	0
+observe	2	1
+how	0	0
+healthily	1	2
+how	0	0
+calmly	2	1
+I	0	0
+can	0	0
+tell	1	0
+you	0	1
+the	0	0
+whole	0	0
+story	1	2
+.	NA	NA

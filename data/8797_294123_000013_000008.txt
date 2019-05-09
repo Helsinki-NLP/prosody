@@ -1,0 +1,11 @@
+What	1	0
+if	0	0
+there	1	0
+be	0	1
+twenty	1	0
+other	2	0
+soldiers	0	2
+jostling	2	1
+about	2	1
+him	0	2
+?	NA	NA

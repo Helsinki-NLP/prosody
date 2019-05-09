@@ -1,0 +1,9 @@
+A	0	0
+few	1	0
+ravishing	1	0
+weeks	0	0
+of	0	1
+perfect	0	0
+happiness	1	1
+passed	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+Champ	2	1
+Clark	2	2
+and	0	0
+his	0	0
+throng	2	0
+were	0	1
+not	0	0
+molested	2	2
+.	NA	NA

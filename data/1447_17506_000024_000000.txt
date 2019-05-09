@@ -1,0 +1,9 @@
+That	2	0
+I	0	1
+cannot	0	0
+tell	2	0
+you	0	1
+,	NA	NA
+Signor	0	0
+Merrick	1	2
+.	NA	NA

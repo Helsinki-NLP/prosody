@@ -1,0 +1,7 @@
+She	0	0
+went	2	1
+down	2	1
+into	0	0
+the	0	0
+garden	2	2
+.	NA	NA

@@ -1,0 +1,10 @@
+They	0	0
+clustered	2	1
+close	2	2
+,	NA	NA
+their	0	0
+shields	1	1
+held	1	0
+before	1	0
+them	0	2
+.	NA	NA

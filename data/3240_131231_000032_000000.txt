@@ -1,0 +1,14 @@
+Those	2	0
+fishes	1	1
+still	0	0
+alive	2	2
+were	0	0
+exhibited	1	0
+at	0	0
+the	0	1
+Zoological	1	0
+Gardens	1	1
+,	NA	NA
+Regent's	0	0
+Park	1	2
+.	NA	NA

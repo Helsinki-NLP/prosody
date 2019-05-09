@@ -1,0 +1,5 @@
+To	0	0
+our	2	1
+journey's	0	1
+end	2	2
+?	NA	NA

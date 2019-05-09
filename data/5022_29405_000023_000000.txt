@@ -1,0 +1,11 @@
+I	2	0
+lit	0	0
+my	1	1
+cigar	0	1
+,	NA	NA
+but	0	0
+not	1	0
+on	0	0
+the	0	1
+terrace	1	2
+.	NA	NA

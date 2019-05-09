@@ -1,0 +1,15 @@
+When	0	0
+her	2	0
+death	1	1
+became	0	0
+known	1	2
+,	NA	NA
+the	0	0
+entire	2	1
+civilized	1	1
+world	1	1
+was	0	0
+shocked	2	2
+and	0	0
+horrified	1	2
+.	NA	NA

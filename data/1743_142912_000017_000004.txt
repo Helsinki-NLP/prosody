@@ -1,0 +1,9 @@
+Oh	2	1
+,	NA	NA
+peter	0	0
+Rabbit	1	2
+!	NA	NA
+called	1	0
+the	0	0
+voice	1	2
+.	NA	NA

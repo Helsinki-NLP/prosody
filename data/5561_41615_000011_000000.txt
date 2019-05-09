@@ -1,0 +1,5 @@
+No	2	1
+,	NA	NA
+replied	1	0
+Mabel	0	2
+.	NA	NA

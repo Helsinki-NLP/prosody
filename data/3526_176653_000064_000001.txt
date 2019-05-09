@@ -1,0 +1,16 @@
+john	2	1
+Hale	0	2
+,	NA	NA
+except	1	0
+to	0	0
+my	0	0
+friends	2	1
+.	NA	NA
+He	2	0
+looked	0	0
+hard	1	0
+at	0	1
+the	0	0
+old	0	0
+man	0	2
+.	NA	NA

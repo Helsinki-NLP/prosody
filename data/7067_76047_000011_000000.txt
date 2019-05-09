@@ -1,0 +1,5 @@
+Sir	0	0
+Richmond	0	1
+said	0	0
+nothing	2	2
+.	NA	NA

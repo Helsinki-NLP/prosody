@@ -1,0 +1,6 @@
+Why	1	0
+didn't	0	0
+you	2	2
+eat	0	0
+them	0	2
+?	NA	NA

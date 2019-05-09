@@ -1,0 +1,17 @@
+Where	2	0
+were	0	0
+the	0	1
+ideals	1	0
+of	0	1
+his	0	0
+youth	2	2
+,	NA	NA
+the	1	0
+lofty	2	1
+aspirations	1	2
+that	0	0
+had	0	1
+upborne	2	0
+him	0	1
+then	1	2
+?	NA	NA

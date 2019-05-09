@@ -1,0 +1,15 @@
+Agents	2	0
+of	0	1
+the	0	0
+same	0	0
+kind	2	1
+may	1	0
+diminish	0	0
+in	0	0
+number	1	2
+,	NA	NA
+either	2	0
+absolutely	1	2
+or	0	0
+relatively	2	2
+.	NA	NA

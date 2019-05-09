@@ -1,0 +1,8 @@
+Tom	2	2
+,	NA	NA
+said	0	0
+Harry	1	0
+Blake	0	1
+,	NA	NA
+hesitating	1	2
+.	NA	NA

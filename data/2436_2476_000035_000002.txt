@@ -1,0 +1,17 @@
+There	2	0
+were	2	0
+still	1	1
+three	0	0
+seats	0	1
+vacant	1	1
+at	0	0
+our	0	0
+table	2	2
+;	NA	NA
+I	2	0
+wondered	0	0
+who	0	1
+would	0	0
+occupy	1	0
+them	0	2
+.	NA	NA

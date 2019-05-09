@@ -1,0 +1,15 @@
+The	0	0
+desire	2	1
+for	0	0
+happiness	1	1
+is	0	0
+innate	2	1
+in	0	0
+every	0	0
+man	2	2
+;	NA	NA
+therefore	2	0
+it	0	0
+is	0	0
+legitimate	1	2
+.	NA	NA

@@ -1,0 +1,9 @@
+Does	1	0
+it	0	0
+pain	1	0
+you	0	1
+dreadfully	1	2
+?	NA	NA
+asked	2	1
+peter	2	2
+.	NA	NA

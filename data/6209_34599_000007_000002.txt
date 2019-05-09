@@ -1,0 +1,4 @@
+This	2	0
+was	0	1
+one	2	2
+.	NA	NA

@@ -1,0 +1,14 @@
+Never	2	0
+had	0	0
+a	0	1
+passion	1	1
+approached	2	0
+her	1	2
+,	NA	NA
+yet	2	0
+she	0	0
+had	0	1
+sounded	2	1
+them	0	0
+all	2	2
+.	NA	NA

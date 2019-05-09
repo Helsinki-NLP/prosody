@@ -1,0 +1,14 @@
+We	0	0
+were	0	0
+standing	1	0
+at	0	1
+one	0	0
+side	1	0
+of	0	0
+the	0	1
+pool	2	2
+,	NA	NA
+near	1	0
+the	0	0
+center	1	2
+.	NA	NA

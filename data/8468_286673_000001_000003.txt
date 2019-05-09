@@ -1,0 +1,8 @@
+Did	0	0
+you	0	0
+ever	1	0
+see	0	1
+a	0	0
+finer	1	1
+family	2	2
+?	NA	NA

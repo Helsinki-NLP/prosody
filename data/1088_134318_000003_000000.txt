@@ -1,0 +1,5 @@
+Had	2	1
+t	1	0
+x	0	1
+returned	1	2
+!	NA	NA

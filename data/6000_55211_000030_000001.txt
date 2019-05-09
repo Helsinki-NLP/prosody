@@ -1,0 +1,4 @@
+His	0	0
+eyes	2	1
+sparkled	1	2
+.	NA	NA

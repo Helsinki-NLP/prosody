@@ -1,0 +1,14 @@
+So	0	0
+Jasper	2	1
+and	0	1
+Polly	2	1
+threw	0	0
+the	0	0
+bits	0	0
+next	1	0
+time	0	1
+in	0	0
+the	0	0
+other	1	0
+direction	1	2
+.	NA	NA

@@ -1,0 +1,8 @@
+You	0	0
+cur	1	2
+,	NA	NA
+with	1	0
+your	0	0
+devil's	1	0
+work	1	2
+!	NA	NA

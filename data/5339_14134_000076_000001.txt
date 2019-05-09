@@ -1,0 +1,15 @@
+I	1	0
+shall	2	0
+be	0	0
+back	0	1
+,	NA	NA
+I	0	0
+reckon	0	1
+,	NA	NA
+in	0	0
+a	0	0
+month	1	1
+or	0	0
+so	2	2
+.	NA	NA
+'	NA	NA

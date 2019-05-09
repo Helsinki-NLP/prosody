@@ -1,0 +1,9 @@
+Did	0	0
+he	0	0
+get	2	1
+coal	1	0
+dust	1	1
+on	0	0
+his	0	0
+shoes	1	2
+?	NA	NA

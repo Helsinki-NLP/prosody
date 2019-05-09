@@ -1,0 +1,7 @@
+There	2	0
+is	0	0
+a	0	1
+reason	0	0
+at	0	0
+once	1	2
+.	NA	NA

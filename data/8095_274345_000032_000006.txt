@@ -1,0 +1,13 @@
+To	0	1
+grant	2	0
+or	0	1
+refuse	0	1
+supplies	2	0
+was	0	1
+the	0	0
+undoubted	2	1
+privilege	1	0
+of	0	1
+the	0	0
+commons	2	2
+.	NA	NA

@@ -1,0 +1,8 @@
+The	1	0
+view	2	0
+from	1	0
+each	0	1
+one	1	0
+was	0	1
+different	2	2
+.	NA	NA

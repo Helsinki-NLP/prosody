@@ -1,0 +1,6 @@
+He	1	0
+had	0	0
+been	1	1
+ignominiously	2	1
+thrashed	1	2
+!	NA	NA

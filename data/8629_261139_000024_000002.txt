@@ -1,0 +1,10 @@
+Then	1	0
+and	0	1
+not	2	1
+till	0	0
+then	2	2
+did	1	0
+Frederick	2	0
+move	0	1
+forward	2	2
+.	NA	NA

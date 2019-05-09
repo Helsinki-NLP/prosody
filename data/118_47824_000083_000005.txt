@@ -1,0 +1,10 @@
+But	0	0
+almost	2	0
+immediately	0	1
+even	0	0
+that	1	1
+prophylactic	2	1
+was	0	0
+denied	2	0
+him	0	2
+.	NA	NA

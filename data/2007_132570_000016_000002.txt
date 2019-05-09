@@ -1,0 +1,9 @@
+All	2	0
+this	0	1
+I	1	0
+saw	1	0
+through	0	1
+the	0	0
+key	0	0
+hole	2	2
+.	NA	NA

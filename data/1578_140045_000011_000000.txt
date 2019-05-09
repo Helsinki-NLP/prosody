@@ -1,0 +1,11 @@
+PLAIN	1	0
+LOOKING	0	0
+,	NA	NA
+mother	2	2
+?	NA	NA
+exclaimed	1	0
+her	0	0
+husband	0	0
+in	0	0
+astonishment	1	2
+.	NA	NA

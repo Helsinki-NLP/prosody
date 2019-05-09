@@ -1,0 +1,12 @@
+But	1	0
+it	0	0
+will	0	1
+be	0	0
+the	0	0
+last	2	1
+time	1	1
+he	0	0
+ever	0	1
+goes	1	1
+there	2	2
+.	NA	NA

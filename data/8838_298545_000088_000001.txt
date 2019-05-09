@@ -1,0 +1,10 @@
+I	0	0
+turned	2	0
+it	0	1
+into	0	0
+a	0	1
+gymnasium	2	1
+for	0	0
+Ted	1	0
+Barton	2	2
+.	NA	NA

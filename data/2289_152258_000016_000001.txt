@@ -1,0 +1,7 @@
+Very	1	0
+few	2	0
+of	0	0
+them	0	1
+were	0	0
+Christians	2	2
+.	NA	NA

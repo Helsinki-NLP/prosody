@@ -1,0 +1,8 @@
+Physical	2	0
+exercise	1	1
+is	0	0
+certainly	2	0
+not	1	0
+such	0	1
+restitution	2	2
+.	NA	NA

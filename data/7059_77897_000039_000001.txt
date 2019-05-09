@@ -1,0 +1,7 @@
+Will	0	0
+you	0	0
+join	2	0
+us	0	1
+,	NA	NA
+Jack	2	2
+?	NA	NA

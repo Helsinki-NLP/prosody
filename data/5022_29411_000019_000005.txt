@@ -1,0 +1,11 @@
+He	1	0
+has	1	1
+given	1	0
+Cristy	0	1
+no	2	0
+reason	0	1
+to	0	0
+complain	2	0
+of	0	0
+him	1	2
+.	NA	NA

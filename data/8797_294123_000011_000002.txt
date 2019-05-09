@@ -1,0 +1,8 @@
+Work	2	0
+is	0	1
+the	0	0
+breath	2	0
+of	0	1
+his	0	0
+nostrils	1	2
+.	NA	NA

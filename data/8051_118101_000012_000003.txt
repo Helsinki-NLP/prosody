@@ -1,0 +1,12 @@
+Left	2	0
+his	0	0
+mother	1	1
+,	NA	NA
+three	0	0
+sisters	1	0
+and	0	1
+five	2	0
+brothers	0	1
+in	0	0
+slavery	2	2
+.	NA	NA

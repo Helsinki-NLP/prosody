@@ -1,0 +1,10 @@
+I	2	0
+didn't	0	1
+see	0	0
+her	1	0
+,	NA	NA
+and	0	1
+I	2	0
+was	0	1
+present	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+Be	0	0
+grave	1	0
+in	0	1
+church	1	2
+,	NA	NA
+well	2	0
+and	0	1
+good	1	2
+.	NA	NA

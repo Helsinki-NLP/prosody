@@ -1,0 +1,5 @@
+Priscilla	2	0
+knit	0	1
+her	0	0
+brows	2	2
+.	NA	NA

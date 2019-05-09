@@ -1,0 +1,8 @@
+Since	1	0
+you	0	1
+wish	2	0
+it	0	2
+,	NA	NA
+Bobby	2	0
+said	1	2
+.	NA	NA

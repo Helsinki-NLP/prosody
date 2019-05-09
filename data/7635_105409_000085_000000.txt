@@ -1,0 +1,10 @@
+Yes	2	0
+,	NA	NA
+your	0	1
+Honour	0	0
+,	NA	NA
+stammered	1	0
+the	0	2
+poor	1	0
+wretch	2	2
+.	NA	NA

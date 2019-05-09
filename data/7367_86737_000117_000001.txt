@@ -1,0 +1,9 @@
+To	0	0
+what	1	1
+class	2	0
+of	0	1
+society	2	1
+does	0	0
+he	0	1
+belong	2	2
+?	NA	NA

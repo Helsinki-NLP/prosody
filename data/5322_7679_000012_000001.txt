@@ -1,0 +1,9 @@
+I	0	0
+don't	2	1
+know	1	0
+what	1	1
+will	0	0
+come	2	0
+of	0	0
+it	1	2
+.	NA	NA

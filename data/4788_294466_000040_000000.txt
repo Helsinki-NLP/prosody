@@ -1,0 +1,6 @@
+Dora	2	0
+defended	1	1
+the	0	0
+absent	0	1
+boy	2	2
+.	NA	NA

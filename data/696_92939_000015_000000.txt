@@ -1,0 +1,6 @@
+This	2	0
+was	0	0
+the	0	0
+German	1	1
+statement	2	2
+.	NA	NA

@@ -1,0 +1,13 @@
+Major	2	0
+Whistler	0	1
+soon	1	0
+sent	0	1
+for	0	0
+his	1	0
+family	1	1
+to	0	0
+join	1	1
+him	0	0
+in	0	0
+Russia	2	2
+.	NA	NA

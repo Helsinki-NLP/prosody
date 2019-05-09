@@ -1,0 +1,9 @@
+Let	2	0
+us	0	1
+go	1	2
+and	0	0
+see	1	0
+what	1	0
+it	0	1
+says	1	2
+.	NA	NA

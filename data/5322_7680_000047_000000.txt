@@ -1,0 +1,6 @@
+'Take	2	0
+it	0	1
+,	NA	NA
+take	2	0
+it	0	2
+!	NA	NA

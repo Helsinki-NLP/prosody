@@ -1,0 +1,13 @@
+Can	0	0
+I	0	0
+not	1	0
+tell	2	1
+grapes	0	0
+when	0	0
+I	0	1
+see	0	0
+them	1	2
+?	NA	NA
+cried	2	1
+Tyrker	2	2
+.	NA	NA

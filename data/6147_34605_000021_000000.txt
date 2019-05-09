@@ -1,0 +1,9 @@
+These	0	0
+fine	1	0
+ladies	1	1
+,	NA	NA
+moreover	2	1
+,	NA	NA
+knew	0	0
+Latin	2	2
+.	NA	NA

@@ -1,0 +1,6 @@
+A	0	0
+detail	2	0
+to	0	2
+be	0	0
+noted	1	2
+.	NA	NA

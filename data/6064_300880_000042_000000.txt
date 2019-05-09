@@ -1,0 +1,11 @@
+Reads	2	0
+like	0	1
+a	0	0
+real	2	1
+estate	0	0
+man's	0	1
+prospectus	1	2
+,	NA	NA
+observed	2	0
+Remsen	0	2
+.	NA	NA

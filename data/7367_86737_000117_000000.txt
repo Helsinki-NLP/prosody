@@ -1,0 +1,15 @@
+Go	0	0
+on	2	2
+,	NA	NA
+Signor	0	0
+Pastrini	1	1
+,	NA	NA
+continued	0	0
+Franz	1	1
+,	NA	NA
+smiling	2	0
+at	0	1
+his	0	0
+friend's	0	0
+susceptibility	1	2
+.	NA	NA

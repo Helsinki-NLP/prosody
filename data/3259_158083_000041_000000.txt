@@ -1,0 +1,12 @@
+A	0	0
+man	2	1
+sprang	2	0
+at	0	1
+me	1	0
+and	0	1
+caught	1	0
+me	0	0
+by	1	0
+the	0	1
+shoulder	2	2
+.	NA	NA

@@ -1,0 +1,6 @@
+Their	0	1
+progress	2	0
+was	0	1
+never	0	0
+impeded	2	2
+.	NA	NA

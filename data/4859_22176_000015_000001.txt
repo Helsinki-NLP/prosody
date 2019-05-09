@@ -1,0 +1,7 @@
+I	0	0
+thought	2	0
+he	0	0
+had	0	0
+been	0	1
+killed	2	2
+.	NA	NA

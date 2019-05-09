@@ -1,0 +1,10 @@
+They	2	0
+would	0	0
+lunch	1	1
+in	0	0
+Shaftesbury	2	1
+and	0	0
+walk	1	0
+round	2	0
+it	0	2
+.	NA	NA

@@ -1,0 +1,12 @@
+Bread	2	0
+must	0	1
+not	1	0
+be	0	0
+sold	1	1
+to	0	0
+the	0	0
+retailer	1	0
+at	0	1
+unreasonable	1	0
+prices	2	2
+.	NA	NA

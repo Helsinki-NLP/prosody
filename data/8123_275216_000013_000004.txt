@@ -1,0 +1,14 @@
+They	1	0
+are	0	1
+tall	2	1
+,	NA	NA
+slim	1	0
+Trees	0	1
+,	NA	NA
+not	2	2
+crooked	1	0
+old	0	1
+things	1	0
+like	0	0
+you	2	2
+.	NA	NA

@@ -1,0 +1,16 @@
+He	0	0
+found	2	0
+it	0	0
+more	1	0
+profitable	1	2
+,	NA	NA
+indeed	2	1
+,	NA	NA
+to	0	0
+extend	1	0
+his	0	1
+territories	1	0
+into	0	1
+Asia	1	0
+Minor	1	2
+.	NA	NA

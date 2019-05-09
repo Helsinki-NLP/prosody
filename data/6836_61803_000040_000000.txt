@@ -1,0 +1,11 @@
+The	0	1
+declaration	1	0
+is	0	0
+answered	1	0
+by	0	0
+a	1	2
+cry	2	0
+from	0	0
+the	0	1
+crowd	1	2
+.	NA	NA

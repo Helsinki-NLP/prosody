@@ -1,0 +1,8 @@
+Beyond	1	0
+that	0	2
+,	NA	NA
+Paris	2	1
+in	0	0
+the	0	0
+mist	1	2
+!	NA	NA

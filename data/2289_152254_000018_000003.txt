@@ -1,0 +1,8 @@
+I	0	0
+shall	2	1
+protect	2	1
+Eudoxia	0	0
+and	1	0
+her	0	1
+friends	1	2
+.	NA	NA

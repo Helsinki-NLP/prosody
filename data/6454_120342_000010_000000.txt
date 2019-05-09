@@ -1,0 +1,17 @@
+Carol	2	0
+,	NA	NA
+carol	0	0
+,	NA	NA
+Christians	0	1
+,	NA	NA
+Carol	0	0
+joyfully	2	2
+;	NA	NA
+Carol	2	0
+for	0	0
+the	0	0
+coming	0	0
+Of	0	0
+Christ's	1	1
+nativity	1	2
+.	NA	NA

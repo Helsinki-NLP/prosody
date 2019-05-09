@@ -1,0 +1,9 @@
+To	0	0
+set	1	1
+to	0	0
+work	1	0
+abruptly	2	2
+would	0	0
+never	1	0
+answer	2	2
+.	NA	NA

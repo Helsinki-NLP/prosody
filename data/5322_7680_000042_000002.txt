@@ -1,0 +1,8 @@
+The	0	0
+wind	1	1
+howled	2	1
+through	0	0
+the	0	0
+tree	0	0
+tops	2	2
+.	NA	NA

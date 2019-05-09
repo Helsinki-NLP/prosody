@@ -1,0 +1,13 @@
+Let	2	0
+us	0	0
+take	0	0
+a	0	0
+sample	0	0
+or	0	1
+two	0	0
+of	1	2
+Saki	2	2
+,	NA	NA
+nineteen	1	0
+eleven	2	2
+.	NA	NA

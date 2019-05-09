@@ -1,0 +1,10 @@
+There	0	0
+has	1	1
+been	1	0
+no	1	1
+delay	1	1
+;	NA	NA
+quite	2	0
+the	0	1
+contrary	2	2
+.	NA	NA

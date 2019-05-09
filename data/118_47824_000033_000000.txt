@@ -1,0 +1,12 @@
+Isn't	0	0
+that	1	0
+an	0	0
+automobile	1	0
+coming	0	1
+through	0	0
+the	0	0
+woods	1	1
+?	NA	NA
+he	0	0
+asked	2	2
+.	NA	NA

@@ -1,0 +1,16 @@
+But	0	0
+,	NA	NA
+Pencroft	1	0
+,	NA	NA
+answered	0	0
+Spilett	1	2
+,	NA	NA
+you	0	0
+are	1	0
+describing	2	0
+a	0	1
+picture	0	0
+of	0	0
+the	0	1
+Creator	2	2
+.	NA	NA

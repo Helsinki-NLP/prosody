@@ -1,0 +1,3 @@
+It's	0	0
+Coronel	1	2
+.	NA	NA

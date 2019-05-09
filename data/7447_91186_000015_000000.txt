@@ -1,0 +1,17 @@
+As	1	0
+a	0	0
+teacher	2	2
+he	0	0
+was	2	0
+genial	0	1
+,	NA	NA
+kind	2	1
+,	NA	NA
+encouraging	2	1
+and	1	0
+in	0	0
+every	0	0
+respect	2	1
+a	0	0
+model	2	2
+.	NA	NA

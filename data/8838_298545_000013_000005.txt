@@ -1,0 +1,7 @@
+dr	2	0
+Oldacre	0	1
+would	0	0
+not	0	1
+advance	2	0
+them	0	2
+.	NA	NA

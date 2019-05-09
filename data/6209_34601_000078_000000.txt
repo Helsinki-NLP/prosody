@@ -1,0 +1,8 @@
+Then	2	1
+he	0	0
+looked	0	0
+at	0	1
+the	0	0
+little	0	0
+infant	1	2
+.	NA	NA

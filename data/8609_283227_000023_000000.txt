@@ -1,0 +1,7 @@
+I'm	0	0
+not	2	0
+so	0	1
+sure	1	0
+of	0	1
+that	2	2
+.	NA	NA

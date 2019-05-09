@@ -1,0 +1,15 @@
+So	0	0
+they	0	1
+went	0	0
+away	1	1
+quietly	2	2
+to	0	0
+play	2	0
+what	0	1
+she	0	0
+had	0	1
+told	2	0
+them	0	1
+they	0	0
+must	2	2
+.	NA	NA

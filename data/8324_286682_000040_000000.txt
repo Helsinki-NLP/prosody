@@ -1,0 +1,7 @@
+Of	2	1
+course	2	1
+,	NA	NA
+answered	1	0
+the	0	0
+Bachelor	1	2
+.	NA	NA

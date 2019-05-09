@@ -1,0 +1,13 @@
+A	0	0
+variegated	2	1
+group	0	2
+of	0	0
+natives	2	0
+was	0	1
+near	0	0
+by	0	0
+,	NA	NA
+watching	1	1
+her	0	0
+intently	2	2
+.	NA	NA

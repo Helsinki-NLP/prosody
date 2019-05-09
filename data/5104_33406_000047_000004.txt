@@ -1,0 +1,13 @@
+I	0	0
+do	0	0
+not	1	0
+know	0	0
+,	NA	NA
+either	1	2
+,	NA	NA
+how	2	0
+long	0	0
+we	0	0
+must	0	1
+go	2	2
+.	NA	NA

@@ -1,0 +1,6 @@
+What	0	0
+were	1	0
+you	0	1
+doing	0	1
+there	2	2
+?	NA	NA

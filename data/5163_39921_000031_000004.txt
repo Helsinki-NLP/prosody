@@ -1,0 +1,11 @@
+Not	2	0
+that	0	0
+I	0	1
+disapprove	0	0
+of	0	1
+you	0	0
+personally	2	2
+far	2	0
+from	0	0
+it	2	2
+.	NA	NA

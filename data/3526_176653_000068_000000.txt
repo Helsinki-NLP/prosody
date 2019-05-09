@@ -1,0 +1,12 @@
+No	2	1
+use	0	0
+gittin'	1	1
+mad	1	0
+,	NA	NA
+young	0	1
+feller	2	2
+,	NA	NA
+he	1	0
+said	0	0
+coolly	1	2
+.	NA	NA

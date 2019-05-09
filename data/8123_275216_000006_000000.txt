@@ -1,0 +1,7 @@
+There	0	0
+was	0	0
+scarcely	0	0
+anything	1	0
+except	1	2
+Trees	2	2
+.	NA	NA

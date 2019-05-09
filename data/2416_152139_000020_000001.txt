@@ -1,0 +1,3 @@
+In	0	1
+private	2	2
+!	NA	NA

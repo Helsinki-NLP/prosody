@@ -1,0 +1,7 @@
+This	2	0
+delay	2	1
+was	0	0
+full	0	0
+of	0	1
+danger	1	2
+.	NA	NA

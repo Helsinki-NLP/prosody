@@ -1,0 +1,17 @@
+Much	2	0
+of	0	0
+the	0	0
+conversation	1	1
+naturally	2	1
+centered	1	1
+on	0	0
+the	0	0
+question	1	0
+of	0	0
+our	2	0
+moving	0	2
+to	0	0
+a	0	0
+new	0	0
+home	2	2
+.	NA	NA

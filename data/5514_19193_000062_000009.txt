@@ -1,0 +1,7 @@
+The	0	0
+barricade	1	0
+trembled	0	2
+;	NA	NA
+he	0	0
+sang	2	2
+.	NA	NA

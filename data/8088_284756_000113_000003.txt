@@ -1,0 +1,8 @@
+I'll	1	0
+try	1	0
+to	0	2
+impress	1	0
+that	0	0
+on	0	0
+her	1	2
+.	NA	NA

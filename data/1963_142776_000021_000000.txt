@@ -1,0 +1,3 @@
+LOBSTER	2	0
+SOUP	0	2
+.	NA	NA

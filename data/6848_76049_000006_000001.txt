@@ -1,0 +1,10 @@
+That	1	1
+affair	1	0
+was	0	1
+all	1	0
+right	0	2
+,	NA	NA
+quite	2	0
+all	0	0
+right	0	2
+.	NA	NA

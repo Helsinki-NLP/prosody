@@ -1,0 +1,13 @@
+So	1	0
+you	0	0
+like	2	0
+it	0	2
+,	NA	NA
+said	1	0
+Merriwig	1	1
+,	NA	NA
+trying	2	1
+to	0	0
+look	0	0
+modest	1	2
+.	NA	NA

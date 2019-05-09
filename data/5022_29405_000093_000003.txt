@@ -1,0 +1,8 @@
+Oh	2	1
+,	NA	NA
+what	0	0
+made	1	0
+you	0	1
+do	2	0
+that	0	2
+!	NA	NA

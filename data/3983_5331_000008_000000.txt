@@ -1,0 +1,12 @@
+mr	1	0
+Dill	1	0
+rose	1	1
+from	0	0
+his	0	1
+seat	1	2
+and	0	0
+shook	0	0
+hands	1	1
+with	0	0
+her	1	2
+.	NA	NA

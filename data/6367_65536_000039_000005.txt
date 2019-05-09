@@ -1,0 +1,10 @@
+Oh	1	1
+,	NA	NA
+fool	2	0
+and	0	2
+blind	2	1
+that	0	0
+he	0	0
+had	0	0
+been	1	2
+!	NA	NA

@@ -1,0 +1,8 @@
+He	0	0
+has	0	0
+shown	1	0
+his	0	1
+hand	0	1
+too	2	1
+plainly	1	2
+.	NA	NA

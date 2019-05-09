@@ -1,0 +1,10 @@
+It	0	0
+is	0	1
+carrying	2	1
+our	0	0
+ship	0	1
+away	2	0
+from	0	1
+this	0	0
+land	2	2
+.	NA	NA

@@ -1,0 +1,6 @@
+Do	2	0
+you	2	0
+think	0	0
+it	1	2
+can	1	2
+?	NA	NA

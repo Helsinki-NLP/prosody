@@ -1,0 +1,15 @@
+I	0	0
+think	0	0
+we	0	0
+are	0	0
+first	2	2
+,	NA	NA
+but	0	0
+great	1	0
+care	1	0
+is	0	0
+necessary	1	1
+,	NA	NA
+he	0	0
+whispered	2	2
+.	NA	NA

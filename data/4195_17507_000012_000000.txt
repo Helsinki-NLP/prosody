@@ -1,0 +1,13 @@
+We	0	0
+may	2	0
+as	0	1
+well	0	0
+drive	2	1
+to	0	0
+Amalfi	2	1
+to	0	0
+morrow	2	1
+,	NA	NA
+suggested	1	1
+Beth	2	2
+.	NA	NA

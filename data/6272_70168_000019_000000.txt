@@ -1,0 +1,12 @@
+I	0	0
+am	2	1
+afraid	1	0
+I	0	0
+make	0	1
+an	0	0
+idol	1	0
+of	0	0
+him	0	1
+,	NA	NA
+Cassy	2	2
+.	NA	NA

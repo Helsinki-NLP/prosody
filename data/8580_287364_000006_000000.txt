@@ -1,0 +1,9 @@
+Bless	2	1
+my	0	0
+tomato	2	0
+sauce	0	1
+!	NA	NA
+exploded	1	1
+mr	0	0
+Damon	1	2
+.	NA	NA

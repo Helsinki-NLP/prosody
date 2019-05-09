@@ -1,0 +1,17 @@
+I	2	0
+don't	0	1
+see	0	0
+anything	2	2
+,	NA	NA
+he	0	0
+said	2	1
+,	NA	NA
+and	0	0
+stuffed	2	0
+his	0	1
+hands	2	0
+deeper	0	0
+into	0	0
+his	0	1
+pockets	1	2
+.	NA	NA

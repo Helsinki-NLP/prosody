@@ -1,0 +1,7 @@
+He	0	0
+won't	2	1
+turn	0	0
+down	2	1
+your	0	0
+assistance	1	2
+.	NA	NA

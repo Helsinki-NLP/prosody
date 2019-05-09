@@ -1,0 +1,6 @@
+Did	1	0
+you	0	1
+tell	1	0
+the	0	1
+Dowager	2	2
+?	NA	NA

@@ -1,0 +1,16 @@
+Alice	2	0
+and	0	0
+I	0	0
+have	0	0
+seen	0	1
+Patience	2	2
+,	NA	NA
+and	0	0
+I	0	0
+fear	1	0
+I	0	1
+must	0	0
+surrender	1	0
+at	0	1
+discretion	1	2
+.	NA	NA

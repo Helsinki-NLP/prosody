@@ -1,0 +1,15 @@
+The	0	0
+girl	1	0
+was	0	0
+thinking	0	0
+of	0	1
+her	0	0
+suffering	2	2
+,	NA	NA
+taken	2	0
+out	0	0
+of	0	1
+her	0	0
+native	1	0
+element	2	2
+.	NA	NA

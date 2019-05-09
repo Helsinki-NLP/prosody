@@ -1,0 +1,3 @@
+Remsen	2	0
+meditated	0	2
+.	NA	NA

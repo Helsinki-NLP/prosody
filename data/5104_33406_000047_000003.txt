@@ -1,0 +1,6 @@
+We	0	0
+shall	1	0
+surely	2	0
+find	0	1
+something	2	2
+.	NA	NA

@@ -1,0 +1,4 @@
+Cannot	1	0
+you	0	1
+guess	2	2
+?	NA	NA

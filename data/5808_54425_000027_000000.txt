@@ -1,0 +1,15 @@
+Yes	2	1
+,	NA	NA
+replied	2	0
+Sadness	0	2
+,	NA	NA
+and	0	0
+dancing	1	0
+in	0	0
+rag	2	0
+time	1	0
+is	0	1
+the	0	0
+dialect	2	1
+poetry	1	2
+.	NA	NA

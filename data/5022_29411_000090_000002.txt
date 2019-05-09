@@ -1,0 +1,5 @@
+It's	0	1
+too	0	0
+late	1	1
+now	2	2
+.	NA	NA

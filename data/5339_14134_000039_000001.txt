@@ -1,0 +1,12 @@
+Alice	2	0
+was	0	1
+away	1	1
+,	NA	NA
+looking	0	0
+up	0	2
+Philip's	2	1
+things	1	1
+for	0	0
+his	0	0
+journey	2	2
+.	NA	NA

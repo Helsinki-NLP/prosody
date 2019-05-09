@@ -1,0 +1,14 @@
+Vagabonds	2	0
+are	0	2
+punished	2	1
+,	NA	NA
+honest	2	0
+folks	1	0
+who	0	1
+have	0	0
+houses	2	0
+are	0	1
+guarded	2	0
+and	0	1
+protected	2	2
+.	NA	NA

@@ -1,0 +1,12 @@
+The	0	0
+one	1	0
+he	0	0
+had	0	1
+just	0	0
+heard	1	1
+growling	1	2
+,	NA	NA
+the	0	0
+other	2	1
+speaking	1	2
+.	NA	NA

@@ -1,0 +1,13 @@
+My	0	0
+dear	2	2
+,	NA	NA
+my	1	0
+dear	0	0
+,	NA	NA
+what	1	0
+is	0	0
+it	0	1
+?	NA	NA
+she	0	0
+sobbed	2	2
+.	NA	NA

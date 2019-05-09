@@ -1,0 +1,12 @@
+Blending	2	0
+the	0	0
+nature	1	0
+of	0	0
+the	0	2
+star	2	0
+With	0	1
+that	1	0
+of	0	1
+summer	1	0
+skies	1	2
+;	NA	NA

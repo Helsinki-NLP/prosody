@@ -1,0 +1,10 @@
+Would	0	0
+the	0	0
+Nautilus	1	2
+dare	2	0
+to	0	1
+tackle	1	0
+the	0	1
+English	0	0
+Channel	2	2
+?	NA	NA

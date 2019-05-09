@@ -1,0 +1,13 @@
+You	0	0
+shall	1	0
+take	2	0
+us	0	1
+to	0	0
+them	0	1
+early	1	0
+in	0	1
+the	0	0
+morning	2	1
+,	2	2
+Tyrker	NA	NA
+.	NA	NA

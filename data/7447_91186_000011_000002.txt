@@ -1,0 +1,15 @@
+His	2	1
+Cat's	2	1
+Fugue	2	2
+,	NA	NA
+and	1	0
+his	0	0
+one	1	0
+movement	0	1
+sonatas	1	2
+still	2	0
+appear	1	0
+on	0	0
+concert	0	0
+programmes	1	2
+.	NA	NA

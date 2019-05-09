@@ -1,0 +1,13 @@
+Those	2	1
+who	0	0
+advocate	1	0
+such	0	1
+a	0	0
+policy	1	1
+do	0	0
+not	2	1
+occupy	2	1
+a	0	0
+lofty	1	1
+position	1	2
+.	NA	NA

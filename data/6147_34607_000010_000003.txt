@@ -1,0 +1,7 @@
+Heat	1	0
+sugar	1	0
+and	0	0
+it	0	1
+will	0	1
+boil	2	2
+.	NA	NA

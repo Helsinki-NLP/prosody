@@ -1,0 +1,10 @@
+At	0	0
+first	2	0
+I	0	0
+hesitated	1	2
+,	NA	NA
+but	2	0
+at	0	0
+length	0	0
+acquiesced	1	2
+.	NA	NA

@@ -1,0 +1,7 @@
+You	0	0
+have	0	0
+made	2	0
+him	0	0
+no	1	1
+promise	2	2
+?	NA	NA

@@ -1,0 +1,17 @@
+We	0	0
+cannot	1	0
+say	2	2
+;	NA	NA
+but	1	1
+only	2	0
+relate	1	0
+the	0	1
+fact	2	1
+that	0	0
+he	0	0
+shuddered	1	1
+and	0	0
+stepped	1	0
+back	1	0
+suddenly	1	2
+.	NA	NA

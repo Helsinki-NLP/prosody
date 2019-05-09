@@ -1,0 +1,8 @@
+I	1	0
+was	0	1
+silent	2	2
+;	NA	NA
+I	1	0
+was	0	0
+awed	1	2
+.	NA	NA

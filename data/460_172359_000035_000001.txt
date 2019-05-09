@@ -1,0 +1,7 @@
+Anyway	2	2
+,	NA	NA
+what's	1	0
+two	0	0
+hundred	0	0
+miles	1	2
+!	NA	NA

@@ -1,0 +1,9 @@
+The	0	0
+next	2	1
+five	2	0
+seconds	0	1
+were	0	0
+full	1	0
+of	0	1
+happenings	1	2
+.	NA	NA

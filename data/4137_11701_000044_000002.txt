@@ -1,0 +1,10 @@
+Wiggs	2	1
+and	0	0
+I	0	0
+have	0	1
+often	2	1
+talked	2	0
+about	0	0
+it	0	1
+together	2	2
+.	NA	NA

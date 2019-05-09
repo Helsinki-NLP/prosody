@@ -1,0 +1,7 @@
+Menaces	1	2
+I	0	0
+do	1	0
+not	0	1
+fear	2	0
+them	0	2
+.	NA	NA

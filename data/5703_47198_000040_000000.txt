@@ -1,0 +1,10 @@
+I	0	0
+could	0	0
+be	1	0
+ready	0	1
+,	NA	NA
+easily	1	2
+,	NA	NA
+said	2	0
+Juliet	2	2
+.	NA	NA

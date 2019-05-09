@@ -1,0 +1,13 @@
+Look	2	1
+,	NA	NA
+Natasha	2	0
+,	NA	NA
+how	0	1
+dreadfully	1	0
+it	0	1
+is	0	0
+burning	2	2
+!	NA	NA
+said	0	0
+she	1	2
+.	NA	NA

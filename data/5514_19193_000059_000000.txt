@@ -1,0 +1,13 @@
+A	0	0
+fifth	2	1
+bullet	1	0
+only	0	0
+succeeded	0	0
+in	0	1
+drawing	2	0
+from	1	0
+him	0	1
+a	0	0
+third	2	0
+couplet	1	2
+.	NA	NA

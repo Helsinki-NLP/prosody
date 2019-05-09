@@ -1,0 +1,9 @@
+I	0	0
+like	2	1
+that	2	1
+!	NA	NA
+that	1	0
+would	0	0
+be	0	1
+queer	2	2
+.	NA	NA

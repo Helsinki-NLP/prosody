@@ -1,0 +1,12 @@
+What	2	1
+on	0	0
+earth	1	0
+are	0	0
+you	0	1
+going	1	1
+to	0	0
+keep	1	1
+the	0	0
+fox	1	1
+for	2	2
+?	NA	NA

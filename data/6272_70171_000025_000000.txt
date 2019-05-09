@@ -1,0 +1,14 @@
+Mother	2	2
+,	NA	NA
+I	0	0
+said	0	0
+afterward	1	2
+,	NA	NA
+I	1	0
+am	0	0
+afraid	0	0
+I	0	0
+am	0	1
+an	0	0
+animal	1	2
+.	NA	NA

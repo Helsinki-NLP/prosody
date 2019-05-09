@@ -1,0 +1,16 @@
+Bark	2	0
+was	0	1
+laid	0	0
+upon	0	0
+the	0	0
+outside	1	2
+,	NA	NA
+and	0	0
+earth	2	1
+was	0	0
+thrown	1	0
+over	1	0
+the	0	1
+whole	0	0
+structure	2	2
+.	NA	NA

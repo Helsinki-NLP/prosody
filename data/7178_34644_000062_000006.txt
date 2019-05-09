@@ -1,0 +1,6 @@
+Well	2	1
+yes	2	0
+;	0	1
+'tis	NA	NA
+he	0	2
+!	NA	NA

@@ -1,0 +1,5 @@
+Everything	0	1
+was	0	0
+already	1	1
+past	2	2
+.	NA	NA

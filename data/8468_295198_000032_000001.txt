@@ -1,0 +1,7 @@
+You	0	0
+must	2	0
+have	0	1
+made	0	0
+a	0	1
+mistake	2	2
+.	NA	NA

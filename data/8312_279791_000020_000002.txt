@@ -1,0 +1,17 @@
+I	2	0
+shall	1	0
+at	0	1
+least	1	1
+be	1	0
+safe	2	1
+there	1	1
+for	0	0
+the	0	1
+five	1	0
+years	1	2
+that	2	0
+are	0	0
+to	0	1
+be	0	0
+endured	1	2
+.	NA	NA

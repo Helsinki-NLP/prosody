@@ -1,0 +1,11 @@
+I	0	0
+am	2	1
+going	0	1
+to	0	0
+invite	1	0
+Kate	0	1
+Ferris	2	1
+,	NA	NA
+she	0	0
+announced	1	2
+.	NA	NA

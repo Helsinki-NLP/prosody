@@ -1,0 +1,16 @@
+Still	2	0
+preceding	1	1
+Gwynplaine	1	2
+,	NA	NA
+he	0	0
+passed	2	0
+along	0	0
+the	0	0
+after	0	0
+deck	1	2
+,	NA	NA
+and	2	0
+across	0	1
+the	0	0
+gangway	1	2
+.	NA	NA

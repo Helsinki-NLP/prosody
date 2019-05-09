@@ -1,0 +1,12 @@
+The	0	0
+fragments	2	1
+came	1	0
+up	0	1
+as	0	0
+allusions	1	2
+or	0	0
+by	2	0
+way	0	0
+of	0	1
+illustration	2	2
+.	NA	NA

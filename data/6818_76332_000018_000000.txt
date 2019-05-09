@@ -1,0 +1,5 @@
+I	1	0
+think	0	0
+I	0	1
+did	2	2
+.	NA	NA

@@ -1,0 +1,14 @@
+Yes	2	0
+,	NA	NA
+and	0	1
+here's	2	1
+where	0	0
+Will	1	0
+made	0	0
+himself	0	0
+a	0	0
+seat	1	2
+,	NA	NA
+added	1	0
+Bluff	2	2
+.	NA	NA

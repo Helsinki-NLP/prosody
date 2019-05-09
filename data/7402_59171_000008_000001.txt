@@ -1,0 +1,12 @@
+On	1	0
+the	0	0
+contrary	1	0
+,	NA	NA
+I	0	0
+must	0	2
+do	0	0
+it	0	1
+more	1	0
+than	0	0
+ever	2	2
+.	NA	NA

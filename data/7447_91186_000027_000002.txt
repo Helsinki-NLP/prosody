@@ -1,0 +1,9 @@
+With	2	0
+it	0	1
+he	0	0
+exchanged	1	2
+the	0	0
+most	1	1
+subtle	2	0
+confidences	0	2
+.	NA	NA

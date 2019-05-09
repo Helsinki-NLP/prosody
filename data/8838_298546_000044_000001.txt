@@ -1,0 +1,4 @@
+Have	2	0
+your	0	0
+way	1	2
+.	NA	NA

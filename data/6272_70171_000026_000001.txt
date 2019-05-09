@@ -1,0 +1,12 @@
+I	1	0
+wish	0	1
+Hepsey	2	1
+would	0	0
+not	0	0
+load	1	0
+our	0	1
+table	2	0
+as	0	1
+she	0	0
+does	2	2
+.	NA	NA

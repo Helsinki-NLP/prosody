@@ -1,0 +1,12 @@
+Bring	2	0
+me	0	0
+up	0	1
+some	0	0
+sandwiches	2	1
+and	0	0
+a	0	0
+large	1	0
+glass	1	1
+of	0	0
+milk	1	2
+.	NA	NA

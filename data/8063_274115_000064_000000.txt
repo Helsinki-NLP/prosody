@@ -1,0 +1,3 @@
+Of	0	1
+park	2	2
+?	NA	NA

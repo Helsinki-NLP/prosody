@@ -1,0 +1,5 @@
+I	0	0
+haven't	2	1
+one	0	1
+thing	2	2
+.	NA	NA

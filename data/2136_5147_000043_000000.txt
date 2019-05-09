@@ -1,0 +1,15 @@
+'Yes	2	1
+,	NA	NA
+you	0	0
+may	2	2
+,	NA	NA
+but	2	0
+not	2	0
+for	0	0
+myself	1	0
+,	NA	NA
+Austin	0	1
+I'm	0	0
+not	0	0
+worthy	1	2
+.	NA	NA

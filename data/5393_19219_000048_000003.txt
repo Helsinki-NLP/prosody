@@ -1,0 +1,11 @@
+Goodman	1	0
+Days	1	0
+of	0	1
+Yore	1	2
+might	2	0
+have	0	1
+been	0	0
+invited	1	1
+to	0	0
+it	0	2
+.	NA	NA

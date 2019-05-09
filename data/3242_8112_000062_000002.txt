@@ -1,0 +1,9 @@
+Mantelish	2	0
+talks	2	0
+of	0	0
+something	0	1
+he	0	0
+calls	2	1
+proximity	2	1
+influence	1	2
+.	NA	NA

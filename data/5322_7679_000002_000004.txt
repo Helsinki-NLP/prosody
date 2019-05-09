@@ -1,0 +1,10 @@
+On	2	0
+entering	1	1
+the	0	0
+mud	1	1
+hut	2	1
+he	0	0
+lit	1	0
+a	0	1
+cigarette	2	2
+.	NA	NA

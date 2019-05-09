@@ -1,0 +1,7 @@
+What	0	0
+an	2	0
+old	0	2
+stupid	1	0
+I	0	0
+was	1	2
+!	NA	NA

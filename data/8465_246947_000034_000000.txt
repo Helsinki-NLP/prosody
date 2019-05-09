@@ -1,0 +1,7 @@
+What	1	0
+did	1	0
+he	0	1
+say	1	0
+to	0	1
+you	2	2
+?	NA	NA

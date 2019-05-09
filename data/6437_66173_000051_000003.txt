@@ -1,0 +1,6 @@
+That	2	1
+was	0	0
+bad	2	1
+for	0	0
+me	2	2
+.	NA	NA

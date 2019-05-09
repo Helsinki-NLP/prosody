@@ -1,0 +1,9 @@
+I	0	0
+saw	2	0
+you	0	1
+coming	1	1
+,	NA	NA
+but	0	0
+Longbill	1	0
+didn't	0	2
+.	NA	NA

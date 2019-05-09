@@ -1,0 +1,7 @@
+He	0	0
+says	2	2
+'What	0	0
+a	0	0
+little	1	0
+beauty	1	2
+!	NA	NA

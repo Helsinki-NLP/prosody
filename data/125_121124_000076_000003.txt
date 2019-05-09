@@ -1,0 +1,16 @@
+At	2	0
+the	0	0
+door	1	1
+he	0	0
+found	2	0
+his	0	1
+carriage	2	2
+,	NA	NA
+and	1	0
+was	0	0
+immediately	1	0
+driven	1	1
+to	0	0
+the	0	0
+bank	2	2
+.	NA	NA

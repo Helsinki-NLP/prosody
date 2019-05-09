@@ -1,0 +1,17 @@
+The	0	1
+flowers	2	1
+came	0	0
+up	0	0
+in	0	1
+multitudes	2	1
+from	0	0
+the	0	0
+earth	1	2
+,	NA	NA
+and	0	0
+everything	2	0
+looked	0	1
+fresh	1	0
+and	0	1
+gay	1	2
+.	NA	NA

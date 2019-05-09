@@ -1,0 +1,5 @@
+This	2	0
+hurt	0	0
+his	0	1
+pride	2	2
+.	NA	NA

@@ -1,0 +1,7 @@
+And	0	0
+that	2	0
+was	0	1
+a	0	0
+great	1	1
+mistake	1	2
+.	NA	NA

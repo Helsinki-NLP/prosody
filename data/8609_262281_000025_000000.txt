@@ -1,0 +1,12 @@
+Did	0	0
+I	0	0
+not	2	1
+request	2	1
+you	0	0
+to	0	0
+have	0	0
+that	0	1
+exercise	1	1
+written	0	0
+out	2	2
+?	NA	NA

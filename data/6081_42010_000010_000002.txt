@@ -1,0 +1,4 @@
+He	1	0
+understood	1	1
+everything	1	2
+.	NA	NA

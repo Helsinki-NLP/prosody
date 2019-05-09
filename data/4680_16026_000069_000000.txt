@@ -1,0 +1,6 @@
+Eponine	2	0
+made	0	1
+a	0	0
+final	1	0
+effort	0	2
+.	NA	NA

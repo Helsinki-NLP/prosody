@@ -1,0 +1,6 @@
+A	0	0
+New	1	0
+Proposition	1	2
+from	0	0
+Captain	1	0
+Nemo	2	2

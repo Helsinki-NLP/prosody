@@ -1,0 +1,15 @@
+It	1	0
+is	0	0
+in	0	0
+the	0	0
+nick	0	0
+of	0	1
+time	1	1
+,	NA	NA
+too	2	2
+,	NA	NA
+just	2	1
+at	1	0
+the	0	1
+crisis	1	2
+.	NA	NA

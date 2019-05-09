@@ -1,0 +1,6 @@
+Good	0	0
+bye	2	1
+!	NA	NA
+he	0	0
+panted	1	2
+.	NA	NA

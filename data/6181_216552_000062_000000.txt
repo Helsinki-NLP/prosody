@@ -1,0 +1,9 @@
+It	0	0
+is	1	0
+a	0	1
+boon	2	1
+as	0	1
+precious	2	1
+as	1	1
+liberty	2	2
+.	NA	NA

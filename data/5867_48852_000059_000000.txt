@@ -1,0 +1,9 @@
+I	1	0
+cannot	2	0
+change	0	1
+myself	1	1
+because	0	0
+he	0	0
+is	0	1
+changed	2	2
+.	NA	NA

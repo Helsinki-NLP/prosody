@@ -1,0 +1,14 @@
+But	0	0
+it	2	0
+was	0	0
+not	2	1
+till	0	0
+eight	1	1
+hundred	1	2
+that	1	0
+the	0	0
+final	1	1
+breach	2	1
+took	0	0
+place	1	2
+.	NA	NA

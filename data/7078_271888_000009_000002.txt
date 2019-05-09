@@ -1,0 +1,12 @@
+I	2	1
+knew	0	0
+her	1	2
+,	NA	NA
+though	2	0
+I	0	0
+did	0	0
+not	0	0
+tell	1	0
+him	0	1
+so	1	2
+.	NA	NA

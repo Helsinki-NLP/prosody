@@ -1,0 +1,6 @@
+Thank	2	0
+you	0	0
+,	NA	NA
+Miss	0	1
+Priscilla	1	2
+.	NA	NA

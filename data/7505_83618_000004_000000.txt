@@ -1,0 +1,15 @@
+Such	0	0
+uniformity	1	1
+points	1	0
+not	1	0
+to	0	0
+a	0	1
+common	1	0
+source	1	0
+in	0	1
+history	2	2
+,	NA	NA
+but	2	0
+in	0	0
+psychology	2	2
+.	NA	NA

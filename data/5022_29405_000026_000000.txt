@@ -1,0 +1,8 @@
+Are	2	0
+you	0	1
+the	0	0
+young	0	0
+master	0	1
+,	NA	NA
+sir	2	2
+?	NA	NA

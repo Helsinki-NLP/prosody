@@ -1,0 +1,7 @@
+Injury	1	0
+had	0	1
+perhaps	2	1
+already	1	0
+been	0	0
+done	2	2
+.	NA	NA

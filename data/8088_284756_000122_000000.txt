@@ -1,0 +1,7 @@
+I	1	1
+could	0	0
+sense	2	1
+Mercer's	1	1
+thoughts	2	1
+now	2	2
+.	NA	NA

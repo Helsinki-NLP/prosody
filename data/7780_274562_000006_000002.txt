@@ -1,0 +1,12 @@
+In	1	0
+the	0	0
+widest	2	1
+and	0	0
+noblest	1	0
+sense	1	2
+,	NA	NA
+he	0	0
+was	2	0
+a	0	1
+poet	2	2
+.	NA	NA

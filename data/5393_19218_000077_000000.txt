@@ -1,0 +1,7 @@
+Where	0	0
+does	2	1
+that	1	0
+wedding	0	1
+come	1	1
+from	2	2
+?	NA	NA

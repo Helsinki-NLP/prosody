@@ -1,0 +1,6 @@
+The	0	0
+directors	1	0
+admit	0	1
+so	2	1
+indiscriminately	2	2
+.	NA	NA

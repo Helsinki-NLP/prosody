@@ -1,0 +1,15 @@
+Her	0	0
+eyes	2	1
+blazed	1	0
+back	1	0
+at	0	0
+him	1	2
+,	NA	NA
+but	1	0
+she	0	0
+sang	0	0
+on	1	1
+insolently	1	1
+,	NA	NA
+tauntingly	2	2
+.	NA	NA

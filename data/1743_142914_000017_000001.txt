@@ -1,0 +1,6 @@
+I	1	0
+do	1	0
+,	NA	NA
+said	0	1
+he	2	2
+.	NA	NA

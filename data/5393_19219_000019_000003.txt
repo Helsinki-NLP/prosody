@@ -1,0 +1,5 @@
+There	0	0
+were	2	1
+flowers	1	0
+everywhere	0	2
+.	NA	NA

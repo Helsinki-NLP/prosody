@@ -1,0 +1,7 @@
+They	1	0
+don't	0	0
+eat	0	2
+;	NA	NA
+that's	2	0
+noble	1	2
+.	NA	NA

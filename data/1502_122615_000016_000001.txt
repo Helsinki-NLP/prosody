@@ -1,0 +1,15 @@
+Let	2	0
+'Reed	1	0
+that	0	1
+bends'	1	1
+go	1	0
+on	1	0
+the	0	1
+hunting	1	0
+path	1	2
+;	NA	NA
+he	0	0
+will	2	0
+meet	1	0
+them	1	2
+.	NA	NA

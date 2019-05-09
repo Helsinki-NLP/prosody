@@ -1,0 +1,3 @@
+Muso	1	0
+then	0	1
+inquired	2	2

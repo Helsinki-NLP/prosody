@@ -1,0 +1,17 @@
+There	1	0
+had	0	0
+been	0	1
+four	2	0
+disastrous	0	0
+defeats	1	2
+twice	2	0
+at	0	1
+Bull	1	0
+Run	0	2
+,	NA	NA
+followed	2	0
+by	0	0
+Fredericksburg	1	1
+and	0	0
+Chancellorsville	1	2
+.	NA	NA

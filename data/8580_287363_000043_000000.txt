@@ -1,0 +1,7 @@
+They're	2	1
+calling	1	0
+us	2	2
+!	NA	NA
+he	0	0
+exclaimed	1	2
+.	NA	NA

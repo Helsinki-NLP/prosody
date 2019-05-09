@@ -1,0 +1,8 @@
+It	1	0
+was	0	0
+certain	2	0
+that	0	1
+something	1	1
+had	0	0
+happened	2	2
+.	NA	NA

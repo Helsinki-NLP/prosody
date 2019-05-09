@@ -1,0 +1,11 @@
+The	0	0
+game	0	0
+went	0	0
+on	1	2
+,	NA	NA
+and	0	0
+the	0	0
+paddles	2	0
+kept	1	0
+moving	1	2
+.	NA	NA

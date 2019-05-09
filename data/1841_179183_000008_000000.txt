@@ -1,0 +1,3 @@
+THE	0	0
+SEEING	0	0
+HAND	1	2

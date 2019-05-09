@@ -1,0 +1,11 @@
+Things	2	0
+are	0	1
+going	1	0
+well	2	0
+now	0	2
+,	NA	NA
+said	2	0
+Bossuet	0	1
+to	0	0
+Enjolras	1	2
+.	NA	NA

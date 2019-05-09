@@ -1,0 +1,9 @@
+It's	1	0
+a	0	1
+cold	0	0
+day	2	2
+!	NA	NA
+yelled	1	0
+the	0	0
+scamp	1	2
+.	NA	NA

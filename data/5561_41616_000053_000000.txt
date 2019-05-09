@@ -1,0 +1,7 @@
+Hard	1	1
+to	0	0
+tell	2	0
+,	NA	NA
+said	0	1
+Nora	1	2
+.	NA	NA

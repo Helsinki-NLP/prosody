@@ -1,0 +1,10 @@
+He	1	0
+spoke	0	1
+in	0	0
+the	0	0
+market	2	2
+and	0	0
+other	2	1
+public	1	1
+places	2	2
+.	NA	NA

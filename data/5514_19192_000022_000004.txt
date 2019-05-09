@@ -1,0 +1,5 @@
+Many	2	0
+posts	0	1
+were	0	0
+attacked	2	2
+.	NA	NA

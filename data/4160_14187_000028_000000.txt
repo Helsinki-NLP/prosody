@@ -1,0 +1,15 @@
+It	1	0
+might	2	0
+have	0	0
+a	0	1
+considerable	1	0
+bearing	2	0
+on	0	1
+the	0	0
+present	1	1
+case	2	1
+,	NA	NA
+might	0	0
+it	1	1
+not	2	2
+?	NA	NA

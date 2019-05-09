@@ -1,0 +1,13 @@
+Carry	2	0
+has	0	1
+not	1	0
+finished	0	0
+her	0	1
+breakfast	0	1
+,	NA	NA
+Miss	0	0
+Channing	2	2
+,	NA	NA
+quoth	0	0
+she	2	2
+.	NA	NA

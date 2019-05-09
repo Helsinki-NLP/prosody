@@ -1,0 +1,11 @@
+He	0	0
+says	2	0
+that	0	0
+dr	1	1
+Gray's	1	1
+explanation	2	1
+is	0	0
+no	0	0
+doubt	2	1
+right	2	2
+.	NA	NA

@@ -1,0 +1,10 @@
+He	0	0
+poured	2	1
+bitter	2	2
+and	0	0
+biting	2	0
+ridicule	0	0
+on	0	0
+his	0	1
+discomfited	2	1
+opponents	1	2

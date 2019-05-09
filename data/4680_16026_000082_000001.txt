@@ -1,0 +1,12 @@
+The	0	1
+ventriloquist	2	1
+,	NA	NA
+however	1	2
+,	NA	NA
+finished	2	0
+his	0	1
+grin	1	1
+.	NA	NA
+She	1	0
+went	0	0
+on	0	2

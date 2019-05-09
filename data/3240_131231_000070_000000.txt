@@ -1,0 +1,14 @@
+A	2	0
+fall	0	0
+of	0	0
+fishes	1	0
+at	0	1
+Futtepoor	1	1
+,	NA	NA
+India	0	1
+,	NA	NA
+may	1	0
+sixteenth	2	2
+eighteen	2	0
+thirty	0	0
+three	2	2

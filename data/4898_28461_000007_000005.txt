@@ -1,0 +1,13 @@
+But	1	0
+to	0	0
+his	0	1
+surprise	2	0
+she	0	1
+floated	1	1
+through	1	0
+under	0	1
+the	0	0
+ice	1	1
+in	0	0
+safety	2	2
+.	NA	NA

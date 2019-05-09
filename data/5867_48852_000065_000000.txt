@@ -1,0 +1,7 @@
+Not	1	0
+stronger	1	2
+,	NA	NA
+but	0	0
+more	2	0
+certain	1	2
+.	NA	NA

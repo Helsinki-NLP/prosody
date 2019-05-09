@@ -1,0 +1,17 @@
+They	0	0
+had	2	0
+good	0	0
+ears	2	2
+,	NA	NA
+and	2	0
+there	0	0
+were	0	0
+also	1	0
+fine	2	1
+smelling	0	0
+bristles	1	2
+growing	2	0
+from	0	1
+their	0	0
+heads	2	2
+.	NA	NA

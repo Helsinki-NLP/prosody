@@ -1,0 +1,5 @@
+dr	2	0
+Payne	1	0
+was	0	1
+doubtful	2	2
+.	NA	NA

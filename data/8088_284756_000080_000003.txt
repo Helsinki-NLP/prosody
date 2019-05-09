@@ -1,0 +1,16 @@
+The	0	0
+other	1	0
+three	0	1
+circular	1	1
+electrodes	1	1
+rested	1	0
+on	0	1
+his	0	0
+forehead	2	1
+and	0	0
+either	0	0
+side	2	0
+of	0	1
+his	0	0
+head	2	2
+.	NA	NA

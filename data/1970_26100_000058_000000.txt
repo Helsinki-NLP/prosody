@@ -1,0 +1,5 @@
+The	0	1
+boy	2	0
+was	0	1
+trembling	1	2
+.	NA	NA

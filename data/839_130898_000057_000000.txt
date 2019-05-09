@@ -1,0 +1,5 @@
+What	2	0
+ship	2	0
+was	0	1
+this	1	2
+?	NA	NA

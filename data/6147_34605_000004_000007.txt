@@ -1,0 +1,14 @@
+Lord	2	0
+David	1	1
+was	0	0
+handsome	1	1
+,	NA	NA
+but	0	0
+that	2	0
+was	0	0
+over	1	0
+and	0	1
+above	2	0
+the	0	1
+bargain	2	2
+.	NA	NA

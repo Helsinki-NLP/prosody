@@ -1,0 +1,6 @@
+Useless	2	1
+to	0	0
+speculate	1	0
+on	0	0
+it	0	2
+!	NA	NA

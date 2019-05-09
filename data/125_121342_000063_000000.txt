@@ -1,0 +1,10 @@
+He	0	0
+fancied	2	1
+a	0	0
+possible	1	1
+future	1	0
+comment	0	1
+of	0	0
+his	0	0
+own	1	2
+.	NA	NA

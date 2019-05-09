@@ -1,0 +1,14 @@
+These	1	0
+two	1	0
+unlucky	1	0
+ventures	1	2
+did	2	0
+not	0	0
+prevent	1	0
+the	0	1
+princess	1	1
+from	0	0
+trying	1	0
+once	0	0
+more	1	2
+.	NA	NA

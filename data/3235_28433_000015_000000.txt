@@ -1,0 +1,16 @@
+At	0	0
+last	1	1
+we	0	0
+entered	1	0
+the	0	1
+Japan	1	0
+current	1	2
+and	0	0
+the	0	0
+weather	1	0
+was	0	1
+warmer	2	2
+and	0	0
+more	1	0
+enjoyable	1	2
+.	NA	NA

@@ -1,0 +1,9 @@
+There	2	0
+must	0	0
+be	0	2
+order	2	0
+in	0	0
+an	0	1
+established	1	0
+city	1	2
+.	NA	NA

@@ -1,0 +1,15 @@
+I	0	0
+could	2	0
+never	1	1
+find	1	1
+another	0	1
+father	1	1
+half	2	0
+as	0	1
+nice	2	0
+as	0	2
+the	0	0
+one	1	0
+I've	0	1
+got	2	2
+.	NA	NA

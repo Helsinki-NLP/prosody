@@ -1,0 +1,7 @@
+He	1	0
+is	0	0
+a	0	1
+most	2	1
+intractable	2	1
+man	2	2
+.	NA	NA

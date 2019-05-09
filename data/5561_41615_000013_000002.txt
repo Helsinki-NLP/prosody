@@ -1,0 +1,9 @@
+She	1	0
+had	0	1
+been	2	0
+on	0	0
+the	0	1
+point	1	0
+of	0	2
+telling	2	2
+.	NA	NA

@@ -1,0 +1,14 @@
+No	2	1
+,	NA	NA
+indeed	1	1
+,	NA	NA
+thank	1	1
+you	0	0
+;	NA	NA
+they	2	0
+are	0	1
+too	0	0
+much	1	0
+like	1	1
+lessons	0	2
+.	NA	NA

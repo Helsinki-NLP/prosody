@@ -1,0 +1,3 @@
+He	0	1
+spoke	2	2
+,	NA	NA

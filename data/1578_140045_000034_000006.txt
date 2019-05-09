@@ -1,0 +1,5 @@
+One	1	0
+would	0	1
+fancy	0	0
+not	2	2
+.	NA	NA

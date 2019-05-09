@@ -1,0 +1,8 @@
+Her	2	0
+life	1	0
+is	0	1
+her	0	0
+answer	2	1
+to	0	0
+them	2	2
+.	NA	NA

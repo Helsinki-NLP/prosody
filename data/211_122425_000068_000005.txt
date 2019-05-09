@@ -1,0 +1,3 @@
+On	1	0
+guard	2	2
+!	NA	NA

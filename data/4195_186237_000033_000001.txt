@@ -1,0 +1,13 @@
+I'll	2	0
+bet	1	0
+a	0	1
+penny	1	1
+you	0	0
+liked	2	2
+it	0	0
+as	0	0
+little	0	0
+as	0	1
+I	1	0
+did	2	2
+.	NA	NA

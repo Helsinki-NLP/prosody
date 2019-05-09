@@ -1,0 +1,6 @@
+We	0	0
+will	1	0
+relate	2	1
+the	0	0
+facts	1	2
+.	NA	NA

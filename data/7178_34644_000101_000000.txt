@@ -1,0 +1,9 @@
+And	0	0
+he	0	0
+stood	0	0
+up	2	2
+,	NA	NA
+pale	2	0
+as	0	1
+death	2	2
+.	NA	NA

@@ -1,0 +1,12 @@
+Why	2	0
+is	0	1
+that	0	1
+girl	2	0
+going	0	1
+to	0	0
+take	2	0
+part	0	0
+in	0	0
+the	0	1
+theatricals	2	2
+?	NA	NA

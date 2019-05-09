@@ -1,0 +1,7 @@
+Men	2	0
+knew	0	1
+not	1	0
+what	1	1
+to	0	0
+imagine	1	2
+.	NA	NA

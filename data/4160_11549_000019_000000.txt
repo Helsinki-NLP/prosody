@@ -1,0 +1,13 @@
+Theodora	2	0
+was	0	1
+reminded	1	0
+of	0	1
+Downport	1	1
+that	0	0
+day	1	0
+,	NA	NA
+in	0	0
+a	0	0
+hundred	0	0
+ways	1	2
+.	NA	NA

@@ -1,0 +1,11 @@
+A	0	0
+few	2	1
+instants	2	1
+alone	1	1
+separate	1	0
+us	0	0
+from	0	0
+an	0	1
+eventful	1	0
+moment	1	2
+.	NA	NA

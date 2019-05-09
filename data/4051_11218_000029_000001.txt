@@ -1,0 +1,7 @@
+Have	1	0
+you	0	1
+forgotten	2	1
+what	0	0
+guards	2	0
+it	0	2
+?	NA	NA

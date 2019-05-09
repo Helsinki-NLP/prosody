@@ -1,0 +1,5 @@
+We	0	0
+must	2	1
+start	1	1
+back	2	2
+.	NA	NA

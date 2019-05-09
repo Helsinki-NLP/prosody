@@ -1,0 +1,17 @@
+It	1	0
+increased	1	0
+my	0	0
+fury	2	2
+,	NA	NA
+as	2	0
+the	0	1
+beating	0	0
+of	0	0
+a	0	0
+drum	1	1
+stimulates	2	2
+the	0	0
+soldier	2	1
+into	0	0
+courage	1	2
+.	NA	NA

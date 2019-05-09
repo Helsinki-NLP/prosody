@@ -1,0 +1,7 @@
+They	1	0
+have	0	1
+killed	2	1
+my	0	1
+Papa	1	1
+day	2	2
+!	NA	NA

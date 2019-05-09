@@ -1,0 +1,16 @@
+The	0	0
+house	2	2
+,	NA	NA
+I	0	0
+think	0	0
+I	0	0
+said	2	0
+it	0	2
+,	NA	NA
+stood	2	0
+out	2	0
+behind	0	0
+the	0	1
+barber	0	0
+shop	1	2
+.	NA	NA

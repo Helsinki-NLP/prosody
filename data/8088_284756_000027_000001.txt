@@ -1,0 +1,12 @@
+You	0	0
+can	1	0
+judge	0	0
+for	0	1
+yourself	1	0
+whether	0	1
+the	0	0
+trip	1	1
+was	0	0
+worth	0	1
+while	2	2
+.	NA	NA

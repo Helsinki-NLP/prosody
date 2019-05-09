@@ -1,0 +1,8 @@
+But	1	0
+no	1	0
+,	NA	NA
+you	1	0
+are	0	1
+not	0	1
+afraid	2	2
+.	NA	NA

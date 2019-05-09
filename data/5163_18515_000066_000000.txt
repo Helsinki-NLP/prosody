@@ -1,0 +1,16 @@
+Phronsie	2	0
+dropped	1	2
+the	0	0
+pudgy	1	0
+little	0	0
+hand	1	2
+,	NA	NA
+and	1	0
+threw	0	0
+herself	1	0
+into	0	1
+old	1	0
+mr	0	0
+King's	0	0
+arms	1	2
+.	NA	NA

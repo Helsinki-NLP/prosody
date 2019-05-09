@@ -1,0 +1,12 @@
+But	0	0
+why	2	0
+these	0	0
+things	0	0
+should	0	1
+be	0	0
+so	2	2
+he	0	0
+could	0	0
+not	1	0
+understand	2	2
+.	NA	NA

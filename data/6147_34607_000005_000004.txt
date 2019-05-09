@@ -1,0 +1,15 @@
+Like	2	0
+Louis	0	0
+the	0	1
+fourteenth	1	2
+.	NA	NA
+,	NA	NA
+she	0	0
+liked	2	0
+to	0	1
+be	0	0
+driven	1	0
+at	0	1
+a	0	0
+gallop	1	2
+.	NA	NA

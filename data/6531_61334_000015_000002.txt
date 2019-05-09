@@ -1,0 +1,12 @@
+Artists	2	1
+and	0	0
+artisans	1	1
+were	2	0
+also	0	1
+provided	1	1
+by	0	0
+the	0	0
+vassals	2	0
+of	0	1
+Assyria	1	2
+.	NA	NA

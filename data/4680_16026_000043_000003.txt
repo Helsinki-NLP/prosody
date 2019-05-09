@@ -1,0 +1,4 @@
+I'm	0	1
+not	0	0
+in	2	2
+.	NA	NA

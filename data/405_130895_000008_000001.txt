@@ -1,0 +1,4 @@
+Not	1	0
+a	0	1
+thing	2	2
+.	NA	NA

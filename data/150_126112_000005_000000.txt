@@ -1,0 +1,8 @@
+Here	0	0
+I	0	0
+am	1	2
+,	NA	NA
+said	1	0
+the	0	1
+prince	2	2
+.	NA	NA

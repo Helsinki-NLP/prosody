@@ -1,0 +1,14 @@
+He	0	1
+had	0	0
+asked	2	1
+Princess	0	0
+Mary	1	0
+to	0	1
+be	0	0
+gentle	2	2
+and	0	0
+kind	2	1
+to	0	0
+his	0	0
+cousin	1	2
+.	NA	NA

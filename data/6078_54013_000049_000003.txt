@@ -1,0 +1,14 @@
+After	0	0
+that	2	0
+the	0	1
+sky	1	0
+cleared	2	0
+once	0	1
+more	1	2
+,	NA	NA
+and	0	0
+,	NA	NA
+lo	1	0
+and	0	1
+behold	2	2
+!	NA	NA

@@ -1,0 +1,16 @@
+Frank	0	0
+Wright	2	1
+,	NA	NA
+a	0	0
+Choctaw	2	2
+,	NA	NA
+is	0	0
+well	1	0
+known	0	0
+as	1	0
+an	0	1
+evangelistic	1	1
+preacher	2	1
+and	1	0
+singer	1	2
+.	NA	NA

@@ -1,0 +1,6 @@
+There	2	0
+is	0	1
+but	0	0
+one	0	0
+God	1	2
+.	NA	NA

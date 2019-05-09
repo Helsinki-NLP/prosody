@@ -1,0 +1,9 @@
+First	2	1
+there	1	0
+came	0	0
+the	0	0
+youths	2	2
+Castor	1	0
+and	0	0
+Polydeuces	1	2
+.	NA	NA

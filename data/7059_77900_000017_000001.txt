@@ -1,0 +1,13 @@
+It	2	0
+would	0	0
+be	0	1
+kind	2	0
+of	0	1
+conjugal	2	0
+,	NA	NA
+or	0	1
+filial	2	0
+,	NA	NA
+or	0	1
+something	2	2
+.	NA	NA

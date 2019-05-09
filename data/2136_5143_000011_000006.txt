@@ -1,0 +1,11 @@
+She	1	0
+produced	1	1
+a	0	0
+document	2	1
+in	0	0
+the	0	0
+form	1	0
+of	0	0
+a	0	1
+note	2	2
+.	NA	NA

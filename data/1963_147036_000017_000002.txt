@@ -1,0 +1,7 @@
+She	2	0
+looked	0	1
+up	2	0
+at	0	1
+his	0	0
+words	1	2
+.	NA	NA

@@ -1,0 +1,7 @@
+I	0	0
+foamed	2	1
+I	0	0
+raved	2	1
+I	0	0
+swore	2	2
+!	NA	NA

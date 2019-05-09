@@ -1,0 +1,8 @@
+I	0	0
+shall	2	0
+think	1	1
+no	0	0
+more	1	0
+of	0	1
+her	1	2
+.	NA	NA

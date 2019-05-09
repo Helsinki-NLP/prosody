@@ -1,0 +1,11 @@
+What's	0	1
+to	0	0
+pay	2	1
+,	NA	NA
+Dick	1	2
+?	NA	NA
+said	0	0
+the	0	0
+young	0	0
+man	0	2
+.	NA	NA

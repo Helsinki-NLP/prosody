@@ -1,0 +1,16 @@
+It's	0	0
+a	0	0
+pity	1	0
+she	0	0
+isn't	0	1
+his	0	0
+dog	2	2
+;	NA	NA
+she	2	0
+might	0	1
+keep	0	0
+at	0	0
+his	0	1
+feet	1	1
+then	2	2
+.	NA	NA

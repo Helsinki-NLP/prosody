@@ -1,0 +1,9 @@
+From	0	0
+this	2	0
+height	0	2
+they	1	0
+commanded	0	1
+all	2	1
+Union	0	0
+Bay	1	2
+.	NA	NA

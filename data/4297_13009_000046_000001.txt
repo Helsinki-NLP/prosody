@@ -1,0 +1,8 @@
+He	0	0
+certainly	2	0
+couldn't	0	1
+go	2	0
+as	0	1
+Lord	1	1
+Lieutenant	2	2
+.	NA	NA

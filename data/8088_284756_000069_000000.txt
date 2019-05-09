@@ -1,0 +1,5 @@
+Mercer's	2	0
+eyes	0	0
+were	0	1
+dancing	1	2
+.	NA	NA

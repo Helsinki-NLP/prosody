@@ -1,0 +1,8 @@
+Do	0	0
+you	1	0
+think	1	0
+she	0	0
+will	0	1
+have	1	0
+him	2	2
+?	NA	NA

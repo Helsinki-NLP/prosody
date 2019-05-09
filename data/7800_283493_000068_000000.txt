@@ -1,0 +1,13 @@
+Bluff	2	1
+and	1	0
+Jerry	0	0
+shook	0	0
+hands	0	1
+gravely	0	0
+all	1	0
+around	0	1
+,	NA	NA
+even	2	0
+with	0	1
+Teddy	2	2
+.	NA	NA

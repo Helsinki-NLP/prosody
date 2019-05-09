@@ -1,0 +1,17 @@
+It	2	0
+was	0	0
+appropriated	1	1
+to	0	0
+solid	2	0
+food	0	1
+,	NA	NA
+rather	2	0
+than	0	1
+to	0	0
+flowers	2	0
+,	NA	NA
+fruits	1	1
+,	NA	NA
+and	0	0
+decorations	1	2
+.	NA	NA

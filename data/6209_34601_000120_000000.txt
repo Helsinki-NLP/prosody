@@ -1,0 +1,10 @@
+I	2	0
+was	0	2
+abandoned	2	1
+this	0	1
+evening	2	1
+on	0	0
+the	0	0
+sea	0	0
+shore	1	2
+.	NA	NA

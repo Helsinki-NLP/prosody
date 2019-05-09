@@ -1,0 +1,15 @@
+It	2	0
+was	0	0
+their	0	1
+dying	0	0
+mother's	1	0
+last	0	1
+request	2	2
+that	2	0
+I	0	0
+should	0	1
+do	0	0
+no	1	1
+such	1	1
+thing	2	2
+.	NA	NA

@@ -1,0 +1,4 @@
+I	2	1
+suppose	2	0
+so	1	2
+.	NA	NA

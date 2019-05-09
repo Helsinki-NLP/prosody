@@ -1,0 +1,5 @@
+Speak	1	0
+quickly	1	1
+,	NA	NA
+friend	2	2
+.	NA	NA

@@ -1,0 +1,7 @@
+The	0	0
+world	2	0
+is	0	0
+on	0	1
+your	0	0
+shoulders	1	2
+.	NA	NA

@@ -1,0 +1,14 @@
+Can	0	0
+she	0	0
+be	0	0
+wearied	0	0
+out	0	1
+,	NA	NA
+and	0	0
+gone	1	0
+to	0	2
+sleep	1	1
+,	NA	NA
+he	1	0
+wondered	2	2
+.	NA	NA

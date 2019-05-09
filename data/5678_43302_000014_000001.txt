@@ -1,0 +1,8 @@
+He	0	0
+knew	2	0
+this	0	1
+tender	0	0
+trait	2	1
+in	0	0
+her	2	2
+.	NA	NA

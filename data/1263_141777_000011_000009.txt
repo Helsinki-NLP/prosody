@@ -1,0 +1,6 @@
+And	0	0
+was	0	1
+waiting	2	1
+for	0	0
+what	2	2
+?	NA	NA

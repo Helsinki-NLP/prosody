@@ -1,0 +1,6 @@
+I	1	0
+was	0	1
+sure	2	0
+of	0	1
+it	1	2
+.	NA	NA

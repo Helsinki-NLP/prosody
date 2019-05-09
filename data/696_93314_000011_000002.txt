@@ -1,0 +1,17 @@
+He	0	0
+turned	1	0
+away	2	2
+,	NA	NA
+and	0	0
+went	1	0
+back	2	0
+along	0	1
+the	0	0
+green	0	0
+path	1	0
+with	0	1
+hell	2	1
+in	0	0
+his	0	0
+heart	1	2
+.	NA	NA

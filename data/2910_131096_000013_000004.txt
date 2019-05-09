@@ -1,0 +1,15 @@
+Drawn	2	0
+by	0	1
+admiration	1	0
+and	0	1
+wonder	2	2
+,	NA	NA
+she	1	0
+approached	2	1
+the	0	0
+building	2	0
+and	0	1
+ventured	1	0
+to	0	0
+enter	1	2
+.	NA	NA

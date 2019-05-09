@@ -1,0 +1,3 @@
+Nora	2	0
+nodded	0	2
+.	NA	NA

@@ -1,0 +1,7 @@
+Look	2	0
+at	0	0
+it	0	2
+!	NA	NA
+panted	2	0
+Dick	0	2
+.	NA	NA

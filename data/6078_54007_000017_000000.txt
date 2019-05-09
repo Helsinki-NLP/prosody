@@ -1,0 +1,5 @@
+I	2	0
+am	1	1
+Ill	0	0
+Luck	1	2
+!	NA	NA

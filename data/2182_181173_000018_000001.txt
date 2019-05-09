@@ -1,0 +1,9 @@
+I	2	0
+hope	1	1
+you'll	0	0
+come	1	0
+to	0	1
+see	1	0
+me	0	1
+sometime	1	2
+.	NA	NA

@@ -1,0 +1,6 @@
+I	0	0
+have	2	0
+been	0	1
+told	2	1
+so	1	2
+.	NA	NA

@@ -1,0 +1,15 @@
+As	2	0
+we	0	0
+went	0	1
+along	1	1
+,	NA	NA
+I	0	0
+saw	2	0
+a	0	1
+place	2	1
+where	0	0
+English	0	0
+cattle	2	1
+had	0	0
+been	2	2
+.	NA	NA

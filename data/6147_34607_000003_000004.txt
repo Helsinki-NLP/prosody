@@ -1,0 +1,14 @@
+Her	0	0
+stoutness	2	1
+was	0	0
+bloated	2	1
+,	NA	NA
+her	0	0
+fun	2	0
+heavy	1	2
+,	NA	NA
+her	0	0
+good	1	0
+nature	0	0
+stupid	1	2
+.	NA	NA

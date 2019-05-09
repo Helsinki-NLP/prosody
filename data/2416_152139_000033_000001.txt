@@ -1,0 +1,14 @@
+Then	2	1
+,	NA	NA
+with	0	0
+an	0	0
+effort	1	1
+,	NA	NA
+he	0	0
+jerked	1	0
+himself	2	2
+erect	2	1
+in	0	0
+his	0	0
+chair	2	2
+.	NA	NA

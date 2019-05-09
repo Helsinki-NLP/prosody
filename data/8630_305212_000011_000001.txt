@@ -1,0 +1,9 @@
+The	0	0
+wealthier	2	0
+students	0	1
+gloried	2	0
+in	0	1
+their	0	0
+bad	1	1
+reputation	2	2
+.	NA	NA

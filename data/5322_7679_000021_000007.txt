@@ -1,0 +1,16 @@
+The	0	0
+captain	2	0
+and	0	1
+the	0	0
+head	1	0
+of	0	0
+the	0	1
+village	0	0
+entered	0	1
+the	0	0
+mud	0	0
+hut	2	2
+to	0	0
+regale	2	1
+themselves	1	2
+.	NA	NA

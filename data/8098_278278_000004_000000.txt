@@ -1,0 +1,17 @@
+A	0	0
+little	1	0
+green	0	0
+eyed	0	0
+Irish	0	1
+girl	0	0
+,	NA	NA
+five	0	1
+days	0	0
+old	1	0
+,	NA	NA
+was	0	0
+named	1	2
+Pythagorina	2	2
+Podina	0	0
+Mulgarry	2	2
+.	NA	NA

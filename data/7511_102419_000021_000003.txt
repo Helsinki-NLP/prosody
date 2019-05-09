@@ -1,0 +1,12 @@
+The	0	0
+rest	2	0
+of	0	0
+us	0	1
+were	0	0
+mighty	1	1
+near	1	0
+as	0	1
+foolish	1	0
+as	0	1
+they	2	2
+.	NA	NA

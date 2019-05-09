@@ -1,0 +1,8 @@
+So	1	0
+saying	2	1
+the	0	0
+gnome	2	2
+took	1	0
+himself	1	0
+off	0	2
+.	NA	NA

@@ -1,0 +1,14 @@
+But	1	1
+things	1	0
+are	0	0
+ever	0	0
+grouping	1	1
+themselves	0	0
+according	0	1
+to	0	0
+higher	2	1
+or	0	0
+more	0	0
+interior	1	0
+laws	2	2
+.	NA	NA

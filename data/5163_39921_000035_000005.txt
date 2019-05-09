@@ -1,0 +1,17 @@
+You	0	0
+need	1	0
+some	0	1
+refreshment	2	0
+after	0	1
+your	0	0
+long	1	0
+walk	1	2
+.	1	0
+mrs	NA	NA
+Cropper	2	0
+will	0	1
+bring	0	0
+you	0	0
+in	0	0
+something	1	2
+.	NA	NA

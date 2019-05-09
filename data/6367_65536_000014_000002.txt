@@ -1,0 +1,9 @@
+But	1	0
+his	1	1
+heart	2	0
+was	0	1
+not	2	2
+in	1	0
+his	0	0
+work	2	2
+.	NA	NA

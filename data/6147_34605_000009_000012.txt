@@ -1,0 +1,14 @@
+She	0	0
+was	2	0
+,	NA	NA
+in	0	1
+the	0	0
+insolence	0	1
+of	0	0
+high	1	0
+birth	2	2
+,	NA	NA
+tempting	2	1
+and	2	0
+inaccessible	1	2
+.	NA	NA

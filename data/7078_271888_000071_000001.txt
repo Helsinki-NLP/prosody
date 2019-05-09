@@ -1,0 +1,8 @@
+I	0	0
+was	2	0
+amusing	0	0
+myself	1	2
+until	1	0
+your	0	1
+return	2	2
+.	NA	NA

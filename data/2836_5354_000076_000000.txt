@@ -1,0 +1,12 @@
+Sir	1	1
+Francis	1	0
+Levison	1	1
+approached	2	0
+to	0	2
+greet	0	0
+her	2	0
+as	0	0
+he	0	1
+came	1	0
+in	2	2
+.	NA	NA

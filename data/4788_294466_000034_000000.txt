@@ -1,0 +1,12 @@
+His	0	0
+friendly	2	0
+,	NA	NA
+toothless	1	1
+smile	2	0
+was	0	1
+directed	1	0
+at	0	0
+the	0	1
+smaller	2	0
+girl	1	2
+.	NA	NA

@@ -1,0 +1,8 @@
+Your	0	0
+husband	2	2
+!	NA	NA
+sarcastically	1	0
+rejoined	0	0
+Sir	0	0
+Francis	1	2
+.	NA	NA

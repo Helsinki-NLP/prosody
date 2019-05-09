@@ -1,0 +1,17 @@
+When	2	0
+you	0	0
+marry	2	1
+I	0	0
+will	0	0
+tell	0	0
+your	0	0
+wife	1	1
+what	0	0
+an	0	2
+infinite	1	1
+blessing	1	1
+God	2	0
+has	0	1
+given	1	0
+her	0	2
+.	NA	NA

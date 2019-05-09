@@ -1,0 +1,8 @@
+Come	2	2
+!	NA	NA
+take	1	0
+your	0	0
+supper	0	0
+,	NA	NA
+creature	1	2
+!	NA	NA

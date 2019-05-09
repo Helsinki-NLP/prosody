@@ -1,0 +1,13 @@
+Are	2	0
+there	0	0
+not	2	1
+cases	1	0
+where	0	1
+insurrection	1	0
+rises	1	1
+to	0	0
+the	0	1
+dignity	1	0
+of	0	0
+duty	1	2
+?	NA	NA

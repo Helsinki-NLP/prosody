@@ -1,0 +1,17 @@
+Hard	1	0
+hitting	0	0
+was	1	0
+the	0	1
+feature	0	0
+of	0	0
+his	0	0
+own	0	1
+style	2	2
+,	NA	NA
+and	1	0
+he	0	1
+exacted	2	0
+it	0	1
+from	0	0
+others	1	2
+.	NA	NA

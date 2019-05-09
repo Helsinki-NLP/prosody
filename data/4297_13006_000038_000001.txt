@@ -1,0 +1,13 @@
+I	2	0
+would	0	0
+not	1	0
+wish	2	0
+that	0	1
+there	0	0
+should	2	1
+be	1	0
+opportunity	0	1
+for	0	0
+such	0	0
+asking	1	2
+.	NA	NA

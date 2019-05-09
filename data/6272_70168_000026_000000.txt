@@ -1,0 +1,11 @@
+Grand'ther	2	0
+does	0	0
+not	0	0
+like	1	0
+me	0	2
+;	NA	NA
+I	0	0
+never	2	0
+pleased	1	0
+him	0	2
+.	NA	NA

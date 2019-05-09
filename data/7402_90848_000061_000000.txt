@@ -1,0 +1,9 @@
+He	0	1
+opened	2	0
+the	0	1
+cover	1	0
+of	0	1
+the	0	0
+ebony	1	1
+box	1	2
+.	NA	NA

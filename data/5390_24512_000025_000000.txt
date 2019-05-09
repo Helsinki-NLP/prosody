@@ -1,0 +1,5 @@
+Josephus	2	1
+pleaded	1	1
+in	0	0
+vain	2	2
+.	NA	NA

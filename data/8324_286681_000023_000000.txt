@@ -1,0 +1,13 @@
+Well	2	0
+,	NA	NA
+they	0	0
+don't	1	1
+swim	2	0
+in	0	1
+air	2	2
+,	NA	NA
+said	1	0
+the	0	0
+saucy	0	0
+one	1	2
+.	NA	NA

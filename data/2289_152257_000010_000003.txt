@@ -1,0 +1,11 @@
+One	0	0
+of	0	0
+them	0	0
+was	0	0
+named	0	1
+Belisarius	2	2
+and	0	0
+the	0	0
+other	2	1
+Narses	2	2
+.	NA	NA

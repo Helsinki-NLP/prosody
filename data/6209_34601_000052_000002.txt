@@ -1,0 +1,9 @@
+A	0	0
+nice	2	1
+state	1	1
+to	0	0
+come	1	0
+into	0	0
+a	0	1
+house	2	2
+!	NA	NA

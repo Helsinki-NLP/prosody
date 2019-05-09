@@ -1,0 +1,7 @@
+Well	2	0
+,	NA	NA
+this	0	1
+is	0	0
+very	2	1
+strange	1	2
+.	NA	NA

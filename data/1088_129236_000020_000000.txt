@@ -1,0 +1,9 @@
+The	0	0
+ancients	2	2
+called	1	0
+beauty	1	0
+the	0	1
+flowering	1	1
+of	0	0
+virtue	1	2
+.	NA	NA

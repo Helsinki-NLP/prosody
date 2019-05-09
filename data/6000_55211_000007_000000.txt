@@ -1,0 +1,9 @@
+Eleven	2	0
+if	0	1
+you	0	0
+can	1	0
+,	NA	NA
+at	0	1
+Park	2	0
+Street	0	2
+.	NA	NA

@@ -1,0 +1,13 @@
+At	0	0
+this	2	0
+point	0	1
+Ruggles	2	0
+and	0	1
+I	0	1
+differ	2	0
+as	0	1
+to	0	0
+what	0	0
+came	0	0
+next	2	2
+.	NA	NA

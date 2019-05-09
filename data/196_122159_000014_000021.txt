@@ -1,0 +1,14 @@
+They	2	0
+made	0	0
+up	0	0
+a	0	1
+story	2	2
+,	NA	NA
+and	1	0
+believed	1	0
+it	0	1
+for	1	0
+all	0	0
+I	0	0
+know	1	2
+.	NA	NA

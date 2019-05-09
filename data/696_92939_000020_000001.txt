@@ -1,0 +1,5 @@
+Have	1	1
+pity	2	0
+on	0	1
+her	2	2
+.	NA	NA

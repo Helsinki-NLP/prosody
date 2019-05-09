@@ -1,0 +1,11 @@
+You	0	0
+may	1	1
+put	1	0
+up	0	1
+our	1	1
+horses	2	2
+and	0	0
+earn	1	0
+a	0	1
+dime	2	2
+.	NA	NA

@@ -1,0 +1,6 @@
+Be	2	0
+here	0	0
+at	0	1
+eight	2	1
+thirty	2	2
+.	NA	NA

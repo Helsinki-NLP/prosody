@@ -1,0 +1,4 @@
+There	0	0
+circulation	2	1
+ceased	0	2
+.	NA	NA

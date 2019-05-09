@@ -1,0 +1,5 @@
+But	0	0
+no	2	0
+answer	0	1
+came	2	2
+.	NA	NA

@@ -1,0 +1,7 @@
+A	1	0
+specimen	0	0
+of	0	0
+an	1	0
+English	0	1
+gentleman	2	2
+.	NA	NA

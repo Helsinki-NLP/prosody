@@ -1,0 +1,8 @@
+Only	2	0
+an	0	1
+artist	2	1
+can	0	0
+appreciate	2	1
+her	0	0
+beauty	1	2
+.	NA	NA

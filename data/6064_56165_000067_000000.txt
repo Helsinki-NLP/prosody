@@ -1,0 +1,8 @@
+He	1	0
+is	0	0
+always	2	1
+pale	1	2
+,	NA	NA
+said	1	0
+Edith	1	2
+.	NA	NA

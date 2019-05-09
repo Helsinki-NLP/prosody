@@ -1,0 +1,16 @@
+Helen	1	1
+,	NA	NA
+he	0	0
+said	2	2
+,	NA	NA
+that	2	0
+IS	1	0
+a	0	0
+good	0	0
+fellow	1	2
+,	NA	NA
+SUCH	2	0
+a	0	1
+good	0	0
+fellow	1	2
+!	NA	NA

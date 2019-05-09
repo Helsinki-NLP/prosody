@@ -1,0 +1,14 @@
+If	0	0
+he	0	0
+marries	1	0
+me	0	2
+,	NA	NA
+he	0	0
+shall	2	0
+never	0	0
+have	0	1
+cause	1	1
+for	0	0
+regret	2	2
+never	2	2
+!	NA	NA

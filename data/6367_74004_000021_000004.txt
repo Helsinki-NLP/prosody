@@ -1,0 +1,13 @@
+They	2	0
+couldn't	1	1
+see	0	0
+us	2	1
+,	NA	NA
+but	0	0
+we	0	0
+could	1	0
+see	0	0
+them	0	1
+quite	2	1
+plainly	2	2
+.	NA	NA

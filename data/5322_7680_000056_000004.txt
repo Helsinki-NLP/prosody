@@ -1,0 +1,5 @@
+Shall	1	0
+we	0	1
+go	0	1
+together	2	2
+?	NA	NA

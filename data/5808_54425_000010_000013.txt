@@ -1,0 +1,9 @@
+For	2	0
+almost	0	1
+four	2	0
+years	0	0
+this	0	1
+had	1	0
+happened	0	0
+intermittently	1	2
+.	NA	NA

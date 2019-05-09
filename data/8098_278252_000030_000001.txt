@@ -1,0 +1,17 @@
+I	0	0
+put	0	0
+my	1	0
+foot	2	0
+in	0	0
+it	0	2
+the	0	0
+genuine	1	1
+red	1	0
+and	0	1
+yellow	1	0
+mixture	0	2
+of	0	0
+real	1	1
+Ohio	1	1
+clay	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+Representative	2	1
+Carter	1	0
+of	0	0
+Oklahoma	1	2
+is	2	0
+also	0	0
+an	0	0
+Indian	0	2
+.	NA	NA

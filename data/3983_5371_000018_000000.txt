@@ -1,0 +1,7 @@
+I	0	0
+am	2	0
+accustomed	1	1
+to	0	0
+colored	1	0
+ones	0	2
+.	NA	NA

@@ -1,0 +1,11 @@
+Continuation	2	0
+of	0	2
+Fremont's	2	1
+Account	1	0
+of	0	1
+the	0	0
+Passage	2	1
+Through	0	0
+the	0	0
+Mountains	1	2
+.	NA	NA

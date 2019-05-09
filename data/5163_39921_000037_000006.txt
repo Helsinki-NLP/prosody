@@ -1,0 +1,14 @@
+Then	2	0
+an	0	0
+odd	1	1
+smile	2	1
+gleamed	0	0
+over	0	1
+her	0	0
+face	2	1
+and	0	0
+she	0	0
+lifted	0	0
+her	0	0
+kodak	1	2
+.	NA	NA

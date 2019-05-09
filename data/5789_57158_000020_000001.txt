@@ -1,0 +1,9 @@
+Lady	1	0
+Ushant	2	1
+is	0	0
+my	0	0
+dearest	1	1
+,	NA	NA
+dearest	2	1
+friend	1	2
+.	NA	NA

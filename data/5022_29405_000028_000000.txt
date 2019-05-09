@@ -1,0 +1,12 @@
+In	1	0
+a	0	0
+minute	0	0
+after	2	2
+,	NA	NA
+the	0	0
+door	1	0
+was	0	0
+opened	2	1
+from	0	0
+without	2	2
+.	NA	NA

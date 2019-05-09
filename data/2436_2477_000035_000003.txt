@@ -1,0 +1,14 @@
+By	1	0
+Satan	1	1
+,	NA	NA
+what	1	0
+a	0	1
+flow	2	0
+of	0	1
+words	1	0
+that	1	2
+devil	2	0
+driver	0	0
+can	0	0
+muster	1	2
+!	NA	NA

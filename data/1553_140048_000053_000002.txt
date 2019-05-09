@@ -1,0 +1,6 @@
+Good	0	1
+by	2	0
+Miss	0	1
+Rebecca	0	0
+Rowena	2	2
+!	NA	NA

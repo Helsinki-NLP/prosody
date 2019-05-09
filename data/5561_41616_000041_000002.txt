@@ -1,0 +1,7 @@
+She	0	0
+looks	2	0
+as	0	2
+haughty	2	1
+as	0	0
+ever	1	2
+.	NA	NA

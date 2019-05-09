@@ -1,0 +1,8 @@
+It	2	0
+is	0	0
+competition	2	1
+which	0	0
+rules	2	1
+the	0	0
+world	2	2
+.	NA	NA

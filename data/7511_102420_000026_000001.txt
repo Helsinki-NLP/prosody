@@ -1,0 +1,12 @@
+Supper	2	0
+was	0	1
+ready	2	2
+,	NA	NA
+but	0	0
+I	2	0
+went	0	1
+to	0	0
+bed	1	0
+at	0	1
+once	1	2
+.	NA	NA

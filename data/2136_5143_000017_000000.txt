@@ -1,0 +1,5 @@
+'And	1	0
+for	1	1
+what	2	2
+?	NA	NA
+'	NA	NA

@@ -1,0 +1,9 @@
+For	0	0
+my	2	0
+part	0	0
+,	NA	NA
+I	0	1
+enjoy	2	0
+it	0	1
+immensely	1	2
+.	NA	NA

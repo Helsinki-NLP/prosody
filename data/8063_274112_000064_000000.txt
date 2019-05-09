@@ -1,0 +1,6 @@
+I	1	0
+should	0	2
+do	1	0
+something	0	0
+rash	2	2
+.	NA	NA

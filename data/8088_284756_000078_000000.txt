@@ -1,0 +1,5 @@
+He	2	0
+had	0	0
+not	0	1
+exaggerated	2	2
+.	NA	NA

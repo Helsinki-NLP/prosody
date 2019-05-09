@@ -1,0 +1,8 @@
+And	0	0
+those	1	1
+Traffords	2	1
+had	0	0
+so	2	0
+many	0	1
+schools	1	2
+.	NA	NA

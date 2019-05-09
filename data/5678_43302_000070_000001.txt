@@ -1,0 +1,16 @@
+But	2	0
+it	0	1
+is	0	0
+just	2	1
+as	0	0
+certain	2	0
+as	0	0
+it	0	1
+can	1	0
+be	0	0
+that	0	1
+this	2	1
+is	2	0
+the	0	1
+crisis	2	2
+.	NA	NA

@@ -1,0 +1,13 @@
+Come	1	0
+,	NA	NA
+let's	0	1
+be	0	0
+moving	0	0
+along	1	1
+,	NA	NA
+fellows	2	2
+,	NA	NA
+Bluff	1	0
+finally	0	0
+remarked	1	2
+.	NA	NA

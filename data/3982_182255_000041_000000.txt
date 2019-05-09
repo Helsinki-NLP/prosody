@@ -1,0 +1,8 @@
+It's	1	1
+a	0	0
+fact	2	2
+,	NA	NA
+repeated	0	0
+mr	0	0
+Fyshe	0	2
+.	NA	NA

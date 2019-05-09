@@ -1,0 +1,4 @@
+What	1	1
+is	1	1
+property	2	2
+?	NA	NA

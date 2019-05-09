@@ -1,0 +1,11 @@
+I	0	0
+was	0	0
+watching	2	2
+,	NA	NA
+old	1	0
+man	2	1
+,	NA	NA
+he	0	0
+said	1	0
+gently	1	2
+.	NA	NA

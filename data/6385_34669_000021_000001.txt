@@ -1,0 +1,8 @@
+A	1	0
+wooden	1	1
+platform	2	1
+appeared	1	0
+on	0	1
+the	0	0
+right	1	2
+.	NA	NA

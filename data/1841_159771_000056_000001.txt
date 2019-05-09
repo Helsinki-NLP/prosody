@@ -1,0 +1,12 @@
+It	2	0
+was	0	1
+the	0	0
+first	2	1
+big	0	0
+meal	0	1
+he	0	0
+had	0	0
+enjoyed	2	1
+for	0	0
+weeks	1	2
+.	NA	NA

@@ -1,0 +1,7 @@
+Without	1	0
+a	0	1
+doubt	2	2
+!	NA	NA
+answered	0	0
+Nicholl	1	2
+.	NA	NA

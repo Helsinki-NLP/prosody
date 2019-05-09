@@ -1,0 +1,7 @@
+Suddenly	2	2
+Robin	2	0
+Hood	0	1
+smote	0	0
+his	0	0
+knee	1	2
+.	NA	NA

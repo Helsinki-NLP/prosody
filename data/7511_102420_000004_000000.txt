@@ -1,0 +1,8 @@
+CAMP	1	1
+CLOUDCREST	1	2
+,	NA	NA
+october	1	0
+sixth	2	1
+nineteen	1	0
+fourteen	1	2
+.	NA	NA

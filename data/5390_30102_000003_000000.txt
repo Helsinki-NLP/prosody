@@ -1,0 +1,17 @@
+Louise	2	0
+Merrick	0	2
+was	0	0
+the	0	0
+eldest	2	1
+of	0	0
+Uncle	0	0
+John's	1	0
+nieces	1	2
+,	NA	NA
+having	2	0
+just	0	1
+passed	1	0
+her	0	1
+eighteenth	0	0
+birthday	2	2
+.	NA	NA

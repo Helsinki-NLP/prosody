@@ -1,0 +1,12 @@
+The	0	0
+spectators	2	2
+,	NA	NA
+guessing	2	0
+his	0	0
+intention	0	0
+,	NA	NA
+stand	1	0
+breathlessly	0	0
+observing	1	0
+him	0	2
+.	NA	NA

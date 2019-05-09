@@ -1,0 +1,9 @@
+Take	2	0
+what	1	1
+the	0	0
+gods	2	1
+send	1	0
+and	0	0
+be	0	1
+grateful	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+Yes	2	1
+love	2	2
+,	NA	NA
+he	0	0
+thought	2	0
+again	0	1
+quite	0	0
+clearly	1	2
+.	NA	NA

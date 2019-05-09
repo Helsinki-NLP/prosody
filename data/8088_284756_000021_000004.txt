@@ -1,0 +1,8 @@
+Throw	2	0
+the	0	1
+cap	1	0
+anywhere	0	0
+and	0	1
+come	0	0
+on	2	2
+!	NA	NA

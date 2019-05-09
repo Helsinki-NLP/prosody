@@ -1,0 +1,16 @@
+I	1	0
+hope	0	0
+so	2	0
+,	NA	NA
+Michel	0	2
+,	NA	NA
+replied	1	0
+Barbicane	0	0
+gently	0	2
+,	NA	NA
+but	2	1
+I	1	0
+am	0	0
+not	1	1
+sure	2	2
+.	NA	NA

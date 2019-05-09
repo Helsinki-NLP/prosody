@@ -1,0 +1,6 @@
+Yes	2	0
+;	NA	NA
+I'm	0	1
+staying	2	1
+there	1	2
+.	NA	NA

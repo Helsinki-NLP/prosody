@@ -1,0 +1,16 @@
+If	1	0
+you	0	0
+see	0	0
+her	1	2
+,	NA	NA
+make	1	0
+a	0	0
+noise	1	0
+like	0	1
+a	0	0
+dry	1	0
+leaf	0	0
+and	0	1
+blow	1	0
+away	2	2
+.	NA	NA

@@ -1,0 +1,16 @@
+Well	2	1
+,	NA	NA
+grumble	1	0
+as	0	1
+he	0	0
+will	1	2
+,	NA	NA
+when	2	0
+Venus	1	0
+appears	0	1
+he	0	0
+is	0	0
+forced	2	0
+to	0	1
+smile	1	2
+.	NA	NA

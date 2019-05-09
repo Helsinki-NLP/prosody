@@ -1,0 +1,9 @@
+And	0	0
+the	0	1
+blue	0	0
+devils	2	2
+make	1	0
+people	0	0
+get	1	1
+thin	2	2
+.	NA	NA

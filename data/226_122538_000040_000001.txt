@@ -1,0 +1,8 @@
+And	0	0
+here	2	0
+we	0	0
+are	1	0
+at	0	1
+Wimpole	0	0
+Street	1	2
+.	NA	NA

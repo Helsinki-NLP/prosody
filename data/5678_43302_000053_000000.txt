@@ -1,0 +1,10 @@
+But	2	1
+you	0	0
+don't	2	1
+think	2	1
+it	2	0
+would	0	0
+be	0	1
+too	0	0
+awful	2	2
+!	NA	NA

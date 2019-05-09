@@ -1,0 +1,8 @@
+What's	2	1
+that	2	0
+got	1	1
+to	0	0
+do	0	0
+with	0	0
+it	2	2
+?	NA	NA

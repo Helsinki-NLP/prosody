@@ -1,0 +1,12 @@
+I	2	0
+lay	0	0
+on	0	0
+my	0	1
+straw	2	1
+,	NA	NA
+but	0	0
+I	0	1
+could	0	0
+not	0	1
+sleep	2	2
+.	NA	NA

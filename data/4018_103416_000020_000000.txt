@@ -1,0 +1,10 @@
+Was	1	0
+I	0	1
+pretty	0	0
+awful	2	1
+last	0	0
+night	1	2
+?	NA	NA
+he	0	0
+asked	1	2
+.	NA	NA

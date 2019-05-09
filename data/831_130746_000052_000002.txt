@@ -1,0 +1,16 @@
+A	0	0
+stepmother	1	1
+Idle	2	1
+,	NA	NA
+unoccupied	1	1
+,	NA	NA
+hindered	2	1
+,	NA	NA
+cramped	2	2
+,	NA	NA
+that	2	0
+is	0	0
+enough	0	0
+,	NA	NA
+perhaps	1	2
+.	NA	NA

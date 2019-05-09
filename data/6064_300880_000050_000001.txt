@@ -1,0 +1,8 @@
+Any	0	0
+other	1	0
+agreeable	0	1
+surprises	1	0
+about	1	0
+the	0	1
+resort	2	2
+?	NA	NA

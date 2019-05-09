@@ -1,0 +1,11 @@
+We	2	0
+are	0	1
+camped	2	1
+just	0	0
+on	0	0
+the	0	0
+edge	1	0
+of	0	0
+the	0	1
+pines	2	2
+.	NA	NA

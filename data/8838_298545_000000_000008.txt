@@ -1,0 +1,9 @@
+His	1	0
+appearance	2	0
+and	0	1
+words	1	1
+were	0	0
+always	2	1
+vaguely	1	1
+benevolent	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+The	0	1
+seniors	1	0
+are	0	0
+the	0	0
+real	0	0
+thing	1	2
+.	NA	NA
+Hurrah	2	2
+!	NA	NA

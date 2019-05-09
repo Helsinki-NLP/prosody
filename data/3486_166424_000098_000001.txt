@@ -1,0 +1,16 @@
+They	0	0
+were	2	0
+like	0	1
+rats	2	1
+scampering	2	0
+in	0	1
+panic	2	0
+over	0	1
+the	0	0
+bottom	2	0
+of	0	1
+a	0	0
+great	2	1
+green	1	1
+bowl	2	2
+.	NA	NA

@@ -1,0 +1,8 @@
+He	0	0
+says	2	1
+female	1	0
+teachers	0	1
+can't	1	1
+keep	0	0
+order	2	2
+.	NA	NA

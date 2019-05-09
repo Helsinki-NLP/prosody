@@ -1,0 +1,14 @@
+Her	0	0
+pupils	1	1
+were	0	0
+made	1	1
+for	0	0
+love	2	1
+and	0	0
+hate	0	2
+,	NA	NA
+for	2	0
+happiness	0	1
+and	0	0
+misery	1	2
+.	NA	NA

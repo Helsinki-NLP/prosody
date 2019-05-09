@@ -1,0 +1,14 @@
+Of	1	0
+course	2	0
+I	0	0
+am	0	1
+not	0	1
+frightened	2	1
+now	1	1
+that	0	0
+I	0	0
+know	0	0
+who	0	1
+it	0	0
+is	1	2
+.	NA	NA

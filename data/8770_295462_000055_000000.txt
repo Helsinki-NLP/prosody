@@ -1,0 +1,14 @@
+It	0	0
+was	0	0
+a	0	0
+fitting	2	0
+fulfillment	1	0
+of	0	1
+the	0	0
+Declaration	2	1
+of	0	0
+Independence	1	2
+,	NA	NA
+which	0	0
+proclaimed	1	0
+that	2	2

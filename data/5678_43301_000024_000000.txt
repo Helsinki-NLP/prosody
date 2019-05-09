@@ -1,0 +1,16 @@
+There	0	0
+was	0	0
+a	0	0
+sharp	1	0
+crack	1	2
+,	NA	NA
+and	0	0
+the	0	0
+tiny	2	1
+gesticulating	2	1
+figure	0	0
+staggered	2	0
+back	1	0
+a	0	0
+step	1	2
+.	NA	NA

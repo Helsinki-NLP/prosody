@@ -1,0 +1,17 @@
+AS	1	0
+SIMON	2	1
+SCREECHER	1	1
+remarked	0	0
+to	0	0
+his	0	0
+cousin	1	1
+,	NA	NA
+Solomon	1	1
+Owl	2	2
+,	NA	NA
+it	2	0
+was	1	0
+a	0	1
+hard	0	0
+winter	1	2
+.	NA	NA

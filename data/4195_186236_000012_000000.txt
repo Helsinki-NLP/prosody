@@ -1,0 +1,3 @@
+Patsy	1	1
+laughed	1	2
+.	NA	NA

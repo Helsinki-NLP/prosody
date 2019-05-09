@@ -1,0 +1,10 @@
+A	0	0
+man	2	2
+a	0	0
+complete	1	0
+stranger	0	0
+to	1	0
+her	0	1
+stood	0	0
+outside	1	2
+.	NA	NA

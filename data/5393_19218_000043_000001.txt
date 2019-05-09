@@ -1,0 +1,6 @@
+We	2	0
+are	0	0
+the	0	1
+genuine	1	1
+article	2	2
+.	NA	NA

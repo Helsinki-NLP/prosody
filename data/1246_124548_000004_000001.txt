@@ -1,0 +1,16 @@
+But	2	0
+it	0	0
+proved	1	0
+that	0	1
+mr	0	0
+Bert	1	1
+Tybee	2	2
+,	NA	NA
+the	0	0
+former	1	0
+bartender	1	1
+,	NA	NA
+desired	1	0
+the	0	1
+postmastership	1	2
+.	NA	NA

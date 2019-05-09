@@ -1,0 +1,8 @@
+The	0	0
+lost	2	1
+half	0	0
+hour	1	0
+may	0	1
+be	0	0
+there	2	2
+.	NA	NA

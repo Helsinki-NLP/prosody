@@ -1,0 +1,10 @@
+He	0	0
+went	1	0
+forth	2	0
+at	0	0
+once	2	1
+to	0	0
+celebrate	2	1
+his	0	0
+victory	2	2
+.	NA	NA

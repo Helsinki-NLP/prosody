@@ -1,0 +1,4 @@
+A	0	0
+HAUNTED	0	1
+SOUL	2	2
+.	NA	NA

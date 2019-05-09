@@ -1,0 +1,8 @@
+Oh	2	1
+God	2	2
+!	NA	NA
+what	1	0
+could	0	0
+I	0	0
+do	2	2
+?	NA	NA

@@ -1,0 +1,16 @@
+He	0	0
+wanted	2	1
+to	0	0
+go	2	0
+beyond	1	1
+the	0	0
+hills	1	1
+and	0	0
+seek	0	0
+what	1	0
+he	0	0
+knew	0	1
+must	2	2
+be	1	0
+there	2	2
+.	NA	NA

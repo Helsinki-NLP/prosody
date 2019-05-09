@@ -1,0 +1,15 @@
+No	1	0
+,	NA	NA
+I	0	0
+knocked	1	0
+up	0	1
+his	0	0
+gun	1	0
+as	0	0
+he	0	1
+fired	2	2
+,	NA	NA
+explained	1	0
+mr	0	0
+Jenks	1	2
+.	NA	NA

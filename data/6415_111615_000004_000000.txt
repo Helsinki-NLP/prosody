@@ -1,0 +1,13 @@
+I	2	0
+had	2	0
+always	1	1
+wanted	1	1
+to	0	0
+have	1	0
+a	0	1
+try	1	0
+at	0	1
+writing	0	0
+a	0	1
+column	2	2
+.	NA	NA

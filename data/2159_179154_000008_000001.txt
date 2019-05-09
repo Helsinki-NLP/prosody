@@ -1,0 +1,4 @@
+They	1	0
+are	0	1
+fast	2	2
+.	NA	NA

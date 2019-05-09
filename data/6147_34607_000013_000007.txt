@@ -1,0 +1,10 @@
+Then	1	0
+the	0	1
+people	0	0
+love	2	0
+him	0	2
+for	0	0
+being	0	0
+so	0	0
+rich	2	2
+.	NA	NA

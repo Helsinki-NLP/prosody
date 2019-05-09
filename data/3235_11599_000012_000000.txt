@@ -1,0 +1,3 @@
+ninety	2	0
+nine	0	2
+.	NA	NA

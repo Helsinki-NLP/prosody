@@ -1,0 +1,7 @@
+A	0	0
+sham	2	0
+wedding	0	1
+,	NA	NA
+retorted	0	0
+another	1	2
+.	NA	NA

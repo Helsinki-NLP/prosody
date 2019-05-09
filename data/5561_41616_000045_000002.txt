@@ -1,0 +1,9 @@
+He	1	0
+was	0	0
+filled	2	0
+with	0	2
+profound	2	0
+admiration	1	1
+for	0	0
+them	2	2
+.	NA	NA

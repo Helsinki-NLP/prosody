@@ -1,0 +1,11 @@
+Blest	2	0
+if	0	1
+I	1	0
+didn't	0	1
+like	1	0
+that	0	0
+little	0	1
+feller	0	1
+fust	2	0
+rate	1	2
+.	NA	NA

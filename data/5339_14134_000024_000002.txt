@@ -1,0 +1,14 @@
+It's	1	1
+the	0	0
+Lord's	2	1
+doing	1	2
+,	NA	NA
+and	0	0
+luck's	1	1
+the	0	0
+devil's	0	0
+way	0	0
+o'	0	1
+putting	2	0
+it	0	2
+.	NA	NA

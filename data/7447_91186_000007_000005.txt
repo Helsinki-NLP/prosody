@@ -1,0 +1,17 @@
+Each	2	1
+string	1	0
+from	0	0
+the	0	1
+first	2	2
+had	2	0
+its	0	1
+due	0	0
+length	1	1
+and	0	0
+was	1	0
+tuned	2	2
+to	1	0
+its	0	1
+proper	2	0
+note	2	2
+.	NA	NA

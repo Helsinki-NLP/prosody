@@ -1,0 +1,17 @@
+After	2	0
+he	0	0
+had	0	1
+saluted	1	0
+her	1	2
+,	NA	NA
+the	0	0
+king	1	0
+said	1	2
+,	NA	NA
+loud	2	0
+enough	0	1
+for	0	0
+Edward	0	1
+to	0	0
+hear	2	2
+,	NA	NA

@@ -1,0 +1,9 @@
+'Well	2	1
+,	NA	NA
+go	1	0
+then	0	1
+,	NA	NA
+since	0	0
+you	0	1
+must	1	2
+.	NA	NA

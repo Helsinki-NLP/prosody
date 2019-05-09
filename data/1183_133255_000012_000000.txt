@@ -1,0 +1,10 @@
+Ask	2	1
+for	0	0
+Whittemore's	2	0
+Polishes	1	1
+if	0	0
+you	0	0
+want	1	1
+the	0	0
+BEST	1	2
+,	NA	NA

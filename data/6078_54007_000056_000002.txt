@@ -1,0 +1,7 @@
+I	1	1
+see	1	0
+how	1	0
+it	0	1
+is	2	1
+now	1	2
+.	NA	NA

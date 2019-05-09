@@ -1,0 +1,13 @@
+Then	1	0
+he	0	1
+fell	2	0
+into	0	1
+his	0	0
+first	2	1
+sweet	1	0
+sleep	1	2
+since	1	0
+that	1	0
+terrible	1	0
+night	1	2
+.	NA	NA

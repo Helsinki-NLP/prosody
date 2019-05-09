@@ -1,0 +1,7 @@
+Of	0	0
+course	2	0
+not	0	1
+,	NA	NA
+said	0	0
+Constance	2	2
+.	NA	NA

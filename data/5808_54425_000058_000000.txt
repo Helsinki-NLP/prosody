@@ -1,0 +1,10 @@
+You	0	0
+put	1	0
+me	0	0
+out	1	1
+to	0	0
+night	1	2
+,	NA	NA
+he	0	0
+said	2	2
+.	NA	NA

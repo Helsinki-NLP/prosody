@@ -1,0 +1,3 @@
+Or	2	1
+elsewhere	1	2
+.	NA	NA

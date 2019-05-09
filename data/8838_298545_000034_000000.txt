@@ -1,0 +1,7 @@
+They	0	0
+were	2	0
+a	0	1
+very	0	1
+singular	0	1
+trio	2	2
+.	NA	NA

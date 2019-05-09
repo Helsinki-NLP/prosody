@@ -1,0 +1,16 @@
+The	0	0
+dog	2	1
+sprang	1	0
+up	0	1
+from	0	0
+his	0	0
+refuge	1	0
+under	0	1
+the	0	0
+table	2	1
+,	NA	NA
+and	0	0
+shook	1	1
+himself	1	1
+joyfully	2	2
+.	NA	NA

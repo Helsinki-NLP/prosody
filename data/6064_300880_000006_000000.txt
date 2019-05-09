@@ -1,0 +1,4 @@
+Can	0	0
+I	1	1
+help	1	2
+?	NA	NA

@@ -1,0 +1,16 @@
+These	1	0
+were	0	0
+questions	1	0
+of	0	1
+prudence	2	2
+;	NA	NA
+there	2	0
+was	0	1
+no	1	0
+immediate	0	1
+necessity	1	1
+for	1	0
+an	0	0
+earnest	0	1
+caution	1	2
+.	NA	NA

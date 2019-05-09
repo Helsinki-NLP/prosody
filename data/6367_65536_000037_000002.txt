@@ -1,0 +1,8 @@
+But	2	0
+that	0	0
+is	0	1
+not	1	1
+success	1	1
+,	NA	NA
+Joyce	1	2
+.	NA	NA

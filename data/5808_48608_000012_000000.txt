@@ -1,0 +1,11 @@
+When	0	0
+it	1	0
+was	2	2
+the	0	0
+Three	1	0
+Hundred	0	1
+and	0	0
+Forty	1	0
+ninth	1	1
+Night	1	2
+,	NA	NA

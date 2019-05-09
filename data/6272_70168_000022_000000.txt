@@ -1,0 +1,8 @@
+No	0	0
+more	1	0
+than	0	0
+the	0	2
+baby	2	0
+here	0	1
+did	2	2
+.	NA	NA

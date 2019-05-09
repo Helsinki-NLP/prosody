@@ -1,0 +1,3 @@
+North	0	1
+Carolina	2	2
+.	NA	NA

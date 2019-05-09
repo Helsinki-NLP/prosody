@@ -1,0 +1,14 @@
+That	2	0
+seems	0	1
+to	0	0
+me	1	0
+,	NA	NA
+I	0	1
+said	1	2
+,	NA	NA
+rather	2	0
+difficult	1	1
+to	0	0
+make	0	0
+out	2	2
+.	NA	NA

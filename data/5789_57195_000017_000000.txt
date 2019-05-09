@@ -1,0 +1,7 @@
+It	1	0
+has	0	1
+all	2	0
+been	0	1
+put	0	0
+off	2	2
+.	NA	NA

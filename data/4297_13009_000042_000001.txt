@@ -1,0 +1,7 @@
+Finn	2	0
+is	0	1
+to	0	0
+go	0	0
+to	0	0
+Ireland	1	2
+.	NA	NA

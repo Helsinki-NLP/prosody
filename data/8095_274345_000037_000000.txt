@@ -1,0 +1,8 @@
+To	0	0
+these	2	0
+reasons	0	2
+the	0	0
+commons	1	0
+remained	0	1
+inexorable	2	2
+.	NA	NA

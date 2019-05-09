@@ -1,0 +1,4 @@
+Afraid	2	1
+for	0	0
+you	1	2
+!	NA	NA

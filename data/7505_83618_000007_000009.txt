@@ -1,0 +1,7 @@
+Language	2	1
+itself	1	1
+is	0	0
+proof	1	0
+of	0	0
+it	1	2
+.	NA	NA

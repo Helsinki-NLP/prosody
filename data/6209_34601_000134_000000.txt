@@ -1,0 +1,13 @@
+On	1	0
+the	0	1
+breast	2	1
+of	0	0
+a	0	0
+woman	1	2
+who	1	0
+was	0	1
+dead	2	0
+in	0	0
+the	0	1
+snow	2	2
+.	NA	NA

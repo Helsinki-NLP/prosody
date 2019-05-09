@@ -1,0 +1,11 @@
+That	0	0
+would	0	1
+account	2	2
+for	1	0
+the	0	1
+foreign	1	1
+cut	0	0
+of	0	0
+his	0	1
+clothes	1	2
+.	NA	NA

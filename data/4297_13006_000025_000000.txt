@@ -1,0 +1,5 @@
+Why	0	0
+not	1	1
+,	NA	NA
+papa	2	2
+?	NA	NA

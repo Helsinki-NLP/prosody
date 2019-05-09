@@ -1,9 +1,12 @@
+import os
 from torch.utils import data
 from pytorch_pretrained_bert import BertTokenizer
 from sklearn.model_selection import train_test_split
 import nltk
 import torch
 import numpy as np
+
+DATADIR = "data/"
 
 
 class ProsodyDataset(data.Dataset):
@@ -51,8 +54,7 @@ class ProsodyDataset(data.Dataset):
         return words, x, is_heads, tags, y, seqlen
 
 
-def load_data():
-    # TODO: update with prosody dataset and loading
+def load_pos_data():
     tagged_sents = nltk.corpus.treebank.tagged_sents()
     tags = list(set(word_tag[1] for sent in tagged_sents for word_tag in sent))
     tags = ["<pad>"] + tags
@@ -65,6 +67,38 @@ def load_data():
     len(train_data), len(test_data)
 
     return train_data, test_data, tag2id, id2tag
+
+
+def load_data():
+    # TODO: update with prosody dataset and loading
+    # TODO: Load sentences into a list as lists of tuples [[('word', 'tag), ...], ...]
+    directory = os.fsencode(DATADIR)
+    tagged_sents = []
+    for file in os.listdir(directory):
+        filename = os.fsdecode(file)
+        if filename.endswith(".txt"):
+            with open(DATADIR+filename) as f:
+                lines = f.read().splitlines()
+                sent = []
+                for line in lines:
+                    split_line = line.split('\t')
+                    sent.append((split_line[0], split_line[1]))
+            tagged_sents.append(sent)
+            continue
+        else:
+            break
+
+    tags = list(set(word_tag[1] for sent in tagged_sents for word_tag in sent))
+    tags = ["<pad>"] + tags
+
+    tag_to_index = {tag: id for id, tag in enumerate(tags)}
+    index_to_tag = {id: tag for id, tag in enumerate(tags)}
+
+    # Let's split the data into train and test (or eval)
+    train_data, test_data = train_test_split(tagged_sents, test_size=.1)
+    len(train_data), len(test_data)
+
+    return train_data, test_data, tag_to_index, index_to_tag
 
 
 def pad(batch):

@@ -1,0 +1,5 @@
+Oh	2	1
+,	NA	NA
+Lady	1	0
+Julia	1	2
+!	NA	NA

@@ -1,0 +1,17 @@
+Jean	2	0
+Valjean	0	0
+did	0	0
+everything	0	2
+,	NA	NA
+smoothed	1	0
+away	0	0
+every	0	0
+difficulty	0	2
+,	NA	NA
+arranged	2	0
+everything	0	2
+,	NA	NA
+made	2	0
+everything	0	0
+easy	1	2
+.	NA	NA

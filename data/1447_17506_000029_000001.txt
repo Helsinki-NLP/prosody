@@ -1,0 +1,7 @@
+Here	2	0
+is	0	1
+our	0	0
+record	1	0
+of	0	1
+nobility	2	2
+.	NA	NA

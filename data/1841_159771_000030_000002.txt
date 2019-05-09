@@ -1,0 +1,11 @@
+And	1	0
+it	0	0
+has	0	0
+seven	2	0
+different	0	1
+crusts	1	2
+,	NA	NA
+one	2	0
+under	0	0
+another	1	2
+.	NA	NA

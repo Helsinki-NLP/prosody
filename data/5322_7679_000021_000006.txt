@@ -1,0 +1,9 @@
+Laughter	2	0
+and	0	1
+jokes	1	1
+were	0	0
+heard	1	1
+on	0	0
+all	0	0
+sides	2	2
+.	NA	NA

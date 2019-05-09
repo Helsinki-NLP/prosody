@@ -1,0 +1,14 @@
+I	2	0
+do	0	0
+not	2	1
+think	1	0
+I	0	0
+have	0	1
+any	0	0
+message	1	1
+to	0	0
+send	2	1
+,	NA	NA
+she	0	1
+replied	2	2
+.	NA	NA

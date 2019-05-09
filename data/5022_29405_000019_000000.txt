@@ -1,0 +1,5 @@
+mrs	2	0
+Roylake	1	1
+was	0	0
+shocked	2	2
+.	NA	NA

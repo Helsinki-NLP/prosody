@@ -1,0 +1,14 @@
+Priscilla	2	0
+produced	0	1
+the	0	0
+registration	1	0
+list	0	1
+,	NA	NA
+and	0	0
+triumphantly	1	0
+exhibited	0	1
+an	0	0
+unmistakable	1	0
+Kate	0	0
+Ferris	2	2
+.	NA	NA

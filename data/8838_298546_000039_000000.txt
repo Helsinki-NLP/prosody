@@ -1,0 +1,11 @@
+I	1	0
+am	0	0
+afraid	2	0
+I	0	1
+cannot	2	1
+spare	1	0
+you	0	1
+,	1	1
+mr	NA	NA
+Montgomery	2	2
+.	NA	NA

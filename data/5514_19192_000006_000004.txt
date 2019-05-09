@@ -1,0 +1,14 @@
+The	0	1
+prosiness	2	1
+of	0	0
+the	1	0
+originators	0	1
+detracted	1	1
+nothing	2	1
+from	0	0
+the	0	0
+bravery	2	0
+of	0	0
+the	0	0
+movement	1	2
+.	NA	NA

@@ -1,0 +1,5 @@
+They	1	0
+may	0	1
+be	0	0
+right	2	2
+.	NA	NA

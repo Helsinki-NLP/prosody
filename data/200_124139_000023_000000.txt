@@ -1,0 +1,15 @@
+Do	0	0
+you	1	0
+prefer	1	0
+reading	0	0
+to	0	1
+cards	2	1
+?	NA	NA
+said	0	0
+he	2	2
+;	NA	NA
+that	2	0
+is	0	0
+rather	0	1
+singular	1	2
+.	NA	NA

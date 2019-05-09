@@ -1,0 +1,17 @@
+There	0	0
+was	1	0
+the	0	0
+Butting	2	0
+Club	1	2
+,	NA	NA
+so	2	0
+called	1	0
+from	0	0
+its	0	1
+members	0	1
+butting	2	1
+folks	1	1
+with	0	0
+their	0	0
+heads	2	2
+.	NA	NA

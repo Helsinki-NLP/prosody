@@ -1,0 +1,14 @@
+Each	2	0
+little	0	0
+snake	1	1
+family	2	1
+could	0	0
+have	0	0
+eaten	0	0
+a	0	0
+herd	2	0
+of	0	1
+cattle	2	0
+at	0	1
+Christmas	2	2
+.	NA	NA

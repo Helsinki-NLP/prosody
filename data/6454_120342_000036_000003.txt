@@ -1,0 +1,12 @@
+Everywhere	2	1
+they	0	0
+wished	0	0
+us	0	0
+a	0	1
+merry	1	0
+Christmas	1	2
+,	NA	NA
+and	1	0
+we	1	0
+them	2	2
+.	NA	NA

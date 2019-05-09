@@ -1,0 +1,6 @@
+Here	2	0
+was	0	0
+the	0	1
+country	0	0
+again	1	2
+.	NA	NA

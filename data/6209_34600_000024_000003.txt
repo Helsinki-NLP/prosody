@@ -1,0 +1,12 @@
+It	0	0
+is	0	1
+Eternity	2	1
+saying	2	2
+,	NA	NA
+What	0	0
+does	1	0
+it	0	0
+matter	1	0
+to	0	0
+me	0	2
+?	NA	NA

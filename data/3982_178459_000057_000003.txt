@@ -1,0 +1,11 @@
+Isn't	1	0
+there	0	0
+some	1	0
+way	0	0
+you	0	1
+could	0	0
+use	1	1
+the	0	0
+money	0	0
+without	2	2
+without	2	2

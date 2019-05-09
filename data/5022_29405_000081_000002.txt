@@ -1,0 +1,8 @@
+Shall	1	0
+I	0	0
+make	0	0
+another	1	1
+acknowledgment	1	0
+of	0	1
+weakness	2	2
+?	NA	NA

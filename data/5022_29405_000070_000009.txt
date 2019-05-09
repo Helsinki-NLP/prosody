@@ -1,0 +1,16 @@
+Yes	2	0
+,	NA	NA
+yes	0	1
+,	NA	NA
+Cristy	2	0
+,	NA	NA
+I'm	2	0
+noticing	0	1
+him	1	2
+;	NA	NA
+he's	2	0
+done	1	0
+with	0	1
+his	0	0
+writings	1	2
+.	NA	NA

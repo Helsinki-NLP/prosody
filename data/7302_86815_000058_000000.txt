@@ -1,0 +1,8 @@
+Oh	2	1
+,	NA	NA
+mercy	1	1
+,	NA	NA
+mercy	2	0
+,	NA	NA
+monsieur	0	2
+!	NA	NA

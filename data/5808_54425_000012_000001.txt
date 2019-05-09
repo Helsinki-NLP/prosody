@@ -1,0 +1,14 @@
+You	0	0
+ought	2	0
+to	0	1
+be	0	0
+put	1	0
+under	0	1
+a	0	0
+glass	2	1
+case	1	0
+and	0	2
+placed	2	1
+on	1	1
+exhibition	1	2
+.	NA	NA

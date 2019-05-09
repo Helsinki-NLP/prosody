@@ -1,0 +1,8 @@
+They	0	0
+have	1	1
+killed	2	0
+him	0	1
+!	NA	NA
+he	0	0
+cried	1	2
+.	NA	NA

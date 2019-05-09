@@ -1,0 +1,5 @@
+Isabel	1	0
+rose	0	1
+,	NA	NA
+blushing	2	2
+.	NA	NA

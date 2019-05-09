@@ -1,0 +1,9 @@
+And	0	0
+I'm	2	1
+still	1	0
+sitting	0	0
+up	1	0
+and	0	2
+taking	0	0
+nourishment	2	2
+.	NA	NA

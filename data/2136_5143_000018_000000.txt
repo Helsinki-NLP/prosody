@@ -1,0 +1,7 @@
+'Poor	1	0
+mamma	1	0
+is	0	1
+buried	1	0
+there	1	2
+.	NA	NA
+'	NA	NA

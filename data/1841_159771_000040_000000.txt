@@ -1,0 +1,7 @@
+That's	2	0
+easy	1	2
+,	NA	NA
+his	0	0
+cousin	0	0
+answered	1	2
+.	NA	NA

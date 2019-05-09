@@ -1,0 +1,7 @@
+The	0	1
+cowardly	2	0
+wind	0	1
+drove	2	1
+against	0	0
+him	0	2
+.	NA	NA

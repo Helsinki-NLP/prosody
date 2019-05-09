@@ -1,0 +1,10 @@
+'A	0	0
+cold	2	2
+feverish	2	0
+and	0	0
+rheumatic	1	1
+,	NA	NA
+she	0	0
+says	1	2
+.	NA	NA
+'	NA	NA

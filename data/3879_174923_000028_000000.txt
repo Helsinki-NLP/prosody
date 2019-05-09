@@ -1,0 +1,6 @@
+Dresden	2	1
+,	NA	NA
+november	1	0
+eighteenth	0	2
+,	NA	NA
+.	NA	NA

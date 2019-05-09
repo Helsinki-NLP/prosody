@@ -1,0 +1,4 @@
+I	2	0
+am	2	1
+unclean	2	2
+!	NA	NA

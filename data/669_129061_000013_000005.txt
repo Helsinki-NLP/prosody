@@ -1,0 +1,12 @@
+But	2	1
+for	1	0
+this	2	2
+I	0	0
+might	1	0
+have	0	1
+been	0	0
+quite	1	0
+a	0	0
+different	0	1
+man	2	2
+.	NA	NA

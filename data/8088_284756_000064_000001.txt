@@ -1,0 +1,8 @@
+The	1	0
+human	0	1
+race	1	0
+as	0	2
+we	0	0
+know	2	0
+it	0	2
+.	NA	NA

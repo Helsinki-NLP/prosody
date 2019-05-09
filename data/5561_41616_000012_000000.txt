@@ -1,0 +1,17 @@
+What	1	0
+a	0	0
+delicate	2	0
+way	1	0
+of	0	1
+reminding	1	1
+me	2	2
+that	0	0
+I	1	0
+once	1	0
+was	0	1
+a	0	0
+freshman	2	1
+!	NA	NA
+she	0	0
+exclaimed	2	2
+.	NA	NA

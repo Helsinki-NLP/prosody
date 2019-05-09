@@ -1,0 +1,14 @@
+Without	2	0
+hesitating	0	2
+,	NA	NA
+Eleanor	2	0
+rose	0	1
+and	0	0
+regarded	1	0
+the	0	0
+principal	0	0
+with	0	0
+an	0	1
+insolent	0	0
+smile	1	2
+.	NA	NA

@@ -1,0 +1,3 @@
+Useless	1	1
+distinction	0	2
+!	NA	NA

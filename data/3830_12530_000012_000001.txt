@@ -1,0 +1,7 @@
+As	2	0
+a	0	0
+result	1	2
+things	2	0
+were	0	0
+booming	1	2
+.	NA	NA

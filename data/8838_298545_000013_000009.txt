@@ -1,0 +1,15 @@
+But	0	0
+the	0	0
+ways	2	0
+of	0	1
+Fate	1	0
+are	0	1
+strange	2	2
+,	NA	NA
+and	1	0
+his	0	0
+customer	2	2
+was	1	0
+at	0	0
+hand	2	2
+.	NA	NA

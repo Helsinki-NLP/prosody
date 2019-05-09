@@ -1,0 +1,8 @@
+Nothing	2	0
+,	NA	NA
+sir	2	2
+,	NA	NA
+the	1	0
+Canadian	0	0
+replied	1	2
+.	NA	NA

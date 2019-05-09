@@ -1,0 +1,8 @@
+The	0	1
+voices	2	1
+without	2	1
+explained	0	1
+their	0	0
+soundless	0	0
+lips	1	2
+.	NA	NA

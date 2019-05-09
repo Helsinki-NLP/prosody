@@ -1,0 +1,8 @@
+Why	2	1
+,	NA	NA
+thus	1	1
+,	NA	NA
+said	0	0
+the	0	0
+second	0	2
+.	NA	NA

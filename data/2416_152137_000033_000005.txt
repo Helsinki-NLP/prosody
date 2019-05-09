@@ -1,0 +1,16 @@
+No	2	2
+;	NA	NA
+what	1	0
+was	1	0
+apparently	0	1
+the	0	0
+greater	1	0
+risk	0	0
+at	0	0
+least	1	2
+held	2	0
+out	1	1
+the	0	0
+only	0	0
+hope	0	2
+.	NA	NA

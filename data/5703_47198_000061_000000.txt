@@ -1,0 +1,16 @@
+It's	0	0
+a	0	0
+far	1	0
+cry	0	0
+north	2	1
+to	0	0
+my	1	0
+home	1	2
+,	NA	NA
+said	1	0
+the	0	0
+Scotchwoman	1	2
+,	NA	NA
+thawing	1	0
+slightly	1	2
+.	NA	NA

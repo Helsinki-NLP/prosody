@@ -1,0 +1,10 @@
+Five	1	0
+of	0	0
+them	0	0
+said	1	2
+,	NA	NA
+It's	0	0
+our	2	0
+turn	0	1
+first	1	2
+.	NA	NA

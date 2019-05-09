@@ -1,0 +1,7 @@
+He	2	0
+extricated	2	0
+Cosette	1	1
+from	0	0
+all	2	0
+difficulties	0	2
+.	NA	NA

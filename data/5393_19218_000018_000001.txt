@@ -1,0 +1,6 @@
+Here	0	0
+goes	2	1
+for	0	0
+the	0	1
+sixteenth	2	2
+!	NA	NA

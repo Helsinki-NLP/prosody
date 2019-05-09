@@ -1,0 +1,16 @@
+Such	2	0
+,	NA	NA
+in	0	0
+reality	0	0
+,	NA	NA
+was	1	2
+Sir	2	1
+Maurice	1	1
+Gerald	2	2
+erst	2	0
+known	1	0
+as	0	1
+Maurice	1	1
+the	0	0
+mustanger	1	2
+!	NA	NA

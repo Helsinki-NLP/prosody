@@ -1,0 +1,16 @@
+They	1	0
+took	0	1
+horses	1	0
+and	0	1
+cattle	1	0
+with	0	0
+them	1	2
+,	NA	NA
+and	0	0
+all	2	0
+kinds	1	0
+of	0	1
+tools	1	0
+and	0	0
+food	1	2
+.	NA	NA

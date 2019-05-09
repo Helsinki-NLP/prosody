@@ -1,0 +1,15 @@
+How	1	0
+old	0	1
+is	0	0
+you	2	2
+?	NA	NA
+asked	2	0
+Pompey	1	0
+of	0	0
+a	0	1
+tall	2	1
+,	NA	NA
+strong	2	0
+looking	0	1
+man	1	2
+.	NA	NA

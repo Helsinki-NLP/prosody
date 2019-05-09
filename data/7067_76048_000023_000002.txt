@@ -1,0 +1,15 @@
+She	0	0
+either	2	1
+concealed	1	1
+or	1	0
+she	0	1
+had	0	0
+lost	2	0
+any	0	1
+great	0	0
+interest	1	2
+in	0	0
+her	1	0
+own	1	0
+personality	2	2
+.	NA	NA

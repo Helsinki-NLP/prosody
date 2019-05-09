@@ -1,0 +1,17 @@
+Was	1	0
+it	0	0
+he	1	0
+who	0	0
+threw	1	0
+us	0	1
+that	1	1
+bottle	2	2
+,	NA	NA
+when	0	0
+the	0	0
+vessel	2	0
+made	0	0
+her	0	1
+first	1	1
+cruise	1	2
+?	NA	NA

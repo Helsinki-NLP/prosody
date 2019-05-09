@@ -1,0 +1,11 @@
+To	0	0
+that	2	1
+sketch	1	0
+had	0	1
+fallen	0	0
+that	0	1
+chance	1	2
+,	NA	NA
+the	0	0
+throne	2	2
+.	NA	NA

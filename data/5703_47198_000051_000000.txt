@@ -1,0 +1,10 @@
+Supposing	1	0
+she	0	0
+is	0	1
+detained	1	0
+in	0	1
+London	2	2
+,	NA	NA
+he	0	0
+said	2	2
+.	NA	NA

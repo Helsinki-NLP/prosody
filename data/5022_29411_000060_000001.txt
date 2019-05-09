@@ -1,0 +1,13 @@
+Or	2	0
+was	1	0
+it	0	0
+a	0	1
+mockery	1	0
+of	0	2
+her	2	0
+that	0	1
+had	0	0
+taken	1	0
+her	0	1
+place	2	2
+?	NA	NA

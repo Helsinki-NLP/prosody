@@ -1,0 +1,7 @@
+She	0	0
+was	0	0
+very	1	0
+tall	1	2
+too	1	0
+tall	1	2
+.	NA	NA

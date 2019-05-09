@@ -1,0 +1,9 @@
+A	0	0
+specimen	2	0
+of	0	1
+what	2	2
+?	NA	NA
+asked	2	0
+the	0	0
+girl	1	2
+.	NA	NA

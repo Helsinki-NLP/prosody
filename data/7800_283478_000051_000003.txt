@@ -1,0 +1,8 @@
+Now	2	0
+what	1	0
+d'ye	0	1
+reckon	2	2
+can	0	0
+have	0	0
+happened	1	2
+?	NA	NA

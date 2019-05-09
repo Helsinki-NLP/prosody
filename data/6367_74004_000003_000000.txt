@@ -1,0 +1,17 @@
+Of	1	0
+course	2	0
+,	NA	NA
+the	1	0
+Old	0	1
+Fellow	2	1
+had	2	1
+another	0	0
+name	0	0
+,	NA	NA
+just	1	0
+as	0	1
+Ruggles	2	0
+has	1	0
+another	0	0
+name	1	2
+.	NA	NA

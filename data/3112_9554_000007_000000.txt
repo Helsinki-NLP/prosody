@@ -1,0 +1,14 @@
+Every	2	0
+day	0	1
+,	NA	NA
+until	0	0
+his	0	0
+last	1	0
+illness	1	2
+,	NA	NA
+my	2	0
+father	0	0
+continued	0	0
+his	0	0
+work	1	2
+.	NA	NA

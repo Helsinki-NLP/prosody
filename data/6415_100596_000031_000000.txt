@@ -1,0 +1,13 @@
+A	1	1
+few	1	0
+weeks	0	1
+later	1	1
+she	0	0
+found	2	0
+a	0	2
+second	2	1
+note	1	0
+on	0	1
+her	0	0
+door	1	0
+block	2	2

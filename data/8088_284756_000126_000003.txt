@@ -1,0 +1,15 @@
+I	1	0
+realized	1	1
+that	0	0
+I	0	0
+saw	0	0
+myself	1	2
+,	NA	NA
+in	0	0
+short	1	1
+,	NA	NA
+as	0	0
+she	0	0
+saw	0	0
+me	2	2
+.	NA	NA

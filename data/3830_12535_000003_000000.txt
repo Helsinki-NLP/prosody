@@ -1,0 +1,12 @@
+ON	0	0
+leaving	1	0
+my	0	0
+newly	0	0
+found	1	0
+friends	0	2
+I	0	0
+faced	2	0
+a	0	1
+discouraging	1	0
+prospect	0	2
+.	NA	NA

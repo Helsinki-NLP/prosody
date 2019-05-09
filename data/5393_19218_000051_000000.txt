@@ -1,0 +1,7 @@
+Do	0	0
+you	2	1
+see	0	0
+that	0	0
+old	0	2
+cove	2	2
+?	NA	NA

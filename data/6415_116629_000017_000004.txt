@@ -1,0 +1,10 @@
+But	0	0
+that's	2	1
+nothing	2	1
+to	0	0
+what	0	1
+it	0	0
+costs	2	1
+him	0	0
+afterwards	1	2
+.	NA	NA

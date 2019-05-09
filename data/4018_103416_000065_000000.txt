@@ -1,0 +1,4 @@
+You	0	0
+won't	2	1
+go	2	2
+.	NA	NA

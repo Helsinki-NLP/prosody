@@ -1,0 +1,14 @@
+The	0	1
+ideas	2	0
+of	1	1
+my	1	0
+friend	1	0
+may	1	0
+be	0	0
+summed	0	0
+up	2	0
+in	0	0
+a	0	1
+few	0	0
+words	1	2
+.	NA	NA

@@ -1,0 +1,4 @@
+Why	1	0
+this	0	1
+Josiana	1	2
+?	NA	NA

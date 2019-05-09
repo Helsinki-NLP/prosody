@@ -1,0 +1,13 @@
+I	0	0
+shall	2	0
+write	0	1
+a	0	0
+note	2	0
+to	0	2
+her	0	0
+to	0	1
+day	2	0
+,	NA	NA
+said	0	1
+Lucy	1	2
+.	NA	NA

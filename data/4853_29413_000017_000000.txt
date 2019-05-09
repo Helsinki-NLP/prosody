@@ -1,0 +1,6 @@
+Flew	2	0
+into	0	0
+a	0	1
+furious	2	1
+rage	1	2
+.	NA	NA

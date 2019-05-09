@@ -1,0 +1,6 @@
+Hither	1	0
+all	2	0
+our	0	1
+footsteps	0	0
+tend	2	2
+.	NA	NA

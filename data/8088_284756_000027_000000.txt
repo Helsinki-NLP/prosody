@@ -1,0 +1,13 @@
+Now	2	0
+you'll	0	0
+see	0	1
+why	0	0
+I	0	1
+called	1	0
+you	0	1
+here	2	2
+,	NA	NA
+he	0	0
+said	1	1
+tensely	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+His	1	0
+second	2	1
+principle	1	0
+was	0	2
+the	0	0
+love	2	0
+of	0	1
+woman	1	2
+.	NA	NA

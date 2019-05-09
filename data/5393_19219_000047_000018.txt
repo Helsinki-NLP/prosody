@@ -1,0 +1,5 @@
+Wisdom	2	1
+consists	1	1
+in	0	0
+jubilation	1	2
+.	NA	NA

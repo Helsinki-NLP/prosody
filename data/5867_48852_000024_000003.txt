@@ -1,0 +1,16 @@
+I	0	0
+have	1	0
+not	2	1
+congratulated	2	0
+her	1	0
+,	NA	NA
+because	0	1
+I	0	0
+didn't	1	1
+know	1	0
+whether	0	0
+it	0	0
+was	0	1
+a	0	0
+secret	2	2
+.	NA	NA

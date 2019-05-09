@@ -1,0 +1,15 @@
+For	0	0
+a	0	0
+short	1	0
+time	1	2
+he	0	0
+remained	1	0
+silent	2	2
+,	NA	NA
+apparently	2	0
+striving	1	1
+to	0	0
+master	2	0
+his	0	0
+emotion	1	2
+.	NA	NA

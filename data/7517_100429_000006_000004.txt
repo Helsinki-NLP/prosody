@@ -1,0 +1,12 @@
+Won't	1	0
+you	0	0
+come	0	0
+too	2	2
+?	NA	NA
+And	1	0
+with	0	0
+any	0	0
+luck	1	2
+she	2	0
+comes	0	2
+.	NA	NA

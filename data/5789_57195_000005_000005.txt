@@ -1,0 +1,13 @@
+In	0	0
+all	0	0
+that	2	1
+misery	0	2
+the	0	0
+poor	2	0
+attorney	0	1
+had	1	0
+the	0	0
+worst	1	0
+of	0	1
+it	0	2
+.	NA	NA

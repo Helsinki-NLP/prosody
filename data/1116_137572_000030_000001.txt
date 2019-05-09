@@ -1,0 +1,15 @@
+Soon	0	0
+or	0	0
+late	2	0
+you	0	1
+find	2	0
+that	0	1
+some	0	1
+familiar	2	0
+mannerism	0	0
+of	0	1
+your	0	0
+spouse	2	1
+displeases	0	0
+you	2	2
+.	NA	NA

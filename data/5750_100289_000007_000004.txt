@@ -1,0 +1,14 @@
+In	0	0
+this	2	0
+matter	0	0
+I	0	0
+speak	1	1
+from	0	0
+personal	1	0
+experience	2	2
+as	2	1
+well	1	0
+as	0	1
+long	1	0
+observation	1	2
+.	NA	NA

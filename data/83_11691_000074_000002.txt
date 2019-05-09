@@ -1,0 +1,5 @@
+How	0	0
+awkward	2	1
+for	0	0
+everybody	1	2
+!	NA	NA

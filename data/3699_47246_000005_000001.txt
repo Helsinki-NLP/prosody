@@ -1,0 +1,8 @@
+There	2	0
+was	0	0
+nothing	1	0
+here	0	1
+so	0	0
+very	1	1
+detestable	2	2
+.	NA	NA

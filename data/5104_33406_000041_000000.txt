@@ -1,0 +1,4 @@
+Thorgest	2	1
+is	0	0
+off	1	2
+.	NA	NA

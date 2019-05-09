@@ -1,0 +1,10 @@
+At	0	0
+last	2	1
+they	0	0
+found	1	0
+a	0	0
+place	1	1
+that	2	1
+Eric	1	0
+liked	0	2
+.	NA	NA

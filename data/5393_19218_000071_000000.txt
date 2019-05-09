@@ -1,0 +1,5 @@
+No	0	0
+one	0	0
+can	0	1
+tell	2	2
+.	NA	NA

@@ -1,0 +1,16 @@
+There	0	0
+was	0	0
+not	1	0
+a	0	0
+house	2	2
+,	NA	NA
+a	0	0
+road	1	2
+,	NA	NA
+or	2	0
+a	0	1
+path	1	1
+to	0	0
+be	0	0
+seen	1	2
+.	NA	NA

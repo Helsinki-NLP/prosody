@@ -1,0 +1,10 @@
+Why	0	0
+do	0	0
+you	1	0
+look	0	0
+so	0	1
+furtive	2	2
+?	NA	NA
+she	1	0
+retorted	0	2
+.	NA	NA

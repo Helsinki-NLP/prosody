@@ -1,0 +1,11 @@
+Don't	2	0
+you	0	1
+think	1	0
+he	0	0
+might	2	1
+be	0	0
+able	2	2
+to	0	0
+do	1	0
+something	2	2
+?	NA	NA

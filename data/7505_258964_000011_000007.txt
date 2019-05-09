@@ -1,0 +1,9 @@
+Numbers	2	0
+alone	2	0
+are	0	1
+not	1	0
+the	0	1
+measure	2	1
+of	1	0
+efficiency	1	2
+.	NA	NA

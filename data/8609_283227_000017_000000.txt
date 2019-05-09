@@ -1,0 +1,9 @@
+Put	1	0
+that	2	1
+table	2	1
+down	1	0
+,	NA	NA
+I	0	1
+tell	0	0
+you	2	2
+.	NA	NA

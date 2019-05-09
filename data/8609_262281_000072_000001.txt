@@ -1,0 +1,8 @@
+Think	0	0
+of	1	0
+all	0	0
+that	0	0
+is	0	0
+at	0	1
+stake	2	2
+!	NA	NA

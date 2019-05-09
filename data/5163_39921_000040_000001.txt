@@ -1,0 +1,7 @@
+The	0	0
+plum	2	0
+tree	0	1
+came	0	0
+out	0	1
+clearly	2	2
+.	NA	NA

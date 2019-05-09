@@ -1,0 +1,14 @@
+Both	2	0
+Miss	0	1
+Grammont	2	0
+and	0	1
+Miss	0	0
+Seyffert	0	1
+displayed	2	0
+an	0	1
+intelligent	2	1
+interest	0	1
+in	0	0
+their	0	0
+food	2	2
+.	NA	NA

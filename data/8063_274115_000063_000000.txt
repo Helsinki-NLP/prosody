@@ -1,0 +1,6 @@
+Good	1	1
+lad	1	1
+,	NA	NA
+good	1	0
+lad	2	2
+!	NA	NA

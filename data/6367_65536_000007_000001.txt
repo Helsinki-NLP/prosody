@@ -1,0 +1,8 @@
+But	0	0
+at	0	0
+the	0	0
+last	2	2
+he	0	0
+felt	1	1
+afraid	2	2
+.	NA	NA

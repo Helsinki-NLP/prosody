@@ -1,0 +1,8 @@
+I	2	0
+do	0	0
+not	0	1
+forget	1	1
+,	NA	NA
+he	0	0
+said	2	2
+.	NA	NA

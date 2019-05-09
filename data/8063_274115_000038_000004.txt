@@ -1,0 +1,12 @@
+Porthos	2	2
+had	0	0
+all	2	0
+the	0	0
+taste	1	0
+and	0	1
+pride	1	0
+of	0	0
+a	0	0
+landed	0	1
+proprietor	1	2
+.	NA	NA

@@ -1,0 +1,6 @@
+You	2	0
+are	0	0
+a	0	0
+welcome	0	1
+guest	2	2
+.	NA	NA

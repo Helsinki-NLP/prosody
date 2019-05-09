@@ -1,0 +1,17 @@
+Just	1	0
+at	0	0
+that	0	0
+moment	1	1
+the	0	0
+little	2	2
+casement	2	0
+window	0	2
+of	0	0
+Sylvia's	2	0
+room	0	1
+was	0	0
+opened	2	1
+,	NA	NA
+and	0	0
+she	0	0
+said	2	2

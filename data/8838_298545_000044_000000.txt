@@ -1,0 +1,14 @@
+He's	0	0
+ten	0	0
+good	0	1
+pund	1	0
+on	0	1
+the	0	0
+light	1	1
+side	2	2
+,	NA	NA
+growled	2	0
+the	0	0
+horse	0	0
+breaker	0	2
+.	NA	NA

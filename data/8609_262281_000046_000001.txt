@@ -1,0 +1,11 @@
+Hitherto	1	1
+I	0	0
+have	0	0
+risen	0	0
+at	0	1
+seven	2	1
+,	NA	NA
+summer	0	1
+and	0	0
+winter	2	2
+.	NA	NA

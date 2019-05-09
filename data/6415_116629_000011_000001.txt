@@ -1,0 +1,8 @@
+Now	2	0
+give	1	0
+me	1	0
+what	0	0
+you	0	2
+promised	2	1
+me	1	2
+.	NA	NA

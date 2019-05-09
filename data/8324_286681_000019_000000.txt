@@ -1,0 +1,15 @@
+I'd	2	0
+like	0	1
+to	0	0
+see	0	0
+them	0	1
+running	2	0
+on	0	1
+the	0	0
+land	2	2
+,	NA	NA
+said	1	0
+the	0	0
+saucy	1	0
+one	0	2
+.	NA	NA

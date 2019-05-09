@@ -1,0 +1,10 @@
+You	0	1
+think	0	0
+so	2	2
+?	NA	NA
+follow	2	0
+my	0	1
+example	2	0
+,	NA	NA
+then	0	2
+.	NA	NA

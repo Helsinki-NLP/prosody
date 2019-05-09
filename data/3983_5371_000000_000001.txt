@@ -1,0 +1,10 @@
+Out	2	0
+upon	0	0
+you	0	1
+for	1	0
+a	0	1
+bold	2	2
+,	NA	NA
+bad	2	0
+man	0	2
+!	NA	NA

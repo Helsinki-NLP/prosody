@@ -1,0 +1,17 @@
+They	0	0
+were	0	0
+without	1	0
+flesh	0	0
+or	0	0
+blood	2	2
+,	NA	NA
+impalpable	2	1
+,	NA	NA
+invisible	2	0
+,	NA	NA
+and	0	1
+incredibly	1	0
+swift	0	1
+of	0	0
+foot	2	2
+.	NA	NA

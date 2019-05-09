@@ -1,0 +1,11 @@
+So	0	0
+much	2	1
+for	0	0
+the	0	0
+enemy's	0	1
+eyes	2	2
+,	NA	NA
+he	0	0
+would	0	0
+say	1	2
+.	NA	NA

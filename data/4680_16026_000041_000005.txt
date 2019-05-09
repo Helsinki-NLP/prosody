@@ -1,0 +1,7 @@
+There's	1	0
+nothing	2	1
+to	0	0
+be	0	0
+done	2	0
+here	1	2
+.	NA	NA

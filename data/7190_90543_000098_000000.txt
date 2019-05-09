@@ -1,0 +1,6 @@
+Something	1	0
+in	0	1
+bone	2	0
+or	0	0
+ivory	0	2
+.	NA	NA

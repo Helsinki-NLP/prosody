@@ -1,0 +1,13 @@
+The	0	0
+day	2	0
+he	0	0
+died	1	2
+,	NA	NA
+the	0	0
+flag	2	1
+swung	1	0
+lower	1	0
+on	0	0
+the	0	1
+staff	1	2
+.	NA	NA

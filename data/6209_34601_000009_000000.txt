@@ -1,0 +1,11 @@
+Whatever	2	0
+had	0	1
+growled	2	1
+perceived	0	1
+his	0	0
+approach	1	0
+,	NA	NA
+and	0	1
+became	1	0
+furious	1	2
+.	NA	NA

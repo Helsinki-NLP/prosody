@@ -1,0 +1,7 @@
+mr	0	0
+Roylake	2	2
+,	NA	NA
+he	0	0
+kicked	2	0
+me	0	2
+.	NA	NA

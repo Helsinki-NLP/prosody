@@ -1,0 +1,6 @@
+Why	1	0
+should	0	0
+you	0	1
+think	0	0
+so	2	2
+?	NA	NA

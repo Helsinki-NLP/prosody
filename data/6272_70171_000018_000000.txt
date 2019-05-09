@@ -1,0 +1,8 @@
+It	1	0
+is	0	1
+probably	2	0
+the	0	1
+chamber	1	0
+for	0	1
+visitors	1	2
+.	NA	NA

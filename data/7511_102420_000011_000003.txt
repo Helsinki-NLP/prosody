@@ -1,0 +1,12 @@
+High	2	0
+overhead	1	2
+a	0	0
+triangle	1	1
+of	0	0
+wild	2	0
+geese	0	2
+harrowed	2	1
+the	0	0
+blue	0	0
+sky	1	2
+.	NA	NA

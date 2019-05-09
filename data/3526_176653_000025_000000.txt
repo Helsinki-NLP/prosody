@@ -1,0 +1,8 @@
+That	2	0
+isn't	0	1
+your	0	0
+name	2	1
+,	NA	NA
+he	0	0
+said	1	2
+.	NA	NA

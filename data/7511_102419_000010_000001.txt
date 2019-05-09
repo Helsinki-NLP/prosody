@@ -1,0 +1,15 @@
+I	2	0
+waited	0	0
+six	1	0
+months	1	2
+and	0	0
+then	0	0
+wrote	1	1
+to	0	0
+Wallace	2	2
+,	NA	NA
+but	1	0
+received	0	0
+no	0	0
+reply	1	2
+.	NA	NA

@@ -1,0 +1,9 @@
+Has	0	0
+she	0	0
+not	2	1
+told	2	1
+you	0	0
+what	0	0
+it	0	1
+is	2	2
+?	NA	NA

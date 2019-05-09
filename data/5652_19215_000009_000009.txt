@@ -1,0 +1,13 @@
+Cosette	2	0
+became	0	0
+in	0	0
+the	0	0
+eyes	0	0
+of	0	0
+the	0	0
+law	1	2
+,	NA	NA
+Mademoiselle	2	1
+Euphrasie	2	1
+Fauchelevent	2	2
+.	NA	NA

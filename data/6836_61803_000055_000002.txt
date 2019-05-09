@@ -1,0 +1,13 @@
+It	0	1
+was	1	0
+sure	0	0
+enough	1	2
+;	NA	NA
+and	1	1
+poor	2	0
+Henry	0	1
+dropped	1	0
+from	0	1
+his	0	0
+horse	1	2
+.	NA	NA

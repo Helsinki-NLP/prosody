@@ -1,0 +1,16 @@
+That	0	0
+cannot	0	0
+be	1	2
+;	NA	NA
+but	0	0
+all	2	0
+that	0	0
+I	0	0
+can	0	1
+say	1	2
+will	1	0
+be	0	0
+of	0	0
+little	0	0
+avail	1	2
+.	NA	NA

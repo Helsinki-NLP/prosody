@@ -1,0 +1,5 @@
+Good	0	1
+night	2	1
+,	NA	NA
+widow	1	2
+.	NA	NA

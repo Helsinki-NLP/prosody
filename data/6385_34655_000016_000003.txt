@@ -1,0 +1,10 @@
+Cut	2	0
+crystals	1	2
+combining	2	0
+prismatic	1	0
+effects	1	1
+with	0	0
+those	2	0
+of	0	1
+reflection	2	2
+.	NA	NA

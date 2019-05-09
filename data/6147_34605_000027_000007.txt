@@ -1,0 +1,9 @@
+Every	2	0
+prude	0	1
+puts	0	0
+on	0	0
+an	0	0
+air	1	0
+of	0	1
+repugnance	2	2
+.	NA	NA

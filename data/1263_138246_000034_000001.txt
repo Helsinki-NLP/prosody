@@ -1,0 +1,8 @@
+We've	0	1
+still	2	0
+thirteen	2	0
+minutes	0	1
+and	1	0
+a	0	0
+half	1	2
+.	NA	NA

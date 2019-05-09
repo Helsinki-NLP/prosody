@@ -1,0 +1,17 @@
+And	0	0
+something	2	0
+that	0	0
+strikes	1	1
+my	0	0
+attention	1	1
+here	0	0
+is	0	1
+that	2	0
+these	0	1
+frogs	2	1
+are	1	0
+described	2	0
+as	0	1
+almost	1	1
+white	2	2
+.	NA	NA

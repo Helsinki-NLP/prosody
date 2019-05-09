@@ -1,0 +1,9 @@
+The	0	0
+Oak	2	0
+Trees	0	0
+alone	1	1
+stood	2	2
+with	0	0
+leafless	2	1
+boughs	1	2
+.	NA	NA

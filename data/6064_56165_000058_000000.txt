@@ -1,0 +1,10 @@
+No	2	1
+,	NA	NA
+I	0	0
+haven't	1	0
+happened	0	0
+to	1	2
+,	NA	NA
+answered	2	0
+Philip	1	2
+.	NA	NA

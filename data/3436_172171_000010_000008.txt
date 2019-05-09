@@ -1,0 +1,16 @@
+But	0	1
+for	0	0
+all	0	0
+that	2	1
+,	NA	NA
+the	0	0
+man	1	0
+did	0	1
+not	1	0
+break	1	0
+off	0	0
+his	0	1
+discourse	1	1
+with	0	0
+Perceval	2	2
+.	NA	NA

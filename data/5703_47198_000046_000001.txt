@@ -1,0 +1,11 @@
+I've	0	0
+got	0	0
+a	2	0
+lot	1	0
+of	0	1
+work	1	0
+on	0	1
+hand	1	1
+just	0	0
+now	2	2
+.	NA	NA

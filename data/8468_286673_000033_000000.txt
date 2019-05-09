@@ -1,0 +1,10 @@
+The	0	0
+pond	2	0
+people	0	1
+looked	2	0
+at	0	1
+each	0	0
+other	0	0
+and	0	1
+laughed	2	2
+.	NA	NA

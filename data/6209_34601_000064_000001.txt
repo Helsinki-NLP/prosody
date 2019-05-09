@@ -1,0 +1,6 @@
+The	0	1
+child	2	1
+began	1	0
+to	0	1
+eat	2	2
+.	NA	NA

@@ -1,0 +1,8 @@
+These	0	0
+exploits	2	1
+had	0	0
+gained	2	1
+Luigi	0	0
+considerable	1	1
+reputation	2	2
+.	NA	NA

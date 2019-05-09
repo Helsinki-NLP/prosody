@@ -1,0 +1,14 @@
+Sleeping	2	2
+is	0	0
+the	0	0
+state	1	1
+of	0	0
+silence	2	2
+;	NA	NA
+wakefulness	2	1
+is	0	0
+the	0	0
+state	0	0
+of	0	1
+speech	1	2
+.	NA	NA

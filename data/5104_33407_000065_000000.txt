@@ -1,0 +1,4 @@
+The	0	0
+Greenlanders	0	1
+looked	2	2
+.	NA	NA

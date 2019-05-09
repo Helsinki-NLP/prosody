@@ -1,0 +1,5 @@
+You	0	0
+have	2	0
+been	0	1
+dreaming	1	2
+.	NA	NA

@@ -1,0 +1,11 @@
+Nor	0	0
+I	2	2
+!	NA	NA
+cried	1	0
+Brenda	0	1
+,	NA	NA
+at	0	0
+a	0	1
+Harvard	2	1
+game	1	2
+!	NA	NA

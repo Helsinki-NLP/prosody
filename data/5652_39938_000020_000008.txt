@@ -1,0 +1,14 @@
+Only	2	0
+the	0	0
+nervous	1	0
+system	0	0
+cannot	1	1
+so	0	0
+easily	1	1
+be	0	0
+adjusted	2	1
+to	0	0
+the	0	0
+new	0	1
+regime	2	2
+.	NA	NA

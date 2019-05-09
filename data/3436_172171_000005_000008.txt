@@ -1,0 +1,11 @@
+What	1	0
+is	0	0
+this	2	2
+?	NA	NA
+demanded	1	0
+Perceval	2	2
+,	NA	NA
+touching	1	0
+the	0	0
+saddle	1	2
+.	NA	NA

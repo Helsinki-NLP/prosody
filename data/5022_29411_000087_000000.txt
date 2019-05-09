@@ -1,0 +1,13 @@
+Tell	2	0
+me	0	0
+why	1	0
+I	0	0
+ought	1	1
+to	0	0
+break	2	1
+my	0	1
+engagement	2	1
+,	NA	NA
+I	0	1
+said	2	2
+.	NA	NA

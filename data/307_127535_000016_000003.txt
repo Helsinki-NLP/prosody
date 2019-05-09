@@ -1,0 +1,4 @@
+Why	2	1
+,	NA	NA
+hillo	0	2
+!	NA	NA

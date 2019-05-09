@@ -1,0 +1,6 @@
+William	2	1
+Henshaw	0	0
+cleared	0	0
+his	0	1
+throat	2	2
+.	NA	NA

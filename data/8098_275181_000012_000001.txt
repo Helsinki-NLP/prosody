@@ -1,0 +1,8 @@
+This	1	0
+dilemma	0	0
+of	0	1
+ours	1	1
+developed	1	1
+Tom's	1	0
+genius	2	2
+.	NA	NA

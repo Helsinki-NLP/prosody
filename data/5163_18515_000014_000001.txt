@@ -1,0 +1,7 @@
+Your	0	0
+stuivers	2	1
+went	0	0
+into	0	0
+the	0	1
+water	2	2
+.	NA	NA

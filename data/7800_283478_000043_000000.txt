@@ -1,0 +1,15 @@
+At	0	0
+that	2	2
+all	2	0
+of	0	1
+them	0	0
+laughed	0	1
+,	NA	NA
+as	1	0
+though	1	0
+they	0	1
+considered	1	0
+it	0	1
+a	0	0
+joke	2	2
+.	NA	NA

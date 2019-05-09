@@ -1,0 +1,4 @@
+What	2	0
+new	0	1
+calamity	1	2
+?	NA	NA

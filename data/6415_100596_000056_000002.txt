@@ -1,0 +1,8 @@
+Did	0	0
+you	2	0
+ever	1	1
+hear	0	0
+anything	0	1
+so	2	1
+absurd	2	2
+?	NA	NA

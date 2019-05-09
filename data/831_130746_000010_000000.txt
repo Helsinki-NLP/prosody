@@ -1,0 +1,16 @@
+Bechamel	0	0
+looked	0	0
+up	0	1
+from	0	0
+a	0	0
+week	0	0
+old	1	0
+newspaper	2	2
+as	2	1
+,	NA	NA
+without	1	0
+knocking	1	2
+,	NA	NA
+Stephen	1	0
+entered	1	2
+.	NA	NA

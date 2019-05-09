@@ -1,0 +1,14 @@
+Gloom	2	0
+had	0	1
+settled	1	1
+upon	0	0
+mr	0	0
+Hobbs	1	2
+;	NA	NA
+he	0	0
+was	0	0
+much	1	0
+depressed	2	0
+in	0	1
+spirits	1	2
+.	NA	NA

@@ -1,0 +1,7 @@
+Those	1	0
+manners	1	0
+have	0	1
+not	0	0
+altogether	1	1
+disappeared	2	2
+.	NA	NA

@@ -1,0 +1,6 @@
+What	0	0
+am	0	0
+I	2	0
+to	0	2
+do	2	2
+?	NA	NA

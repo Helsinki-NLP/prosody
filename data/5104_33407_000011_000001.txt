@@ -1,0 +1,5 @@
+Leif	1	0
+sailed	2	1
+for	0	0
+months	2	2
+.	NA	NA

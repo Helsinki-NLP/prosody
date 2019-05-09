@@ -1,0 +1,7 @@
+She	0	0
+was	0	0
+proudly	2	0
+and	0	0
+royally	0	1
+disdainful	2	2
+.	NA	NA

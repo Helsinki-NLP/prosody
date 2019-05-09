@@ -1,0 +1,5 @@
+His	1	1
+Majesty	1	1
+touched	0	0
+nothing	1	2
+.	NA	NA

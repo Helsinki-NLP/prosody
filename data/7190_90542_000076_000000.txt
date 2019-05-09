@@ -1,0 +1,8 @@
+It	1	0
+was	0	0
+not	2	0
+much	0	1
+help	2	0
+he	0	1
+wanted	2	2
+.	NA	NA

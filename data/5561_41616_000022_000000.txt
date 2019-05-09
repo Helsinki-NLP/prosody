@@ -1,0 +1,8 @@
+She	0	0
+is	0	0
+always	1	1
+just	1	1
+,	NA	NA
+replied	1	1
+Grace	2	2
+.	NA	NA

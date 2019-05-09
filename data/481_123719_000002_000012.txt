@@ -1,0 +1,13 @@
+And	0	1
+even	0	0
+more	2	0
+contemptible	0	1
+than	0	0
+that	2	2
+is	0	0
+my	2	0
+making	0	1
+this	0	0
+remark	2	0
+now	2	2
+.	NA	NA

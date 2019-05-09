@@ -1,0 +1,6 @@
+She	1	0
+deserves	2	0
+to	0	1
+be	0	0
+punished	2	2
+.	NA	NA

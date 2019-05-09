@@ -1,0 +1,6 @@
+He	0	1
+was	0	1
+now	1	0
+almost	0	1
+naked	1	2
+.	NA	NA

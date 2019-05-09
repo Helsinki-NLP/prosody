@@ -1,0 +1,11 @@
+The	0	0
+two	0	0
+causes	2	0
+have	0	0
+in	0	1
+most	1	0
+cases	1	2
+the	0	0
+same	1	0
+result	1	2
+.	NA	NA

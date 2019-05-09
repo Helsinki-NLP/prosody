@@ -1,0 +1,11 @@
+Something	1	1
+always	2	1
+happens	1	2
+to	0	0
+pond	2	1
+people	0	0
+who	0	0
+are	0	0
+too	0	0
+slow	2	2
+.	NA	NA

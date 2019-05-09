@@ -1,0 +1,16 @@
+Then	2	1
+,	NA	NA
+lifting	1	0
+up	0	0
+her	0	0
+veil	1	2
+,	NA	NA
+she	0	0
+showed	1	0
+lovely	0	0
+blue	1	0
+eyes	0	0
+and	0	1
+dark	0	0
+eyelashes	1	2
+.	NA	NA

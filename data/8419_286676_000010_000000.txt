@@ -1,0 +1,10 @@
+The	0	1
+Clever	2	1
+Water	0	0
+Adder	0	1
+spoke	1	0
+first	1	0
+of	0	1
+the	0	0
+weather	2	2
+.	NA	NA

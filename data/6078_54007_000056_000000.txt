@@ -1,0 +1,11 @@
+Nay	2	0
+,	NA	NA
+said	0	0
+the	0	1
+queen	1	2
+,	NA	NA
+do	0	0
+not	2	1
+say	0	0
+so	1	2
+.	NA	NA

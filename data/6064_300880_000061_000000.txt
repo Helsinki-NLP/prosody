@@ -1,0 +1,11 @@
+That's	2	1
+your	0	0
+best	1	1
+make	2	0
+up	0	0
+,	NA	NA
+is	0	1
+it	0	0
+,	NA	NA
+Remsen	1	2
+?	NA	NA

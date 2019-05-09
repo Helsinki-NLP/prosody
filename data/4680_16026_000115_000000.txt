@@ -1,0 +1,14 @@
+In	0	0
+the	0	0
+meantime	1	1
+she	0	1
+stared	2	0
+at	0	1
+them	1	0
+with	0	0
+a	0	2
+stern	2	0
+but	0	1
+peaceful	0	0
+air	2	2
+.	NA	NA

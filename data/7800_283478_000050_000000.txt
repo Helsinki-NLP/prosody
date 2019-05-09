@@ -1,0 +1,7 @@
+There	0	0
+he	0	0
+comes	2	2
+!	NA	NA
+exclaimed	1	1
+Bluff	1	2
+.	NA	NA

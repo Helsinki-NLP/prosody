@@ -1,0 +1,12 @@
+She	0	0
+saw	2	0
+him	1	1
+displace	2	1
+the	0	0
+bar	1	0
+and	0	1
+slip	0	0
+into	0	1
+the	0	0
+garden	2	2
+.	NA	NA

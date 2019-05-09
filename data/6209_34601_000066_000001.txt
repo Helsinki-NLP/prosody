@@ -1,0 +1,17 @@
+For	0	0
+the	0	0
+moment	1	0
+he	0	0
+was	0	1
+absorbed	2	0
+by	1	1
+two	1	0
+exigencies	0	2
+and	1	0
+by	0	0
+two	0	0
+ecstasies	1	2
+food	2	1
+and	1	0
+warmth	2	2
+.	NA	NA

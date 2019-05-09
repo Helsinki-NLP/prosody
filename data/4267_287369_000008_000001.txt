@@ -1,0 +1,9 @@
+We	0	0
+will	0	0
+have	2	0
+to	0	2
+be	0	0
+on	0	0
+our	1	1
+guard	2	2
+.	NA	NA

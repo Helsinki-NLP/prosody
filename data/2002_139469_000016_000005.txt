@@ -1,0 +1,13 @@
+As	0	0
+yet	1	0
+western	0	0
+Europe	1	1
+was	0	1
+uninfected	2	2
+;	NA	NA
+would	0	0
+it	1	0
+always	0	0
+be	0	0
+so	2	2
+?	NA	NA

@@ -1,0 +1,4 @@
+Anywhere	1	1
+behind	0	0
+Eric	2	2
+!	NA	NA

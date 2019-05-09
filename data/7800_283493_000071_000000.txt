@@ -1,0 +1,8 @@
+I	0	1
+should	0	0
+hope	2	0
+so	1	2
+,	NA	NA
+grunted	1	0
+Jerry	2	2
+.	NA	NA

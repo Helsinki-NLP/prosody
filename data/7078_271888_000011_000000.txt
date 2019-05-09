@@ -1,0 +1,12 @@
+But	0	0
+,	NA	NA
+alas	2	2
+!	NA	NA
+those	0	0
+halcyon	1	0
+days	1	1
+were	0	0
+all	1	0
+too	1	0
+brief	1	2
+.	NA	NA

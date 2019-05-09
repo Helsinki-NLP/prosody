@@ -1,0 +1,5 @@
+I	0	0
+can	1	0
+bestow	1	1
+kingdoms	2	2
+.	NA	NA

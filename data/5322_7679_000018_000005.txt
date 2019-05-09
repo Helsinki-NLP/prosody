@@ -1,0 +1,9 @@
+That	2	0
+look	0	1
+expressed	1	1
+not	1	0
+hatred	2	1
+but	0	0
+cold	2	0
+contempt	1	2
+.	NA	NA

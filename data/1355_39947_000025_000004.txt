@@ -1,0 +1,16 @@
+We	0	0
+recognized	2	2
+that	0	0
+mental	1	0
+disturbances	1	1
+were	0	0
+often	1	0
+the	0	0
+result	0	0
+of	0	1
+suppressed	1	1
+emotion	1	2
+and	0	0
+repressed	2	0
+wishes	1	2
+.	NA	NA

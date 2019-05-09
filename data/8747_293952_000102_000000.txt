@@ -1,0 +1,11 @@
+Jerry	2	2
+,	NA	NA
+you	2	0
+are	0	0
+a	0	1
+young	0	0
+scamp	0	0
+of	0	1
+the	0	0
+worst	1	2
+.	NA	NA

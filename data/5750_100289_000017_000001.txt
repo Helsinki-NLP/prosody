@@ -1,0 +1,17 @@
+All	2	0
+this	0	0
+time	1	2
+,	NA	NA
+although	1	0
+receiving	0	0
+some	0	0
+aid	1	0
+from	0	1
+various	1	0
+sources	2	2
+,	NA	NA
+he	0	0
+largely	1	0
+supported	0	0
+himself	1	2
+.	NA	NA

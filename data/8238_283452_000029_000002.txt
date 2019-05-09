@@ -1,0 +1,15 @@
+He	0	0
+needs	2	1
+no	1	0
+dungeon	2	1
+keeps	2	0
+and	0	1
+monkish	0	1
+cells	2	2
+to	0	0
+play	1	0
+about	1	0
+in	0	1
+not	2	1
+he	2	2
+!	NA	NA

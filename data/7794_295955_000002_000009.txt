@@ -1,0 +1,14 @@
+The	0	0
+prince	2	0
+invoked	1	1
+God	1	0
+in	0	0
+addressing	0	0
+her	1	2
+God	2	0
+help	0	0
+you	0	0
+,	NA	NA
+old	0	0
+woman	1	2
+!	NA	NA

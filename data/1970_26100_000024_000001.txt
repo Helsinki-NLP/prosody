@@ -1,0 +1,7 @@
+All	2	0
+the	0	0
+rest	1	0
+was	0	1
+apparently	0	1
+delirium	1	2
+.	NA	NA

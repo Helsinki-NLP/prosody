@@ -1,0 +1,9 @@
+That	1	0
+amphora	2	0
+had	0	0
+been	0	1
+floating	1	1
+fifteen	2	0
+hundred	0	1
+years	2	2
+.	NA	NA

@@ -1,0 +1,11 @@
+It	1	0
+was	0	0
+like	1	1
+going	2	1
+through	0	0
+Cleveland	1	2
+on	0	0
+the	0	0
+fast	2	1
+mail	1	2
+.	NA	NA

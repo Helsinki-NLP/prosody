@@ -1,0 +1,15 @@
+I'll	0	0
+take	0	1
+three	0	0
+hundred	2	1
+cakes	1	1
+,	NA	NA
+and	0	0
+that	0	0
+will	0	0
+give	0	1
+them	0	0
+shade	1	1
+and	0	0
+all	2	2
+.	NA	NA

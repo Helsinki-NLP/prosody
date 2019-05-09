@@ -1,0 +1,15 @@
+Shortly	2	1
+the	0	0
+advance	2	0
+party	0	0
+reached	0	1
+Sutter's	2	0
+Fort	1	1
+where	0	0
+they	1	0
+received	0	1
+the	0	0
+most	2	0
+hospitable	2	0
+treatment	1	2
+.	NA	NA

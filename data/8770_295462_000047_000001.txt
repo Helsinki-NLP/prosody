@@ -1,0 +1,10 @@
+I	2	0
+have	0	1
+prepared	1	0
+a	0	0
+little	0	0
+paper	1	1
+of	0	0
+much	2	0
+significance	0	2
+.	NA	NA

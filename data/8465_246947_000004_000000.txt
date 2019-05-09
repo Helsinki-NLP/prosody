@@ -1,0 +1,7 @@
+You	0	0
+know	0	0
+all	2	0
+!	NA	NA
+she	0	1
+faltered	1	2
+.	NA	NA

@@ -1,0 +1,8 @@
+Jasper	2	1
+followed	2	0
+the	0	1
+direction	1	1
+of	0	0
+Polly's	2	0
+finger	1	2
+.	NA	NA

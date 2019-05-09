@@ -1,0 +1,7 @@
+He	0	0
+was	0	0
+well	1	0
+dressed	2	1
+,	NA	NA
+though	2	2
+.	NA	NA

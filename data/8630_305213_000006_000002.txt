@@ -1,0 +1,15 @@
+There	1	0
+were	0	0
+certain	1	0
+good	0	0
+works	2	1
+which	0	0
+the	0	1
+Church	2	1
+gave	1	0
+to	0	1
+Christian	1	0
+widows	1	1
+to	0	0
+perform	2	2
+.	NA	NA

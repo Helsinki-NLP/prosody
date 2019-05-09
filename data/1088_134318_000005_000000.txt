@@ -1,0 +1,7 @@
+Will	1	0
+you	0	1
+see	2	0
+mr	0	1
+Gathercole	1	0
+now	1	2
+!	NA	NA

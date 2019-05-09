@@ -1,0 +1,11 @@
+Pray	2	1
+tell	0	0
+me	0	0
+all	1	0
+about	1	0
+it	0	2
+as	0	0
+quickly	1	0
+as	0	1
+possible	1	2
+.	NA	NA

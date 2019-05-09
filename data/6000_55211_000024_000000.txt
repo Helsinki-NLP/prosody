@@ -1,0 +1,14 @@
+A	0	0
+curious	2	1
+expression	1	2
+,	NA	NA
+or	0	0
+rather	2	2
+,	NA	NA
+series	2	0
+of	0	1
+expressions	1	0
+crossed	1	1
+mrs	0	0
+Greggory's	0	0
+.	NA	NA

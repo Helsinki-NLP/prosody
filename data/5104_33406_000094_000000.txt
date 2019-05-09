@@ -1,0 +1,6 @@
+The	0	0
+land	2	1
+stretches	1	1
+far	1	0
+north	1	2
+.	NA	NA

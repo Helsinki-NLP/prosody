@@ -1,0 +1,14 @@
+She	0	0
+turned	1	0
+away	0	0
+,	NA	NA
+and	0	1
+pretended	1	1
+to	0	0
+search	2	1
+for	0	0
+something	0	0
+she	1	0
+had	0	1
+dropped	2	2
+.	NA	NA

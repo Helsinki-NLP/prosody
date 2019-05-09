@@ -1,0 +1,13 @@
+Her	2	0
+great	1	1
+,	NA	NA
+weirdly	1	0
+blue	0	0
+eyes	1	1
+seemed	0	0
+to	0	1
+bore	1	0
+into	0	1
+my	0	0
+brain	2	2
+.	NA	NA

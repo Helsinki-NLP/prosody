@@ -1,0 +1,7 @@
+Will	2	1
+was	0	0
+almost	2	0
+out	0	1
+of	0	0
+breath	2	2
+.	NA	NA

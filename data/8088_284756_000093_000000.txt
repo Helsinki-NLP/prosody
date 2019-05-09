@@ -1,0 +1,6 @@
+All	2	0
+set	1	1
+,	NA	NA
+he	0	0
+nodded	1	2
+.	NA	NA

@@ -1,0 +1,7 @@
+They	0	0
+called	2	0
+him	0	2
+Tom	2	0
+Jim	0	1
+Jack	1	2
+.	NA	NA

@@ -1,0 +1,17 @@
+As	2	1
+to	0	0
+the	0	0
+old	1	1
+gentleman	0	0
+and	0	1
+his	0	0
+wife	2	2
+,	NA	NA
+their	1	0
+infirmities	2	1
+confined	2	0
+them	0	1
+to	0	0
+the	0	0
+house	2	2
+.	NA	NA

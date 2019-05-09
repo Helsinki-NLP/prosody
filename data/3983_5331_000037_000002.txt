@@ -1,0 +1,8 @@
+Would	1	0
+it	0	0
+be	0	1
+advisable	2	1
+to	0	0
+acquaint	1	0
+her	0	2
+?	NA	NA

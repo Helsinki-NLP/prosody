@@ -1,0 +1,9 @@
+Is	0	0
+this	2	0
+Lady	0	0
+Rachel's	1	1
+doing	0	1
+?	NA	NA
+I	1	0
+said	1	2
+.	NA	NA

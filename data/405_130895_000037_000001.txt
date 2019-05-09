@@ -1,0 +1,17 @@
+Near	2	0
+evening	0	0
+it	0	0
+approached	2	2
+the	0	0
+Falkland	1	0
+Islands	2	2
+,	NA	NA
+whose	1	0
+rugged	0	0
+summits	1	1
+I	0	0
+recognized	1	0
+the	0	1
+next	0	1
+day	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+She	0	0
+tried	2	0
+to	0	1
+scream	2	1
+and	0	0
+she	0	1
+could	0	0
+not	2	2
+.	NA	NA

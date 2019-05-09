@@ -1,0 +1,6 @@
+Happiness	2	1
+is	0	0
+only	1	1
+the	0	0
+necessary	1	2
+.	NA	NA

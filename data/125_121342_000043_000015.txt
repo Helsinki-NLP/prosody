@@ -1,0 +1,13 @@
+He	1	0
+could	0	0
+live	2	0
+on	0	0
+it	0	2
+three	1	0
+months	2	2
+and	0	0
+sleep	1	0
+in	0	0
+the	0	1
+park	2	2
+.	NA	NA

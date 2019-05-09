@@ -1,0 +1,10 @@
+Meanwhile	2	1
+Udo	0	0
+,	NA	NA
+of	0	1
+course	2	1
+,	NA	NA
+blundered	1	0
+along	0	0
+gaily	2	2
+.	NA	NA

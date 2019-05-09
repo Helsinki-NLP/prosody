@@ -1,0 +1,9 @@
+With	0	0
+Cosette's	2	0
+,	NA	NA
+Homer	2	0
+would	0	1
+construct	2	1
+the	0	0
+Iliad	1	2
+.	NA	NA

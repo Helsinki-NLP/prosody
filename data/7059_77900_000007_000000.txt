@@ -1,0 +1,9 @@
+You're	0	0
+too	0	0
+late	2	1
+,	NA	NA
+Lyra	1	2
+,	NA	NA
+said	1	0
+Annie	0	2
+.	NA	NA

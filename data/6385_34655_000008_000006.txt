@@ -1,0 +1,7 @@
+They	1	0
+were	0	0
+called	2	2
+The	2	0
+Little	0	1
+Rooms	1	2
+.	NA	NA

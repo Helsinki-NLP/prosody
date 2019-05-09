@@ -1,0 +1,6 @@
+They	0	0
+were	2	0
+in	0	1
+earnest	1	1
+conversation	2	2
+.	NA	NA

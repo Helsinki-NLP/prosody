@@ -1,0 +1,5 @@
+His	0	1
+pulse	2	1
+still	2	0
+beats	1	2
+.	NA	NA

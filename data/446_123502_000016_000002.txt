@@ -1,0 +1,11 @@
+There	2	0
+were	0	1
+few	0	0
+formalities	2	1
+observed	2	2
+in	0	0
+approaching	1	1
+the	0	0
+Martian	2	0
+chieftain	1	2
+.	NA	NA

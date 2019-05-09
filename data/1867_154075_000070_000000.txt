@@ -1,0 +1,14 @@
+I	0	0
+have	2	1
+no	0	0
+doubt	0	0
+she	0	0
+is	1	2
+,	NA	NA
+but	0	0
+I	2	0
+got	0	0
+a	0	1
+good	0	0
+argument	1	2
+.	NA	NA

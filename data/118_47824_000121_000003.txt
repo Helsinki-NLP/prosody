@@ -1,0 +1,7 @@
+The	0	1
+Panamanian	2	1
+had	0	0
+changed	1	0
+his	0	0
+clothing	2	2
+.	NA	NA

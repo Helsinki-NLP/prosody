@@ -1,0 +1,14 @@
+I	0	0
+told	2	0
+you	0	2
+!	NA	NA
+said	1	0
+the	0	1
+man	1	0
+of	0	1
+the	0	0
+sneer	1	2
+,	NA	NA
+with	0	0
+satisfaction	1	2
+.	NA	NA

@@ -1,0 +1,6 @@
+Ah	2	1
+,	NA	NA
+short	1	0
+tailed	0	1
+devil	1	2
+!	NA	NA

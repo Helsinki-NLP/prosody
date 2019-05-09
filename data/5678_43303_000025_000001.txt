@@ -1,0 +1,7 @@
+He	0	0
+will	0	0
+reach	0	0
+London	1	0
+at	0	1
+nineteen	2	2
+.	NA	NA

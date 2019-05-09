@@ -1,0 +1,10 @@
+Do	0	0
+not	2	1
+make	0	0
+us	1	1
+lose	2	0
+it	0	1
+,	NA	NA
+my	0	0
+friend	2	2
+.	NA	NA

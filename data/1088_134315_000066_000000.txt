@@ -1,0 +1,5 @@
+Six	1	0
+o'clock	1	1
+,	NA	NA
+eh	0	2
+?	NA	NA

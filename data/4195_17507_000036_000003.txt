@@ -1,0 +1,12 @@
+When	1	0
+it	0	1
+comes	2	1
+to	0	0
+actual	2	1
+use	2	1
+,	NA	NA
+we	0	0
+don't	0	2
+get	2	0
+it	0	2
+.	NA	NA

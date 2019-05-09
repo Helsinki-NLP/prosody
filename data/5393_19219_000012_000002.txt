@@ -1,0 +1,13 @@
+Her	1	0
+amazed	2	0
+and	0	1
+uneasy	1	0
+air	1	2
+added	2	0
+something	0	0
+indescribably	1	1
+enchanting	1	1
+to	1	0
+her	0	0
+beauty	1	2
+.	NA	NA

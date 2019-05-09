@@ -1,0 +1,16 @@
+They	1	0
+sailed	1	0
+on	0	1
+south	1	2
+,	NA	NA
+all	1	0
+the	0	0
+time	1	2
+looking	1	0
+for	1	0
+a	0	0
+place	1	1
+to	0	0
+go	1	0
+ashore	2	2
+.	NA	NA

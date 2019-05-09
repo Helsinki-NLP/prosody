@@ -1,0 +1,10 @@
+Yes	2	1
+,	NA	NA
+pretty	0	0
+chilly	2	2
+,	NA	NA
+I	0	0
+returned	0	0
+,	NA	NA
+politely	1	2
+.	NA	NA

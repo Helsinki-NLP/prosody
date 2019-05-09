@@ -1,0 +1,7 @@
+But	0	1
+let	2	0
+us	0	1
+not	2	0
+be	0	1
+afraid	1	2
+!	NA	NA

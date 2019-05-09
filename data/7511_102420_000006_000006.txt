@@ -1,0 +1,12 @@
+So	2	0
+I	0	0
+will	0	2
+spend	2	0
+this	0	1
+snowy	1	0
+day	0	1
+in	0	0
+writing	1	0
+to	0	0
+you	0	2
+.	NA	NA

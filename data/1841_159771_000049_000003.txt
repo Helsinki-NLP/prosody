@@ -1,0 +1,11 @@
+There	2	0
+must	1	1
+be	0	0
+something	2	0
+that	0	1
+my	0	0
+cousin	2	1
+forgot	1	0
+to	0	1
+explain	2	2
+.	NA	NA

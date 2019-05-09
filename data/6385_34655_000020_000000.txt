@@ -1,0 +1,14 @@
+It	2	0
+was	0	1
+still	1	1
+so	2	0
+early	0	1
+that	0	0
+there	0	0
+were	0	0
+no	1	0
+signs	1	1
+of	0	0
+life	1	1
+without	2	2
+.	NA	NA

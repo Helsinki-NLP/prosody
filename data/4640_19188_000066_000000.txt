@@ -1,0 +1,4 @@
+Welcome	1	0
+,	NA	NA
+citizen	1	2
+.	NA	NA

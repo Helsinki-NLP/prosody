@@ -1,0 +1,7 @@
+M	1	0
+.	1	2
+Gillenormand	NA	NA
+took	1	0
+his	0	0
+seat	0	2
+.	NA	NA

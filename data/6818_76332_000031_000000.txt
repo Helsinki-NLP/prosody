@@ -1,0 +1,9 @@
+Did	0	0
+you	2	1
+often	1	0
+come	0	1
+here	2	1
+?	NA	NA
+inquired	1	0
+Joyce	1	2
+.	NA	NA

@@ -1,0 +1,7 @@
+In	0	0
+it	1	0
+lived	2	2
+the	0	0
+Lopez	1	0
+family	1	2
+.	NA	NA

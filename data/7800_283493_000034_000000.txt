@@ -1,0 +1,12 @@
+Oh	1	0
+,	NA	NA
+the	0	1
+meanest	0	0
+luck	1	0
+that	0	1
+ever	1	0
+was	2	2
+!	NA	NA
+he	1	0
+lamented	0	2
+.	NA	NA

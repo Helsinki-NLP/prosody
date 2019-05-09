@@ -1,0 +1,16 @@
+But	0	0
+the	0	0
+book	2	1
+you	0	0
+have	0	0
+not	2	0
+read	0	2
+my	2	0
+book	0	1
+is	2	2
+The	1	0
+Wind	0	0
+in	0	0
+the	0	0
+Willows	1	2
+.	NA	NA

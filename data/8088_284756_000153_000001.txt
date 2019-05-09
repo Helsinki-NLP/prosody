@@ -1,0 +1,12 @@
+That	0	0
+you	0	0
+think	0	0
+she	1	0
+can	0	1
+give	0	0
+us	2	2
+?	NA	NA
+I	2	0
+asked	0	1
+hesitantly	1	2
+.	NA	NA

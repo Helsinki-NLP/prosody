@@ -1,0 +1,5 @@
+The	0	1
+blast	2	1
+entered	0	1
+there	2	2
+.	NA	NA

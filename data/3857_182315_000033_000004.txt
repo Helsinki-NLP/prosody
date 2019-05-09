@@ -1,0 +1,10 @@
+But	2	0
+we	0	0
+must	1	0
+remember	1	2
+this	2	0
+is	0	1
+a	0	0
+simian	0	0
+comment	2	2
+.	NA	NA

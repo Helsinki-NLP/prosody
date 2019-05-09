@@ -1,0 +1,10 @@
+Secondly	2	2
+,	NA	NA
+there	1	0
+is	0	0
+a	0	0
+royal	0	0
+right	1	0
+of	0	1
+mutilation	2	2
+.	NA	NA

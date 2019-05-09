@@ -1,0 +1,8 @@
+I	2	0
+say	0	0
+there	1	0
+ain't	0	1
+nobody	0	1
+;	NA	NA
+nobody	2	2
+.	NA	NA

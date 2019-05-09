@@ -1,0 +1,12 @@
+The	0	0
+rest	2	0
+of	0	1
+us	0	0
+always	0	1
+feel	0	0
+safe	2	2
+when	0	0
+he	0	0
+is	0	1
+about	2	2
+.	NA	NA

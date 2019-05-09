@@ -1,0 +1,14 @@
+A	2	0
+complete	2	1
+rest	2	1
+is	0	0
+what	1	0
+you	0	0
+need	1	2
+,	NA	NA
+he	0	0
+said	2	0
+to	0	1
+Miss	0	0
+Randolph	1	2
+.	NA	NA

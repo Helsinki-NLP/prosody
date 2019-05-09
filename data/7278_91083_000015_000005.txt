@@ -1,0 +1,15 @@
+The	0	0
+yearly	2	0
+profits	1	1
+,	NA	NA
+it	0	0
+is	0	1
+stated	2	1
+,	NA	NA
+have	1	0
+been	0	0
+four	1	0
+hundred	0	1
+thousand	1	0
+dollars	1	2
+.	NA	NA

@@ -1,0 +1,12 @@
+Convincing	1	0
+proofs	1	2
+;	NA	NA
+and	1	0
+Miss	0	0
+Carlyle	1	1
+lent	0	0
+her	0	0
+ear	0	0
+to	0	0
+them	0	2
+.	NA	NA

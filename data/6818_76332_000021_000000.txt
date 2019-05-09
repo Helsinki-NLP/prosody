@@ -1,0 +1,10 @@
+Why	1	0
+,	NA	NA
+no	2	1
+!	NA	NA
+replied	0	0
+Joyce	0	1
+,	NA	NA
+rather	1	1
+confusedly	1	2
+.	NA	NA

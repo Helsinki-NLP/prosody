@@ -1,0 +1,13 @@
+His	0	0
+Broadbent	2	1
+is	0	0
+as	0	0
+wonderful	1	0
+a	0	0
+figure	0	1
+as	1	1
+his	0	0
+George	1	1
+Bernard	0	0
+Shaw	2	2
+.	NA	NA

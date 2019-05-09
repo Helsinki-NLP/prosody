@@ -1,0 +1,6 @@
+At	1	0
+least	2	1
+I	1	0
+am	0	1
+honest	1	2
+.	NA	NA

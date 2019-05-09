@@ -1,0 +1,13 @@
+This	1	0
+no	0	0
+code	1	0
+has	0	1
+ever	0	1
+expressed	2	2
+;	NA	NA
+this	2	0
+no	0	0
+constitution	1	1
+can	0	0
+admit	2	2
+!	NA	NA

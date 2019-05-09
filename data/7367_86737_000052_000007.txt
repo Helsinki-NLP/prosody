@@ -1,0 +1,11 @@
+At	2	0
+the	0	0
+end	2	0
+of	0	1
+the	0	0
+dinner	1	1
+he	0	0
+entered	0	0
+in	0	2
+person	1	2
+.	NA	NA

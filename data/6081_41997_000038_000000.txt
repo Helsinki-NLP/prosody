@@ -1,0 +1,7 @@
+Really	2	0
+,	NA	NA
+I	0	1
+don't	0	0
+exactly	0	1
+know	2	2
+.	NA	NA

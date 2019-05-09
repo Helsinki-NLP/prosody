@@ -1,0 +1,17 @@
+Between	1	0
+the	0	1
+two	1	0
+of	0	0
+us	1	1
+and	0	0
+Patsy	2	1
+,	NA	NA
+we	1	0
+ought	1	2
+to	0	0
+have	1	1
+no	1	0
+trouble	1	1
+at	0	0
+all	2	2
+.	NA	NA

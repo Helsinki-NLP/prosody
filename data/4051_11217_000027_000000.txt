@@ -1,0 +1,17 @@
+Only	1	0
+be	0	0
+brave	1	1
+,	NA	NA
+added	1	1
+she	2	2
+,	NA	NA
+and	0	0
+before	0	0
+daybreak	2	2
+the	0	0
+brazen	1	0
+bulls	0	0
+shall	1	1
+be	0	0
+tamed	1	2
+.	NA	NA

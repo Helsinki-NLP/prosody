@@ -1,0 +1,8 @@
+Why	2	1
+,	NA	NA
+we've	0	0
+not	2	0
+done	0	1
+any	0	0
+harm	1	2
+!	NA	NA

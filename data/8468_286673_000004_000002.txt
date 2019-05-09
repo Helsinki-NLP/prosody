@@ -1,0 +1,11 @@
+Why	2	0
+didn't	0	0
+you	0	1
+Turtles	0	0
+wait	2	1
+for	0	0
+me	1	2
+?	NA	NA
+he	1	0
+grumbled	2	2
+.	NA	NA

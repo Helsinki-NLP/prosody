@@ -1,0 +1,6 @@
+But	1	0
+I'll	0	0
+make	1	1
+one	0	0
+comment	2	2
+.	NA	NA

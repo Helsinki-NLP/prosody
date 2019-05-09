@@ -1,0 +1,11 @@
+But	0	0
+it	0	1
+can	0	0
+hardly	2	0
+have	0	1
+been	0	0
+quite	1	1
+sudden	2	0
+and	0	1
+unforeseen	2	2
+.	NA	NA

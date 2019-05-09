@@ -1,0 +1,13 @@
+For	0	0
+him	2	2
+yesterday's	2	0
+incident	0	1
+was	0	0
+not	1	0
+so	0	0
+lightly	2	0
+to	0	1
+be	0	0
+passed	2	0
+over	2	2
+.	NA	NA

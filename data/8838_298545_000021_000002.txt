@@ -1,0 +1,7 @@
+If	0	0
+you	0	1
+don't	2	2
+you'll	0	0
+be	0	0
+hurt	1	2
+.	NA	NA

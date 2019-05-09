@@ -1,0 +1,15 @@
+Do	2	0
+you	0	0
+call	1	1
+the	0	0
+domestics	1	2
+in	0	0
+an	1	0
+American	0	0
+household	1	1
+'slaves'	2	2
+?	NA	NA
+Miss	2	0
+Stackpole	1	0
+enquired	1	2
+.	NA	NA

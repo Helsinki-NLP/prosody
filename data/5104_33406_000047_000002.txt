@@ -1,0 +1,7 @@
+So	0	0
+I	2	0
+will	0	1
+steer	0	0
+straight	0	1
+west	2	2
+.	NA	NA

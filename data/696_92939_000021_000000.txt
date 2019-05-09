@@ -1,0 +1,3 @@
+BRAND	2	0
+WHITLOCK	0	2
+.	NA	NA

@@ -1,0 +1,14 @@
+Well	2	1
+,	NA	NA
+he	1	0
+was	0	0
+just	2	0
+as	0	2
+patient	2	0
+and	0	1
+thorough	2	0
+when	0	1
+he	0	0
+was	0	0
+older	2	2
+.	NA	NA

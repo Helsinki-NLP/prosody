@@ -1,0 +1,16 @@
+Young	2	0
+girls	0	0
+here	2	2
+in	2	0
+decent	1	0
+houses	1	2
+don't	2	0
+sit	1	0
+alone	2	1
+with	0	0
+the	0	0
+gentlemen	1	0
+late	0	0
+at	0	0
+night	1	2
+.	NA	NA

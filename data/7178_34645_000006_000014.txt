@@ -1,0 +1,8 @@
+Hardquanonne	2	0
+was	0	1
+still	1	0
+in	0	0
+prison	1	1
+at	0	0
+Chatham	2	2
+.	NA	NA

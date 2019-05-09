@@ -1,0 +1,6 @@
+The	0	0
+doctor	1	0
+has	0	1
+seen	0	0
+her	2	2
+.	NA	NA

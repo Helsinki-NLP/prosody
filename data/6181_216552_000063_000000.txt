@@ -1,0 +1,5 @@
+For	0	1
+the	0	0
+rich	2	1
+proprietor	2	2
+.	NA	NA

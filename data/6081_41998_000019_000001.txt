@@ -1,0 +1,14 @@
+And	0	0
+yet	2	2
+,	NA	NA
+ever	0	0
+since	0	0
+opening	2	2
+,	NA	NA
+we	1	0
+have	0	0
+had	1	0
+an	0	1
+immense	1	1
+crowd	1	2
+.	NA	NA

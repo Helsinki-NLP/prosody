@@ -1,0 +1,16 @@
+I'm	1	0
+not	1	0
+sure	0	0
+enough	1	1
+myself	2	2
+that	2	0
+I	0	0
+could	0	1
+keep	0	0
+my	1	0
+hands	0	1
+off	2	1
+you	0	0
+much	0	0
+longer	1	2
+.	NA	NA

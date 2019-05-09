@@ -1,0 +1,8 @@
+I	2	0
+believe	0	0
+what	0	1
+you	0	0
+say	1	0
+is	0	2
+possible	2	2
+.	NA	NA

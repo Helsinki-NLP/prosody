@@ -1,0 +1,13 @@
+He	1	0
+turned	0	1
+pale	2	0
+when	0	1
+he	0	0
+felt	1	0
+the	0	2
+floor	2	0
+shaken	1	1
+by	0	0
+your	0	1
+fall	2	2
+.	NA	NA

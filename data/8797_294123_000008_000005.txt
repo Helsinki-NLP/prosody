@@ -1,0 +1,12 @@
+They	0	0
+were	0	0
+clad	2	0
+in	0	1
+blue	2	2
+.	NA	NA
+Pigtails	2	0
+hung	0	0
+down	0	0
+their	0	0
+backs	1	2
+.	NA	NA

@@ -1,0 +1,17 @@
+Doesn't	2	0
+the	0	0
+opera	1	0
+let	0	0
+out	1	1
+before	1	1
+midnight	2	2
+,	NA	NA
+the	0	0
+same	2	0
+as	0	0
+the	0	2
+theatres	1	0
+?	NA	NA
+he	0	0
+asked	2	2
+.	NA	NA

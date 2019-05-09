@@ -1,0 +1,6 @@
+But	0	0
+what	2	0
+can	0	1
+we	0	0
+do	2	2
+?	NA	NA

@@ -1,0 +1,8 @@
+I	0	0
+wonder	2	0
+where	0	1
+he	0	0
+is	2	1
+just	0	0
+now	1	2
+!	NA	NA

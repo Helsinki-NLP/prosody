@@ -1,0 +1,11 @@
+The	0	0
+man	2	0
+underwent	0	1
+that	0	0
+shock	2	0
+which	0	1
+the	0	0
+unexpected	0	0
+always	1	0
+brings	1	2
+.	NA	NA

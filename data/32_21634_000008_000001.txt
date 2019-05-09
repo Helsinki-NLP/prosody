@@ -1,0 +1,14 @@
+There	1	0
+were	0	0
+six	2	0
+,	NA	NA
+including	0	1
+Brownie	2	1
+Beaver	2	0
+,	NA	NA
+that	0	0
+took	0	1
+part	2	0
+in	0	1
+it	0	2
+.	NA	NA

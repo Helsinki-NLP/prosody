@@ -1,0 +1,7 @@
+She	0	1
+did	2	1
+,	NA	NA
+indeed	2	0
+,	NA	NA
+Louisa	0	2
+.	NA	NA

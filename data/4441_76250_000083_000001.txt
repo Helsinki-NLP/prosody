@@ -1,0 +1,6 @@
+And	0	0
+besides	2	2
+one	1	0
+thing	0	0
+more	1	2
+!	NA	NA

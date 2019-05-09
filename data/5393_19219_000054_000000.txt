@@ -1,0 +1,10 @@
+There	1	0
+should	2	0
+be	0	1
+flashes	2	0
+of	0	1
+light	1	2
+athwart	2	1
+such	0	0
+houses	1	2
+.	NA	NA

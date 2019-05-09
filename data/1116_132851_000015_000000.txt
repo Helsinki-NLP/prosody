@@ -1,0 +1,17 @@
+'But	0	0
+why	2	0
+should	0	1
+you	0	0
+take	1	0
+all	0	0
+this	0	1
+interest	1	0
+in	0	1
+me	2	0
+?	NA	NA
+'	NA	NA
+asked	0	2
+the	0	0
+peasant	0	1
+suspiciously	2	2
+.	NA	NA

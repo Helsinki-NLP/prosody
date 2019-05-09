@@ -1,0 +1,16 @@
+And	1	1
+do	0	0
+you	0	0
+really	1	1
+believe	0	0
+he	0	0
+would	0	1
+destroy	2	1
+the	0	0
+Red	0	0
+Cloud	2	2
+?	NA	NA
+asked	2	0
+mr	0	0
+Parker	1	2
+.	NA	NA

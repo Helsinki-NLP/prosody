@@ -1,0 +1,8 @@
+But	1	1
+the	0	0
+paper	2	1
+is	2	1
+to	0	0
+issue	2	2
+.	NA	NA
+'	NA	NA

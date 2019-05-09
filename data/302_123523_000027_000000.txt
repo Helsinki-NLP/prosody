@@ -1,0 +1,10 @@
+Was	0	0
+there	2	1
+ever	1	1
+such	0	0
+a	0	0
+man	1	0
+!	NA	NA
+she	1	1
+exclaimed	2	2
+.	NA	NA

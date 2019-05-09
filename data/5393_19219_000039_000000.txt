@@ -1,0 +1,6 @@
+He	0	0
+was	1	0
+no	0	1
+longer	0	0
+there	2	2
+.	NA	NA

@@ -1,0 +1,16 @@
+The	0	0
+first	2	0
+words	1	0
+I	0	1
+pronounced	1	1
+were	0	0
+words	2	0
+of	0	1
+appreciation	2	2
+and	1	0
+gratitude	2	1
+to	0	0
+my	1	0
+two	0	1
+companions	2	2
+.	NA	NA

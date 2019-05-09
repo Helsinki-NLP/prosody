@@ -1,0 +1,8 @@
+Don't	0	0
+our	1	0
+fellows	1	0
+get	0	1
+killed	1	0
+sometimes	2	2
+?	NA	NA
+'	NA	NA

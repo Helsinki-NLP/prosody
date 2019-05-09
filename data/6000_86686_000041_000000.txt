@@ -1,0 +1,11 @@
+But	1	0
+you'll	0	0
+keep	0	0
+your	0	0
+word	1	1
+true	2	2
+,	NA	NA
+says	2	0
+the	0	1
+saint	2	2
+.	NA	NA

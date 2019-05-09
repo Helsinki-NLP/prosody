@@ -1,0 +1,15 @@
+The	0	0
+artificial	1	1
+style	2	2
+has	1	0
+as	0	0
+many	0	1
+varieties	2	1
+as	0	0
+there	1	0
+are	0	0
+different	0	0
+tastes	1	1
+to	0	0
+gratify	2	2
+.	NA	NA

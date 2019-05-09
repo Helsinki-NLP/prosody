@@ -1,0 +1,9 @@
+Now	2	0
+he	0	1
+pushed	1	0
+it	0	0
+open	1	0
+and	0	1
+stepped	1	1
+out	2	2
+.	NA	NA

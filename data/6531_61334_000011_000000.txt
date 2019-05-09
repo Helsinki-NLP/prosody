@@ -1,0 +1,16 @@
+The	0	1
+Assyrian	2	0
+war	1	0
+lord	0	1
+afterwards	1	1
+forced	0	0
+several	1	0
+Nairi	2	1
+kings	0	0
+to	0	1
+acknowledge	2	1
+him	0	0
+as	0	0
+their	2	0
+overlord	0	2
+.	NA	NA

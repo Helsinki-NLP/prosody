@@ -1,0 +1,7 @@
+Reginald	2	1
+lifted	0	0
+his	1	0
+hat	1	1
+and	1	0
+assented	1	2
+.	NA	NA

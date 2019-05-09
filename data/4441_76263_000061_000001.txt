@@ -1,0 +1,5 @@
+Let's	1	0
+light	0	0
+a	0	1
+fire	2	2
+!	NA	NA

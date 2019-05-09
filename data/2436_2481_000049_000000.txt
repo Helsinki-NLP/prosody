@@ -1,0 +1,4 @@
+No	2	0
+one	0	1
+there	1	2
+!	NA	NA

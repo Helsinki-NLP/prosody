@@ -1,0 +1,12 @@
+She	1	0
+is	0	0
+a	0	0
+little	0	1
+better	1	0
+,	NA	NA
+I	0	0
+think	1	2
+,	NA	NA
+said	2	0
+Mabel	1	2
+.	NA	NA

@@ -1,0 +1,7 @@
+I	0	0
+know	2	0
+you	0	0
+have	0	2
+married	1	1
+Troutina	1	2
+.	NA	NA

@@ -1,0 +1,12 @@
+The	0	1
+sleepers	2	1
+open	0	0
+their	0	0
+eyes	2	2
+and	0	0
+raise	2	0
+themselves	1	1
+on	0	0
+their	0	0
+elbows	1	2
+.	NA	NA

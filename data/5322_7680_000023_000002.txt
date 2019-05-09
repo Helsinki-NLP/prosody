@@ -1,0 +1,10 @@
+We'll	1	0
+get	1	0
+on	0	1
+by	0	1
+ourselves	2	2
+by	0	0
+God's	2	0
+help	1	2
+.	NA	NA
+'	NA	NA

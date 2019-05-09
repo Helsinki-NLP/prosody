@@ -1,0 +1,8 @@
+I	1	1
+cannot	2	1
+believe	1	1
+such	2	0
+was	0	1
+the	0	0
+case	2	2
+.	NA	NA

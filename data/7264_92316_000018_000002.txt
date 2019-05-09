@@ -1,0 +1,7 @@
+You	1	0
+have	0	0
+the	0	1
+Single	2	0
+tax	0	1
+papers	2	2
+.	NA	NA

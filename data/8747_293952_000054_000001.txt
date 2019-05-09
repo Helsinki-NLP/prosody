@@ -1,0 +1,5 @@
+Conniston	1	1
+is	0	0
+a	0	1
+scamp	2	2
+.	NA	NA

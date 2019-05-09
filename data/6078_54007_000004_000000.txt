@@ -1,0 +1,13 @@
+You	0	0
+look	2	0
+as	0	1
+hale	2	0
+and	0	2
+strong	2	0
+as	0	0
+ever	0	0
+,	NA	NA
+says	0	0
+saint	0	1
+Nicholas	2	2
+.	NA	NA

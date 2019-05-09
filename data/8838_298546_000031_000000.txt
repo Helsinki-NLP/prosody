@@ -1,0 +1,8 @@
+And	0	0
+you	0	0
+no	1	0
+longer	0	0
+drink	0	0
+your	0	2
+beer	2	2
+?	NA	NA

@@ -1,0 +1,14 @@
+Pray	2	0
+,	NA	NA
+did	0	1
+you	0	0
+ever	2	0
+attend	0	0
+dr	1	1
+Kite's	2	1
+lectures	1	0
+on	0	1
+the	0	0
+nervous	1	0
+system	2	2
+?	NA	NA

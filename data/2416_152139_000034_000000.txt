@@ -1,0 +1,7 @@
+What's	0	0
+this	2	0
+?	NA	NA
+he	0	1
+demanded	0	0
+hoarsely	1	2
+.	NA	NA

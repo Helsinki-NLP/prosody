@@ -1,0 +1,14 @@
+My	1	0
+cousin	1	0
+Barrington	2	1
+writes	2	2
+me	0	0
+word	1	0
+that	0	0
+you	0	0
+will	0	1
+certainly	2	1
+get	1	0
+the	0	1
+seat	2	2
+.	NA	NA

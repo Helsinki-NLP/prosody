@@ -1,0 +1,14 @@
+And	1	0
+their	0	0
+tops	1	0
+are	0	1
+so	2	0
+dense	1	2
+that	0	0
+the	0	1
+sunbeams	2	1
+cannot	0	1
+creep	2	0
+through	0	0
+them	0	2
+.	NA	NA

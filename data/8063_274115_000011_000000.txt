@@ -1,0 +1,6 @@
+What	0	0
+about	2	1
+?	NA	NA
+inquired	0	0
+Porthos	0	2
+.	NA	NA

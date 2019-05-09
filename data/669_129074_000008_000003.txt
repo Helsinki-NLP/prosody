@@ -1,0 +1,6 @@
+She	0	0
+grew	0	1
+pale	1	2
+and	1	0
+ill	1	2
+.	NA	NA

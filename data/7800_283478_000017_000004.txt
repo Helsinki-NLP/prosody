@@ -1,0 +1,6 @@
+Let	2	0
+him	0	1
+go	0	1
+after	0	0
+Andy	1	2
+.	NA	NA

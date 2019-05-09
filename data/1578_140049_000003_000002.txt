@@ -1,0 +1,17 @@
+You	0	1
+never	2	0
+can	1	0
+let	0	0
+well	0	0
+enough	0	1
+alone	1	1
+,	NA	NA
+but	0	0
+want	2	0
+to	0	1
+be	0	1
+forever	2	0
+on	0	0
+the	0	1
+move	1	2
+.	NA	NA

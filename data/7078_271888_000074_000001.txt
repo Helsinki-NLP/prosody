@@ -1,0 +1,6 @@
+I	1	0
+will	0	0
+not	1	1
+allow	2	1
+it	0	2
+.	NA	NA

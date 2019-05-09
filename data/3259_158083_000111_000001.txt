@@ -1,0 +1,15 @@
+I	0	0
+could	0	0
+not	2	1
+sleep	2	1
+,	NA	NA
+having	0	0
+a	0	0
+sense	2	0
+of	0	1
+constant	1	1
+danger	2	2
+.	NA	NA
+.	NA	NA
+.	NA	NA
+.	NA	NA

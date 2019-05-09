@@ -1,0 +1,12 @@
+Let	2	0
+me	0	0
+at	0	0
+least	1	2
+reach	0	0
+a	0	0
+shady	1	0
+spot	2	2
+,	NA	NA
+said	1	0
+Andrea	2	2
+.	NA	NA

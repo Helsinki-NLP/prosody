@@ -1,0 +1,11 @@
+He	0	0
+let	2	0
+it	0	0
+be	0	0
+done	1	2
+,	NA	NA
+without	2	0
+seeking	0	0
+an	0	1
+explanation	1	2
+.	NA	NA

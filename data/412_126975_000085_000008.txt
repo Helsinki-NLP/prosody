@@ -1,0 +1,9 @@
+Oh	2	1
+,	NA	NA
+you	0	0
+will	0	0
+never	1	1
+do	0	0
+anything	0	1
+better	2	2
+.	NA	NA

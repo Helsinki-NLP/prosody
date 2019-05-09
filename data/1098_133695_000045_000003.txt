@@ -1,0 +1,16 @@
+For	1	0
+himself	2	1
+he	1	0
+was	0	0
+annoyed	1	0
+at	0	1
+his	0	0
+mother	1	2
+,	NA	NA
+though	2	0
+he	0	0
+thought	1	1
+she	0	0
+was	0	0
+right	1	2
+.	NA	NA

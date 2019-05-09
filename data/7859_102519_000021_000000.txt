@@ -1,0 +1,9 @@
+The	0	0
+six	0	0
+years	2	0
+which	0	1
+followed	1	0
+were	0	1
+purely	2	1
+anarchical	1	2
+.	NA	NA

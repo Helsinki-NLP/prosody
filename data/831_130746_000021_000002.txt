@@ -1,0 +1,8 @@
+But	0	0
+as	2	0
+yet	1	2
+he	0	0
+seemed	0	0
+merely	1	1
+stunned	2	2
+.	NA	NA

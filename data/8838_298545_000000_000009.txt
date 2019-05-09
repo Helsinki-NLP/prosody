@@ -1,0 +1,9 @@
+A	0	0
+sudden	2	1
+impulse	1	1
+came	0	0
+over	1	0
+the	0	1
+despondent	1	0
+student	1	2
+.	NA	NA

@@ -1,0 +1,11 @@
+Here	2	0
+and	0	1
+there	0	1
+were	0	0
+high	1	0
+carved	2	1
+gables	1	1
+and	0	0
+shop	2	1
+fronts	1	2
+.	NA	NA

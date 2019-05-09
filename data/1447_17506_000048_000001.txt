@@ -1,0 +1,17 @@
+I've	2	1
+just	2	1
+been	0	0
+through	0	0
+the	0	0
+list	1	0
+of	0	1
+Italian	0	1
+counts	1	2
+,	NA	NA
+and	1	0
+his	0	0
+name	1	0
+is	0	1
+not	2	1
+there	1	2
+.	NA	NA

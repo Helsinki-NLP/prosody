@@ -1,0 +1,12 @@
+We're	2	0
+not	2	2
+the	0	0
+'Babes	2	1
+in	0	0
+the	0	0
+Woods	2	1
+,	NA	NA
+'	NA	NA
+you	0	0
+know	1	2
+.	NA	NA

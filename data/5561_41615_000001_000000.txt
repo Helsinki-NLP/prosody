@@ -1,0 +1,4 @@
+A	2	0
+WOULD	1	1
+BE	0	0
+LARK	2	2

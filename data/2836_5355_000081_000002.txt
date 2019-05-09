@@ -1,0 +1,10 @@
+You	1	0
+need	0	0
+not	0	0
+have	0	0
+reminded	1	1
+me	1	0
+of	0	0
+the	0	1
+mistake	2	2
+.	NA	NA

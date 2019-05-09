@@ -1,0 +1,14 @@
+'I	0	0
+am	2	0
+a	0	0
+cadet	1	2
+,	NA	NA
+but	0	0
+have	2	0
+been	0	0
+recommended	1	0
+for	0	1
+a	0	0
+commission	1	2
+.	NA	NA
+'	NA	NA

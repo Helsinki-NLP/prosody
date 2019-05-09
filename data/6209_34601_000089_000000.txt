@@ -1,0 +1,14 @@
+Will	0	0
+you	0	0
+be	0	1
+kind	2	0
+enough	0	0
+to	0	1
+eat	0	0
+it	0	0
+all	0	0
+up	2	1
+,	NA	NA
+you	0	2
+cub	2	2
+?	NA	NA

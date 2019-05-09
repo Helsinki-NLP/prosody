@@ -1,0 +1,6 @@
+I	0	0
+went	1	0
+and	0	1
+enjoyed	2	0
+myself	1	2
+.	NA	NA

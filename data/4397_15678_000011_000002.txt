@@ -1,0 +1,15 @@
+Then	2	0
+they	1	0
+too	2	1
+grow	1	0
+rich	2	0
+and	0	1
+spend	2	0
+their	0	0
+money	0	0
+on	0	1
+red	2	1
+cloth	2	0
+and	0	1
+trinkets	1	2
+.	NA	NA

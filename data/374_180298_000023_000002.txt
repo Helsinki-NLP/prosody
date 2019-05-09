@@ -1,0 +1,16 @@
+I	2	0
+had	0	0
+succeeded	1	1
+without	2	0
+effort	1	2
+or	1	0
+trouble	2	1
+in	0	0
+almost	1	0
+isolating	1	0
+her	0	0
+from	0	1
+her	0	0
+former	1	0
+habits	2	2
+.	NA	NA

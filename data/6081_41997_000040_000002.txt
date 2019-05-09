@@ -1,0 +1,12 @@
+One	1	0
+of	0	0
+them	0	0
+dropped	2	1
+this	1	0
+handkerchief	1	1
+,	NA	NA
+which	0	0
+I	0	1
+picked	1	0
+up	2	2
+.	NA	NA

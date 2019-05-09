@@ -1,0 +1,10 @@
+There	2	0
+was	0	1
+neither	2	1
+discipline	0	0
+nor	0	0
+order	2	0
+in	0	0
+the	0	1
+schools	2	2
+.	NA	NA

@@ -1,0 +1,8 @@
+Allow	2	0
+me	0	1
+to	0	0
+return	2	0
+them	0	1
+to	0	0
+you	2	2
+.	NA	NA

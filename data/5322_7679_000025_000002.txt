@@ -1,0 +1,7 @@
+How	2	0
+will	0	0
+you	0	1
+get	1	1
+back	1	1
+alone	1	2
+?	NA	NA

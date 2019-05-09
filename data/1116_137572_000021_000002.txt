@@ -1,0 +1,15 @@
+Too	0	0
+many	0	0
+couples	2	1
+exploit	2	1
+the	0	0
+sense	1	0
+of	0	1
+let	2	1
+down	2	0
+that	0	1
+marriage	2	1
+brings	0	0
+with	0	0
+it	2	2
+.	NA	NA

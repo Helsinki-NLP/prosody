@@ -1,0 +1,5 @@
+Then	0	0
+I	1	0
+remembered	1	0
+him	2	2
+.	NA	NA

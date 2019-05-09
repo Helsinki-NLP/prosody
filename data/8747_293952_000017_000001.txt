@@ -1,0 +1,5 @@
+If	2	1
+he	0	0
+was	0	1
+guilty	1	2
+.	NA	NA

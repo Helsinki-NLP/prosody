@@ -1,0 +1,8 @@
+And	0	0
+yet	2	0
+their	0	0
+natural	2	1
+disposition	1	1
+revealed	1	1
+itself	1	2
+.	NA	NA

@@ -1,0 +1,8 @@
+If	0	1
+you	0	0
+lie	2	0
+I	0	0
+will	0	1
+exterminate	2	1
+you	0	2
+.	NA	NA

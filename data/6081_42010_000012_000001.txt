@@ -1,0 +1,9 @@
+To	0	0
+the	0	0
+magistrate's	1	1
+proposal	1	0
+he	0	1
+carelessly	1	1
+nodded	2	0
+assent	1	2
+.	NA	NA

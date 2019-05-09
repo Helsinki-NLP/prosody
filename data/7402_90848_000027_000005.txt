@@ -1,0 +1,14 @@
+Answer	2	0
+me	0	1
+,	NA	NA
+you	0	0
+silly	2	2
+,	NA	NA
+have	2	0
+you	0	0
+seen	0	0
+a	0	0
+lost	2	1
+temper	0	0
+anywhere	2	2
+?	NA	NA

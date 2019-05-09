@@ -1,0 +1,6 @@
+A	0	0
+hundred	1	0
+and	0	1
+seventy	0	1
+five	2	2
+.	NA	NA

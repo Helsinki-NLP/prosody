@@ -1,0 +1,9 @@
+But	2	1
+he	0	0
+felt	2	2
+that	0	0
+she	0	0
+had	1	1
+reproached	2	0
+him	0	2
+.	NA	NA

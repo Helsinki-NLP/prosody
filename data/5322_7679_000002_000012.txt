@@ -1,0 +1,13 @@
+The	0	1
+scout	2	1
+hastened	2	2
+to	0	0
+cover	2	1
+the	0	0
+dead	1	0
+man's	0	0
+face	1	0
+with	0	1
+his	0	0
+coat	2	2
+.	NA	NA

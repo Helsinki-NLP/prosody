@@ -1,0 +1,11 @@
+I	2	0
+beg	0	1
+your	0	0
+pardon	1	1
+,	NA	NA
+sir	2	2
+,	NA	NA
+did	0	0
+you	0	0
+speak	2	2
+?	NA	NA

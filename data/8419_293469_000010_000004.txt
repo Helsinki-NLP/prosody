@@ -1,0 +1,9 @@
+She	1	1
+picked	0	0
+me	0	0
+up	2	0
+and	0	2
+carried	2	1
+me	0	1
+inside	2	2
+.	NA	NA

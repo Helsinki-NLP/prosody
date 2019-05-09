@@ -1,0 +1,14 @@
+And	0	1
+he	0	0
+dived	2	1
+out	1	0
+of	0	1
+the	0	0
+old	1	0
+oak	1	1
+straight	2	0
+at	0	1
+Master	2	0
+Meadow	0	0
+Mouse	1	2
+.	NA	NA

@@ -1,0 +1,10 @@
+The	0	0
+Cossacks	2	1
+involuntarily	1	1
+stepped	0	0
+aside	2	2
+to	0	0
+let	1	0
+him	0	0
+pass	2	2
+.	NA	NA

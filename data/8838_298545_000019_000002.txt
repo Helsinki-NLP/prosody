@@ -1,0 +1,16 @@
+What	2	1
+blessed	2	0
+safety	1	1
+valve	2	0
+was	0	0
+this	1	1
+through	0	0
+which	0	0
+his	0	1
+jangled	1	0
+nerves	2	1
+might	1	0
+find	0	1
+some	0	0
+outlet	2	2
+.	NA	NA

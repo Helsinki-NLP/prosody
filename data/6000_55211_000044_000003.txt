@@ -1,0 +1,6 @@
+After	2	0
+a	0	0
+moment	1	0
+he	0	1
+spoke	2	2
+.	NA	NA

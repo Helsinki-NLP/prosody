@@ -1,0 +1,12 @@
+Wait	2	1
+just	0	0
+a	0	0
+minute	0	0
+or	0	0
+two	0	1
+,	NA	NA
+Will	2	2
+,	NA	NA
+he	0	0
+pleaded	2	2
+.	NA	NA

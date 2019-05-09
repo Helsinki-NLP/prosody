@@ -1,0 +1,13 @@
+His	1	0
+round	2	1
+face	2	1
+betrayed	1	0
+little	0	1
+or	0	0
+no	0	0
+vestiges	2	2
+of	0	0
+his	0	0
+overnight	1	1
+irritation	2	2
+.	NA	NA

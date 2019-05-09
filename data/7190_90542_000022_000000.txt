@@ -1,0 +1,11 @@
+Any	0	0
+traces	2	2
+that	0	0
+the	0	0
+head	1	0
+was	0	1
+carried	1	1
+to	0	0
+the	0	0
+wood	2	2
+?	NA	NA

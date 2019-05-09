@@ -1,0 +1,14 @@
+Grapes	2	1
+do	0	0
+not	1	1
+grow	2	0
+in	0	1
+Greenland	0	2
+nor	2	0
+in	0	0
+Iceland	1	2
+nor	2	0
+even	0	0
+in	0	1
+Norway	1	2
+.	NA	NA

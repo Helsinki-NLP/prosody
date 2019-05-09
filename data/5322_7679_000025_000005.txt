@@ -1,0 +1,10 @@
+You	0	0
+ask	2	1
+the	0	0
+corporal	2	1
+to	0	0
+give	1	0
+me	0	0
+leave	1	2
+.	NA	NA
+'	NA	NA

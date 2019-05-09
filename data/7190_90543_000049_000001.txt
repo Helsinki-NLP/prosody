@@ -1,0 +1,5 @@
+You	0	0
+still	1	0
+think	0	1
+that	2	2
+?	NA	NA

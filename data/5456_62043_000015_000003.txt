@@ -1,0 +1,17 @@
+Still	2	2
+,	NA	NA
+with	0	0
+all	1	0
+these	0	0
+disadvantages	1	2
+,	NA	NA
+they	1	0
+continued	0	0
+playing	2	2
+they	1	0
+wanted	0	0
+to	0	0
+learn	0	0
+the	0	0
+game	1	2
+.	NA	NA

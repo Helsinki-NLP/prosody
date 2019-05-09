@@ -1,0 +1,11 @@
+So	0	0
+you're	2	1
+staying	2	0
+at	0	1
+the	0	0
+Manor	0	0
+House	2	2
+,	NA	NA
+said	0	0
+Lily	2	2
+.	NA	NA

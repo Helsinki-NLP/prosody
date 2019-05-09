@@ -1,0 +1,5 @@
+We	0	0
+must	2	1
+stay	0	0
+together	2	2
+.	NA	NA

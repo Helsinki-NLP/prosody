@@ -1,0 +1,13 @@
+Dear	2	0
+Elizabeth	1	2
+,	NA	NA
+she	1	0
+was	0	1
+glad	2	0
+to	0	1
+get	0	0
+away	1	0
+,	NA	NA
+I	0	1
+suspect	2	2
+!	NA	NA

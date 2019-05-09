@@ -1,0 +1,10 @@
+But	0	0
+this	2	0
+is	0	0
+only	0	1
+the	0	0
+Billingsgate	1	2
+of	1	0
+our	0	0
+exasperation	2	2
+.	NA	NA

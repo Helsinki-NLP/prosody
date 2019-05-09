@@ -1,0 +1,11 @@
+However	2	0
+,	NA	NA
+our	0	1
+friendship	0	0
+shall	1	0
+cease	0	1
+from	0	0
+this	1	1
+day	1	1
+forth	2	2
+.	NA	NA

@@ -1,0 +1,11 @@
+Oh	2	2
+,	NA	NA
+Ill	2	0
+Luck	1	1
+brought	0	0
+me	0	0
+,	NA	NA
+said	0	1
+the	0	0
+Fiddler	1	2
+.	NA	NA

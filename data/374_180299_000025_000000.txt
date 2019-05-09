@@ -1,0 +1,8 @@
+Not	1	0
+long	1	0
+after	0	1
+,	NA	NA
+Prudence	1	1
+returned	1	0
+again	2	2
+.	NA	NA

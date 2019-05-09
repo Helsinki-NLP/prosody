@@ -1,0 +1,10 @@
+Oh	2	0
+,	NA	NA
+Marilla	1	2
+,	NA	NA
+I'm	1	0
+just	0	0
+overcome	0	0
+with	0	1
+woe	2	2
+.	NA	NA

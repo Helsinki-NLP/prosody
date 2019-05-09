@@ -1,0 +1,8 @@
+Ah	2	1
+,	NA	NA
+said	1	0
+Gwynplaine	1	1
+,	NA	NA
+awake	2	0
+me	0	2
+!	NA	NA

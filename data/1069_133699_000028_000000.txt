@@ -1,0 +1,17 @@
+I've	0	0
+not	2	0
+much	0	1
+control	2	0
+of	0	0
+my	0	1
+thoughts	2	2
+,	NA	NA
+but	2	0
+I'll	0	0
+do	0	0
+my	0	1
+best	2	2
+,	NA	NA
+said	1	0
+Isabel	1	2
+.	NA	NA

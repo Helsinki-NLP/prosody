@@ -1,0 +1,7 @@
+With	0	0
+simples	2	1
+,	NA	NA
+returned	1	1
+the	0	0
+surgeon	1	2
+.	NA	NA

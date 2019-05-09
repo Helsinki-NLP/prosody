@@ -1,0 +1,7 @@
+No	2	0
+,	NA	NA
+no	1	0
+,	NA	NA
+he	0	1
+won't	1	2
+.	NA	NA

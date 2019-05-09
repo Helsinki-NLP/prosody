@@ -1,0 +1,6 @@
+The	0	0
+little	1	0
+infant	0	1
+drank	2	1
+greedily	1	2
+.	NA	NA

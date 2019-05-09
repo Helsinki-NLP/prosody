@@ -1,0 +1,13 @@
+At	1	0
+present	2	1
+,	NA	NA
+the	0	0
+colonists	2	1
+had	0	0
+reason	1	0
+on	0	1
+their	0	0
+side	2	0
+against	0	1
+Pencroft	1	2
+.	NA	NA

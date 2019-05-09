@@ -1,0 +1,10 @@
+Get	1	0
+off	2	0
+of	0	0
+our	1	1
+trap	2	0
+and	0	2
+spin	1	0
+that	0	0
+wedding	1	2
+.	NA	NA

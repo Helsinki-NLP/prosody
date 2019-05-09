@@ -1,0 +1,8 @@
+What	2	1
+on	0	1
+earth	2	2
+did	0	0
+you	0	0
+give	2	0
+her	1	2
+?	NA	NA

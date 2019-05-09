@@ -1,0 +1,6 @@
+The	1	0
+justices	2	1
+are	1	0
+with	0	0
+him	1	2
+.	NA	NA

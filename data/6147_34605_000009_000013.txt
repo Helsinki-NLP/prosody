@@ -1,0 +1,14 @@
+Nevertheless	1	2
+,	NA	NA
+she	0	0
+might	2	0
+find	1	0
+it	0	1
+amusing	0	1
+to	0	0
+plan	1	0
+a	0	1
+fall	2	0
+for	0	1
+herself	1	2
+.	NA	NA

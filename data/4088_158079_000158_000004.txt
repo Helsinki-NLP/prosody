@@ -1,0 +1,5 @@
+But	1	1
+still	1	0
+they	0	1
+came	2	2
+.	NA	NA

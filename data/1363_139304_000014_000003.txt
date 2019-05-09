@@ -1,0 +1,17 @@
+He	0	0
+sat	2	2
+,	NA	NA
+now	2	0
+fully	0	0
+awake	2	2
+,	NA	NA
+listening	1	0
+alertly	2	2
+,	NA	NA
+forgetting	2	0
+the	0	1
+viands	1	1
+in	0	0
+his	0	0
+attention	1	2
+.	NA	NA

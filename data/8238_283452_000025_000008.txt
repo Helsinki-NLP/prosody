@@ -1,0 +1,17 @@
+The	0	0
+spook	1	0
+of	0	1
+to	0	0
+day	2	1
+enjoys	1	1
+making	0	1
+his	0	0
+haunted	1	0
+laugh	2	2
+even	2	0
+while	0	0
+he	0	1
+groans	1	0
+in	0	1
+terror	2	2
+.	NA	NA

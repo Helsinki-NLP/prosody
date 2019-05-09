@@ -1,0 +1,14 @@
+Ruggles	2	0
+and	0	1
+I	0	1
+never	1	0
+meant	1	1
+to	0	0
+listen	0	1
+,	NA	NA
+upon	0	0
+my	0	0
+word	2	0
+we	0	1
+didn't	1	2
+.	NA	NA

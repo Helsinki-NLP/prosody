@@ -1,0 +1,12 @@
+Meaning	2	1
+that	0	0
+I'm	1	1
+liable	2	1
+to	0	0
+put	0	0
+an	0	0
+end	1	1
+to	0	0
+your	0	1
+stay	2	2
+?	NA	NA

@@ -1,0 +1,12 @@
+That	1	1
+fierce	1	1
+growl	0	0
+reassured	1	0
+him	0	2
+;	NA	NA
+that	2	1
+threat	2	1
+was	0	0
+a	0	0
+promise	1	2
+.	NA	NA

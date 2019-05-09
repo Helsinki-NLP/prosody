@@ -1,0 +1,12 @@
+The	0	1
+President	2	1
+had	0	0
+put	1	0
+the	0	1
+finishing	1	1
+touches	2	0
+on	0	0
+it	0	1
+that	2	0
+morning	2	2
+.	NA	NA

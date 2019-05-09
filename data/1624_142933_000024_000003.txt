@@ -1,0 +1,6 @@
+It	0	0
+is	0	0
+just	2	1
+peter	0	0
+Rabbit	2	2
+.	NA	NA

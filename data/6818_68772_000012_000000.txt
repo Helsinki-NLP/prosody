@@ -1,0 +1,13 @@
+Kenneth	1	1
+then	1	0
+took	0	1
+the	0	0
+platform	1	0
+and	0	1
+was	0	0
+welcomed	2	2
+with	1	0
+a	0	0
+hearty	1	0
+cheer	2	2
+.	NA	NA

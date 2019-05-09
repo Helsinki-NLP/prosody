@@ -1,0 +1,10 @@
+Fine	2	1
+weather	2	2
+!	NA	NA
+said	1	0
+every	0	0
+Muskrat	0	0
+to	0	0
+his	0	0
+neighbor	1	2
+.	NA	NA

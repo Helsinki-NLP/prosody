@@ -1,0 +1,9 @@
+We	1	0
+need	0	0
+all	1	0
+our	0	1
+cartridges	1	1
+just	1	0
+at	1	1
+present	2	2
+.	NA	NA

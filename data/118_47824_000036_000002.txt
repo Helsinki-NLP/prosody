@@ -1,0 +1,7 @@
+I've	0	0
+nearly	2	1
+frozen	2	1
+driving	1	0
+from	0	1
+Smithtown	1	2
+.	NA	NA

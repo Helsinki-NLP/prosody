@@ -1,0 +1,16 @@
+I	1	0
+was	0	0
+talking	2	0
+with	0	1
+him	0	0
+about	1	0
+your	0	1
+case	0	0
+only	0	0
+yesterday	1	2
+,	NA	NA
+and	0	0
+says	2	0
+he	1	2
+,	1	2
+'mrs	NA	NA

@@ -1,0 +1,13 @@
+For	0	0
+all	0	0
+that	1	1
+flight	2	2
+mr	1	0
+Hoopdriver	1	0
+was	0	1
+in	0	0
+the	0	0
+world	2	0
+of	0	1
+Romance	1	2
+.	NA	NA

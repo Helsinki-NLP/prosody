@@ -1,0 +1,11 @@
+You	2	0
+will	0	1
+not	2	2
+!	NA	NA
+she	2	0
+cried	1	0
+,	NA	NA
+clinging	0	1
+to	0	0
+me	1	2
+.	NA	NA

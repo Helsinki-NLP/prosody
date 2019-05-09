@@ -1,0 +1,5 @@
+I	1	0
+am	1	0
+not	1	1
+forgotten	2	2
+.	NA	NA

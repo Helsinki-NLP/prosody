@@ -1,0 +1,7 @@
+You	0	1
+are	2	0
+seventeen	0	0
+,	NA	NA
+said	0	1
+Priscilla	2	2
+.	NA	NA

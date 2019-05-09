@@ -1,0 +1,17 @@
+Listen	2	1
+when	0	0
+one	1	0
+bears	2	0
+an	0	2
+irreproachable	2	0
+name	1	0
+,	NA	NA
+as	0	0
+I	0	0
+do	0	1
+,	NA	NA
+one	1	0
+is	0	0
+rather	2	0
+sensitive	1	2
+.	NA	NA

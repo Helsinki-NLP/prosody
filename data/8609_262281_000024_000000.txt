@@ -1,0 +1,7 @@
+In	0	1
+what	0	0
+way	2	0
+,	NA	NA
+Miss	0	1
+Channing	1	2
+?	NA	NA

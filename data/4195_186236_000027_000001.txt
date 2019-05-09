@@ -1,0 +1,8 @@
+You	1	0
+owe	0	0
+me	0	1
+nothing	2	1
+,	NA	NA
+my	1	0
+lad	2	2
+.	NA	NA

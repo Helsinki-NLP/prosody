@@ -1,0 +1,10 @@
+I	2	0
+am	0	0
+responsible	2	1
+to	0	1
+One	1	0
+always	0	1
+,	NA	NA
+Lady	0	0
+Augusta	2	2
+.	NA	NA

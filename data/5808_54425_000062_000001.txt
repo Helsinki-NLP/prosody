@@ -1,0 +1,11 @@
+She	0	0
+shrank	1	0
+back	1	0
+from	0	0
+him	0	2
+,	NA	NA
+back	2	1
+to	0	0
+the	0	0
+wall	2	2
+.	NA	NA

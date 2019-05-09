@@ -1,0 +1,12 @@
+Gave	1	0
+them	0	0
+the	2	1
+outside	2	1
+slabs	2	1
+to	0	0
+fence	2	0
+in	0	1
+the	0	0
+reservation	2	1
+with	0	2
+.	NA	NA

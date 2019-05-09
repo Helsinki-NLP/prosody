@@ -1,0 +1,9 @@
+Neither	2	0
+couple	1	1
+knows	2	2
+where	0	0
+the	0	0
+other	0	0
+is	0	1
+going	2	2
+.	NA	NA

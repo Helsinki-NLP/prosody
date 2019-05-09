@@ -1,0 +1,14 @@
+Very	2	0
+well	1	2
+,	NA	NA
+he	0	0
+resumed	1	2
+;	NA	NA
+we	2	0
+will	0	0
+have	0	0
+it	0	0
+out	0	0
+,	NA	NA
+here	2	2
+.	NA	NA

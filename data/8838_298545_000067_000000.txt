@@ -1,0 +1,11 @@
+Well	2	2
+,	NA	NA
+I'll	1	0
+stan'	0	0
+to	0	0
+my	0	0
+share	0	0
+of	0	0
+the	0	1
+purse	1	2
+.	NA	NA

@@ -1,0 +1,15 @@
+No	2	1
+,	NA	NA
+read	2	0
+it	0	0
+yourself	2	2
+,	NA	NA
+cried	0	0
+Catherine	1	1
+,	NA	NA
+whose	1	0
+second	2	0
+thoughts	1	1
+were	0	0
+clearer	1	2
+.	NA	NA

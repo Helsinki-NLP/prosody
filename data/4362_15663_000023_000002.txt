@@ -1,0 +1,14 @@
+The	0	1
+hail	2	0
+gave	0	1
+place	1	0
+to	0	1
+snow	2	2
+,	NA	NA
+and	0	0
+darkness	2	0
+came	0	0
+on	0	0
+like	0	0
+night	0	2
+.	NA	NA

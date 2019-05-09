@@ -1,0 +1,17 @@
+However	2	2
+,	NA	NA
+the	0	0
+little	2	0
+infant	0	1
+leaned	0	0
+her	0	0
+head	0	0
+against	0	0
+his	0	0
+shoulder	1	2
+,	NA	NA
+and	1	0
+fell	0	0
+asleep	0	0
+again	1	2
+.	NA	NA

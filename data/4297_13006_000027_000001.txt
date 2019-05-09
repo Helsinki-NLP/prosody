@@ -1,0 +1,13 @@
+And	0	0
+why	0	0
+should	2	0
+not	0	0
+a	0	1
+foreigner	2	1
+be	0	0
+as	0	0
+good	0	0
+as	0	0
+an	0	1
+Englishman	2	2
+?	NA	NA

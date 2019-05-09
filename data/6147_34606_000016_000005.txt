@@ -1,0 +1,13 @@
+So	1	0
+much	0	0
+less	1	1
+for	0	0
+the	0	0
+enemy's	0	1
+beak	1	2
+,	NA	NA
+he	0	0
+used	1	0
+to	0	1
+say	2	2
+.	NA	NA

@@ -1,0 +1,8 @@
+She	0	0
+had	2	0
+a	0	1
+fancy	1	1
+for	0	0
+Lord	1	1
+David	2	2
+.	NA	NA

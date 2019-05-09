@@ -1,0 +1,5 @@
+How	0	0
+do	0	0
+you	0	1
+know	2	2
+?	NA	NA

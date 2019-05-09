@@ -1,0 +1,15 @@
+Looks	2	1
+like	0	0
+as	0	0
+if	0	1
+he	0	0
+was	1	0
+going	1	1
+to	0	0
+a	0	0
+wedding	1	2
+,	NA	NA
+said	1	0
+his	0	0
+landlady	1	2
+.	NA	NA

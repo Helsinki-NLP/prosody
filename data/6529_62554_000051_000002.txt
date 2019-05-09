@@ -1,0 +1,7 @@
+Pencroft	2	1
+only	1	0
+was	0	1
+prouder	1	0
+than	0	0
+he	1	2
+!	NA	NA

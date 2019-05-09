@@ -1,0 +1,14 @@
+Our	0	0
+company	2	0
+is	0	1
+going	1	1
+before	0	0
+the	0	1
+holidays	2	1
+,	NA	NA
+and	0	0
+your	1	0
+hundred	2	1
+too	2	2
+.	NA	NA
+'	NA	NA

@@ -1,0 +1,14 @@
+No	1	0
+fewer	2	0
+than	0	1
+thirty	0	0
+two	0	1
+expeditions	1	1
+were	0	0
+recorded	2	0
+on	0	1
+his	0	0
+famous	2	0
+black	2	1
+obelisk	2	2
+.	NA	NA

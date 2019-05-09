@@ -1,0 +1,8 @@
+He	0	0
+felt	2	1
+himself	0	0
+bound	2	2
+and	0	0
+held	2	0
+back	1	2
+.	NA	NA

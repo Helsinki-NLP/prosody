@@ -1,0 +1,16 @@
+If	0	0
+a	0	0
+man's	1	0
+got	2	0
+the	0	1
+brains	2	2
+,	NA	NA
+you	0	0
+may	1	0
+as	0	0
+well	1	1
+recognize	0	0
+it	0	1
+straight	0	0
+away	2	2
+.	NA	NA

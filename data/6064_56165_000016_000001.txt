@@ -1,0 +1,10 @@
+She	0	1
+,	NA	NA
+too	2	0
+,	NA	NA
+had	0	1
+a	0	0
+brother	1	0
+in	0	1
+College	2	2
+.	NA	NA

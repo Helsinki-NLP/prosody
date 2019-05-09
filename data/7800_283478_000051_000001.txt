@@ -1,0 +1,10 @@
+Look	2	0
+at	0	0
+him	0	1
+waving	2	0
+his	0	1
+hat	1	0
+over	0	0
+his	0	1
+head	1	2
+?	NA	NA

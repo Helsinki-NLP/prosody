@@ -1,0 +1,5 @@
+Sir	2	0
+Richmond	0	1
+smiled	2	1
+again	2	2
+.	NA	NA

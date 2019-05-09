@@ -1,0 +1,13 @@
+She	1	0
+was	0	0
+dressed	1	1
+almost	1	1
+wholly	2	0
+in	0	1
+light	2	1
+olive	2	1
+green	1	0
+and	0	1
+greenish	0	0
+yellow	2	2
+.	NA	NA

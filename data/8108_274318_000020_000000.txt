@@ -1,0 +1,4 @@
+john	2	0
+Silence	0	1
+understood	1	2
+.	NA	NA

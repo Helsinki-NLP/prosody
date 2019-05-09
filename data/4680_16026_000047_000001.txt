@@ -1,0 +1,16 @@
+I	0	0
+don't	0	1
+know	1	0
+,	NA	NA
+let	0	1
+me	0	0
+alone	2	0
+,	NA	NA
+and	0	1
+be	0	0
+off	2	0
+,	NA	NA
+I	0	1
+tell	0	0
+you	2	2
+.	NA	NA

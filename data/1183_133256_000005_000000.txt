@@ -1,0 +1,7 @@
+One	1	0
+of	0	1
+the	0	0
+Best	2	1
+External	1	0
+Remedies	0	0
+Known	1	2

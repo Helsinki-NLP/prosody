@@ -1,0 +1,6 @@
+Is	1	0
+it	0	0
+as	0	1
+good	1	0
+now	2	2
+?	NA	NA

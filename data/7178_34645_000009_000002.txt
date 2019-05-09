@@ -1,0 +1,10 @@
+james	2	0
+the	0	0
+second	1	1
+.	NA	NA
+was	0	0
+of	0	0
+this	1	1
+latter	2	1
+variety	1	2
+.	NA	NA

@@ -1,0 +1,5 @@
+Then	1	0
+he	0	0
+would	0	1
+go	2	2
+.	NA	NA

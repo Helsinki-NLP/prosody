@@ -1,0 +1,7 @@
+I	1	0
+got	1	1
+no	2	0
+aid	0	1
+from	0	0
+either	2	2
+.	NA	NA

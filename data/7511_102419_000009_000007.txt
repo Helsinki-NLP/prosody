@@ -1,0 +1,10 @@
+I	1	0
+could	0	0
+take	2	0
+care	1	0
+of	0	1
+father	2	0
+and	0	2
+teach	1	0
+also	1	2
+.	NA	NA

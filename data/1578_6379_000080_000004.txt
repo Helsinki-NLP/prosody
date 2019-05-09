@@ -1,0 +1,9 @@
+I	0	0
+had	1	0
+to	0	1
+walk	2	1
+without	1	0
+lifting	0	0
+my	0	1
+feet	2	2
+.	NA	NA

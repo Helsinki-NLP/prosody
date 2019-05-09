@@ -1,0 +1,16 @@
+Finally	2	1
+he	0	0
+flung	1	0
+her	0	0
+from	1	1
+him	0	0
+like	0	0
+a	0	0
+rag	2	2
+,	NA	NA
+and	0	0
+sank	1	0
+into	0	1
+a	0	0
+chair	2	2
+.	NA	NA

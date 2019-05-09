@@ -1,0 +1,9 @@
+But	1	0
+the	0	0
+latter	2	0
+had	0	1
+not	1	0
+waited	1	1
+an	0	0
+instant	1	2
+.	NA	NA

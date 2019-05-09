@@ -1,0 +1,5 @@
+If	2	1
+I	1	0
+marry	0	0
+the	0	1
+Countess	2	2

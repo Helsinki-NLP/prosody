@@ -1,0 +1,16 @@
+He	0	0
+did	0	0
+not	2	1
+perceive	2	1
+this	1	0
+,	NA	NA
+and	0	0
+in	0	1
+truth	2	1
+he	0	0
+looked	1	1
+no	0	0
+more	2	0
+than	0	1
+thirty	2	2
+.	NA	NA

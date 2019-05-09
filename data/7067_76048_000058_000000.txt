@@ -1,0 +1,4 @@
+Sir	0	1
+Richmond	2	1
+considered	2	2
+.	NA	NA

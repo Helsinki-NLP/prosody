@@ -1,0 +1,5 @@
+And	1	0
+there	0	0
+are	0	0
+others	1	2
+.	NA	NA

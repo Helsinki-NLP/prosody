@@ -1,0 +1,17 @@
+The	0	0
+second	1	0
+broke	0	1
+,	NA	NA
+and	2	2
+,	NA	NA
+with	0	0
+an	1	0
+exclamation	0	0
+of	0	0
+annoyance	2	2
+,	NA	NA
+he	0	0
+flung	1	0
+it	0	0
+away	0	2
+.	NA	NA

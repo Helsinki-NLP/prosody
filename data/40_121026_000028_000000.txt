@@ -1,0 +1,11 @@
+Here	1	0
+are	0	0
+two	0	1
+flints	2	2
+and	0	0
+a	0	0
+piece	1	0
+of	0	1
+burnt	1	0
+linen	2	2
+.	NA	NA

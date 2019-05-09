@@ -1,0 +1,9 @@
+I	2	0
+always	0	0
+like	2	2
+the	0	0
+rumble	1	1
+part	1	0
+of	0	1
+it	1	2
+.	NA	NA

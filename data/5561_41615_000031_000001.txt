@@ -1,0 +1,13 @@
+No	2	0
+one	0	0
+had	0	1
+ever	2	1
+before	1	0
+spoken	2	1
+so	0	0
+disrespectfully	2	1
+to	0	0
+their	0	0
+revered	1	0
+principal	1	2
+.	NA	NA

@@ -1,0 +1,6 @@
+So	2	0
+you	0	0
+have	0	1
+told	0	0
+me	2	2
+.	NA	NA

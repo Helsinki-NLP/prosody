@@ -1,0 +1,14 @@
+Just	2	1
+then	1	0
+the	0	1
+whistle	1	1
+blew	1	0
+,	NA	NA
+and	0	1
+there	0	0
+was	0	0
+a	0	1
+scramble	2	1
+for	0	0
+places	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+The	0	0
+Crayfish	2	2
+stuck	1	0
+his	0	1
+tail	2	0
+into	0	0
+the	0	0
+mud	1	2
+.	NA	NA

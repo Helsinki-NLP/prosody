@@ -1,0 +1,7 @@
+The	0	0
+empty	0	0
+deck	2	1
+chairs	2	1
+stood	1	0
+about	1	2
+.	NA	NA

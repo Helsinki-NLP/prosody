@@ -1,0 +1,9 @@
+Never	2	0
+mind	0	0
+me	0	0
+,	NA	NA
+said	0	1
+the	0	0
+Tree	0	0
+Frog	2	2
+.	NA	NA

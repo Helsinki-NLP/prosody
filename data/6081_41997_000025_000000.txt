@@ -1,0 +1,8 @@
+I	1	1
+just	1	1
+caught	1	0
+a	0	1
+glimpse	1	0
+of	1	0
+it	0	2
+.	NA	NA

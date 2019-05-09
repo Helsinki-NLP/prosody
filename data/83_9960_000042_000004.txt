@@ -1,0 +1,15 @@
+This	2	0
+can	0	0
+be	0	1
+screwed	1	0
+together	1	1
+and	0	0
+unscrewed	2	1
+at	0	0
+will	2	2
+;	NA	NA
+it	1	0
+is	0	1
+a	0	0
+box	2	2
+.	NA	NA

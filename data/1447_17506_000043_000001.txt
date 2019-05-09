@@ -1,0 +1,13 @@
+He	0	0
+was	1	1
+glad	2	2
+that	0	0
+he	0	0
+had	0	1
+not	1	0
+suspected	2	1
+the	0	0
+young	1	0
+man	0	1
+unjustly	2	2
+.	NA	NA

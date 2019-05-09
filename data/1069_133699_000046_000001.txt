@@ -1,0 +1,5 @@
+I'm	1	0
+affected	0	1
+by	0	0
+everything	1	2
+.	NA	NA

@@ -1,0 +1,5 @@
+Well	1	0
+,	NA	NA
+by	1	0
+Jove	1	2
+!	NA	NA

@@ -1,0 +1,12 @@
+I	0	0
+wasn't	2	1
+going	1	0
+to	0	1
+be	0	1
+frightened	2	1
+at	0	0
+what	1	0
+I	0	0
+had	0	1
+done	2	2
+.	NA	NA

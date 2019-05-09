@@ -1,0 +1,13 @@
+Why	2	1
+,	NA	NA
+he	0	0
+might	1	0
+have	0	2
+been	1	1
+the	0	0
+death	2	1
+of	0	0
+some	1	0
+of	0	1
+them	2	2
+!	NA	NA

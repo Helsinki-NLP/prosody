@@ -1,0 +1,5 @@
+It	0	0
+was	0	0
+then	2	1
+December	2	2
+.	NA	NA

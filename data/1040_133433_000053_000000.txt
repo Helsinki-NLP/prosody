@@ -1,0 +1,16 @@
+You	0	1
+won't	2	0
+forget	2	0
+me	0	1
+,	NA	NA
+peter	0	0
+,	NA	NA
+will	1	0
+you	0	2
+,	NA	NA
+before	1	0
+spring	0	0
+cleaning	0	0
+time	0	0
+comes	1	2
+?	NA	NA

@@ -1,0 +1,13 @@
+'Those	0	0
+cadets	1	1
+are	0	0
+crafty	2	2
+,	NA	NA
+awfully	1	0
+crafty	2	1
+,	NA	NA
+'	NA	NA
+said	0	0
+a	0	0
+third	1	2
+.	NA	NA

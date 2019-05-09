@@ -1,0 +1,10 @@
+Come	2	1
+,	NA	NA
+dear	0	0
+;	NA	NA
+let	0	0
+us	1	2
+be	0	0
+going	2	2
+.	NA	NA
+'	NA	NA

@@ -1,0 +1,11 @@
+By	1	0
+Jove	2	2
+!	NA	NA
+he	0	0
+exclaimed	1	1
+,	NA	NA
+did	0	0
+you	0	0
+hear	0	0
+that	1	2
+?	NA	NA

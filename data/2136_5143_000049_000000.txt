@@ -1,0 +1,12 @@
+'But	2	0
+that	0	0
+doctor	1	0
+is	0	1
+a	0	0
+doctor	1	0
+in	0	2
+theology	2	1
+,	NA	NA
+I	0	0
+fancy	1	2
+.	NA	NA

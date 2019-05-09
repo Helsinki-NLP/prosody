@@ -1,0 +1,5 @@
+We	0	1
+cannot	1	1
+approach	2	1
+beauty	1	2
+.	NA	NA

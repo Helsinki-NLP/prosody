@@ -1,0 +1,6 @@
+They	0	0
+very	2	0
+seldom	1	0
+lasted	1	1
+long	1	2
+.	NA	NA

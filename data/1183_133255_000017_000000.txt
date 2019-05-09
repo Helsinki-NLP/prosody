@@ -1,0 +1,12 @@
+Contains	2	0
+Leslie	0	1
+Safety	1	0
+Razor	0	0
+and	0	1
+Spiral	2	1
+Stropper	2	0
+and	0	1
+six	2	0
+Leslie	0	1
+Blades	1	2
+.	NA	NA

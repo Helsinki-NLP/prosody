@@ -1,0 +1,15 @@
+He	0	1
+bore	1	1
+hard	2	0
+on	0	1
+the	0	0
+rudder	2	2
+,	NA	NA
+but	0	0
+he	0	0
+could	0	0
+not	1	0
+turn	0	1
+the	0	0
+ship	2	2
+.	NA	NA

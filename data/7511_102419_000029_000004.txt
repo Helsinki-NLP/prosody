@@ -1,0 +1,12 @@
+mr	2	0
+Haynes	1	0
+is	0	0
+a	0	1
+quiet	2	1
+fellow	0	1
+,	NA	NA
+just	1	0
+interested	0	0
+in	0	0
+hunting	0	2
+.	NA	NA

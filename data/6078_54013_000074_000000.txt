@@ -1,0 +1,14 @@
+It	0	0
+is	1	0
+,	NA	NA
+said	0	0
+Ali	0	0
+Baba	2	2
+,	NA	NA
+about	1	1
+two	0	0
+men	1	0
+betwixt	1	1
+whom	0	1
+there	0	0
+was	2	2

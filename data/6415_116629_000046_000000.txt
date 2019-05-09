@@ -1,0 +1,4 @@
+Is	1	1
+Dietrich	0	1
+killed	2	2
+?	NA	NA

@@ -1,0 +1,11 @@
+What	2	0
+are	0	0
+we	0	1
+to	0	0
+do	1	0
+now	2	2
+?	NA	NA
+her	1	0
+voice	2	0
+asked	1	2
+.	NA	NA

@@ -1,0 +1,17 @@
+There	0	0
+were	0	0
+no	0	0
+towns	2	0
+then	0	1
+with	0	0
+houses	2	0
+and	0	1
+streets	2	2
+,	NA	NA
+and	0	0
+church	2	0
+steeples	0	1
+domineering	1	1
+over	0	0
+everything	1	2
+.	NA	NA

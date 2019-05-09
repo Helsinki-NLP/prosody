@@ -1,0 +1,7 @@
+Even	1	0
+the	0	1
+boys	2	1
+like	0	1
+Miss	0	0
+Thompson	1	2
+.	NA	NA

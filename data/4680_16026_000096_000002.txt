@@ -1,0 +1,15 @@
+I	2	0
+shall	1	0
+be	0	1
+hungry	2	0
+this	0	1
+summer	2	2
+,	NA	NA
+and	0	0
+I	1	0
+shall	1	0
+be	0	1
+cold	2	0
+this	0	1
+winter	1	2
+.	NA	NA

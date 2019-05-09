@@ -1,0 +1,9 @@
+mr	2	0
+Childs	1	1
+died	2	0
+at	0	2
+three	1	0
+o	0	0
+one	0	0
+a	1	1
+m	0	2

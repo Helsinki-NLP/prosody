@@ -1,0 +1,12 @@
+I	1	0
+shouldn't	0	1
+think	0	0
+there'd	1	0
+be	0	0
+much	0	0
+fun	1	0
+in	0	0
+making	0	1
+anybody	1	0
+uncomfortable	2	2
+.	NA	NA

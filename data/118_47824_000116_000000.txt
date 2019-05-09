@@ -1,0 +1,11 @@
+And	0	0
+why	2	0
+do	0	0
+you	0	1
+fill	1	0
+my	0	0
+mind	2	0
+with	0	2
+such	0	1
+thoughts	2	2
+?	NA	NA

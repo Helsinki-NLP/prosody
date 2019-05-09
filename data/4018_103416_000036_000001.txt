@@ -1,0 +1,7 @@
+But	1	0
+of	0	1
+course	2	1
+I	0	0
+shall	1	0
+be	0	2
+.	NA	NA

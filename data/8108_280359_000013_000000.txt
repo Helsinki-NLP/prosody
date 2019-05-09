@@ -1,0 +1,8 @@
+But	2	0
+his	0	1
+punishment	1	1
+did	0	0
+not	1	0
+end	1	1
+here	2	2
+.	NA	NA

@@ -1,0 +1,5 @@
+Again	2	0
+the	0	1
+curate	0	0
+pondered	1	2
+.	NA	NA

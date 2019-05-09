@@ -1,0 +1,11 @@
+'How	1	2
+don't	1	0
+want	1	0
+it	0	1
+?	NA	NA
+'	NA	NA
+Lukashka	2	0
+said	0	0
+,	NA	NA
+laughing	1	2
+.	NA	NA

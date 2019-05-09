@@ -1,0 +1,4 @@
+We	0	1
+cannot	2	1
+wait	1	2
+.	NA	NA

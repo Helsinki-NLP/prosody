@@ -1,0 +1,5 @@
+His	0	0
+judgment	2	0
+was	0	1
+disturbed	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+We	0	0
+shall	0	0
+not	1	1
+have	2	0
+him	0	1
+with	0	0
+us	0	2
+long	2	2
+.	NA	NA

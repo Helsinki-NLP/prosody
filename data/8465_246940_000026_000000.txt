@@ -1,0 +1,15 @@
+Then	1	0
+you	0	0
+must	1	1
+of	1	0
+course	2	1
+make	0	0
+all	2	1
+possible	0	0
+reparation	2	1
+,	NA	NA
+answered	0	0
+Wingfold	1	0
+at	0	0
+once	1	2
+.	NA	NA

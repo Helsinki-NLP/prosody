@@ -1,0 +1,8 @@
+You	2	0
+amaze	1	0
+me	1	2
+!	NA	NA
+replied	1	0
+the	0	0
+other	1	2
+.	NA	NA

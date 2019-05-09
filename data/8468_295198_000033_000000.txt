@@ -1,0 +1,3 @@
+I	1	1
+mistake	1	2
+!	NA	NA

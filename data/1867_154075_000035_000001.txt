@@ -1,0 +1,8 @@
+A	0	1
+regular	2	1
+Apollo	1	1
+,	NA	NA
+my	0	0
+dear	0	0
+ruth	2	2
+.	NA	NA

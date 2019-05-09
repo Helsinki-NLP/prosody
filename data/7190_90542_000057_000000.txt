@@ -1,0 +1,5 @@
+Five	2	0
+or	0	0
+six	0	1
+miles	2	2
+.	NA	NA

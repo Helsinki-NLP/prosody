@@ -1,0 +1,8 @@
+Why	2	0
+didn't	0	0
+we	1	0
+think	0	0
+of	0	0
+it	0	1
+before	2	2
+?	NA	NA

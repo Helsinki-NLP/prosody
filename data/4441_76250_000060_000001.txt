@@ -1,0 +1,6 @@
+Which	0	0
+bank	1	1
+do	0	0
+you	0	0
+prefer	2	2
+?	NA	NA

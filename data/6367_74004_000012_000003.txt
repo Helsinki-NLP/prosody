@@ -1,0 +1,5 @@
+You've	0	0
+had	0	0
+more	0	1
+practice	1	2
+.	NA	NA

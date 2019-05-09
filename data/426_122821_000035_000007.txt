@@ -1,0 +1,9 @@
+You	0	0
+must	2	1
+be	0	0
+awful	2	1
+clever	1	0
+,	NA	NA
+teacher	2	2
+.	NA	NA
+'	NA	NA

@@ -1,0 +1,9 @@
+No	1	0
+,	NA	NA
+thank	0	0
+you	1	2
+,	NA	NA
+said	0	0
+poor	1	0
+esther	1	2
+.	NA	NA

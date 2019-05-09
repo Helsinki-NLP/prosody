@@ -1,0 +1,10 @@
+Yes	2	2
+,	NA	NA
+I'll	2	0
+just	0	1
+take	0	0
+you	0	0
+up	0	0
+on	0	0
+that	1	2
+.	NA	NA

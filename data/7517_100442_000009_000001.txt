@@ -1,0 +1,10 @@
+Well	2	1
+,	NA	NA
+as	0	0
+I	0	0
+say	2	2
+,	NA	NA
+they	2	0
+see	0	0
+life	0	2
+.	NA	NA

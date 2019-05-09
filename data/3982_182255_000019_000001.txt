@@ -1,0 +1,6 @@
+Everybody	2	1
+felt	2	0
+it	0	1
+at	0	0
+once	2	2
+.	NA	NA

@@ -1,0 +1,5 @@
+Wretch	2	0
+!	NA	NA
+I	0	1
+said	1	2
+.	NA	NA

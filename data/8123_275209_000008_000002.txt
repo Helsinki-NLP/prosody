@@ -1,0 +1,17 @@
+How	2	0
+should	0	0
+a	0	2
+poor	2	0
+crawling	0	0
+creature	0	1
+like	0	0
+me	1	0
+know	0	0
+what	0	1
+to	0	0
+do	2	2
+without	2	0
+asking	0	1
+my	0	0
+betters	2	2
+?	NA	NA

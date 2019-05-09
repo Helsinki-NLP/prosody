@@ -1,0 +1,8 @@
+You	1	0
+would	0	0
+be	0	1
+pleased	2	1
+to	0	0
+hear	2	0
+them	0	2
+.	NA	NA

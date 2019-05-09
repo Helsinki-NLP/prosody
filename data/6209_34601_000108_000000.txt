@@ -1,0 +1,12 @@
+Behind	2	0
+the	0	1
+stove	2	1
+there	0	0
+was	0	0
+a	0	2
+jug	2	2
+with	0	0
+the	0	0
+spout	1	0
+off	1	2
+.	NA	NA

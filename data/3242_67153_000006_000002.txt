@@ -1,0 +1,12 @@
+We	0	0
+didn't	1	0
+have	1	1
+to	0	0
+know	2	0
+fractions	1	1
+to	0	0
+figure	0	0
+out	1	0
+our	0	1
+profits	2	2
+.	NA	NA

@@ -1,0 +1,15 @@
+Where	1	0
+did	0	0
+you	0	0
+get	1	1
+that	2	1
+?	NA	NA
+he	0	0
+asked	1	2
+,	NA	NA
+poking	2	1
+it	0	0
+with	0	0
+his	0	0
+foot	2	2
+.	NA	NA

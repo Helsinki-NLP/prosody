@@ -1,0 +1,16 @@
+The	0	0
+spirit	2	0
+that	0	0
+would	0	2
+cure	2	0
+our	0	0
+ills	1	2
+must	1	0
+be	1	0
+of	0	0
+a	0	1
+deeper	2	0
+and	0	1
+finer	2	0
+mood	1	2
+.	NA	NA

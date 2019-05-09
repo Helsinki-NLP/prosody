@@ -1,0 +1,15 @@
+Greatly	2	0
+as	0	0
+I	0	1
+desire	1	0
+your	0	0
+love	1	2
+,	NA	NA
+I	2	0
+do	0	0
+not	0	0
+ask	0	1
+a	0	0
+sacrifice	1	2
+.	NA	NA
+'	NA	NA

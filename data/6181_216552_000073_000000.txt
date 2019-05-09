@@ -1,0 +1,7 @@
+Certainly	2	2
+,	NA	NA
+the	0	0
+preservation	1	0
+of	0	1
+property	1	2
+,	NA	NA

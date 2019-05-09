@@ -1,0 +1,12 @@
+Dear	2	0
+mrs	0	0
+Robarts	2	2
+,	NA	NA
+you	0	0
+must	1	0
+not	2	0
+be	0	1
+surprised	1	0
+at	0	1
+him	0	2
+.	NA	NA

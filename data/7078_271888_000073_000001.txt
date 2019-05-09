@@ -1,0 +1,16 @@
+Dick	2	0
+has	0	0
+asked	2	1
+me	0	0
+to	0	0
+become	1	0
+his	0	1
+wife	2	2
+,	NA	NA
+she	1	0
+said	2	0
+in	0	1
+a	0	0
+low	0	0
+tone	1	2
+.	NA	NA

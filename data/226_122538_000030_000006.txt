@@ -1,0 +1,5 @@
+Come	2	1
+outside	1	0
+the	0	1
+barrier	1	2
+.	NA	NA

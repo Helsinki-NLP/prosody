@@ -1,0 +1,9 @@
+Well	2	2
+the	0	0
+glee	1	0
+club	0	1
+was	0	0
+last	1	1
+Thursday	0	0
+night	1	2
+.	NA	NA

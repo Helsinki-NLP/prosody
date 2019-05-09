@@ -1,0 +1,9 @@
+No	2	0
+man	0	0
+would	0	1
+ever	2	0
+need	0	0
+a	0	1
+cloak	1	1
+there	2	2
+.	NA	NA

@@ -1,0 +1,8 @@
+That	2	1
+man	1	0
+is	0	1
+one	0	0
+of	0	1
+my	1	1
+enemies	2	2
+.	NA	NA

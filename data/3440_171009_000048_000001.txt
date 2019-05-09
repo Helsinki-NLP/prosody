@@ -1,0 +1,10 @@
+I	1	0
+consider	1	0
+it	0	0
+a	0	1
+very	2	0
+unladylike	1	2
+and	0	0
+slovenly	2	0
+trick	1	2
+.	NA	NA

@@ -1,0 +1,15 @@
+It	1	0
+is	0	0
+written	2	0
+in	0	0
+the	0	1
+Scriptures	1	2
+God's	2	1
+house	0	0
+shall	0	0
+be	0	0
+a	0	0
+house	1	0
+of	0	1
+prayer	2	2
+.	NA	NA

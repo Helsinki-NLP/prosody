@@ -1,0 +1,6 @@
+mr	1	0
+Wilson	1	0
+thinks	0	1
+there	0	0
+is	2	2
+.	NA	NA

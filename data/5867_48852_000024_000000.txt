@@ -1,0 +1,8 @@
+Oh	2	0
+,	NA	NA
+yes	0	1
+;	NA	NA
+Mary	2	0
+told	0	1
+me	0	2
+.	NA	NA

@@ -1,0 +1,5 @@
+No	1	0
+,	NA	NA
+she's	0	1
+not	2	2
+.	NA	NA

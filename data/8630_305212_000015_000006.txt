@@ -1,0 +1,14 @@
+It	0	1
+was	2	1
+her	0	0
+love	2	2
+,	NA	NA
+her	0	0
+patience	2	1
+,	NA	NA
+that	0	0
+had	0	0
+done	0	0
+it	0	0
+all	1	2
+.	NA	NA

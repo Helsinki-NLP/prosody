@@ -1,0 +1,16 @@
+Let	1	0
+them	0	0
+come	1	0
+in	0	1
+swimming	1	0
+with	0	1
+their	0	0
+children	2	2
+,	NA	NA
+if	2	0
+they	1	0
+are	0	0
+warm	1	0
+and	0	1
+tired	2	2
+.	NA	NA

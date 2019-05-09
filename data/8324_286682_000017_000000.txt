@@ -1,0 +1,7 @@
+Then	2	0
+Big	0	1
+Brother	1	1
+became	1	0
+much	2	1
+excited	1	2
+.	NA	NA

@@ -1,0 +1,9 @@
+Suddenly	2	1
+a	0	0
+light	1	0
+shone	1	2
+down	1	0
+into	0	1
+Philip's	1	0
+mind	1	2
+.	NA	NA

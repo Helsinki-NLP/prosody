@@ -1,0 +1,9 @@
+Your	2	0
+aunt	0	0
+has	0	1
+told	2	0
+you	0	0
+,	NA	NA
+I	0	1
+suppose	2	2
+.	NA	NA

@@ -1,0 +1,13 @@
+I	0	1
+never	0	0
+supposed	2	1
+that	0	0
+you	1	2
+you	0	0
+cared	2	1
+for	0	0
+me	0	0
+in	0	0
+that	0	0
+way	1	2
+.	NA	NA

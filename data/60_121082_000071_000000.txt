@@ -1,0 +1,12 @@
+No	2	2
+;	NA	NA
+the	0	0
+fact	2	0
+is	0	1
+,	NA	NA
+I	2	0
+have	0	1
+found	2	0
+my	0	0
+father	1	2
+.	NA	NA

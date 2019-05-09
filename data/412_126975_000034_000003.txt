@@ -1,0 +1,15 @@
+He	0	0
+was	0	0
+dusty	2	0
+looking	1	1
+and	0	0
+in	0	0
+a	0	0
+frayed	1	0
+coat	2	2
+,	NA	NA
+evidently	2	1
+a	0	0
+common	1	0
+messenger	1	2
+.	NA	NA

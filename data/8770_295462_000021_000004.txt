@@ -1,0 +1,14 @@
+He	1	0
+appeared	1	0
+in	0	1
+court	2	2
+in	0	0
+behalf	1	0
+of	0	1
+colored	1	0
+people	0	1
+,	NA	NA
+time	2	0
+and	0	1
+again	2	2
+.	NA	NA

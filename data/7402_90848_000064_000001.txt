@@ -1,0 +1,7 @@
+For	0	0
+the	0	1
+dragon	2	2
+had	1	1
+blown	1	0
+up	2	2
+.	NA	NA

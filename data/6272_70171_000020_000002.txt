@@ -1,0 +1,11 @@
+The	0	0
+oldest	2	1
+was	0	0
+eight	1	0
+years	1	2
+,	NA	NA
+the	0	0
+youngest	2	1
+three	0	0
+months	1	2
+.	NA	NA

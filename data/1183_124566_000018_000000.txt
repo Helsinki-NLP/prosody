@@ -1,0 +1,6 @@
+Teaching	1	2
+,	NA	NA
+said	1	0
+the	0	0
+Master	1	2
+.	NA	NA

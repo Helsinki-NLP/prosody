@@ -1,0 +1,14 @@
+Meanwhile	2	0
+the	0	1
+tumults	1	1
+still	1	0
+continued	2	2
+,	NA	NA
+and	1	0
+even	0	0
+increased	0	0
+about	1	0
+Westminster	0	0
+and	0	0
+Whitehall	2	2
+.	NA	NA

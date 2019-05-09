@@ -1,0 +1,5 @@
+As	1	0
+little	0	0
+as	0	1
+zero	2	2
+!	NA	NA

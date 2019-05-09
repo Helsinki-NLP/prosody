@@ -1,0 +1,9 @@
+Now	0	1
+,	NA	NA
+child	1	0
+,	NA	NA
+I	0	1
+tell	0	0
+the	0	0
+truth	2	2
+.	NA	NA

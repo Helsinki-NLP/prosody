@@ -1,0 +1,10 @@
+I	0	0
+found	2	0
+such	0	1
+a	0	0
+man	2	0
+in	0	1
+Sir	0	0
+Henry	0	1
+Buckingham	2	2
+.	NA	NA

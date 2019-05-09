@@ -1,0 +1,8 @@
+Well	2	2
+,	NA	NA
+we	1	0
+have	0	0
+done	0	0
+it	0	1
+before	1	2
+.	NA	NA

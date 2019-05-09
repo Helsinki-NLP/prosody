@@ -1,0 +1,10 @@
+Are	1	0
+those	2	0
+his	0	1
+real	0	1
+eyebrows	2	1
+or	0	0
+were	0	0
+they	0	1
+blacked	2	2
+?	NA	NA

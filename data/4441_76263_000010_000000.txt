@@ -1,0 +1,4 @@
+Oh	2	1
+!	NA	NA
+Bad	1	2
+!	NA	NA

@@ -1,0 +1,12 @@
+They	1	0
+came	0	0
+riding	0	0
+on	0	0
+white	0	0
+horses	1	2
+,	NA	NA
+two	2	0
+noble	0	0
+looking	0	0
+brothers	1	2
+.	NA	NA

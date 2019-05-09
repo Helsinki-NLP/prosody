@@ -1,0 +1,11 @@
+It	2	0
+is	0	0
+one	1	0
+of	0	0
+the	0	1
+finest	2	0
+upon	0	1
+the	0	0
+north	1	1
+coast	1	2
+.	NA	NA

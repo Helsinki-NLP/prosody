@@ -1,0 +1,16 @@
+I	0	0
+shut	2	0
+them	0	0
+a	0	0
+moment	1	2
+,	NA	NA
+but	2	0
+when	0	0
+I	0	0
+looked	2	2
+the	0	0
+grove	2	0
+was	0	1
+moving	0	1
+faster	2	2
+.	NA	NA

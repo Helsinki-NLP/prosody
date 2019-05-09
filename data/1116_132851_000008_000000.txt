@@ -1,0 +1,14 @@
+The	0	1
+young	0	0
+man	1	0
+glanced	1	1
+up	0	0
+in	0	2
+surprise	2	1
+,	NA	NA
+and	0	0
+asked	0	1
+who	0	0
+was	0	0
+there	2	2
+.	NA	NA

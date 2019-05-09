@@ -1,0 +1,9 @@
+My	1	0
+promise	1	2
+,	NA	NA
+he	0	0
+said	2	1
+,	NA	NA
+what	2	0
+promise	1	2
+?	NA	NA

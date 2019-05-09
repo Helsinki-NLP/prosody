@@ -1,0 +1,10 @@
+'	NA	NA
+Well	0	0
+,	NA	NA
+I	0	0
+wasn't	2	2
+,	NA	NA
+he	0	0
+said	1	0
+courageously	1	2
+.	NA	NA

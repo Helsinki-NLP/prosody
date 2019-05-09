@@ -1,0 +1,8 @@
+She	0	0
+touches	1	1
+nothing	2	1
+that	1	0
+she	0	0
+doesn't	1	0
+adorn	2	2
+!	NA	NA

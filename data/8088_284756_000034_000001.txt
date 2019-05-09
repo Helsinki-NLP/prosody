@@ -1,0 +1,6 @@
+Porcelain	2	2
+?	NA	NA
+I	1	0
+asked	0	0
+hoarsely	1	2
+.	NA	NA

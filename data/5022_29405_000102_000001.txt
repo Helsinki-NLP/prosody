@@ -1,0 +1,15 @@
+It	0	0
+would	2	0
+have	0	1
+been	0	0
+an	0	0
+act	2	0
+of	0	2
+downright	2	1
+cruelty	1	1
+to	0	0
+persist	1	1
+in	0	0
+opposing	2	1
+her	1	2
+.	NA	NA

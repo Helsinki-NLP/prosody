@@ -1,0 +1,11 @@
+His	0	0
+story	2	0
+would	0	0
+make	0	1
+a	0	0
+fine	2	0
+song	1	2
+,	NA	NA
+one	1	0
+said	1	2
+.	NA	NA

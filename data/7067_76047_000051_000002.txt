@@ -1,0 +1,6 @@
+Look	2	0
+at	0	0
+the	0	1
+thing	0	1
+frankly	1	2
+.	NA	NA

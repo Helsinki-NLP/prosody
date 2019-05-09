@@ -1,0 +1,13 @@
+A	1	0
+bird	2	1
+in	0	0
+my	0	0
+hand	1	2
+was	1	0
+then	1	0
+worth	0	1
+two	1	2
+in	1	0
+the	0	0
+barnyard	1	2
+.	NA	NA

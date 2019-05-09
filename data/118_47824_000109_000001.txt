@@ -1,0 +1,5 @@
+I	0	0
+won't	1	2
+believe	1	0
+it	1	2
+.	NA	NA

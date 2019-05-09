@@ -1,0 +1,10 @@
+In	1	0
+the	0	0
+place	2	1
+late	0	1
+occupied	1	1
+by	1	0
+him	0	1
+another	0	1
+stands	2	2
+.	NA	NA

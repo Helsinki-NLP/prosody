@@ -1,0 +1,15 @@
+Ruggles	2	1
+and	0	0
+I	0	0
+would	0	0
+have	0	1
+given	0	1
+anything	2	1
+on	0	0
+earth	2	0
+to	0	1
+be	0	0
+out	1	0
+of	0	1
+that	2	2
+.	NA	NA

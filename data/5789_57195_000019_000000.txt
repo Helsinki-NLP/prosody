@@ -1,0 +1,7 @@
+Lady	1	0
+Ushant	2	1
+is	0	0
+coming	0	1
+to	0	0
+Bragton	2	2
+.	NA	NA

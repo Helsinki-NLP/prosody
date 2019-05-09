@@ -1,0 +1,6 @@
+He	0	1
+padded	2	0
+after	0	1
+the	0	0
+other	1	2
+.	NA	NA

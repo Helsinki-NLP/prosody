@@ -1,0 +1,15 @@
+Having	2	0
+done	0	0
+so	1	2
+,	NA	NA
+he	0	0
+placed	2	0
+the	0	0
+phial	1	1
+on	0	0
+the	0	0
+stove	2	0
+,	NA	NA
+and	0	1
+exclaimed	2	2
+,	NA	NA

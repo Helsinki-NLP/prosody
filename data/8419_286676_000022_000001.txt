@@ -1,0 +1,16 @@
+I	2	0
+even	1	1
+think	0	1
+that	0	0
+some	1	0
+of	0	1
+the	0	0
+Turtles	1	0
+are	0	0
+a	0	0
+little	1	1
+queer	1	1
+,	NA	NA
+don't	1	1
+you	2	2
+?	NA	NA

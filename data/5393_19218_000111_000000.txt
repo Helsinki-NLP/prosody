@@ -1,0 +1,13 @@
+You	0	0
+must	2	1
+try	1	0
+to	0	2
+find	2	0
+out	0	0
+where	0	1
+that	0	0
+wedding	1	1
+party	0	0
+went	0	1
+to	2	2
+.	NA	NA

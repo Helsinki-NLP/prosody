@@ -1,0 +1,13 @@
+The	0	1
+storeroom	2	0
+is	0	1
+far	1	0
+enough	0	1
+off	1	1
+so	1	0
+that	0	1
+he	0	0
+couldn't	0	0
+hear	1	0
+us	1	2
+.	NA	NA

@@ -1,0 +1,10 @@
+She	0	0
+would	0	0
+leave	1	0
+her	0	1
+property	2	2
+to	1	0
+the	0	0
+little	0	0
+ones	1	2
+.	NA	NA

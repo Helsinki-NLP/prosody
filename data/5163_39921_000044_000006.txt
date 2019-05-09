@@ -1,0 +1,13 @@
+I'll	2	0
+talk	2	1
+to	0	0
+Alfred	1	1
+and	0	0
+Robert	1	2
+and	1	1
+see	0	0
+what	0	0
+I	1	0
+can	0	1
+do	1	2
+.	NA	NA

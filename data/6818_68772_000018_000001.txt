@@ -1,0 +1,9 @@
+Let's	2	1
+think	0	0
+it	0	0
+over	1	1
+carefully	2	1
+before	0	1
+we	0	0
+act	2	2
+.	NA	NA

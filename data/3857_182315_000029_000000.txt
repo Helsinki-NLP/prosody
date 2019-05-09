@@ -1,0 +1,10 @@
+Ants	2	0
+are	0	1
+good	1	0
+citizens	1	2
+they	0	0
+place	1	0
+group	0	0
+interests	0	0
+first	1	2
+.	NA	NA

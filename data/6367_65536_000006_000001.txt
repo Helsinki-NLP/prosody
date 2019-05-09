@@ -1,0 +1,8 @@
+This	2	0
+was	0	0
+the	0	1
+question	2	1
+he	0	0
+asked	2	1
+himself	2	2
+.	NA	NA

@@ -1,0 +1,5 @@
+So	2	0
+that's	1	1
+the	0	0
+secret	1	2
+.	NA	NA

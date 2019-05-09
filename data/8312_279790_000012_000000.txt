@@ -1,0 +1,7 @@
+Florina	2	1
+!	NA	NA
+cried	1	0
+he	0	1
+,	NA	NA
+enchanted	1	2
+.	NA	NA

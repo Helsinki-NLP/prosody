@@ -1,0 +1,7 @@
+Forty	2	2
+;	0	0
+'tis	NA	NA
+a	0	0
+marked	0	1
+period	2	2
+.	NA	NA

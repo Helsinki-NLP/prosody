@@ -1,0 +1,3 @@
+Don't	1	0
+wait	2	2
+.	NA	NA

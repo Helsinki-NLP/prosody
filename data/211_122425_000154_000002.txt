@@ -1,0 +1,8 @@
+Speak	2	2
+,	NA	NA
+I	0	0
+am	1	0
+ready	0	0
+to	0	1
+obey	2	2
+.	NA	NA

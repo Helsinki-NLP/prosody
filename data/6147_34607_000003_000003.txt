@@ -1,0 +1,12 @@
+No	1	0
+quality	2	0
+of	0	1
+hers	0	0
+attained	1	0
+to	0	1
+virtue	2	2
+,	NA	NA
+none	2	0
+to	0	0
+vice	2	2
+.	NA	NA

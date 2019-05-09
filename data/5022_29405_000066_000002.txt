@@ -1,0 +1,7 @@
+I've	2	1
+never	0	0
+seen	1	0
+his	0	1
+portfolio	1	1
+before	2	2
+.	NA	NA

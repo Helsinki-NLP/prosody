@@ -1,0 +1,8 @@
+There's	2	1
+the	0	0
+whole	1	0
+story	0	0
+,	NA	NA
+I	0	1
+concluded	2	2
+.	NA	NA

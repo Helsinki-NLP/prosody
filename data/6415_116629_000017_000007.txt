@@ -1,0 +1,11 @@
+Somebody	2	0
+comes	1	0
+over	1	1
+from	0	0
+Fohrensee	1	0
+and	0	1
+explains	2	0
+it	0	1
+to	0	0
+them	1	2
+.	NA	NA

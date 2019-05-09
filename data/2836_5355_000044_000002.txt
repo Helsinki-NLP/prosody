@@ -1,0 +1,8 @@
+He	0	0
+need	2	1
+not	1	0
+have	0	1
+told	2	0
+her	0	0
+this	1	2
+.	NA	NA

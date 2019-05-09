@@ -1,0 +1,3 @@
+Just	2	0
+wondering	0	2
+.	NA	NA

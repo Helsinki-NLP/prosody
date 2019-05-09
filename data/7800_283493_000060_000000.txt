@@ -1,0 +1,10 @@
+Those	2	0
+last	2	1
+words	1	1
+from	0	0
+Frank	1	1
+made	0	0
+Will	0	0
+very	1	1
+proud	1	2
+.	NA	NA

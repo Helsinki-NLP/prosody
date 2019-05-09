@@ -1,0 +1,13 @@
+In	0	0
+vain	2	0
+the	0	0
+watchman	1	1
+on	0	0
+the	0	0
+hill	0	1
+surveyed	2	0
+the	0	1
+solitude	0	0
+of	0	0
+waters	1	2
+.	NA	NA

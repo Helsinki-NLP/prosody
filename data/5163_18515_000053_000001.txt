@@ -1,0 +1,11 @@
+Wedding	1	0
+clothes	2	2
+?	NA	NA
+asked	1	0
+mrs	0	0
+Fisher	1	0
+,	NA	NA
+speaking	0	0
+very	0	1
+slowly	1	2
+.	NA	NA

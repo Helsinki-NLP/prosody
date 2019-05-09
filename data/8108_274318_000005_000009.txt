@@ -1,0 +1,5 @@
+His	1	0
+will	0	0
+seemed	0	1
+paralysed	2	2
+.	NA	NA

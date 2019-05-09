@@ -1,0 +1,8 @@
+I	0	0
+stayed	2	0
+there	0	1
+for	0	0
+ever	1	1
+so	0	0
+long	1	2
+.	NA	NA

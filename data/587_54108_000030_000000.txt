@@ -1,0 +1,6 @@
+As	1	0
+yet	2	1
+,	NA	NA
+corrected	2	0
+Kemp	1	2
+.	NA	NA

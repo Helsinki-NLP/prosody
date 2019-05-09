@@ -1,0 +1,15 @@
+Like	2	0
+man	2	0
+in	0	0
+the	0	1
+classification	1	1
+of	0	0
+animals	2	2
+,	NA	NA
+he	2	0
+forms	0	1
+a	0	0
+genus	1	1
+in	0	0
+himself	2	2
+.	NA	NA

@@ -1,0 +1,6 @@
+Margaret	2	1
+was	1	1
+the	0	0
+next	1	0
+sister	0	2
+.	NA	NA

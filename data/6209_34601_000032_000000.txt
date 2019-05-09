@@ -1,0 +1,12 @@
+The	0	0
+child	2	0
+,	NA	NA
+at	0	1
+once	1	1
+repulsed	1	1
+and	0	0
+invited	2	2
+,	NA	NA
+remained	1	0
+motionless	1	2
+.	NA	NA

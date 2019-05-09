@@ -1,0 +1,6 @@
+Does	0	0
+all	2	0
+that	1	1
+suit	2	1
+you	1	2
+?	NA	NA

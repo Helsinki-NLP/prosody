@@ -1,0 +1,7 @@
+Two	2	0
+heads	1	1
+are	0	0
+better	1	0
+than	0	0
+one	1	2
+.	NA	NA

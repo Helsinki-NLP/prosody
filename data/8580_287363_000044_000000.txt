@@ -1,0 +1,7 @@
+Who	2	0
+is	2	2
+?	NA	NA
+asked	2	0
+mr	0	0
+Jenks	0	2
+.	NA	NA

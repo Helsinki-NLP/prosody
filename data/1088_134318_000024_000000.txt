@@ -1,0 +1,5 @@
+The	0	0
+embarrassed	2	1
+Fisher	1	2
+grinned	2	2
+.	NA	NA

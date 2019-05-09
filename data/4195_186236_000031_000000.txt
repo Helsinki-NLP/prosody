@@ -1,0 +1,6 @@
+See	0	0
+here	2	1
+,	NA	NA
+exclaimed	0	0
+Patsy	1	2
+.	NA	NA

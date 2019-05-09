@@ -1,0 +1,15 @@
+You	0	0
+have	1	1
+dispelled	2	0
+his	0	1
+jealousy	2	2
+,	NA	NA
+and	2	0
+he	0	0
+has	1	1
+restored	2	0
+you	0	1
+to	0	0
+his	0	0
+favour	1	2
+.	NA	NA

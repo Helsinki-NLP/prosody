@@ -1,0 +1,9 @@
+At	0	0
+what	0	0
+hour	2	1
+,	NA	NA
+to	0	0
+morrow	2	2
+,	NA	NA
+illustrissimo	1	2
+?	NA	NA

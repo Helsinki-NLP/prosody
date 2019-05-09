@@ -1,0 +1,17 @@
+These	2	0
+were	0	0
+nice	0	0
+questions	1	2
+,	NA	NA
+but	1	0
+Isabel's	1	0
+arrival	0	1
+put	1	0
+a	0	0
+stop	2	1
+to	0	0
+his	0	0
+puzzling	1	0
+over	0	0
+them	1	2
+.	NA	NA

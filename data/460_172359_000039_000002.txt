@@ -1,0 +1,14 @@
+If	1	0
+they'd	1	0
+just	1	1
+go	0	0
+right	1	0
+into	0	0
+her	0	1
+good	2	2
+,	NA	NA
+they'd	2	0
+get	1	0
+it	0	1
+again	1	2
+.	NA	NA

@@ -1,0 +1,7 @@
+THE	0	0
+OHIO	2	0
+CHEMICAL	0	0
+WORKS	1	1
+toledo	1	0
+ohio	2	2
+.	NA	NA

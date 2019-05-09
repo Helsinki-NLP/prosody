@@ -1,0 +1,12 @@
+So	0	0
+I	0	1
+centered	1	0
+all	1	0
+my	0	0
+hopes	0	0
+on	0	0
+my	0	1
+son	2	1
+on	0	0
+Fairfax	2	2
+.	NA	NA

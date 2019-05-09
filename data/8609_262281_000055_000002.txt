@@ -1,0 +1,7 @@
+Not	0	0
+only	0	0
+idleness	2	2
+,	NA	NA
+temper	2	0
+also	1	2
+.	NA	NA

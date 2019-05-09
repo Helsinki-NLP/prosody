@@ -1,0 +1,11 @@
+To	0	0
+gnaw	1	0
+one's	0	0
+chain	1	2
+how	1	0
+tragic	2	1
+and	0	0
+appropriate	1	0
+the	0	1
+expression	2	2
+!	NA	NA

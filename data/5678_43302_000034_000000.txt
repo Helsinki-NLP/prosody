@@ -1,0 +1,6 @@
+The	1	0
+effect	2	2
+?	NA	NA
+he	0	0
+said	1	2
+.	NA	NA

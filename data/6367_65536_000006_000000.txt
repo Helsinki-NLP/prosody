@@ -1,0 +1,7 @@
+Should	1	1
+he	0	0
+go	2	1
+down	1	1
+to	0	0
+it	2	2
+?	NA	NA

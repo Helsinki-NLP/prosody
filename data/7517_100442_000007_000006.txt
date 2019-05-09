@@ -1,0 +1,17 @@
+If	0	0
+he	1	0
+is	0	0
+wrong	1	0
+the	0	1
+first	1	0
+time	2	2
+,	NA	NA
+he	0	0
+never	1	0
+fails	2	1
+to	0	0
+recover	0	0
+with	0	0
+his	0	0
+second	0	2
+.	NA	NA

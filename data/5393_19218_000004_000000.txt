@@ -1,0 +1,10 @@
+CHAPTER	1	0
+one	2	2
+THE	0	0
+sixteenth	2	1
+OF	0	0
+FEBRUARY	1	1
+,	NA	NA
+eighteen	1	0
+thirty	0	0
+three	2	2

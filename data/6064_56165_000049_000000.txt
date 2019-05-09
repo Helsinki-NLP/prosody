@@ -1,0 +1,6 @@
+Who	0	0
+gets	2	1
+the	0	0
+best	1	1
+marks	2	2
+?	NA	NA

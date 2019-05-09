@@ -1,0 +1,11 @@
+How	2	0
+could	0	1
+she	0	0
+ever	1	2
+have	0	0
+thought	2	0
+him	0	1
+common	2	1
+or	1	1
+absurd	2	2
+?	NA	NA

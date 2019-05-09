@@ -1,0 +1,14 @@
+I'll	2	0
+see	1	0
+this	0	1
+gentleman	1	1
+,	NA	NA
+he	0	0
+said	1	1
+,	NA	NA
+with	1	0
+a	0	0
+sudden	1	0
+brisk	1	1
+interest	1	2
+.	NA	NA

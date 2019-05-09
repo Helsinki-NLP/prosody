@@ -1,0 +1,14 @@
+Now	2	0
+the	0	0
+Lover	0	0
+and	0	1
+the	0	0
+Onlooker	1	1
+had	0	0
+each	1	0
+his	0	1
+own	0	1
+burden	2	1
+to	0	0
+bear	2	2
+.	NA	NA

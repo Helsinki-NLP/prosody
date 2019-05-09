@@ -1,0 +1,12 @@
+But	0	0
+,	NA	NA
+madam	2	2
+,	NA	NA
+is	0	0
+there	0	0
+not	1	0
+another	1	0
+princess	1	1
+called	0	0
+Florina	1	2
+?	NA	NA

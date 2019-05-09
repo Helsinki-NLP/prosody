@@ -1,0 +1,8 @@
+Yes	0	1
+,	NA	NA
+I	1	0
+will	2	0
+,	NA	NA
+answered	0	1
+Caroline	1	2
+.	NA	NA

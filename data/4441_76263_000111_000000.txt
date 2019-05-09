@@ -1,0 +1,9 @@
+I'll	1	0
+give	0	0
+you	0	1
+an	0	0
+hour	2	2
+,	NA	NA
+said	1	0
+Borg	1	2
+.	NA	NA

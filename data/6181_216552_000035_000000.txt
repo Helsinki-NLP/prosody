@@ -1,0 +1,5 @@
+Would	0	0
+you	0	1
+believe	1	0
+it	1	2
+?	NA	NA

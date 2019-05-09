@@ -1,0 +1,13 @@
+Bibbs	2	2
+,	NA	NA
+do	0	0
+you	2	0
+know	0	0
+now	0	0
+why	0	0
+I	0	1
+stopped	1	0
+wearing	0	0
+my	0	1
+furs	1	2
+?	NA	NA

@@ -1,0 +1,16 @@
+The	0	0
+former	2	0
+had	0	1
+raided	1	1
+North	1	1
+Syria	1	1
+and	0	0
+apparently	2	0
+penetrated	0	1
+as	0	0
+far	1	0
+as	0	0
+the	0	1
+Mediterranean	1	1
+coast	2	2
+.	NA	NA

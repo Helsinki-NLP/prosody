@@ -1,0 +1,8 @@
+Fisher	1	0
+showed	1	1
+the	0	0
+way	1	0
+up	0	0
+the	0	2
+stairs	2	2
+.	NA	NA

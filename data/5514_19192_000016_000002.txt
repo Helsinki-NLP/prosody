@@ -1,0 +1,13 @@
+An	2	0
+empty	0	0
+cartridge	0	0
+box	2	2
+,	NA	NA
+a	0	0
+man	2	1
+killed	1	1
+,	NA	NA
+cannot	0	0
+be	0	0
+replaced	2	2
+.	NA	NA

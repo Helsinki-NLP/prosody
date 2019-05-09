@@ -1,0 +1,12 @@
+Why	2	0
+should	0	0
+he	0	1
+not	2	1
+do	1	0
+what	0	1
+he	0	0
+thinks	0	0
+best	1	1
+,	NA	NA
+Helen	2	2
+?	NA	NA

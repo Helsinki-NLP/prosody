@@ -1,0 +1,7 @@
+Nora's	2	0
+temper	0	1
+was	0	0
+not	1	0
+easily	1	0
+ruffled	1	2
+.	NA	NA

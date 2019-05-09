@@ -1,0 +1,8 @@
+That's	2	0
+a	0	1
+good	0	0
+idea	1	2
+,	NA	NA
+said	1	0
+Jasper	1	2
+.	NA	NA

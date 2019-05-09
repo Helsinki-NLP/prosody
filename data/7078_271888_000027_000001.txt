@@ -1,0 +1,15 @@
+It	1	0
+is	0	0
+really	0	0
+too	0	0
+bad	2	2
+!	NA	NA
+she	2	0
+said	1	1
+,	NA	NA
+pouting	2	0
+like	0	0
+a	0	1
+spoiled	1	0
+child	1	2
+.	NA	NA

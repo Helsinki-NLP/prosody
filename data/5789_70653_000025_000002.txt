@@ -1,0 +1,12 @@
+Is	2	0
+it	0	1
+the	0	0
+fact	2	1
+that	1	0
+there	0	0
+was	1	1
+an	0	1
+estrangement	2	1
+between	0	0
+you	2	2
+?	NA	NA

@@ -1,0 +1,6 @@
+Shall	2	0
+we	0	0
+go	1	0
+to	0	1
+tea	1	2
+?	NA	NA

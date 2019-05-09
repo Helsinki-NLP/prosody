@@ -1,0 +1,14 @@
+I'm	0	0
+afraid	2	1
+he	0	0
+will	2	0
+be	0	1
+sick	0	0
+,	NA	NA
+Phronsie	1	1
+,	NA	NA
+if	0	0
+he	0	0
+is	1	1
+unhappy	2	2
+.	NA	NA

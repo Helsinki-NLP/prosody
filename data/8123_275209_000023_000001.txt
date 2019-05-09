@@ -1,0 +1,7 @@
+You	1	0
+have	0	0
+neither	0	1
+faith	2	1
+nor	1	0
+trust	1	2
+.	NA	NA

@@ -1,0 +1,7 @@
+Yes	2	1
+,	NA	NA
+keep	0	0
+it	1	1
+keep	2	0
+it	0	2
+.	NA	NA

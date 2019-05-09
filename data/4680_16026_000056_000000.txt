@@ -1,0 +1,9 @@
+Yes	1	2
+,	NA	NA
+they	2	0
+know	0	0
+you	0	1
+!	NA	NA
+ejaculated	0	0
+Thenardier	2	2
+.	NA	NA

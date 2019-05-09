@@ -1,0 +1,10 @@
+And	0	0
+don't	2	0
+give	0	1
+in	0	0
+when	1	0
+you	0	1
+can't	2	1
+!	NA	NA
+see	1	2
+!	NA	NA

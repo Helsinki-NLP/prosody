@@ -1,0 +1,10 @@
+Very	2	1
+expensive	2	1
+hired	0	0
+hands	0	0
+,	NA	NA
+but	0	1
+still	2	1
+just	0	0
+that	2	2
+.	NA	NA

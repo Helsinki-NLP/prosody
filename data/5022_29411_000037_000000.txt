@@ -1,0 +1,13 @@
+I	2	0
+am	0	0
+not	1	1
+suspicious	1	1
+by	1	0
+nature	1	2
+,	NA	NA
+as	2	0
+I	0	1
+hope	1	0
+and	0	0
+believe	1	2
+.	NA	NA

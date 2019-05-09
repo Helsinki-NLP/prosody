@@ -1,0 +1,5 @@
+No	2	1
+,	NA	NA
+they	0	0
+hadn't	1	2
+.	NA	NA

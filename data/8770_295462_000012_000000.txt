@@ -1,0 +1,17 @@
+Once	2	1
+,	NA	NA
+as	0	0
+President	2	2
+,	NA	NA
+he	0	0
+said	2	0
+to	0	0
+a	0	1
+boy	1	0
+who	0	0
+had	0	1
+just	1	1
+signed	1	0
+the	0	1
+temperance	1	1
+pledge	1	2

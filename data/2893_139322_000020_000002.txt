@@ -1,0 +1,12 @@
+The	0	0
+Black	2	1
+Police	1	1
+are	0	0
+coming	2	1
+from	0	0
+South	1	0
+Africa	2	2
+.	NA	NA
+.	NA	NA
+.	NA	NA
+.	NA	NA

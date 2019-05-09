@@ -1,0 +1,5 @@
+Why	2	1
+?	NA	NA
+Bobby	0	0
+asked	1	2
+.	NA	NA

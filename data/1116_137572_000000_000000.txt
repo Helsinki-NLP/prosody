@@ -1,0 +1,7 @@
+Before	2	0
+them	1	0
+is	0	2
+a	0	0
+clear	1	1
+road	1	2
+.	NA	NA

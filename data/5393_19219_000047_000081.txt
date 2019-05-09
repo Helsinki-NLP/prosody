@@ -1,0 +1,4 @@
+that's	2	0
+my	0	1
+catechism	1	2
+.	NA	NA

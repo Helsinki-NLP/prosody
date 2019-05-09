@@ -1,0 +1,4 @@
+Put	1	1
+me	0	0
+in	2	2
+.	NA	NA

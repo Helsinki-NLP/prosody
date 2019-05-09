@@ -1,0 +1,11 @@
+Because	2	0
+Ted	0	1
+Barton	2	0
+was	0	1
+to	0	0
+have	0	0
+fought	1	0
+him	0	0
+next	0	1
+Saturday	2	2
+.	NA	NA

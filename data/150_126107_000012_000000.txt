@@ -1,0 +1,4 @@
+I'll	1	1
+tell	0	0
+papa	2	2
+.	NA	NA

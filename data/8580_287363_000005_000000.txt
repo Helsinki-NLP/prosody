@@ -1,0 +1,11 @@
+A	0	0
+good	0	0
+start	2	1
+,	NA	NA
+Tom	0	0
+Swift	2	2
+,	NA	NA
+complimented	1	0
+mr	0	0
+Parker	2	2
+.	NA	NA

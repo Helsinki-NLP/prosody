@@ -1,0 +1,3 @@
+Lie	0	0
+down	2	2
+?	NA	NA

@@ -1,0 +1,9 @@
+And	1	0
+they	0	0
+look	0	0
+as	0	1
+hard	2	0
+as	0	0
+a	0	1
+drum	2	2
+.	NA	NA

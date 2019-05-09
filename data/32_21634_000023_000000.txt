@@ -1,0 +1,6 @@
+But	1	0
+nobody	1	1
+cared	2	1
+to	0	0
+go	2	2
+.	NA	NA

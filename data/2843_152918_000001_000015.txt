@@ -1,0 +1,16 @@
+Amid	0	0
+joking	1	0
+and	0	1
+chaff	2	2
+,	NA	NA
+everything	1	0
+was	0	0
+packed	2	1
+,	NA	NA
+and	0	0
+then	2	1
+out	2	1
+into	0	0
+the	0	0
+blizzard	1	2
+.	NA	NA

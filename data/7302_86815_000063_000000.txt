@@ -1,0 +1,5 @@
+You	1	0
+are	0	0
+a	0	1
+poisoner	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+Speaking	1	1
+professionally	1	2
+,	NA	NA
+I	2	0
+think	0	1
+you	0	0
+are	0	0
+wrong	2	2
+.	NA	NA

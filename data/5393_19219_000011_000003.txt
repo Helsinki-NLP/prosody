@@ -1,0 +1,6 @@
+Pardieu	2	2
+,	NA	NA
+I	1	0
+decree	0	0
+joy	2	2
+!	NA	NA

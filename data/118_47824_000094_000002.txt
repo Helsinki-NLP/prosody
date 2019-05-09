@@ -1,0 +1,15 @@
+Graham	2	0
+made	0	0
+it	0	2
+plain	2	0
+that	0	1
+his	0	0
+mind	2	0
+was	0	1
+far	2	0
+from	0	1
+the	0	0
+sad	2	1
+business	0	0
+ahead	1	2
+.	NA	NA

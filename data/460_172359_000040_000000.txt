@@ -1,0 +1,12 @@
+But	2	0
+perhaps	2	1
+the	0	0
+meanest	1	1
+case	0	0
+of	0	1
+all	2	0
+was	0	2
+the	0	0
+Northern	1	1
+Star	2	2
+.	NA	NA

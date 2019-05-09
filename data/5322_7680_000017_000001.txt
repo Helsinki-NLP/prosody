@@ -1,0 +1,10 @@
+But	0	0
+I	0	0
+have	0	1
+not	2	1
+got	1	0
+a	0	2
+horse	2	0
+yet	1	2
+.	NA	NA
+'	NA	NA

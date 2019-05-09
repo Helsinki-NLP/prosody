@@ -1,0 +1,10 @@
+Collingwoods	2	2
+!	NA	NA
+he	0	0
+supplemented	1	0
+,	NA	NA
+with	0	0
+his	0	0
+twinkling	0	0
+smile	0	2
+.	NA	NA

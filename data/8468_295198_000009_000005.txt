@@ -1,0 +1,9 @@
+Magpie	2	0
+,	NA	NA
+I	0	1
+perfectly	1	0
+agree	1	0
+with	0	1
+you	1	2
+.	NA	NA
+'	NA	NA

@@ -1,0 +1,10 @@
+He	0	1
+proceeds	1	0
+at	0	1
+once	2	1
+to	0	0
+offer	2	0
+them	0	1
+for	0	0
+sale	2	2
+.	NA	NA

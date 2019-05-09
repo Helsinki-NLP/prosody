@@ -1,0 +1,3 @@
+Very	2	0
+much	1	2
+.	NA	NA

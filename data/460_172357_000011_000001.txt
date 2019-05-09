@@ -1,0 +1,7 @@
+Mariposa	2	1
+is	0	0
+not	0	0
+a	0	0
+real	0	1
+town	1	2
+.	NA	NA

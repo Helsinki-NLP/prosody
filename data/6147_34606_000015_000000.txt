@@ -1,0 +1,15 @@
+Lord	2	0
+David	2	1
+Dirry	1	0
+Moir	0	0
+brought	1	0
+into	0	0
+all	1	0
+these	0	1
+institutions	1	1
+his	0	0
+magnificent	1	0
+and	0	1
+liberal	1	0
+spirit	2	2
+.	NA	NA

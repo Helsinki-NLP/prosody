@@ -1,0 +1,14 @@
+Are	0	0
+you	2	1
+afraid	1	0
+they'd	0	1
+get	0	0
+ahead	0	0
+of	0	1
+you	2	2
+?	NA	NA
+asked	2	0
+Edith	1	1
+,	NA	NA
+gently	2	2
+.	NA	NA

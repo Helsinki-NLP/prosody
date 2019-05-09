@@ -1,0 +1,6 @@
+The	0	0
+pilots	2	1
+here	0	0
+changed	0	1
+places	2	2
+.	NA	NA

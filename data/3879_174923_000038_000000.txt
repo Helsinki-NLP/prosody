@@ -1,0 +1,3 @@
+LAURA	2	0
+KENNEDY	0	2
+.	NA	NA

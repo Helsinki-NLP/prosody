@@ -1,0 +1,9 @@
+Keep	2	1
+to	1	0
+it	0	0
+as	0	0
+to	0	2
+a	0	0
+great	2	1
+treasure	1	2
+.	NA	NA

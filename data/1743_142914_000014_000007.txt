@@ -1,0 +1,15 @@
+When	0	0
+he	0	1
+pulled	2	0
+his	0	1
+bill	1	0
+out	0	0
+,	NA	NA
+sure	0	1
+enough	2	1
+,	NA	NA
+there	0	0
+was	0	0
+a	0	1
+worm	2	2
+.	NA	NA

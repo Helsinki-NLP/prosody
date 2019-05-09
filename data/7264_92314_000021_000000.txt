@@ -1,0 +1,14 @@
+The	0	0
+New	2	0
+Age	0	1
+was	1	0
+,	NA	NA
+I	1	0
+think	1	2
+,	NA	NA
+the	0	0
+pioneer	2	0
+in	0	0
+the	0	1
+matter	1	2
+.	NA	NA

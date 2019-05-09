@@ -1,0 +1,11 @@
+Here	2	0
+I'm	0	1
+concealed	2	2
+,	NA	NA
+no	2	0
+one	0	0
+knows	1	0
+that	0	0
+I'm	0	1
+here	1	2
+.	NA	NA

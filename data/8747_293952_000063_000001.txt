@@ -1,0 +1,6 @@
+mr	2	1
+Durham	1	1
+told	1	0
+me	0	1
+so	2	2
+.	NA	NA

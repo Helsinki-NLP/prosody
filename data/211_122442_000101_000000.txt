@@ -1,0 +1,9 @@
+Above	1	1
+all	2	0
+things	0	1
+be	0	0
+always	2	0
+on	0	1
+your	0	0
+guard	1	2
+.	NA	NA

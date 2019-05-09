@@ -1,0 +1,17 @@
+Will	1	0
+you	0	0
+not	2	2
+tell	0	0
+me	0	0
+something	1	0
+about	2	0
+it	0	2
+?	NA	NA
+said	0	0
+the	0	0
+curate	1	0
+,	NA	NA
+yet	0	0
+more	0	0
+gently	1	2
+.	NA	NA

@@ -1,0 +1,5 @@
+The	1	1
+best	2	1
+has	0	0
+happened	1	2
+.	NA	NA

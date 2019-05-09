@@ -1,0 +1,15 @@
+Perhaps	2	1
+that	1	1
+bull	2	0
+I	0	0
+was	0	1
+speaking	0	0
+of	1	2
+By	2	0
+the	0	0
+way	0	0
+,	NA	NA
+who	0	0
+is	1	0
+he	0	2
+?	NA	NA

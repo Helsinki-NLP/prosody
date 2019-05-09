@@ -1,0 +1,9 @@
+They	0	0
+huddled	1	1
+,	NA	NA
+wavered	2	2
+,	NA	NA
+broke	1	0
+for	0	0
+cover	2	2
+.	NA	NA

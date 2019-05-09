@@ -1,0 +1,7 @@
+But	1	0
+it	0	0
+hadn't	2	1
+been	1	1
+big	2	0
+enough	1	2
+.	NA	NA

@@ -1,0 +1,16 @@
+I	0	0
+want	2	0
+a	0	1
+world	2	0
+in	0	1
+order	2	1
+,	NA	NA
+a	0	0
+disciplined	1	1
+mankind	1	1
+going	2	0
+on	0	0
+to	0	1
+greater	2	0
+things	0	2
+.	NA	NA

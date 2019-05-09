@@ -1,0 +1,17 @@
+The	0	0
+man	2	1
+,	NA	NA
+certainly	0	1
+,	NA	NA
+was	0	0
+one	1	0
+strangely	0	0
+endowed	2	0
+with	0	2
+the	0	0
+power	2	0
+of	0	1
+creating	1	0
+a	0	0
+belief	1	2
+.	NA	NA

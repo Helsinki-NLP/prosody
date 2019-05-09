@@ -1,0 +1,12 @@
+If	0	1
+Monica	2	0
+would	0	1
+befriend	0	0
+his	0	1
+boy	2	2
+,	NA	NA
+they	2	0
+would	0	0
+be	0	0
+quits	1	2
+.	NA	NA

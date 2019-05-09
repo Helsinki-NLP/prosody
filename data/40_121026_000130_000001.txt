@@ -1,0 +1,15 @@
+The	0	0
+ways	2	0
+of	0	1
+justice	1	1
+are	0	0
+frequently	1	1
+too	2	0
+dark	0	0
+and	0	1
+mysterious	2	0
+to	0	2
+be	0	0
+easily	1	0
+penetrated	1	2
+.	NA	NA

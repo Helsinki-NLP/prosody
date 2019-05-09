@@ -1,0 +1,12 @@
+To	0	1
+be	0	0
+sure	2	2
+,	NA	NA
+Master	2	0
+Meadow	1	0
+Mouse	0	0
+tried	1	0
+to	0	1
+be	0	0
+careful	2	2
+.	NA	NA

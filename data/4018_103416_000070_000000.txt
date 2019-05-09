@@ -1,0 +1,10 @@
+Heavens	2	1
+,	NA	NA
+how	0	0
+late	2	0
+it	0	0
+is	1	2
+!	NA	NA
+she	1	0
+exclaimed	1	2
+.	NA	NA

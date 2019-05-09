@@ -1,0 +1,3 @@
+She	0	1
+fainted	1	2
+.	NA	NA

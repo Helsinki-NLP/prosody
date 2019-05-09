@@ -1,0 +1,11 @@
+Drop	1	0
+him	0	1
+overboard	2	2
+!	NA	NA
+cried	2	0
+mr	0	0
+Parker	1	0
+,	NA	NA
+in	0	0
+horror	2	2
+.	NA	NA

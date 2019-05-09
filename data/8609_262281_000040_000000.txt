@@ -1,0 +1,14 @@
+Lady	2	0
+Augusta	1	1
+came	0	0
+in	1	1
+and	0	0
+proffered	2	0
+the	0	1
+invitation	2	0
+to	0	1
+Constance	2	1
+to	0	0
+accompany	2	0
+them	1	2
+.	NA	NA

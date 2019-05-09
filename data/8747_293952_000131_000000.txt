@@ -1,0 +1,5 @@
+Yes	2	0
+,	NA	NA
+sweet	0	1
+lady	1	2
+.	NA	NA

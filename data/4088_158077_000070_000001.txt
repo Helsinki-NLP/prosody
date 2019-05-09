@@ -1,0 +1,11 @@
+They	1	0
+resorted	2	0
+to	0	1
+force	1	1
+in	0	0
+an	0	1
+attempt	2	2
+to	1	0
+end	0	0
+picketing	2	2
+.	NA	NA

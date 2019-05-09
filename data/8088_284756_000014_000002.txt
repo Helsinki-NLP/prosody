@@ -1,0 +1,9 @@
+Apparently	2	0
+every	0	0
+bulb	1	0
+in	0	0
+the	0	1
+place	1	1
+was	0	0
+burning	2	2
+.	NA	NA

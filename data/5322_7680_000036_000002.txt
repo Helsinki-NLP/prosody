@@ -1,0 +1,5 @@
+'How	0	0
+I	1	1
+want	2	1
+to	0	2
+!	NA	NA

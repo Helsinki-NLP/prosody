@@ -1,0 +1,12 @@
+Her	2	0
+letter	1	0
+to	0	1
+Mary	1	2
+,	NA	NA
+though	1	0
+affectionate	2	2
+,	NA	NA
+was	1	0
+very	1	0
+short	2	2
+.	NA	NA

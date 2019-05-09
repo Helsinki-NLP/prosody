@@ -1,0 +1,7 @@
+The	0	1
+reporter	2	0
+did	0	1
+not	1	0
+like	1	0
+this	1	2
+.	NA	NA

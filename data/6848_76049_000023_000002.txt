@@ -1,0 +1,15 @@
+It	0	0
+was	0	0
+a	0	0
+little	0	0
+sleepy	2	1
+place	0	0
+now	1	2
+,	NA	NA
+looking	2	0
+out	1	1
+dreamily	0	0
+over	0	1
+beautiful	0	0
+views	1	2
+.	NA	NA

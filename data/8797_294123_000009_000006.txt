@@ -1,0 +1,8 @@
+Everywhere	2	1
+a	0	0
+toiling	2	0
+population	1	1
+was	0	0
+in	0	0
+evidence	1	2
+.	NA	NA

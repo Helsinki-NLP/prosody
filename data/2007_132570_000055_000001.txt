@@ -1,0 +1,16 @@
+'And	0	1
+for	2	0
+these	0	1
+fool's	1	0
+tricks	2	2
+I	2	0
+will	0	0
+soon	0	0
+discover	2	0
+by	0	0
+whom	0	1
+they	0	0
+are	1	1
+practised	1	2
+.	NA	NA
+'	NA	NA

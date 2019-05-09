@@ -1,0 +1,13 @@
+Sylvia	1	2
+,	NA	NA
+said	0	0
+the	0	0
+Old	0	0
+Fellow	2	2
+,	NA	NA
+I've	2	0
+loved	0	0
+you	0	0
+for	0	1
+years	2	2
+.	NA	NA

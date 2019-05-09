@@ -1,0 +1,11 @@
+Some	1	0
+were	0	1
+sharp	2	2
+,	NA	NA
+but	0	0
+most	2	1
+were	0	0
+long	1	1
+and	0	0
+rounded	1	2
+.	NA	NA

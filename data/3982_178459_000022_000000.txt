@@ -1,0 +1,13 @@
+He	0	0
+could	1	1
+not	2	1
+look	0	0
+at	0	0
+her	1	2
+,	NA	NA
+and	2	0
+he	0	0
+could	0	0
+not	2	1
+speak	1	2
+.	NA	NA

@@ -1,0 +1,6 @@
+She	1	0
+said	2	0
+something	0	1
+about	2	0
+it	1	2
+.	NA	NA

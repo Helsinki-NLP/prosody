@@ -1,0 +1,15 @@
+As	0	0
+Hermann	1	1
+completed	1	0
+this	0	1
+equivocal	1	0
+sentence	1	2
+,	NA	NA
+all	2	0
+eyes	0	1
+were	0	0
+turned	1	1
+upon	1	0
+the	0	0
+Baron	1	2
+.	NA	NA

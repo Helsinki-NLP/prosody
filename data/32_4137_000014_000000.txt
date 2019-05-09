@@ -1,0 +1,8 @@
+Oh	2	1
+,	NA	NA
+Uncle	0	0
+Jim	2	0
+,	NA	NA
+is	0	1
+it	1	2
+?	NA	NA

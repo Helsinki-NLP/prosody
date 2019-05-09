@@ -1,0 +1,13 @@
+And	1	0
+it	0	0
+was	0	0
+quickly	0	0
+found	2	1
+that	0	0
+every	1	0
+vote	1	1
+was	0	0
+for	0	0
+Brownie	2	1
+Beaver	2	2
+.	NA	NA

@@ -1,0 +1,8 @@
+But	0	0
+he	1	0
+seldom	1	0
+gave	0	1
+any	0	0
+unsought	0	1
+advice	2	2
+.	NA	NA

@@ -1,0 +1,4 @@
+You	0	0
+are	0	1
+cold	2	2
+.	NA	NA

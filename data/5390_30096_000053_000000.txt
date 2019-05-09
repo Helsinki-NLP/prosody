@@ -1,0 +1,8 @@
+Pah	2	2
+!	NA	NA
+said	0	0
+the	0	0
+Major	0	0
+,	NA	NA
+scornfully	0	2
+.	NA	NA

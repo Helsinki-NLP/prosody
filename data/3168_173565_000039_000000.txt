@@ -1,0 +1,12 @@
+What's	0	0
+this	2	2
+?	NA	NA
+said	0	0
+the	0	0
+doctor	1	0
+,	NA	NA
+rising	1	1
+from	0	0
+his	0	0
+bed	2	2
+.	NA	NA

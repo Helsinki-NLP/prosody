@@ -1,0 +1,11 @@
+Eighteen	2	0
+months	0	0
+ago	0	1
+father	1	0
+died	1	2
+,	NA	NA
+gently	2	0
+went	0	1
+to	0	0
+sleep	1	2
+.	NA	NA

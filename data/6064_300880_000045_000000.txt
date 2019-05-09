@@ -1,0 +1,9 @@
+Oh	2	2
+,	NA	NA
+it	0	0
+isn't	0	0
+as	0	0
+bad	1	0
+as	0	1
+that	1	2
+.	NA	NA

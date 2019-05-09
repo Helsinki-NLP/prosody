@@ -1,0 +1,13 @@
+Graham	1	2
+,	NA	NA
+your	0	0
+father	2	0
+thinks	0	1
+we	0	0
+may	1	0
+be	0	1
+forced	2	1
+into	0	0
+the	0	0
+war	2	2
+.	NA	NA

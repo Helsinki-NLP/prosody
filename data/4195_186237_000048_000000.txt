@@ -1,0 +1,11 @@
+The	0	0
+Major	2	1
+coughed	2	2
+and	0	0
+turned	0	0
+the	0	0
+lamp	1	1
+a	0	0
+little	0	0
+higher	2	2
+.	NA	NA

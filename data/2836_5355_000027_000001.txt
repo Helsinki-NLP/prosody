@@ -1,0 +1,11 @@
+He	1	0
+did	0	1
+not	2	1
+take	2	2
+the	0	0
+trouble	2	1
+to	0	0
+look	1	0
+at	1	0
+it	1	2
+.	NA	NA

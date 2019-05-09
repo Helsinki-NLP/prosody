@@ -1,0 +1,5 @@
+Eleanor	2	1
+?	NA	NA
+exclaimed	0	0
+Nora	1	2
+.	NA	NA

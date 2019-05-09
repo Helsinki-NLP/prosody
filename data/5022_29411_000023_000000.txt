@@ -1,0 +1,7 @@
+Yes	2	1
+;	NA	NA
+I	0	0
+mean	0	0
+to	0	1
+try	2	2
+.	NA	NA

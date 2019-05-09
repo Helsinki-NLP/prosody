@@ -1,0 +1,6 @@
+Is	1	0
+he	0	1
+tall	2	0
+or	0	1
+short	1	2
+?	NA	NA

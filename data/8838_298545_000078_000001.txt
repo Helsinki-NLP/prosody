@@ -1,0 +1,8 @@
+But	0	0
+then	2	0
+there	0	0
+came	0	2
+a	0	0
+sudden	2	0
+revulsion	1	2
+.	NA	NA

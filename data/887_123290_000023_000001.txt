@@ -1,0 +1,17 @@
+It	0	0
+seemed	0	0
+upset	2	2
+,	NA	NA
+contorted	2	2
+,	NA	NA
+and	0	0
+convulsed	2	1
+by	0	0
+a	0	0
+violent	2	1
+upheaval	0	1
+of	0	0
+the	0	0
+lower	1	0
+strata	1	2
+.	NA	NA

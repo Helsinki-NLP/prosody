@@ -1,0 +1,11 @@
+She's	1	0
+the	0	1
+sort	2	0
+of	1	2
+girl	1	0
+who	0	1
+can	0	0
+take	2	0
+a	0	1
+joke	2	2
+.	NA	NA

@@ -1,0 +1,10 @@
+Yes	2	1
+,	NA	NA
+great	2	0
+pity	1	0
+,	NA	NA
+chuckled	0	1
+the	0	0
+old	1	0
+Muskrat	1	2
+.	NA	NA

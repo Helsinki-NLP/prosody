@@ -1,0 +1,14 @@
+See	2	0
+,	NA	NA
+the	0	0
+prince	1	1
+is	1	0
+pluming	2	0
+himself	2	2
+,	NA	NA
+said	2	0
+one	0	0
+of	0	0
+the	0	0
+thieves	1	2
+.	NA	NA

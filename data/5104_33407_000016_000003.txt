@@ -1,0 +1,9 @@
+He	0	0
+had	1	0
+shoes	0	0
+of	0	1
+scarlet	2	2
+with	0	0
+golden	1	0
+clasps	1	2
+.	NA	NA

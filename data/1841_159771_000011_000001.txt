@@ -1,0 +1,13 @@
+If	0	0
+I	2	0
+knew	0	0
+where	0	0
+there	1	0
+was	0	0
+good	0	1
+mousing	2	2
+I'd	2	1
+move	1	1
+to	0	0
+morrow	1	2
+.	NA	NA

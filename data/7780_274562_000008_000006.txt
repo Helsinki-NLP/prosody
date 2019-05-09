@@ -1,0 +1,14 @@
+In	0	0
+all	2	0
+other	0	0
+matters	1	1
+we	0	0
+are	0	0
+justly	1	0
+instructed	1	2
+to	0	0
+regard	2	0
+Nature	0	0
+as	1	1
+supreme	2	2
+.	NA	NA

@@ -1,0 +1,8 @@
+It	2	0
+would	0	0
+have	0	0
+left	0	1
+life	1	2
+too	2	0
+empty	0	2
+.	NA	NA

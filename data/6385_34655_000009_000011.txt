@@ -1,0 +1,6 @@
+The	0	0
+branches	2	1
+became	0	1
+a	0	0
+labyrinth	2	2
+.	NA	NA

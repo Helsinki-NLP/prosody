@@ -1,0 +1,15 @@
+I	2	0
+am	0	0
+ready	2	1
+to	0	0
+talk	1	0
+with	0	1
+you	1	2
+;	NA	NA
+but	1	0
+I	0	0
+don't	2	1
+want	0	0
+any	0	0
+money	1	2
+.	NA	NA

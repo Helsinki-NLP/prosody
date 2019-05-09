@@ -1,0 +1,16 @@
+It's	2	1
+clean	1	0
+gone	0	0
+out	0	0
+of	0	0
+my	0	0
+mind	1	2
+,	NA	NA
+'	NA	NA
+said	1	0
+Philip	2	1
+,	NA	NA
+with	1	0
+true	0	0
+regret	2	2
+.	NA	NA

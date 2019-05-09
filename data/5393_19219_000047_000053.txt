@@ -1,0 +1,6 @@
+We	2	0
+are	0	0
+all	0	1
+made	1	1
+so	1	2
+.	NA	NA

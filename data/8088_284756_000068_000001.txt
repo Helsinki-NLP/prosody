@@ -1,0 +1,9 @@
+You're	0	0
+light	1	1
+,	NA	NA
+light	2	0
+skin	1	1
+,	NA	NA
+light	1	0
+hair	2	2
+.	NA	NA

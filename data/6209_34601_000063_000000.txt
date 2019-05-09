@@ -1,0 +1,4 @@
+Gobble	2	1
+that	0	0
+up	1	2
+.	NA	NA

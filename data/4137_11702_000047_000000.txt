@@ -1,0 +1,17 @@
+Hyacinth	2	1
+drew	1	0
+a	0	1
+stool	1	0
+up	0	0
+to	0	1
+her	0	0
+father's	1	1
+chair	2	0
+and	0	2
+sat	2	0
+down	0	1
+very	1	0
+close	1	1
+to	0	0
+him	1	2
+.	NA	NA

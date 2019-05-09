@@ -1,0 +1,11 @@
+While	2	0
+they	0	1
+sat	2	0
+,	NA	NA
+a	0	1
+stranger	2	1
+came	0	0
+into	0	0
+the	0	1
+hall	2	2
+.	NA	NA

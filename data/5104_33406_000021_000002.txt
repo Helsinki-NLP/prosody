@@ -1,0 +1,6 @@
+Who	1	0
+will	0	1
+go	1	0
+with	0	1
+me	2	2
+?	NA	NA

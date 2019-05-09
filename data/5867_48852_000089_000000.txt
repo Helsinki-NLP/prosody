@@ -1,0 +1,11 @@
+She	0	0
+has	1	1
+refused	2	1
+me	0	1
+,	NA	NA
+and	0	0
+it	0	0
+is	0	0
+all	0	0
+over	2	2
+.	NA	NA

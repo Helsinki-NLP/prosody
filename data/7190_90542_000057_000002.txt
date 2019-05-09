@@ -1,0 +1,9 @@
+It's	0	0
+a	1	0
+deal	0	0
+nearer	1	0
+as	0	2
+the	0	0
+crow	2	1
+flies	1	2
+.	NA	NA

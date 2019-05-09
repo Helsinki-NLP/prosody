@@ -1,0 +1,17 @@
+Obtaining	1	0
+thirty	1	0
+days'	1	1
+leave	0	0
+of	0	0
+absence	2	1
+from	0	0
+the	0	1
+department	2	2
+,	NA	NA
+I	2	0
+struck	2	1
+out	2	0
+for	0	0
+the	0	0
+East	0	2
+.	NA	NA

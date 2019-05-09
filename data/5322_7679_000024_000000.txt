@@ -1,0 +1,12 @@
+'It's	0	0
+just	1	0
+a	0	0
+habit	0	2
+,	NA	NA
+'	NA	NA
+answered	0	0
+Olenin	1	2
+.	NA	NA
+'Why	2	2
+?	NA	NA
+'	NA	NA

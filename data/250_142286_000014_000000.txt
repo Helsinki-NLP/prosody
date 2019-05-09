@@ -1,0 +1,13 @@
+'With	1	0
+what	2	2
+?	NA	NA
+'	NA	NA
+asked	1	0
+mrs	0	0
+Thornton	1	2
+,	NA	NA
+her	0	0
+brow	1	0
+slightly	0	0
+contracting	0	2
+.	NA	NA

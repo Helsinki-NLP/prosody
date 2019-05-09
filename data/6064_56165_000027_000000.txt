@@ -1,0 +1,7 @@
+We	1	0
+knew	0	0
+something	0	1
+about	1	0
+his	0	2
+manners	2	2
+.	NA	NA

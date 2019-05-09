@@ -1,0 +1,8 @@
+We	2	0
+could	0	1
+breathe	2	2
+!	NA	NA
+We	2	0
+could	0	1
+breathe	1	2
+!	NA	NA

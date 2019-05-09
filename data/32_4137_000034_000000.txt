@@ -1,0 +1,8 @@
+No	0	0
+,	NA	NA
+sir	2	2
+,	NA	NA
+replied	1	0
+the	0	0
+chattel	0	2
+.	NA	NA

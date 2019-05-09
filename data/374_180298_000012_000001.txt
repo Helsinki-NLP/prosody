@@ -1,0 +1,10 @@
+For	0	0
+the	0	0
+rest	2	2
+,	NA	NA
+not	1	0
+a	0	0
+penny	0	0
+of	0	1
+debt	2	2
+.	NA	NA

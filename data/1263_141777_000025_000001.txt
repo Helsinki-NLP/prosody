@@ -1,0 +1,10 @@
+Was	1	0
+the	0	0
+other	1	0
+sending	0	0
+a	0	0
+message	0	2
+by	2	0
+that	0	1
+means	1	2
+?	NA	NA

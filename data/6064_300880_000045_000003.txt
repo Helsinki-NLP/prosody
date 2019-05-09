@@ -1,0 +1,12 @@
+They	1	0
+get	0	0
+off	2	0
+at	0	1
+Meredith	2	1
+and	0	0
+go	1	0
+in	0	0
+on	1	0
+the	0	1
+truck	2	2
+.	NA	NA

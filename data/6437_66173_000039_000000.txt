@@ -1,0 +1,9 @@
+Then	0	0
+he	0	0
+must	2	0
+have	0	2
+seen	1	0
+all	0	0
+the	0	1
+row	1	2
+.	NA	NA

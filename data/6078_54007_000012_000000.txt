@@ -1,0 +1,9 @@
+Then	2	1
+what	1	1
+do	0	0
+you	0	0
+think	2	1
+saint	2	0
+Nicholas	0	1
+did	2	2
+?	NA	NA

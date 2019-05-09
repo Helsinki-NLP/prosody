@@ -1,0 +1,5 @@
+Adam	2	1
+is	0	0
+left	1	0
+outside	1	2
+.	NA	NA

@@ -1,0 +1,12 @@
+He	0	0
+either	2	1
+neglected	1	1
+to	0	0
+attack	1	1
+these	0	0
+ships	2	2
+or	2	0
+attempted	0	0
+it	0	1
+preposterously	1	2
+.	NA	NA

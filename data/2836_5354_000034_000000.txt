@@ -1,0 +1,6 @@
+May	2	0
+I	0	0
+read	1	1
+the	0	0
+letter	2	2
+?	NA	NA

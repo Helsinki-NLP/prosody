@@ -1,0 +1,4 @@
+And	1	0
+it	0	1
+must	2	2
+.	NA	NA

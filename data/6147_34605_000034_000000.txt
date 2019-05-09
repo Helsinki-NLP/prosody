@@ -1,0 +1,15 @@
+It	0	0
+is	0	0
+unbecoming	1	1
+to	0	0
+be	0	0
+married	2	2
+fades	2	1
+one's	0	0
+ribbons	1	0
+and	0	0
+makes	0	1
+one	0	0
+look	0	0
+old	2	2
+.	NA	NA

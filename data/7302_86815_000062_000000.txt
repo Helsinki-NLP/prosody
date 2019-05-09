@@ -1,0 +1,7 @@
+Reflect	2	2
+that	2	0
+I	0	0
+am	0	0
+your	0	1
+wife	2	2
+!	NA	NA

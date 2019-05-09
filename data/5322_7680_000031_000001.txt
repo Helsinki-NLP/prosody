@@ -1,0 +1,10 @@
+They	2	0
+are	0	1
+trotters	2	1
+,	NA	NA
+you	0	0
+know	1	2
+.	NA	NA
+.	NA	NA
+.	NA	NA
+.	NA	NA

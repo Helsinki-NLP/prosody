@@ -1,0 +1,17 @@
+After	2	0
+a	0	0
+while	2	0
+,	NA	NA
+he	0	1
+trumpeted	0	1
+softly	2	2
+,	NA	NA
+as	2	0
+though	1	0
+he	0	0
+were	0	0
+just	0	0
+trying	1	1
+his	0	0
+voice	1	2
+.	NA	NA

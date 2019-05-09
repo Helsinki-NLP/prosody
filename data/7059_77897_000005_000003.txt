@@ -1,0 +1,7 @@
+I'm	1	0
+quite	2	1
+prepared	1	1
+to	0	0
+do	1	0
+so	2	2
+.	NA	NA

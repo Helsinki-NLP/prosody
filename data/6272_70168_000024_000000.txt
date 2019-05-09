@@ -1,0 +1,10 @@
+But	2	0
+I	0	0
+never	0	0
+heard	0	0
+a	0	1
+word	2	0
+of	0	1
+grand'ther's	NA	NA
+prayers	NA	NA
+.	NA	NA

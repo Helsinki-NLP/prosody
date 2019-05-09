@@ -1,0 +1,12 @@
+I	0	1
+did	0	0
+not	0	0
+offer	1	0
+you	0	0
+the	0	1
+table	2	2
+,	NA	NA
+returned	1	0
+the	0	1
+broker	1	2
+.	NA	NA

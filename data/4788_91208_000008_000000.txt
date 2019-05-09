@@ -1,0 +1,15 @@
+When	0	0
+mr	2	0
+Mill	1	0
+commenced	1	1
+his	0	0
+labors	1	1
+,	NA	NA
+the	0	0
+only	0	0
+logic	2	1
+recognized	0	0
+was	1	1
+the	0	0
+syllogistic	2	2
+.	NA	NA

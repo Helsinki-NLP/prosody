@@ -1,0 +1,9 @@
+It	0	0
+is	0	1
+well	2	2
+!	NA	NA
+said	1	0
+the	0	0
+husky	0	0
+voice	1	2
+.	NA	NA

@@ -1,0 +1,10 @@
+All	2	0
+the	0	0
+other	1	1
+complaints	1	0
+against	1	0
+him	0	1
+were	0	0
+mere	2	1
+pretences	1	2
+.	NA	NA

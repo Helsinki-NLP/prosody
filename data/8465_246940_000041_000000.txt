@@ -1,0 +1,12 @@
+He	2	0
+had	0	1
+come	1	0
+back	2	1
+to	0	0
+the	1	1
+same	2	2
+with	0	0
+which	0	0
+he	0	1
+started	1	2
+.	NA	NA

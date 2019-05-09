@@ -1,0 +1,16 @@
+mrs	1	0
+Cosu	1	1
+called	0	0
+out	1	2
+,	NA	NA
+They	2	0
+have	0	0
+just	0	1
+thrown	2	0
+mrs	0	1
+Lewis	1	0
+in	0	0
+here	0	0
+,	NA	NA
+too	1	2
+.	NA	NA

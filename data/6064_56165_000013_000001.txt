@@ -1,0 +1,16 @@
+We	2	0
+don't	0	0
+knock	1	1
+each	0	0
+other	0	2
+down	2	0
+and	0	1
+run	0	0
+the	0	0
+risk	1	0
+of	0	1
+breaking	2	0
+one	0	0
+another's	1	1
+noses	2	2
+.	NA	NA

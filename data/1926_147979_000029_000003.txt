@@ -1,0 +1,6 @@
+I	1	0
+walked	2	1
+home	0	0
+with	0	1
+Antonia	1	2
+.	NA	NA

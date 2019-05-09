@@ -1,0 +1,5 @@
+She	1	0
+did	1	0
+not	0	1
+answer	2	2
+.	NA	NA

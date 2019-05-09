@@ -1,0 +1,6 @@
+To	0	0
+err	2	0
+is	0	0
+a	0	1
+diversion	2	2
+.	NA	NA

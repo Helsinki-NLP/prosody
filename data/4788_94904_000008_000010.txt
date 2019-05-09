@@ -1,0 +1,17 @@
+Under	2	0
+his	0	0
+protection	1	1
+numerous	1	0
+communities	0	1
+were	0	0
+formed	2	0
+which	1	2
+knew	2	1
+no	1	0
+one	0	0
+above	1	0
+them	0	1
+but	1	0
+the	0	0
+king	2	2
+.	NA	NA

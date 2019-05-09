@@ -1,0 +1,17 @@
+We	0	0
+wander	1	0
+down	0	0
+to	0	0
+the	0	1
+pond	1	1
+together	1	2
+,	NA	NA
+and	1	0
+perhaps	2	1
+find	1	1
+Brown	2	1
+and	0	0
+Miss	0	0
+Smith	1	0
+there	1	2
+.	NA	NA

@@ -1,0 +1,5 @@
+Well	2	1
+,	NA	NA
+never	1	0
+mind	0	2
+.	NA	NA

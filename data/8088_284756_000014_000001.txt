@@ -1,0 +1,6 @@
+It	1	0
+was	0	1
+ablaze	2	0
+with	0	1
+light	2	2
+.	NA	NA

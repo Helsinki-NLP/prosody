@@ -1,0 +1,15 @@
+In	0	0
+order	2	0
+to	0	1
+produce	1	1
+some	1	0
+goods	0	1
+technically	1	2
+,	NA	NA
+men	2	0
+make	0	0
+use	0	0
+of	0	1
+other	1	0
+goods	2	2
+.	NA	NA

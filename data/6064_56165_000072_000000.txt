@@ -1,0 +1,6 @@
+That's	2	0
+right	1	1
+,	NA	NA
+said	0	0
+Nora	2	2
+.	NA	NA

@@ -1,0 +1,17 @@
+While	1	0
+taking	2	1
+a	0	0
+short	1	0
+rest	2	2
+,	NA	NA
+we	0	0
+suddenly	2	1
+spied	2	1
+another	0	0
+herd	1	0
+of	0	1
+buffaloes	1	0
+coming	1	1
+toward	2	0
+us	0	2
+.	NA	NA

@@ -1,0 +1,9 @@
+Well	2	2
+,	NA	NA
+you	1	0
+can	0	0
+stay	0	0
+here	0	0
+,	NA	NA
+boy	1	2
+.	NA	NA

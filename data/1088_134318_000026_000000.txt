@@ -1,0 +1,9 @@
+Yes	1	1
+,	NA	NA
+sir	2	2
+,	NA	NA
+said	0	0
+the	0	0
+valet	0	0
+hastily	1	2
+.	NA	NA

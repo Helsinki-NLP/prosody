@@ -1,0 +1,12 @@
+I	0	0
+loved	2	0
+you	0	1
+;	NA	NA
+but	0	0
+I	0	0
+did	0	1
+not	2	0
+apprehend	0	1
+the	0	0
+consequence	2	2
+.	NA	NA

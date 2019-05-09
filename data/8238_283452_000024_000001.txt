@@ -1,0 +1,17 @@
+A	0	0
+ghost	2	1
+can	0	0
+call	1	0
+his	0	1
+shade	1	1
+his	0	0
+own	2	0
+now	1	2
+,	NA	NA
+and	2	0
+exhibit	1	0
+any	1	0
+mood	0	1
+he	0	0
+pleases	2	2
+.	NA	NA

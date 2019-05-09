@@ -1,0 +1,13 @@
+Oh	2	2
+,	NA	NA
+you	0	0
+are	1	0
+young	2	1
+while	0	1
+I	2	0
+am	0	1
+beginning	0	0
+to	0	0
+get	1	0
+old	1	2
+.	NA	NA

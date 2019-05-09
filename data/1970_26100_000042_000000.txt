@@ -1,0 +1,12 @@
+When	1	0
+was	2	0
+the	0	2
+first	2	1
+time	1	0
+you	0	1
+did	2	0
+see	0	1
+him	0	0
+,	NA	NA
+Jackson	1	2
+?	NA	NA

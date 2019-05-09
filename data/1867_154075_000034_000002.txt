@@ -1,0 +1,9 @@
+He	1	0
+knew	0	0
+every	0	0
+line	2	0
+in	0	2
+that	0	0
+sharp	1	1
+profile	2	2
+.	NA	NA

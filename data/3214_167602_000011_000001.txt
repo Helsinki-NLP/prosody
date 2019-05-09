@@ -1,0 +1,3 @@
+What	2	1
+decision	1	2
+?	NA	NA

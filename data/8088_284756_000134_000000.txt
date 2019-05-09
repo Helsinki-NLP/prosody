@@ -1,0 +1,11 @@
+Sauntering	2	0
+dreamily	0	0
+,	NA	NA
+she	1	1
+moved	0	0
+away	1	0
+from	0	1
+the	0	0
+ancient	1	1
+derelict	2	2
+.	NA	NA

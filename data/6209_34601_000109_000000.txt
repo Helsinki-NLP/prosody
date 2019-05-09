@@ -1,0 +1,4 @@
+Will	1	0
+you	0	1
+drink	2	2
+?	NA	NA

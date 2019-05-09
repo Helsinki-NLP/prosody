@@ -1,0 +1,6 @@
+Well	2	1
+,	NA	NA
+I	0	0
+should	0	1
+say	2	2
+!	NA	NA

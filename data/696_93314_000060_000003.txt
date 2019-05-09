@@ -1,0 +1,9 @@
+I	2	0
+should	0	2
+try	2	0
+it	0	0
+if	0	1
+I	0	0
+were	0	1
+you	2	2
+.	NA	NA

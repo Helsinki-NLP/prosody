@@ -1,0 +1,4 @@
+It	0	0
+was	0	1
+maddening	2	2
+.	NA	NA

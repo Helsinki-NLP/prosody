@@ -1,0 +1,8 @@
+Looks	1	0
+like	1	0
+a	0	1
+man's	2	1
+,	NA	NA
+said	0	0
+Conny	1	2
+.	NA	NA

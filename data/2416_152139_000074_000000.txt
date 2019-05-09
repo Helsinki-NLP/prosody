@@ -1,0 +1,7 @@
+I	0	0
+have	2	0
+not	0	0
+used	0	0
+this	0	2
+yet	2	2
+.	NA	NA

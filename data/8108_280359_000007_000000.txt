@@ -1,0 +1,14 @@
+Siguna	0	0
+was	1	0
+a	0	1
+kind	1	0
+woman	0	2
+,	NA	NA
+far	2	1
+too	0	0
+good	1	0
+and	0	1
+kind	1	1
+for	0	0
+Loki	1	2
+.	NA	NA

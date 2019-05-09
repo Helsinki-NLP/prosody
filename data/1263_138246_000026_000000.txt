@@ -1,0 +1,5 @@
+Twenty	2	1
+,	NA	NA
+said	1	0
+Nicholl	0	2
+.	NA	NA

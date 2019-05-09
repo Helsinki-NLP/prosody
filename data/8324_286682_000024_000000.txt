@@ -1,0 +1,10 @@
+You	2	0
+are	0	1
+a	0	0
+fine	2	1
+young	0	0
+Mink	0	1
+,	NA	NA
+said	1	0
+he	0	2
+.	NA	NA

@@ -1,0 +1,7 @@
+What's	1	0
+his	0	0
+name	2	2
+?	NA	NA
+asked	1	0
+Nicolas	1	2
+.	NA	NA

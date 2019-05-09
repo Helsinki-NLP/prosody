@@ -1,0 +1,10 @@
+Beside	2	0
+a	0	1
+pile	2	0
+of	0	1
+the	0	0
+silken	1	0
+stuffs	1	1
+she	0	0
+halted	2	2
+.	NA	NA

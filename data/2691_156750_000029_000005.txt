@@ -1,0 +1,5 @@
+We	0	0
+were	0	0
+deeply	1	1
+impressed	2	2
+.	NA	NA

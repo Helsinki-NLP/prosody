@@ -1,0 +1,13 @@
+I	0	0
+really	1	0
+don't	0	1
+understand	1	0
+you	0	0
+,	NA	NA
+ma'am	2	2
+,	NA	NA
+said	1	0
+poor	0	0
+dr	1	1
+Bullfrog	2	2
+.	NA	NA

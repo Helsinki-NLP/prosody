@@ -1,0 +1,15 @@
+All	2	0
+Josiana's	1	0
+impelled	1	0
+her	0	1
+to	0	0
+yield	0	0
+herself	0	0
+gallantly	1	2
+rather	2	0
+than	0	1
+to	0	0
+give	0	0
+herself	0	0
+legally	1	2
+.	NA	NA

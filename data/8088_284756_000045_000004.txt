@@ -1,0 +1,8 @@
+But	0	0
+first	1	1
+slip	1	0
+on	0	0
+a	0	1
+bathing	2	1
+suit	2	2
+.	NA	NA

@@ -1,0 +1,8 @@
+I	0	0
+hate	2	0
+to	0	1
+take	2	0
+it	0	1
+,	NA	NA
+mother	1	2
+.	NA	NA

@@ -1,0 +1,11 @@
+I	0	0
+led	2	0
+them	1	0
+,	NA	NA
+at	0	1
+length	0	2
+,	NA	NA
+to	0	0
+his	0	0
+chamber	2	2
+.	NA	NA

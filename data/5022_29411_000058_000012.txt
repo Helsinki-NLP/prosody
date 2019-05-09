@@ -1,0 +1,12 @@
+I	0	0
+started	2	2
+,	NA	NA
+trembled	2	2
+,	NA	NA
+returned	1	0
+reluctantly	1	1
+to	0	0
+my	0	0
+present	0	0
+self	1	2
+.	NA	NA

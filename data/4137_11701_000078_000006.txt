@@ -1,0 +1,11 @@
+Of	2	0
+course	1	1
+he	0	0
+ought	1	1
+to	0	0
+have	0	0
+left	1	2
+Euralia	1	0
+long	0	1
+ago	2	2
+.	NA	NA

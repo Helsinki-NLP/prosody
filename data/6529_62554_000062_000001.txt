@@ -1,0 +1,3 @@
+Poor	2	0
+Ayrton	0	2
+!	NA	NA

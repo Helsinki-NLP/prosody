@@ -1,0 +1,11 @@
+Give	2	0
+the	0	1
+boys	2	0
+a	0	1
+chance	2	1
+,	NA	NA
+was	0	0
+Abraham	0	0
+Lincoln's	0	1
+motto	2	2
+.	NA	NA

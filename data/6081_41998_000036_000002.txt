@@ -1,0 +1,10 @@
+d'Escorval	1	0
+is	1	0
+,	NA	NA
+of	0	2
+course	2	0
+,	NA	NA
+in	0	0
+his	0	0
+office	2	2
+?	NA	NA

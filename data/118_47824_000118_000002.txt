@@ -1,0 +1,10 @@
+For	0	0
+Groom	2	1
+has	0	0
+brought	2	0
+the	0	1
+ghosts	1	1
+back	2	0
+with	0	0
+him	0	2
+.	NA	NA

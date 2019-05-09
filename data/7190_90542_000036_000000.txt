@@ -1,0 +1,15 @@
+Of	0	0
+course	2	2
+,	NA	NA
+the	0	0
+head	1	0
+may	0	0
+be	0	1
+buried	1	0
+in	0	1
+the	0	0
+wood	2	2
+,	NA	NA
+said	1	0
+Zena	1	2
+.	NA	NA

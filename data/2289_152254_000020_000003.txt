@@ -1,0 +1,10 @@
+They	2	0
+spent	0	0
+fourteen	0	0
+days	1	2
+in	0	0
+the	0	0
+work	1	0
+of	0	1
+plunder	2	2
+.	NA	NA

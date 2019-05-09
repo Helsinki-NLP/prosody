@@ -1,0 +1,16 @@
+I	2	1
+feared	2	2
+something	0	1
+like	2	0
+it	0	0
+when	0	0
+you	0	1
+insisted	2	0
+on	0	1
+taking	0	0
+a	0	1
+hand	2	0
+in	0	0
+the	0	1
+game	1	2
+.	NA	NA

@@ -1,0 +1,8 @@
+You	0	0
+slapped	2	0
+your	1	1
+tail	1	0
+on	0	1
+my	0	0
+back	2	2
+!	NA	NA

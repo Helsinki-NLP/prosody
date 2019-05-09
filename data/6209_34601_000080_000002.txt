@@ -1,0 +1,17 @@
+Let	2	1
+me	0	0
+suckle	1	0
+you	1	1
+,	NA	NA
+and	1	0
+he	0	1
+put	2	0
+the	0	1
+neck	1	0
+of	0	0
+the	0	0
+bottle	1	2
+to	1	0
+its	0	0
+mouth	0	2
+.	NA	NA

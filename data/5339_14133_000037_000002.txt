@@ -1,0 +1,9 @@
+At	1	0
+any	0	0
+rate	0	2
+,	NA	NA
+it	2	0
+was	0	0
+not	1	1
+unwelcome	1	2
+.	NA	NA

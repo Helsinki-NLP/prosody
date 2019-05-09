@@ -1,0 +1,6 @@
+And	0	0
+how	2	2
+?	NA	NA
+asked	1	0
+Barbicane	1	2
+.	NA	NA

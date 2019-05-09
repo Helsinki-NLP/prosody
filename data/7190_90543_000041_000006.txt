@@ -1,0 +1,17 @@
+Apparently	2	0
+,	NA	NA
+having	0	1
+put	0	0
+it	0	0
+ready	0	0
+for	0	0
+use	1	2
+,	NA	NA
+he	0	0
+had	2	0
+forgotten	1	0
+to	0	1
+take	1	0
+it	0	0
+away	1	2
+.	NA	NA

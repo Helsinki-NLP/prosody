@@ -1,0 +1,8 @@
+Billy	2	0
+,	NA	NA
+look	1	1
+,	NA	NA
+what	1	1
+a	0	0
+beauty	2	2
+!	NA	NA

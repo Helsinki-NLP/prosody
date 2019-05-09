@@ -1,0 +1,13 @@
+Welcome	2	1
+,	NA	NA
+sir	1	2
+,	NA	NA
+now	2	0
+and	0	0
+always	0	1
+,	NA	NA
+to	0	0
+our	1	0
+little	0	0
+home	1	2
+.	NA	NA

@@ -1,0 +1,6 @@
+He's	0	1
+a	0	0
+very	1	1
+cautious	2	1
+man	2	2
+.	NA	NA

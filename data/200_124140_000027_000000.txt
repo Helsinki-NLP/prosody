@@ -1,0 +1,9 @@
+Yes	2	0
+,	NA	NA
+she	0	1
+called	1	0
+yesterday	0	0
+with	0	0
+her	0	1
+father	2	2
+.	NA	NA

@@ -1,0 +1,5 @@
+Courfeyrac	1	0
+shouted	0	1
+Come	0	0
+in	2	2
+!	NA	NA

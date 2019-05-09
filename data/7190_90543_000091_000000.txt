@@ -1,0 +1,12 @@
+The	0	0
+handle	1	0
+was	0	1
+turned	2	1
+,	NA	NA
+and	0	2
+the	0	0
+door	1	0
+began	0	0
+to	0	0
+open	2	2
+.	NA	NA

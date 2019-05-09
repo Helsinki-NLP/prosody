@@ -1,0 +1,5 @@
+STORM	2	0
+BOUND	0	0
+AT	0	1
+ERIE	2	2
+.	NA	NA

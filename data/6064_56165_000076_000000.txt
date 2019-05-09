@@ -1,0 +1,15 @@
+Oh	2	1
+,	NA	NA
+he	0	0
+won't	0	0
+like	0	0
+that	1	0
+kind	0	1
+of	0	0
+a	0	0
+girl	2	2
+,	NA	NA
+hastily	2	0
+interposed	0	1
+Belle	2	2
+.	NA	NA

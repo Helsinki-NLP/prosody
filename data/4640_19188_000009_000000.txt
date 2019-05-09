@@ -1,0 +1,7 @@
+Because	2	0
+not	1	0
+one	1	0
+will	0	1
+go	0	0
+away	2	2
+.	NA	NA

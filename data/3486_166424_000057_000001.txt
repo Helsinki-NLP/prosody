@@ -1,0 +1,5 @@
+We	0	0
+can't	2	1
+make	1	0
+it	1	2
+.	NA	NA

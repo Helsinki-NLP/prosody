@@ -1,0 +1,17 @@
+Leave	1	0
+me	0	0
+alone	1	0
+with	0	1
+her	2	2
+,	NA	NA
+he	0	0
+would	0	1
+say	2	2
+;	NA	NA
+I	2	0
+know	0	0
+how	0	0
+to	0	1
+calm	0	0
+her	2	2
+.	NA	NA

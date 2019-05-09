@@ -1,0 +1,8 @@
+They	0	1
+have	0	0
+ruled	2	1
+,	NA	NA
+crushed	2	1
+,	NA	NA
+tyrannised	2	2
+.	NA	NA

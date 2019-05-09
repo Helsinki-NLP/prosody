@@ -1,0 +1,17 @@
+It	0	0
+feels	2	1
+,	NA	NA
+as	0	0
+I	0	0
+suppose	1	0
+it	0	0
+looks	1	1
+,	NA	NA
+straight	2	2
+a	0	0
+dull	1	0
+thought	1	1
+drawn	1	0
+out	0	0
+endlessly	1	2
+.	NA	NA

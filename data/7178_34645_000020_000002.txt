@@ -1,0 +1,5 @@
+Mischief	2	0
+and	0	1
+kindness	0	0
+combined	2	2
+.	NA	NA

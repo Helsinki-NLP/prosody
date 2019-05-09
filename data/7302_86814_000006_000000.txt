@@ -1,0 +1,15 @@
+He	2	0
+looks	0	1
+like	0	1
+a	0	0
+big	1	0
+bug	2	1
+,	NA	NA
+said	0	0
+another	1	2
+;	NA	NA
+dresses	2	0
+in	0	0
+fine	1	0
+style	1	2
+.	NA	NA

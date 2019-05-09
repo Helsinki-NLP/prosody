@@ -1,0 +1,16 @@
+But	0	0
+high	2	0
+up	0	1
+their	1	0
+tops	2	0
+were	0	1
+green	2	2
+and	0	0
+caught	2	1
+the	0	0
+saffron	1	0
+light	1	0
+of	0	1
+the	0	0
+west	2	2
+.	NA	NA

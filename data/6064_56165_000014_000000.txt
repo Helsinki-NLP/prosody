@@ -1,0 +1,9 @@
+Philip	2	0
+looked	0	1
+over	1	0
+his	0	0
+shoulder	1	0
+in	0	1
+the	0	0
+glass	1	2
+.	NA	NA

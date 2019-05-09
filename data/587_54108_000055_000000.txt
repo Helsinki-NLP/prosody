@@ -1,0 +1,15 @@
+You	0	0
+had	0	0
+better	2	1
+sit	0	0
+down	2	1
+,	NA	NA
+he	0	0
+said	2	2
+,	NA	NA
+motioning	2	1
+to	0	0
+the	0	0
+rower's	0	0
+seat	2	2
+.	NA	NA

@@ -1,0 +1,7 @@
+She	1	0
+was	0	0
+a	0	1
+skin	1	0
+deep	0	1
+Papist	2	2
+.	NA	NA

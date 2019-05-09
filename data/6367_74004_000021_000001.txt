@@ -1,0 +1,5 @@
+It	2	0
+was	2	1
+pure	1	0
+accident	1	2
+.	NA	NA

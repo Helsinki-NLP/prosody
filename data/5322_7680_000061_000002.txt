@@ -1,0 +1,17 @@
+On	0	0
+the	0	0
+contrary	1	2
+,	NA	NA
+vague	2	0
+suspicions	1	1
+that	0	0
+the	0	0
+cadet	2	0
+had	1	1
+some	0	1
+evil	2	0
+intentions	0	1
+filled	2	0
+his	0	0
+mind	1	2
+.	NA	NA

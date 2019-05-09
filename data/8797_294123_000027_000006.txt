@@ -1,0 +1,16 @@
+Our	2	0
+soul	1	0
+stuff	1	0
+is	0	1
+not	0	0
+a	0	0
+coin	2	0
+to	0	0
+be	0	1
+pocketed	2	1
+by	1	0
+the	0	0
+first	1	0
+chance	1	1
+comer	1	2
+.	NA	NA

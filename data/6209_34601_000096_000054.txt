@@ -1,0 +1,16 @@
+For	0	0
+my	0	0
+own	2	1
+part	0	0
+,	NA	NA
+I	1	0
+did	0	1
+wrong	1	1
+not	2	1
+to	0	0
+denounce	1	0
+you	0	1
+to	0	0
+the	0	0
+constable	1	2
+.	NA	NA

@@ -1,0 +1,8 @@
+The	0	0
+ship	2	1
+came	1	0
+swiftly	0	1
+nearer	1	0
+and	0	1
+nearer	1	2
+.	NA	NA

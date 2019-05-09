@@ -1,0 +1,6 @@
+I	1	0
+have	0	1
+been	0	0
+watching	2	1
+her	2	2
+.	NA	NA

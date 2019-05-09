@@ -1,0 +1,16 @@
+He	0	0
+gave	2	0
+the	0	0
+thumb	1	0
+its	0	1
+proper	1	0
+place	2	1
+on	0	0
+the	0	0
+keyboard	2	2
+,	NA	NA
+and	1	0
+materially	2	1
+improved	1	0
+fingering	1	2
+.	NA	NA

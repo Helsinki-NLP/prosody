@@ -1,0 +1,15 @@
+The	0	0
+right	2	0
+of	0	1
+property	2	2
+is	0	0
+the	0	0
+most	2	0
+important	1	0
+of	0	1
+human	0	0
+institutions	1	2
+.	NA	NA
+.	NA	NA
+.	NA	NA
+.	NA	NA

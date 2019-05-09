@@ -1,0 +1,8 @@
+Yet	1	0
+his	0	1
+history	1	1
+coincided	1	0
+with	0	1
+my	0	0
+theory	2	2
+.	NA	NA

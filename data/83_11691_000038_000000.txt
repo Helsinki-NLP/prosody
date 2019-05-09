@@ -1,0 +1,8 @@
+I	2	0
+haven't	1	1
+seen	2	0
+it	0	1
+,	NA	NA
+you	0	0
+see	1	2
+.	NA	NA

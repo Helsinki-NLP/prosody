@@ -1,0 +1,7 @@
+He's	0	1
+rich	2	2
+!	NA	NA
+.	NA	NA
+.	NA	NA
+.	NA	NA
+'	NA	NA

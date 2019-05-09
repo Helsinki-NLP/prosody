@@ -1,0 +1,5 @@
+Oh	1	0
+no	0	1
+,	NA	NA
+papa	2	2
+.	NA	NA

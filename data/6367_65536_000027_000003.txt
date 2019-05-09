@@ -1,0 +1,16 @@
+She	0	0
+had	0	0
+not	0	0
+changed	1	2
+;	NA	NA
+he	0	0
+realized	2	1
+that	0	0
+in	0	0
+the	0	1
+first	2	1
+amazed	1	1
+,	NA	NA
+incredulous	2	0
+glance	2	2
+.	NA	NA

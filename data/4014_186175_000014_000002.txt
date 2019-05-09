@@ -1,0 +1,5 @@
+Can't	1	0
+make	0	1
+self	2	1
+heard	2	2
+.	NA	NA

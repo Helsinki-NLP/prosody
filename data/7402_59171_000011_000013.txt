@@ -1,0 +1,6 @@
+It	0	0
+has	1	0
+been	0	1
+enormously	1	2
+exaggerated	2	2
+.	NA	NA

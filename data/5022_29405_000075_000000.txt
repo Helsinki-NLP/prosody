@@ -1,0 +1,9 @@
+I	2	0
+took	1	1
+the	0	0
+pencil	1	2
+,	NA	NA
+and	2	0
+wrote	0	0
+my	0	1
+reply	2	2

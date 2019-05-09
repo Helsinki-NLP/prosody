@@ -1,0 +1,5 @@
+Well	1	0
+then	0	1
+,	NA	NA
+Parry	1	2
+.	NA	NA

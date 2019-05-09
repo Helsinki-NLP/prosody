@@ -1,0 +1,8 @@
+Kings	1	0
+are	0	0
+the	0	2
+fathers	2	0
+of	0	1
+their	1	0
+people	2	2
+.	NA	NA

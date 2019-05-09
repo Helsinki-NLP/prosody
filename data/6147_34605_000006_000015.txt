@@ -1,0 +1,9 @@
+She	0	0
+trod	1	0
+upon	0	0
+hearts	1	2
+.	NA	NA
+She	0	0
+was	0	0
+earthly	2	2
+.	NA	NA

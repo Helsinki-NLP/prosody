@@ -1,0 +1,14 @@
+The	0	0
+flask	2	1
+found	1	0
+at	0	2
+Calshor	2	1
+had	0	0
+awakened	1	0
+his	0	0
+interest	0	1
+in	0	0
+the	0	0
+highest	2	1
+degree	2	2
+.	NA	NA

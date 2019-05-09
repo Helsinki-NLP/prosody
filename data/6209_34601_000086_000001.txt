@@ -1,0 +1,11 @@
+Seeing	2	0
+the	0	0
+infant	0	1
+drink	1	2
+had	0	0
+made	1	0
+him	0	0
+forget	1	1
+to	0	0
+eat	2	2
+.	NA	NA

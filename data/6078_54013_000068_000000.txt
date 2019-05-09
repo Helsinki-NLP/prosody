@@ -1,0 +1,17 @@
+No	2	0
+offence	1	1
+,	NA	NA
+said	0	0
+the	0	0
+Blacksmith	1	2
+;	NA	NA
+I	2	0
+meant	0	0
+not	1	0
+to	0	1
+speak	1	1
+ill	2	0
+of	0	1
+your	0	0
+story	2	2
+.	NA	NA

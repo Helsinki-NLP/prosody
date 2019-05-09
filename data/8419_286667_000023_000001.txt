@@ -1,0 +1,9 @@
+I	2	0
+want	0	1
+to	0	0
+marry	1	2
+and	2	0
+have	0	0
+a	0	1
+home	1	2
+.	NA	NA

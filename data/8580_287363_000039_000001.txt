@@ -1,0 +1,5 @@
+But	1	1
+this	2	0
+is	0	1
+great	2	2
+!	NA	NA

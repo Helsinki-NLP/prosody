@@ -1,0 +1,11 @@
+Such	2	1
+fads	2	0
+are	0	1
+not	0	0
+to	0	0
+be	0	1
+encouraged	2	1
+in	0	0
+one's	0	0
+youth	1	2
+.	NA	NA

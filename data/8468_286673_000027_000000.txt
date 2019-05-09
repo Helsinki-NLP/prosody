@@ -1,0 +1,7 @@
+Good	0	0
+night	2	1
+!	NA	NA
+said	0	0
+the	0	1
+Turtle	1	2
+.	NA	NA

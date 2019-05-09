@@ -1,0 +1,14 @@
+I	0	0
+am	2	0
+a	0	1
+great	2	1
+stickler	1	0
+for	0	0
+a	0	1
+good	1	1
+view	0	0
+myself	2	0
+,	NA	NA
+said	0	1
+Porthos	2	2
+.	NA	NA

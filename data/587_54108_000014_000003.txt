@@ -1,0 +1,15 @@
+Her	0	0
+father	2	0
+also	0	0
+observed	1	0
+it	1	2
+,	NA	NA
+and	1	0
+resolved	2	0
+upon	0	0
+a	0	1
+course	2	1
+of	0	0
+strict	0	1
+surveillance	2	2
+.	NA	NA

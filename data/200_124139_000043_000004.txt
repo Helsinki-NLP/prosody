@@ -1,0 +1,8 @@
+Her	0	1
+performance	2	0
+on	0	1
+the	0	0
+pianoforte	2	1
+is	2	1
+exquisite	2	2
+.	NA	NA

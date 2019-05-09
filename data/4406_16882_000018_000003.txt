@@ -1,0 +1,11 @@
+It	0	0
+being	2	0
+about	0	1
+six	2	0
+years	0	0
+,	NA	NA
+and	0	2
+five	2	0
+months	0	1
+old	1	2
+.	NA	NA

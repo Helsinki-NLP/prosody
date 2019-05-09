@@ -1,0 +1,16 @@
+Fetch	1	1
+me	0	0
+Phyllis	2	1
+crowned	2	0
+with	0	1
+corn	1	0
+flowers	1	2
+,	NA	NA
+and	0	0
+add	2	0
+a	0	1
+hundred	0	1
+thousand	2	0
+francs	0	1
+income	1	2
+.	NA	NA

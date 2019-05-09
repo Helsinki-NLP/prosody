@@ -1,0 +1,5 @@
+This	1	0
+question	2	0
+is	0	1
+justified	2	2
+.	NA	NA

@@ -1,0 +1,15 @@
+Gaining	2	0
+a	0	1
+profound	1	0
+knowledge	2	0
+of	0	1
+its	0	0
+resources	1	2
+he	0	0
+raised	2	0
+it	0	1
+to	0	0
+an	0	0
+independent	0	1
+power	2	2
+.	NA	NA

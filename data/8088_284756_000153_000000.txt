@@ -1,0 +1,7 @@
+There's	1	1
+more	1	0
+you'd	0	1
+like	1	1
+to	0	0
+learn	2	2
+?	NA	NA

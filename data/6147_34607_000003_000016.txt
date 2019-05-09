@@ -1,0 +1,11 @@
+Words	2	1
+escaped	2	1
+from	0	0
+her	1	0
+which	0	0
+had	1	0
+to	0	1
+be	0	0
+guessed	2	0
+at	1	2
+.	NA	NA

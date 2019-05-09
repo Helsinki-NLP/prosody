@@ -1,0 +1,17 @@
+It	0	0
+was	0	0
+open	2	2
+wide	1	1
+,	NA	NA
+wide	0	0
+open	1	2
+and	1	0
+I	0	0
+grew	0	1
+furious	2	1
+as	0	0
+I	0	0
+gazed	0	0
+upon	0	0
+it	0	2
+.	NA	NA

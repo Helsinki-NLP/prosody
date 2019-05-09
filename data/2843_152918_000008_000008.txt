@@ -1,0 +1,12 @@
+Something	0	1
+extraordinary	2	1
+must	0	0
+await	0	0
+us	0	0
+farther	0	0
+on	2	2
+,	NA	NA
+but	0	0
+,	NA	NA
+what	2	2
+?	NA	NA

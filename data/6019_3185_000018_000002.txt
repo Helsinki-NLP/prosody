@@ -1,0 +1,4 @@
+We	0	0
+both	1	1
+bowed	2	2
+.	NA	NA

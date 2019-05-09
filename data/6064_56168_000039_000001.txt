@@ -1,0 +1,3 @@
+Oh	2	1
+dear	0	2
+!	NA	NA

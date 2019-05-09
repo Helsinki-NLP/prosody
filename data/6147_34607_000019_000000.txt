@@ -1,0 +1,8 @@
+There	1	0
+was	0	0
+another	0	0
+grievance	0	2
+,	2	0
+improper	NA	NA
+birth	2	2
+.	NA	NA

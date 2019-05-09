@@ -1,0 +1,14 @@
+To	0	0
+be	1	1
+exact	2	2
+,	NA	NA
+there	2	0
+were	0	0
+only	0	1
+four	1	0
+hundred	0	0
+and	0	0
+ninety	0	1
+nine	2	0
+men	0	2
+.	NA	NA

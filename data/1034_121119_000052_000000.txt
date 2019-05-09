@@ -1,0 +1,12 @@
+I	0	0
+was	2	0
+not	0	0
+thinking	0	0
+of	0	0
+that	2	2
+,	NA	NA
+replied	2	0
+Madame	0	0
+Danglars	1	0
+quickly	1	2
+.	NA	NA

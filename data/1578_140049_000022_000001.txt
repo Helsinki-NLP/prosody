@@ -1,0 +1,11 @@
+Well	2	0
+,	NA	NA
+there's	0	1
+one	0	0
+crop	1	1
+that	0	0
+never	0	0
+fails	1	0
+in	0	1
+Riverboro	2	2
+!	NA	NA

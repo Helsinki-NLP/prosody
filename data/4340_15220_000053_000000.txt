@@ -1,0 +1,6 @@
+I'll	2	1
+go	2	0
+as	0	1
+I	0	0
+am	0	2
+.	NA	NA

@@ -1,0 +1,9 @@
+Ask	2	0
+your	0	1
+Druggist	2	1
+for	0	0
+MIXER'S	0	0
+and	0	1
+SCROFULA	1	0
+SYRUP	2	2
+.	NA	NA

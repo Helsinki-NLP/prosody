@@ -1,0 +1,10 @@
+What	2	0
+on	0	0
+earth	1	2
+had	0	0
+put	0	0
+him	0	0
+into	0	0
+that	1	1
+state	2	2
+?	NA	NA

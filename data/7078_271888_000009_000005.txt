@@ -1,0 +1,15 @@
+I	0	0
+remembered	1	1
+the	0	0
+first	1	0
+time	0	1
+I	0	0
+saw	1	0
+Ethel	0	1
+Broughton	1	2
+,	NA	NA
+fully	2	0
+five	1	0
+years	0	1
+before	2	2
+.	NA	NA

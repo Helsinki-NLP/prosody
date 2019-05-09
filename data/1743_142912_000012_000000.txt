@@ -1,0 +1,14 @@
+Bless	2	0
+your	0	0
+heart	1	0
+,	NA	NA
+peter	0	1
+,	NA	NA
+no	2	1
+,	NA	NA
+replied	1	0
+Scrapper	1	0
+with	1	0
+a	0	1
+chuckle	2	2
+.	NA	NA

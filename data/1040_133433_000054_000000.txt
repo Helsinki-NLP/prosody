@@ -1,0 +1,11 @@
+Of	1	0
+course	2	1
+peter	0	0
+promised	1	1
+;	NA	NA
+and	0	0
+then	1	0
+he	0	1
+flew	0	0
+away	2	2
+.	NA	NA

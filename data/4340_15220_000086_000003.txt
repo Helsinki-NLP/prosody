@@ -1,0 +1,16 @@
+Sanch	2	0
+will	0	0
+take	1	1
+care	1	0
+of	0	0
+me	0	1
+,	NA	NA
+if	0	0
+you	0	0
+won't	2	2
+,	NA	NA
+answered	1	1
+Bab	1	1
+,	NA	NA
+stoutly	1	2
+.	NA	NA

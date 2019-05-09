@@ -1,0 +1,10 @@
+At	1	0
+Farmer	1	0
+Green's	1	1
+hen	0	0
+house	2	2
+,	0	0
+mr	NA	NA
+Crow	1	1
+explained	1	2
+.	NA	NA

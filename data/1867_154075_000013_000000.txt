@@ -1,0 +1,12 @@
+But	0	0
+he	0	0
+left	2	1
+that	1	0
+room	0	1
+again	2	1
+and	0	0
+came	0	0
+down	1	0
+the	0	1
+hall	2	2
+.	NA	NA

@@ -1,0 +1,12 @@
+I	0	0
+don't	2	0
+mean	1	1
+to	0	0
+say	1	1
+that	0	0
+I	0	0
+won't	1	2
+assist	1	1
+you	0	0
+ultimately	2	2
+.	NA	NA

@@ -1,0 +1,5 @@
+Yes	2	0
+,	NA	NA
+replied	0	1
+Thorndyke	0	2
+.	NA	NA

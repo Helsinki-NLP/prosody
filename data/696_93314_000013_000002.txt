@@ -1,0 +1,10 @@
+His	1	0
+coming	2	0
+was	0	1
+heralded	2	1
+by	0	0
+a	0	0
+letter	1	1
+from	0	0
+her	2	2
+.	NA	NA

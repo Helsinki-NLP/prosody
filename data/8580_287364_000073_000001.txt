@@ -1,0 +1,8 @@
+We're	0	0
+not	2	0
+as	0	1
+desperate	2	1
+as	0	0
+your	1	1
+crowd	1	2
+.	NA	NA

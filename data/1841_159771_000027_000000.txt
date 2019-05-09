@@ -1,0 +1,8 @@
+Missed	2	0
+him	0	1
+didn't	1	0
+you	1	2
+?	NA	NA
+he	0	0
+inquired	1	2
+.	NA	NA

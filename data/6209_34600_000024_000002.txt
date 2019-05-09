@@ -1,0 +1,7 @@
+It	1	0
+is	0	0
+a	0	1
+declaration	2	1
+of	0	0
+indifference	1	2
+.	NA	NA

@@ -1,0 +1,6 @@
+Drunk	1	0
+again	2	1
+,	NA	NA
+said	1	0
+Sadness	1	2
+.	NA	NA

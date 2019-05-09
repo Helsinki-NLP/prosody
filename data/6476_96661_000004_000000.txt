@@ -1,0 +1,16 @@
+Then	2	0
+there	0	0
+came	0	1
+two	1	0
+men	0	1
+well	1	1
+skilled	2	0
+in	0	1
+the	0	0
+handling	0	1
+of	0	0
+ships	2	2
+Tiphys	2	0
+and	0	1
+Nauplius	1	2
+.	NA	NA

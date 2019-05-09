@@ -1,0 +1,17 @@
+This	0	0
+young	2	0
+woman	1	1
+had	0	0
+real	1	0
+firmness	2	1
+of	0	0
+character	2	2
+to	0	0
+back	2	0
+up	0	0
+her	0	1
+free	2	0
+and	0	1
+independent	0	0
+judgments	2	2
+.	NA	NA

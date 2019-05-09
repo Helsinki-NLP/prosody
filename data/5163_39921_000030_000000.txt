@@ -1,0 +1,11 @@
+They	2	0
+refuse	1	1
+to	0	0
+obey	0	0
+my	0	0
+orders	1	2
+,	NA	NA
+said	1	0
+esther	0	0
+faintly	1	2
+.	NA	NA

@@ -1,0 +1,9 @@
+Louise	2	1
+smiled	1	0
+rather	0	1
+scornfully	1	0
+,	NA	NA
+and	0	0
+Beth	0	1
+scowled	2	2
+.	NA	NA

@@ -1,0 +1,6 @@
+I	1	0
+smell	2	1
+better	0	0
+luck	0	1
+ahead	2	2
+.	NA	NA

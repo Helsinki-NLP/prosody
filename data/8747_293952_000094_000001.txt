@@ -1,0 +1,10 @@
+There	2	0
+he	0	1
+paused	2	0
+to	0	2
+utter	2	0
+a	0	1
+final	1	0
+insulting	0	0
+speech	1	2
+.	NA	NA

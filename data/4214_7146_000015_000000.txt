@@ -1,0 +1,8 @@
+She	2	0
+is	0	1
+very	1	1
+well	2	1
+,	NA	NA
+thank	1	1
+you	1	2
+.	NA	NA

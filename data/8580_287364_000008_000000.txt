@@ -1,0 +1,14 @@
+I	0	0
+knew	2	0
+something	1	1
+would	0	0
+happen	2	1
+on	0	0
+this	0	1
+voyage	2	2
+,	NA	NA
+came	2	0
+from	0	0
+mr	0	0
+Parker	2	2
+.	NA	NA

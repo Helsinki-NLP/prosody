@@ -1,0 +1,12 @@
+And	0	0
+do	0	0
+you	1	1
+see	1	0
+how	0	0
+he's	0	1
+grinning	2	1
+from	0	0
+ear	0	0
+to	0	1
+ear	2	2
+?	NA	NA

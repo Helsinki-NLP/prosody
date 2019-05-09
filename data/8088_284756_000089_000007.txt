@@ -1,0 +1,4 @@
+And	0	0
+so	0	1
+on	2	2
+.	NA	NA

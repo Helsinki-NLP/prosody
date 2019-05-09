@@ -1,0 +1,16 @@
+You	0	0
+can	0	0
+ask	1	1
+more	2	0
+silly	0	0
+questions	1	1
+than	0	0
+anybody	1	0
+of	0	1
+my	1	1
+acquaintance	2	2
+,	NA	NA
+retorted	1	0
+Jenny	0	0
+Wren	1	2
+.	NA	NA

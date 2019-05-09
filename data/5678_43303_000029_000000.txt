@@ -1,0 +1,14 @@
+He	0	0
+seemed	1	0
+moved	1	0
+at	0	1
+something	0	0
+,	NA	NA
+and	0	1
+Mabel	2	0
+looked	0	0
+at	0	1
+him	0	0
+in	0	1
+astonishment	2	2
+.	NA	NA

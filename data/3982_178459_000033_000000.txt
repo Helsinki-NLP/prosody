@@ -1,0 +1,17 @@
+I've	1	0
+had	0	0
+nothing	0	0
+but	0	0
+dreams	1	2
+,	NA	NA
+Bibbs	1	0
+said	1	1
+,	NA	NA
+desolately	1	2
+,	NA	NA
+but	1	0
+they	0	0
+weren't	0	0
+like	0	0
+that	1	2
+.	NA	NA

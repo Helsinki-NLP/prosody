@@ -1,0 +1,12 @@
+Upon	1	1
+my	0	0
+word	2	2
+,	NA	NA
+said	0	0
+Dantes	1	1
+,	NA	NA
+you	2	0
+make	0	1
+me	0	0
+shudder	1	2
+.	NA	NA

@@ -1,0 +1,5 @@
+Old	2	0
+Toller	1	1
+astonished	1	1
+me	0	2
+.	NA	NA

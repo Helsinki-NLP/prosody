@@ -1,0 +1,9 @@
+What	2	0
+did	0	0
+she	0	1
+think	1	0
+of	0	0
+his	0	1
+beauty	1	0
+now	1	2
+?	NA	NA

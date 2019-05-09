@@ -1,0 +1,17 @@
+But	0	0
+before	1	0
+I	0	0
+die	1	2
+I	0	0
+should	0	0
+like	2	1
+to	0	0
+know	1	0
+the	0	0
+name	1	0
+you	0	1
+give	1	1
+to	0	0
+such	0	0
+conduct	1	2
+.	NA	NA

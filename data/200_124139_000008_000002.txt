@@ -1,0 +1,8 @@
+Her	0	0
+dirty	1	1
+petticoat	2	2
+quite	2	0
+escaped	1	1
+my	1	0
+notice	0	2
+.	NA	NA

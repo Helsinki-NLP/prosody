@@ -1,0 +1,12 @@
+I	2	0
+believe	0	0
+she	0	0
+likes	1	0
+you	0	1
+,	NA	NA
+Taylor	1	2
+,	NA	NA
+said	1	0
+Mercer	0	0
+thoughtfully	2	2
+.	NA	NA

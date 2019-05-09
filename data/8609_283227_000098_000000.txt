@@ -1,0 +1,5 @@
+And	0	0
+so	1	0
+we	0	1
+parted	2	2
+.	NA	NA

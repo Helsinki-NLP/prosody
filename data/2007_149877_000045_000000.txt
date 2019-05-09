@@ -1,0 +1,9 @@
+Oh	2	0
+,	NA	NA
+I	0	0
+don't	0	1
+know	1	2
+,	NA	NA
+returned	0	0
+Hurstwood	1	2
+.	NA	NA

@@ -1,0 +1,12 @@
+Oh	2	0
+,	NA	NA
+yes	0	2
+,	NA	NA
+I've	1	0
+heard	0	0
+it	0	0
+too	1	2
+,	NA	NA
+interrupted	2	0
+Philip	1	2
+.	NA	NA

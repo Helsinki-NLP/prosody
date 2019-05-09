@@ -1,0 +1,16 @@
+But	0	0
+there	1	0
+are	0	1
+some	2	1
+with	0	0
+which	2	2
+,	NA	NA
+on	1	0
+the	0	0
+contrary	2	1
+,	NA	NA
+I	0	0
+am	0	0
+not	0	1
+acquainted	2	2
+.	NA	NA

@@ -1,0 +1,8 @@
+That	2	0
+theatre	0	0
+put	0	1
+me	0	0
+way	1	0
+ahead	0	1
+financially	2	2
+.	NA	NA

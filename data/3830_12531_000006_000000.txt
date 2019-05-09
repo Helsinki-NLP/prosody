@@ -1,0 +1,10 @@
+CAN	1	0
+I	2	1
+get	0	0
+home	1	0
+tonight	0	1
+?	NA	NA
+I	0	0
+asked	0	1
+myself	1	2
+.	NA	NA

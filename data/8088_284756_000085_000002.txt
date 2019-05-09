@@ -1,0 +1,15 @@
+What	2	2
+I	1	0
+glanced	2	0
+at	0	1
+Mercer	1	1
+,	NA	NA
+and	0	0
+he	0	0
+laughed	1	0
+aloud	0	0
+with	0	1
+pleasure	0	0
+and	0	0
+excitement	2	2
+.	NA	NA

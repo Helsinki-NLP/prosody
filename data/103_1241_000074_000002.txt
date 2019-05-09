@@ -1,0 +1,10 @@
+I	2	0
+hadn't	1	1
+any	0	1
+real	2	0
+idea	0	1
+what	0	0
+it	0	0
+looked	1	0
+like	1	2
+.	NA	NA

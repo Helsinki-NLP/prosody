@@ -1,0 +1,14 @@
+Well	2	0
+,	NA	NA
+here's	0	1
+the	0	0
+key	2	1
+go	0	0
+and	0	1
+see	0	0
+for	0	1
+yourself	2	1
+,	NA	NA
+said	0	0
+peter	2	2
+.	NA	NA

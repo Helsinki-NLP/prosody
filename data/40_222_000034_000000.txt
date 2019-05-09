@@ -1,0 +1,13 @@
+That	2	0
+is	0	0
+the	0	1
+most	0	0
+unpromising	1	0
+circumstance	1	2
+,	NA	NA
+the	0	0
+strongest	2	1
+presumption	1	0
+against	1	0
+him	0	2
+.	NA	NA

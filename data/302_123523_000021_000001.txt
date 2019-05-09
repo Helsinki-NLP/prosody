@@ -1,0 +1,15 @@
+Guided	2	1
+by	1	0
+the	0	0
+sound	1	2
+,	NA	NA
+we	1	0
+soon	1	0
+found	1	0
+him	0	1
+helpless	1	1
+in	0	0
+a	0	0
+dark	1	0
+recess	1	2
+.	NA	NA

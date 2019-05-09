@@ -1,0 +1,14 @@
+The	0	0
+twilight	2	0
+is	0	1
+so	2	1
+kind	2	1
+it	0	0
+hides	1	0
+that	1	2
+,	NA	NA
+but	1	0
+it	0	0
+is	0	0
+true	2	2
+.	NA	NA

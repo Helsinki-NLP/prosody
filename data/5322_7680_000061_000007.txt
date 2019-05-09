@@ -1,0 +1,11 @@
+'Haven't	1	0
+I	0	0
+got	2	0
+the	0	1
+horse	2	2
+and	0	0
+we'll	0	0
+see	0	0
+later	0	0
+on	0	2
+.	NA	NA

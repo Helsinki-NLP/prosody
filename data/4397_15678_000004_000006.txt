@@ -1,0 +1,13 @@
+Many	1	0
+are	0	1
+killed	1	0
+every	0	0
+year	1	2
+,	NA	NA
+both	2	0
+for	0	0
+their	0	1
+flesh	2	0
+and	0	1
+skins	2	2
+.	NA	NA

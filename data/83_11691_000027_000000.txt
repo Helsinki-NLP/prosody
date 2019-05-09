@@ -1,0 +1,6 @@
+Coronel	2	1
+considered	2	1
+for	0	0
+a	0	0
+moment	0	2
+.	NA	NA

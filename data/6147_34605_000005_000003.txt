@@ -1,0 +1,9 @@
+He	0	0
+betted	2	1
+,	NA	NA
+boxed	2	1
+,	NA	NA
+ran	1	0
+into	0	0
+debt	2	2
+.	NA	NA

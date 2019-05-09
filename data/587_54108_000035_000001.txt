@@ -1,0 +1,10 @@
+This	1	0
+was	0	1
+certainly	2	1
+something	0	1
+she	1	0
+had	0	1
+not	0	0
+bargained	2	1
+for	2	2
+.	NA	NA

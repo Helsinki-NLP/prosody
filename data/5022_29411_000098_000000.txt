@@ -1,0 +1,4 @@
+I	1	0
+went	0	0
+in	0	2
+.	NA	NA

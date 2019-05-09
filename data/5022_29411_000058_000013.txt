@@ -1,0 +1,7 @@
+A	1	0
+visible	2	0
+hand	0	0
+touched	0	1
+my	0	0
+arm	1	2
+.	NA	NA

@@ -1,0 +1,3 @@
+Pencroft	2	1
+understood	0	2
+.	NA	NA

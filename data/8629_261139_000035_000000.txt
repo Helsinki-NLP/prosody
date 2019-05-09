@@ -1,0 +1,13 @@
+This	2	0
+was	0	0
+a	0	1
+condition	2	0
+of	1	1
+things	1	1
+for	1	0
+which	0	0
+I	0	0
+was	0	0
+not	2	2
+prepared	2	2
+.	NA	NA

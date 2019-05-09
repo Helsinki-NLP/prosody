@@ -1,0 +1,5 @@
+The	0	0
+Administration	2	2
+was	0	0
+alarmed	2	2
+.	NA	NA

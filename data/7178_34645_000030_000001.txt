@@ -1,0 +1,8 @@
+Let	2	0
+us	0	1
+clear	1	0
+the	0	1
+character	1	0
+of	0	1
+chance	1	2
+.	NA	NA

@@ -1,0 +1,16 @@
+Ask	0	0
+the	0	0
+young	0	0
+lady	1	2
+,	NA	NA
+Olga	2	1
+Ignatyevna	2	0
+,	NA	NA
+for	0	0
+it	0	2
+,	NA	NA
+say	2	0
+it's	0	0
+for	0	0
+Vanka	1	2
+.	NA	NA

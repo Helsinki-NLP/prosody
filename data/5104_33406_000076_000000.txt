@@ -1,0 +1,10 @@
+It	0	0
+is	1	0
+a	0	0
+land	1	0
+of	0	1
+ice	2	2
+,	NA	NA
+they	1	0
+said	1	2
+.	NA	NA

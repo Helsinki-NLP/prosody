@@ -1,0 +1,3 @@
+They	1	0
+pay	2	2
+.	NA	NA

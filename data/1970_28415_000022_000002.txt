@@ -1,0 +1,13 @@
+Then	2	1
+he	0	0
+drove	2	1
+the	0	0
+sheep	2	0
+and	0	1
+the	0	0
+cattle	2	1
+out	2	1
+after	1	1
+the	0	0
+men	1	2
+.	NA	NA

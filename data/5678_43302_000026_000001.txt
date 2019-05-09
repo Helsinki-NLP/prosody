@@ -1,0 +1,6 @@
+Catholic	1	1
+assailant	2	2
+.	NA	NA
+.	NA	NA
+.	NA	NA
+.	NA	NA

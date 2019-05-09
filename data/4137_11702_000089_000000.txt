@@ -1,0 +1,16 @@
+Wait	2	1
+till	0	0
+he	0	0
+has	1	1
+seen	1	0
+them	0	0
+,	NA	NA
+my	0	1
+dear	2	2
+,	NA	NA
+said	1	0
+Merriwig	1	0
+with	0	1
+a	0	0
+chuckle	1	2
+.	NA	NA

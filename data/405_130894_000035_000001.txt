@@ -1,0 +1,14 @@
+For	0	0
+who	0	0
+could	2	1
+predict	2	2
+the	0	0
+minimum	1	1
+time	2	1
+we	0	0
+would	0	0
+need	1	1
+to	0	0
+free	1	0
+ourselves	1	2
+?	NA	NA

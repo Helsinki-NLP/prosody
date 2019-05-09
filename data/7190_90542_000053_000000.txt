@@ -1,0 +1,11 @@
+Wait	2	2
+,	NA	NA
+he	0	0
+said	1	0
+when	0	0
+I	0	0
+began	1	0
+to	0	1
+question	1	0
+him	1	2
+.	NA	NA

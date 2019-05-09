@@ -1,0 +1,10 @@
+Lucy	1	0
+thought	2	2
+but	1	0
+it	0	0
+matters	1	0
+little	0	0
+what	0	0
+she	0	1
+thought	1	2
+.	NA	NA

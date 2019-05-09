@@ -1,0 +1,9 @@
+From	0	0
+that	2	0
+time	1	0
+on	0	2
+spies	2	1
+dogged	1	1
+her	0	0
+tracks	1	2
+.	NA	NA

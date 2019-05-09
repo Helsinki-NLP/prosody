@@ -1,0 +1,6 @@
+I	1	0
+cannot	1	1
+say	0	0
+it	0	1
+did	2	2
+.	NA	NA

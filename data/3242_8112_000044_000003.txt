@@ -1,0 +1,7 @@
+Nothing	2	1
+happened	2	1
+until	0	0
+he	0	1
+had	0	0
+finished	2	2
+.	NA	NA

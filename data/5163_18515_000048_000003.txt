@@ -1,0 +1,16 @@
+See	0	0
+them	2	1
+standing	1	0
+by	0	0
+that	0	0
+old	0	1
+tumble	0	0
+down	0	0
+house	0	1
+,	NA	NA
+Polly	2	2
+,	NA	NA
+he	0	0
+added	1	0
+excitedly	1	2
+.	NA	NA

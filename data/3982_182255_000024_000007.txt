@@ -1,0 +1,5 @@
+And	0	1
+worse	2	1
+than	0	0
+that	0	2
+!	NA	NA

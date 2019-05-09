@@ -1,0 +1,7 @@
+What	1	0
+do	0	0
+you	0	0
+want	0	0
+to	0	1
+know	2	2
+?	NA	NA

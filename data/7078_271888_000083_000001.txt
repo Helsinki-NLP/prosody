@@ -1,0 +1,7 @@
+Circe	2	0
+was	0	1
+voted	1	0
+an	0	0
+unqualified	1	1
+success	2	2
+.	NA	NA

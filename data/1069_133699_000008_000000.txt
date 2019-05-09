@@ -1,0 +1,9 @@
+They're	1	0
+the	0	0
+companions	2	0
+of	0	1
+freemen	2	2
+,	NA	NA
+Henrietta	1	0
+retorted	0	2
+.	NA	NA

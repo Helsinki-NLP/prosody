@@ -1,0 +1,8 @@
+That's	0	1
+my	2	0
+business	1	1
+,	NA	NA
+answered	1	0
+the	0	1
+broker	2	2
+.	NA	NA

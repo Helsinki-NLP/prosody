@@ -1,0 +1,5 @@
+UNCLE	0	0
+john	1	0
+ACTS	1	1
+QUEERLY	2	2
+.	NA	NA

@@ -1,0 +1,15 @@
+This	1	0
+year	2	2
+,	NA	NA
+pursued	1	0
+Harmon	0	2
+,	NA	NA
+I'm	2	0
+keeping	0	0
+open	0	0
+house	1	1
+for	0	0
+a	0	0
+special	2	0
+reason	0	2
+.	NA	NA

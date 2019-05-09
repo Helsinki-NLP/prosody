@@ -1,0 +1,5 @@
+Again	2	0
+the	0	1
+Thing	1	0
+trembled	1	2
+.	NA	NA

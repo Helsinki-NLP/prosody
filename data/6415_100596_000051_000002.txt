@@ -1,0 +1,9 @@
+I	0	0
+kept	0	0
+watching	2	2
+for	0	0
+her	0	0
+all	1	0
+the	0	0
+evening	1	2
+.	NA	NA

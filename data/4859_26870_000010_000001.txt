@@ -1,0 +1,15 @@
+Never	2	2
+,	NA	NA
+he	0	0
+repeated	2	0
+in	0	0
+a	0	1
+trembling	0	1
+voice	1	0
+like	0	0
+a	0	1
+boy	1	0
+asking	0	1
+for	0	0
+forgiveness	1	2
+.	NA	NA

@@ -1,0 +1,11 @@
+Having	1	0
+acted	2	1
+as	0	0
+eavesdropper	1	2
+,	NA	NA
+I	2	0
+could	0	0
+hardly	0	0
+question	2	0
+them	0	2
+.	NA	NA

@@ -1,0 +1,10 @@
+We	0	0
+have	2	1
+thought	0	1
+so	2	2
+,	NA	NA
+said	2	0
+the	0	1
+Mud	0	0
+Turtle	1	2
+.	NA	NA

@@ -1,0 +1,13 @@
+He's	0	0
+getting	1	0
+weaker	0	0
+and	0	1
+weaker	0	0
+,	NA	NA
+sir	2	2
+;	NA	NA
+I	0	0
+believe	2	0
+he's	0	1
+sinking	1	2
+.	NA	NA

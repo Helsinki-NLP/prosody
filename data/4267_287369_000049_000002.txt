@@ -1,0 +1,10 @@
+They	1	0
+stood	0	0
+still	1	2
+awed	2	2
+not	2	0
+knowing	0	0
+what	0	1
+to	0	0
+do	1	2
+.	NA	NA

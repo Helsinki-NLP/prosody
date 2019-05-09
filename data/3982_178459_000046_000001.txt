@@ -1,0 +1,13 @@
+I	1	0
+didn't	1	0
+believe	0	0
+you'd	0	1
+done	0	0
+one	0	0
+kind	0	1
+thing	0	0
+for	0	0
+me	2	2
+for	0	0
+that	2	2
+.	NA	NA

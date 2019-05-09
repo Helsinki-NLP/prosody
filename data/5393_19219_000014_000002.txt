@@ -1,0 +1,5 @@
+I	0	0
+am	2	1
+Madame	1	0
+Thou	1	2
+.	NA	NA

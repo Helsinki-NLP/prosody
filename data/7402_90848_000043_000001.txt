@@ -1,0 +1,16 @@
+I	2	2
+am	0	0
+Father	2	0
+Time	0	1
+himself	1	1
+,	NA	NA
+and	0	0
+these	0	0
+are	0	0
+my	0	0
+twelve	0	0
+sons	2	1
+,	NA	NA
+the	0	0
+Hours	2	2
+.	NA	NA

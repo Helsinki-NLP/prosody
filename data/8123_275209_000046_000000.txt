@@ -1,0 +1,16 @@
+And	0	0
+when	1	0
+she	0	0
+was	1	0
+a	0	0
+Butterfly	1	2
+,	NA	NA
+and	0	0
+was	0	0
+going	1	0
+to	0	0
+die	0	0
+again	2	2
+,	NA	NA
+she	0	0
+said	1	2

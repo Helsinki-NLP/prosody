@@ -1,0 +1,14 @@
+I	2	0
+will	0	0
+consult	0	1
+some	0	0
+wise	1	0
+animal	2	1
+upon	0	0
+the	0	0
+matter	2	2
+,	NA	NA
+and	1	0
+get	0	0
+advice	2	2
+.	NA	NA

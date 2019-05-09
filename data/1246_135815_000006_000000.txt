@@ -1,0 +1,16 @@
+Johnny	2	1
+Chuck	1	1
+obediently	2	1
+sat	0	0
+up	2	2
+,	NA	NA
+and	1	0
+of	0	0
+course	0	1
+all	2	0
+the	0	0
+others	0	1
+stared	1	0
+at	0	0
+him	1	2
+.	NA	NA

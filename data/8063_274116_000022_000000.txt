@@ -1,0 +1,10 @@
+You	0	0
+should	1	0
+not	0	1
+call	1	0
+her	0	1
+madame	2	2
+,	NA	NA
+said	1	0
+D'Artagnan	1	2
+.	NA	NA

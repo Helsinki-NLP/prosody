@@ -1,0 +1,12 @@
+You	0	0
+have	0	0
+lived	2	1
+here	0	0
+in	0	0
+the	0	2
+old	2	1
+valley	2	2
+all	1	0
+these	0	1
+years	2	2
+?	NA	NA

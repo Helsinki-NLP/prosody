@@ -1,0 +1,8 @@
+She's	0	0
+about	2	2
+the	0	0
+nicest	2	1
+girl	1	0
+I	0	0
+know	1	2
+.	NA	NA

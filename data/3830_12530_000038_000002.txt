@@ -1,0 +1,11 @@
+Oliver	2	0
+did	0	1
+not	1	0
+sing	0	0
+as	0	1
+usual	0	0
+while	1	0
+preparing	0	1
+for	0	0
+camp	1	2
+.	NA	NA

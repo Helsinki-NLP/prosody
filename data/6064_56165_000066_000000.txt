@@ -1,0 +1,11 @@
+It	2	0
+seemed	2	1
+to	0	0
+me	1	0
+he	0	0
+was	0	0
+just	0	1
+a	0	0
+little	1	1
+pale	2	2
+.	NA	NA

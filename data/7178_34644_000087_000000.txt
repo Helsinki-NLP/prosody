@@ -1,0 +1,4 @@
+And	0	0
+he	0	0
+added	2	2
+,	NA	NA

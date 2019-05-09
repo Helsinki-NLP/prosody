@@ -1,0 +1,17 @@
+Much	1	0
+what	1	0
+he	0	1
+said	2	1
+to	0	0
+you	1	0
+from	0	0
+the	0	2
+pulpit	2	1
+the	1	0
+other	0	1
+day	2	0
+,	NA	NA
+I	0	0
+should	0	2
+think	2	2
+.	NA	NA

@@ -1,0 +1,15 @@
+I	0	1
+told	2	0
+her	0	2
+I	1	0
+had	0	0
+got	1	0
+him	0	0
+to	0	1
+a	0	0
+fire	2	0
+in	0	1
+such	1	0
+a	0	1
+place	1	2
+.	NA	NA

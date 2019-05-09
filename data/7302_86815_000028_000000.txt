@@ -1,0 +1,11 @@
+My	2	0
+mistress	0	0
+wishes	0	0
+much	2	2
+to	1	0
+be	0	0
+present	2	1
+at	0	0
+the	0	0
+trial	1	2
+.	NA	NA

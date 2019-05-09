@@ -1,0 +1,7 @@
+Tell	2	0
+me	0	1
+what	0	0
+I	0	0
+look	0	1
+like	2	2
+.	NA	NA

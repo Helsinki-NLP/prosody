@@ -1,0 +1,11 @@
+Gluttony	2	1
+affects	0	0
+delicacy	2	2
+,	NA	NA
+a	0	0
+grimace	2	0
+of	0	1
+disgust	2	1
+conceals	1	0
+cupidity	1	2
+.	NA	NA

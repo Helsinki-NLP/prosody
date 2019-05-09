@@ -1,0 +1,10 @@
+From	2	0
+our	0	0
+new	0	1
+point	2	0
+of	0	2
+view	1	0
+I	0	0
+looked	0	1
+again	2	2
+.	NA	NA

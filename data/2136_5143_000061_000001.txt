@@ -1,0 +1,8 @@
+I	1	0
+screamed	2	1
+while	0	0
+she	0	1
+continued	1	1
+to	0	0
+laugh	2	2
+.	NA	NA

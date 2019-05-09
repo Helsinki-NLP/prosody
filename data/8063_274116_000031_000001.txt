@@ -1,0 +1,15 @@
+The	1	1
+deuce	2	0
+,	NA	NA
+thought	0	0
+D'Artagnan	1	2
+,	NA	NA
+can	0	0
+Porthos	2	0
+have	0	1
+any	0	0
+intentions	0	0
+in	0	1
+that	0	0
+quarter	2	2
+?	NA	NA

@@ -1,0 +1,12 @@
+But	1	0
+you	0	0
+will	0	0
+do	0	0
+meaner	1	0
+things	0	1
+than	0	0
+that	2	2
+before	1	0
+you	0	1
+die	2	2
+.	NA	NA

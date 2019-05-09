@@ -1,0 +1,8 @@
+If	2	0
+at	1	2
+all	2	1
+?	NA	NA
+roared	1	0
+Dak	0	1
+Kova	1	2
+.	NA	NA

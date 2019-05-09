@@ -1,0 +1,7 @@
+In	0	0
+captivity	2	2
+,	NA	NA
+repeated	2	1
+the	0	0
+queen	1	2
+.	NA	NA

@@ -1,0 +1,13 @@
+Then	1	0
+you	0	0
+feel	2	0
+quite	1	1
+sure	2	0
+that	0	0
+it	0	1
+was	0	0
+your	1	1
+misfortune	2	1
+he	0	0
+deplored	2	2
+?	NA	NA

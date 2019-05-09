@@ -1,0 +1,15 @@
+Very	1	0
+well	2	0
+,	NA	NA
+said	0	1
+Porthos	1	2
+,	NA	NA
+it	1	0
+does	0	0
+not	0	1
+trouble	0	0
+me	1	1
+in	0	0
+the	1	0
+least	0	2
+.	NA	NA

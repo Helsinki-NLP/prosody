@@ -1,0 +1,5 @@
+We	0	0
+will	2	0
+be	0	1
+kunaks	2	2
+.	NA	NA

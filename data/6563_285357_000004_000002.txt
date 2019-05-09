@@ -1,0 +1,17 @@
+One	1	0
+of	0	0
+the	0	0
+motors	1	1
+went	0	0
+wrong	2	2
+,	NA	NA
+and	0	0
+the	0	0
+longitudinal	2	0
+stability	2	1
+was	0	0
+found	1	0
+to	0	1
+be	0	0
+indifferent	2	2
+.	NA	NA

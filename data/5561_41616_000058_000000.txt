@@ -1,0 +1,10 @@
+I	2	0
+don't	0	0
+know	0	0
+about	1	1
+that	2	0
+,	NA	NA
+said	0	1
+Nora	0	1
+O'Malley	1	2
+.	NA	NA

@@ -1,0 +1,6 @@
+Very	2	0
+well	0	1
+,	NA	NA
+say	2	0
+eleven	0	2
+.	NA	NA

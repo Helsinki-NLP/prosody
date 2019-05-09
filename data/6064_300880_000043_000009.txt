@@ -1,0 +1,4 @@
+They're	1	0
+on	0	1
+oath	2	2
+.	NA	NA

@@ -1,0 +1,15 @@
+Letting	2	0
+a	0	1
+top	1	0
+hat	1	1
+sit	0	0
+on	0	0
+you	2	2
+,	NA	NA
+for	1	0
+instance	1	1
+,	NA	NA
+said	1	0
+the	0	0
+Socialist	1	2
+.	NA	NA

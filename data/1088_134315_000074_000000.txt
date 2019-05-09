@@ -1,0 +1,15 @@
+I	0	0
+am	2	1
+afraid	2	0
+,	NA	NA
+Miss	0	1
+Holland	1	1
+,	NA	NA
+I've	1	0
+got	2	0
+myself	0	1
+into	0	0
+very	1	0
+serious	2	1
+trouble	1	2
+.	NA	NA

@@ -1,0 +1,6 @@
+Upon	1	0
+this	0	0
+hint	2	1
+he	0	0
+proceeded	1	2
+.	NA	NA

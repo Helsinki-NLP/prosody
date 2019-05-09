@@ -1,0 +1,12 @@
+I	2	0
+am	0	0
+returning	2	1
+to	1	0
+Araby	0	0
+this	0	1
+afternoon	2	2
+,	NA	NA
+said	2	0
+Udo	0	0
+stiffly	1	2
+.	NA	NA

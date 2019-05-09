@@ -1,0 +1,5 @@
+Every	2	0
+portion	1	0
+is	0	1
+interesting	1	2
+.	NA	NA

@@ -1,0 +1,8 @@
+He	0	0
+did	0	0
+not	2	0
+believe	0	1
+he	0	0
+heard	1	0
+aright	2	2
+.	NA	NA

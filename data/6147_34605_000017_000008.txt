@@ -1,0 +1,10 @@
+Mary	1	0
+Stuart	0	0
+composed	0	0
+French	0	0
+verses	1	2
+;	NA	NA
+Elizabeth	2	0
+translated	0	0
+Horace	2	2
+.	NA	NA

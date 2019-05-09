@@ -1,0 +1,12 @@
+No	2	0
+man	0	1
+could	0	0
+have	0	0
+lived	2	0
+in	0	0
+the	0	1
+cold	2	0
+and	0	1
+the	0	0
+fog	2	2
+.	NA	NA

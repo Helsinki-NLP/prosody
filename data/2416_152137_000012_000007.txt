@@ -1,0 +1,3 @@
+What	0	0
+irony	1	2
+!	NA	NA

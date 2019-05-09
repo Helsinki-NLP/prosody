@@ -1,0 +1,12 @@
+He	0	0
+refused	2	1
+me	0	0
+lodging	2	2
+,	NA	NA
+but	0	0
+told	2	0
+me	0	1
+the	0	0
+way	0	0
+here	2	2
+.	NA	NA

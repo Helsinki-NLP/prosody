@@ -1,0 +1,10 @@
+In	0	0
+one	2	0
+point	0	1
+,	NA	NA
+however	1	2
+,	NA	NA
+he	2	0
+was	0	0
+vulnerable	1	2
+.	NA	NA

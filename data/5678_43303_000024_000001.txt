@@ -1,0 +1,5 @@
+You	0	0
+have	0	0
+not	0	1
+heard	2	2
+?	NA	NA

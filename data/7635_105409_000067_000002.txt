@@ -1,0 +1,13 @@
+At	0	0
+any	2	0
+rate	0	1
+,	NA	NA
+there	1	0
+is	0	0
+a	0	1
+chance	1	1
+to	0	0
+get	0	0
+him	0	1
+yet	2	2
+.	NA	NA

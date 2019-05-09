@@ -1,0 +1,8 @@
+You	2	0
+have	0	0
+not	0	0
+written	0	1
+directly	2	1
+for	0	0
+them	1	2
+.	NA	NA

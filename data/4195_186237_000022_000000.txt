@@ -1,0 +1,12 @@
+It	0	0
+didn't	0	0
+hurt	2	1
+you	0	0
+,	NA	NA
+did	0	0
+it	2	2
+?	NA	NA
+asked	2	1
+the	0	0
+Major	0	2
+.	NA	NA

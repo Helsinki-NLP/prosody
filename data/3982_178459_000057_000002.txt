@@ -1,0 +1,7 @@
+Mary	2	1
+,	NA	NA
+I'm	0	0
+going	1	0
+with	0	1
+father	1	2
+.	NA	NA

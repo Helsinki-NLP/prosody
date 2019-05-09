@@ -1,0 +1,15 @@
+I'm	2	0
+just	0	0
+on	1	0
+a	0	1
+visit	1	1
+to	0	0
+my	0	0
+aunt	2	1
+,	NA	NA
+who	0	0
+has	0	0
+gone	1	0
+to	0	1
+Portland	2	2
+.	NA	NA

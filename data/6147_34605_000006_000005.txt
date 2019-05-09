@@ -1,0 +1,7 @@
+She	0	0
+had	1	0
+neither	0	0
+lovers	1	1
+nor	0	0
+chastity	2	2
+.	NA	NA

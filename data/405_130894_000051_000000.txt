@@ -1,0 +1,7 @@
+Yes	2	0
+,	NA	NA
+captain	0	1
+,	NA	NA
+maybe	0	0
+so	1	2
+.	NA	NA

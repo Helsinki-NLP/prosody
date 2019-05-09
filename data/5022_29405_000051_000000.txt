@@ -1,0 +1,7 @@
+Did	0	1
+you	0	0
+know	1	0
+him	0	1
+before	2	1
+that	2	2
+?	NA	NA

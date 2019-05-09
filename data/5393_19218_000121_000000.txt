@@ -1,0 +1,7 @@
+That's	2	1
+not	1	0
+the	0	1
+point	1	0
+at	0	1
+all	1	2
+.	NA	NA

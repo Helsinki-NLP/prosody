@@ -1,0 +1,8 @@
+I	0	0
+haven't	2	1
+the	0	0
+material	2	1
+to	0	0
+guess	2	0
+with	0	2
+.	NA	NA

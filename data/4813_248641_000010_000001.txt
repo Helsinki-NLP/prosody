@@ -1,0 +1,7 @@
+That	0	0
+they	0	0
+are	1	1
+interminable	2	1
+we	0	0
+know	2	2
+.	NA	NA

@@ -1,0 +1,5 @@
+Alice	2	0
+Greggory	0	0
+flushed	0	1
+scarlet	2	2
+.	NA	NA

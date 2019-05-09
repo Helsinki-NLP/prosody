@@ -1,0 +1,9 @@
+All	2	1
+these	0	0
+sentiments	1	1
+were	1	0
+linked	1	2
+to	0	0
+the	0	0
+dawn	2	2
+.	NA	NA

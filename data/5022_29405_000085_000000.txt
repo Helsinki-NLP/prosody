@@ -1,0 +1,10 @@
+You	0	0
+won't	2	1
+think	0	0
+I	1	0
+am	0	1
+presuming	1	0
+on	0	1
+your	0	0
+kindness	2	2
+?	NA	NA

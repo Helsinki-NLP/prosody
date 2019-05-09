@@ -1,0 +1,11 @@
+We	2	0
+never	0	0
+know	0	0
+when	0	1
+we're	0	0
+well	2	0
+off	0	1
+,	NA	NA
+do	0	0
+we	1	2
+?	NA	NA

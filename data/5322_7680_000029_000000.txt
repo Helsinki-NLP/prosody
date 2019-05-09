@@ -1,0 +1,16 @@
+'Much	2	0
+bigger	0	2
+;	NA	NA
+ten	1	0
+times	2	1
+as	0	0
+big	1	2
+and	0	0
+three	0	0
+storeys	0	0
+high	1	2
+,	NA	NA
+'	NA	NA
+replied	1	0
+Olenin	0	2
+.	NA	NA

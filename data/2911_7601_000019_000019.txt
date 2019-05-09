@@ -1,0 +1,17 @@
+I	0	0
+felt	1	0
+that	0	0
+I	0	0
+must	1	1
+scream	0	0
+or	0	0
+die	1	2
+!	NA	NA
+and	0	0
+now	1	0
+again	1	2
+!	NA	NA
+hark	2	2
+!	NA	NA
+louder	2	2
+!	NA	NA

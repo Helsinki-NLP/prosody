@@ -1,0 +1,11 @@
+Cease	2	2
+;	NA	NA
+you	1	0
+know	0	0
+not	0	1
+what	1	0
+it	0	0
+is	0	1
+you	0	0
+say	1	2
+.	NA	NA

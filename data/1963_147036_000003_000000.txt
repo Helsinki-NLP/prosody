@@ -1,0 +1,8 @@
+He	0	0
+could	0	0
+only	0	0
+gaze	2	0
+in	0	1
+stupified	1	0
+silence	2	2
+.	NA	NA

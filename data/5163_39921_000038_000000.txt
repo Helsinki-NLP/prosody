@@ -1,0 +1,9 @@
+Monday	2	0
+evening	0	1
+esther	0	0
+called	1	0
+on	0	1
+mr	0	0
+Cropper	0	0
+again	2	2
+.	NA	NA

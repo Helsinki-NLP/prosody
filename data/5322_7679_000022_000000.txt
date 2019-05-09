@@ -1,0 +1,12 @@
+'Why	2	0
+do	0	0
+you	0	0
+smoke	2	2
+?	NA	NA
+'	NA	NA
+he	0	0
+said	2	0
+with	0	1
+assumed	0	1
+curiosity	1	2
+.	NA	NA

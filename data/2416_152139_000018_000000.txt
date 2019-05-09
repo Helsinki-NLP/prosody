@@ -1,0 +1,17 @@
+Which	0	0
+I	1	0
+neglected	1	1
+to	0	0
+add	2	2
+,	NA	NA
+said	1	0
+Jimmie	0	0
+Dale	2	2
+,	NA	NA
+was	2	0
+to	0	0
+be	0	0
+made	1	0
+in	0	1
+private	2	2
+.	NA	NA

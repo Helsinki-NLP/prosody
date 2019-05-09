@@ -1,0 +1,10 @@
+I	1	0
+vote	2	0
+for	0	1
+the	0	0
+end	1	0
+of	0	1
+afflictions	0	1
+and	0	0
+sorrows	2	2
+.	NA	NA

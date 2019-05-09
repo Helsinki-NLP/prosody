@@ -1,0 +1,8 @@
+Hold	2	0
+your	0	1
+tongue	2	1
+,	NA	NA
+said	1	1
+Uncle	0	0
+john	1	2
+.	NA	NA

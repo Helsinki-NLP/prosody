@@ -1,0 +1,10 @@
+It	1	0
+went	0	0
+up	2	1
+beyond	1	0
+the	0	1
+top	1	0
+of	0	1
+his	0	0
+eyes	1	2
+.	NA	NA

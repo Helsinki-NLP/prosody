@@ -1,0 +1,17 @@
+I	1	0
+am	0	0
+sorry	2	0
+you	0	1
+found	0	0
+out	1	0
+about	0	0
+it	0	2
+,	NA	NA
+because	2	0
+it	0	0
+has	0	1
+spoiled	1	1
+all	1	0
+our	0	1
+fun	2	2
+.	NA	NA

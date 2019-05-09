@@ -1,0 +1,7 @@
+Won't	1	0
+you	0	1
+stay	0	0
+awhile	1	0
+and	0	1
+rest	2	2
+?	NA	NA

@@ -1,0 +1,12 @@
+It's	1	0
+late	2	1
+,	NA	NA
+it's	2	0
+late	0	1
+,	NA	NA
+she	1	0
+whispered	0	0
+with	0	1
+a	0	0
+smile	2	2
+.	NA	NA

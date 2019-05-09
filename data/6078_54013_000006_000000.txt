@@ -1,0 +1,13 @@
+Yonder	2	1
+is	0	0
+a	0	1
+traveller	2	0
+in	0	1
+the	0	0
+world	1	2
+,	NA	NA
+said	0	0
+the	0	0
+first	0	0
+raven	1	2
+.	NA	NA

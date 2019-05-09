@@ -1,0 +1,8 @@
+I	0	0
+shall	2	0
+set	1	0
+out	0	1
+for	0	0
+Rome	0	2
+immediately	1	2
+.	NA	NA

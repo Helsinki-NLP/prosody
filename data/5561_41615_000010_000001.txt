@@ -1,0 +1,12 @@
+But	0	0
+tell	1	0
+us	0	1
+this	1	0
+much	1	2
+is	1	0
+it	0	0
+about	1	0
+any	0	0
+of	0	0
+us	1	2
+?	NA	NA

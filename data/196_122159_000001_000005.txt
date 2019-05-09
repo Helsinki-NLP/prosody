@@ -1,0 +1,11 @@
+You	0	0
+don't	2	2
+.	NA	NA
+.	NA	NA
+.	NA	NA
+words	2	1
+seemed	0	1
+to	0	0
+fail	2	0
+him	0	2
+.	NA	NA

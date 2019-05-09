@@ -1,0 +1,13 @@
+He	0	0
+made	1	0
+certain	2	1
+sigils	2	2
+,	NA	NA
+gestures	2	1
+and	2	0
+movements	1	1
+at	0	0
+the	0	0
+same	1	0
+time	1	2
+.	NA	NA

@@ -1,0 +1,9 @@
+No	2	1
+,	NA	NA
+indeed	1	1
+not	1	0
+if	0	2
+you	0	0
+want	1	0
+me	1	2
+.	NA	NA

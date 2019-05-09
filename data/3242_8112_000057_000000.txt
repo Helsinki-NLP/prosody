@@ -1,0 +1,7 @@
+And	2	0
+what's	0	0
+everybody	0	1
+concluded	1	1
+from	0	0
+that	2	2
+?	NA	NA

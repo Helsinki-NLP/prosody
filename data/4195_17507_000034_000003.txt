@@ -1,0 +1,16 @@
+He	1	0
+cracked	2	1
+his	0	0
+whip	1	0
+and	0	1
+rattled	2	0
+away	0	1
+through	0	0
+the	0	0
+streets	0	1
+without	1	0
+a	0	2
+glance	2	1
+behind	2	0
+him	0	2
+.	NA	NA

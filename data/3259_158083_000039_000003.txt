@@ -1,0 +1,9 @@
+They	1	0
+looked	2	0
+as	0	1
+much	1	0
+like	1	1
+tramps	2	1
+as	0	0
+anything	1	2
+.	NA	NA

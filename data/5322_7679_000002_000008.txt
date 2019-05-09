@@ -1,0 +1,11 @@
+His	0	0
+face	2	1
+was	0	0
+very	1	0
+like	0	1
+that	1	0
+of	0	1
+the	0	0
+dead	1	0
+abrek	1	2
+.	NA	NA

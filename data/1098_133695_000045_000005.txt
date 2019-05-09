@@ -1,0 +1,9 @@
+Isabel	2	1
+had	0	0
+said	0	0
+nothing	2	0
+on	0	1
+her	0	0
+way	0	0
+up	1	2
+.	NA	NA

@@ -1,0 +1,9 @@
+But	0	0
+don't	2	0
+kill	1	0
+him	0	1
+,	NA	NA
+he	0	0
+added	0	1
+drily	1	2
+.	NA	NA

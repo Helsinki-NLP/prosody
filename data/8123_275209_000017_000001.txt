@@ -1,0 +1,9 @@
+What	2	1
+do	0	0
+you	0	1
+think	1	1
+it	0	0
+is	1	1
+to	0	0
+be	2	2
+?	NA	NA

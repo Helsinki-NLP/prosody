@@ -1,0 +1,11 @@
+Once	1	0
+they	2	0
+knew	0	0
+the	0	1
+contents	1	1
+of	1	0
+that	1	0
+letter	1	2
+what	2	0
+then	1	2
+?	NA	NA

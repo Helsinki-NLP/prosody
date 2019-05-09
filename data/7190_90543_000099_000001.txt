@@ -1,0 +1,9 @@
+Thank	0	0
+heaven	2	0
+that	1	0
+fool	0	1
+Tresman	1	1
+didn't	0	0
+come	0	0
+sooner	2	2
+!	NA	NA

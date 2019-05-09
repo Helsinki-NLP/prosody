@@ -1,0 +1,16 @@
+Each	2	0
+group	0	0
+works	1	0
+at	0	0
+its	0	1
+specialties	2	1
+,	NA	NA
+and	1	0
+the	0	0
+information	1	1
+gets	0	0
+correlated	2	2
+.	NA	NA
+He	0	0
+paused	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+It	1	0
+is	0	0
+for	0	0
+her	2	2
+that	1	0
+we	0	0
+are	0	0
+mourning	1	2
+.	NA	NA

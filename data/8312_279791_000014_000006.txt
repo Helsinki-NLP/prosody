@@ -1,0 +1,15 @@
+Then	2	0
+the	0	1
+poor	1	0
+deceived	0	1
+princess	1	2
+opened	2	1
+her	0	0
+little	1	0
+window	1	2
+,	NA	NA
+and	0	0
+sang	1	0
+her	0	0
+usual	0	0
+song	2	2

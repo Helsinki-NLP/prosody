@@ -1,0 +1,13 @@
+I	1	0
+like	2	2
+the	0	0
+manly	0	0
+way	2	0
+you	0	1
+stand	2	0
+up	0	0
+and	0	1
+take	1	0
+hard	0	0
+knocks	1	2
+.	NA	NA

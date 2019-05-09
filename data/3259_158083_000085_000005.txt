@@ -1,0 +1,9 @@
+This	1	0
+morning	2	1
+dr	1	1
+Ladd	2	1
+appeared	0	0
+with	0	1
+his	0	0
+tube	2	2
+.	NA	NA

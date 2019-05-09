@@ -1,0 +1,15 @@
+From	0	0
+his	0	0
+thickly	2	0
+bearded	0	1
+face	2	0
+his	0	1
+reddish	0	1
+eyes	2	1
+gleamed	0	0
+forth	2	1
+with	0	0
+a	0	0
+fresh	2	1
+instability	2	2
+.	NA	NA

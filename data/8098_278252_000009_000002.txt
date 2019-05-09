@@ -1,0 +1,5 @@
+I	2	0
+was	2	0
+almost	0	1
+frozen	2	2
+.	NA	NA

@@ -1,0 +1,13 @@
+Deprived	2	0
+of	0	1
+this	0	0
+respite	0	1
+,	NA	NA
+I	2	1
+should	2	0
+have	0	0
+sunk	1	0
+under	0	0
+my	0	1
+hardships	1	2
+.	NA	NA

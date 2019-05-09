@@ -1,0 +1,10 @@
+But	0	1
+the	1	0
+heart	2	0
+of	0	1
+little	0	1
+Tad	2	0
+had	0	1
+been	0	1
+broken	2	2
+.	NA	NA

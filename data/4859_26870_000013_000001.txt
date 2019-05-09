@@ -1,0 +1,15 @@
+Oh	2	0
+,	NA	NA
+Mary	2	0
+,	NA	NA
+don't	0	1
+remind	1	1
+me	0	0
+of	0	0
+it	0	2
+!	NA	NA
+and	0	0
+again	2	0
+he	0	1
+flushed	2	2
+.	NA	NA

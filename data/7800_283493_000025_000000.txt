@@ -1,0 +1,13 @@
+Here's	2	0
+the	0	1
+place	2	2
+,	NA	NA
+Frank	2	0
+told	0	0
+them	0	1
+,	NA	NA
+a	0	0
+short	1	0
+time	0	0
+afterward	1	2
+.	NA	NA

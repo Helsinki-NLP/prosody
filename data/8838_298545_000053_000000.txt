@@ -1,0 +1,9 @@
+I	2	1
+said	1	0
+that	1	0
+he	0	0
+was	0	1
+a	0	0
+welter	1	0
+weight	2	2
+.	NA	NA

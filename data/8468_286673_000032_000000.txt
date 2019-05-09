@@ -1,0 +1,12 @@
+You	2	0
+just	0	1
+wait	2	0
+and	0	1
+see	2	0
+,	NA	NA
+said	1	2
+the	0	0
+Slow	2	0
+Little	0	1
+Turtle	1	2
+.	NA	NA

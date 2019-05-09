@@ -1,0 +1,9 @@
+But	0	0
+perhaps	1	1
+he	0	0
+could	0	0
+escape	1	2
+exposure	2	0
+after	0	0
+all	1	2
+.	NA	NA

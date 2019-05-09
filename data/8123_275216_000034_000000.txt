@@ -1,0 +1,6 @@
+But	0	0
+at	0	0
+last	2	2
+they	1	0
+came	1	2
+.	NA	NA

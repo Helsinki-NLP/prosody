@@ -1,0 +1,8 @@
+I	1	0
+never	2	0
+could	0	0
+hit	0	2
+the	0	0
+high	2	0
+notes	0	2
+.	NA	NA

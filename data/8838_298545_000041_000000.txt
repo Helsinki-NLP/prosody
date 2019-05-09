@@ -1,0 +1,8 @@
+Look	2	0
+at	0	0
+Barton's	2	1
+shoulders	1	1
+,	0	0
+mr	NA	NA
+Wilson	2	2
+.	NA	NA

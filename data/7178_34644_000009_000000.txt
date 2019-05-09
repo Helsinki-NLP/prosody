@@ -1,0 +1,17 @@
+The	0	0
+wapentake	2	2
+and	1	0
+the	0	0
+justice	1	0
+of	0	0
+the	0	0
+quorum	2	2
+approached	2	0
+Gwynplaine	0	1
+and	0	0
+took	1	0
+him	0	0
+by	0	0
+the	0	0
+arms	1	2
+.	NA	NA

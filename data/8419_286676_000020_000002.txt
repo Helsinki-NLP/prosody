@@ -1,0 +1,6 @@
+None	2	0
+of	0	0
+us	0	1
+Adders	0	0
+do	1	2
+.	NA	NA

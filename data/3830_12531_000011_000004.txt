@@ -1,0 +1,16 @@
+The	0	0
+days	2	1
+were	0	0
+always	0	0
+too	0	0
+short	1	2
+,	NA	NA
+and	1	0
+interest	1	0
+in	0	0
+our	0	0
+work	0	1
+was	0	0
+always	2	1
+unabated	1	2
+.	NA	NA

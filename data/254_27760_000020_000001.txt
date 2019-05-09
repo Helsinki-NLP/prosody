@@ -1,0 +1,16 @@
+The	0	0
+young	0	0
+lady	1	2
+,	NA	NA
+Olga	2	0
+Ignatyevna	2	2
+,	NA	NA
+Vanka's	2	0
+friend	2	2
+,	NA	NA
+busied	2	0
+herself	0	0
+most	1	0
+about	0	0
+it	0	2
+.	NA	NA

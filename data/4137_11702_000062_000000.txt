@@ -1,0 +1,9 @@
+It	1	0
+isn't	2	1
+Udo	1	0
+,	NA	NA
+I'm	0	1
+afraid	1	0
+,	NA	NA
+Father	2	2
+.	NA	NA

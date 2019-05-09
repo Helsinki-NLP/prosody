@@ -1,0 +1,14 @@
+I	0	0
+am	0	0
+afraid	2	0
+,	NA	NA
+little	0	1
+sister	2	2
+,	NA	NA
+she	1	0
+whispered	0	0
+for	0	1
+the	0	0
+third	1	0
+time	1	2
+.	NA	NA

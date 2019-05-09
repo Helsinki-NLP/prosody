@@ -1,0 +1,7 @@
+Montgomery	2	0
+looked	0	0
+at	0	0
+them	1	0
+in	0	2
+bewilderment	2	2
+.	NA	NA

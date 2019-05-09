@@ -1,0 +1,13 @@
+You	2	0
+great	0	0
+people	0	1
+always	2	0
+lose	0	0
+something	0	0
+by	0	0
+scandal	1	2
+,	NA	NA
+notwithstanding	2	0
+your	0	1
+millions	2	2
+.	NA	NA

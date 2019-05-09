@@ -1,0 +1,12 @@
+By	2	0
+the	0	0
+way	1	1
+,	NA	NA
+where	1	0
+is	0	1
+Will	1	0
+now	1	2
+?	NA	NA
+asked	1	1
+Bluff	2	2
+,	NA	NA

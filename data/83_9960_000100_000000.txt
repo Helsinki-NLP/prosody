@@ -1,0 +1,17 @@
+Well	2	0
+,	NA	NA
+said	0	1
+the	0	0
+ruffians	0	2
+,	NA	NA
+let's	2	1
+draw	2	0
+lots	1	2
+to	0	0
+see	0	0
+who	0	0
+shall	0	0
+go	0	0
+down	1	0
+first	1	2
+.	NA	NA

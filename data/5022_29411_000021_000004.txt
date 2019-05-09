@@ -1,0 +1,9 @@
+You	0	0
+will	0	0
+ask	2	1
+me	0	0
+who	1	2
+the	0	0
+person	2	1
+is	1	2
+.	NA	NA

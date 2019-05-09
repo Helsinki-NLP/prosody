@@ -1,0 +1,13 @@
+Dull	1	0
+clouds	2	2
+obscured	0	0
+the	0	0
+sun	1	0
+and	0	1
+furnished	1	0
+an	0	0
+illusion	0	0
+of	0	1
+crowding	2	1
+earthward	2	2
+.	NA	NA

@@ -1,0 +1,11 @@
+The	0	0
+men	1	0
+were	0	0
+hungry	1	2
+and	0	0
+set	0	0
+about	2	0
+building	0	1
+a	0	0
+fire	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+Lukashka	2	0
+was	0	1
+the	0	0
+first	2	1
+to	0	0
+break	1	1
+the	0	0
+silence	2	2
+.	NA	NA

@@ -1,0 +1,6 @@
+Mud	2	0
+Hens	0	1
+cannot	2	1
+bear	1	0
+Minks	1	2
+.	NA	NA

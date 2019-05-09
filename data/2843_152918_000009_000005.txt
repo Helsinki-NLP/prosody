@@ -1,0 +1,13 @@
+It	1	0
+was	0	0
+heavy	0	0
+going	2	2
+,	NA	NA
+though	1	0
+better	2	0
+than	0	0
+on	0	0
+the	0	1
+previous	0	0
+day	1	2
+.	NA	NA

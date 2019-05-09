@@ -1,0 +1,6 @@
+Jean	2	0
+Valjean	1	0
+began	0	1
+to	0	0
+laugh	2	2
+.	NA	NA

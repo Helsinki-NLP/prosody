@@ -1,0 +1,17 @@
+He	0	0
+erected	1	0
+great	0	0
+public	0	0
+buildings	1	2
+,	NA	NA
+which	1	0
+were	0	0
+not	1	0
+only	0	1
+useful	2	2
+but	2	0
+ornamental	1	1
+to	0	0
+the	0	0
+city	1	2
+.	NA	NA

@@ -1,0 +1,10 @@
+You	0	0
+will	2	0
+let	0	1
+me	0	0
+do	1	0
+it	0	1
+,	NA	NA
+won't	1	1
+you	2	2
+?	NA	NA

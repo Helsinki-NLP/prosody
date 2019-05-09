@@ -1,0 +1,9 @@
+You	1	0
+see	2	2
+some	2	0
+one	0	1
+pays	0	0
+me	0	0
+a	0	0
+visit	1	2
+.	NA	NA

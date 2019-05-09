@@ -1,0 +1,14 @@
+Suddenly	2	2
+a	0	0
+great	2	0
+noise	1	1
+was	0	0
+heard	1	0
+of	0	0
+laughter	1	1
+and	0	0
+shouting	2	1
+and	2	0
+merry	1	0
+making	0	2
+.	NA	NA

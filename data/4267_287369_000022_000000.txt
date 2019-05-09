@@ -1,0 +1,12 @@
+Then	0	0
+we'd	0	0
+better	1	0
+fasten	1	0
+the	0	1
+tent	0	0
+well	0	0
+down	2	2
+,	NA	NA
+called	2	1
+Tom	2	2
+.	NA	NA

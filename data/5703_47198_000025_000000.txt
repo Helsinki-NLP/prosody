@@ -1,0 +1,16 @@
+She	0	1
+departed	2	1
+with	0	0
+an	0	0
+injured	0	0
+air	2	2
+,	NA	NA
+and	1	0
+Juliet	1	0
+went	0	1
+to	0	0
+look	1	1
+for	0	0
+the	0	0
+consul	1	2
+.	NA	NA

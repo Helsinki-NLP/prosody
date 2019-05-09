@@ -1,0 +1,5 @@
+In	0	0
+this	0	0
+he	0	1
+excelled	2	2
+.	NA	NA

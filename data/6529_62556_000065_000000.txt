@@ -1,0 +1,16 @@
+Yes	2	1
+,	NA	NA
+answered	0	0
+the	0	0
+reporter	1	2
+,	NA	NA
+but	0	0
+now	2	0
+we	0	0
+have	0	1
+the	0	0
+right	2	0
+to	0	1
+be	0	0
+merciless	0	2
+!	NA	NA

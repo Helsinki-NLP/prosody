@@ -1,0 +1,6 @@
+Quick	2	0
+,	NA	NA
+in	0	0
+every	0	1
+direction	2	2
+!	NA	NA

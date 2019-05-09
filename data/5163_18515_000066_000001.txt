@@ -1,0 +1,14 @@
+Don't	1	0
+be	0	1
+sick	1	0
+,	NA	NA
+Grandpapa	2	2
+,	NA	NA
+she	2	0
+wailed	0	0
+,	NA	NA
+struggling	1	0
+with	0	1
+her	0	0
+tears	1	2
+.	NA	NA

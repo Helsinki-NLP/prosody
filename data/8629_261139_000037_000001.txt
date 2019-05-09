@@ -1,0 +1,8 @@
+You	0	1
+don't	2	0
+know	1	0
+what	0	1
+you	0	0
+are	0	1
+doing	2	2
+.	NA	NA

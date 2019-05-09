@@ -1,0 +1,7 @@
+He	0	0
+longed	2	0
+for	0	1
+conflict	2	1
+and	0	0
+accomplishment	2	2
+.	NA	NA

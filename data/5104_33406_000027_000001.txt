@@ -1,0 +1,10 @@
+Then	2	0
+he	0	1
+laughed	2	2
+as	0	0
+he	0	0
+looked	2	0
+at	0	0
+his	0	0
+men	1	2
+.	NA	NA

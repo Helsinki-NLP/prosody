@@ -1,0 +1,7 @@
+But	0	0
+why	1	0
+need	0	0
+I	0	0
+go	0	1
+farther	2	2
+?	NA	NA

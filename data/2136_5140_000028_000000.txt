@@ -1,0 +1,7 @@
+'Home	2	1
+,	NA	NA
+I	1	0
+mean	0	1
+,	NA	NA
+dear	1	2
+.	NA	NA

@@ -1,0 +1,6 @@
+Tomorrow	2	1
+,	NA	NA
+then	0	0
+,	NA	NA
+sire	1	2
+?	NA	NA

@@ -1,0 +1,7 @@
+And	1	0
+he	0	0
+went	1	1
+right	2	0
+on	0	1
+talking	2	2
+.	NA	NA

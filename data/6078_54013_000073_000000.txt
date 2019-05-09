@@ -1,0 +1,14 @@
+Stop	2	0
+a	0	0
+bit	0	0
+,	NA	NA
+said	0	1
+Fortunatus	1	2
+;	NA	NA
+what	2	0
+is	0	0
+this	0	1
+story	1	1
+mostly	0	0
+about	2	2
+?	NA	NA

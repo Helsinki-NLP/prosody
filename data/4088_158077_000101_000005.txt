@@ -1,0 +1,14 @@
+The	0	0
+women	2	0
+had	0	1
+stood	0	0
+as	0	1
+silent	2	1
+sentinels	2	2
+holding	2	0
+the	0	1
+President's	1	1
+own	0	0
+eloquent	1	0
+words	2	2
+.	NA	NA

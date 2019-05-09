@@ -1,0 +1,7 @@
+Rash	2	1
+,	NA	NA
+inconsiderate	0	1
+action	0	0
+quite	0	0
+another	2	2
+.	NA	NA

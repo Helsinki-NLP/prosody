@@ -1,0 +1,5 @@
+mrs	0	0
+Lewis	2	1
+stood	2	0
+up	1	2
+.	NA	NA

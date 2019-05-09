@@ -1,0 +1,11 @@
+She	0	0
+meant	2	0
+it	0	0
+to	0	1
+express	2	0
+Sibyl's	0	1
+extremity	2	1
+,	NA	NA
+you	0	0
+see	2	2
+.	NA	NA

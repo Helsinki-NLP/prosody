@@ -1,0 +1,12 @@
+She	0	0
+will	0	0
+never	2	1
+believe	0	1
+but	1	0
+what	0	0
+I	0	1
+did	1	0
+it	0	0
+on	0	2
+purpose	2	2
+.	NA	NA

@@ -1,0 +1,5 @@
+If	0	0
+we	1	0
+only	0	1
+could	2	2
+!	NA	NA

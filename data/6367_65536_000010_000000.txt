@@ -1,0 +1,13 @@
+What	1	0
+is	0	0
+over	0	0
+the	0	1
+hills	2	2
+?	NA	NA
+he	1	0
+had	0	0
+asked	0	1
+of	0	0
+his	0	0
+mother	1	2
+.	NA	NA

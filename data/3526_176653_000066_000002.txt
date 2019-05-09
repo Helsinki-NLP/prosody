@@ -1,0 +1,9 @@
+I	2	0
+reckon	0	1
+you	0	0
+don't	2	0
+know	0	1
+who	0	0
+I	1	0
+be	2	2
+?	NA	NA

@@ -1,0 +1,8 @@
+In	1	0
+a	0	1
+swampy	2	0
+place	0	2
+,	NA	NA
+coming	1	0
+along	1	2
+.	NA	NA

@@ -1,0 +1,15 @@
+Son	0	1
+in	0	0
+law	2	2
+.	NA	NA
+.	NA	NA
+.	NA	NA
+sinecure	2	0
+in	0	1
+the	0	0
+negro	1	1
+institution	1	2
+.	NA	NA
+.	NA	NA
+.	NA	NA
+.	NA	NA

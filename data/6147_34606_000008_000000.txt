@@ -1,0 +1,10 @@
+Though	0	0
+handsome	2	0
+,	NA	NA
+he	0	1
+belonged	2	1
+to	0	0
+the	0	0
+Ugly	1	0
+Club	1	2
+.	NA	NA

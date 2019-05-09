@@ -1,0 +1,10 @@
+We	0	0
+lived	2	1
+together	2	0
+twenty	0	1
+years	1	1
+,	NA	NA
+without	1	0
+any	0	1
+children	1	2
+.	NA	NA

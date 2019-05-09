@@ -1,0 +1,9 @@
+She	2	0
+isn't	0	0
+a	0	1
+sophomore	2	2
+,	NA	NA
+the	0	0
+president	1	0
+announced	0	2
+.	NA	NA

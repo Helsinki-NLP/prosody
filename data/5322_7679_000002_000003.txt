@@ -1,0 +1,6 @@
+The	0	1
+Cossacks	2	1
+received	0	1
+him	0	0
+coldly	1	2
+.	NA	NA

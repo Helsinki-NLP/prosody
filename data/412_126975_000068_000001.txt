@@ -1,0 +1,12 @@
+That	1	0
+Socialist	2	2
+would	0	0
+no	0	0
+more	1	0
+steal	1	0
+a	0	1
+diamond	2	1
+than	0	0
+a	0	0
+Pyramid	2	2
+.	NA	NA

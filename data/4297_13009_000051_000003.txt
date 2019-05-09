@@ -1,0 +1,10 @@
+They	0	0
+do	1	0
+murder	2	0
+people	0	2
+,	NA	NA
+you	0	0
+know	0	0
+,	NA	NA
+sometimes	1	2
+.	NA	NA

@@ -1,0 +1,14 @@
+Ah	2	1
+,	NA	NA
+she	1	0
+said	0	0
+,	NA	NA
+striving	1	0
+to	0	1
+suppress	0	0
+a	0	1
+sob	1	2
+,	NA	NA
+Forgive	2	0
+me	0	2
+!	NA	NA

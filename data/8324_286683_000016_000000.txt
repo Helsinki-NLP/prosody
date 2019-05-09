@@ -1,0 +1,7 @@
+'Fore	1	1
+I'd	2	0
+make	0	1
+such	2	0
+a	0	1
+fuss	1	2
+!	NA	NA

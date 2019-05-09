@@ -1,0 +1,11 @@
+After	2	0
+this	0	1
+strange	1	0
+exhibition	1	2
+the	0	0
+two	2	0
+ex	0	1
+emperors	0	1
+were	0	0
+beheaded	1	2
+.	NA	NA

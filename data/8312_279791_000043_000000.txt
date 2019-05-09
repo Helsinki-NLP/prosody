@@ -1,0 +1,10 @@
+I	2	0
+am	0	0
+a	0	1
+poor	1	0
+peasant	0	0
+girl	1	2
+,	NA	NA
+said	0	0
+Florina	1	2
+.	NA	NA

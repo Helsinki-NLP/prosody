@@ -1,0 +1,11 @@
+That	2	0
+is	0	0
+,	NA	NA
+if	0	1
+I	0	0
+ever	0	0
+happen	1	0
+to	0	2
+see	2	0
+him	1	2
+.	NA	NA

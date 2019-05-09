@@ -1,0 +1,14 @@
+I	0	0
+have	1	0
+only	0	1
+one	1	0
+other	0	0
+in	0	1
+my	0	0
+collection	1	0
+as	0	1
+rare	2	2
+,	NA	NA
+he	0	0
+said	2	2
+.	NA	NA

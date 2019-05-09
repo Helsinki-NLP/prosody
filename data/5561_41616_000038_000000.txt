@@ -1,0 +1,9 @@
+We	1	0
+shall	0	0
+win	2	2
+,	NA	NA
+said	0	0
+Miriam	2	0
+Nesbit	1	1
+confidently	2	2
+.	NA	NA

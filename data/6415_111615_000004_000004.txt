@@ -1,0 +1,10 @@
+I	1	0
+find	2	0
+a	0	1
+memorandum	1	2
+of	0	0
+it	0	0
+in	0	0
+my	0	1
+scrap	2	1
+book	1	2

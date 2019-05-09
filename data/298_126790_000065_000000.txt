@@ -1,0 +1,16 @@
+If	0	0
+them	1	0
+lights	2	1
+he	0	0
+spoke	2	0
+of	1	1
+were	0	0
+what	0	0
+was	0	0
+called	1	2
+northern	1	0
+lights	2	0
+in	0	1
+these	0	0
+parts	2	2
+?	NA	NA

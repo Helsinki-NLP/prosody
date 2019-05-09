@@ -1,0 +1,8 @@
+He's	1	0
+the	0	0
+most	1	1
+desperate	2	1
+lover	0	0
+in	0	0
+Araby	2	2
+.	NA	NA

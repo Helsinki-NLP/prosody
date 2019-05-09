@@ -1,0 +1,11 @@
+Such	2	0
+great	1	1
+things	1	1
+made	1	0
+him	0	0
+a	0	0
+mark	2	2
+for	0	0
+public	0	0
+admiration	2	2
+.	NA	NA

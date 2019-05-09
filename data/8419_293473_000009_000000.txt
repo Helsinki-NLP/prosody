@@ -1,0 +1,11 @@
+The	0	0
+Five	2	0
+Legged	1	1
+Walking	1	1
+Stick	1	0
+looked	0	1
+much	2	0
+like	0	1
+his	0	0
+sister	2	2
+.	NA	NA

@@ -1,0 +1,5 @@
+I	2	0
+was	0	1
+in	0	0
+China	2	2
+.	NA	NA

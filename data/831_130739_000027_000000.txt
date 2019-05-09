@@ -1,0 +1,16 @@
+I	0	0
+am	2	2
+,	NA	NA
+said	1	0
+Hoopdriver	1	1
+as	0	0
+calmly	1	0
+as	0	0
+possible	0	1
+,	NA	NA
+pulling	2	0
+at	0	1
+the	0	0
+insufficient	1	0
+moustache	1	2
+.	NA	NA

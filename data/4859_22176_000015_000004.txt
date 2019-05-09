@@ -1,0 +1,5 @@
+What	0	0
+a	2	0
+strange	1	1
+coincidence	1	2
+!	NA	NA

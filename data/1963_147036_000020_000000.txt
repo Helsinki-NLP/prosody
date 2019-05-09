@@ -1,0 +1,5 @@
+She	0	0
+shook	1	1
+her	0	0
+head	2	2
+.	NA	NA

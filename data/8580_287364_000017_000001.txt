@@ -1,0 +1,15 @@
+If	1	0
+he	2	0
+is	0	0
+like	0	1
+any	0	0
+others	1	0
+in	0	1
+the	0	0
+gang	1	1
+he	0	0
+is	0	0
+a	1	2
+desperate	2	1
+man	2	2
+.	NA	NA

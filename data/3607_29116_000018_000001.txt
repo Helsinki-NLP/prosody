@@ -1,0 +1,7 @@
+I	0	0
+have	2	0
+no	1	1
+concealments	2	1
+from	0	0
+you	0	2
+.	NA	NA

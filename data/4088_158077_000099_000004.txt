@@ -1,0 +1,8 @@
+People	2	1
+could	0	0
+not	1	1
+be	0	0
+arrested	1	0
+for	0	1
+picketing	2	2
+.	NA	NA

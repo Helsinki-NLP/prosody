@@ -1,0 +1,16 @@
+I	0	0
+should	1	0
+have	0	1
+thought	2	1
+she	2	0
+would	0	0
+have	0	1
+felt	2	0
+it	0	1
+more	2	1
+,	NA	NA
+said	1	0
+Lucy	1	1
+,	NA	NA
+perplexed	2	2
+.	NA	NA

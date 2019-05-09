@@ -1,0 +1,7 @@
+That	1	0
+comes	2	0
+from	0	1
+understanding	0	0
+and	0	1
+cooperation	2	2
+.	NA	NA

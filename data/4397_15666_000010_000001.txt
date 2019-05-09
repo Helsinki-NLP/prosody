@@ -1,0 +1,7 @@
+They	1	0
+are	0	0
+covered	2	0
+with	0	1
+common	1	0
+sunshine	0	2
+.	NA	NA

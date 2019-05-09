@@ -1,0 +1,13 @@
+I	0	0
+shall	1	0
+rise	2	0
+at	0	1
+six	2	0
+now	1	2
+,	NA	NA
+and	0	0
+come	2	0
+here	0	0
+at	0	1
+seven	2	2
+.	NA	NA

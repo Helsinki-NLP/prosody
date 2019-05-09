@@ -1,0 +1,9 @@
+And	2	0
+of	0	1
+course	2	1
+you	0	0
+told	2	1
+her	0	0
+I	0	1
+was	2	2
+.	NA	NA

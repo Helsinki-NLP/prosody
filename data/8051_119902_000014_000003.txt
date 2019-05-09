@@ -1,0 +1,10 @@
+Do	0	0
+not	2	0
+be	0	0
+the	0	1
+slave	2	1
+of	0	0
+old	1	1
+food	1	0
+habits	2	2
+.	NA	NA

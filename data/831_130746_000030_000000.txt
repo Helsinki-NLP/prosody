@@ -1,0 +1,12 @@
+Stephen	1	0
+was	0	0
+too	0	0
+surprised	1	0
+to	0	1
+say	1	0
+anything	0	0
+but	2	2
+Bourbon	2	0
+,	NA	NA
+sir	1	2
+?	NA	NA

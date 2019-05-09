@@ -1,0 +1,10 @@
+One	2	0
+thing	1	0
+always	0	1
+strikes	2	1
+me	0	0
+in	0	0
+reading	0	0
+your	0	1
+stories	2	2
+.	NA	NA

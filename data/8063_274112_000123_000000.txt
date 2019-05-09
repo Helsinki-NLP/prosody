@@ -1,0 +1,7 @@
+It	0	0
+is	0	0
+a	0	1
+very	1	0
+tempting	2	1
+one	2	2
+.	NA	NA

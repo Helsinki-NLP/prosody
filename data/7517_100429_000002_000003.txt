@@ -1,0 +1,15 @@
+For	1	1
+the	0	0
+pond	2	1
+is	0	0
+just	2	2
+a	0	0
+small	1	0
+artificial	0	0
+affair	1	1
+of	0	0
+cement	1	1
+,	NA	NA
+entirely	1	0
+unpretentious	1	2
+.	NA	NA

@@ -1,0 +1,13 @@
+Have	0	0
+you	0	0
+no	1	1
+pity	0	0
+for	0	0
+your	0	1
+child	2	2
+?	NA	NA
+she	0	0
+urged	2	1
+in	0	0
+agitation	1	2
+.	NA	NA

@@ -1,0 +1,9 @@
+I	0	0
+did	2	0
+what	0	0
+I	0	1
+could	2	1
+you	0	0
+saw	2	0
+me	0	2
+.	NA	NA

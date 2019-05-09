@@ -1,0 +1,17 @@
+You	0	0
+used	2	1
+to	0	0
+boast	2	0
+of	0	1
+doing	1	0
+nothing	0	0
+mean	1	1
+,	NA	NA
+but	0	0
+you	0	0
+are	2	1
+doing	0	0
+something	0	0
+mean	0	0
+tonight	2	2
+.	NA	NA

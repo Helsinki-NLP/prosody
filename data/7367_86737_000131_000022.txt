@@ -1,0 +1,5 @@
+The	0	0
+old	1	1
+man	0	1
+obeyed	2	2
+.	NA	NA

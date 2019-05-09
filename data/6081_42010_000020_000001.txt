@@ -1,0 +1,5 @@
+I	2	0
+don't	0	0
+understand	1	1
+you	0	2
+.	NA	NA

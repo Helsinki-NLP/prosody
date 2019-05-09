@@ -1,0 +1,14 @@
+And	0	0
+they	0	0
+shot	1	0
+at	0	1
+him	1	2
+and	0	0
+smote	2	0
+his	0	0
+horse	2	2
+so	0	0
+that	1	0
+he	0	1
+fell	2	2
+.	NA	NA

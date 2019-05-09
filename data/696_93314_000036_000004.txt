@@ -1,0 +1,9 @@
+Not	2	0
+even	0	1
+for	0	0
+you	2	2
+not	1	0
+even	0	0
+for	0	1
+you	1	2
+.	NA	NA

@@ -1,0 +1,9 @@
+There	1	0
+is	0	1
+no	2	0
+certainty	1	2
+in	0	0
+such	0	0
+a	0	1
+war	2	2
+.	NA	NA

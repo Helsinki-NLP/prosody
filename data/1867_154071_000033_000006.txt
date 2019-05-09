@@ -1,0 +1,5 @@
+Not	1	0
+you	1	1
+,	NA	NA
+Bill	2	2
+!	NA	NA

@@ -1,0 +1,6 @@
+And	0	1
+strange	1	0
+work	1	0
+it	0	1
+was	2	2
+!	NA	NA

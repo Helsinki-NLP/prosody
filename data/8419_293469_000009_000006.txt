@@ -1,0 +1,11 @@
+They	2	0
+even	0	0
+made	2	2
+some	0	0
+of	0	0
+them	0	0
+help	1	1
+do	0	0
+their	0	0
+work	2	2
+.	NA	NA

@@ -1,0 +1,16 @@
+A	0	0
+machine	2	0
+making	0	1
+cloth	2	0
+for	0	1
+next	0	0
+year	1	0
+is	0	1
+gratifying	1	1
+wants	2	1
+only	2	0
+in	0	0
+a	0	1
+metaphorical	2	0
+sense	1	2
+.	NA	NA

@@ -1,0 +1,6 @@
+Good	0	0
+old	1	1
+Roddy	1	2
+!	NA	NA
+Certainly	2	2
+.	NA	NA

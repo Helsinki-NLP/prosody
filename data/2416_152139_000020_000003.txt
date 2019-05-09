@@ -1,0 +1,7 @@
+A	0	0
+bit	0	0
+melodramatic	2	1
+,	NA	NA
+isn't	1	0
+it	2	2
+?	NA	NA

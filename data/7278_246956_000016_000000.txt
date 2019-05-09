@@ -1,0 +1,15 @@
+Oh	2	1
+,	NA	NA
+it's	2	0
+all	0	0
+right	0	1
+!	NA	NA
+will	0	0
+be	0	0
+at	2	1
+least	2	1
+,	NA	NA
+I	1	0
+am	0	0
+sure	1	2
+.	NA	NA

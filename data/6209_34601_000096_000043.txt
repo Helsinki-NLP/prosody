@@ -1,0 +1,8 @@
+Ah	2	2
+!	NA	NA
+vagabond	2	0
+with	0	0
+your	0	1
+vagabond	0	0
+child	1	2
+!	NA	NA

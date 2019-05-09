@@ -1,0 +1,5 @@
+At	1	0
+least	1	1
+a	0	0
+year	2	2
+.	NA	NA

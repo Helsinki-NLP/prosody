@@ -1,0 +1,12 @@
+I	0	0
+have	1	0
+written	2	0
+him	0	1
+three	0	0
+times	2	2
+and	0	0
+have	0	0
+had	0	0
+no	0	0
+word	2	2
+.	NA	NA

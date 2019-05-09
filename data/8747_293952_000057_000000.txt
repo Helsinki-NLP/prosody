@@ -1,0 +1,12 @@
+You	0	0
+would	1	0
+never	1	0
+have	1	0
+the	0	1
+pluck	2	2
+,	NA	NA
+said	1	0
+Lucy	0	0
+,	NA	NA
+quickly	1	2
+.	NA	NA

@@ -1,0 +1,4 @@
+Fuses	2	1
+and	0	0
+dynamite	2	2
+.	NA	NA

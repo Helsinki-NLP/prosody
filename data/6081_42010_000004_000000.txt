@@ -1,0 +1,9 @@
+Lecoq	2	1
+smiled	1	0
+as	0	0
+he	0	0
+went	0	0
+up	0	0
+the	0	1
+stairs	2	2
+.	NA	NA

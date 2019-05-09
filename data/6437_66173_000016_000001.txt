@@ -1,0 +1,13 @@
+Rodgers	2	1
+,	NA	NA
+as	0	0
+I	0	0
+understand	1	0
+it	0	0
+,	NA	NA
+is	0	1
+your	0	0
+second	1	1
+,	NA	NA
+Conway	2	2
+?	NA	NA

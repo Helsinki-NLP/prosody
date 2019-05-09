@@ -1,0 +1,10 @@
+Happily	2	2
+,	NA	NA
+she	0	0
+took	1	0
+the	0	0
+right	1	0
+stand	0	0
+at	0	1
+first	1	2
+.	NA	NA

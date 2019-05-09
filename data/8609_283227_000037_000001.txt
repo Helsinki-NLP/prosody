@@ -1,0 +1,16 @@
+I	1	0
+am	0	0
+not	2	1
+bound	1	0
+to	0	1
+sell	2	1
+except	0	0
+I	1	1
+please	0	0
+,	NA	NA
+and	0	1
+at	0	0
+my	2	0
+own	0	1
+price	2	2
+.	NA	NA

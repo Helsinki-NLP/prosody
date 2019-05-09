@@ -1,0 +1,7 @@
+Who	1	0
+,	NA	NA
+then	1	1
+,	NA	NA
+am	0	0
+I	2	2
+?	NA	NA

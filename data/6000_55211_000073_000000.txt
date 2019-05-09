@@ -1,0 +1,5 @@
+Not	2	1
+so	2	0
+her	0	1
+daughter	1	2
+.	NA	NA

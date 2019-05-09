@@ -1,0 +1,4 @@
+A	0	1
+hundred	2	0
+dollars	1	2
+?	NA	NA

@@ -1,0 +1,17 @@
+mr	2	0
+Baxter	0	1
+privately	1	1
+had	0	0
+no	0	0
+hope	2	0
+that	0	1
+they	0	0
+would	2	2
+,	NA	NA
+but	0	0
+esther	2	0
+hoped	1	1
+for	0	0
+the	0	0
+best	1	2
+.	NA	NA

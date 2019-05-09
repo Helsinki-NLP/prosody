@@ -1,0 +1,4 @@
+EDITH	1	1
+VAN	0	0
+DYNE	2	2
+.	NA	NA

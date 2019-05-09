@@ -1,0 +1,6 @@
+Why	1	0
+mr	1	0
+Cropper	2	2
+Changed	2	1
+His	0	0
+Mind	1	2

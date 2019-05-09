@@ -1,0 +1,6 @@
+So	2	0
+he	0	1
+steered	2	1
+for	1	0
+it	0	2
+.	NA	NA

@@ -1,0 +1,17 @@
+One	1	0
+takes	0	0
+up	0	1
+a	0	0
+fresh	2	0
+loan	0	0
+at	0	1
+the	0	0
+Tailors'	2	1
+Bank	1	1
+,	NA	NA
+for	0	0
+instance	1	2
+,	NA	NA
+replied	1	1
+Borg	2	2
+.	NA	NA

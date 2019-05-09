@@ -1,0 +1,6 @@
+No	2	1
+,	NA	NA
+you	0	0
+were	0	0
+asleep	1	2
+.	NA	NA

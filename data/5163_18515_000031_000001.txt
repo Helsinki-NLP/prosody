@@ -1,0 +1,13 @@
+Why	1	0
+,	NA	NA
+that's	2	1
+one	1	0
+of	0	0
+the	0	1
+things	0	0
+I	2	1
+specially	2	0
+wanted	0	1
+to	0	0
+see	1	2
+.	NA	NA

@@ -1,0 +1,14 @@
+It	0	0
+is	0	0
+a	0	0
+sort	2	0
+of	0	2
+moral	2	0
+laziness	1	1
+masquerading	0	1
+as	0	0
+affection	1	2
+.	NA	NA
+.	NA	NA
+.	NA	NA
+.	NA	NA

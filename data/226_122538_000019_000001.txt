@@ -1,0 +1,4 @@
+Here	2	0
+,	NA	NA
+somebody	0	2
+!	NA	NA

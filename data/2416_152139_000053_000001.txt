@@ -1,0 +1,12 @@
+Your	0	1
+bank	1	0
+was	0	0
+robbed	2	2
+to	0	0
+night	2	0
+of	0	1
+one	0	0
+hundred	1	1
+thousand	1	1
+dollars	1	2
+.	NA	NA

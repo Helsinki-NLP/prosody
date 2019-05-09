@@ -1,0 +1,6 @@
+Innocence	2	1
+is	0	0
+higher	2	0
+than	0	1
+virtue	1	2
+.	NA	NA

@@ -1,0 +1,14 @@
+But	1	0
+neither	2	0
+gentleman	0	0
+wished	0	2
+to	0	0
+break	1	0
+off	2	0
+with	0	2
+a	0	0
+harsh	2	0
+and	0	1
+bare	1	0
+decision	0	2
+.	NA	NA

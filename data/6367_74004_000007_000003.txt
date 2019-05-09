@@ -1,0 +1,14 @@
+He	0	0
+was	1	1
+so	2	0
+handsome	1	2
+,	NA	NA
+we	0	0
+didn't	0	1
+see	0	0
+how	0	0
+she	0	0
+could	0	1
+help	2	0
+it	1	2
+.	NA	NA

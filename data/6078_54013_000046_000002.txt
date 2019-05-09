@@ -1,0 +1,14 @@
+There	2	1
+!	NA	NA
+cried	1	0
+the	0	1
+comrade	1	2
+,	NA	NA
+that	2	0
+is	0	1
+your	0	0
+reward	1	1
+for	0	0
+your	1	0
+service	1	2
+!	NA	NA

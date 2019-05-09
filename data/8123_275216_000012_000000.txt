@@ -1,0 +1,17 @@
+If	1	0
+you	2	0
+are	0	0
+not	0	1
+pleased	2	0
+with	0	1
+me	0	0
+,	NA	NA
+you	0	0
+can	0	1
+go	2	2
+,	NA	NA
+answered	1	0
+the	0	0
+Oak	0	1
+proudly	1	2
+.	NA	NA

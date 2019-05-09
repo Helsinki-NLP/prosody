@@ -1,0 +1,15 @@
+But	0	0
+why	2	0
+should	0	1
+I	0	0
+dwell	2	1
+upon	0	0
+the	0	0
+incidents	0	1
+that	0	0
+followed	2	1
+this	0	0
+last	2	1
+overwhelming	1	1
+event	1	2
+?	NA	NA

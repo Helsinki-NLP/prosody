@@ -1,0 +1,9 @@
+She	0	0
+had	2	0
+the	0	1
+self	2	1
+possession	2	0
+of	0	1
+a	0	0
+goddess	1	2
+.	NA	NA

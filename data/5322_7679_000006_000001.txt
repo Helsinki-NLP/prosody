@@ -1,0 +1,6 @@
+'He	0	0
+is	0	0
+my	0	1
+kunak	2	2
+.	NA	NA
+'	NA	NA

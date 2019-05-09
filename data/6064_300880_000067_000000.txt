@@ -1,0 +1,9 @@
+Stupid	2	0
+of	0	0
+me	1	2
+,	NA	NA
+confessed	1	0
+Harmon	1	1
+,	NA	NA
+grinning	1	2
+.	NA	NA

@@ -1,0 +1,16 @@
+NOTE	2	1
+.	NA	NA
+If	0	0
+your	0	0
+druggist	2	1
+does	0	0
+not	2	0
+have	0	0
+these	0	1
+goods	1	1
+,	NA	NA
+send	1	0
+price	2	1
+to	0	0
+us	2	2
+.	NA	NA

@@ -1,0 +1,8 @@
+Of	0	0
+course	0	0
+I	2	0
+am	0	2
+,	NA	NA
+declared	1	0
+Scrapper	1	2
+.	NA	NA

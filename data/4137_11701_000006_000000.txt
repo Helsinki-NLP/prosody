@@ -1,0 +1,12 @@
+All	2	0
+right	1	1
+,	NA	NA
+we	0	0
+won't	1	1
+hurt	1	0
+her	0	0
+,	NA	NA
+we'll	0	1
+humour	1	0
+her	1	2
+.	NA	NA

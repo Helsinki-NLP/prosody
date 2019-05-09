@@ -1,0 +1,5 @@
+And	2	0
+so	0	0
+it	0	1
+proved	2	2
+.	NA	NA

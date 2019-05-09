@@ -1,0 +1,15 @@
+For	0	0
+an	1	0
+instant	0	1
+she	0	0
+lost	1	1
+their	0	0
+steady	1	1
+glare	2	2
+and	0	0
+then	1	0
+she	0	0
+found	1	1
+her	0	0
+voice	2	2
+.	NA	NA

@@ -1,0 +1,12 @@
+Oh	2	1
+!	NA	NA
+Elsewhere	2	2
+!	NA	NA
+Conseil	1	0
+put	0	0
+in	0	1
+,	NA	NA
+shaking	0	0
+his	0	0
+head	1	2
+.	NA	NA

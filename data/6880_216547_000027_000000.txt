@@ -1,0 +1,17 @@
+Such	2	0
+,	NA	NA
+gentlemen	1	2
+,	NA	NA
+is	1	0
+the	0	0
+object	1	0
+of	0	1
+the	0	0
+memoir	2	2
+that	1	0
+I	2	1
+offer	2	0
+you	0	1
+to	0	0
+day	1	2
+.	NA	NA

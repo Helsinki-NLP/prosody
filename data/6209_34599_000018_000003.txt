@@ -1,0 +1,7 @@
+He	0	0
+had	0	0
+arrived	2	1
+somewhere	1	0
+at	0	1
+last	1	2
+.	NA	NA

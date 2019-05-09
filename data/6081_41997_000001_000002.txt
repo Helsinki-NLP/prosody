@@ -1,0 +1,17 @@
+Hence	2	2
+,	NA	NA
+the	0	0
+driver's	2	0
+hope	0	0
+of	0	1
+finding	1	0
+them	0	0
+in	0	1
+the	0	0
+Rue	1	0
+de	0	0
+Bourgogne	1	1
+was	0	0
+purely	2	1
+chimerical	2	2
+.	NA	NA

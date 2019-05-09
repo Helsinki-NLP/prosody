@@ -1,0 +1,11 @@
+I	0	0
+don't	1	0
+think	2	0
+mr	0	1
+Cropper	1	0
+would	0	1
+steal	2	2
+,	NA	NA
+protested	2	0
+esther	1	2
+.	NA	NA

@@ -1,0 +1,10 @@
+All	2	0
+made	0	0
+way	1	0
+for	0	1
+me	0	0
+with	0	0
+a	0	1
+silent	1	1
+respect	2	2
+.	NA	NA

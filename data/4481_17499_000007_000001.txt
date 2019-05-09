@@ -1,0 +1,4 @@
+They	1	0
+fairly	1	1
+danced	1	2
+.	NA	NA

@@ -1,0 +1,13 @@
+I	2	0
+saw	0	0
+that	0	1
+same	0	0
+shore	0	0
+line	1	2
+,	NA	NA
+but	1	0
+the	0	0
+people	1	0
+had	0	1
+vanished	1	2
+.	NA	NA

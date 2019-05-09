@@ -1,0 +1,10 @@
+Of	2	1
+course	2	1
+they	0	0
+don't	0	0
+live	0	0
+on	0	1
+buds	2	0
+and	0	1
+blossoms	2	2
+.	NA	NA

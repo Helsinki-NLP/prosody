@@ -1,0 +1,13 @@
+Now	2	0
+,	NA	NA
+what	0	0
+do	0	0
+you	0	2
+think	0	0
+of	0	0
+Miss	0	1
+Eleanor	2	1
+?	NA	NA
+cried	1	1
+Nora	2	2
+.	NA	NA

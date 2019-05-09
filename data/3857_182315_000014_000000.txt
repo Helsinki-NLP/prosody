@@ -1,0 +1,12 @@
+Yes	2	0
+,	NA	NA
+I	0	0
+said	1	2
+,	NA	NA
+those	2	0
+for	0	0
+example	1	0
+are	0	0
+distinctively	0	1
+simian	1	2
+.	NA	NA

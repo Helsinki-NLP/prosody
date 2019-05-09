@@ -1,0 +1,15 @@
+There	2	1
+is	2	0
+a	0	1
+wonderful	0	0
+amount	1	0
+of	0	1
+sustenance	1	1
+in	0	0
+the	0	1
+first	2	1
+few	0	0
+words	1	0
+of	0	1
+love	2	2
+.	NA	NA

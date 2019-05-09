@@ -1,0 +1,6 @@
+That	2	1
+question	1	0
+was	0	1
+a	0	0
+stumper	1	2
+.	NA	NA

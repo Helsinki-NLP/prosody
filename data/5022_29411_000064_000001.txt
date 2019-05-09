@@ -1,0 +1,7 @@
+A	0	0
+dark	2	1
+flush	1	1
+discolored	2	1
+her	0	0
+face	2	2
+.	NA	NA

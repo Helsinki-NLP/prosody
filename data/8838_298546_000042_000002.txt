@@ -1,0 +1,5 @@
+Do	0	1
+you	0	0
+still	2	1
+insist	2	2
+?	NA	NA

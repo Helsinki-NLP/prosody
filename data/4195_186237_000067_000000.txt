@@ -1,0 +1,10 @@
+Seven	1	0
+dollars	2	0
+and	0	1
+forty	0	0
+two	0	1
+cents	2	2
+,	NA	NA
+she	0	0
+announced	1	2
+.	NA	NA

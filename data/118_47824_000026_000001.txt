@@ -1,0 +1,9 @@
+Her	1	0
+pictures	2	0
+are	0	0
+in	0	1
+most	1	0
+of	0	0
+the	0	1
+papers	2	2
+.	NA	NA

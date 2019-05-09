@@ -1,0 +1,4 @@
+Where	1	0
+it	0	1
+went	2	2
+?	NA	NA

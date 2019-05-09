@@ -1,0 +1,16 @@
+Those	2	0
+who	0	1
+hold	1	0
+the	0	1
+property	2	1
+think	0	0
+so	0	0
+too	2	2
+,	NA	NA
+and	0	0
+so	2	0
+far	0	1
+it	0	0
+is	0	0
+fortunate	1	2
+.	NA	NA

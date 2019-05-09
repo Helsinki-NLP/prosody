@@ -1,0 +1,10 @@
+What	1	0
+a	0	0
+rude	0	1
+person	0	0
+she	1	0
+is	1	2
+!	NA	NA
+they	1	0
+said	2	2
+.	NA	NA

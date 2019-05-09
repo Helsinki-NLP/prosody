@@ -1,0 +1,6 @@
+Then	1	0
+she	0	0
+saw	1	0
+the	0	2
+pool	2	2
+.	NA	NA

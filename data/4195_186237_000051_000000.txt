@@ -1,0 +1,17 @@
+Of	0	1
+course	2	1
+;	NA	NA
+but	0	0
+don't	2	0
+spoil	1	0
+the	0	0
+lace	1	1
+curtains	1	1
+,	NA	NA
+dear	0	0
+,	NA	NA
+answered	1	1
+Patsy	1	0
+,	NA	NA
+mischievously	2	2
+.	NA	NA

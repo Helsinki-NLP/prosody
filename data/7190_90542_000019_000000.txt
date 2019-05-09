@@ -1,0 +1,14 @@
+No	2	0
+,	NA	NA
+it	0	0
+runs	1	1
+beside	1	1
+the	0	0
+road	2	0
+for	0	1
+two	0	0
+or	0	1
+three	0	0
+hundred	0	1
+yards	2	2
+.	NA	NA

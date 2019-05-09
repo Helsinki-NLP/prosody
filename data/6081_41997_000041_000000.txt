@@ -1,0 +1,15 @@
+Many	2	0
+thanks	1	1
+for	0	0
+your	0	0
+kindness	1	1
+,	NA	NA
+said	0	0
+she	1	2
+,	NA	NA
+but	2	0
+you	0	0
+can	0	0
+keep	1	0
+it	0	2
+.	NA	NA

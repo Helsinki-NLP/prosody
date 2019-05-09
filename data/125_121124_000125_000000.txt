@@ -1,0 +1,7 @@
+Then	2	0
+it	0	1
+will	0	0
+be	0	0
+to	0	1
+morrow	2	2
+.	NA	NA

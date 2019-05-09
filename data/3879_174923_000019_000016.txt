@@ -1,0 +1,12 @@
+He	0	0
+had	2	1
+certainly	2	1
+sighed	1	2
+for	0	0
+the	0	0
+gauds	2	1
+which	0	0
+he	0	0
+had	0	0
+left	0	2
+.	NA	NA

@@ -1,0 +1,8 @@
+They	1	0
+contend	1	1
+for	0	0
+a	0	0
+sum	0	1
+of	0	0
+money	2	2
+.	NA	NA

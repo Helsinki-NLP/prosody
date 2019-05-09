@@ -1,0 +1,9 @@
+They	0	0
+shall	2	0
+not	1	1
+keep	1	0
+me	0	1
+here	1	0
+by	1	1
+force	1	2
+.	NA	NA

@@ -1,0 +1,4 @@
+No	0	0
+ladies	0	1
+here	2	2
+?	NA	NA

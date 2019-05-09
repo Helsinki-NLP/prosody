@@ -1,0 +1,8 @@
+Are	0	0
+there	1	1
+women	2	2
+or	1	0
+are	0	0
+there	0	1
+not	2	2
+?	NA	NA

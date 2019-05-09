@@ -1,0 +1,13 @@
+At	0	0
+first	2	0
+they	0	1
+corresponded	2	2
+,	NA	NA
+then	0	0
+the	0	0
+letters	1	0
+began	0	0
+to	0	1
+grow	1	1
+fewer	1	2
+.	NA	NA

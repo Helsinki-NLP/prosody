@@ -1,0 +1,17 @@
+She	0	0
+scarcely	2	0
+tasted	1	0
+of	0	1
+her	0	0
+offering	1	1
+herself	2	2
+,	NA	NA
+but	1	0
+gave	0	0
+it	0	0
+all	1	0
+away	0	0
+to	0	1
+the	0	0
+poor	2	2
+.	NA	NA

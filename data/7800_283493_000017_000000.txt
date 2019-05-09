@@ -1,0 +1,5 @@
+Bluff	2	1
+turned	1	1
+to	0	0
+Frank	1	2
+.	NA	NA

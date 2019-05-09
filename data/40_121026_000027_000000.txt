@@ -1,0 +1,3 @@
+But	0	1
+light	2	2
+?	NA	NA

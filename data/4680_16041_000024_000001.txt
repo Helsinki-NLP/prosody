@@ -1,0 +1,8 @@
+There	2	0
+the	0	1
+glance	1	1
+fell	2	0
+into	0	1
+an	0	0
+abyss	2	2
+.	NA	NA

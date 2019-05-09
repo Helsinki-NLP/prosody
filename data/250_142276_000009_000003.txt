@@ -1,0 +1,6 @@
+I	0	0
+don't	2	0
+like	1	0
+shoppy	0	1
+people	2	2
+.	NA	NA

@@ -1,0 +1,17 @@
+A	0	1
+bell	2	0
+rang	0	2
+,	NA	NA
+and	0	0
+he	0	0
+made	1	0
+a	0	0
+leap	0	0
+away	1	1
+before	0	0
+Cedric	1	0
+had	0	1
+time	1	0
+to	0	1
+speak	2	2
+.	NA	NA

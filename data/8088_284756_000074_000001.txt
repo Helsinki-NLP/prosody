@@ -1,0 +1,6 @@
+Don't	0	0
+you	0	0
+see	1	1
+,	NA	NA
+Taylor	2	2
+?	NA	NA

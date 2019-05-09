@@ -1,0 +1,10 @@
+The	0	0
+car	1	0
+stopped	2	2
+at	0	0
+the	0	0
+entrance	1	0
+of	0	0
+the	0	1
+court	1	2
+.	NA	NA

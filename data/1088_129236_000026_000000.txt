@@ -1,0 +1,17 @@
+But	1	0
+this	2	0
+dream	0	0
+of	0	0
+love	1	2
+,	NA	NA
+though	2	0
+beautiful	2	2
+,	NA	NA
+is	1	0
+only	0	0
+one	1	0
+scene	0	1
+in	0	0
+our	0	0
+play	2	2
+.	NA	NA

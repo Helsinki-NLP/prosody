@@ -1,0 +1,10 @@
+They'll	2	0
+be	0	1
+local	2	1
+men	0	0
+,	NA	NA
+I	0	0
+have	0	1
+nae	0	0
+doubt	2	2
+.	NA	NA

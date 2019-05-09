@@ -1,0 +1,17 @@
+The	0	0
+gown	2	0
+had	0	1
+fallen	1	0
+away	1	0
+from	0	1
+her	0	0
+breast	2	0
+and	0	1
+showed	2	0
+the	0	1
+convulsive	2	0
+fluttering	1	0
+of	0	1
+her	0	0
+heart	2	2
+.	NA	NA

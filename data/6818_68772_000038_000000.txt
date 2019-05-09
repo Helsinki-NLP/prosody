@@ -1,0 +1,6 @@
+And	2	0
+Uncle	0	1
+john	0	0
+was	0	1
+right	2	2
+.	NA	NA

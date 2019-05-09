@@ -1,0 +1,5 @@
+He	0	0
+can	0	1
+catch	1	0
+up	2	2
+.	NA	NA

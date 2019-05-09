@@ -1,0 +1,9 @@
+But	0	0
+I'm	2	1
+glad	2	0
+to	0	2
+think	0	0
+of	0	0
+getting	0	1
+home	1	2
+.	NA	NA

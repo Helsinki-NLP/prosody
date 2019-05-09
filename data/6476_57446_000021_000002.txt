@@ -1,0 +1,14 @@
+Since	1	0
+that	1	0
+time	1	0
+she	0	1
+has	1	0
+been	0	0
+fretting	1	0
+and	0	1
+pining	2	1
+and	0	0
+starving	2	1
+for	0	0
+love	2	2
+.	NA	NA

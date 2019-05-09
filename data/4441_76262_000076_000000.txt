@@ -1,0 +1,4 @@
+Is	1	0
+she	0	1
+hurt	2	2
+?	NA	NA

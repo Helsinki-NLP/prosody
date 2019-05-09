@@ -1,0 +1,10 @@
+If	0	0
+he	0	0
+did	2	0
+n't	0	1
+steal	2	0
+it	0	1
+,	NA	NA
+who	0	0
+did	2	2
+?	NA	NA

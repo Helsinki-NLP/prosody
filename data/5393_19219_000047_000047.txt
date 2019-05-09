@@ -1,0 +1,6 @@
+These	2	0
+friends	1	1
+are	1	0
+our	0	0
+angels	0	2
+.	NA	NA

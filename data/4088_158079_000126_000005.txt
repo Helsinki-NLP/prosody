@@ -1,0 +1,8 @@
+But	0	0
+why	2	0
+not	0	1
+be	1	1
+among	1	0
+the	0	1
+first	2	2
+?	NA	NA

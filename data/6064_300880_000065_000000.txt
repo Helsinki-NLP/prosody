@@ -1,0 +1,7 @@
+Am	0	0
+I	2	1
+supposed	2	2
+to	0	0
+know	2	1
+him	0	2
+?	NA	NA

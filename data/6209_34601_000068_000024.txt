@@ -1,0 +1,10 @@
+Let	2	0
+the	0	1
+populace	1	0
+die	2	2
+,	NA	NA
+but	0	0
+not	1	0
+my	0	0
+wolf	0	2
+.	NA	NA

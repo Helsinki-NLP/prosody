@@ -1,0 +1,16 @@
+Moyne	2	1
+,	NA	NA
+eh	1	2
+?	NA	NA
+Carling	2	0
+was	0	0
+alert	1	1
+,	NA	NA
+quick	2	0
+now	1	1
+,	NA	NA
+jerking	2	0
+out	0	0
+his	0	0
+words	0	2
+.	NA	NA

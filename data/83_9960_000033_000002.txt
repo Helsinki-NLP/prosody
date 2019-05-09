@@ -1,0 +1,8 @@
+You	0	0
+are	1	1
+too	1	1
+good	2	1
+,	NA	NA
+you	0	0
+see	1	2
+!	NA	NA

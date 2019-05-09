@@ -1,0 +1,10 @@
+We	0	0
+cannot	2	1
+walk	2	1
+to	0	0
+the	0	1
+place	2	0
+I	0	0
+have	0	1
+described	2	2
+.	NA	NA

@@ -1,0 +1,12 @@
+A	1	0
+man	2	0
+might	1	2
+,	NA	NA
+but	1	0
+they'd	1	0
+twist	0	1
+you	0	0
+around	1	0
+their	0	1
+fingers	1	2
+.	NA	NA

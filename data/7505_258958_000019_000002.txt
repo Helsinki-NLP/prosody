@@ -1,0 +1,10 @@
+It	0	0
+is	1	1
+for	1	1
+that	2	0
+reason	0	1
+it	0	0
+is	0	0
+called	1	1
+wealth	2	2
+.	NA	NA

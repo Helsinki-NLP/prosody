@@ -1,0 +1,13 @@
+At	2	0
+the	0	1
+same	1	0
+time	2	0
+it	0	2
+gave	1	0
+him	2	0
+food	1	1
+for	0	0
+much	1	1
+serious	2	1
+thought	2	2
+.	NA	NA

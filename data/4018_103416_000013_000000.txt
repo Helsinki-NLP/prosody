@@ -1,0 +1,11 @@
+Tommy	2	2
+!	NA	NA
+Marion	2	0
+called	1	0
+,	NA	NA
+when	0	1
+she	0	0
+had	0	0
+settled	1	0
+herself	1	2
+.	NA	NA

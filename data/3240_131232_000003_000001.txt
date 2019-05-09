@@ -1,0 +1,6 @@
+Other	2	0
+indications	1	1
+of	0	0
+long	1	0
+duration	1	2
+.	NA	NA

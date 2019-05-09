@@ -1,0 +1,9 @@
+She	0	0
+may	1	0
+be	0	0
+an	0	1
+antiquated	0	0
+Eve	2	1
+for	0	0
+me	2	2
+.	NA	NA

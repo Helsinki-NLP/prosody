@@ -1,0 +1,4 @@
+Demand	2	0
+nothing	0	0
+more	0	2
+.	NA	NA

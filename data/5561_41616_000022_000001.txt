@@ -1,0 +1,14 @@
+I	0	0
+can't	2	0
+understand	0	1
+how	0	0
+Eleanor	2	0
+could	0	2
+be	0	0
+so	2	0
+rude	1	0
+and	0	1
+disagreeable	1	0
+to	0	0
+her	2	2
+.	NA	NA

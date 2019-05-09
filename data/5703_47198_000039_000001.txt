@@ -1,0 +1,5 @@
+In	1	0
+a	0	1
+few	0	0
+days	1	2
+.	NA	NA

@@ -1,0 +1,5 @@
+Come	2	1
+then	0	1
+at	0	0
+once	2	2
+.	NA	NA

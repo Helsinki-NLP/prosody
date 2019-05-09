@@ -1,0 +1,10 @@
+With	1	0
+regard	2	0
+to	0	1
+your	0	0
+husband	0	0
+and	0	0
+that	0	1
+Hare	1	1
+girl	2	2
+.	NA	NA

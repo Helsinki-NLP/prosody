@@ -1,0 +1,4 @@
+Stop	1	0
+advertising	1	0
+myself	2	2
+!	NA	NA

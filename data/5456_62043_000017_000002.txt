@@ -1,0 +1,13 @@
+I	0	0
+saw	1	0
+a	0	0
+light	1	0
+just	0	1
+ahead	0	0
+on	0	1
+the	0	0
+right	2	2
+shall	1	0
+we	0	1
+hail	2	2
+?	NA	NA

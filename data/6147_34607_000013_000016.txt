@@ -1,0 +1,12 @@
+It	0	0
+begins	2	1
+in	0	0
+an	0	0
+ass	2	2
+;	NA	NA
+it	0	0
+ends	1	1
+in	0	0
+a	0	0
+lion	1	2
+.	NA	NA

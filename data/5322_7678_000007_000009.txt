@@ -1,0 +1,11 @@
+He	0	1
+felt	1	1
+more	1	0
+frightened	2	2
+than	0	0
+he	0	0
+had	0	1
+ever	2	0
+done	0	1
+before	2	2
+.	NA	NA

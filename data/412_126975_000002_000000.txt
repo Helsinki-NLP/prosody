@@ -1,0 +1,3 @@
+The	0	1
+Flying	1	1
+Stars	2	2

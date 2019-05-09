@@ -1,0 +1,11 @@
+Still	2	0
+he	0	1
+pleaded	2	2
+,	NA	NA
+and	0	0
+still	2	0
+she	0	0
+ordered	0	0
+him	0	1
+away	2	2
+.	NA	NA

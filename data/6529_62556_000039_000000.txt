@@ -1,0 +1,13 @@
+What	2	1
+!	NA	NA
+can't	1	0
+we	0	0
+carry	1	0
+him	0	1
+to	0	0
+Granite	1	0
+House	0	0
+?	NA	NA
+asked	1	1
+Pencroft	2	2
+.	NA	NA

@@ -1,0 +1,17 @@
+There	0	1
+were	0	0
+persons	2	0
+there	1	2
+,	NA	NA
+seated	2	0
+on	0	1
+stone	1	0
+or	0	1
+coral	0	0
+chairs	1	2
+,	NA	NA
+padded	2	0
+with	0	0
+marine	0	0
+growths	2	2
+.	NA	NA

@@ -1,0 +1,6 @@
+Shall	2	0
+it	0	0
+not	1	1
+be	0	0
+so	1	2
+?	NA	NA

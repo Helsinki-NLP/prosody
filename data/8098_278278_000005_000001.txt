@@ -1,0 +1,6 @@
+Then	1	0
+the	0	0
+wake	0	1
+broke	1	0
+up	2	2
+.	NA	NA

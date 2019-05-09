@@ -1,0 +1,5 @@
+Come	0	0
+here	1	1
+,	NA	NA
+Falk	2	2
+!	NA	NA

@@ -1,0 +1,7 @@
+To	0	0
+Euralia	1	0
+then	0	2
+with	0	0
+all	2	0
+dispatch	0	2
+.	NA	NA

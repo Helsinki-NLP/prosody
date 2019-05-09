@@ -1,0 +1,6 @@
+He	0	1
+can't	2	1
+see	0	0
+you	0	0
+yet	2	2
+.	NA	NA

@@ -1,0 +1,13 @@
+When	1	0
+Governor	1	0
+Hobby	0	1
+of	2	2
+Texas	1	0
+issues	1	0
+a	0	0
+call	2	0
+for	0	0
+the	0	1
+state	1	0
+cavalry	2	2
+.	NA	NA

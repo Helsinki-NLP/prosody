@@ -1,0 +1,15 @@
+Now	2	0
+that	0	1
+another	1	0
+had	0	1
+expressed	2	1
+the	0	0
+idea	1	2
+Bobby	2	1
+fought	1	0
+it	0	1
+with	0	0
+all	1	0
+his	0	1
+might	2	2
+.	NA	NA

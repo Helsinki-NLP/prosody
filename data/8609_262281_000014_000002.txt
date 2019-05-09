@@ -1,0 +1,13 @@
+And	0	1
+,	NA	NA
+just	0	0
+then	2	1
+,	NA	NA
+Caroline	2	1
+came	0	0
+in	0	2
+,	NA	NA
+full	2	0
+of	0	0
+eagerness	0	2
+.	NA	NA

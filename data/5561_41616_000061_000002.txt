@@ -1,0 +1,6 @@
+Here	1	0
+we	0	0
+are	0	0
+at	0	2
+Stillman's	2	2
+.	NA	NA

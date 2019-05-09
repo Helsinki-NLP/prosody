@@ -1,0 +1,6 @@
+Shake	2	2
+!	NA	NA
+said	1	0
+Ronicky	0	0
+Doone	1	2
+.	NA	NA

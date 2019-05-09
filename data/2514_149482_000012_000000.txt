@@ -1,0 +1,12 @@
+You	0	0
+weren't	2	0
+present	2	2
+THEN	2	1
+,	NA	NA
+dearest	0	1
+,	0	0
+mrs	NA	NA
+Lowder	0	0
+richly	0	1
+concurred	2	2
+.	NA	NA

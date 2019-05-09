@@ -1,0 +1,13 @@
+She	0	0
+panted	0	1
+up	0	0
+anon	1	2
+,	NA	NA
+and	1	0
+dropped	2	1
+on	0	0
+the	0	0
+turf	1	1
+beside	2	1
+me	0	2
+.	NA	NA

@@ -1,0 +1,6 @@
+We	0	2
+may	1	0
+save	1	1
+her	0	0
+yet	2	2
+.	NA	NA

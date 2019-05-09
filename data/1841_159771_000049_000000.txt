@@ -1,0 +1,7 @@
+Trees	2	2
+!	NA	NA
+Master	1	0
+Meadow	0	0
+Mouse	0	0
+echoed	1	2
+.	NA	NA

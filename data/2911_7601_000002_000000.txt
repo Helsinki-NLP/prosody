@@ -1,0 +1,5 @@
+THE	0	1
+TELL	2	1
+TALE	0	0
+HEART	1	2
+.	NA	NA

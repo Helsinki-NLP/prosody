@@ -1,0 +1,9 @@
+Other	2	0
+stars	1	0
+in	0	0
+their	0	1
+courses	0	0
+governed	0	1
+Rebecca's	2	1
+doings	0	2
+.	NA	NA

@@ -1,0 +1,5 @@
+You've	0	0
+made	1	0
+it	0	1
+clear	2	2
+.	NA	NA

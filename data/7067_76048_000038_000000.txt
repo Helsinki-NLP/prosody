@@ -1,0 +1,7 @@
+So	0	0
+we	0	0
+just	1	1
+live	2	0
+like	1	1
+pigs	2	2
+.	NA	NA

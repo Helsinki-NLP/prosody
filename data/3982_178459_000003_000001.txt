@@ -1,0 +1,14 @@
+He's	1	0
+one	0	0
+of	0	1
+the	0	0
+sons	2	2
+,	NA	NA
+and	0	0
+there	1	0
+ain't	0	1
+but	0	0
+two	0	0
+left	2	1
+now	1	2
+.	NA	NA

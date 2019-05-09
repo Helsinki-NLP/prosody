@@ -1,0 +1,12 @@
+Patience	1	1
+Heatherstone	1	2
+,	NA	NA
+cried	2	0
+Edward	0	1
+,	NA	NA
+the	0	0
+toast	1	0
+of	0	0
+all	0	0
+London	1	2
+!	NA	NA

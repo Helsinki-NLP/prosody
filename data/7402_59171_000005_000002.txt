@@ -1,0 +1,11 @@
+He	0	0
+has	1	0
+courted	0	0
+unpopularity	1	1
+as	0	0
+other	1	0
+men	0	2
+have	0	0
+courted	1	0
+popularity	1	2
+.	NA	NA

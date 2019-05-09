@@ -1,0 +1,11 @@
+My	0	0
+pocketbook	2	1
+is	0	0
+not	1	0
+exactly	0	1
+fat	2	2
+,	NA	NA
+remarked	1	0
+Uncle	0	0
+john	2	2
+.	NA	NA

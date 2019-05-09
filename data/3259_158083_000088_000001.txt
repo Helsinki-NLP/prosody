@@ -1,0 +1,12 @@
+The	0	0
+answer	1	0
+was	0	0
+definite	1	1
+and	0	0
+final	2	2
+.	NA	NA
+Their	2	0
+resistance	0	2
+was	2	0
+superb	1	2
+.	NA	NA

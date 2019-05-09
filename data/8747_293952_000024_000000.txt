@@ -1,0 +1,11 @@
+He	0	0
+departed	1	1
+smiling	2	2
+,	NA	NA
+and	0	0
+they	1	0
+heard	0	0
+him	0	1
+gallop	0	0
+off	1	2
+.	NA	NA

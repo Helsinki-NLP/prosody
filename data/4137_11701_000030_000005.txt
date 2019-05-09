@@ -1,0 +1,17 @@
+Let	2	0
+me	0	1
+see	0	0
+,	NA	NA
+that	0	0
+must	1	1
+have	0	0
+been	1	1
+just	2	2
+the	0	0
+day	2	0
+before	0	1
+he	0	0
+arrived	1	1
+in	0	0
+Euralia	2	2
+.	NA	NA

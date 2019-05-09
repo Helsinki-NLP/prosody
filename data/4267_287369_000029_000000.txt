@@ -1,0 +1,17 @@
+Then	0	0
+we'd	0	0
+better	1	0
+have	0	0
+supper	1	2
+,	NA	NA
+remarked	1	1
+Tom	2	2
+,	NA	NA
+practically	2	2
+,	NA	NA
+and	1	0
+get	0	0
+ready	0	0
+for	1	0
+it	0	2
+.	NA	NA

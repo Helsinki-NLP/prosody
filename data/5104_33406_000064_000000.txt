@@ -1,0 +1,4 @@
+One	1	0
+day	1	0
+Eric	0	1
+said	2	2

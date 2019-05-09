@@ -1,0 +1,5 @@
+I	0	1
+know	0	0
+it	0	2
+well	2	2
+.	NA	NA

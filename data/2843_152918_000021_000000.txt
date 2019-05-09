@@ -1,0 +1,15 @@
+Our	2	1
+companions	2	1
+were	0	0
+no	0	0
+less	2	1
+pleased	1	2
+with	0	0
+the	0	0
+news	2	1
+we	0	0
+brought	2	1
+of	0	0
+our	1	0
+prospects	1	2
+.	NA	NA

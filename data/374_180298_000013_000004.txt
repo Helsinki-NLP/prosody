@@ -1,0 +1,10 @@
+I	0	0
+would	2	0
+have	0	1
+consented	2	1
+to	0	0
+anything	1	0
+except	1	1
+the	0	0
+latter	2	2
+.	NA	NA

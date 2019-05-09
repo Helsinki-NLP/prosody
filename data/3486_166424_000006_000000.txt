@@ -1,0 +1,5 @@
+CHAPTER	0	1
+five	2	1
+THE	0	0
+SMITING	2	1
+THING	1	2

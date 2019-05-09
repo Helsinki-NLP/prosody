@@ -1,0 +1,17 @@
+He	0	0
+held	2	0
+the	0	1
+throne	1	0
+barely	0	1
+three	0	0
+years	1	2
+,	NA	NA
+amid	1	0
+constant	2	1
+revolts	2	2
+at	0	0
+home	2	0
+and	0	1
+defeats	1	1
+abroad	2	2
+.	NA	NA

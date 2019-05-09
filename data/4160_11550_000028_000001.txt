@@ -1,0 +1,10 @@
+Are	2	0
+you	0	0
+like	1	1
+your	0	0
+sister	1	0
+in	0	0
+that	1	2
+,	NA	NA
+Theodora	2	2
+?	NA	NA

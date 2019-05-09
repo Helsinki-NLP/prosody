@@ -1,0 +1,9 @@
+'	NA	NA
+One	1	0
+couldn't	0	1
+be	0	0
+sure	2	2
+,	NA	NA
+he	0	0
+muttered	2	2
+.	NA	NA

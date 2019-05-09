@@ -1,0 +1,14 @@
+Come	2	0
+,	NA	NA
+Phronsie	0	2
+goodness	2	0
+me	2	2
+!	NA	NA
+as	0	0
+he	0	0
+saw	1	0
+how	0	0
+she	0	0
+was	0	0
+occupied	1	2
+.	NA	NA

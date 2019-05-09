@@ -1,0 +1,13 @@
+Please	1	0
+forgive	2	0
+me	0	1
+,	NA	NA
+colonel	1	2
+,	NA	NA
+but	0	0
+when	1	0
+did	0	0
+your	0	0
+wife	1	1
+die	1	2
+?	NA	NA

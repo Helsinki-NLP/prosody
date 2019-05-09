@@ -1,0 +1,11 @@
+Not	2	1
+so	2	1
+close	2	1
+,	NA	NA
+my	0	0
+good	0	0
+man	1	1
+!	NA	NA
+said	0	0
+she	1	2
+.	NA	NA

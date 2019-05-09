@@ -1,0 +1,9 @@
+All	2	0
+the	0	0
+rest	1	0
+is	0	1
+readily	1	1
+explained	1	0
+by	1	1
+psychology	2	2
+.	NA	NA

@@ -1,0 +1,8 @@
+I	0	0
+didn't	1	1
+know	0	0
+myself	1	1
+till	0	0
+long	1	0
+after	1	2
+.	NA	NA

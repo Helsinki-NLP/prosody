@@ -1,0 +1,4 @@
+She	1	1
+took	2	1
+it	0	2
+!	NA	NA

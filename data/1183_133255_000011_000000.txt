@@ -1,0 +1,17 @@
+BULLY	2	0
+SHINE	0	2
+.	NA	NA
+A	1	0
+waterproof	2	1
+paste	1	0
+polish	0	1
+for	0	0
+all	2	0
+kinds	0	0
+of	0	1
+black	1	0
+shoes	0	0
+and	0	1
+old	0	0
+rubbers	1	2
+.	NA	NA

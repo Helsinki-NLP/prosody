@@ -1,0 +1,8 @@
+peter	2	0
+was	0	1
+delighted	2	1
+to	0	0
+air	1	0
+his	0	1
+knowledge	1	2
+.	NA	NA

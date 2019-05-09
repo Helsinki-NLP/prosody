@@ -1,0 +1,8 @@
+But	1	0
+his	2	1
+were	0	0
+the	0	0
+fire	2	0
+of	0	1
+hell	2	2
+.	NA	NA

@@ -1,0 +1,8 @@
+I	0	0
+am	2	1
+,	NA	NA
+Madame	1	1
+,	NA	NA
+very	1	0
+respectfully	1	2
+,	NA	NA

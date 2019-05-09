@@ -1,0 +1,10 @@
+He	0	0
+interdicted	1	0
+wine	1	2
+,	NA	NA
+and	0	0
+portioned	1	0
+out	0	1
+the	0	0
+brandy	2	2
+.	NA	NA

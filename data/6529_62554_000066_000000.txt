@@ -1,0 +1,4 @@
+Quite	2	1
+my	1	0
+opinion	0	2
+.	NA	NA

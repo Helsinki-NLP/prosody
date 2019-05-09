@@ -1,0 +1,11 @@
+You	2	0
+are	0	1
+quick	2	0
+people	0	0
+like	0	1
+me	2	0
+,	NA	NA
+said	0	1
+the	0	0
+Wind	1	2
+.	NA	NA

@@ -1,0 +1,6 @@
+And	0	0
+then	2	0
+to	0	1
+an	0	0
+office	2	2
+?	NA	NA

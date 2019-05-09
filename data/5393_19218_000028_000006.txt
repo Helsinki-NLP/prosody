@@ -1,0 +1,12 @@
+This	2	1
+will	1	1
+prepare	2	0
+them	0	0
+for	0	1
+seeing	1	0
+a	0	1
+bit	2	0
+of	0	0
+the	1	1
+masquerade	1	2
+.	NA	NA

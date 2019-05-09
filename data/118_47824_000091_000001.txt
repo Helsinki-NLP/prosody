@@ -1,0 +1,4 @@
+The	0	1
+minister's	1	1
+arrived	2	2
+.	NA	NA

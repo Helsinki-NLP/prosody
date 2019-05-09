@@ -1,0 +1,6 @@
+So	2	0
+stood	0	1
+matters	1	0
+among	0	0
+us	1	2
+.	NA	NA

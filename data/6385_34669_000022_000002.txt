@@ -1,0 +1,8 @@
+Homo	2	0
+and	0	1
+Gwynplaine	1	2
+shortly	2	0
+reached	0	1
+the	0	0
+brink	1	2
+.	NA	NA

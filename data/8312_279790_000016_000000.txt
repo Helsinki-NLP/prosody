@@ -1,0 +1,9 @@
+And	1	0
+for	0	0
+what	1	0
+reason	1	2
+?	NA	NA
+asked	2	1
+King	0	0
+Charming	1	2
+.	NA	NA

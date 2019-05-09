@@ -1,0 +1,8 @@
+But	2	0
+you	0	0
+are	0	1
+so	1	1
+unkind	2	1
+to	0	0
+me	1	2
+!	NA	NA

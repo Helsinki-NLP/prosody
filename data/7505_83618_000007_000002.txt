@@ -1,0 +1,8 @@
+This	2	0
+they	1	0
+did	1	0
+in	0	1
+spite	1	0
+of	0	0
+history	1	2
+.	NA	NA

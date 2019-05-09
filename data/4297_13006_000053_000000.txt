@@ -1,0 +1,6 @@
+I	1	0
+am	0	1
+sure	2	0
+it	0	1
+is	1	2
+.	NA	NA

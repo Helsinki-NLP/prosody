@@ -1,0 +1,8 @@
+Fish	2	0
+was	0	1
+their	0	0
+main	0	0
+article	0	1
+of	0	0
+diet	2	2
+.	NA	NA

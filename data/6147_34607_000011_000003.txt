@@ -1,0 +1,4 @@
+France	2	1
+excludes	2	1
+them	0	2
+.	NA	NA

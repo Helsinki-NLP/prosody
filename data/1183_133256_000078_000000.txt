@@ -1,0 +1,6 @@
+Manufactured	2	1
+by	0	0
+OSCAR	1	1
+s	0	0
+RHOADS	2	2
+.	NA	NA

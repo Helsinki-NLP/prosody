@@ -1,0 +1,10 @@
+Was	0	0
+she	1	1
+tall	2	0
+or	0	0
+short	1	2
+,	NA	NA
+stout	2	0
+or	0	0
+slender	0	2
+?	NA	NA

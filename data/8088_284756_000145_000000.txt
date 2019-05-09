@@ -1,0 +1,6 @@
+I	1	0
+forgot	2	1
+time	1	0
+and	0	1
+space	1	2
+.	NA	NA

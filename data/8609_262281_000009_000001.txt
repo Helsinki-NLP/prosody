@@ -1,0 +1,10 @@
+My	1	0
+frock's	2	0
+on	1	2
+,	NA	NA
+and	0	0
+so	1	0
+is	0	0
+my	0	0
+pinafore	0	2
+.	NA	NA

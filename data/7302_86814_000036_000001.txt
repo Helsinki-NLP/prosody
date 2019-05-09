@@ -1,0 +1,7 @@
+Let	2	0
+us	0	1
+dispense	2	0
+with	0	1
+useless	0	0
+words	2	2
+.	NA	NA

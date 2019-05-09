@@ -1,0 +1,14 @@
+Yes	2	1
+;	NA	NA
+always	2	1
+,	NA	NA
+always	2	1
+,	NA	NA
+he	1	0
+replied	0	0
+,	NA	NA
+shaking	1	0
+his	0	1
+head	0	0
+sorrowfully	1	2
+.	NA	NA

@@ -1,0 +1,10 @@
+Please	2	0
+make	1	0
+it	0	0
+a	0	1
+point	2	2
+to	0	0
+be	1	0
+on	0	0
+hand	1	2
+.	NA	NA

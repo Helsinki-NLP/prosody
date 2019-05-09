@@ -1,0 +1,9 @@
+Food	2	1
+dumped	2	1
+directly	2	1
+into	0	0
+stomach	2	1
+feels	1	0
+like	0	1
+a	0	0
+ball	2	2

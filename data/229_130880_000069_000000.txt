@@ -1,0 +1,15 @@
+Do	0	0
+the	0	0
+prices	2	0
+of	0	0
+these	0	1
+pearls	2	1
+differ	0	0
+depending	0	0
+on	0	0
+their	0	1
+size	2	2
+?	NA	NA
+Conseil	1	0
+asked	1	2
+.	NA	NA

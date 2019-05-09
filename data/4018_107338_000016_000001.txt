@@ -1,0 +1,10 @@
+Their	1	0
+eyes	0	0
+had	0	1
+met	1	2
+hers	2	1
+were	0	0
+kind	1	0
+and	0	1
+calm	1	2
+.	NA	NA

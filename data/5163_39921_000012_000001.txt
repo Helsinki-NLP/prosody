@@ -1,0 +1,16 @@
+She	2	0
+could	0	0
+not	2	0
+believe	0	1
+that	0	0
+mr	1	0
+Cropper	2	0
+would	0	0
+carry	1	0
+his	0	1
+prejudices	2	0
+into	0	1
+a	0	0
+personal	1	1
+application	2	2
+.	NA	NA

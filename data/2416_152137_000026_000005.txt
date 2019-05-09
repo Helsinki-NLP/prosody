@@ -1,0 +1,16 @@
+It	0	0
+had	1	0
+come	0	0
+at	0	0
+last	1	2
+the	0	0
+pitcher	1	0
+had	0	0
+gone	1	0
+once	0	1
+too	0	0
+often	1	1
+to	0	0
+the	0	0
+well	1	2
+!	NA	NA

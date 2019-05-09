@@ -1,0 +1,6 @@
+No	2	0
+repast	1	1
+had	0	0
+been	0	0
+possible	2	2
+.	NA	NA

@@ -1,0 +1,10 @@
+The	0	0
+young	2	0
+man	0	0
+leaned	0	1
+forward	1	1
+,	NA	NA
+thoughtful	2	1
+and	0	1
+sad	2	2
+.	NA	NA

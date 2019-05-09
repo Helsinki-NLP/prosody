@@ -1,0 +1,6 @@
+It	1	0
+was	0	0
+a	0	1
+dark	2	1
+lantern	1	2
+.	NA	NA

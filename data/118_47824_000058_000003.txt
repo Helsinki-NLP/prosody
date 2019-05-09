@@ -1,0 +1,11 @@
+Your	0	0
+presence	2	1
+in	0	0
+the	0	0
+private	2	1
+staircase	1	1
+was	0	0
+the	0	0
+last	2	1
+straw	2	2
+.	NA	NA

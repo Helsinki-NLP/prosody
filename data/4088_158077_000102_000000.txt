@@ -1,0 +1,6 @@
+Doors	2	0
+opened	0	1
+and	0	0
+closed	1	1
+mysteriously	1	2
+.	NA	NA

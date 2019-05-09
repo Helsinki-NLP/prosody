@@ -1,0 +1,10 @@
+And	0	0
+then	2	1
+won't	2	0
+you	0	1
+keep	0	0
+it	0	1
+for	0	0
+me	1	2
+here	2	2
+?	NA	NA

@@ -1,0 +1,4 @@
+I	0	0
+looked	2	1
+back	1	2
+.	NA	NA

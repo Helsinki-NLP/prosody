@@ -1,0 +1,6 @@
+I	2	0
+regret	1	1
+the	0	0
+bride's	2	1
+garter	1	2
+.	NA	NA

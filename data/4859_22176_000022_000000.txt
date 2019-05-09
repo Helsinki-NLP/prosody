@@ -1,0 +1,12 @@
+No	2	0
+,	NA	NA
+it's	0	1
+only	0	0
+the	0	0
+unexpectedness	2	1
+of	0	0
+it	0	1
+,	NA	NA
+thought	0	0
+Pierre	1	2
+.	NA	NA

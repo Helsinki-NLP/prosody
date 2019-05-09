@@ -1,0 +1,11 @@
+I	2	0
+do	0	0
+hope	0	0
+his	0	1
+mind	1	0
+will	0	2
+soon	1	0
+be	0	0
+more	0	1
+composed	2	2
+.	NA	NA

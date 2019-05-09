@@ -1,0 +1,7 @@
+There's	0	0
+no	2	1
+bridegroom	2	1
+in	0	0
+that	2	0
+trap	2	2
+.	NA	NA

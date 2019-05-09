@@ -1,0 +1,7 @@
+The	0	0
+candle	2	1
+flickered	1	0
+and	0	1
+went	0	0
+out	2	2
+.	NA	NA

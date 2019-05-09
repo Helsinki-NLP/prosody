@@ -1,0 +1,7 @@
+You	0	0
+kill	0	0
+me	1	2
+!	NA	NA
+he	0	0
+said	2	2
+.	NA	NA

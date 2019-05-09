@@ -1,0 +1,11 @@
+We	0	1
+cannot	2	1
+be	0	1
+too	0	0
+cautious	1	0
+in	0	1
+adopting	2	0
+such	1	0
+a	0	1
+conclusion	2	2
+.	NA	NA

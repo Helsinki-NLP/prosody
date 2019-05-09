@@ -1,0 +1,10 @@
+I'll	1	0
+be	0	0
+stopping	2	0
+in	0	0
+the	0	0
+south	1	1
+with	0	0
+some	0	2
+friends	2	2
+.	NA	NA

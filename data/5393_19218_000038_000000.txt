@@ -1,0 +1,10 @@
+A	0	0
+laughter	2	1
+that	0	0
+is	0	0
+too	1	0
+cynical	1	1
+to	0	0
+be	0	0
+frank	2	2
+.	NA	NA

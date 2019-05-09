@@ -1,0 +1,8 @@
+Have	1	0
+you	0	0
+seen	1	1
+the	1	0
+intendant	1	0
+,	NA	NA
+Humphrey	2	2
+?	NA	NA

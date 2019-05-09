@@ -1,0 +1,11 @@
+Keep	0	0
+a	0	0
+box	2	1
+handy	1	1
+,	NA	NA
+it	0	0
+saves	1	1
+the	0	0
+doctor	2	0
+bill	2	2
+.	NA	NA

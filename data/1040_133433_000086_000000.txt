@@ -1,0 +1,8 @@
+Why	2	0
+can't	0	0
+you	0	2
+fly	2	0
+now	0	0
+,	NA	NA
+mother	1	2
+?	NA	NA

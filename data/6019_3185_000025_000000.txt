@@ -1,0 +1,5 @@
+Then	1	0
+came	2	2
+But	2	0
+enough	0	2
+!	NA	NA

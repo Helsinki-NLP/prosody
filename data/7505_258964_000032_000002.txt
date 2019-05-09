@@ -1,0 +1,17 @@
+In	0	0
+some	1	0
+cases	0	2
+powerful	2	1
+or	0	0
+wealthy	1	0
+men	1	2
+can	0	0
+bring	1	0
+about	0	0
+social	2	0
+changes	0	0
+in	0	1
+entirely	2	0
+legitimate	0	0
+ways	2	2
+.	NA	NA

@@ -1,0 +1,8 @@
+In	0	0
+your	2	0
+case	1	1
+,	NA	NA
+it	0	0
+won't	0	0
+matter	2	2
+.	NA	NA

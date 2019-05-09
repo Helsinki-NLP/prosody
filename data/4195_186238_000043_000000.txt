@@ -1,0 +1,4 @@
+For	1	0
+a	0	1
+fact	2	2
+.	NA	NA

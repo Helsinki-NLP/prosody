@@ -1,0 +1,15 @@
+You	0	0
+can	0	1
+stay	1	0
+here	2	1
+,	NA	NA
+said	1	2
+the	0	0
+boy	2	0
+,	NA	NA
+suddenly	0	0
+arousing	2	1
+from	0	0
+his	0	0
+apathy	2	2
+.	NA	NA

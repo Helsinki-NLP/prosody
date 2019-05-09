@@ -1,0 +1,16 @@
+Nor	2	0
+did	0	0
+he	0	1
+disdain	2	2
+so	2	0
+small	1	0
+a	0	1
+stream	1	1
+as	0	0
+the	0	0
+brook	2	0
+that	0	1
+crossed	1	1
+the	0	0
+meadow	2	2
+.	NA	NA

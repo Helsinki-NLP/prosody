@@ -1,0 +1,15 @@
+This	2	0
+will	0	1
+be	0	0
+overwhelming	1	1
+news	0	0
+to	0	0
+him	1	2
+who	2	0
+has	2	1
+cared	2	0
+for	0	0
+me	0	0
+since	0	0
+infancy	1	2
+.	NA	NA

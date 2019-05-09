@@ -1,0 +1,12 @@
+Now	2	0
+,	NA	NA
+gentlemen	0	2
+,	NA	NA
+I	1	0
+expect	2	0
+you've	0	1
+all	1	0
+got	0	1
+grand	2	0
+voices	0	2
+.	NA	NA

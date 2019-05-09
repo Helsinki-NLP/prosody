@@ -1,0 +1,13 @@
+Lord	2	1
+Conniston	2	0
+is	0	1
+too	0	0
+kind	1	0
+a	0	1
+man	1	0
+to	0	1
+behave	1	0
+in	0	1
+that	0	1
+way	2	2
+.	NA	NA

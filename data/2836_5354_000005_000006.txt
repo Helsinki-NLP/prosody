@@ -1,0 +1,7 @@
+Oh	2	0
+,	NA	NA
+reader	0	0
+,	NA	NA
+believe	1	1
+me	1	2
+!	NA	NA

@@ -1,0 +1,7 @@
+Pierre	1	0
+spoke	0	0
+rapidly	2	2
+and	0	0
+with	0	0
+animation	2	2
+.	NA	NA

@@ -1,0 +1,15 @@
+Her	1	0
+example	2	0
+was	0	1
+followed	2	2
+,	NA	NA
+until	0	0
+two	0	0
+thirds	2	0
+of	0	2
+the	0	0
+girls	2	1
+present	1	1
+were	0	0
+standing	2	2
+.	NA	NA

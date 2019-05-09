@@ -1,0 +1,10 @@
+I	1	0
+should	0	0
+hope	2	0
+to	0	1
+be	0	0
+back	2	2
+in	0	0
+the	0	0
+evening	1	2
+.	NA	NA

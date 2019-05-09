@@ -1,0 +1,11 @@
+I	1	0
+naturally	2	1
+shrunk	1	1
+back	2	0
+at	0	1
+this	0	0
+friendly	1	0
+piece	0	0
+of	0	1
+information	1	2
+.	NA	NA

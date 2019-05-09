@@ -1,0 +1,16 @@
+Usually	2	1
+many	1	0
+of	0	0
+these	0	2
+subtler	2	1
+utilities	1	1
+are	0	0
+overlooked	2	1
+and	0	0
+omitted	2	0
+from	0	1
+the	0	0
+recognized	1	0
+money	0	0
+income	2	2
+.	NA	NA

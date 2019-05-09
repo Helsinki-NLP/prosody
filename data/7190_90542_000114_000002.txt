@@ -1,0 +1,7 @@
+Why	0	0
+should	0	0
+a	0	0
+head	1	0
+be	0	1
+required	2	2
+?	NA	NA

@@ -1,0 +1,4 @@
+The	0	0
+cabman	2	1
+implored	2	2
+.	NA	NA

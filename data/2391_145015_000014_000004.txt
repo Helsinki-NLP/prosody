@@ -1,0 +1,7 @@
+Edward	2	0
+Cooper	0	1
+did	0	0
+not	0	0
+live	1	1
+undistinguished	1	2
+.	NA	NA

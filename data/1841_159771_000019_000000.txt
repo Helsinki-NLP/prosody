@@ -1,0 +1,11 @@
+And	0	0
+it	0	0
+wasn't	2	1
+long	1	1
+before	0	0
+Solomon	1	1
+Owl	2	1
+gave	0	0
+another	2	0
+start	0	2
+.	NA	NA

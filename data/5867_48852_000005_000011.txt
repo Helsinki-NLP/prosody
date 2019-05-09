@@ -1,0 +1,12 @@
+At	0	0
+any	2	1
+rate	0	0
+I	0	0
+have	0	0
+a	0	1
+right	2	0
+to	0	2
+tell	0	0
+her	0	1
+now	1	2
+.	NA	NA

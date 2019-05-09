@@ -1,0 +1,10 @@
+Augustine	2	1
+was	0	0
+eager	1	1
+for	0	0
+knowledge	2	2
+and	0	0
+eager	1	0
+for	0	0
+enjoyment	2	2
+.	NA	NA

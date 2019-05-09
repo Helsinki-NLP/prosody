@@ -1,0 +1,10 @@
+Leave	2	0
+us	0	1
+,	NA	NA
+my	0	0
+child	2	2
+,	NA	NA
+he	1	0
+would	0	0
+say	2	2
+.	NA	NA

@@ -1,0 +1,17 @@
+On	0	0
+the	0	0
+other	2	0
+hand	0	2
+,	NA	NA
+we	0	0
+know	2	0
+that	0	0
+a	0	1
+strong	1	0
+interpersonal	1	0
+relationship	0	1
+is	0	0
+necessary	1	1
+for	0	0
+hypnosis	1	2
+.	NA	NA

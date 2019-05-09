@@ -1,0 +1,5 @@
+Wanted	2	1
+,	NA	NA
+a	0	0
+Sempstress	1	2
+!	NA	NA

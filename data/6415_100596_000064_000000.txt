@@ -1,0 +1,5 @@
+Shall	1	0
+we	0	1
+tell	1	0
+her	2	2
+?	NA	NA

@@ -1,0 +1,10 @@
+Every	2	0
+one	0	1
+cannot	1	1
+be	0	0
+as	0	0
+happy	2	1
+as	0	0
+a	0	1
+lord	2	2
+.	NA	NA

@@ -1,0 +1,14 @@
+Our	1	0
+life	0	0
+has	0	0
+been	0	0
+joined	1	2
+,	NA	NA
+not	1	0
+by	1	0
+man	1	2
+,	NA	NA
+but	0	0
+by	0	1
+God	2	2
+.	NA	NA

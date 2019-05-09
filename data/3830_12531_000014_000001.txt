@@ -1,0 +1,7 @@
+I	0	0
+saw	2	0
+them	0	1
+selling	1	0
+at	0	1
+that	1	2
+.	NA	NA

@@ -1,0 +1,17 @@
+We	0	0
+all	2	1
+felt	1	0
+refreshed	1	2
+;	NA	NA
+so	1	0
+we	0	0
+started	1	0
+on	0	0
+the	0	1
+trail	2	0
+of	0	1
+those	1	0
+that	0	0
+got	0	0
+away	1	2
+.	NA	NA

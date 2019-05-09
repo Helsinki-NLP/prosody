@@ -1,0 +1,15 @@
+Not	2	1
+much	0	0
+matter	2	1
+indeed	1	1
+,	NA	NA
+for	1	0
+they	0	0
+were	0	0
+perfect	0	0
+enough	2	2
+in	2	0
+it	0	1
+before	1	0
+midnight	0	2
+.	NA	NA

@@ -1,0 +1,6 @@
+His	0	1
+dishonor	2	0
+reflects	1	1
+upon	0	0
+us	1	2
+.	NA	NA

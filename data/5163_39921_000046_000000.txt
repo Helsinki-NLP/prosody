@@ -1,0 +1,15 @@
+You'll	2	0
+leave	0	0
+the	0	1
+proof	2	0
+with	0	1
+me	0	0
+,	NA	NA
+won't	0	0
+you	1	2
+?	NA	NA
+said	1	0
+mr	0	0
+Cropper	0	0
+eagerly	1	2
+.	NA	NA

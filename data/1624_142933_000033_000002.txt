@@ -1,0 +1,14 @@
+She	1	0
+looked	0	1
+no	1	0
+more	1	0
+like	0	1
+beautiful	0	0
+Redcoat	2	0
+than	0	1
+did	0	0
+mrs	1	1
+Grosbeak	1	1
+like	0	0
+Rosebreast	2	2
+.	NA	NA

@@ -1,0 +1,13 @@
+Have	1	0
+you	0	0
+told	1	0
+me	0	0
+all	2	2
+?	NA	NA
+he	2	0
+asked	0	1
+presently	1	0
+,	NA	NA
+lifting	0	0
+them	1	2
+.	NA	NA

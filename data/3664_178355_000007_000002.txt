@@ -1,0 +1,14 @@
+The	0	0
+buffaloes	1	0
+separated	0	2
+;	NA	NA
+Comstock	2	1
+took	0	0
+the	0	0
+left	1	0
+bunch	0	1
+and	0	0
+I	0	0
+the	0	0
+right	1	2
+.	NA	NA

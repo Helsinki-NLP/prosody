@@ -1,0 +1,3 @@
+Levice	0	1
+slept	2	2
+.	NA	NA

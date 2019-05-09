@@ -1,0 +1,5 @@
+How	2	0
+wet	0	1
+you	0	0
+are	1	2
+!	NA	NA

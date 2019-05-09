@@ -1,0 +1,14 @@
+He	0	0
+had	2	0
+indeed	1	1
+been	0	0
+bumped	2	1
+and	0	0
+battered	2	0
+at	0	1
+an	0	0
+extraordinary	2	0
+number	0	1
+of	0	0
+points	2	2
+.	NA	NA

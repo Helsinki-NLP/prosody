@@ -1,0 +1,14 @@
+I	2	0
+do	0	0
+not	0	1
+know	2	0
+these	0	1
+foreign	0	0
+words	1	0
+of	0	1
+yours	2	2
+,	NA	NA
+said	0	0
+the	0	0
+Oak	0	2
+.	NA	NA

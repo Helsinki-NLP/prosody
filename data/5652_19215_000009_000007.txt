@@ -1,0 +1,12 @@
+They	0	0
+said	2	0
+what	0	1
+was	0	0
+wanted	1	2
+and	1	0
+they	1	0
+said	1	0
+it	0	0
+with	0	1
+zeal	2	2
+.	NA	NA

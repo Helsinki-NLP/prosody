@@ -1,0 +1,9 @@
+There	0	0
+may	1	0
+be	0	0
+worse	1	1
+than	0	0
+poachers'	2	0
+traps	1	1
+here	2	2
+.	NA	NA

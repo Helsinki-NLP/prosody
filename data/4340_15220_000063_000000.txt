@@ -1,0 +1,5 @@
+Of	1	1
+Course	2	0
+it	0	1
+wouldn't	1	2
+.	NA	NA

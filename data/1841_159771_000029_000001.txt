@@ -1,0 +1,6 @@
+What	2	0
+are	0	0
+your	0	1
+claws	1	1
+for	1	2
+?	NA	NA

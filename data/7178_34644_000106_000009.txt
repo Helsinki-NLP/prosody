@@ -1,0 +1,5 @@
+Awake	2	1
+,	NA	NA
+my	0	0
+lord	1	2
+!	NA	NA

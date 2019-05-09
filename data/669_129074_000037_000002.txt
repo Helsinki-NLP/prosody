@@ -1,0 +1,14 @@
+You	0	0
+must	0	0
+go	1	0
+away	0	0
+from	0	1
+here	1	1
+and	0	0
+from	1	0
+the	0	1
+impertinences	2	1
+of	2	0
+these	0	0
+men	2	2
+.	NA	NA

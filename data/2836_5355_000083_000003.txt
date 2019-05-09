@@ -1,0 +1,7 @@
+Whom	2	1
+do	0	0
+you	0	1
+take	1	1
+me	0	1
+for	2	2
+?	NA	NA

@@ -1,0 +1,6 @@
+Patty	2	0
+picked	1	0
+up	0	1
+the	0	0
+pencil	1	2
+.	NA	NA

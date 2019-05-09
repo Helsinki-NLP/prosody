@@ -1,0 +1,4 @@
+Yes	1	1
+,	NA	NA
+you	2	2
+.	NA	NA

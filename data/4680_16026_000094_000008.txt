@@ -1,0 +1,17 @@
+I	0	0
+told	2	0
+you	0	2
+,	NA	NA
+I'm	2	0
+the	0	0
+dog	1	2
+,	NA	NA
+and	0	0
+I	0	0
+don't	2	0
+care	0	0
+a	0	1
+straw	2	0
+for	0	1
+you	0	2
+.	NA	NA

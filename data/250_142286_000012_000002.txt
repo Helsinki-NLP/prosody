@@ -1,0 +1,15 @@
+It's	2	0
+in	0	0
+the	0	1
+same	2	1
+direction	1	2
+,	NA	NA
+and	1	0
+she's	0	0
+always	1	1
+so	2	0
+glad	0	1
+to	0	0
+see	0	0
+you	1	2
+.	NA	NA

@@ -1,0 +1,13 @@
+As	1	0
+for	0	0
+the	0	0
+school	2	2
+,	NA	NA
+we	1	0
+will	0	0
+hope	2	1
+that	0	0
+matters	1	1
+will	0	0
+improve	2	2
+.	NA	NA

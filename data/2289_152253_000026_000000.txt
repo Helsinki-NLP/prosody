@@ -1,0 +1,13 @@
+Very	2	0
+soon	0	1
+,	NA	NA
+however	1	1
+,	NA	NA
+he	0	0
+was	0	0
+again	2	2
+on	2	0
+the	0	0
+war	1	0
+path	1	2
+.	NA	NA

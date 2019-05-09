@@ -1,0 +1,17 @@
+The	0	0
+mother	2	0
+looks	0	1
+very	1	0
+ill	1	0
+,	NA	NA
+and	0	2
+seems	2	0
+a	0	0
+nice	1	2
+,	NA	NA
+quiet	2	0
+kind	0	0
+of	0	1
+person	1	2
+.	NA	NA
+'	NA	NA

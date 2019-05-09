@@ -1,0 +1,5 @@
+Smiling	2	1
+,	NA	NA
+the	0	0
+woodcutter	1	0
+answered	0	2

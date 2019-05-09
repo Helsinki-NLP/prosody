@@ -1,0 +1,9 @@
+This	2	0
+is	0	0
+the	0	1
+control	1	0
+panel	0	1
+,	NA	NA
+explained	0	0
+Mercer	2	2
+.	NA	NA

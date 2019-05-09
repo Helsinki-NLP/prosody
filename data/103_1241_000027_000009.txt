@@ -1,0 +1,16 @@
+I	2	1
+can	2	1
+STOP	1	1
+when	0	0
+I	0	0
+make	1	0
+up	0	1
+my	0	0
+mind	2	0
+to	0	1
+it	0	0
+,	NA	NA
+although	1	0
+it's	0	1
+difficult	1	2
+.	NA	NA

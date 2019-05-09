@@ -1,0 +1,5 @@
+What	1	0
+does	0	0
+it	0	1
+mean	2	2
+?	NA	NA

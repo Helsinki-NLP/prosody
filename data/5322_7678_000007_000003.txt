@@ -1,0 +1,12 @@
+Some	0	0
+large	2	0
+birds	1	1
+circled	2	2
+screeching	1	0
+round	1	0
+their	0	0
+nests	0	1
+in	0	0
+those	0	0
+trees	1	2
+.	NA	NA

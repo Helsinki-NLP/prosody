@@ -1,0 +1,10 @@
+We	0	0
+shall	1	0
+see	2	0
+what	0	1
+will	0	0
+come	2	0
+of	0	1
+this	0	0
+cadet	2	2
+.	NA	NA

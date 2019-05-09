@@ -1,0 +1,7 @@
+He	0	0
+became	1	0
+an	0	0
+honest	1	1
+man	1	1
+again	2	2
+!	NA	NA

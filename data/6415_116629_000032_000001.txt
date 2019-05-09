@@ -1,0 +1,11 @@
+She	1	0
+had	0	1
+expostulated	2	2
+with	0	0
+him	0	0
+about	1	0
+it	0	1
+more	1	0
+than	0	0
+once	1	2
+.	NA	NA

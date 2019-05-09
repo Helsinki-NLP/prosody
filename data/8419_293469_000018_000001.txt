@@ -1,0 +1,11 @@
+It	0	1
+makes	1	0
+my	0	0
+skin	0	1
+dry	2	0
+to	0	2
+think	1	0
+of	0	0
+it	0	1
+now	2	2
+.	NA	NA

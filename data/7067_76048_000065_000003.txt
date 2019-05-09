@@ -1,0 +1,4 @@
+We	0	0
+aren't	2	1
+placed	1	2
+.	NA	NA

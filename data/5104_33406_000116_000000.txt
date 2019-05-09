@@ -1,0 +1,13 @@
+It	1	0
+is	0	1
+pleasant	1	1
+to	0	0
+sail	1	0
+along	0	1
+the	0	0
+coast	2	0
+now	1	2
+,	NA	NA
+said	1	0
+Eric	0	2
+.	NA	NA

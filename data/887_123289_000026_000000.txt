@@ -1,0 +1,4 @@
+How	0	0
+about	0	1
+returning	2	2
+?	NA	NA

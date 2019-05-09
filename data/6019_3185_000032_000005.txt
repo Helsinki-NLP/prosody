@@ -1,0 +1,11 @@
+The	0	0
+very	2	0
+midnight	1	0
+of	0	1
+mysterious	1	0
+awe	2	2
+fell	1	0
+upon	0	0
+all	1	0
+minds	1	2
+.	NA	NA

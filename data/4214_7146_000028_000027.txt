@@ -1,0 +1,13 @@
+Marilla	2	1
+turned	0	0
+red	2	0
+as	0	1
+fire	2	0
+but	0	2
+she	0	0
+never	0	0
+said	0	0
+a	0	0
+word	2	2
+then	2	2
+.	NA	NA

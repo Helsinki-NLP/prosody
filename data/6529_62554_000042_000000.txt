@@ -1,0 +1,9 @@
+Try	2	0
+them	0	1
+,	NA	NA
+Pencroft	1	1
+,	NA	NA
+replied	2	0
+the	0	1
+engineer	2	2
+.	NA	NA

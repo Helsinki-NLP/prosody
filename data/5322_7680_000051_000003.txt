@@ -1,0 +1,7 @@
+Vanyusha	2	2
+,	NA	NA
+bring	1	0
+us	0	0
+some	0	0
+chikhir	1	2
+.	NA	NA

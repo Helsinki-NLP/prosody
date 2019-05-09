@@ -1,0 +1,15 @@
+Now	1	1
+as	1	0
+for	0	1
+Fanny	2	0
+there	1	2
+,	NA	NA
+a	0	0
+little	1	0
+hardship	2	1
+would	0	0
+do	0	0
+her	1	0
+good	2	2
+.	NA	NA
+'	NA	NA

@@ -1,0 +1,10 @@
+Cassius	1	0
+Calhoun	1	2
+is	0	0
+now	2	0
+the	0	0
+prisoner	1	1
+at	1	0
+the	0	0
+bar	1	2
+!	NA	NA

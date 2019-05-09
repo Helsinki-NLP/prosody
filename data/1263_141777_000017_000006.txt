@@ -1,0 +1,5 @@
+That	2	0
+idea	0	1
+made	0	0
+sense	2	2
+.	NA	NA

@@ -1,0 +1,4 @@
+I	1	0
+can	1	1
+certainly	2	2
+.	NA	NA

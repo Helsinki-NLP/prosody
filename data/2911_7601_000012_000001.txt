@@ -1,0 +1,8 @@
+I	0	0
+knew	0	0
+that	2	1
+sound	1	1
+well	1	1
+,	NA	NA
+too	2	2
+.	NA	NA

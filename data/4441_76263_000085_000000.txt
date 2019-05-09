@@ -1,0 +1,5 @@
+Oh	2	1
+,	NA	NA
+won't	0	0
+it	1	2
+!	NA	NA

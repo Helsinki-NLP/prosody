@@ -1,0 +1,13 @@
+He	0	0
+moved	1	0
+his	0	0
+head	1	1
+slightly	2	2
+,	NA	NA
+following	2	1
+the	0	0
+contour	1	0
+of	0	1
+this	0	0
+shape	2	2
+.	NA	NA

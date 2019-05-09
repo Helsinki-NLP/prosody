@@ -1,0 +1,7 @@
+Been	2	1
+lushin'	2	0
+a	0	1
+bit	0	1
+,	NA	NA
+eh	2	2
+?	NA	NA

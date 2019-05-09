@@ -1,0 +1,16 @@
+The	0	1
+judge	2	1
+was	0	0
+equally	1	1
+obliging	0	0
+,	NA	NA
+and	1	1
+began	0	2
+to	0	0
+fill	2	1
+one	0	0
+out	2	0
+on	0	1
+the	0	0
+instant	1	2
+.	NA	NA

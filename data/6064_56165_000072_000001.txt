@@ -1,0 +1,7 @@
+Always	2	1
+stand	1	0
+up	0	1
+for	0	0
+your	0	1
+brother	2	2
+.	NA	NA

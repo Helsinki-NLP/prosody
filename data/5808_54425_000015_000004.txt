@@ -1,0 +1,5 @@
+I	2	0
+mean	0	0
+it	0	1
+too	2	2
+.	NA	NA

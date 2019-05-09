@@ -1,0 +1,6 @@
+Don't	0	1
+excite	2	0
+yourself	0	1
+,	NA	NA
+mother	2	2
+.	NA	NA

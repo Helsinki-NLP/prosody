@@ -1,0 +1,9 @@
+Then	2	0
+the	0	1
+horse	1	0
+would	0	1
+be	0	0
+delightful	2	1
+to	1	0
+him	0	2
+.	NA	NA

@@ -1,0 +1,16 @@
+The	0	0
+best	2	0
+way	0	0
+to	0	0
+get	1	2
+out	2	1
+is	0	0
+not	2	0
+to	0	1
+get	0	0
+in	1	1
+and	1	1
+I've	2	1
+gotten	0	0
+in	2	2
+.	NA	NA

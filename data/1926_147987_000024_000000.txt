@@ -1,0 +1,12 @@
+Certainly	2	1
+Cutter	0	0
+liked	2	2
+to	0	0
+have	2	0
+his	0	1
+wife	2	0
+think	1	0
+him	0	1
+a	0	0
+devil	2	2
+.	NA	NA

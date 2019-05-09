@@ -1,0 +1,6 @@
+The	0	1
+tale	2	0
+is	0	2
+never	0	0
+told	1	2
+.	NA	NA

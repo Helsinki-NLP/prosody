@@ -1,0 +1,8 @@
+Europe	2	0
+is	0	1
+arming	1	1
+as	0	0
+fast	2	0
+as	0	1
+possible	2	2
+.	NA	NA

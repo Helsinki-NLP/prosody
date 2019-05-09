@@ -1,0 +1,9 @@
+And	0	1
+now	2	0
+,	NA	NA
+shipmates	1	0
+,	NA	NA
+this	0	1
+black	1	1
+spot	2	2
+?	NA	NA

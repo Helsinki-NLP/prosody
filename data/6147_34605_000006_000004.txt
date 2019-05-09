@@ -1,0 +1,8 @@
+She	0	1
+had	0	0
+eyes	1	0
+which	0	2
+were	0	0
+too	1	0
+intelligible	2	2
+.	NA	NA

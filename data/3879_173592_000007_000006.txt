@@ -1,0 +1,14 @@
+The	0	0
+name	2	0
+of	0	0
+the	0	1
+tribe	1	0
+is	0	1
+preserved	2	1
+in	0	0
+that	1	0
+of	0	1
+the	0	0
+river	1	1
+Caboosa	2	2
+.	NA	NA

@@ -1,0 +1,8 @@
+And	1	0
+if	0	0
+we	0	1
+refuse	2	2
+?	NA	NA
+asked	2	1
+Tom	2	2
+.	NA	NA

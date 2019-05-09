@@ -1,0 +1,6 @@
+And	0	0
+good	1	1
+sense	2	1
+cannot	0	0
+lie	2	2
+.	NA	NA

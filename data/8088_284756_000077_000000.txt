@@ -1,0 +1,6 @@
+For	0	1
+Carson	2	0
+,	NA	NA
+he	0	1
+explained	2	2
+.	NA	NA

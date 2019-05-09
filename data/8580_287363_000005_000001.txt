@@ -1,0 +1,8 @@
+Is	0	0
+it	1	1
+always	2	0
+as	0	2
+easy	0	0
+as	0	0
+this	2	2
+?	NA	NA

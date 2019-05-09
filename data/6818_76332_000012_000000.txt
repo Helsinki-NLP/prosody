@@ -1,0 +1,14 @@
+But	0	0
+,	NA	NA
+in	1	0
+this	0	0
+life	1	2
+,	NA	NA
+things	1	1
+seldom	1	1
+turn	1	0
+out	0	0
+as	0	0
+we	0	1
+plan	2	2
+.	NA	NA

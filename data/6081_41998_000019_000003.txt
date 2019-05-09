@@ -1,0 +1,16 @@
+It	2	0
+would	0	0
+bring	1	0
+in	0	1
+a	0	0
+round	0	1
+sum	2	2
+,	NA	NA
+more	1	0
+than	0	0
+enough	2	2
+to	0	0
+cover	1	0
+the	0	1
+expenses	2	2
+.	NA	NA

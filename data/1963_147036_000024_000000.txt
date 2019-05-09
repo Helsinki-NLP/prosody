@@ -1,0 +1,6 @@
+May	1	0
+I	0	0
+have	0	1
+that	1	1
+please	2	2
+?	NA	NA

@@ -1,0 +1,13 @@
+Her	1	0
+hair	2	0
+was	0	1
+of	0	0
+that	2	1
+tinge	1	1
+which	0	0
+might	0	0
+be	0	1
+called	2	0
+red	2	1
+gold	2	2
+.	NA	NA

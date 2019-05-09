@@ -1,0 +1,4 @@
+Well	2	0
+,	NA	NA
+well	0	2
+.	NA	NA

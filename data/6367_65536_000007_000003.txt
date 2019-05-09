@@ -1,0 +1,6 @@
+Would	2	0
+it	0	1
+still	1	0
+be	0	1
+home	2	2
+?	NA	NA

@@ -1,0 +1,9 @@
+Go	2	0
+up	0	0
+to	0	1
+the	0	0
+attic	1	2
+and	0	0
+search	1	0
+there	2	2
+.	NA	NA

@@ -1,0 +1,6 @@
+yes	2	1
+,	NA	NA
+it	0	0
+was	0	0
+this	2	2
+!	NA	NA

@@ -1,0 +1,6 @@
+Crosbie	2	1
+had	0	0
+lost	1	1
+his	0	0
+love	2	2
+!	NA	NA

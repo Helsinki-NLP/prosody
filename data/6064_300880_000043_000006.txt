@@ -1,0 +1,11 @@
+I've	1	0
+loaned	2	0
+the	0	1
+place	1	1
+to	0	0
+both	1	1
+couples	2	1
+for	1	0
+a	0	0
+fortnight	2	2
+.	NA	NA

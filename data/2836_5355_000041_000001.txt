@@ -1,0 +1,15 @@
+I	1	0
+do	0	0
+not	0	0
+believe	1	1
+mr	0	0
+Carlyle	0	0
+ever	1	0
+thought	1	0
+of	0	2
+the	0	0
+girl	2	2
+in	1	0
+that	0	0
+way	2	2
+.	NA	NA

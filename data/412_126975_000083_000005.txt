@@ -1,0 +1,8 @@
+But	0	0
+in	1	0
+the	0	0
+rest	2	2
+you	2	0
+eclipsed	1	1
+yourself	1	2
+.	NA	NA

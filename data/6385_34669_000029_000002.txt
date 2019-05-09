@@ -1,0 +1,11 @@
+Mouldy	1	1
+and	0	0
+out	0	0
+of	0	0
+shape	1	1
+,	NA	NA
+it	1	1
+tottered	2	0
+in	0	1
+decay	1	2
+.	NA	NA

@@ -1,0 +1,5 @@
+He	1	0
+is	0	1
+very	2	1
+kind	2	2
+.	NA	NA

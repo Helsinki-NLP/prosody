@@ -1,0 +1,10 @@
+Deep	1	1
+mold	2	0
+under	0	1
+the	0	0
+trees	1	0
+here	1	1
+would	0	0
+hold	1	0
+tracks	2	2
+.	NA	NA

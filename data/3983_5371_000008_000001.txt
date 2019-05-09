@@ -1,0 +1,6 @@
+Much	2	1
+he	0	0
+knows	1	0
+of	0	1
+Heaven	1	2
+!	NA	NA

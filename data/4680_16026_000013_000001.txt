@@ -1,0 +1,14 @@
+It	0	0
+was	1	1
+precisely	2	0
+at	1	0
+the	0	2
+point	2	1
+where	0	0
+the	0	0
+railing	0	0
+touched	2	1
+the	0	0
+neighboring	0	1
+wall	2	2
+.	NA	NA

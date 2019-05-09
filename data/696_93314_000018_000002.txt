@@ -1,0 +1,9 @@
+Or	1	0
+I	0	0
+ought	2	2
+to	0	0
+have	0	1
+gone	1	0
+with	1	0
+her	0	2
+.	NA	NA

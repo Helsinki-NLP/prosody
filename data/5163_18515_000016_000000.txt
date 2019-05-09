@@ -1,0 +1,6 @@
+So	2	0
+it	0	1
+did	2	1
+,	NA	NA
+Pet	1	2
+.	NA	NA

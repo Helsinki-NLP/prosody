@@ -1,0 +1,16 @@
+From	0	0
+Norhala	2	0
+came	0	1
+a	0	0
+single	1	0
+cry	1	2
+resonant	2	1
+,	NA	NA
+blaring	2	0
+like	0	1
+a	0	0
+wrathful	1	0
+,	NA	NA
+golden	0	0
+trumpet	2	2
+.	NA	NA

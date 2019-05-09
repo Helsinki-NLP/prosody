@@ -1,0 +1,9 @@
+And	0	0
+with	2	1
+me	0	0
+they	1	0
+have	0	1
+moved	2	1
+this	0	0
+company	1	2
+.	NA	NA

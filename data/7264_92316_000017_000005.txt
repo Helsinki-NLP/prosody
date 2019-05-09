@@ -1,0 +1,12 @@
+And	0	0
+there	0	0
+went	2	1
+with	2	0
+it	0	0
+a	0	1
+mass	2	0
+of	0	0
+ex	0	1
+centric	1	0
+stuff	2	2
+.	NA	NA

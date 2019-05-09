@@ -1,0 +1,7 @@
+There	0	0
+are	0	0
+rumours	1	2
+,	NA	NA
+he	0	0
+said	1	2
+.	NA	NA

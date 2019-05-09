@@ -1,0 +1,8 @@
+Let's	2	0
+ax	1	1
+him	1	0
+what	0	0
+we'd	0	1
+better	1	0
+do	1	2
+.	NA	NA

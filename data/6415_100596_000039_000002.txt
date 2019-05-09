@@ -1,0 +1,14 @@
+If	0	0
+she	0	0
+changes	1	1
+her	0	0
+mind	0	1
+many	0	0
+more	2	0
+times	0	2
+there	0	0
+won't	2	1
+be	0	0
+anything	0	0
+left	2	2
+.	NA	NA

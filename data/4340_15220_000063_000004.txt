@@ -1,0 +1,17 @@
+No	1	0
+,	NA	NA
+Bab	2	1
+,	NA	NA
+you	0	0
+can't	1	0
+go	1	2
+.	NA	NA
+Travel	2	0
+right	0	0
+home	1	0
+and	0	1
+don't	1	0
+make	0	0
+a	0	0
+fuss	1	2
+.	NA	NA

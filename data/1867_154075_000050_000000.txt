@@ -1,0 +1,8 @@
+I'm	1	0
+Doone	2	2
+some	2	0
+call	0	0
+me	0	0
+Ronicky	1	0
+Doone	0	2
+.	NA	NA

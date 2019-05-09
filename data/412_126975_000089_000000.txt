@@ -1,0 +1,6 @@
+Your	0	1
+downward	1	0
+steps	1	0
+have	0	1
+begun	2	2
+.	NA	NA

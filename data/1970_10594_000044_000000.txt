@@ -1,0 +1,5 @@
+With	1	1
+pleasure	2	0
+,	NA	NA
+madam	1	2
+.	NA	NA

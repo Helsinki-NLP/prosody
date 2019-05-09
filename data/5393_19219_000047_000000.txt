@@ -1,0 +1,10 @@
+You	0	0
+shall	2	0
+not	1	1
+escape	1	1
+two	0	0
+sermons	1	1
+,	NA	NA
+he	1	0
+exclaimed	2	2
+.	NA	NA

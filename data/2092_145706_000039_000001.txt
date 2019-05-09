@@ -1,0 +1,10 @@
+But	1	0
+he	0	0
+could	0	1
+think	1	0
+of	0	1
+no	1	0
+way	0	0
+of	0	1
+escape	2	2
+.	NA	NA

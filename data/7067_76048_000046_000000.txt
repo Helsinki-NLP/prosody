@@ -1,0 +1,3 @@
+But	0	1
+before	2	2
+?	NA	NA

@@ -1,0 +1,5 @@
+True	2	2
+,	NA	NA
+said	0	0
+Andrea	2	2
+.	NA	NA

@@ -1,0 +1,15 @@
+By	2	0
+degrees	1	1
+both	1	0
+Hepburn	1	0
+and	0	0
+Coulson	1	1
+were	0	0
+introduced	2	1
+to	0	0
+distant	2	1
+manufacturers	1	0
+and	0	1
+wholesale	0	0
+dealers	1	2
+.	NA	NA

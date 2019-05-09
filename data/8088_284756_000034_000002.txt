@@ -1,0 +1,8 @@
+The	0	0
+thing	1	0
+had	0	0
+an	0	1
+indescribably	1	1
+eery	1	0
+effect	2	2
+.	NA	NA

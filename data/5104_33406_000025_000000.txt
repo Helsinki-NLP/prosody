@@ -1,0 +1,9 @@
+Eric	2	1
+sat	1	0
+down	1	0
+in	0	0
+his	0	1
+chair	2	0
+and	0	1
+laughed	2	2
+.	NA	NA

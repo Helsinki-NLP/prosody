@@ -1,0 +1,10 @@
+By	1	1
+Thor	2	2
+,	NA	NA
+that	1	0
+Gunnbiorn	1	0
+was	0	0
+a	0	1
+foolish	1	0
+fellow	1	2
+.	NA	NA

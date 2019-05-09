@@ -1,0 +1,4 @@
+I've	2	1
+got	2	0
+it	0	2
+!	NA	NA

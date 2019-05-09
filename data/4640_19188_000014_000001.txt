@@ -1,0 +1,6 @@
+The	0	1
+barricade	2	1
+is	0	0
+hemmed	0	0
+in	2	2
+.	NA	NA

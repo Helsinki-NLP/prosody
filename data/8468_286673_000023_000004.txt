@@ -1,0 +1,11 @@
+He	0	0
+was	0	0
+thinking	0	0
+over	1	0
+and	0	0
+over	1	2
+,	NA	NA
+Something	2	0
+has	0	1
+happened	2	2
+!	NA	NA

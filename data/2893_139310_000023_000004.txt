@@ -1,0 +1,3 @@
+Damned	1	1
+tyrants	2	2
+!	NA	NA

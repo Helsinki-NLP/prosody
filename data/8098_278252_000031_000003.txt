@@ -1,0 +1,13 @@
+These	2	0
+rural	0	0
+men	0	0
+eyed	1	0
+me	0	2
+with	0	0
+suspicion	2	1
+until	1	0
+I	0	0
+mentioned	0	1
+Mac	1	1
+A'Rony	2	2
+.	NA	NA

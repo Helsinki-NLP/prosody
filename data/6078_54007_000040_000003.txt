@@ -1,0 +1,14 @@
+Should	0	1
+you	0	0
+do	0	0
+so	2	2
+,	NA	NA
+Ill	2	0
+Luck	1	1
+will	1	0
+be	0	0
+sure	1	0
+to	0	0
+overtake	1	0
+you	0	2
+.	NA	NA

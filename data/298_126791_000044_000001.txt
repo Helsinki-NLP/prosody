@@ -1,0 +1,10 @@
+The	0	0
+excellent	2	1
+fellow	1	0
+is	0	1
+never	2	0
+weary	0	0
+of	0	1
+kind	1	0
+actions	1	2
+.	NA	NA

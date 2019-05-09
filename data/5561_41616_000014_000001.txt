@@ -1,0 +1,10 @@
+Anyone	2	1
+can	0	0
+twist	1	1
+'Annabel	1	0
+Lee'	0	1
+to	0	0
+suit	0	1
+the	0	0
+occasion	2	2
+.	NA	NA

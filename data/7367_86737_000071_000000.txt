@@ -1,0 +1,6 @@
+I	0	0
+have	2	1
+not	2	1
+that	0	0
+honor	1	2
+.	NA	NA

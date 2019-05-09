@@ -1,0 +1,10 @@
+I	1	0
+wouldn't	2	1
+say	2	0
+that	0	1
+,	NA	NA
+Grace	1	1
+,	NA	NA
+remarked	0	1
+Anne	1	2
+.	NA	NA

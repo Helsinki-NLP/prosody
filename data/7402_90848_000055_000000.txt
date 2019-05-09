@@ -1,0 +1,13 @@
+What	2	0
+is	0	0
+the	0	2
+matter	1	0
+,	NA	NA
+my	1	0
+good	0	1
+woman	1	1
+?	NA	NA
+said	2	0
+the	0	1
+King	2	2
+.	NA	NA

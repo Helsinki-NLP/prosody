@@ -1,0 +1,12 @@
+I	0	1
+was	2	0
+mentioning	0	1
+your	2	0
+case	0	0
+to	0	0
+him	0	1
+,	NA	NA
+observed	1	1
+mr	0	0
+Yorke	1	2
+.	NA	NA

@@ -1,0 +1,9 @@
+We're	0	0
+spenders	2	1
+and	0	0
+wasters	1	2
+not	2	0
+always	1	0
+from	0	1
+choice	1	2
+.	NA	NA

@@ -1,0 +1,5 @@
+There	1	0
+is	0	1
+government	1	1
+therein	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+Now	2	0
+Melcombe	0	1
+Regis	1	2
+is	1	0
+a	0	0
+parish	1	0
+of	0	1
+Weymouth	2	2
+.	NA	NA

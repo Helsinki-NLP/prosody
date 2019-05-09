@@ -1,0 +1,8 @@
+I'm	0	1
+sure	0	0
+she's	2	1
+nearer	0	0
+sixty	0	1
+than	0	0
+fifty	2	2
+.	NA	NA

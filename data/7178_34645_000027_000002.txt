@@ -1,0 +1,8 @@
+What	0	0
+words	2	1
+could	0	0
+express	2	0
+his	0	1
+devilish	1	0
+delight	1	2
+!	NA	NA

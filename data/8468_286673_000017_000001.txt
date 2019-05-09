@@ -1,0 +1,5 @@
+I'm	1	0
+not	1	0
+going	0	1
+away	1	2
+.	NA	NA

@@ -1,0 +1,11 @@
+They	0	0
+certainly	1	1
+do	2	2
+,	NA	NA
+more's	2	0
+the	0	1
+pity	1	0
+!	NA	NA
+snapped	0	0
+Jenny	1	2
+.	NA	NA

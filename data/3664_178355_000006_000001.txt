@@ -1,0 +1,16 @@
+Comstock	1	0
+was	0	1
+mounted	1	0
+on	0	0
+one	0	0
+of	0	1
+his	0	0
+favorite	2	0
+horses	1	2
+,	NA	NA
+while	0	0
+I	1	0
+rode	0	0
+old	1	1
+Brigham	1	2
+.	NA	NA

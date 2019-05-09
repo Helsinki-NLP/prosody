@@ -1,0 +1,11 @@
+She	2	0
+is	0	1
+a	0	0
+great	2	1
+deal	2	1
+too	0	0
+ill	1	0
+to	0	1
+be	0	0
+moved	1	2
+.	NA	NA

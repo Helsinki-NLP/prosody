@@ -1,0 +1,13 @@
+The	0	1
+best	2	1
+thing	1	1
+we	0	0
+can	0	0
+do	1	1
+is	1	0
+to	0	0
+camp	1	1
+,	NA	NA
+said	0	0
+Oliver	1	2
+.	NA	NA

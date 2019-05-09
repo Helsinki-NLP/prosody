@@ -1,0 +1,5 @@
+Shall	0	0
+I	1	1
+tell	0	0
+you	2	2
+?	NA	NA

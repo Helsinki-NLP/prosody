@@ -1,0 +1,14 @@
+He	0	0
+felt	2	0
+himself	2	2
+placed	1	1
+in	0	0
+the	0	0
+chair	2	1
+which	0	0
+the	0	0
+sheriff	1	0
+had	0	0
+just	0	1
+vacated	2	2
+.	NA	NA

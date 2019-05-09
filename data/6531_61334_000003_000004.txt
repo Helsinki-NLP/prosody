@@ -1,0 +1,12 @@
+Accustomed	2	1
+for	0	0
+generations	1	1
+to	0	0
+desert	1	0
+warfare	2	2
+,	NA	NA
+they	1	0
+were	1	0
+fearless	1	0
+warriors	1	2
+.	NA	NA

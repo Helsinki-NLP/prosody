@@ -1,0 +1,17 @@
+And	0	0
+they	1	0
+are	0	1
+stanch	2	1
+,	NA	NA
+silent	2	1
+friends	0	0
+on	0	0
+such	0	0
+a	0	0
+night	2	2
+,	NA	NA
+remarked	1	1
+Kemp	1	1
+,	NA	NA
+softly	2	2
+.	NA	NA

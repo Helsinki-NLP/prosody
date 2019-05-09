@@ -1,0 +1,17 @@
+The	2	1
+explorers	2	2
+and	0	0
+early	1	0
+settlers	1	0
+found	0	1
+a	0	0
+native	1	0
+race	0	1
+occupying	1	0
+nearly	0	0
+every	0	1
+portion	2	0
+of	0	1
+our	0	0
+continent	2	2
+.	NA	NA

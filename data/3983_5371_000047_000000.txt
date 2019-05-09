@@ -1,0 +1,13 @@
+What	1	0
+did	0	0
+she	0	0
+go	2	0
+into	0	1
+hysterics	1	1
+for	2	2
+?	NA	NA
+again	1	0
+snapped	0	1
+Miss	0	0
+Carlyle	2	2
+.	NA	NA

@@ -1,0 +1,10 @@
+Did	0	1
+you	0	0
+get	2	0
+nothing	1	0
+out	0	0
+of	0	2
+Jane	1	0
+Merrick's	0	1
+estate	2	2
+?	NA	NA

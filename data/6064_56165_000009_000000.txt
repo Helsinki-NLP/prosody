@@ -1,0 +1,14 @@
+Well	2	2
+,	NA	NA
+you'd	1	0
+better	0	1
+talk	2	0
+,	NA	NA
+Brenda	0	1
+Barlow	1	2
+,	NA	NA
+broke	0	0
+in	0	0
+Nora	0	0
+again	1	2
+.	NA	NA

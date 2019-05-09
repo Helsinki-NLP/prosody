@@ -1,0 +1,16 @@
+And	0	0
+even	0	0
+now	2	0
+he	0	1
+got	1	0
+up	0	2
+,	NA	NA
+though	1	0
+heavily	1	0
+and	0	1
+awkwardly	1	1
+,	NA	NA
+to	0	0
+his	0	0
+feet	1	2
+.	NA	NA

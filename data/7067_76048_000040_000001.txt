@@ -1,0 +1,6 @@
+How	1	1
+do	0	0
+you	2	1
+put	1	0
+it	0	2
+?	NA	NA

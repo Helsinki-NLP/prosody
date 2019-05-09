@@ -1,0 +1,3 @@
+Most	0	0
+probably	1	2
+.	NA	NA

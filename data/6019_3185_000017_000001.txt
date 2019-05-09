@@ -1,0 +1,15 @@
+The	0	0
+commonplace	2	0
+maxim	1	0
+is	1	2
+,	NA	NA
+that	1	0
+it	0	0
+is	0	1
+dangerous	2	1
+to	0	0
+raise	1	1
+expectations	1	1
+too	0	0
+high	2	2
+.	NA	NA

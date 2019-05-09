@@ -1,0 +1,12 @@
+You	0	0
+had	0	0
+better	2	0
+have	0	0
+roused	1	0
+the	0	1
+fury	1	0
+of	0	0
+a	0	1
+wild	2	1
+beast	2	2
+.	NA	NA

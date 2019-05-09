@@ -1,0 +1,9 @@
+Yes	2	0
+,	NA	NA
+sire	0	0
+,	NA	NA
+as	0	0
+they	1	2
+always	2	1
+do	1	2
+.	NA	NA

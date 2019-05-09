@@ -1,0 +1,17 @@
+Once	0	0
+or	0	1
+twice	2	0
+the	0	2
+professor	2	1
+gave	0	0
+me	0	0
+a	0	0
+warning	0	0
+gesture	1	2
+,	NA	NA
+but	1	0
+he	0	0
+did	1	0
+not	2	1
+speak	1	2
+.	NA	NA

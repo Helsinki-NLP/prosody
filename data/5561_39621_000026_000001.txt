@@ -1,0 +1,8 @@
+The	0	0
+pomp	2	0
+was	0	0
+of	0	1
+a	0	0
+military	0	1
+character	2	2
+.	NA	NA

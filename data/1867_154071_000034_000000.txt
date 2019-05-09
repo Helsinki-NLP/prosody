@@ -1,0 +1,5 @@
+Bill	0	0
+Gregg	1	1
+smiled	0	0
+sourly	2	2
+.	NA	NA

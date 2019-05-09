@@ -1,0 +1,13 @@
+I	2	0
+said	1	1
+you	0	0
+were	0	0
+on	1	0
+the	0	1
+whole	1	0
+the	0	2
+finest	2	1
+creature	0	0
+I	0	0
+know	1	2
+.	NA	NA

@@ -1,0 +1,11 @@
+That's	2	1
+quite	2	1
+true	0	0
+,	NA	NA
+Johnny	1	1
+,	NA	NA
+said	0	0
+Old	0	1
+Mother	0	0
+Nature	2	2
+.	NA	NA

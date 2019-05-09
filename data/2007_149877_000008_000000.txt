@@ -1,0 +1,17 @@
+His	0	0
+preference	2	0
+for	0	1
+Fitzgerald	2	0
+and	0	1
+Moy's	1	0
+Adams	2	1
+Street	0	0
+place	1	2
+was	0	0
+another	1	0
+yard	1	0
+off	0	0
+the	0	1
+same	0	0
+cloth	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+Some	0	0
+of	2	0
+the	0	1
+contents	1	2
+he	0	0
+hardly	0	0
+looked	2	1
+at	1	2
+.	NA	NA

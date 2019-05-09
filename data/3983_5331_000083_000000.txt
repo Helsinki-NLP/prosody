@@ -1,0 +1,6 @@
+Is	2	0
+he	1	0
+at	0	1
+their	0	0
+house	1	2
+?	NA	NA

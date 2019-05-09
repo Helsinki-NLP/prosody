@@ -1,0 +1,10 @@
+Then	1	0
+he	0	0
+looked	2	0
+at	0	2
+the	0	0
+young	2	0
+Mink	0	1
+very	1	0
+sharply	1	2
+.	NA	NA

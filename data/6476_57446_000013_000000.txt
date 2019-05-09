@@ -1,0 +1,12 @@
+Pray	1	1
+,	NA	NA
+replied	0	0
+Genzaburo	1	2
+,	NA	NA
+don't	2	0
+make	0	0
+any	0	0
+ceremony	1	0
+for	0	0
+me	1	2
+.	NA	NA

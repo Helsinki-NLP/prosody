@@ -1,0 +1,13 @@
+Such	2	0
+sufferings	1	0
+are	0	1
+indescribable	1	2
+.	NA	NA
+The	0	0
+next	1	0
+day	1	0
+I	0	0
+was	0	0
+short	1	0
+winded	0	2
+.	NA	NA

@@ -1,0 +1,8 @@
+That's	2	0
+only	0	0
+because	0	0
+he	0	0
+isn't	0	1
+properly	2	1
+instructed	2	2
+.	NA	NA

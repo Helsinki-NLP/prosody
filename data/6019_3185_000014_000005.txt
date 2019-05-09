@@ -1,0 +1,12 @@
+He	0	0
+is	2	0
+himself	1	0
+one	0	1
+of	0	0
+the	0	1
+noblest	2	1
+looking	0	0
+of	0	1
+God's	2	1
+creatures	1	2
+.	NA	NA

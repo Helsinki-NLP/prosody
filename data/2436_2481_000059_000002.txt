@@ -1,0 +1,11 @@
+I	1	0
+fell	2	0
+like	0	1
+a	0	0
+sack	1	0
+of	0	1
+carbide	2	1
+to	0	0
+the	0	0
+deck	2	2
+.	NA	NA

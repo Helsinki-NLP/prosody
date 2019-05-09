@@ -1,0 +1,9 @@
+I	2	0
+think	1	0
+I	0	1
+did	2	1
+mean	0	2
+to	0	0
+marry	1	0
+him	0	2
+.	NA	NA

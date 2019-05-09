@@ -1,0 +1,10 @@
+He	0	0
+carefully	2	0
+placed	2	2
+the	0	0
+card	2	0
+in	0	1
+his	0	0
+pocket	2	1
+book	2	2
+.	NA	NA

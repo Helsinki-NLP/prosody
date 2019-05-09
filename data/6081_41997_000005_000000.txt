@@ -1,0 +1,7 @@
+Oh	2	0
+,	NA	NA
+it	0	0
+was	0	1
+very	1	0
+simple	1	2
+.	NA	NA

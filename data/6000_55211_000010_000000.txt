@@ -1,0 +1,7 @@
+I'll	1	0
+take	2	1
+the	0	0
+risk	2	1
+of	0	0
+that	1	2
+.	NA	NA

@@ -1,0 +1,13 @@
+What	1	0
+church	1	0
+rate	0	0
+?	NA	NA
+I	0	1
+cried	2	1
+,	NA	NA
+starting	2	0
+up	0	0
+from	0	2
+the	0	0
+sofa	2	2
+.	NA	NA

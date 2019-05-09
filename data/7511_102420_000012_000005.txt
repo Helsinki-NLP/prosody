@@ -1,0 +1,16 @@
+We	0	0
+were	1	0
+following	1	1
+fresh	0	0
+tracks	1	2
+,	NA	NA
+and	0	0
+a	0	0
+little	2	0
+of	0	1
+the	0	0
+hunter's	0	1
+enthusiasm	2	1
+seized	1	0
+me	0	2
+.	NA	NA

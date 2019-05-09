@@ -1,0 +1,13 @@
+Perhaps	2	1
+Kara	1	0
+hesitated	1	2
+,	NA	NA
+perhaps	2	1
+you	0	0
+had	0	0
+better	0	0
+wait	1	1
+until	0	0
+eleven	1	0
+o'clock	0	2
+.	NA	NA

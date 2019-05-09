@@ -1,0 +1,9 @@
+Listen	2	2
+;	NA	NA
+I'm	2	0
+all	0	1
+for	0	0
+old	0	0
+man	0	1
+Drew	2	2
+.	NA	NA

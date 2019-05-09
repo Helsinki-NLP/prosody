@@ -1,0 +1,6 @@
+All	2	0
+right	0	0
+,	NA	NA
+old	0	1
+chap	2	2
+!	NA	NA

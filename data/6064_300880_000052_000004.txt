@@ -1,0 +1,14 @@
+Or	2	0
+which	1	1
+one	2	0
+of	0	1
+the	0	0
+numerous	1	1
+institutions	2	1
+you	0	0
+maintain	2	0
+in	0	1
+your	0	0
+private	2	1
+city	1	2
+?	NA	NA

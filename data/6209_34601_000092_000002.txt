@@ -1,0 +1,9 @@
+Ursus	1	0
+muttered	1	1
+,	NA	NA
+This	2	1
+building	1	0
+is	0	1
+badly	2	0
+joined	1	2
+.	NA	NA

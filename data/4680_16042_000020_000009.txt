@@ -1,0 +1,11 @@
+the	1	0
+one	0	0
+is	0	1
+the	0	0
+defender	2	1
+,	NA	NA
+the	0	0
+other	1	1
+the	0	0
+liberator	2	2
+.	NA	NA

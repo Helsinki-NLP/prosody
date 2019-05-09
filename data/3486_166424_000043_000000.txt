@@ -1,0 +1,8 @@
+You're	0	0
+right	2	0
+,	NA	NA
+Walter	0	1
+,	NA	NA
+he	0	0
+grinned	2	2
+.	NA	NA

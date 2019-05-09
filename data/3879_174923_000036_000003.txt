@@ -1,0 +1,16 @@
+I	0	0
+have	1	0
+told	2	1
+Papa	0	1
+that	0	0
+I	1	0
+should	0	0
+ask	2	0
+you	0	2
+,	NA	NA
+and	0	0
+he	0	0
+would	0	0
+be	0	1
+delighted	2	2
+.	NA	NA

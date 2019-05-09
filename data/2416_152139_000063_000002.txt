@@ -1,0 +1,16 @@
+The	0	0
+actual	2	0
+details	1	0
+of	0	1
+how	1	0
+you	0	0
+stole	0	0
+the	0	0
+money	1	1
+to	0	0
+day	2	2
+do	0	0
+not	2	0
+matter	1	1
+NOW	2	2
+.	NA	NA

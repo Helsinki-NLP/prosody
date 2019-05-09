@@ -1,0 +1,13 @@
+I	0	0
+can't	2	1
+see	0	0
+the	1	1
+good	2	0
+of	0	1
+taking	1	0
+more	1	0
+people	0	0
+into	1	0
+our	0	0
+confidence	1	2
+.	NA	NA

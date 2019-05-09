@@ -1,0 +1,6 @@
+Yes	2	1
+,	NA	NA
+replied	0	0
+Uncle	0	1
+john	1	2
+.	NA	NA

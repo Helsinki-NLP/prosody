@@ -1,0 +1,13 @@
+Hidden	2	0
+pipes	1	1
+of	0	0
+hot	2	1
+air	2	1
+maintained	0	0
+a	0	1
+summer	2	0
+temperature	0	1
+in	0	0
+the	0	0
+building	1	2
+.	NA	NA

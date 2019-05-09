@@ -1,0 +1,9 @@
+You	0	0
+never	1	0
+did	0	1
+before	2	0
+since	0	1
+we've	0	0
+been	1	0
+here	2	2
+.	NA	NA

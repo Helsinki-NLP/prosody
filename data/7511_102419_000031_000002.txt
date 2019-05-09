@@ -1,0 +1,16 @@
+I	0	0
+fired	2	0
+one	0	1
+that	0	0
+mr	0	1
+Stewart	2	1
+carries	1	2
+,	NA	NA
+and	0	0
+it	0	0
+almost	2	1
+kicked	1	0
+my	0	0
+shoulder	2	0
+off	0	2
+.	NA	NA

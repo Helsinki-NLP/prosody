@@ -1,0 +1,9 @@
+He	0	0
+would	1	0
+test	2	2
+the	0	0
+reality	2	0
+of	0	1
+this	0	0
+philanthropy	2	2
+.	NA	NA

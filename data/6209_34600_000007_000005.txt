@@ -1,0 +1,10 @@
+She	0	0
+did	0	0
+not	1	1
+cry	2	2
+,	NA	NA
+believing	2	0
+him	0	1
+her	0	0
+mother	1	2
+.	NA	NA

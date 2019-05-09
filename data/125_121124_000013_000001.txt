@@ -1,0 +1,5 @@
+Where	1	0
+is	0	1
+her	0	0
+stepmother	2	2
+?	NA	NA

@@ -1,0 +1,13 @@
+What	2	0
+on	0	2
+earth	2	1
+can	0	0
+those	1	1
+Trees	1	1
+be	2	1
+?	NA	NA
+said	0	0
+one	0	0
+of	0	0
+them	1	2
+.	NA	NA

@@ -1,0 +1,12 @@
+His	0	0
+face	1	1
+was	0	0
+ashen	1	0
+and	0	1
+his	0	0
+eyes	2	0
+like	0	1
+fire	2	0
+and	0	1
+blood	2	2
+.	NA	NA

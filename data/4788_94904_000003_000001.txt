@@ -1,0 +1,5 @@
+These	0	0
+were	1	1
+,	NA	NA
+one	2	2
+.	NA	NA

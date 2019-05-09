@@ -1,0 +1,9 @@
+I	2	0
+owe	2	0
+my	0	1
+fishwife	1	0
+day	1	0
+to	0	0
+the	0	1
+prefecture	2	2
+.	NA	NA

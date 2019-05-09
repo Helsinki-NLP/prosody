@@ -1,0 +1,7 @@
+You	0	0
+assume	0	0
+a	0	0
+little	0	1
+too	0	0
+much	2	2
+.	NA	NA

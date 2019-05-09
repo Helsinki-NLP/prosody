@@ -1,0 +1,17 @@
+Then	1	0
+he	0	0
+pictured	1	0
+again	1	1
+the	0	0
+girl	1	0
+lying	1	0
+in	0	1
+the	0	0
+pool	2	2
+,	NA	NA
+and	2	0
+once	0	0
+again	1	1
+the	0	0
+sea	2	2
+.	NA	NA

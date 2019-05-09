@@ -1,0 +1,14 @@
+She	1	0
+was	0	0
+often	2	0
+both	1	1
+sarcastic	2	1
+and	0	0
+indifferent	2	1
+in	0	0
+her	0	0
+manner	1	0
+toward	1	1
+Sir	0	0
+Dugald	2	2
+.	NA	NA

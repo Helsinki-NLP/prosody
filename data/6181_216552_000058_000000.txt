@@ -1,0 +1,3 @@
+Eternal	1	0
+principle	0	2
+,	NA	NA

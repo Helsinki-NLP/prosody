@@ -1,0 +1,9 @@
+In	0	0
+all	2	1
+facts	2	2
+there	1	0
+are	0	1
+wheels	1	1
+within	0	0
+wheels	1	2
+.	NA	NA

@@ -1,0 +1,7 @@
+Coonskin's	2	0
+opinion	0	1
+didn't	0	0
+benefit	1	1
+Pod	1	0
+much	2	2
+.	NA	NA

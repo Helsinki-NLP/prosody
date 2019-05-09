@@ -1,0 +1,13 @@
+His	0	0
+pointed	2	0
+face	1	2
+,	NA	NA
+accentuated	2	1
+by	0	0
+the	0	0
+pointed	1	0
+beard	1	1
+,	NA	NA
+was	0	0
+pallid	2	2
+.	NA	NA

@@ -1,0 +1,11 @@
+It	1	0
+is	0	1
+just	2	1
+as	0	0
+well	1	1
+he	0	0
+did	1	2
+die	1	1
+,	NA	NA
+though	2	2
+.	NA	NA

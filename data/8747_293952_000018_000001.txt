@@ -1,0 +1,4 @@
+He	0	0
+came	1	1
+forward	2	2
+.	NA	NA

@@ -1,0 +1,13 @@
+He	0	0
+meant	2	1
+to	0	0
+have	2	0
+it	0	1
+one	1	0
+of	1	1
+the	0	0
+best	2	1
+in	0	0
+the	0	0
+world	1	2
+.	NA	NA

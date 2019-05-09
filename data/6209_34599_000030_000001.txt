@@ -1,0 +1,16 @@
+He	0	0
+saw	1	0
+that	0	1
+they	0	0
+were	0	1
+all	1	0
+asleep	0	2
+,	NA	NA
+and	0	0
+did	1	0
+not	2	1
+care	1	0
+to	0	1
+get	0	0
+up	2	2
+.	NA	NA

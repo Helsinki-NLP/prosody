@@ -1,0 +1,9 @@
+Simon	2	0
+Screecher	0	1
+was	0	0
+silenced	2	1
+for	0	0
+the	0	0
+time	2	0
+being	1	2
+.	NA	NA

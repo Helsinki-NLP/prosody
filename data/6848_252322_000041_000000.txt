@@ -1,0 +1,6 @@
+Have	0	0
+you	0	0
+seen	0	0
+my	0	1
+father	2	2
+?	NA	NA

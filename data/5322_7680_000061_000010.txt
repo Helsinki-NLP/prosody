@@ -1,0 +1,15 @@
+To	0	0
+some	2	1
+he	0	0
+said	1	0
+he	0	0
+had	0	1
+bought	1	0
+it	0	2
+,	NA	NA
+to	2	0
+others	0	0
+he	0	1
+replied	1	0
+evasively	1	2
+.	NA	NA

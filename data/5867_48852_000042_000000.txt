@@ -1,0 +1,10 @@
+I	2	0
+was	0	0
+always	0	0
+fond	1	0
+of	0	2
+walking	2	1
+,	NA	NA
+he	0	0
+said	2	2
+.	NA	NA

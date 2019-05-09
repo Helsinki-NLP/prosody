@@ -1,0 +1,12 @@
+Good	2	2
+!	NA	NA
+Dora	1	0
+exclaimed	0	1
+as	0	0
+she	0	0
+rode	0	0
+close	1	0
+to	0	1
+the	0	0
+porch	1	2
+.	NA	NA

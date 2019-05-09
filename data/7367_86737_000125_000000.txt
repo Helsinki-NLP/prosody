@@ -1,0 +1,8 @@
+'Yes	2	0
+,	NA	NA
+captain	0	1
+,	NA	NA
+'	NA	NA
+returned	1	0
+Carlini	1	2
+.	NA	NA

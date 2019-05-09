@@ -1,0 +1,8 @@
+Coral	2	0
+growth	0	1
+were	0	0
+dragged	1	0
+to	0	1
+the	0	0
+spot	2	2
+.	NA	NA

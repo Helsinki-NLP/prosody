@@ -1,0 +1,5 @@
+His	0	0
+mind	2	1
+grew	0	0
+calmer	2	2
+.	NA	NA

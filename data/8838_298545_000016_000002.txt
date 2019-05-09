@@ -1,0 +1,6 @@
+But	2	0
+this	0	0
+was	2	1
+something	0	0
+different	2	2
+.	NA	NA

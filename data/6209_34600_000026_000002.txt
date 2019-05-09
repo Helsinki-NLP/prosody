@@ -1,0 +1,5 @@
+Irresistible	2	1
+summons	1	1
+of	0	0
+duty	1	2
+!	NA	NA

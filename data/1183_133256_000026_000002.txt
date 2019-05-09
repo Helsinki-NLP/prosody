@@ -1,0 +1,16 @@
+If	0	0
+the	0	0
+roots	2	0
+are	0	1
+vigorous	2	2
+and	0	0
+healthy	2	0
+,	NA	NA
+the	0	1
+hair	1	0
+is	0	2
+bound	2	1
+to	0	0
+be	0	0
+natural	1	2
+.	NA	NA

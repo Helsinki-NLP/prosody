@@ -1,0 +1,5 @@
+You	0	0
+will	1	0
+have	0	1
+nothing	2	2
+!	NA	NA

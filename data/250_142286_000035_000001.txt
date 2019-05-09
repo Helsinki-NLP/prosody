@@ -1,0 +1,9 @@
+She	2	0
+probably	0	0
+has	0	1
+forgotten	2	1
+her	0	0
+own	0	0
+personal	2	1
+experience	2	2
+.	NA	NA

@@ -1,0 +1,17 @@
+But	0	0
+this	2	0
+was	0	1
+because	0	0
+the	0	1
+farmers	2	1
+did	0	0
+not	0	1
+understand	2	2
+how	2	0
+much	0	1
+this	0	0
+reform	0	0
+meant	2	1
+to	0	0
+them	1	2
+.	NA	NA

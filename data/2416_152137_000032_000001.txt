@@ -1,0 +1,13 @@
+His	0	0
+mind	1	0
+obsessed	2	2
+,	NA	NA
+Jimmie	0	0
+Dale's	2	1
+physical	0	0
+acts	2	1
+were	0	0
+almost	0	0
+wholly	0	0
+mechanical	1	2
+.	NA	NA

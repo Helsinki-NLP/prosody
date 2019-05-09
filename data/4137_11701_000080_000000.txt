@@ -1,0 +1,17 @@
+Now	2	0
+,	NA	NA
+understand	0	1
+clearly	1	0
+,	NA	NA
+Coronel	1	2
+,	NA	NA
+I'm	2	0
+not	1	1
+in	0	0
+the	0	0
+least	0	1
+frightened	2	1
+by	0	0
+the	0	0
+Countess	1	2
+.	NA	NA

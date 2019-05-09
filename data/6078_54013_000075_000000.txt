@@ -1,0 +1,6 @@
+Not	0	0
+a	0	1
+Pin	2	1
+to	0	0
+Choose	1	2
+.	NA	NA

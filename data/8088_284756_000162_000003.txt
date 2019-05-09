@@ -1,0 +1,9 @@
+Would	1	0
+it	1	2
+be	1	0
+as	0	1
+clear	1	0
+to	0	1
+the	0	0
+girl	2	2
+?	NA	NA

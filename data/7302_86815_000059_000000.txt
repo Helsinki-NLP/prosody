@@ -1,0 +1,10 @@
+What	0	0
+I	2	1
+require	2	0
+is	0	2
+,	NA	NA
+that	0	0
+justice	1	1
+be	0	0
+done	2	2
+.	NA	NA

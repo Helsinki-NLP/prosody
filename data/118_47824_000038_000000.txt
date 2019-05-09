@@ -1,0 +1,12 @@
+Fact	2	1
+is	1	1
+,	NA	NA
+Bobby	1	1
+,	NA	NA
+I	0	0
+left	2	1
+New	0	0
+York	1	1
+too	0	0
+suddenly	1	2
+.	NA	NA

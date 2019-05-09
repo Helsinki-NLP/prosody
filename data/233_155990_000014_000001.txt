@@ -1,0 +1,10 @@
+The	0	0
+losses	2	0
+of	0	1
+life	2	2
+and	0	0
+of	0	1
+treasure	2	0
+were	0	1
+frightful	1	2
+.	NA	NA

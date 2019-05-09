@@ -1,0 +1,5 @@
+I	2	0
+do	0	1
+believe	1	1
+you	0	2
+.	NA	NA

@@ -1,0 +1,8 @@
+His	0	1
+color	2	0
+is	0	1
+not	1	1
+counted	1	0
+against	1	0
+him	0	2
+.	NA	NA

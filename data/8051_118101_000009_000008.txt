@@ -1,0 +1,11 @@
+In	1	1
+escaping	2	1
+,	NA	NA
+he	0	0
+was	0	1
+obliged	2	1
+to	0	0
+leave	0	0
+them	0	1
+both	2	2
+.	NA	NA

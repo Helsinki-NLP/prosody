@@ -1,0 +1,6 @@
+She	1	0
+was	0	1
+stubborn	2	1
+and	0	0
+weak	1	2
+.	NA	NA

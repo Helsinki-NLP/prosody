@@ -1,0 +1,7 @@
+And	0	0
+he	1	0
+also	1	0
+had	0	1
+been	0	0
+cruel	2	2
+.	NA	NA

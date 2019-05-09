@@ -1,0 +1,16 @@
+Do	0	0
+lie	1	0
+down	1	2
+,	NA	NA
+she	0	0
+added	1	1
+crossly	1	2
+,	NA	NA
+and	0	0
+buried	2	0
+her	0	0
+face	1	0
+in	0	1
+the	0	0
+pillow	1	2
+.	NA	NA

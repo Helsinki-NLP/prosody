@@ -1,0 +1,13 @@
+He	0	0
+does	2	0
+not	1	0
+like	1	1
+the	0	0
+idea	0	0
+of	0	1
+crossing	1	2
+the	0	0
+Channel	2	1
+so	1	0
+often	0	2
+.	NA	NA

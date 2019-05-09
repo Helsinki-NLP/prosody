@@ -1,0 +1,7 @@
+But	0	0
+Big	2	1
+Brother	2	0
+was	0	1
+very	0	0
+happy	1	2
+.	NA	NA

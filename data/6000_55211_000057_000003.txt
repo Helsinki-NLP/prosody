@@ -1,0 +1,8 @@
+He	0	0
+will	0	0
+give	0	0
+us	1	2
+a	0	0
+hundred	1	1
+dollars	1	2
+.	NA	NA

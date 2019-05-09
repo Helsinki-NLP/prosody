@@ -1,0 +1,8 @@
+You've	1	0
+never	0	0
+asked	1	2
+me	0	0
+what	0	0
+it	0	1
+is	2	2
+.	NA	NA

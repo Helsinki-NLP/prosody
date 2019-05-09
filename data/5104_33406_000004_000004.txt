@@ -1,0 +1,9 @@
+Men	2	0
+were	0	1
+walking	2	0
+about	1	1
+the	0	0
+plain	2	1
+and	0	0
+talking	2	2
+.	NA	NA

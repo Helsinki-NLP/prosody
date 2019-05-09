@@ -1,0 +1,12 @@
+mrs	2	0
+O'Shaughnessy	2	2
+had	0	0
+refused	1	1
+to	0	0
+get	0	0
+a	0	0
+license	2	1
+when	0	0
+we	0	0
+did	1	2
+.	NA	NA

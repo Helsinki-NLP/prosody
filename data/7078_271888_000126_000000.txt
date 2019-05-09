@@ -1,0 +1,17 @@
+She	2	0
+reeled	0	0
+backwards	2	2
+,	NA	NA
+and	0	0
+before	1	0
+we	0	0
+could	0	0
+save	1	0
+her	0	2
+,	NA	NA
+fell	2	0
+senseless	0	1
+to	0	0
+the	0	0
+floor	1	2
+.	NA	NA

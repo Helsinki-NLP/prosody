@@ -1,0 +1,10 @@
+Yes	2	0
+,	NA	NA
+said	1	1
+Porthos	1	1
+;	NA	NA
+I	1	0
+see	0	0
+a	0	1
+man	2	2
+.	NA	NA

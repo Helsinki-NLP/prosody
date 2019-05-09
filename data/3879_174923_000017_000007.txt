@@ -1,0 +1,4 @@
+That	1	1
+he	0	0
+didn't	2	2
+.	NA	NA

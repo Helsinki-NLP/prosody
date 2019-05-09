@@ -1,0 +1,16 @@
+Let's	2	1
+go	2	0
+over	0	0
+and	0	2
+sit	1	0
+in	0	0
+that	0	1
+old	1	0
+oak	1	0
+on	0	1
+the	0	0
+edge	2	0
+of	0	1
+the	0	0
+meadow	1	2
+!	NA	NA

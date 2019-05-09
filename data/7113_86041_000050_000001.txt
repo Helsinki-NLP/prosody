@@ -1,0 +1,10 @@
+'Then	0	1
+give	2	0
+me	0	2
+just	2	0
+one	1	0
+proof	1	0
+of	0	1
+your	0	0
+goodness	1	2
+.	NA	NA

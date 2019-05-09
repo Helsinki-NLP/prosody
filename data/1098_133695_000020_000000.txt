@@ -1,0 +1,9 @@
+Oh	2	0
+no	1	2
+;	NA	NA
+they're	0	0
+not	1	1
+all	2	0
+like	0	1
+him	0	2
+.	NA	NA

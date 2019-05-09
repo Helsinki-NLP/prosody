@@ -1,0 +1,6 @@
+Is	0	0
+that	2	1
+not	1	0
+like	0	1
+Eric	1	2
+?	NA	NA

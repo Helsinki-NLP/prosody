@@ -1,0 +1,8 @@
+If	0	1
+Hans	2	0
+had	0	1
+but	0	0
+taken	1	0
+my	0	1
+side	2	2
+!	NA	NA

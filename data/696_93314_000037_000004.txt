@@ -1,0 +1,9 @@
+There	0	0
+was	1	1
+really	1	0
+a	0	1
+third	2	0
+at	0	1
+that	1	1
+interview	2	2
+.	NA	NA

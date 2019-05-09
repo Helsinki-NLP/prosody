@@ -1,0 +1,8 @@
+It	0	0
+had	2	1
+become	1	0
+a	0	1
+regular	1	1
+thing	1	0
+now	1	2
+.	NA	NA

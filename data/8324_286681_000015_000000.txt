@@ -1,0 +1,9 @@
+And	1	0
+how	2	0
+do	1	2
+began	1	0
+the	0	0
+Biggest	0	0
+Little	0	1
+Crayfish	1	2
+.	NA	NA

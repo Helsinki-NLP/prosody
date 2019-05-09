@@ -1,0 +1,5 @@
+But	0	0
+they	0	0
+don't	2	1
+understand	1	2
+.	NA	NA

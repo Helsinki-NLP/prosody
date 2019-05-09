@@ -1,0 +1,11 @@
+Besides	2	1
+,	NA	NA
+I	0	0
+should	0	0
+have	0	1
+to	0	0
+come	0	0
+back	2	0
+by	0	1
+myself	2	2
+.	NA	NA

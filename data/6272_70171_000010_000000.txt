@@ -1,0 +1,6 @@
+And	2	0
+between	1	1
+you	0	0
+and	0	1
+me	2	2
+?	NA	NA

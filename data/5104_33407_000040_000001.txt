@@ -1,0 +1,5 @@
+Then	2	0
+Leif	0	1
+was	0	0
+angry	1	2
+.	NA	NA

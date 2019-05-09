@@ -1,0 +1,10 @@
+So	0	0
+we	0	1
+judged	2	0
+it	0	1
+better	1	2
+put	2	0
+off	0	1
+till	0	0
+Tuesday	1	2
+.	NA	NA

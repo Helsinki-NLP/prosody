@@ -1,0 +1,14 @@
+Do	0	0
+you	2	1
+think	2	0
+I'll	0	0
+be	0	1
+poisoned	2	0
+with	0	1
+tobacco	1	1
+smoke	1	1
+from	1	0
+a	0	1
+dozen	0	0
+pipes	2	2
+?	NA	NA

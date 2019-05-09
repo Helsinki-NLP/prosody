@@ -1,0 +1,7 @@
+At	0	0
+any	2	0
+rate	1	2
+,	NA	NA
+for	0	0
+now	1	2
+.	NA	NA

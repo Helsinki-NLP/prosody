@@ -1,0 +1,16 @@
+At	1	0
+this	1	1
+time	2	1
+there	0	0
+was	0	0
+a	0	1
+general	2	1
+Indian	0	0
+war	1	2
+raging	1	1
+all	2	0
+along	0	0
+the	0	1
+western	0	0
+borders	1	2
+.	NA	NA

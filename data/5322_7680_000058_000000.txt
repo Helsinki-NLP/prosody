@@ -1,0 +1,16 @@
+Lukashka	2	0
+seemed	0	1
+quite	2	0
+to	0	0
+have	0	1
+quieted	1	0
+down	2	2
+and	0	0
+to	0	0
+have	0	0
+understood	1	0
+Olenin's	0	0
+attitude	1	0
+towards	1	0
+him	0	2
+.	NA	NA

@@ -1,0 +1,17 @@
+From	1	0
+the	0	0
+West	2	0
+he	0	2
+has	0	0
+borrowed	1	0
+all	1	0
+our	0	1
+material	1	0
+achievement	0	1
+and	0	0
+passed	1	0
+our	0	0
+ethical	0	0
+achievement	0	1
+by	2	2
+.	NA	NA

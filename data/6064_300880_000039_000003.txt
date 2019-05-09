@@ -1,0 +1,13 @@
+You've	2	1
+never	0	0
+been	0	1
+to	0	0
+my	2	1
+place	0	2
+in	0	0
+the	0	0
+mountains	2	1
+,	NA	NA
+have	1	0
+you	2	2
+?	NA	NA

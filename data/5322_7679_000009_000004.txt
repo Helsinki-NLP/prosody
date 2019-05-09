@@ -1,0 +1,11 @@
+The	0	1
+corporal	2	1
+replied	1	2
+that	0	0
+all	2	0
+was	0	1
+well	1	0
+at	0	1
+the	0	0
+outposts	1	2
+.	NA	NA

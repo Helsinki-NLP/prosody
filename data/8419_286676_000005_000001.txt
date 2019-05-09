@@ -1,0 +1,10 @@
+People	1	0
+said	2	0
+that	0	2
+the	0	0
+Adders	1	1
+were	0	0
+afraid	2	0
+of	0	1
+them	2	2
+.	NA	NA

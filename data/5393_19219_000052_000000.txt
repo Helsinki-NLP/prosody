@@ -1,0 +1,4 @@
+Here	2	0
+we	0	1
+pause	1	2
+.	NA	NA

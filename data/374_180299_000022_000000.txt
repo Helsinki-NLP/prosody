@@ -1,0 +1,10 @@
+Since	2	1
+that	2	1
+day	1	2
+he	0	0
+had	0	0
+never	1	1
+been	0	0
+heard	0	0
+of	1	2
+.	NA	NA

@@ -1,0 +1,7 @@
+Her	2	1
+?	NA	NA
+I	1	0
+asked	1	1
+,	NA	NA
+startled	1	2
+.	NA	NA

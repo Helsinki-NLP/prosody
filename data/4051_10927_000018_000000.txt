@@ -1,0 +1,12 @@
+Alexey	1	1
+Alexandrovitch	0	0
+paused	1	2
+,	NA	NA
+and	0	0
+rubbed	1	0
+his	0	0
+forehead	1	0
+and	0	1
+his	0	0
+eyes	1	2
+.	NA	NA

@@ -1,0 +1,17 @@
+Its	0	0
+most	2	1
+eminent	2	1
+virtuoso	1	0
+was	0	1
+john	1	0
+Field	1	2
+seventeen	2	0
+eighty	0	0
+two	1	2
+to	2	0
+eighteen	0	0
+thirty	0	0
+seven	2	1
+of	1	0
+Dublin	1	2
+.	NA	NA

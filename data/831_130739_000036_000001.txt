@@ -1,0 +1,6 @@
+Good	1	0
+night	1	0
+,	NA	NA
+old	0	1
+man	2	2
+.	NA	NA

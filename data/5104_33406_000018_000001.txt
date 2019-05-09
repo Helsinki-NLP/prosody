@@ -1,0 +1,5 @@
+After	2	1
+a	0	0
+while	1	0
+Eric	0	1
+said	2	2

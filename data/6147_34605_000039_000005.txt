@@ -1,0 +1,11 @@
+Sometimes	2	1
+she	0	0
+wore	1	0
+an	0	1
+embroidered	2	1
+cloth	1	1
+jacket	2	0
+like	0	1
+a	0	0
+bachelor	2	2
+.	NA	NA

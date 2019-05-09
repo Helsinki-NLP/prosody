@@ -1,0 +1,13 @@
+Her	0	0
+playing	2	0
+was	0	1
+distinguished	0	0
+by	2	0
+its	0	1
+musicianly	1	0
+intelligence	1	2
+and	2	0
+fine	2	0
+artistic	0	0
+feeling	2	2
+.	NA	NA

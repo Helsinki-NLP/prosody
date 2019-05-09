@@ -1,0 +1,13 @@
+She	0	0
+was	0	1
+off	2	0
+with	0	2
+you	0	0
+to	0	0
+these	0	1
+parts	2	1
+before	0	0
+I	0	1
+knew	2	0
+it	0	2
+.	NA	NA

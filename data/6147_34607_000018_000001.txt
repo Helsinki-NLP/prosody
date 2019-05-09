@@ -1,0 +1,10 @@
+Secondly	2	1
+,	NA	NA
+because	2	0
+she	0	0
+thought	1	0
+the	0	1
+Duchess	0	0
+Josiana's	0	0
+handsome	0	2
+.	NA	NA

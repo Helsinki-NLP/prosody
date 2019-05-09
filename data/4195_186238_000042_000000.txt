@@ -1,0 +1,13 @@
+Really	2	1
+?	NA	NA
+said	1	1
+Uncle	0	0
+john	1	1
+,	NA	NA
+seeing	1	0
+it	0	0
+was	0	1
+expected	2	0
+of	0	0
+him	1	2
+.	NA	NA

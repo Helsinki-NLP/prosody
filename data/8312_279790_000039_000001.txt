@@ -1,0 +1,7 @@
+Your	0	0
+troubles	2	0
+are	0	0
+not	0	1
+without	0	0
+remedy	2	2
+.	NA	NA

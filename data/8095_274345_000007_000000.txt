@@ -1,0 +1,3 @@
+sixteen	0	1
+eighty	0	0
+eight	2	2

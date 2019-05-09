@@ -1,0 +1,6 @@
+Left	2	1
+two	1	0
+sisters	0	1
+in	0	0
+bondage	1	2
+.	NA	NA

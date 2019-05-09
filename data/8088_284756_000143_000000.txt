@@ -1,0 +1,5 @@
+My	2	0
+heart	0	1
+was	0	0
+pounding	2	2
+.	NA	NA

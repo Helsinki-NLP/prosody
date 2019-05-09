@@ -1,0 +1,7 @@
+Who	2	0
+owns	0	0
+an	0	1
+aeroplane	0	0
+around	0	1
+here	2	2
+?	NA	NA

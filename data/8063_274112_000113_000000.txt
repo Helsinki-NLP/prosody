@@ -1,0 +1,7 @@
+Tell	1	0
+me	0	0
+how	1	0
+you	0	2
+console	1	0
+yourself	2	2
+.	NA	NA

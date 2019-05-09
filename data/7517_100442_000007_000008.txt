@@ -1,0 +1,6 @@
+One	2	0
+of	0	0
+our	1	1
+greatest	1	1
+soldiers	1	2
+.	NA	NA

@@ -1,0 +1,9 @@
+Come	0	0
+back	2	1
+with	0	0
+me	0	0
+and	0	2
+choose	1	1
+your	0	0
+land	1	2
+.	NA	NA

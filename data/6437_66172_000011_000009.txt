@@ -1,0 +1,5 @@
+This	1	0
+concluded	2	1
+the	0	0
+ceremony	1	2
+.	NA	NA

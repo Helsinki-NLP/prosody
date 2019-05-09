@@ -1,0 +1,8 @@
+It's	1	1
+your	2	0
+old	0	1
+father	1	1
+come	0	0
+back	1	1
+again	2	2
+.	NA	NA

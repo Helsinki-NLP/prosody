@@ -1,0 +1,13 @@
+We	1	0
+shall	0	0
+have	1	0
+to	0	0
+do	0	0
+away	2	0
+with	0	2
+Jesus	1	1
+quietly	2	2
+,	NA	NA
+someone	1	0
+said	1	2
+.	NA	NA

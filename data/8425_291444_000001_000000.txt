@@ -1,0 +1,4 @@
+TO	1	1
+THE	0	0
+PUBLIC	1	2
+.	NA	NA

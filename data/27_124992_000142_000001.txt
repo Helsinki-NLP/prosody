@@ -1,0 +1,16 @@
+We	0	0
+have	1	0
+sinned	0	0
+with	0	0
+our	1	0
+fathers	1	2
+,	NA	NA
+we	0	0
+have	1	0
+done	1	0
+unjustly	2	2
+,	NA	NA
+we	0	0
+have	2	0
+committed	1	1
+iniquity	1	2

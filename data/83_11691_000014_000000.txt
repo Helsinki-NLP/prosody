@@ -1,0 +1,15 @@
+Coronel	2	2
+,	NA	NA
+said	1	0
+an	0	0
+unhappy	0	0
+voice	0	0
+at	0	0
+last	1	2
+,	NA	NA
+I	2	0
+think	0	0
+I'm	1	0
+coming	0	0
+out	1	2
+.	NA	NA

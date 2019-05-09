@@ -1,0 +1,4 @@
+Partly	1	0
+,	NA	NA
+miss	1	2
+.	NA	NA

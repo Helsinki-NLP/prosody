@@ -1,0 +1,12 @@
+She	0	0
+looked	0	0
+where	0	0
+he	0	0
+had	0	1
+pointed	1	2
+,	NA	NA
+I	2	1
+?	NA	NA
+she	1	0
+said	0	2
+.	NA	NA

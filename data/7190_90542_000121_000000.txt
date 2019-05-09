@@ -1,0 +1,4 @@
+But	1	0
+the	0	1
+head	2	2
+?	NA	NA

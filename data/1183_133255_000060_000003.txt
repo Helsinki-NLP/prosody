@@ -1,0 +1,10 @@
+Father	2	1
+fortunately	1	1
+discovered	2	2
+the	0	0
+great	2	0
+remedy	0	0
+that	0	1
+cured	0	0
+him	1	2
+.	NA	NA

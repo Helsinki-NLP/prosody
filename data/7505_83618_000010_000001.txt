@@ -1,0 +1,6 @@
+Nor	2	0
+does	0	2
+it	0	0
+cease	0	0
+here	1	2
+.	NA	NA

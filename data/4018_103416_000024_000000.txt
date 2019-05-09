@@ -1,0 +1,3 @@
+Great	1	1
+Scott	2	2
+!	NA	NA

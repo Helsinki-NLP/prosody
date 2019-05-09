@@ -1,0 +1,10 @@
+But	2	0
+Jost	2	2
+can	0	0
+tell	1	0
+you	0	1
+more	0	0
+than	0	0
+I	1	1
+can	1	2
+.	NA	NA

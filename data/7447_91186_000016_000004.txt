@@ -1,0 +1,13 @@
+From	2	0
+him	0	2
+Haydn	2	0
+gained	0	1
+much	2	0
+that	1	1
+he	0	0
+later	2	1
+transferred	1	1
+to	0	0
+the	0	0
+orchestra	2	2
+.	NA	NA

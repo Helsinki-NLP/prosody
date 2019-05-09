@@ -1,0 +1,8 @@
+We	1	0
+don't	1	0
+know	1	0
+that	0	1
+Bernard	1	0
+is	0	1
+alive	1	2
+.	NA	NA

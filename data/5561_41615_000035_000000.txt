@@ -1,0 +1,14 @@
+Then	1	0
+she	0	0
+deliberately	0	0
+tore	1	0
+the	0	1
+offending	1	0
+paper	1	0
+into	0	0
+shreds	2	2
+and	0	0
+scattered	2	0
+them	0	1
+broadcast	2	2
+.	NA	NA

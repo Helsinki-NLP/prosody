@@ -1,0 +1,8 @@
+Do	1	0
+you	0	0
+understand	2	0
+me	1	2
+?	NA	NA
+he	0	0
+said	1	2
+.	NA	NA

@@ -1,0 +1,10 @@
+It	1	0
+flees	2	0
+to	1	0
+its	0	2
+kind	2	1
+for	0	0
+shelter	1	0
+from	0	1
+itself	2	2
+.	NA	NA

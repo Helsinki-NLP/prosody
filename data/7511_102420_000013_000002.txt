@@ -1,0 +1,15 @@
+He	0	0
+ran	1	0
+forward	0	2
+,	NA	NA
+but	0	0
+I	2	0
+stood	0	1
+still	2	1
+,	NA	NA
+fascinated	2	1
+by	0	0
+what	0	0
+I	0	1
+saw	2	2
+.	NA	NA

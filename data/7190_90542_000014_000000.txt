@@ -1,0 +1,8 @@
+One	0	0
+point	1	0
+,	NA	NA
+however	1	1
+,	NA	NA
+impressed	1	0
+me	1	2
+.	NA	NA

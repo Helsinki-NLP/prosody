@@ -1,0 +1,8 @@
+It	1	0
+is	0	0
+right	2	1
+that	0	0
+you	0	0
+should	0	1
+go	2	2
+.	NA	NA

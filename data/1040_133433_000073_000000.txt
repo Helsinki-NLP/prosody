@@ -1,0 +1,10 @@
+Wendy	2	0
+was	0	1
+married	2	0
+in	0	1
+white	1	0
+with	0	2
+a	0	0
+pink	0	0
+sash	1	2
+.	NA	NA

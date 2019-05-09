@@ -1,0 +1,4 @@
+He	0	0
+entered	1	0
+it	1	2
+.	NA	NA

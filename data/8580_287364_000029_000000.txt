@@ -1,0 +1,6 @@
+Threaten	1	1
+to	0	0
+drop	1	0
+him	0	1
+overboard	2	2
+.	NA	NA

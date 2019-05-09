@@ -1,0 +1,5 @@
+It	1	1
+instantly	0	0
+aroused	1	1
+her	1	2
+.	NA	NA

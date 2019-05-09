@@ -1,0 +1,6 @@
+I	0	0
+shook	2	1
+my	0	0
+head	0	1
+sadly	2	2
+.	NA	NA

@@ -1,0 +1,13 @@
+Oh	2	0
+yes	1	1
+,	NA	NA
+there	1	0
+are	0	0
+,	NA	NA
+heaps	1	2
+and	0	0
+heaps	2	1
+,	NA	NA
+contradicted	1	0
+Edward	0	2
+.	NA	NA

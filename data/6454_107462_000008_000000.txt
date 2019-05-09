@@ -1,0 +1,10 @@
+It	1	0
+was	0	0
+up	2	0
+these	0	1
+stairs	1	1
+he	0	0
+craved	1	0
+to	0	1
+go	2	2
+.	NA	NA

@@ -1,0 +1,10 @@
+You	0	0
+see	2	2
+I	2	0
+don't	0	0
+want	0	0
+you	0	1
+to	0	0
+help	1	0
+caring	1	2
+.	NA	NA

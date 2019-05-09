@@ -1,0 +1,6 @@
+Exactly	2	1
+,	NA	NA
+said	1	0
+Jimmie	0	0
+Dale	1	2
+.	NA	NA

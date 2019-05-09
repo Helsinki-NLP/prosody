@@ -1,0 +1,7 @@
+What	2	0
+do	0	0
+you	0	1
+think	0	0
+she	0	1
+found	2	2
+?	NA	NA

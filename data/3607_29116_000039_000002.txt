@@ -1,0 +1,8 @@
+Docs'	2	1
+on	0	0
+them	0	0
+and	0	1
+frank	2	0
+them	0	1
+home	1	2
+.	NA	NA

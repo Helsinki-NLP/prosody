@@ -1,0 +1,10 @@
+The	0	0
+trooper	1	0
+rose	2	1
+instantly	2	1
+from	0	0
+the	0	0
+table	2	1
+,	NA	NA
+exclaiming	2	2
+,	NA	NA

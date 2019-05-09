@@ -1,0 +1,10 @@
+'How	2	1
+?	NA	NA
+'	NA	NA
+exclaimed	0	0
+Jegu	0	0
+,	NA	NA
+filled	1	0
+with	0	1
+astonishment	2	2
+.	NA	NA

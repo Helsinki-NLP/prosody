@@ -1,0 +1,13 @@
+You	2	0
+are	0	0
+going	1	1
+to	0	0
+answer	1	0
+my	1	1
+questions	1	2
+.	NA	NA
+Whence	2	0
+do	0	0
+you	0	1
+come	2	2
+?	NA	NA

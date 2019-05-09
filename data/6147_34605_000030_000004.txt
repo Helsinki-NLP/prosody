@@ -1,0 +1,11 @@
+In	0	0
+the	0	0
+eighteenth	2	0
+century	1	2
+the	0	0
+wife	2	1
+bolts	2	1
+out	0	0
+her	0	0
+husband	1	2
+.	NA	NA

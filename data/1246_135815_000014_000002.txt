@@ -1,0 +1,7 @@
+You	2	0
+are	0	1
+better	2	0
+as	0	1
+a	0	0
+digger	2	2
+.	NA	NA

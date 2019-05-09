@@ -1,0 +1,5 @@
+Do	0	0
+you	1	0
+think	2	1
+so	2	2
+?	NA	NA

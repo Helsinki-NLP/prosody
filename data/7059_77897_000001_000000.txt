@@ -1,0 +1,15 @@
+That	2	1
+was	0	0
+a	0	0
+great	1	1
+success	2	2
+,	NA	NA
+said	1	0
+mrs	0	1
+Munger	1	0
+,	NA	NA
+as	0	1
+they	0	0
+drove	0	0
+away	1	2
+.	NA	NA

@@ -1,0 +1,13 @@
+It	2	0
+was	0	0
+a	0	1
+remarkable	2	1
+pose	2	0
+,	NA	NA
+if	0	2
+only	2	0
+the	0	1
+focus	2	1
+was	0	0
+right	1	2
+.	NA	NA

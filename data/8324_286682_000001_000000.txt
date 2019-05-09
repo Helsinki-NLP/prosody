@@ -1,0 +1,3 @@
+THE	1	0
+LUCKY	0	1
+MINK	1	2

@@ -1,0 +1,7 @@
+Get	0	0
+this	0	1
+bottle	2	0
+and	0	1
+try	2	0
+it	0	2
+.	NA	NA

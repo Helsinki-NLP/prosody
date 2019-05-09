@@ -1,0 +1,15 @@
+Three	1	0
+hundred	1	2
+Thirnagoas	2	2
+and	0	0
+thirty	1	0
+Frenchmen	0	1
+took	2	0
+up	0	0
+their	0	0
+march	0	1
+through	0	0
+the	0	0
+pine	0	0
+barrens	1	2
+.	NA	NA

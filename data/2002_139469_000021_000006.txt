@@ -1,0 +1,17 @@
+We	0	0
+had	1	1
+many	0	0
+foreign	1	0
+friends	1	1
+whom	0	0
+we	0	2
+eagerly	1	0
+sought	0	0
+out	2	2
+,	NA	NA
+and	0	0
+relieved	2	0
+from	0	1
+dreadful	2	0
+penury	1	2
+.	NA	NA

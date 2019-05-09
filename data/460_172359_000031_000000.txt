@@ -1,0 +1,10 @@
+They	0	0
+all	1	0
+went	0	0
+in	0	2
+or	2	1
+all	2	0
+except	0	0
+mr	0	1
+Smith	2	2
+.	NA	NA

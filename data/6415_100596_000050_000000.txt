@@ -1,0 +1,6 @@
+That's	1	1
+so	2	1
+!	NA	NA
+Patty	1	0
+exclaimed	1	2
+.	NA	NA

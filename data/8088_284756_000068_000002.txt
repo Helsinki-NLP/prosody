@@ -1,0 +1,11 @@
+Carson	2	0
+and	0	1
+I	0	0
+are	0	0
+both	0	0
+very	0	0
+dark	2	2
+,	NA	NA
+almost	1	0
+swarthy	2	2
+.	NA	NA

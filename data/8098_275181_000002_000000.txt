@@ -1,0 +1,4 @@
+By	1	0
+c	1	1
+a	1	0
+Stephens	0	2

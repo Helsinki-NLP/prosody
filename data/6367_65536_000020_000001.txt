@@ -1,0 +1,17 @@
+He	0	0
+would	2	1
+wait	2	1
+until	1	0
+he	0	1
+saw	2	0
+the	0	1
+kitchen	1	0
+light	1	1
+from	1	0
+the	0	1
+window	2	0
+of	0	1
+his	0	0
+old	1	1
+home	2	2
+.	NA	NA

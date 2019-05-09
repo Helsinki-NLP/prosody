@@ -1,0 +1,9 @@
+.	NA	NA
+.	NA	NA
+.	NA	NA
+Yes	1	1
+,	NA	NA
+you	0	0
+must	1	0
+come	2	2
+.	NA	NA

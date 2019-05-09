@@ -1,0 +1,8 @@
+At	0	0
+intervals	2	1
+he	0	0
+knocked	2	0
+at	0	1
+the	0	0
+doors	1	2
+.	NA	NA

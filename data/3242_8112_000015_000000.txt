@@ -1,0 +1,7 @@
+In	1	0
+what	0	0
+way	2	1
+?	NA	NA
+Trigger	0	0
+asked	2	2
+.	NA	NA

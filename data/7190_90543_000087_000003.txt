@@ -1,0 +1,11 @@
+If	0	0
+a	0	0
+drawer	0	0
+were	0	0
+locked	2	2
+,	NA	NA
+he	0	0
+pried	2	1
+it	0	0
+open	0	2
+.	NA	NA

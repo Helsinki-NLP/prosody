@@ -1,0 +1,10 @@
+And	0	0
+off	2	0
+whisked	1	1
+mrs	0	0
+Rusk	2	2
+for	0	0
+the	0	0
+back	2	0
+staircase	1	2
+.	NA	NA

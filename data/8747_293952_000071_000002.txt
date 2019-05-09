@@ -1,0 +1,12 @@
+But	0	0
+I	1	0
+am	0	1
+hoping	1	0
+against	0	1
+hope	2	2
+,	NA	NA
+said	1	0
+Lucy	0	0
+,	NA	NA
+rising	1	2
+.	NA	NA

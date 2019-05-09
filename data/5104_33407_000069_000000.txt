@@ -1,0 +1,7 @@
+At	1	1
+the	0	0
+feast	2	1
+that	1	1
+night	0	0
+Eric	1	1
+said	2	2

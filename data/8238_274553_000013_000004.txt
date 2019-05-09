@@ -1,0 +1,15 @@
+He	1	0
+appeared	2	0
+to	0	1
+be	0	1
+stifling	2	1
+with	0	0
+passion	2	1
+,	NA	NA
+and	0	0
+his	0	0
+face	2	0
+was	0	1
+cadaverously	2	0
+white	1	2
+.	NA	NA

@@ -1,0 +1,3 @@
+I	2	0
+wouldn't	0	2
+.	NA	NA

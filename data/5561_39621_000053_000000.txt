@@ -1,0 +1,9 @@
+At	1	0
+first	2	1
+the	0	0
+general	1	1
+would	0	0
+not	0	1
+receive	2	0
+me	0	2
+.	NA	NA

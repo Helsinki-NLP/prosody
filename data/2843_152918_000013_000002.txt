@@ -1,0 +1,10 @@
+A	0	0
+number	1	0
+of	0	1
+small	2	0
+articles	0	1
+were	0	0
+also	1	0
+left	0	1
+behind	1	2
+.	NA	NA

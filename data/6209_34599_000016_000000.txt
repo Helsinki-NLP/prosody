@@ -1,0 +1,14 @@
+This	1	0
+little	0	0
+infant	0	1
+was	0	0
+the	0	0
+drop	2	2
+causing	2	0
+the	0	1
+cup	2	0
+of	0	2
+distress	2	1
+to	0	0
+overflow	2	2
+.	NA	NA

@@ -1,0 +1,11 @@
+Well	2	2
+,	NA	NA
+I	1	0
+do	0	0
+not	1	1
+think	0	0
+I	0	0
+shall	1	0
+be	0	1
+again	2	2
+.	NA	NA

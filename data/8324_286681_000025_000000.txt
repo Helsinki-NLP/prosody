@@ -1,0 +1,10 @@
+I	0	0
+don't	0	1
+believe	0	0
+it	1	2
+,	NA	NA
+said	2	0
+the	0	0
+saucy	1	1
+one	0	2
+.	NA	NA

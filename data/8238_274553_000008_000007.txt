@@ -1,0 +1,11 @@
+The	0	0
+contour	1	0
+of	0	0
+his	0	2
+face	2	1
+was	0	0
+somewhat	1	0
+angular	1	0
+and	0	1
+harsh	2	2
+.	NA	NA

@@ -1,0 +1,14 @@
+During	1	0
+the	0	1
+brief	2	0
+minute	0	1
+that	0	0
+he	0	0
+hesitated	2	0
+,	NA	NA
+however	2	2
+,	NA	NA
+Billy	2	1
+sprang	0	0
+forward	1	2
+.	NA	NA

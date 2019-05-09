@@ -1,0 +1,17 @@
+Thanks	2	2
+,	NA	NA
+said	1	0
+the	0	0
+poor	1	0
+abbe	0	1
+,	NA	NA
+shivering	2	1
+as	0	0
+though	1	0
+his	0	0
+veins	1	0
+were	0	0
+filled	1	0
+with	0	0
+ice	1	2
+.	NA	NA

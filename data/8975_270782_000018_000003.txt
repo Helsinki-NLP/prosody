@@ -1,0 +1,17 @@
+One	1	0
+should	0	0
+accept	1	0
+the	0	0
+fact	1	2
+,	NA	NA
+recognized	2	0
+by	0	0
+the	0	1
+Greek	0	0
+myth	0	0
+itself	1	2
+,	NA	NA
+as	1	0
+inevitable	0	0
+destiny	1	2
+.	NA	NA

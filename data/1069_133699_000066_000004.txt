@@ -1,0 +1,9 @@
+Her	2	0
+suspense	1	0
+indeed	1	0
+was	0	1
+dissipated	1	2
+the	1	0
+second	0	0
+day	2	2
+.	NA	NA

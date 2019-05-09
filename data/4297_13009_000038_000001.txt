@@ -1,0 +1,13 @@
+You	0	0
+do	0	0
+not	2	1
+know	0	0
+how	0	1
+constantly	1	1
+I	0	0
+carry	1	0
+you	0	1
+about	2	0
+with	0	1
+me	1	2
+.	NA	NA

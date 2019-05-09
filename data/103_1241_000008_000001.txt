@@ -1,0 +1,7 @@
+It's	1	0
+a	0	2
+boy	2	0
+I've	0	1
+come	0	0
+for	1	2
+.	NA	NA

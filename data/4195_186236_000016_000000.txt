@@ -1,0 +1,9 @@
+I	2	0
+used	0	1
+mine	0	0
+,	NA	NA
+said	0	0
+Beth	1	1
+,	NA	NA
+bitterly	2	2
+.	NA	NA

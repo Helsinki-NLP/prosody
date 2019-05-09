@@ -1,0 +1,16 @@
+Mirrors	2	1
+repeated	1	0
+the	0	0
+light	1	0
+of	0	1
+precious	0	0
+stones	1	1
+,	NA	NA
+and	0	0
+sparkles	2	0
+glittered	1	0
+in	0	1
+the	0	0
+darkest	1	1
+corners	2	2
+.	NA	NA

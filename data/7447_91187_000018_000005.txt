@@ -1,0 +1,10 @@
+Indications	2	1
+of	0	0
+it	0	0
+in	0	1
+Bach	2	2
+are	1	0
+too	0	0
+often	2	1
+neglected	2	2
+.	NA	NA

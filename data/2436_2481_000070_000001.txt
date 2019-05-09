@@ -1,0 +1,7 @@
+Why	0	0
+don't	1	0
+you	0	1
+go	2	1
+get	2	0
+him	1	2
+?	NA	NA

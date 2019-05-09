@@ -1,0 +1,7 @@
+He	0	0
+smoked	2	1
+with	0	0
+a	0	0
+vast	2	1
+contentment	1	2
+.	NA	NA

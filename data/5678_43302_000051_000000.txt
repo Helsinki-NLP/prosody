@@ -1,0 +1,10 @@
+You	0	0
+saw	1	0
+that	1	1
+too	1	0
+,	NA	NA
+then	2	2
+.	NA	NA
+.	NA	NA
+.	NA	NA
+.	NA	NA

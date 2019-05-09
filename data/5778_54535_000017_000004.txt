@@ -1,0 +1,14 @@
+There	2	0
+was	0	0
+a	0	1
+trial	2	1
+in	0	0
+London	1	2
+,	NA	NA
+and	0	0
+the	0	0
+court	2	0
+room	0	1
+was	0	0
+crowded	2	2
+.	NA	NA

@@ -1,0 +1,16 @@
+He	0	0
+could	1	1
+not	1	0
+enter	0	0
+again	0	0
+into	0	0
+the	0	1
+heritage	2	0
+of	0	1
+boyhood	2	2
+and	0	0
+the	0	0
+heart	2	0
+of	0	1
+youth	1	2
+.	NA	NA

@@ -1,0 +1,10 @@
+Neither	2	0
+the	0	1
+engineer	0	0
+nor	0	0
+the	0	1
+reporter	2	0
+could	0	1
+calm	2	1
+him	0	2
+.	NA	NA

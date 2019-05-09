@@ -1,0 +1,9 @@
+The	0	0
+valley	2	0
+was	0	1
+too	0	0
+narrow	2	2
+,	NA	NA
+too	1	0
+placid	2	2
+.	NA	NA

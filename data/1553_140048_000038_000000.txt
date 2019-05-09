@@ -1,0 +1,15 @@
+What	2	0
+if	0	0
+your	0	0
+aunt	0	0
+shouldn't	0	1
+like	2	1
+the	0	0
+kind	2	0
+of	0	2
+soap	1	1
+?	NA	NA
+queried	0	0
+Rebecca	1	1
+nervously	2	2
+.	NA	NA

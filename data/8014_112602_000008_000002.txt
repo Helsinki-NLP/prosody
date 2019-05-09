@@ -1,0 +1,17 @@
+Even	2	0
+the	0	1
+single	0	0
+outer	0	1
+cloak	2	0
+was	0	0
+often	0	1
+striped	2	2
+,	NA	NA
+spotted	2	2
+,	NA	NA
+or	1	0
+chequered	2	0
+in	0	0
+various	0	0
+colours	1	2
+.	NA	NA

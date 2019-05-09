@@ -1,0 +1,14 @@
+The	0	0
+guns	2	0
+and	0	1
+tomahawks	2	1
+of	0	0
+the	0	0
+Iroquois	2	2
+were	0	0
+the	0	0
+ruin	2	1
+of	0	0
+their	0	0
+hopes	2	2
+.	NA	NA

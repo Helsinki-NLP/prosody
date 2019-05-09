@@ -1,0 +1,14 @@
+Certainly	2	1
+,	NA	NA
+sir	1	2
+,	NA	NA
+I	1	0
+shall	0	0
+make	1	0
+a	0	1
+point	2	0
+of	0	1
+being	2	0
+at	0	1
+home	1	2
+.	NA	NA

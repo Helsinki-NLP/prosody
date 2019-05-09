@@ -1,0 +1,15 @@
+To	0	0
+Hyacinth	2	1
+he	0	0
+seemed	0	0
+the	1	1
+dearest	2	0
+of	0	1
+fathers	1	0
+and	0	1
+the	0	0
+most	0	0
+wonderful	2	0
+of	0	1
+kings	1	2
+.	NA	NA

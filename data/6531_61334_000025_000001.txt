@@ -1,0 +1,15 @@
+The	0	0
+children	2	0
+of	0	1
+Israel	1	1
+fled	1	1
+before	0	0
+Judah	2	2
+and	0	0
+God	2	0
+delivered	0	0
+them	0	1
+into	0	0
+their	0	0
+hand	2	2
+.	NA	NA

@@ -1,0 +1,8 @@
+I	0	0
+repeat	1	0
+it	0	1
+,	NA	NA
+cake	2	1
+good	2	0
+cake	0	2
+.	NA	NA

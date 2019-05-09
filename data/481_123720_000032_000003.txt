@@ -1,0 +1,5 @@
+Please	1	0
+don't	1	2
+.	NA	NA
+.	NA	NA
+.	NA	NA

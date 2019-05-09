@@ -1,0 +1,17 @@
+The	0	1
+first	2	0
+rays	1	0
+of	0	0
+the	0	1
+sun	2	0
+turned	0	1
+the	0	0
+jagged	2	1
+peaks	1	0
+into	0	1
+golden	2	0
+points	1	1
+of	0	0
+a	0	0
+crown	2	2
+.	NA	NA

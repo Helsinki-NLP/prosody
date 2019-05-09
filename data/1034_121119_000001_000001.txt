@@ -1,0 +1,3 @@
+The	0	1
+Law	1	2
+.	NA	NA

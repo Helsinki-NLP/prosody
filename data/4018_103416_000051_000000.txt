@@ -1,0 +1,12 @@
+He	0	0
+sat	2	1
+down	0	1
+,	NA	NA
+still	2	0
+uneasily	1	0
+fingering	0	1
+the	0	0
+roll	1	0
+of	0	1
+bills	2	2
+.	NA	NA

@@ -1,0 +1,13 @@
+You	2	0
+must	0	0
+have	0	1
+discovered	0	0
+a	0	0
+mine	1	2
+,	NA	NA
+or	2	0
+else	0	0
+become	0	0
+a	0	1
+stockbroker	1	2
+.	NA	NA

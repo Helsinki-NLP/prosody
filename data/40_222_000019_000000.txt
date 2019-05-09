@@ -1,0 +1,3 @@
+Our	2	1
+brother	0	2
+!	NA	NA

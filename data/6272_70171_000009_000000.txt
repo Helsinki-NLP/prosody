@@ -1,0 +1,10 @@
+Here	2	0
+,	NA	NA
+in	0	0
+this	0	0
+room	2	2
+,	NA	NA
+and	1	0
+in	0	0
+you	2	2
+.	NA	NA

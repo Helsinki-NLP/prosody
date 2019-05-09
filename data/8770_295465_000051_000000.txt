@@ -1,0 +1,10 @@
+With	1	1
+malice	1	0
+toward	0	0
+none	1	1
+;	NA	NA
+with	1	0
+charity	2	1
+for	1	0
+all	0	2
+.	NA	NA

@@ -1,0 +1,3 @@
+RELIGIOUS	1	0
+LIFE	1	2
+.	NA	NA

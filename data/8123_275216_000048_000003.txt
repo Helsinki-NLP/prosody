@@ -1,0 +1,10 @@
+Bend	2	0
+them	0	2
+properly	2	0
+,	NA	NA
+as	0	0
+you	0	1
+see	0	0
+us	2	0
+do	0	2
+.	NA	NA

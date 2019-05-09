@@ -1,0 +1,7 @@
+Now	2	0
+again	0	0
+I	0	1
+feel	0	0
+that	0	2
+bliss	2	2
+.	NA	NA

@@ -1,0 +1,13 @@
+There	2	0
+is	0	1
+a	0	0
+creek	1	0
+in	0	0
+a	0	1
+direct	2	1
+line	1	0
+from	0	0
+the	0	2
+'Chat	2	2
+Gris'	2	2
+?	NA	NA

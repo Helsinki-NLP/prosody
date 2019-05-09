@@ -1,0 +1,15 @@
+Then	2	0
+the	0	0
+battered	1	1
+jester	0	1
+turns	2	1
+again	2	2
+to	1	0
+his	0	0
+machine	1	1
+and	0	0
+ticks	0	0
+off	1	0
+something	1	2
+like	1	0
+this	2	2

@@ -1,0 +1,15 @@
+You	0	0
+have	1	1
+some	0	0
+sort	2	0
+of	0	2
+work	2	2
+cut	2	0
+out	0	0
+for	0	0
+you	0	1
+,	NA	NA
+she	0	0
+said	1	1
+abruptly	2	2
+.	NA	NA

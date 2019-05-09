@@ -1,0 +1,16 @@
+Then	2	0
+laughter	1	0
+and	0	1
+talking	2	0
+began	1	0
+in	0	1
+the	0	0
+hall	1	2
+because	2	0
+Eric's	1	1
+good	1	0
+temper	2	1
+had	0	0
+come	0	0
+back	2	2
+.	NA	NA

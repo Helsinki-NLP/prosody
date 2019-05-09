@@ -1,0 +1,8 @@
+We	1	0
+would	0	0
+rather	2	1
+be	0	0
+stupid	1	0
+and	0	1
+polite	2	2
+.	NA	NA

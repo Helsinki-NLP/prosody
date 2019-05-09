@@ -1,0 +1,7 @@
+Almighty	2	1
+God	1	1
+!	NA	NA
+no	1	1
+,	NA	NA
+no	2	2
+!	NA	NA

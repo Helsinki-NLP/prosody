@@ -1,0 +1,5 @@
+This	2	2
+Bobo	1	0
+gave	0	1
+readily	1	2
+.	NA	NA

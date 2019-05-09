@@ -1,0 +1,6 @@
+Get	2	0
+up	0	1
+,	NA	NA
+Graham	0	1
+advised	2	2
+.	NA	NA

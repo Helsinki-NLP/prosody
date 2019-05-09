@@ -1,0 +1,4 @@
+This	0	0
+declaration	1	1
+sufficed	2	2
+.	NA	NA

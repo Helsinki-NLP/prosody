@@ -1,0 +1,10 @@
+As	1	0
+true	2	0
+as	0	0
+the	0	2
+sun	2	1
+,	NA	NA
+says	1	0
+the	0	1
+king	1	2
+.	NA	NA

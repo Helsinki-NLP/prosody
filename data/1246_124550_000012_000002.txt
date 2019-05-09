@@ -1,0 +1,16 @@
+Carol	2	0
+recognized	0	1
+in	0	0
+Washington	0	1
+as	1	0
+she	0	0
+had	1	0
+in	0	1
+California	1	2
+a	1	0
+transplanted	1	0
+and	0	1
+guarded	1	0
+Main	0	0
+Street	0	2
+.	NA	NA

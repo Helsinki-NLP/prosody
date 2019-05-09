@@ -1,0 +1,6 @@
+Nor	1	0
+war	1	0
+nor	0	1
+battle	0	1
+sound	2	2
+,	NA	NA

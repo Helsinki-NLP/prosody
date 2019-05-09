@@ -1,0 +1,13 @@
+At	1	0
+first	2	2
+peter	0	0
+had	0	0
+eyes	0	0
+only	1	1
+for	0	0
+the	0	0
+wonderful	1	0
+beauty	0	1
+of	0	0
+Redcoat	1	2
+.	NA	NA

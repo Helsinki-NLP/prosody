@@ -1,0 +1,8 @@
+He	0	0
+was	1	0
+a	0	1
+perfect	2	1
+stranger	2	1
+to	0	0
+me	1	2
+.	NA	NA

@@ -1,0 +1,14 @@
+It	2	0
+was	0	1
+fine	2	0
+of	0	0
+you	0	1
+,	NA	NA
+Cynthia	1	1
+,	NA	NA
+to	0	0
+send	1	0
+her	0	0
+up	0	1
+alone	2	2
+!	NA	NA

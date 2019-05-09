@@ -1,0 +1,7 @@
+I	2	0
+simply	0	1
+mention	0	0
+this	0	2
+in	0	0
+passing	2	2
+.	NA	NA

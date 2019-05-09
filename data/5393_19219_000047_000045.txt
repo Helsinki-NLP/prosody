@@ -1,0 +1,10 @@
+In	2	0
+fact	1	2
+,	NA	NA
+the	0	0
+women	1	0
+must	0	1
+always	2	1
+be	0	0
+loved	1	2
+.	NA	NA

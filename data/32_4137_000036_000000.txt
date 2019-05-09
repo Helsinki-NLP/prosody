@@ -1,0 +1,16 @@
+Yes	1	1
+,	NA	NA
+sir	2	2
+,	NA	NA
+responded	2	1
+Jerry	1	0
+,	NA	NA
+as	0	1
+he	0	0
+wiped	1	1
+the	0	0
+tears	1	0
+from	0	0
+his	0	0
+eyes	0	2
+.	NA	NA

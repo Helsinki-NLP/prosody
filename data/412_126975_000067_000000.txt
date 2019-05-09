@@ -1,0 +1,10 @@
+Both	2	1
+the	1	0
+others	0	2
+shifted	1	0
+sharply	2	2
+and	1	0
+the	0	0
+priest	0	0
+went	0	0
+on	1	2

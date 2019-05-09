@@ -1,0 +1,12 @@
+Maybe	1	0
+not	2	2
+,	NA	NA
+but	0	0
+the	0	0
+point	2	0
+is	0	1
+I	0	0
+didn't	0	0
+see	1	0
+it	0	2
+.	NA	NA

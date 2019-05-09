@@ -1,0 +1,8 @@
+I	1	0
+promise	2	1
+,	NA	NA
+he	0	0
+said	2	0
+at	0	1
+last	2	2
+.	NA	NA

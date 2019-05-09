@@ -1,0 +1,11 @@
+She	2	0
+was	0	1
+smiling	2	2
+,	NA	NA
+and	1	0
+looking	1	0
+up	0	1
+into	0	0
+my	0	0
+eyes	1	2
+.	NA	NA

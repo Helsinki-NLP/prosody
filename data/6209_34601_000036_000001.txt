@@ -1,0 +1,4 @@
+He	0	1
+drew	1	1
+back	2	2
+.	NA	NA

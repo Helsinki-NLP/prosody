@@ -1,0 +1,6 @@
+Julius	2	1
+took	2	0
+it	0	1
+from	1	0
+him	0	2
+.	NA	NA

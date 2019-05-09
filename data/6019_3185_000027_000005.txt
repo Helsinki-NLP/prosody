@@ -1,0 +1,13 @@
+The	0	0
+accomplished	1	0
+guardsman	1	0
+outshone	0	0
+himself	0	0
+in	0	1
+brilliancy	2	2
+;	NA	NA
+even	2	0
+his	0	0
+melancholy	1	0
+relaxed	1	2
+.	NA	NA

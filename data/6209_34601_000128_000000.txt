@@ -1,0 +1,8 @@
+It	1	0
+is	0	0
+a	1	1
+baby	2	1
+that	0	0
+I	0	1
+found	2	2
+.	NA	NA

@@ -1,0 +1,13 @@
+Pod	2	1
+objected	1	1
+at	0	0
+first	2	1
+,	NA	NA
+because	1	0
+of	0	1
+the	0	0
+scarcity	2	1
+of	0	0
+fire	2	0
+wood	0	2
+.	NA	NA

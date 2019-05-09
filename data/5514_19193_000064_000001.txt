@@ -1,0 +1,7 @@
+'tis	1	1
+the	0	0
+fault	2	1
+of	1	2
+.	NA	NA
+.	NA	NA
+.	NA	NA

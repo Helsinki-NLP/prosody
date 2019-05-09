@@ -1,0 +1,15 @@
+Perhaps	2	0
+they	0	0
+can't	0	0
+help	0	1
+being	0	0
+fat	2	2
+,	NA	NA
+but	2	0
+they	0	0
+might	1	0
+at	0	1
+least	0	0
+act	1	1
+genteel	1	2
+.	NA	NA

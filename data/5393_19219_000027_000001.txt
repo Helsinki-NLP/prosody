@@ -1,0 +1,10 @@
+Mist	2	1
+and	1	1
+obscurity	1	1
+are	1	0
+not	0	1
+accepted	1	1
+by	0	0
+the	0	0
+happy	1	2
+.	NA	NA

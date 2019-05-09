@@ -1,0 +1,5 @@
+The	0	0
+fields	2	1
+lay	0	0
+untouched	1	2
+.	NA	NA

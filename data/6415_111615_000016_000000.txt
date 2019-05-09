@@ -1,0 +1,15 @@
+all	2	0
+that	0	0
+one	0	0
+needs	0	1
+to	0	0
+do	1	1
+to	0	0
+that	2	2
+is	1	0
+to	0	0
+write	1	1
+over	1	0
+it	0	2
+the	0	0
+caption	1	2

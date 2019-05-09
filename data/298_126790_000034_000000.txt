@@ -1,0 +1,10 @@
+It	2	0
+is	0	1
+doubtless	1	1
+wise	2	0
+to	0	2
+be	0	0
+prepared	2	1
+for	0	0
+death	2	2
+.	NA	NA

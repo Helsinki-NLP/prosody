@@ -1,0 +1,4 @@
+Oh	1	0
+,	NA	NA
+no	1	2
+!	NA	NA

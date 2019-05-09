@@ -1,0 +1,7 @@
+Is	1	0
+it	0	0
+not	2	1
+some	0	0
+bad	1	1
+affair	2	2
+?	NA	NA

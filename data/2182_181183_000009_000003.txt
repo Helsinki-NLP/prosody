@@ -1,0 +1,8 @@
+Im	0	0
+going	2	1
+to	0	0
+look	1	1
+this	0	1
+thing	1	0
+up	0	2
+.	NA	NA

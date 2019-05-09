@@ -1,0 +1,14 @@
+Next	2	0
+moment	1	1
+the	0	0
+door	1	0
+opened	0	2
+,	NA	NA
+and	1	1
+Frederick	2	0
+and	0	1
+his	0	0
+father	2	1
+came	1	0
+in	0	2
+.	NA	NA

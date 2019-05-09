@@ -1,0 +1,10 @@
+Pay	2	0
+those	0	1
+bills	2	1
+before	0	0
+your	0	1
+father	1	0
+learns	2	1
+about	1	0
+them	0	2
+.	NA	NA

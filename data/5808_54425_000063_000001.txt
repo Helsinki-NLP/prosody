@@ -1,0 +1,9 @@
+Oh	2	1
+,	NA	NA
+don't	2	0
+look	0	1
+at	0	0
+me	0	0
+like	0	1
+that	1	2
+.	NA	NA

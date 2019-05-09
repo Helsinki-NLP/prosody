@@ -1,0 +1,16 @@
+About	2	0
+six	0	0
+o'clock	2	2
+we	0	0
+went	1	0
+into	0	0
+camp	1	0
+on	0	1
+the	0	0
+margin	2	0
+of	0	1
+a	0	0
+famous	1	1
+petrified	1	1
+forest	2	2
+.	NA	NA

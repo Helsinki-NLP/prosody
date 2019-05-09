@@ -1,0 +1,9 @@
+Ursus	2	0
+continued	1	1
+his	0	0
+imprecations	1	1
+,	NA	NA
+muttering	2	1
+to	0	0
+himself	2	2
+,	NA	NA

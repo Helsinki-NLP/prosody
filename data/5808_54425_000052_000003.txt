@@ -1,0 +1,12 @@
+She	1	0
+was	0	0
+a	0	0
+light	2	1
+sleeper	2	2
+,	NA	NA
+and	1	0
+his	0	0
+step	1	0
+awakened	1	0
+her	1	2
+.	NA	NA

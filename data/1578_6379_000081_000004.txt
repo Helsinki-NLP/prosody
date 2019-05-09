@@ -1,0 +1,11 @@
+I	0	0
+felt	2	0
+as	0	1
+though	1	0
+I	0	0
+were	0	1
+flirting	2	0
+with	0	2
+my	0	0
+grandfather	2	2
+.	NA	NA

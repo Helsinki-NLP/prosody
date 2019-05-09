@@ -1,0 +1,17 @@
+I	2	0
+didn't	0	1
+know	2	0
+I	0	0
+had	0	0
+any	0	1
+close	1	0
+relatives	1	2
+,	NA	NA
+and	1	0
+I	1	0
+want	1	1
+to	0	0
+know	1	0
+about	1	1
+them	1	2
+.	NA	NA

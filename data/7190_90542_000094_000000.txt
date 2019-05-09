@@ -1,0 +1,13 @@
+We	0	0
+may	0	0
+have	2	0
+to	0	1
+creep	0	0
+a	0	0
+little	0	1
+nearer	1	1
+presently	2	2
+,	NA	NA
+he	0	0
+whispered	2	2
+.	NA	NA

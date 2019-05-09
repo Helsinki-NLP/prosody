@@ -1,0 +1,9 @@
+Him	2	2
+put	2	0
+up	0	1
+for	0	0
+others	1	1
+at	0	0
+West	0	1
+Lynne	2	2
+!	NA	NA

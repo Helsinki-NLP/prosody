@@ -1,0 +1,7 @@
+You	0	1
+poor	1	1
+dear	2	2
+!	NA	NA
+she	0	0
+said	1	2
+.	NA	NA

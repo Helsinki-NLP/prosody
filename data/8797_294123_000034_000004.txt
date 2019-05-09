@@ -1,0 +1,10 @@
+He	0	0
+has	0	0
+developed	2	1
+national	1	0
+consciousness	1	1
+instead	0	0
+of	0	0
+moral	2	0
+consciousness	0	2
+.	NA	NA

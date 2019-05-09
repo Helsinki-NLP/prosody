@@ -1,0 +1,6 @@
+What	1	0
+good	2	0
+was	0	1
+a	0	0
+Josiana	1	2
+?	NA	NA

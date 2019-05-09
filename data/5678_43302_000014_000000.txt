@@ -1,0 +1,5 @@
+Oliver	2	0
+smiled	0	1
+at	0	0
+her	2	2
+.	NA	NA

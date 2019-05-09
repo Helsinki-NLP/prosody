@@ -1,0 +1,6 @@
+But	0	0
+there's	1	0
+nothing	2	0
+to	0	1
+forgive	2	2
+.	NA	NA

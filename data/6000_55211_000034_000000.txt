@@ -1,0 +1,10 @@
+They	2	0
+are	0	0
+,	NA	NA
+then	0	2
+valuable	2	2
+?	1	0
+mrs	NA	NA
+Greggory's	0	0
+shook	1	2
+.	NA	NA

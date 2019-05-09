@@ -1,0 +1,15 @@
+You	0	0
+had	0	0
+better	1	0
+say	0	0
+earlier	1	2
+,	NA	NA
+as	1	0
+he	0	0
+is	0	0
+always	1	0
+out	0	0
+about	1	0
+the	0	1
+parish	1	2
+.	NA	NA

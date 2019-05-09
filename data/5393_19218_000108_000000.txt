@@ -1,0 +1,3 @@
+Not	1	0
+particularly	2	2
+.	NA	NA

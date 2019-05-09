@@ -1,0 +1,13 @@
+I	1	0
+would	0	0
+rather	1	0
+bite	2	1
+my	0	0
+tongue	0	0
+off	0	0
+than	0	2
+cause	2	0
+Ayrton	1	1
+any	0	0
+pain	1	2
+!	NA	NA

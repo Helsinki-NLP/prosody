@@ -1,0 +1,14 @@
+As	2	0
+with	1	1
+patent	2	0
+medicines	1	2
+so	1	0
+with	0	0
+any	0	0
+other	1	0
+matter	0	1
+whatsoever	2	0
+that	0	0
+was	0	1
+advertised	2	2
+.	NA	NA

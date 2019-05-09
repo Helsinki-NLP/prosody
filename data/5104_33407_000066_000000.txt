@@ -1,0 +1,7 @@
+Lumber	2	1
+!	NA	NA
+lumber	2	0
+!	NA	NA
+they	0	1
+cried	1	2
+.	NA	NA

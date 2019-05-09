@@ -1,0 +1,6 @@
+Finally	2	2
+the	0	0
+tube	1	0
+was	0	1
+withdrawn	2	2
+.	NA	NA

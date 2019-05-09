@@ -1,0 +1,12 @@
+Whoever	2	1
+,	NA	NA
+knowing	1	0
+them	0	2
+,	NA	NA
+pardons	2	0
+them	0	1
+,	NA	NA
+may	1	0
+read	0	0
+them	0	2
+.	NA	NA

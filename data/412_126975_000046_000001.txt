@@ -1,0 +1,8 @@
+Yes	2	0
+,	NA	NA
+we	0	1
+can	2	1
+!	NA	NA
+he	0	0
+cried	2	2
+.	NA	NA

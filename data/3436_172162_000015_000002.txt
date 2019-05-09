@@ -1,0 +1,17 @@
+Launcelot	2	1
+,	NA	NA
+after	1	0
+an	0	0
+easy	1	0
+victory	1	2
+,	NA	NA
+only	1	0
+doomed	1	0
+him	2	1
+to	0	0
+be	0	0
+carted	1	0
+in	0	0
+his	0	0
+turn	1	2
+.	NA	NA

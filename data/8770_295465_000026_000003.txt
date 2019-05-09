@@ -1,0 +1,14 @@
+A	0	1
+call	2	0
+for	0	1
+national	1	0
+thanksgiving	1	1
+is	0	0
+being	0	0
+prepared	2	2
+and	2	0
+will	0	1
+be	0	0
+duly	1	0
+promulgated	1	2
+.	NA	NA

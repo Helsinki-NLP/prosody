@@ -1,0 +1,9 @@
+She	1	0
+was	0	1
+wan	2	0
+and	0	1
+languid	0	1
+,	NA	NA
+but	1	0
+collected	2	2
+.	NA	NA

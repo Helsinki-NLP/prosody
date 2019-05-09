@@ -1,0 +1,7 @@
+I	1	0
+knelt	2	1
+before	1	0
+her	1	0
+in	0	1
+anguish	1	2
+.	NA	NA

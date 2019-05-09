@@ -1,0 +1,17 @@
+Oh	2	0
+,	NA	NA
+you	0	0
+mustn't	0	1
+dream	1	0
+of	0	1
+going	2	0
+home	0	0
+without	1	0
+your	0	2
+tea	2	2
+,	NA	NA
+cried	1	0
+Anne	0	0
+in	0	1
+distress	2	2
+.	NA	NA

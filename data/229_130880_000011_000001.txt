@@ -1,0 +1,9 @@
+No	2	0
+doubt	1	1
+we'll	0	0
+be	0	0
+arriving	2	1
+a	0	0
+little	0	0
+early	2	2
+.	NA	NA

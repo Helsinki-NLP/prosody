@@ -1,0 +1,9 @@
+But	0	0
+haven't	2	0
+I	0	1
+told	0	0
+them	0	0
+a	0	0
+hundred	0	1
+times	2	2
+?	NA	NA

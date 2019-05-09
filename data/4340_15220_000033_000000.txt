@@ -1,0 +1,17 @@
+Ben	2	0
+calmly	0	0
+produced	0	1
+a	0	0
+dollar	0	0
+bill	2	2
+and	0	0
+waved	2	0
+it	0	1
+defiantly	2	0
+before	0	0
+this	0	1
+doubter	1	2
+,	NA	NA
+observing	2	0
+with	0	1
+dignity	1	2

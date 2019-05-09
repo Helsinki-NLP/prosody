@@ -1,0 +1,16 @@
+In	0	0
+the	0	0
+first	2	1
+place	1	2
+,	NA	NA
+you	0	0
+remember	1	0
+the	0	0
+man	0	0
+whom	0	1
+you	0	0
+knocked	1	0
+out	0	0
+this	0	1
+morning	1	2
+?	NA	NA

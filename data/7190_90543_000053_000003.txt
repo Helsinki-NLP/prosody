@@ -1,0 +1,6 @@
+Much	2	1
+depended	0	0
+upon	1	0
+the	0	0
+answer	1	2
+.	NA	NA

@@ -1,0 +1,15 @@
+No	2	0
+,	NA	NA
+it's	0	1
+not	2	0
+the	0	1
+Princess	0	0
+Elvira	2	2
+,	NA	NA
+said	1	0
+Hyacinth	0	1
+,	NA	NA
+a	0	0
+little	1	0
+nervously	1	2
+.	NA	NA

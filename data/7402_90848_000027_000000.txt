@@ -1,0 +1,7 @@
+A	1	0
+half	0	0
+hour	1	1
+,	NA	NA
+he	0	0
+roared	2	2
+.	NA	NA

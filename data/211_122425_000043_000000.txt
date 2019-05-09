@@ -1,0 +1,8 @@
+No	2	2
+,	NA	NA
+bring	2	0
+me	0	0
+all	1	0
+four	0	1
+together	1	2
+.	NA	NA

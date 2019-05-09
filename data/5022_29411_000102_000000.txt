@@ -1,0 +1,9 @@
+The	0	0
+man	2	1
+whom	0	0
+she	0	0
+hated	0	1
+offered	2	1
+his	0	0
+arm	2	2
+.	NA	NA

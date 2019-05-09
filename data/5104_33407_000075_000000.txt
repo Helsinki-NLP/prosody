@@ -1,0 +1,8 @@
+Who	2	0
+are	0	0
+these	0	1
+strangers	1	2
+?	NA	NA
+he	0	0
+asked	2	2
+.	NA	NA

@@ -1,0 +1,12 @@
+Just	1	0
+across	2	0
+the	0	2
+square	1	2
+Sylvia	2	0
+met	0	1
+the	0	0
+Old	0	1
+Fellow	1	0
+and	0	1
+bowed	1	2
+.	NA	NA

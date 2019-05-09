@@ -1,0 +1,8 @@
+Again	2	0
+the	0	1
+curate	1	0
+took	0	1
+time	1	0
+to	0	1
+reply	2	2
+.	NA	NA

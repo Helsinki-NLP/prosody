@@ -1,0 +1,17 @@
+Never	1	0
+before	1	0
+that	0	0
+night	2	2
+had	2	0
+I	0	0
+felt	1	0
+the	0	1
+extent	2	1
+of	0	0
+my	0	0
+own	0	0
+powers	2	2
+of	0	0
+my	1	0
+sagacity	2	2
+.	NA	NA

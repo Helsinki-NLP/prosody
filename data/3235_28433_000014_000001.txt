@@ -1,0 +1,9 @@
+Those	2	0
+who	0	0
+were	0	1
+continually	0	0
+seasick	1	1
+had	0	0
+diversion	1	0
+enough	2	2
+.	NA	NA

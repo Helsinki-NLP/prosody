@@ -1,0 +1,5 @@
+I	2	1
+belong	1	1
+to	0	0
+it	0	2
+.	NA	NA

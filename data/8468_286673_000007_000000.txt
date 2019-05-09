@@ -1,0 +1,14 @@
+The	0	0
+little	1	0
+Mud	2	1
+Turtles	0	1
+looked	2	0
+at	0	1
+each	1	0
+other	1	0
+and	0	0
+didn't	0	1
+say	1	0
+a	0	1
+word	1	2
+.	NA	NA

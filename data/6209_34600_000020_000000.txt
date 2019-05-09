@@ -1,0 +1,14 @@
+Three	1	0
+o'clock	2	1
+tolled	1	0
+slowly	2	0
+behind	1	0
+him	0	2
+from	0	0
+the	0	0
+old	2	1
+belfry	2	1
+of	0	0
+saint	1	0
+Nicholas	0	2
+.	NA	NA

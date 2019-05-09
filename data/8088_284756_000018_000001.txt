@@ -1,0 +1,9 @@
+I	2	0
+suppose	1	0
+you're	0	1
+wondering	1	1
+what	0	0
+it's	0	0
+all	1	1
+about	2	2
+.	NA	NA

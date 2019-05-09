@@ -1,0 +1,10 @@
+Is	1	0
+it	0	1
+so	2	2
+?	NA	NA
+Eric	1	1
+cried	0	0
+,	NA	NA
+leaping	0	0
+up	2	2
+.	NA	NA

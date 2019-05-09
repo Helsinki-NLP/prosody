@@ -1,0 +1,14 @@
+We	0	0
+jogged	2	1
+on	1	1
+quietly	2	1
+and	0	0
+seemed	1	0
+to	0	1
+be	0	0
+going	1	0
+at	0	0
+a	0	1
+good	0	0
+rate	2	2
+.	NA	NA

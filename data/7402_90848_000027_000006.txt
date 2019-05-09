@@ -1,0 +1,14 @@
+It's	0	0
+about	1	0
+the	0	1
+size	1	0
+of	0	1
+a	0	0
+large	1	1
+melon	2	2
+and	0	0
+has	0	0
+sharp	2	1
+little	0	0
+points	2	2
+.	NA	NA

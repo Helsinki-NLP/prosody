@@ -1,0 +1,10 @@
+I	0	0
+don't	2	1
+complain	1	1
+that	0	0
+you	0	0
+are	0	1
+clear	2	0
+and	0	2
+positive	2	2
+.	NA	NA

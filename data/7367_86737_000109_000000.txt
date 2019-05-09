@@ -1,0 +1,4 @@
+A	1	0
+young	0	1
+man	1	2
+?	NA	NA

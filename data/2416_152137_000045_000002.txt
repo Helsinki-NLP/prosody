@@ -1,0 +1,13 @@
+He	0	0
+beat	2	0
+it	0	1
+about	1	0
+fifteen	0	1
+minutes	1	1
+ago	2	2
+,	NA	NA
+him	2	0
+an'	0	0
+Dago	1	1
+Jim	2	2
+.	NA	NA

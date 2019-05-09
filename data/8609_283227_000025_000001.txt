@@ -1,0 +1,8 @@
+You	0	1
+never	0	0
+seemed	1	0
+to	0	1
+care	2	0
+for	0	1
+business	2	2
+.	NA	NA

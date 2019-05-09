@@ -1,0 +1,14 @@
+Yes	2	1
+,	NA	NA
+I	0	0
+said	1	2
+,	NA	NA
+as	0	0
+right	2	0
+as	0	1
+the	0	0
+devil	2	1
+would	0	0
+have	0	0
+it	0	2
+.	NA	NA

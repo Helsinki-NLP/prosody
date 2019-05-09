@@ -1,0 +1,4 @@
+He	1	0
+approached	2	1
+her	1	2
+.	NA	NA

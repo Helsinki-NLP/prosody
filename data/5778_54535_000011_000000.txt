@@ -1,0 +1,10 @@
+james	2	0
+was	0	1
+very	1	0
+careful	1	0
+of	0	1
+his	0	0
+mother	1	1
+,	NA	NA
+too	2	2
+.	NA	NA

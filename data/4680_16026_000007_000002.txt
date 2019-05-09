@@ -1,0 +1,9 @@
+Two	0	0
+days	2	0
+in	0	1
+succession	2	2
+this	1	0
+was	0	0
+too	0	0
+much	1	2
+.	NA	NA

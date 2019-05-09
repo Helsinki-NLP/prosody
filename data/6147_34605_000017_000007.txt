@@ -1,0 +1,9 @@
+They	1	0
+were	0	0
+rivals	2	2
+,	NA	NA
+besides	2	1
+,	NA	NA
+in	0	0
+literature	2	2
+.	NA	NA

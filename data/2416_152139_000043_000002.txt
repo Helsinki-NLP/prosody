@@ -1,0 +1,3 @@
+His	0	1
+pal	2	2
+?	NA	NA

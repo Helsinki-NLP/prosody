@@ -1,0 +1,17 @@
+The	0	0
+larger	2	1
+fishes	1	0
+kept	0	1
+away	1	0
+on	0	0
+account	1	0
+of	0	1
+their	0	0
+children	2	2
+,	NA	NA
+who	1	0
+were	0	0
+small	2	0
+and	0	1
+tender	2	2
+.	NA	NA

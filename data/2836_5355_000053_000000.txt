@@ -1,0 +1,9 @@
+All	1	1
+stratagems	2	1
+are	0	0
+fair	2	0
+in	0	1
+love	0	0
+and	0	1
+war	2	2
+.	NA	NA

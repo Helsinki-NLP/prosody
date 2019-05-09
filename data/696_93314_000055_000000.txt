@@ -1,0 +1,16 @@
+Because	2	2
+if	0	0
+you	0	0
+must	2	0
+know	1	2
+,	NA	NA
+my	2	0
+chances	0	1
+of	0	0
+life	2	0
+have	0	1
+ceased	2	1
+to	0	0
+interest	1	0
+me	0	2
+.	NA	NA

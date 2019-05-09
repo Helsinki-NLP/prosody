@@ -1,0 +1,14 @@
+Even	2	1
+he	1	1
+said	0	0
+that	0	1
+he	0	0
+feared	1	0
+that	0	1
+Jakie	2	0
+had	0	2
+stayed	2	0
+away	1	1
+too	0	0
+long	2	2
+.	NA	NA

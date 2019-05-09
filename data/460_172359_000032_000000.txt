@@ -1,0 +1,9 @@
+mr	1	0
+Smith	1	0
+,	NA	NA
+I	0	1
+say	1	0
+,	NA	NA
+hung	0	1
+back	2	2
+.	NA	NA

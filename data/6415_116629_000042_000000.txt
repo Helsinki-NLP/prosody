@@ -1,0 +1,6 @@
+He	0	1
+isn't	2	1
+coming	1	0
+yet	0	1
+awhile	2	2
+.	NA	NA

@@ -1,0 +1,10 @@
+I	0	0
+know	2	0
+,	NA	NA
+said	0	2
+Caroline	2	1
+,	NA	NA
+with	0	0
+some	0	1
+contrition	2	2
+.	NA	NA

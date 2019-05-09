@@ -1,0 +1,4 @@
+Know	1	0
+de	0	1
+place	2	2
+?	NA	NA

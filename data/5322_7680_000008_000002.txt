@@ -1,0 +1,9 @@
+After	2	0
+that	2	0
+you	0	1
+have	0	0
+nothing	1	1
+to	0	0
+fear	2	2
+.	NA	NA
+'	NA	NA

@@ -1,0 +1,12 @@
+mr	0	0
+Blount	1	1
+started	2	2
+,	NA	NA
+and	0	0
+stopped	2	0
+in	0	1
+his	0	0
+shout	1	0
+of	0	1
+assent	2	2
+.	NA	NA

@@ -1,0 +1,7 @@
+The	0	0
+doctor	2	0
+rose	0	0
+up	0	0
+and	0	1
+said	2	2
+,	NA	NA

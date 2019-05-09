@@ -1,0 +1,9 @@
+mr	2	0
+Shaw's	0	0
+gift	0	0
+of	0	1
+infuriating	1	1
+people	0	0
+is	0	0
+unfailing	2	2
+.	NA	NA

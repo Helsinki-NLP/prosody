@@ -1,0 +1,5 @@
+Here	1	1
+they	0	0
+founded	1	1
+Venice	2	2
+.	NA	NA

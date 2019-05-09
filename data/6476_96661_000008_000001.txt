@@ -1,0 +1,13 @@
+Both	2	0
+were	0	1
+still	1	0
+youthful	2	2
+and	0	0
+neither	1	0
+had	0	0
+yet	0	1
+achieved	1	0
+any	0	0
+notable	0	0
+deed	1	2
+.	NA	NA

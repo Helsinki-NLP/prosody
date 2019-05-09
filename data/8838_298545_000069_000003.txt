@@ -1,0 +1,8 @@
+He	0	0
+is	1	0
+Barton	1	2
+the	0	0
+famous	0	1
+Ted	1	0
+Barton	2	2
+.	NA	NA

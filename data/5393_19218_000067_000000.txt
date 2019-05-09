@@ -1,0 +1,13 @@
+Try	2	0
+to	0	0
+get	0	0
+a	0	1
+sight	1	0
+of	0	0
+the	0	1
+bride	2	0
+by	0	1
+stooping	1	1
+very	0	0
+low	1	2
+.	NA	NA

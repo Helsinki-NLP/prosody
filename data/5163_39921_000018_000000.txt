@@ -1,0 +1,9 @@
+But	2	0
+what	0	0
+becomes	2	1
+of	0	0
+them	1	2
+?	NA	NA
+asked	2	1
+esther	1	2
+.	NA	NA

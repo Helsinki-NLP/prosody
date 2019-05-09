@@ -1,0 +1,11 @@
+With	0	0
+her	1	0
+fortune	1	0
+and	0	0
+his	1	2
+you	1	0
+could	0	0
+buy	1	0
+the	0	0
+world	2	2
+.	NA	NA

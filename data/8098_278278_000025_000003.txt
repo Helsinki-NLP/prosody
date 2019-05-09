@@ -1,0 +1,14 @@
+The	0	0
+shouting	2	0
+sounded	0	1
+nearer	1	0
+every	0	0
+second	1	2
+,	NA	NA
+and	0	0
+I	0	0
+soon	2	0
+distinguished	0	1
+Coonskin's	1	0
+voice	2	2
+.	NA	NA

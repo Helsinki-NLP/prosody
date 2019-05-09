@@ -1,0 +1,12 @@
+Of	1	0
+course	2	2
+,	NA	NA
+he	0	0
+said	2	1
+,	NA	NA
+you'll	1	0
+have	0	0
+to	0	0
+win	1	0
+her	0	2
+.	NA	NA

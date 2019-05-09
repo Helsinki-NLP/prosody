@@ -1,0 +1,5 @@
+Well	2	0
+,	NA	NA
+what	0	1
+then	1	2
+?	NA	NA

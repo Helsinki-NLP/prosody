@@ -1,0 +1,14 @@
+She	0	0
+wondered	1	0
+if	0	1
+he	0	0
+had	0	0
+heard	1	0
+of	0	2
+Erik	2	2
+,	NA	NA
+and	0	0
+was	0	0
+taking	1	1
+advantage	1	2
+.	NA	NA

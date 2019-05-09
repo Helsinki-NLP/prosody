@@ -1,0 +1,5 @@
+Is	0	1
+any	1	0
+one	0	1
+there	2	2
+?	NA	NA

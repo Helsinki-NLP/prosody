@@ -1,0 +1,16 @@
+Mechanically	2	0
+his	0	0
+hand	0	1
+slipped	1	0
+into	0	0
+his	1	1
+pocket	2	2
+and	0	0
+closed	1	0
+over	0	0
+the	0	0
+automatic	1	1
+that	0	0
+nestled	0	0
+there	1	2
+.	NA	NA

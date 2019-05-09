@@ -1,0 +1,10 @@
+In	1	0
+Joe's	2	1
+case	1	1
+even	1	0
+a	0	1
+shorter	1	0
+time	2	0
+was	0	1
+needed	2	2
+.	NA	NA

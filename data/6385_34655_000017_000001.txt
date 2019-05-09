@@ -1,0 +1,6 @@
+He	0	0
+could	0	0
+not	1	1
+find	2	0
+one	1	2
+.	NA	NA

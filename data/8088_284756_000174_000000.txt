@@ -1,0 +1,12 @@
+This	1	0
+was	0	0
+not	2	2
+the	0	0
+same	1	1
+band	2	0
+I	0	0
+had	0	1
+seen	1	0
+at	0	1
+first	2	2
+.	NA	NA

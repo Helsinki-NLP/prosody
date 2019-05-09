@@ -1,0 +1,5 @@
+What	2	0
+is	0	0
+your	0	1
+perplexity	1	2
+?	NA	NA

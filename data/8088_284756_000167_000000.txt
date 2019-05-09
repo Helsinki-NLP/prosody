@@ -1,0 +1,9 @@
+There	0	0
+was	0	0
+a	0	1
+gray	2	0
+haze	0	0
+of	0	2
+mist	0	0
+everywhere	1	2
+.	NA	NA

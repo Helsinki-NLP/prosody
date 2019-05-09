@@ -1,0 +1,4 @@
+That's	2	1
+easy	0	0
+enough	2	2
+.	NA	NA

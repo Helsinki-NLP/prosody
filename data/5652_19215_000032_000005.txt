@@ -1,0 +1,9 @@
+She	0	0
+had	2	2
+reserved	2	0
+her	0	0
+decision	0	0
+on	0	1
+this	0	0
+point	1	2
+.	NA	NA

@@ -1,0 +1,9 @@
+Emmy	2	0
+did	0	1
+not	1	1
+care	0	0
+where	0	0
+she	0	0
+went	1	1
+much	2	2
+.	NA	NA

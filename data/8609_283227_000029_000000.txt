@@ -1,0 +1,10 @@
+It's	0	1
+my	1	0
+property	2	0
+,	NA	NA
+now	0	2
+,	NA	NA
+interposed	1	0
+the	0	1
+broker	1	2
+.	NA	NA

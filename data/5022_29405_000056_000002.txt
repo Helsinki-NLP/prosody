@@ -1,0 +1,9 @@
+I	2	0
+put	0	0
+it	0	0
+at	0	1
+once	2	1
+into	0	0
+his	0	1
+hand	2	2
+.	NA	NA

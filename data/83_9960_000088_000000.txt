@@ -1,0 +1,7 @@
+Through	0	0
+the	0	0
+window	1	2
+,	NA	NA
+replied	2	1
+Thenardier	1	2
+.	NA	NA

@@ -1,0 +1,10 @@
+Let	2	1
+us	1	0
+talk	0	1
+of	0	0
+those	2	0
+,	NA	NA
+if	0	0
+you	0	1
+please	1	2
+.	NA	NA

@@ -1,0 +1,17 @@
+The	0	0
+drumming	2	0
+did	0	1
+not	1	0
+die	2	0
+;	NA	NA
+it	0	1
+grew	0	0
+louder	2	1
+,	NA	NA
+more	0	0
+vehement	1	2
+;	NA	NA
+defiant	2	1
+and	0	0
+deafening	2	2
+.	NA	NA

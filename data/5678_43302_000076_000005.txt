@@ -1,0 +1,5 @@
+But	1	0
+that	1	1
+was	0	0
+all	2	2
+.	NA	NA

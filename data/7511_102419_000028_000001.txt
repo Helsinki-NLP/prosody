@@ -1,0 +1,13 @@
+mr	1	0
+Struble	1	1
+has	0	0
+already	1	0
+killed	0	1
+a	0	0
+fine	2	1
+spike	2	1
+elk	2	2
+for	0	0
+camp	2	0
+eating	0	2
+.	NA	NA

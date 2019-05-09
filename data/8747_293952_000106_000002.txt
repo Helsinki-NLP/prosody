@@ -1,0 +1,5 @@
+She	0	1
+is	0	0
+most	2	1
+respectable	2	2
+.	NA	NA

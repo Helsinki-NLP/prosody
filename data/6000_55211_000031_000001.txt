@@ -1,0 +1,17 @@
+And	1	0
+it's	0	1
+a	0	0
+Lowestoft	2	2
+,	NA	NA
+too	1	0
+,	NA	NA
+the	0	1
+real	2	0
+thing	1	2
+the	1	0
+genuine	1	0
+,	NA	NA
+true	0	0
+soft	0	1
+paste	2	2
+!	NA	NA

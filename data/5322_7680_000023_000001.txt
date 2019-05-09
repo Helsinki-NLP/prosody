@@ -1,0 +1,8 @@
+'Why	2	0
+should	0	1
+you	0	0
+make	1	0
+me	0	0
+a	0	1
+present	2	2
+?	NA	NA

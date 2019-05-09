@@ -1,0 +1,3 @@
+Nothing	1	0
+more	2	2
+.	NA	NA

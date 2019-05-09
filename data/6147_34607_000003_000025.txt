@@ -1,0 +1,11 @@
+She	0	0
+allowed	1	0
+events	0	2
+to	0	0
+fall	1	0
+about	1	0
+as	0	2
+they	0	0
+might	0	1
+chance	1	2
+.	NA	NA

@@ -1,0 +1,7 @@
+Tell	2	0
+me	0	1
+where	0	0
+your	0	1
+strength	1	0
+is	1	2
+.	NA	NA

@@ -1,0 +1,12 @@
+But	0	0
+that	1	0
+was	0	0
+a	1	1
+foolish	1	0
+fancy	1	1
+,	NA	NA
+and	0	0
+must	2	1
+be	0	0
+resisted	2	2
+!	NA	NA

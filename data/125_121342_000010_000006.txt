@@ -1,0 +1,4 @@
+Aren't	0	1
+people	0	0
+horrible	2	2
+!	NA	NA

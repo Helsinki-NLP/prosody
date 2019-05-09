@@ -1,0 +1,13 @@
+Twenty	2	1
+cartouches	0	1
+for	0	0
+Gavroche	2	0
+meant	0	1
+a	0	0
+provision	2	0
+of	0	1
+cartridges	2	1
+for	0	0
+the	0	0
+barricade	2	2
+.	NA	NA

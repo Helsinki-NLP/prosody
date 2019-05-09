@@ -1,0 +1,13 @@
+He	1	0
+of	0	0
+the	0	0
+weaker	0	0
+weapon	1	2
+was	0	0
+very	2	0
+naturally	0	0
+discomfited	1	2
+and	1	0
+sorely	1	0
+wounded	0	2
+.	NA	NA

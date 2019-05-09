@@ -1,0 +1,11 @@
+Oh	0	0
+,	NA	NA
+we	2	0
+won't	0	1
+get	0	0
+lost	2	2
+!	NA	NA
+he	1	0
+said	0	0
+loftily	1	2
+.	NA	NA

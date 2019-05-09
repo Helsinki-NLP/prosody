@@ -1,0 +1,14 @@
+Came	1	0
+a	0	1
+shrill	2	1
+,	NA	NA
+keen	0	0
+wailing	1	1
+louder	2	1
+than	0	0
+ever	0	0
+I	0	0
+had	0	0
+heard	0	1
+before	2	2
+.	NA	NA

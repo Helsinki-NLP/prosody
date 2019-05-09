@@ -1,0 +1,6 @@
+Didn't	0	0
+I	2	1
+?	NA	NA
+Didn't	0	0
+I	2	2
+?	NA	NA

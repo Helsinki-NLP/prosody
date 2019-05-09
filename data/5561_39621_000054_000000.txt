@@ -1,0 +1,7 @@
+He	1	0
+took	0	0
+you	0	0
+for	0	0
+a	0	2
+spy	2	2
+?	NA	NA

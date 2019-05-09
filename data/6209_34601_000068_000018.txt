@@ -1,0 +1,9 @@
+It	1	0
+is	0	0
+not	0	1
+appetite	1	0
+,	NA	NA
+it	0	0
+is	0	1
+ferocity	2	2
+.	NA	NA

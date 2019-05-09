@@ -1,0 +1,9 @@
+I	0	0
+never	2	1
+had	0	0
+any	0	0
+more	0	1
+trouble	2	0
+with	0	2
+Conway	1	2
+.	NA	NA

@@ -1,0 +1,11 @@
+This	1	0
+sad	2	0
+event	1	1
+occurred	2	1
+august	1	1
+twenty	0	0
+seventh	2	2
+eighteen	1	0
+sixty	0	0
+eight	1	2
+.	NA	NA

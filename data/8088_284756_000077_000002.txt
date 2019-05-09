@@ -1,0 +1,11 @@
+In	1	0
+the	0	0
+meantime	1	2
+,	NA	NA
+we'll	1	0
+look	0	0
+over	0	0
+the	0	0
+set	0	0
+up	1	2
+.	NA	NA

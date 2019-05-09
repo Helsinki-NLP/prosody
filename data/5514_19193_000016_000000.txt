@@ -1,0 +1,5 @@
+This	2	1
+outlined	1	1
+the	0	0
+catastrophe	1	2
+.	NA	NA

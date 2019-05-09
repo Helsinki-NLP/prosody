@@ -1,0 +1,8 @@
+With	0	0
+all	2	0
+that	0	2
+she	1	0
+was	0	0
+a	0	1
+prude	1	2
+.	NA	NA

@@ -1,0 +1,5 @@
+Of	1	1
+course	1	1
+you're	0	0
+not	2	2
+.	NA	NA

@@ -1,0 +1,14 @@
+Probably	2	0
+as	0	0
+a	0	0
+child	1	1
+Hyacinth	2	1
+had	0	0
+kept	0	0
+rabbits	2	2
+.	NA	NA
+.	NA	NA
+.	NA	NA
+or	1	0
+lambs	2	2
+.	NA	NA

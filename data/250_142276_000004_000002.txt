@@ -1,0 +1,8 @@
+I	0	1
+wish	2	2
+I	0	0
+knew	1	0
+all	0	1
+about	0	0
+it	2	2
+.	NA	NA

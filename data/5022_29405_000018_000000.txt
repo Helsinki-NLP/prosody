@@ -1,0 +1,8 @@
+I	2	0
+was	0	1
+obliged	2	1
+to	0	0
+acknowledge	2	1
+my	0	0
+ignorance	1	2
+.	NA	NA

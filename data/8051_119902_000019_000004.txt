@@ -1,0 +1,6 @@
+The	1	0
+result	2	0
+is	0	1
+seldom	1	0
+palatable	2	2
+.	NA	NA

@@ -1,0 +1,14 @@
+Saperlotte	2	2
+!	NA	NA
+the	0	0
+best	2	0
+way	1	0
+to	0	0
+adore	0	0
+God	1	0
+is	0	1
+to	0	0
+love	1	0
+one's	0	1
+wife	2	2
+.	NA	NA

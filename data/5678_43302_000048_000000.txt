@@ -1,0 +1,16 @@
+Did	0	0
+you	0	0
+notice	1	1
+anything	0	0
+just	1	0
+now	0	0
+,	NA	NA
+sweetheart	2	2
+when	0	0
+I	0	0
+said	2	2
+that	2	1
+about	2	2
+Jesus	1	0
+Christ	2	2
+?	NA	NA

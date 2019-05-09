@@ -1,0 +1,15 @@
+He	0	0
+wondered	2	1
+for	0	0
+a	0	0
+moment	0	1
+whether	1	1
+to	0	0
+order	1	0
+his	0	1
+daughter	2	0
+out	0	0
+of	0	2
+the	0	0
+room	2	2
+.	NA	NA

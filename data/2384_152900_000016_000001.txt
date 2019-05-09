@@ -1,0 +1,10 @@
+This	0	0
+all	2	0
+came	1	1
+complete	1	0
+from	0	1
+a	0	0
+firm	2	0
+in	0	1
+Stockholm	2	2
+.	NA	NA

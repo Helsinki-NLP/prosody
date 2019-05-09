@@ -1,0 +1,9 @@
+One	1	0
+might	0	0
+have	0	1
+walked	1	0
+about	1	0
+there	0	2
+,	NA	NA
+unclothed	2	2
+.	NA	NA

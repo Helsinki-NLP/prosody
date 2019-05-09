@@ -1,0 +1,10 @@
+This	1	0
+craft	2	2
+is	1	0
+not	1	0
+like	0	1
+the	0	0
+ill	1	0
+fated	0	1
+Whizzer	0	2
+.	NA	NA

@@ -1,0 +1,6 @@
+Oh	2	0
+,	NA	NA
+yes	1	1
+you	0	0
+will	1	2
+.	NA	NA

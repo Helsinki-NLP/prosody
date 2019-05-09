@@ -1,0 +1,8 @@
+The	2	0
+Lees	0	1
+will	0	0
+be	0	0
+at	0	1
+the	0	0
+cottage	2	2
+.	NA	NA

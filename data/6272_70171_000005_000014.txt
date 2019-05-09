@@ -1,0 +1,5 @@
+Its	0	1
+fragrance	2	0
+was	0	1
+intoxicating	1	2
+.	NA	NA

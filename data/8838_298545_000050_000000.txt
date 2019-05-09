@@ -1,0 +1,11 @@
+That	2	0
+was	1	1
+when	1	0
+he	0	0
+was	0	1
+hog	1	1
+fat	1	0
+and	0	0
+living	0	1
+high	2	2
+.	NA	NA

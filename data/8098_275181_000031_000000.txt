@@ -1,0 +1,11 @@
+Got	0	0
+him	0	1
+,	NA	NA
+Tom	2	2
+?	NA	NA
+I	0	0
+shouted	2	1
+,	NA	NA
+rushing	1	0
+up	0	2
+.	NA	NA

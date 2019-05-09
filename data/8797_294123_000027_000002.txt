@@ -1,0 +1,10 @@
+Our	2	0
+material	0	0
+achievement	0	1
+is	0	0
+the	0	0
+product	2	1
+of	0	0
+our	1	0
+intellect	1	2
+.	NA	NA

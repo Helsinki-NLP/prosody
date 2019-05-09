@@ -1,0 +1,13 @@
+Emma	2	0
+Jane	0	0
+practiced	0	1
+it	0	0
+on	0	0
+Rebecca	2	2
+,	NA	NA
+and	0	0
+Rebecca	2	1
+on	0	0
+Emma	0	0
+Jane	2	2
+.	NA	NA

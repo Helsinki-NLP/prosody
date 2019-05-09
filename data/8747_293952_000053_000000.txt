@@ -1,0 +1,6 @@
+I	2	0
+have	0	1
+met	1	0
+him	0	1
+once	1	2
+.	NA	NA

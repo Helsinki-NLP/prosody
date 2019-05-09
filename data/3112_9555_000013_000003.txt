@@ -1,0 +1,15 @@
+And	2	0
+it	0	0
+is	0	0
+one	0	0
+also	1	0
+for	0	1
+success	2	0
+in	0	0
+which	0	0
+a	0	2
+sufficient	2	1
+capital	1	0
+is	1	1
+indispensable	2	2
+.	NA	NA

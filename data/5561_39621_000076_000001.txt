@@ -1,0 +1,15 @@
+Parry	2	0
+,	NA	NA
+are	0	1
+there	0	0
+not	1	1
+examples	2	1
+in	0	0
+which	0	0
+a	0	0
+man	1	0
+of	0	0
+my	1	1
+condition	1	0
+should	0	1
+himself	2	2

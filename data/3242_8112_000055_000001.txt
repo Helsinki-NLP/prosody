@@ -1,0 +1,8 @@
+Would	2	0
+make	1	0
+a	0	1
+difference	2	1
+,	NA	NA
+wouldn't	0	0
+it	1	2
+?	NA	NA

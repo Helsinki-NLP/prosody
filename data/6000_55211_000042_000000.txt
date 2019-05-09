@@ -1,0 +1,13 @@
+And	0	0
+so	2	0
+you	0	1
+see	1	0
+,	NA	NA
+I	0	1
+do	0	0
+very	1	0
+much	0	0
+wish	1	0
+to	0	2
+sell	2	2
+.	NA	NA

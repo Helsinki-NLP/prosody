@@ -1,0 +1,17 @@
+Unholy	2	0
+thoughts	1	2
+began	1	0
+to	0	0
+crowd	2	0
+into	0	0
+his	0	1
+brain	1	2
+,	NA	NA
+sinister	2	0
+suggestions	2	1
+of	0	0
+evil	1	0
+presented	0	0
+themselves	0	0
+seductively	1	2
+.	NA	NA

@@ -1,0 +1,7 @@
+It	0	0
+is	1	1
+really	1	0
+a	0	1
+prize	2	1
+fight	2	2
+.	NA	NA

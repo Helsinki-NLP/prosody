@@ -1,0 +1,15 @@
+Within	2	0
+this	0	1
+enclosure	1	2
+is	0	0
+a	0	0
+famous	2	0
+building	0	2
+called	1	0
+the	0	0
+Ka'a	2	0
+ba	0	0
+,	NA	NA
+or	1	1
+cube	2	2
+.	NA	NA

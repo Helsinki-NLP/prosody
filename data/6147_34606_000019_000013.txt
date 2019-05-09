@@ -1,0 +1,6 @@
+What	2	0
+could	0	1
+be	0	0
+more	1	1
+touching	1	2
+?	NA	NA

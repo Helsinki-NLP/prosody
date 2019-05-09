@@ -1,0 +1,12 @@
+Let	1	0
+me	0	0
+hasten	1	1
+onward	1	1
+,	NA	NA
+and	0	0
+take	2	0
+it	0	1
+to	0	0
+my	0	0
+bosom	2	2
+.	NA	NA

@@ -1,0 +1,7 @@
+But	0	0
+I'm	0	0
+not	1	1
+sorry	2	1
+at	0	0
+all	2	2
+.	NA	NA

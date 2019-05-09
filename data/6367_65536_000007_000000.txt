@@ -1,0 +1,17 @@
+So	1	0
+he	0	0
+had	0	0
+come	0	0
+back	1	1
+to	1	0
+it	0	2
+,	NA	NA
+drawn	2	0
+by	0	0
+a	0	1
+longing	1	1
+not	1	0
+to	0	0
+be	0	1
+resisted	1	2
+.	NA	NA

@@ -1,0 +1,8 @@
+If	0	0
+so	2	2
+,	NA	NA
+what	1	0
+did	0	0
+he	0	0
+feel	2	2
+?	NA	NA

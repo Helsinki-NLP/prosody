@@ -1,0 +1,12 @@
+Why	2	2
+,	NA	NA
+my	1	0
+dear	0	0
+young	0	0
+lady	0	0
+,	NA	NA
+what	1	1
+can	0	0
+I	0	0
+do	1	2
+?	NA	NA

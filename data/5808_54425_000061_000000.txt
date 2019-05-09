@@ -1,0 +1,14 @@
+You	0	0
+put	0	0
+me	0	0
+out	2	1
+to	0	0
+night	1	1
+,	NA	NA
+he	0	0
+repeated	1	1
+,	NA	NA
+like	2	0
+a	0	1
+dog	2	2
+.	NA	NA

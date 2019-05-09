@@ -1,0 +1,16 @@
+Let	1	1
+the	0	0
+boys	2	1
+know	1	0
+that	0	2
+just	2	1
+for	0	0
+a	0	0
+while	2	1
+the	0	0
+darker	1	0
+they	0	0
+keep	0	1
+the	0	0
+better	2	2
+.	NA	NA

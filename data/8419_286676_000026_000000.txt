@@ -1,0 +1,7 @@
+Ouch	2	2
+!	NA	NA
+exclaimed	1	0
+the	0	0
+Snapping	0	0
+Turtle	1	2
+.	NA	NA

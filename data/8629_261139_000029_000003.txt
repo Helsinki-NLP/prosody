@@ -1,0 +1,5 @@
+She	2	0
+was	0	1
+not	1	1
+murdered	2	2
+.	NA	NA

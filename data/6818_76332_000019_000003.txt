@@ -1,0 +1,8 @@
+They	1	0
+regarded	2	0
+each	0	0
+other	0	0
+with	0	2
+mutual	1	1
+surprise	1	2
+.	NA	NA

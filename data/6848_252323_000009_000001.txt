@@ -1,0 +1,15 @@
+I'll	0	0
+have	1	0
+to	0	1
+be	0	0
+up	2	0
+at	0	1
+the	0	0
+office	1	0
+for	0	0
+the	0	1
+bags	2	1
+at	0	0
+six	0	0
+o'clock	2	2
+.	NA	NA

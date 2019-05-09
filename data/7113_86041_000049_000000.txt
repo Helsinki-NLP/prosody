@@ -1,0 +1,10 @@
+'Ask	2	1
+some	0	0
+proof	1	1
+,	NA	NA
+sweetheart	2	1
+,	NA	NA
+'	NA	NA
+said	2	0
+he	0	2
+.	NA	NA

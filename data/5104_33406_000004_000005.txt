@@ -1,0 +1,5 @@
+Everybody	2	0
+seemed	0	0
+much	0	1
+excited	2	2
+.	NA	NA

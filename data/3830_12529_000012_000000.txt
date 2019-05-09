@@ -1,0 +1,7 @@
+We	0	0
+could	0	0
+not	2	1
+stay	2	0
+at	0	1
+Olympia	1	2
+.	NA	NA

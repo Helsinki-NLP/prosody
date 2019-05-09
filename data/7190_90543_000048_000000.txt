@@ -1,0 +1,8 @@
+No	2	2
+,	NA	NA
+but	0	0
+all	2	0
+cheap	0	1
+American	1	0
+ones	0	2
+.	NA	NA

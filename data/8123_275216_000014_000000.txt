@@ -1,0 +1,8 @@
+Beech	0	0
+Trees	2	2
+?	NA	NA
+said	0	0
+the	0	0
+Oak	1	0
+inquisitively	1	2
+.	NA	NA

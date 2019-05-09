@@ -1,0 +1,11 @@
+He	0	0
+held	2	0
+out	0	0
+his	0	1
+hand	1	2
+;	NA	NA
+it	1	0
+was	0	0
+not	1	1
+taken	2	2
+.	NA	NA

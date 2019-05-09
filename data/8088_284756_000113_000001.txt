@@ -1,0 +1,11 @@
+The	0	0
+salt	2	1
+water	1	1
+would	0	0
+short	0	0
+the	0	1
+antennae	2	2
+,	NA	NA
+you	0	0
+see	2	2
+.	NA	NA

@@ -1,0 +1,5 @@
+His	1	0
+name	2	0
+was	0	1
+Capgaroupe	1	2
+.	NA	NA

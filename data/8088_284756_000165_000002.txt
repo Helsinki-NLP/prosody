@@ -1,0 +1,8 @@
+Then	2	1
+,	NA	NA
+gradually	1	1
+,	NA	NA
+it	0	0
+cleared	1	0
+somewhat	0	2
+.	NA	NA

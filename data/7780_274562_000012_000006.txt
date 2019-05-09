@@ -1,0 +1,16 @@
+Rule	2	1
+applies	1	0
+but	2	0
+to	0	2
+the	0	0
+excellences	1	0
+of	0	0
+avoidance	1	2
+to	0	0
+the	0	0
+virtues	2	0
+which	0	1
+deny	2	0
+or	0	1
+refrain	1	2
+.	NA	NA

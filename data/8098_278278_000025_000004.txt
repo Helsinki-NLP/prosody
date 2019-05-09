@@ -1,0 +1,8 @@
+Pod	2	0
+got	0	0
+up	0	1
+from	0	0
+the	0	0
+ground	1	1
+excitedly	2	2
+.	NA	NA

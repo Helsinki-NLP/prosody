@@ -1,0 +1,7 @@
+Arthur's	2	1
+feelings	0	1
+were	0	0
+played	1	0
+upon	0	0
+also	2	2
+.	NA	NA

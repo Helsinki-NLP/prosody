@@ -1,0 +1,13 @@
+It	0	1
+is	0	0
+giving	1	0
+history	0	0
+a	0	1
+new	1	0
+and	0	2
+more	2	0
+intimate	0	1
+meaning	1	0
+for	0	0
+us	1	2
+.	NA	NA

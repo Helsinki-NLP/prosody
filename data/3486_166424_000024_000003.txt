@@ -1,0 +1,16 @@
+Those	2	1
+in	0	0
+the	0	0
+van	1	1
+were	0	0
+mounted	1	2
+,	NA	NA
+galloping	2	1
+two	2	0
+abreast	1	1
+upon	0	0
+sure	0	0
+footed	0	0
+mountain	0	1
+ponies	1	2
+.	NA	NA

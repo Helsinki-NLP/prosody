@@ -1,0 +1,7 @@
+Someone	2	0
+was	0	1
+tampering	1	0
+with	0	1
+my	0	0
+door	2	2
+!	NA	NA

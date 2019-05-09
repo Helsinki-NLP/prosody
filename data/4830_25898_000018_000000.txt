@@ -1,0 +1,17 @@
+The	0	1
+chicks	2	1
+stopped	1	1
+scratching	2	0
+and	0	1
+peeping	1	2
+,	NA	NA
+and	0	0
+sat	2	1
+in	0	0
+a	0	0
+row	2	2
+to	0	0
+hear	1	0
+Strut	1	0
+crow	1	2
+.	NA	NA

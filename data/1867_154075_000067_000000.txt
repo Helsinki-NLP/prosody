@@ -1,0 +1,10 @@
+But	1	0
+you	0	0
+can't	2	1
+expect	1	1
+me	1	0
+to	0	0
+assent	1	1
+to	0	0
+that	2	2
+?	NA	NA

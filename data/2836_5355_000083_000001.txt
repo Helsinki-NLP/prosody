@@ -1,0 +1,8 @@
+Not	1	0
+a	0	1
+farthing	2	1
+,	NA	NA
+now	1	0
+or	0	1
+ever	1	2
+.	NA	NA

@@ -1,0 +1,10 @@
+At	0	0
+length	2	2
+,	NA	NA
+then	1	0
+,	NA	NA
+he	0	1
+was	0	0
+near	0	0
+mankind	2	2
+.	NA	NA

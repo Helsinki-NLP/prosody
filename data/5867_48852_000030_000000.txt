@@ -1,0 +1,10 @@
+Well	2	0
+,	NA	NA
+mamma	0	1
+,	NA	NA
+it	0	0
+was	0	0
+very	1	0
+nearly	0	0
+that	1	2
+.	NA	NA

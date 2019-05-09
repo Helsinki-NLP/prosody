@@ -1,0 +1,17 @@
+In	0	0
+the	0	0
+course	1	0
+of	0	0
+a	0	0
+week	2	2
+,	NA	NA
+the	0	0
+civilian	1	0
+was	0	1
+her	0	0
+sworn	1	0
+slave	1	2
+and	2	0
+frantic	0	0
+admirer	1	2
+.	NA	NA

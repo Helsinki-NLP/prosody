@@ -1,0 +1,13 @@
+That	1	0
+seems	2	1
+to	0	0
+me	2	1
+the	0	0
+only	1	0
+reasonable	0	1
+explanation	1	1
+,	NA	NA
+Patty	1	0
+agreed	0	0
+amicably	2	2
+.	NA	NA

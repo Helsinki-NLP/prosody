@@ -1,0 +1,6 @@
+How	2	0
+did	0	1
+you	0	0
+all	0	1
+behave	2	2
+?	NA	NA

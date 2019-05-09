@@ -1,0 +1,14 @@
+Yes	2	2
+,	NA	NA
+and	2	0
+keeps	0	0
+on	0	0
+happening	0	1
+;	NA	NA
+all	1	0
+sorts	0	0
+of	0	0
+things	0	0
+,	NA	NA
+too	2	2
+.	NA	NA

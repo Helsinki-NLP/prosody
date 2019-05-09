@@ -1,0 +1,13 @@
+Of	0	1
+course	2	1
+we	0	0
+want	0	1
+bright	2	0
+lives	1	2
+,	NA	NA
+of	0	0
+course	2	0
+we	0	0
+want	0	0
+happiness	1	2
+.	NA	NA

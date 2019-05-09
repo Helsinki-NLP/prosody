@@ -1,0 +1,3 @@
+Vain	2	0
+pretext	1	2
+!	NA	NA

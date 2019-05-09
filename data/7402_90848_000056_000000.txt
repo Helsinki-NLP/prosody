@@ -1,0 +1,17 @@
+O	1	0
+sir	2	1
+,	NA	NA
+said	0	0
+the	0	0
+peasant	2	0
+woman	0	2
+,	NA	NA
+evil	2	0
+days	0	1
+have	0	0
+fallen	1	0
+upon	0	0
+our	0	0
+unhappy	1	1
+kingdom	0	2
+.	NA	NA

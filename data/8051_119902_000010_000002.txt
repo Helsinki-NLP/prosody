@@ -1,0 +1,9 @@
+Some	2	0
+substitute	2	1
+must	1	1
+be	0	0
+mixed	1	1
+with	1	0
+the	0	0
+wheat	2	2
+.	NA	NA

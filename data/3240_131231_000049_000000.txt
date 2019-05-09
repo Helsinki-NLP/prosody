@@ -1,0 +1,12 @@
+That	0	0
+the	0	0
+bottom	2	0
+of	0	1
+a	0	0
+super	0	0
+geographical	1	1
+pond	2	2
+had	0	0
+dropped	2	0
+out	1	2
+.	NA	NA

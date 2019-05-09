@@ -1,0 +1,15 @@
+With	0	0
+a	0	0
+last	1	1
+swift	1	1
+,	NA	NA
+smiling	1	0
+glance	1	0
+up	0	1
+into	0	0
+my	0	0
+face	2	2
+,	NA	NA
+she	1	0
+turned	2	2
+.	NA	NA

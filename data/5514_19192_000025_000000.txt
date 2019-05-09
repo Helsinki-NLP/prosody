@@ -1,0 +1,13 @@
+Their	1	0
+hope	2	1
+did	0	0
+not	0	0
+last	0	0
+long	1	2
+;	NA	NA
+the	0	0
+gleam	2	0
+was	0	0
+quickly	1	0
+eclipsed	0	2
+.	NA	NA

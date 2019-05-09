@@ -1,0 +1,13 @@
+Strange	1	0
+exotic	0	0
+trees	1	0
+and	0	1
+dense	1	0
+growths	2	1
+of	1	0
+rank	0	0
+undergrowth	1	1
+choked	1	0
+the	0	0
+earth	1	2
+.	NA	NA

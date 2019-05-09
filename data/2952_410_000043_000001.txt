@@ -1,0 +1,6 @@
+It	1	0
+is	0	0
+a	0	1
+goblin's	2	1
+head	2	2
+.	NA	NA

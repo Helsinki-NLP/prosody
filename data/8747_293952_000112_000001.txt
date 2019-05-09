@@ -1,0 +1,5 @@
+What	2	0
+a	0	1
+pretty	0	0
+lad	1	2
+!	NA	NA

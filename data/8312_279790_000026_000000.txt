@@ -1,0 +1,8 @@
+Am	0	0
+not	1	0
+I	0	1
+she	2	2
+?	NA	NA
+said	1	0
+Troutina	2	2
+.	NA	NA

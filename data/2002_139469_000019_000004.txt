@@ -1,0 +1,9 @@
+He	0	1
+came	2	1
+to	0	0
+Windsor	1	0
+to	0	2
+consult	2	0
+with	0	0
+us	1	2
+.	NA	NA

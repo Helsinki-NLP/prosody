@@ -1,0 +1,9 @@
+Honest	2	1
+people	0	0
+can	1	0
+at	0	1
+least	0	1
+understand	2	1
+one	0	0
+another	2	2
+.	NA	NA

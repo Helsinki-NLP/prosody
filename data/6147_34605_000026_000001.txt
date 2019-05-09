@@ -1,0 +1,9 @@
+A	0	0
+pretension	2	1
+to	0	0
+divinity	0	0
+not	1	1
+admitted	0	0
+creates	1	0
+affectation	2	2
+.	NA	NA

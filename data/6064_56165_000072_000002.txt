@@ -1,0 +1,10 @@
+But	0	0
+I	2	0
+do	1	0
+think	0	1
+he	0	0
+might	1	0
+have	1	1
+better	0	1
+friends	2	2
+.	NA	NA

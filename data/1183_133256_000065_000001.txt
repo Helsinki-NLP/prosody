@@ -1,0 +1,7 @@
+Be	0	0
+sure	1	0
+you	0	0
+get	0	1
+the	0	0
+Hygeia	2	2
+.	NA	NA

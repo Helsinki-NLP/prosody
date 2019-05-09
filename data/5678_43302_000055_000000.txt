@@ -1,0 +1,12 @@
+No	2	2
+,	NA	NA
+no	2	0
+,	NA	NA
+my	0	0
+dear	1	1
+;	NA	NA
+you're	1	0
+excited	1	1
+and	0	0
+tired	1	2
+.	NA	NA

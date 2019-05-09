@@ -1,0 +1,5 @@
+You	2	0
+never	0	1
+hear	0	1
+anything	2	2
+.	NA	NA

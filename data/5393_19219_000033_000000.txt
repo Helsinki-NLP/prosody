@@ -1,0 +1,6 @@
+Well	2	0
+,	NA	NA
+then	0	1
+,	NA	NA
+laugh	1	2
+.	NA	NA

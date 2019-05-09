@@ -1,0 +1,8 @@
+What	0	0
+did	0	0
+she	0	0
+look	1	0
+like	0	2
+,	NA	NA
+Pris	2	2
+?	NA	NA

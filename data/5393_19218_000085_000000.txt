@@ -1,0 +1,12 @@
+To	0	0
+find	0	1
+out	0	0
+where	1	0
+it	0	1
+goes	2	2
+,	NA	NA
+and	0	0
+what	0	0
+it	0	0
+is	2	2
+.	NA	NA

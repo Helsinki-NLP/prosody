@@ -1,0 +1,17 @@
+My	2	0
+movements	1	1
+were	0	0
+quite	2	0
+free	1	2
+,	NA	NA
+although	2	0
+they	0	0
+were	0	0
+executed	0	0
+under	0	1
+a	0	0
+pressure	2	0
+of	0	1
+thirty	2	0
+atmospheres	1	2
+.	NA	NA

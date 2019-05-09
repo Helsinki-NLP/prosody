@@ -1,0 +1,8 @@
+We	1	1
+caught	2	0
+him	0	2
+!	NA	NA
+cried	2	0
+the	0	0
+scientist	0	2
+.	NA	NA

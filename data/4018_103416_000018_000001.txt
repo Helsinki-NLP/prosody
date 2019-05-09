@@ -1,0 +1,5 @@
+But	0	0
+I	1	1
+meant	1	1
+them	2	2
+.	NA	NA

@@ -1,0 +1,11 @@
+Then	2	0
+there	0	0
+was	0	1
+no	1	0
+property	2	2
+,	NA	NA
+not	2	0
+even	0	0
+private	1	1
+possession	2	2
+.	NA	NA

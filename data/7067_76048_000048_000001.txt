@@ -1,0 +1,10 @@
+That	2	1
+perhaps	0	1
+is	0	0
+why	2	0
+I'm	0	0
+so	1	1
+clear	1	0
+and	0	1
+positive	2	2
+.	NA	NA

@@ -1,0 +1,8 @@
+The	0	0
+Olympians	2	1
+are	0	0
+all	0	0
+past	1	0
+and	0	1
+gone	2	2
+.	NA	NA

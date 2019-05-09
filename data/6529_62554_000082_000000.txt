@@ -1,0 +1,17 @@
+Very	2	0
+well	0	1
+,	NA	NA
+wait	2	2
+,	NA	NA
+and	0	0
+we	0	0
+will	0	0
+not	0	0
+attack	1	0
+them	0	0
+unless	0	0
+we	0	0
+are	0	1
+attacked	1	0
+first	0	2
+.	NA	NA

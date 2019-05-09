@@ -1,0 +1,8 @@
+Dietrich	2	0
+puts	1	1
+in	1	0
+more	0	0
+money	0	1
+every	0	0
+time	2	2
+.	NA	NA

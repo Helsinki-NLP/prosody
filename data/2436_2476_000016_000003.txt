@@ -1,0 +1,9 @@
+We	0	0
+were	0	1
+well	2	0
+on	0	0
+our	0	2
+course	1	0
+to	0	1
+Mars	1	2
+.	NA	NA

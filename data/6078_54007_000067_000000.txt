@@ -1,0 +1,11 @@
+And	1	0
+that	0	0
+is	1	1
+the	0	0
+way	1	1
+we	0	0
+all	2	0
+of	0	0
+us	0	1
+talk	2	2
+.	NA	NA

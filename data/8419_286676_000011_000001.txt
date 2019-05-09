@@ -1,0 +1,7 @@
+How	0	0
+they	0	0
+must	2	1
+wish	1	1
+for	0	0
+shells	2	2
+!	NA	NA

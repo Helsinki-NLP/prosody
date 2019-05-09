@@ -1,0 +1,9 @@
+New	0	0
+York	2	2
+,	NA	NA
+november	2	0
+eighth	1	2
+eighteen	1	0
+seventy	0	0
+one	1	2
+.	NA	NA

@@ -1,0 +1,14 @@
+I	0	0
+wonder	2	0
+whether	0	0
+she	0	1
+apologized	2	0
+to	0	2
+Miss	0	1
+Thompson	2	1
+last	1	1
+night	1	0
+,	NA	NA
+mused	0	1
+Grace	2	2
+.	NA	NA

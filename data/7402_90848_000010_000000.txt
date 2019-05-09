@@ -1,0 +1,11 @@
+Please	2	0
+,	NA	NA
+Your	0	0
+Highness	1	1
+,	NA	NA
+perhaps	1	1
+I	2	0
+can	0	1
+find	1	0
+it	0	2
+.	NA	NA

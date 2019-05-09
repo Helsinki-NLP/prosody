@@ -1,0 +1,12 @@
+But	1	0
+now	2	1
+he	0	0
+almost	1	1
+thought	1	2
+that	1	0
+she	0	0
+had	0	0
+better	0	0
+not	1	1
+go	1	2
+.	NA	NA

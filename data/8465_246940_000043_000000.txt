@@ -1,0 +1,16 @@
+I	1	0
+speak	1	0
+from	0	1
+experience	2	1
+,	NA	NA
+the	0	0
+curate	1	0
+went	0	0
+on	1	2
+from	2	0
+what	0	0
+else	1	1
+could	0	0
+I	0	0
+speak	2	2
+?	NA	NA

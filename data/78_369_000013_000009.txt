@@ -1,0 +1,11 @@
+What	2	0
+his	0	1
+feelings	1	1
+were	2	0
+whom	0	0
+I	0	2
+pursued	1	0
+I	0	1
+cannot	1	0
+know	2	2
+.	NA	NA

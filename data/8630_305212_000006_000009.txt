@@ -1,0 +1,16 @@
+She	0	0
+had	1	0
+a	0	1
+wonderful	0	0
+gift	1	1
+for	0	0
+giving	1	0
+people	0	0
+courage	1	2
+;	NA	NA
+Patricius	2	1
+had	0	0
+noticed	1	0
+that	0	0
+before	1	2
+.	NA	NA

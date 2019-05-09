@@ -1,0 +1,14 @@
+Return	1	0
+them	0	1
+to	0	0
+me	0	0
+for	0	0
+what	2	2
+?	NA	NA
+inquired	2	0
+Sir	0	1
+Francis	0	0
+,	NA	NA
+in	0	0
+amazement	1	2
+.	NA	NA

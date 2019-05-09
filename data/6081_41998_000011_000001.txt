@@ -1,0 +1,12 @@
+I	1	0
+will	0	0
+wait	1	1
+for	0	0
+you	1	0
+at	0	0
+the	0	2
+corner	0	0
+of	0	0
+the	1	0
+bridge	2	2
+.	NA	NA

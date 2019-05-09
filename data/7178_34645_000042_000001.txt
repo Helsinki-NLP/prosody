@@ -1,0 +1,9 @@
+What	0	0
+he	0	0
+most	1	0
+desired	2	0
+was	0	2
+something	0	0
+unspeakably	0	0
+abrupt	2	2
+.	NA	NA

@@ -1,0 +1,10 @@
+Good	0	0
+morning	2	0
+,	NA	NA
+saint	0	1
+Nicholas	0	0
+,	NA	NA
+says	1	0
+Ill	0	1
+Luck	2	2
+.	NA	NA

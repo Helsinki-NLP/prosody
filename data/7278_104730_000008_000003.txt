@@ -1,0 +1,9 @@
+There	1	0
+is	0	0
+no	1	0
+such	2	1
+man	1	0
+in	0	0
+the	0	1
+House	2	2
+.	NA	NA

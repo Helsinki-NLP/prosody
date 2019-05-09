@@ -1,0 +1,7 @@
+Household	2	1
+business	0	0
+,	NA	NA
+said	0	1
+the	0	0
+Master	0	2
+.	NA	NA

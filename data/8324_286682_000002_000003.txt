@@ -1,0 +1,8 @@
+It	2	0
+was	0	0
+not	1	1
+far	2	0
+from	0	1
+their	0	0
+home	2	2
+.	NA	NA

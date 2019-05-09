@@ -1,0 +1,9 @@
+His	0	0
+coquetry	1	0
+consisted	0	1
+in	0	0
+drinking	2	0
+with	0	2
+the	0	0
+carters	2	2
+.	NA	NA

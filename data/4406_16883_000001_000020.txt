@@ -1,0 +1,8 @@
+Then	0	0
+I	2	0
+went	0	1
+to	0	1
+see	0	0
+King	1	0
+Philip	2	2
+.	NA	NA

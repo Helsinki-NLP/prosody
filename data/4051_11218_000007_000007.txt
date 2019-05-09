@@ -1,0 +1,17 @@
+Immortal	2	0
+fame	2	2
+!	NA	NA
+when	0	0
+he	1	0
+himself	0	0
+fell	0	0
+down	1	1
+,	NA	NA
+and	0	0
+lay	0	1
+quietly	2	0
+among	0	1
+his	0	0
+slain	0	0
+brethren	1	2
+.	NA	NA

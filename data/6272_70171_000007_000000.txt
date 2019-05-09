@@ -1,0 +1,6 @@
+I	2	0
+looked	0	1
+up	0	0
+at	1	1
+him	1	2
+.	NA	NA

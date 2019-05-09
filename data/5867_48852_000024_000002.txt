@@ -1,0 +1,8 @@
+I	2	0
+always	0	0
+liked	0	0
+dr	0	1
+Crofts	1	1
+very	1	0
+much	2	2
+.	NA	NA

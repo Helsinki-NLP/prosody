@@ -1,0 +1,13 @@
+That's	0	1
+enough	0	0
+,	NA	NA
+please	2	0
+leave	0	0
+off	2	2
+!	NA	NA
+Prince	0	0
+Andrew	1	0
+painfully	0	0
+entreated	0	0
+someone	0	2
+.	NA	NA

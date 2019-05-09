@@ -1,0 +1,16 @@
+Watching	2	0
+him	0	1
+closely	1	2
+,	NA	NA
+I	0	0
+was	2	0
+aware	2	0
+that	0	0
+he	0	1
+became	0	0
+more	1	0
+irritable	0	0
+as	0	0
+he	0	1
+proceeded	1	2
+.	NA	NA

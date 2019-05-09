@@ -1,0 +1,12 @@
+Others	2	1
+may	0	0
+look	1	2
+;	NA	NA
+it	0	0
+is	0	0
+only	1	0
+you	0	0
+who	0	1
+must	0	1
+ride	2	2
+.	NA	NA

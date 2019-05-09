@@ -1,0 +1,9 @@
+It	0	1
+is	0	0
+gross	2	1
+grandeur	1	1
+and	0	0
+gross	2	1
+good	0	0
+nature	1	2
+.	NA	NA

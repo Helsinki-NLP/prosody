@@ -1,0 +1,11 @@
+He	2	0
+appeared	1	0
+changed	1	1
+,	NA	NA
+as	0	0
+if	0	1
+he	0	0
+had	0	0
+suddenly	1	0
+matured	2	2
+.	NA	NA

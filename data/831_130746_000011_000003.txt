@@ -1,0 +1,5 @@
+She	1	0
+was	1	0
+a	0	1
+monomaniac	2	2
+.	NA	NA

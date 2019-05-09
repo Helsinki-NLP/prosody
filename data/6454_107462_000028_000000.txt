@@ -1,0 +1,7 @@
+And	0	1
+respectfully	2	1
+he	0	0
+passed	2	1
+the	0	0
+peppermints	2	2
+.	NA	NA

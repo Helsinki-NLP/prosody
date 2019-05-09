@@ -1,0 +1,6 @@
+No	2	2
+was	0	0
+he	0	0
+,	NA	NA
+though	2	2
+?	NA	NA

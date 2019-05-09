@@ -1,0 +1,16 @@
+Anne	2	0
+was	0	1
+watching	2	1
+for	0	0
+her	0	0
+coming	2	1
+and	0	0
+flew	1	0
+to	0	0
+the	0	1
+porch	2	1
+door	2	0
+to	0	1
+meet	0	0
+her	2	2
+.	NA	NA

@@ -1,0 +1,10 @@
+Worthless	2	1
+vagabond	2	1
+!	NA	NA
+in	1	0
+the	0	0
+streets	1	0
+at	0	1
+this	0	0
+hour	0	2
+!	NA	NA

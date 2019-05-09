@@ -1,0 +1,11 @@
+How	1	0
+will	1	0
+I	1	0
+let	0	0
+that	1	2
+poverty	2	1
+or	0	0
+wealth	2	1
+affect	2	1
+me	1	2
+?	NA	NA

@@ -1,0 +1,6 @@
+And	2	0
+your	2	1
+vexation	2	1
+terrifies	0	0
+you	1	2
+.	NA	NA

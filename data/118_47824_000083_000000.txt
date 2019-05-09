@@ -1,0 +1,6 @@
+Bobby	2	0
+walked	2	1
+from	0	0
+the	0	0
+room	1	2
+.	NA	NA

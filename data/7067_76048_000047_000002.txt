@@ -1,0 +1,5 @@
+It	0	0
+wasn't	2	1
+clear	1	1
+before	1	2
+.	NA	NA

@@ -1,0 +1,17 @@
+But	0	0
+controlling	1	1
+father	2	2
+as	0	0
+distinguished	2	1
+from	0	0
+managing	1	0
+him	0	2
+!	NA	NA
+She	0	0
+reviewed	2	0
+some	0	0
+private	2	0
+and	0	1
+amusing	0	0
+memories	1	2
+.	NA	NA

@@ -1,0 +1,15 @@
+Josiana	2	0
+was	0	0
+about	1	1
+to	0	0
+be	0	0
+dashed	1	0
+against	0	1
+Barkilphedro	2	2
+,	NA	NA
+to	0	0
+his	1	0
+intense	1	1
+villainous	1	0
+ecstasy	1	2
+.	NA	NA

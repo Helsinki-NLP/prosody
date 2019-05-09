@@ -1,0 +1,17 @@
+But	1	0
+he	0	0
+has	0	0
+not	0	0
+been	0	1
+here	0	0
+long	0	2
+;	NA	NA
+they	1	0
+are	0	0
+all	0	1
+so	2	0
+when	0	1
+they	0	0
+first	0	0
+come	0	2
+.	NA	NA

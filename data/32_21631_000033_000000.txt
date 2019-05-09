@@ -1,0 +1,16 @@
+mr	2	0
+Crow	1	1
+paused	2	1
+and	0	0
+looked	0	0
+at	0	1
+Brownie	1	1
+Beaver	2	0
+out	0	0
+of	0	2
+the	0	0
+corner	2	0
+of	0	1
+his	0	0
+eye	2	2
+.	NA	NA

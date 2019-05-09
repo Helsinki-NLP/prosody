@@ -1,0 +1,4 @@
+At	1	0
+your	0	1
+chateau	2	2
+.	NA	NA

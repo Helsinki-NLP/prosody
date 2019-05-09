@@ -1,0 +1,13 @@
+About	2	1
+two	1	0
+o'clock	1	1
+in	0	0
+the	0	0
+morning	1	1
+,	NA	NA
+they	0	0
+reckoned	1	0
+up	0	1
+their	1	0
+strength	1	2
+.	NA	NA

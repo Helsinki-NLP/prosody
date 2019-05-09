@@ -1,0 +1,15 @@
+Still	2	0
+the	0	1
+whole	1	0
+was	0	1
+effeminate	1	2
+,	NA	NA
+and	0	0
+Anne's	2	1
+Pere	1	0
+Tellier	1	0
+was	0	1
+called	1	0
+Sarah	1	0
+Jennings	0	2
+.	NA	NA

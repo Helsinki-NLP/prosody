@@ -1,0 +1,9 @@
+And	2	0
+Skimmer	2	0
+the	0	1
+Tree	0	0
+Swallow	1	0
+,	NA	NA
+added	0	1
+Jenny	1	2
+.	NA	NA

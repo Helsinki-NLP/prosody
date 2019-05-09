@@ -1,0 +1,7 @@
+There	0	0
+was	0	0
+no	2	0
+hint	0	0
+of	0	1
+more	2	2
+.	NA	NA

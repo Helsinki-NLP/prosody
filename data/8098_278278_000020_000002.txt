@@ -1,0 +1,5 @@
+Pod	2	1
+laughed	2	1
+at	0	0
+him	1	2
+.	NA	NA

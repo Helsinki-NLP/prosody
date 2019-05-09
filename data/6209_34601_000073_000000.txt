@@ -1,0 +1,7 @@
+The	0	1
+man	2	0
+went	0	1
+to	0	0
+the	0	1
+chest	2	2
+.	NA	NA

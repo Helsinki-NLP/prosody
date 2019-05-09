@@ -1,0 +1,6 @@
+Her	0	0
+heart	2	1
+and	1	0
+the	0	0
+Louvre	1	2
+.	NA	NA

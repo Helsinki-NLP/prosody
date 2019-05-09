@@ -1,0 +1,14 @@
+he	0	0
+is	1	0
+only	0	0
+two	0	0
+and	0	0
+twenty	2	2
+;	NA	NA
+he	1	0
+will	0	0
+gain	1	1
+himself	1	0
+a	0	1
+reputation	2	2
+.	NA	NA

@@ -1,0 +1,5 @@
+You're	0	0
+not	1	0
+in	0	1
+bed	2	2
+?	NA	NA

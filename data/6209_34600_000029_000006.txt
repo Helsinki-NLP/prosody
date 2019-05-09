@@ -1,0 +1,9 @@
+Which	0	0
+of	2	0
+the	0	1
+two	0	1
+refusals	1	2
+should	1	0
+he	0	1
+choose	2	2
+?	NA	NA

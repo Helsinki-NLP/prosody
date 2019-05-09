@@ -1,0 +1,14 @@
+He	0	0
+stood	2	1
+quite	0	0
+absorbed	2	2
+,	NA	NA
+and	1	0
+was	0	1
+still	1	0
+there	0	2
+when	0	0
+I	1	0
+went	0	0
+on	1	2
+.	NA	NA

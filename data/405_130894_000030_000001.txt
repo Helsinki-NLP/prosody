@@ -1,0 +1,6 @@
+The	0	0
+Nautilus's	2	1
+officer	1	2
+supervised	2	0
+us	0	2
+.	NA	NA

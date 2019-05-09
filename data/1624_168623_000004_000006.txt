@@ -1,0 +1,6 @@
+He	0	0
+smoked	2	0
+a	0	1
+big	1	0
+pipe	1	2
+.	NA	NA

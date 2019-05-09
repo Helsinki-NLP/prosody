@@ -1,0 +1,14 @@
+I	0	0
+don't	2	1
+expect	2	1
+that	1	0
+mrs	0	0
+Satchell's	2	0
+and	0	0
+butter	2	2
+will	0	0
+bear	2	1
+comparison	2	1
+with	0	0
+yours	1	2
+.	NA	NA

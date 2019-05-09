@@ -1,0 +1,11 @@
+I	1	0
+trust	2	0
+that	0	2
+the	0	0
+daughter	1	0
+will	0	1
+often	2	1
+grace	0	0
+our	0	0
+court	2	2
+.	NA	NA

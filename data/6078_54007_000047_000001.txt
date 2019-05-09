@@ -1,0 +1,15 @@
+I	2	0
+thought	2	1
+so	0	0
+,	NA	NA
+said	0	0
+the	0	1
+Fiddler	2	2
+;	NA	NA
+and	0	0
+then	1	0
+he	0	0
+gave	1	0
+over	0	0
+kicking	0	2
+.	NA	NA

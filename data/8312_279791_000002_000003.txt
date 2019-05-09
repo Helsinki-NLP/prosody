@@ -1,0 +1,8 @@
+The	0	0
+two	2	0
+rushed	1	0
+upon	0	1
+her	0	0
+like	1	1
+furies	2	2
+.	NA	NA

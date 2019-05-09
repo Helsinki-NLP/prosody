@@ -1,0 +1,17 @@
+For	0	0
+an	1	0
+instant	0	0
+I	0	1
+was	0	0
+gripped	1	1
+by	1	0
+despair	2	2
+.	NA	NA
+My	2	0
+pick	1	1
+nearly	2	0
+slipped	0	1
+from	0	0
+my	0	0
+hands	1	2
+.	NA	NA

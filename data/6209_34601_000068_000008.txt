@@ -1,0 +1,16 @@
+There	2	0
+is	0	1
+battle	2	2
+,	NA	NA
+struggle	2	1
+,	NA	NA
+competition	1	0
+between	0	1
+the	0	0
+fools	1	0
+in	0	0
+the	0	0
+street	0	0
+and	0	0
+myself	1	2
+.	NA	NA

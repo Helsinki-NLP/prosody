@@ -1,0 +1,8 @@
+Don't	2	1
+prevaricate	2	1
+any	0	0
+longer	0	0
+,	NA	NA
+he	0	0
+said	2	2
+.	NA	NA

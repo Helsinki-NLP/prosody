@@ -1,0 +1,9 @@
+I	0	0
+replied	2	1
+by	0	0
+a	0	1
+sign	2	0
+in	0	0
+the	0	1
+affirmative	2	2
+.	NA	NA

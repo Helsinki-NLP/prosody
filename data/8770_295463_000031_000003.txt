@@ -1,0 +1,14 @@
+It	0	0
+was	1	0
+a	0	1
+warm	2	1
+day	0	0
+and	0	2
+a	0	0
+Quaker	2	0
+woman	0	0
+near	1	0
+the	0	1
+platform	2	1
+fainted	2	2
+.	NA	NA

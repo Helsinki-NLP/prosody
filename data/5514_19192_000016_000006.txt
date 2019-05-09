@@ -1,0 +1,5 @@
+This	1	0
+does	2	0
+happen	0	1
+sometimes	1	2
+.	NA	NA

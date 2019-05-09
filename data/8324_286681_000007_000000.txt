@@ -1,0 +1,11 @@
+Just	0	0
+then	2	2
+a	1	0
+Wise	2	0
+Old	0	1
+Crayfish	0	1
+came	0	0
+along	1	0
+walking	0	0
+sidewise	1	2
+.	NA	NA

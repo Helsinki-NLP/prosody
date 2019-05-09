@@ -1,0 +1,6 @@
+Few	0	0
+lands	2	0
+are	0	1
+so	0	1
+blest	2	2
+.	NA	NA

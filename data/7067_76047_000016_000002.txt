@@ -1,0 +1,3 @@
+This	1	1
+highway	2	1
+coupling	1	2

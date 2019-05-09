@@ -1,0 +1,17 @@
+The	0	0
+riot	2	0
+became	0	1
+so	2	0
+dangerous	1	2
+that	1	0
+Troutina	1	0
+and	0	1
+her	0	0
+mother	0	1
+fled	2	0
+away	0	0
+to	0	1
+the	0	0
+fairy	1	0
+Soussio	1	2
+.	NA	NA

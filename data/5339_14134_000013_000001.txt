@@ -1,0 +1,11 @@
+The	0	0
+letters	2	0
+hinted	0	0
+at	0	2
+the	0	0
+utter	1	1
+insolvency	1	1
+of	0	0
+this	0	0
+manufacturer	2	2
+.	NA	NA

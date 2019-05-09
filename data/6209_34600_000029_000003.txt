@@ -1,0 +1,6 @@
+Should	1	0
+he	0	1
+continue	0	1
+this	1	0
+journey	2	2
+?	NA	NA

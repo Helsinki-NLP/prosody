@@ -1,0 +1,7 @@
+And	2	0
+you	0	1
+too	1	0
+,	0	1
+mrs	NA	NA
+Munger	2	2
+.	NA	NA

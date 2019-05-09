@@ -1,0 +1,11 @@
+It	1	0
+was	1	1
+the	0	0
+rich	2	1
+who	0	0
+acted	1	1
+thus	2	1
+towards	1	0
+the	0	2
+poor	2	2
+.	NA	NA

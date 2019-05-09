@@ -1,0 +1,9 @@
+I	2	0
+fear	2	0
+to	0	2
+declare	2	0
+those	0	1
+that	0	0
+I	0	1
+conceive	1	2
+.	NA	NA

@@ -1,0 +1,9 @@
+I	1	0
+am	0	1
+afraid	2	2
+!	NA	NA
+I	1	0
+heard	0	0
+her	0	0
+whisper	2	2
+.	NA	NA

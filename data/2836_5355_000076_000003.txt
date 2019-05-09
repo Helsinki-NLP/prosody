@@ -1,0 +1,14 @@
+But	0	0
+you	0	1
+cannot	2	1
+think	0	0
+I	0	0
+am	0	1
+going	1	1
+to	0	0
+see	0	0
+you	0	1
+starve	2	1
+,	NA	NA
+Isabel	2	2
+.	NA	NA

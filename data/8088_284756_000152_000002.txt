@@ -1,0 +1,5 @@
+Shall	1	0
+we	0	1
+carry	0	0
+on	2	2
+?	NA	NA

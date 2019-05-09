@@ -1,0 +1,12 @@
+While	2	0
+now	1	0
+I	0	0
+can	0	1
+receive	2	0
+no	0	1
+presents	1	0
+except	0	1
+from	0	0
+my	0	0
+husband	1	2
+.	NA	NA

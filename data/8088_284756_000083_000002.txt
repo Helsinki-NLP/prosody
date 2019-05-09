@@ -1,0 +1,14 @@
+Mercer	2	0
+was	0	1
+mighty	1	0
+lucky	0	1
+to	0	0
+have	2	0
+a	0	1
+man	1	0
+like	1	1
+Carson	2	2
+.	NA	NA
+.	NA	NA
+.	NA	NA
+.	NA	NA

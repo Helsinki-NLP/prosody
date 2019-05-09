@@ -1,0 +1,5 @@
+Dangerous	1	1
+!	NA	NA
+and	0	0
+why	2	2
+?	NA	NA

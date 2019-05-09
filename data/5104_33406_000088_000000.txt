@@ -1,0 +1,10 @@
+It	0	0
+is	1	0
+a	0	0
+country	0	0
+of	0	0
+ice	2	2
+,	NA	NA
+shining	1	0
+white	1	2
+.	NA	NA

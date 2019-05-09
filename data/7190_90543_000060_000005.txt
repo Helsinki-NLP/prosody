@@ -1,0 +1,14 @@
+And	0	0
+that	1	0
+is	0	0
+where	1	0
+the	0	1
+counters	1	0
+help	0	1
+me	1	2
+or	1	0
+I	0	0
+think	0	0
+they	0	1
+do	1	2
+.	NA	NA

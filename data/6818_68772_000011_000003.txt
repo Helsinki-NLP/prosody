@@ -1,0 +1,17 @@
+Yet	2	0
+the	0	1
+people	2	1
+tamely	1	1
+submitted	2	2
+to	0	0
+this	1	1
+imposition	2	0
+because	1	2
+they	2	0
+knew	0	0
+no	1	0
+way	0	0
+to	0	0
+avoid	2	0
+it	0	2
+.	NA	NA

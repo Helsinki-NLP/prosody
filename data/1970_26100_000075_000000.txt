@@ -1,0 +1,9 @@
+Are	0	0
+you	2	0
+sure	0	1
+mr	0	0
+Woods	2	1
+was	1	0
+in	1	1
+here	2	2
+?	NA	NA

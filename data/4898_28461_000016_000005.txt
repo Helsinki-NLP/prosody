@@ -1,0 +1,15 @@
+You	0	1
+can't	1	1
+slip	2	0
+past	1	1
+me	1	2
+and	0	0
+I	1	0
+will	0	0
+soon	1	0
+get	0	0
+you	0	0
+out	1	0
+of	0	1
+this	1	2
+.	NA	NA

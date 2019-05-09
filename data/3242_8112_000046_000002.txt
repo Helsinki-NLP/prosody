@@ -1,0 +1,10 @@
+And	0	0
+then	2	0
+he	0	0
+learned	0	1
+something	1	1
+that	1	1
+should	1	0
+be	0	1
+important	2	2
+.	NA	NA

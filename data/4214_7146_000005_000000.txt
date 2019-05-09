@@ -1,0 +1,9 @@
+Oh	2	0
+,	NA	NA
+and	1	1
+dream	1	0
+in	0	1
+too	1	0
+,	NA	NA
+Marilla	1	2
+.	NA	NA

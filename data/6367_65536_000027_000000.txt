@@ -1,0 +1,14 @@
+The	0	0
+stile	2	1
+he	0	0
+remembered	0	1
+was	0	0
+gone	2	2
+,	NA	NA
+replaced	2	0
+by	1	0
+a	0	1
+little	1	0
+rustic	1	1
+gate	2	2
+.	NA	NA

@@ -1,0 +1,6 @@
+You	0	0
+do	0	0
+not	0	1
+doubt	2	0
+it	1	2
+?	NA	NA

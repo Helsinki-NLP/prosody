@@ -1,0 +1,12 @@
+I	2	0
+figure	0	0
+she'd	1	1
+think	1	0
+too	0	0
+much	0	0
+about	1	0
+you	1	0
+all	1	1
+the	0	0
+time	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+Let	2	0
+us	0	1
+keep	1	2
+to	0	0
+the	0	0
+matter	1	0
+in	0	1
+hand	1	2
+.	NA	NA

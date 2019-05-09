@@ -1,0 +1,5 @@
+Have	1	0
+coffee	1	0
+at	0	1
+Dover	2	2
+.	NA	NA

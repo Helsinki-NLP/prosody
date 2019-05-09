@@ -1,0 +1,11 @@
+Isn't	2	0
+a	0	0
+person	0	0
+allowed	1	1
+to	0	0
+sit	0	0
+on	0	0
+the	0	1
+stones	1	1
+nowadays	2	2
+?	NA	NA

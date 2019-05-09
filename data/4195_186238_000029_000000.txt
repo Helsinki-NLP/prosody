@@ -1,0 +1,6 @@
+I	0	0
+showed	1	0
+him	0	1
+in	0	1
+myself	2	2
+.	NA	NA

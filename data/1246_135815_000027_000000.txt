@@ -1,0 +1,13 @@
+How	1	0
+many	0	0
+do	0	0
+you	0	1
+usually	0	0
+have	2	2
+?	NA	NA
+inquired	2	1
+Chatterer	1	1
+the	0	0
+Red	0	0
+Squirrel	1	2
+.	NA	NA

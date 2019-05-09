@@ -1,0 +1,14 @@
+Would	2	0
+there	0	0
+be	0	0
+any	0	1
+harm	2	0
+in	0	0
+letting	1	0
+Congress	1	1
+vote	1	0
+on	1	0
+a	0	1
+suffrage	1	2
+resolution	2	2
+?	NA	NA

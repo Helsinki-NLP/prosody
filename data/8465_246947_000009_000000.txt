@@ -1,0 +1,9 @@
+I	0	0
+am	1	1
+so	2	1
+glad	2	0
+you	0	1
+don't	0	0
+hate	2	0
+him	0	2
+.	NA	NA

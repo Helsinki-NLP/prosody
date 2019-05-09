@@ -1,0 +1,6 @@
+Would	2	1
+you	0	0
+like	1	2
+to	0	0
+go	2	2
+?	NA	NA

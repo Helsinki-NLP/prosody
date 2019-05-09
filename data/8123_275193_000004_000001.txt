@@ -1,0 +1,16 @@
+He	2	0
+entered	0	1
+into	0	0
+all	0	0
+of	0	0
+their	0	0
+sports	2	2
+and	0	0
+sympathized	2	1
+with	0	0
+the	0	0
+discomforts	2	1
+of	0	0
+forecastle	1	0
+life	0	2
+.	NA	NA

@@ -1,0 +1,13 @@
+Just	1	1
+wait	2	0
+a	0	1
+few	0	0
+minutes	2	2
+,	NA	NA
+an'	0	0
+I'll	1	1
+bet	2	0
+you'll	0	0
+be	0	0
+happy	1	2
+.	NA	NA

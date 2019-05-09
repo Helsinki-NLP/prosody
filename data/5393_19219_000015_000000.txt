@@ -1,0 +1,6 @@
+These	2	0
+two	0	0
+creatures	1	0
+were	0	1
+resplendent	2	2
+.	NA	NA

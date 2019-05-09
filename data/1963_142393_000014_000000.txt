@@ -1,0 +1,9 @@
+She	2	0
+was	0	1
+much	1	0
+longer	0	1
+coming	2	1
+than	0	0
+he	0	1
+expected	2	2
+.	NA	NA

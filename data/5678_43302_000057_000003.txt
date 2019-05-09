@@ -1,0 +1,10 @@
+After	1	0
+all	1	1
+,	NA	NA
+she	0	1
+was	2	1
+brought	1	0
+up	0	0
+a	0	1
+Catholic	2	2
+.	NA	NA

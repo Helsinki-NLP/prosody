@@ -1,0 +1,7 @@
+An	0	0
+awed	2	0
+silence	1	1
+greeted	0	1
+these	0	0
+words	1	2
+.	NA	NA

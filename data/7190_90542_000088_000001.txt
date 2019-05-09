@@ -1,0 +1,6 @@
+We	0	0
+can	0	1
+do	0	0
+that	2	1
+later	0	2
+.	NA	NA

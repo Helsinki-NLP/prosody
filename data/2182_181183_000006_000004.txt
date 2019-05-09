@@ -1,0 +1,5 @@
+So	0	0
+no	2	0
+more	1	0
+at	0	1
+present	1	2

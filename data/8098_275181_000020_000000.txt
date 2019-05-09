@@ -1,0 +1,12 @@
+Full	0	0
+of	0	0
+wonder	1	0
+and	0	1
+curiosity	1	2
+,	NA	NA
+I	0	0
+retired	2	1
+to	0	0
+the	0	0
+stump	1	2
+.	NA	NA

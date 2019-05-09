@@ -1,0 +1,8 @@
+They	1	0
+have	0	0
+been	0	1
+tracked	2	0
+into	0	2
+my	0	0
+lodges	1	2
+.	NA	NA

@@ -1,0 +1,10 @@
+The	0	0
+farmers	2	1
+can't	0	0
+eat	0	1
+beauty	1	0
+;	NA	NA
+they	1	0
+want	1	1
+money	1	2
+.	NA	NA

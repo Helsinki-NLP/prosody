@@ -1,0 +1,9 @@
+The	0	0
+central	1	0
+figure	0	1
+of	0	0
+Toltec	1	1
+mythology	2	2
+is	1	0
+Quetzalcoatl	2	2
+.	NA	NA

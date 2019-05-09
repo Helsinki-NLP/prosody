@@ -1,0 +1,11 @@
+What	1	1
+dog	2	1
+am	0	0
+I	2	0
+that	0	1
+I	0	0
+should	0	0
+wait	1	0
+till	0	1
+six	2	2
+?	NA	NA

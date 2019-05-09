@@ -1,0 +1,14 @@
+New	0	0
+York	2	2
+Miss	1	0
+Lucy	0	0
+Burns	1	1
+,	NA	NA
+New	0	0
+York	0	0
+City	1	1
+.	NA	NA
+District	1	0
+of	0	0
+Columbia	2	2
+mrs	1	2

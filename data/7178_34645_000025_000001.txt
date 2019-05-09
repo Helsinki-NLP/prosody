@@ -1,0 +1,12 @@
+At	0	0
+heart	2	1
+we	0	0
+may	0	0
+admit	1	2
+that	1	0
+he	0	0
+was	0	0
+very	1	0
+much	0	1
+astonished	2	2
+.	NA	NA

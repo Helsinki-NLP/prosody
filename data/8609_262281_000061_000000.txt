@@ -1,0 +1,14 @@
+You	0	0
+had	2	0
+a	0	1
+treat	1	1
+,	NA	NA
+I	0	0
+hear	1	0
+,	NA	NA
+at	0	2
+the	0	0
+meeting	2	1
+to	0	0
+day	2	2
+?	NA	NA

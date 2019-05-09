@@ -1,0 +1,10 @@
+He	0	0
+must	2	1
+know	1	0
+why	0	0
+the	0	1
+homelight	1	0
+had	0	1
+failed	2	0
+him	0	2
+.	NA	NA

@@ -1,0 +1,7 @@
+Come	0	1
+,	NA	NA
+come	2	1
+,	NA	NA
+what	1	0
+then	2	2
+?	NA	NA

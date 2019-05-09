@@ -1,0 +1,11 @@
+Awed	2	1
+by	0	0
+Mark's	1	1
+determined	0	0
+manner	1	2
+,	NA	NA
+the	0	0
+bystanders	2	0
+kept	0	0
+aloof	1	2
+.	NA	NA

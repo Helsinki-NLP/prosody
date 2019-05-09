@@ -1,0 +1,13 @@
+If	0	0
+not	1	0
+thick	0	0
+enough	2	2
+,	NA	NA
+put	1	0
+in	0	0
+a	0	0
+little	0	1
+butter	1	0
+and	0	1
+flour	2	2
+.	NA	NA

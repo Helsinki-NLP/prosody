@@ -1,0 +1,9 @@
+We	2	0
+can	1	0
+grow	0	0
+very	0	0
+nicely	1	0
+in	0	0
+the	0	1
+shade	1	2
+.	NA	NA

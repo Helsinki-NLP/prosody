@@ -1,0 +1,5 @@
+I	2	0
+am	0	1
+quite	1	1
+able	1	2
+.	NA	NA

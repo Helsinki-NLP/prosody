@@ -1,0 +1,4 @@
+He	0	1
+held	2	1
+her	1	2
+.	NA	NA

@@ -1,0 +1,13 @@
+Here	2	2
+,	NA	NA
+take	2	0
+this	0	0
+gold	1	0
+dust	0	1
+from	0	0
+my	0	0
+wings	0	2
+as	1	0
+a	0	0
+reward	1	2
+.	NA	NA

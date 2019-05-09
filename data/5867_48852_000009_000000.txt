@@ -1,0 +1,10 @@
+I	2	0
+wasn't	0	1
+very	1	0
+fond	1	0
+of	0	0
+him	0	1
+myself	2	1
+,	NA	NA
+Hopkins	1	2
+.	NA	NA

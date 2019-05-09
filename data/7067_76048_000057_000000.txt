@@ -1,0 +1,17 @@
+So	0	0
+that	1	0
+I	0	0
+go	0	0
+about	2	2
+,	NA	NA
+she	0	0
+added	1	2
+,	NA	NA
+like	2	0
+someone	0	0
+who	0	0
+is	0	0
+looking	0	0
+for	0	0
+something	0	2
+.	NA	NA

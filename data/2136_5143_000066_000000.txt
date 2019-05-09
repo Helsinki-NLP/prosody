@@ -1,0 +1,15 @@
+'You've	0	0
+hurt	1	1
+me	0	0
+very	1	0
+much	1	2
+you	1	0
+have	0	1
+broken	2	0
+my	0	1
+finger	2	2
+,	NA	NA
+'	NA	NA
+I	0	0
+sobbed	1	2
+.	NA	NA

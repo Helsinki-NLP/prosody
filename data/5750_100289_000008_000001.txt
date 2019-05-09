@@ -1,0 +1,17 @@
+They	0	0
+made	2	0
+him	0	1
+carry	1	0
+too	0	0
+heavy	0	0
+a	0	0
+burden	1	2
+,	NA	NA
+without	2	0
+much	0	1
+recompense	1	2
+save	2	0
+honor	1	1
+and	2	0
+respect	1	2
+.	NA	NA

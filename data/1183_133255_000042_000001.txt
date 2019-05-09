@@ -1,0 +1,17 @@
+Eradicates	2	1
+all	2	0
+skin	0	0
+and	0	1
+scalp	2	0
+trouble	0	0
+by	1	1
+absorbing	1	0
+the	0	1
+germ	1	2
+returns	2	0
+the	0	1
+skin	1	0
+to	0	0
+normal	0	0
+condition	2	2
+.	NA	NA

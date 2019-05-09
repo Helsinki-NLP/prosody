@@ -1,0 +1,4 @@
+The	0	0
+pamphlet	2	0
+entitled	1	1
+Gigan	1	2

@@ -1,0 +1,13 @@
+The	0	0
+prisoner	2	1
+was	0	0
+only	1	0
+attached	1	2
+to	0	0
+the	0	0
+bed	2	1
+now	1	0
+by	0	1
+one	2	0
+leg	1	2
+.	NA	NA

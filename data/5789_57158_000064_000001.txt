@@ -1,0 +1,9 @@
+That	2	0
+was	1	2
+the	0	0
+name	0	0
+I	0	0
+heard	1	0
+up	0	1
+there	2	2
+.	NA	NA

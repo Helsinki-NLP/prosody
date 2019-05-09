@@ -1,0 +1,15 @@
+A	2	0
+discourse	0	0
+followed	2	2
+,	NA	NA
+which	1	0
+was	0	1
+calculated	2	1
+to	0	0
+harrow	2	0
+the	0	1
+feelings	1	1
+to	0	0
+the	0	0
+utmost	2	2
+.	NA	NA

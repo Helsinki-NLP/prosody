@@ -1,0 +1,5 @@
+I	0	0
+beg	2	0
+Puck's	0	2
+pardon	2	2
+.	NA	NA

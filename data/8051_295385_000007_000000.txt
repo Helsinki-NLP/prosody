@@ -1,0 +1,6 @@
+But	1	0
+soft	2	1
+,	NA	NA
+worthy	1	0
+reader	1	2
+!	NA	NA

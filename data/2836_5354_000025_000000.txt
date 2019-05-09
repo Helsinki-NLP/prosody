@@ -1,0 +1,7 @@
+Of	1	0
+the	0	1
+divorce	2	1
+,	NA	NA
+I	0	0
+mean	1	2
+?	NA	NA

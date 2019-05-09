@@ -1,0 +1,14 @@
+They	0	0
+were	0	1
+beautifully	2	0
+dressed	1	2
+,	NA	NA
+and	0	0
+their	0	0
+mother	2	0
+was	0	1
+tending	0	1
+and	0	0
+watching	1	0
+them	0	2
+.	NA	NA

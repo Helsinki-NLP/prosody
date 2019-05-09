@@ -1,0 +1,4 @@
+Sometimes	2	0
+it	0	1
+does	1	2
+!	NA	NA

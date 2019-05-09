@@ -1,0 +1,11 @@
+His	0	1
+first	2	0
+objective	1	1
+was	0	0
+Aleppo	2	2
+,	NA	NA
+where	2	0
+he	0	0
+was	0	0
+welcomed	2	2
+.	NA	NA

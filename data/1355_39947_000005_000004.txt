@@ -1,0 +1,11 @@
+He	0	0
+had	2	0
+been	1	2
+for	0	0
+years	2	0
+a	0	1
+slave	2	1
+to	0	0
+his	0	0
+passion	1	2
+.	NA	NA

@@ -1,0 +1,12 @@
+Merely	2	0
+a	0	0
+matter	0	0
+of	0	1
+distracting	2	1
+Friend	0	0
+Murphy's	0	0
+attention	2	1
+for	0	0
+ten	1	0
+seconds	2	2
+.	NA	NA

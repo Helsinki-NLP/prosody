@@ -1,0 +1,15 @@
+In	0	0
+a	0	0
+word	2	2
+,	NA	NA
+can	1	0
+the	0	0
+principle	1	0
+of	0	1
+succession	1	1
+become	0	0
+a	0	0
+principle	0	0
+of	1	1
+equality	2	2
+?	NA	NA

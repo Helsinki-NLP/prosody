@@ -1,0 +1,6 @@
+What's	1	0
+the	0	1
+price	1	0
+of	0	1
+wood	2	2
+?	NA	NA

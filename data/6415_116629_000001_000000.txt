@@ -1,0 +1,4 @@
+A	1	0
+THUNDER	2	1
+CLAP	1	2
+.	NA	NA

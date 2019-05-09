@@ -1,0 +1,7 @@
+My	0	0
+dear	1	0
+,	NA	NA
+you	0	0
+are	0	1
+fifteen	2	2
+.	NA	NA

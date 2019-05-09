@@ -1,0 +1,7 @@
+You	0	0
+see	2	0
+him	1	2
+my	0	0
+brother	0	0
+Archibald	1	2
+?	NA	NA

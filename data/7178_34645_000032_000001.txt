@@ -1,0 +1,8 @@
+This	1	0
+is	0	0
+what	2	2
+he	0	0
+did	0	0
+not	2	1
+see	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+Believed	1	1
+by	2	0
+most	0	1
+schoolboys	1	1
+there	1	0
+at	0	0
+that	0	1
+time	2	2
+.	NA	NA

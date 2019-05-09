@@ -1,0 +1,8 @@
+Is	0	0
+she	0	0
+in	2	1
+love	1	0
+with	0	0
+the	1	1
+dog	2	2
+?	NA	NA

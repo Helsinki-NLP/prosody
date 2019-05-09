@@ -1,0 +1,7 @@
+Gernardus	1	1
+,	NA	NA
+yes	2	1
+,	NA	NA
+the	0	0
+doctor	1	2
+.	NA	NA

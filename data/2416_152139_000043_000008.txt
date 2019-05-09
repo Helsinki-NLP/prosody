@@ -1,0 +1,10 @@
+I'll	1	0
+telephone	2	0
+headquarters	1	2
+to	0	0
+make	1	1
+the	1	0
+arrest	1	1
+at	0	0
+once	1	2
+.	NA	NA

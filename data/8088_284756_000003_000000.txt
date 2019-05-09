@@ -1,0 +1,9 @@
+Hello	2	2
+!	NA	NA
+I	1	0
+snapped	0	0
+ungraciously	1	0
+into	0	1
+the	0	0
+mouthpiece	1	2
+.	NA	NA

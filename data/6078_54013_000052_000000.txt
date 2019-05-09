@@ -1,0 +1,11 @@
+The	0	0
+servant	1	1
+stood	2	2
+and	0	0
+stared	2	0
+like	0	1
+one	1	0
+bereft	1	1
+of	0	0
+wits	1	2
+.	NA	NA

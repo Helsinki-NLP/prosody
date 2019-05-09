@@ -1,0 +1,7 @@
+You	1	0
+can	0	0
+beat	2	1
+in	0	0
+every	0	1
+fight	2	2
+.	NA	NA

@@ -1,0 +1,17 @@
+It	0	0
+has	1	0
+been	0	1
+said	2	0
+of	0	1
+him	0	2
+that	2	0
+he	0	0
+had	1	0
+a	0	1
+sad	1	0
+heart	1	2
+but	2	0
+a	0	1
+joyful	2	1
+mind	1	2
+.	NA	NA

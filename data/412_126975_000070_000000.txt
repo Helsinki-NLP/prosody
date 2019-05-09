@@ -1,0 +1,16 @@
+Father	1	0
+Brown	1	0
+dropped	1	0
+his	0	1
+book	2	2
+and	0	0
+stood	1	0
+staring	2	0
+with	0	1
+a	0	0
+look	1	0
+of	0	1
+blank	1	1
+mental	0	0
+ruin	1	2
+.	NA	NA

@@ -1,0 +1,3 @@
+We're	0	1
+petted	1	2
+.	NA	NA

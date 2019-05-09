@@ -1,0 +1,15 @@
+But	1	0
+many	2	0
+insist	1	1
+that	0	0
+he	0	0
+was	1	0
+at	0	1
+first	2	2
+a	0	0
+man	1	1
+,	NA	NA
+some	1	1
+deified	1	1
+king	2	2
+.	NA	NA

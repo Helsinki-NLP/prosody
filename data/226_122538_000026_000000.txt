@@ -1,0 +1,12 @@
+She	0	1
+took	0	0
+off	2	1
+her	1	0
+hat	2	0
+and	0	1
+leaned	0	0
+back	2	0
+against	0	2
+the	0	0
+cushions	2	2
+.	NA	NA

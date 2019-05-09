@@ -1,0 +1,6 @@
+I	0	0
+see	2	2
+,	NA	NA
+answered	1	0
+Dantes	0	2
+.	NA	NA

@@ -1,0 +1,6 @@
+He	0	1
+knocked	2	0
+a	0	2
+third	2	0
+time	1	2
+.	NA	NA

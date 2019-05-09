@@ -1,0 +1,5 @@
+'Put	0	0
+on	1	0
+your	0	1
+cap	2	2
+.	NA	NA

@@ -1,0 +1,11 @@
+Announcements	2	1
+for	0	0
+private	1	0
+gain	2	2
+are	0	0
+paid	2	0
+at	0	0
+a	0	0
+regular	0	1
+rate	2	2
+.	NA	NA

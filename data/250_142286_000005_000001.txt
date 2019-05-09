@@ -1,0 +1,6 @@
+I	0	0
+am	1	1
+going	1	0
+to	0	1
+morrow	2	2
+.	NA	NA

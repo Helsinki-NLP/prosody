@@ -1,0 +1,3 @@
+How	0	0
+much	2	2
+?	NA	NA

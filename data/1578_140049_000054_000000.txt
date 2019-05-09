@@ -1,0 +1,5 @@
+Answer	1	0
+me	0	0
+,	NA	NA
+Rebecca	2	2
+.	NA	NA

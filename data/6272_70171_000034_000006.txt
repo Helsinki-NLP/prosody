@@ -1,0 +1,12 @@
+I	2	0
+replied	2	1
+we	0	0
+knew	1	0
+that	0	1
+grandfather	2	1
+had	0	0
+married	1	0
+a	0	0
+Rachel	0	1
+Somers	1	2
+.	NA	NA

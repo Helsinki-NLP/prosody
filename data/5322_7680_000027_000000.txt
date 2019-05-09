@@ -1,0 +1,17 @@
+Olenin	2	0
+could	0	1
+not	1	0
+refrain	1	0
+from	0	1
+replying	2	2
+that	0	0
+he	0	0
+had	2	1
+not	0	0
+only	0	0
+one	2	2
+,	NA	NA
+but	0	0
+several	2	0
+houses	0	2
+.	NA	NA

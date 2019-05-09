@@ -1,0 +1,10 @@
+It	2	0
+looked	1	1
+as	0	0
+though	0	1
+spring	2	0
+had	0	1
+come	1	0
+to	0	1
+stay	2	2
+.	NA	NA

@@ -1,0 +1,7 @@
+Asked	2	1
+for	0	0
+Whittaker	1	1
+,	NA	NA
+who	0	0
+came	2	2
+.	NA	NA

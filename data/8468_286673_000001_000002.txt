@@ -1,0 +1,5 @@
+There	2	0
+are	0	0
+my	0	1
+children	1	2
+!	NA	NA

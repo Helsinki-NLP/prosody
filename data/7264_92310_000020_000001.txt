@@ -1,0 +1,9 @@
+Few	0	0
+are	2	1
+proffered	2	0
+without	1	0
+first	0	1
+consulting	1	1
+his	0	0
+wishes	1	2
+.	NA	NA

@@ -1,0 +1,7 @@
+I	0	0
+hope	2	0
+we	0	0
+can	0	1
+find	2	0
+them	0	2
+.	NA	NA

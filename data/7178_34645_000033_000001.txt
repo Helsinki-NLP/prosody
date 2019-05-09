@@ -1,0 +1,5 @@
+Fifteen	1	0
+years	1	0
+is	0	1
+nothing	2	2
+.	NA	NA

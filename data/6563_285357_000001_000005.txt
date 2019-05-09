@@ -1,0 +1,12 @@
+So	2	2
+soon	2	0
+as	0	0
+one	0	0
+trouble	0	0
+was	0	0
+overcome	2	2
+another	2	0
+made	0	0
+itself	0	0
+manifest	1	2
+.	NA	NA

@@ -1,0 +1,11 @@
+At	0	0
+court	2	1
+all	1	0
+admired	1	0
+the	0	1
+good	0	0
+taste	1	0
+of	0	0
+this	0	1
+delay	2	2
+.	NA	NA

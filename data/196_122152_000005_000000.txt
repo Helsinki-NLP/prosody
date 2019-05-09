@@ -1,0 +1,9 @@
+'I	2	0
+did	0	0
+not	1	0
+think	0	0
+of	0	1
+danger	1	0
+just	0	1
+then	2	2
+.	NA	NA

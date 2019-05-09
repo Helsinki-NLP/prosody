@@ -1,0 +1,7 @@
+What	1	0
+work	1	2
+?	NA	NA
+I	2	0
+asked	0	0
+suspiciously	1	2
+.	NA	NA

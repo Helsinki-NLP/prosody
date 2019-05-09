@@ -1,0 +1,8 @@
+With	0	0
+her	1	0
+details	2	0
+we	0	1
+shrink	0	0
+from	0	1
+competition	2	2
+.	NA	NA

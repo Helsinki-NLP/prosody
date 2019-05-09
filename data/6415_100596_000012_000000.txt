@@ -1,0 +1,3 @@
+Georgie	2	0
+laughed	1	2
+.	NA	NA

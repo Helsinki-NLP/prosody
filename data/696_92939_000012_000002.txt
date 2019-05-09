@@ -1,0 +1,13 @@
+They	1	0
+were	0	1
+determined	2	1
+to	0	0
+detect	2	0
+her	0	0
+in	0	1
+some	0	1
+crime	2	1
+and	0	0
+punish	1	0
+her	1	2
+.	NA	NA

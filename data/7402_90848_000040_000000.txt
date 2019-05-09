@@ -1,0 +1,5 @@
+Bobo	1	0
+arrived	0	1
+at	0	0
+twilight	2	2
+.	NA	NA

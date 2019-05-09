@@ -1,0 +1,8 @@
+She	0	0
+smiled	2	0
+and	0	2
+put	0	0
+out	2	0
+her	0	1
+hand	1	2
+.	NA	NA

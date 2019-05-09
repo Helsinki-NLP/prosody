@@ -1,0 +1,10 @@
+You	0	0
+would	1	0
+have	0	1
+thought	1	0
+her	1	0
+a	0	1
+blade	1	0
+of	0	2
+grass	1	2
+.	NA	NA

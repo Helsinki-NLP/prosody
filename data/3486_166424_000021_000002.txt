@@ -1,0 +1,4 @@
+While	1	0
+the	0	0
+way's	0	0
+open	2	2

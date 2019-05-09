@@ -1,0 +1,12 @@
+We	0	0
+took	2	1
+the	1	0
+fox	2	2
+to	1	0
+the	0	0
+house	1	0
+and	0	1
+lighted	0	0
+a	0	1
+candle	2	2
+.	NA	NA

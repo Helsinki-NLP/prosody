@@ -1,0 +1,13 @@
+There	1	0
+was	2	0
+mr	1	1
+Farnsworth	1	0
+and	0	1
+mr	1	0
+Brown	0	0
+and	0	0
+I	0	1
+think	0	0
+mr	0	0
+Woods	2	2
+.	NA	NA

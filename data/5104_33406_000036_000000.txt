@@ -1,0 +1,17 @@
+But	1	0
+if	0	0
+I	1	0
+take	1	0
+my	1	1
+sport	2	0
+like	0	1
+a	0	0
+wolf	2	2
+,	NA	NA
+I	1	0
+must	2	1
+be	0	0
+hunted	0	0
+like	1	0
+one	1	2
+.	NA	NA

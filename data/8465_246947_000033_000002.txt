@@ -1,0 +1,15 @@
+He	0	0
+hasn't	2	0
+got	1	0
+a	0	1
+secret	1	1
+like	0	0
+us	0	1
+,	NA	NA
+Helen	1	2
+,	NA	NA
+he	0	0
+added	1	1
+,	NA	NA
+sadly	2	2
+.	NA	NA

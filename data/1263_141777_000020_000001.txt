@@ -1,0 +1,17 @@
+Only	2	0
+a	0	1
+timely	1	0
+rustle	1	1
+told	2	0
+him	0	2
+that	1	0
+the	0	0
+other	2	0
+had	0	1
+sat	1	0
+down	2	0
+on	0	1
+a	0	0
+drift	0	0
+log	2	2
+.	NA	NA

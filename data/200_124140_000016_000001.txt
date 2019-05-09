@@ -1,0 +1,7 @@
+They	0	0
+have	2	0
+at	0	1
+least	0	1
+that	2	1
+advantage	1	2
+.	NA	NA

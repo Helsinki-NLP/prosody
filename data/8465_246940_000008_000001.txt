@@ -1,0 +1,14 @@
+The	0	0
+curate	2	0
+paused	0	1
+,	NA	NA
+but	2	2
+,	NA	NA
+receiving	1	0
+no	1	0
+assistance	0	2
+,	NA	NA
+ventured	1	0
+on	0	0
+again	0	2
+.	NA	NA

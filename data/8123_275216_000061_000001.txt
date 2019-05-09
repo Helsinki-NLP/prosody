@@ -1,0 +1,11 @@
+I	2	0
+call	2	0
+it	0	2
+mean	2	1
+ingratitude	1	1
+.	NA	NA
+And	1	0
+then	0	1
+he	1	0
+died	0	2
+.	NA	NA

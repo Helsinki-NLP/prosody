@@ -1,0 +1,16 @@
+The	0	0
+Snapping	2	0
+Turtle	0	0
+and	0	0
+a	0	1
+Mud	1	0
+Turtle	0	1
+Father	2	0
+were	0	1
+in	0	0
+the	0	0
+shallow	2	0
+water	0	1
+below	2	0
+her	1	2
+.	NA	NA

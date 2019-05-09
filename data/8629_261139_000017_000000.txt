@@ -1,0 +1,8 @@
+Let	2	1
+me	1	0
+be	0	1
+put	1	0
+on	0	0
+my	0	1
+oath	2	2
+.	NA	NA

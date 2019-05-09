@@ -1,0 +1,8 @@
+As	0	0
+a	0	0
+fox	2	0
+,	NA	NA
+I	0	1
+struggled	1	0
+tremendously	1	2
+.	NA	NA

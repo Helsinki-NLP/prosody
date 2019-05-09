@@ -1,0 +1,10 @@
+In	0	1
+your	2	0
+place	0	0
+I'd	0	1
+do	0	0
+nothing	1	1
+but	0	0
+make	1	1
+merry	2	2
+!	NA	NA

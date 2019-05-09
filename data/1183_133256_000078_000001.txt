@@ -1,0 +1,3 @@
+fort	2	0
+wayne	0	0
+indiana	1	2

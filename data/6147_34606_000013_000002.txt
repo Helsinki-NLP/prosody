@@ -1,0 +1,9 @@
+Do	2	0
+evil	1	1
+for	0	0
+evil's	1	1
+sake	2	0
+was	0	1
+the	0	0
+programme	2	2
+.	NA	NA

@@ -1,0 +1,10 @@
+No	2	1
+stones	1	0
+can	0	1
+be	0	0
+dangerous	2	1
+,	NA	NA
+said	0	0
+mrs	0	0
+Low	0	2
+.	NA	NA

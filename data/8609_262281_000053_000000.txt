@@ -1,0 +1,14 @@
+Suppose	1	0
+we	0	0
+are	0	0
+both	0	1
+good	2	2
+,	NA	NA
+and	2	0
+merit	0	0
+it	0	1
+equally	0	0
+?	NA	NA
+suggested	1	1
+Fanny	2	2
+.	NA	NA

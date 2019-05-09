@@ -1,0 +1,5 @@
+Yes	2	0
+,	NA	NA
+you	0	1
+did	2	2
+.	NA	NA

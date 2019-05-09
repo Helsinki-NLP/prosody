@@ -1,0 +1,10 @@
+Oh	1	0
+yes	2	2
+,	NA	NA
+said	1	0
+Annie	0	0
+,	NA	NA
+with	0	0
+a	0	1
+smile	2	2
+.	NA	NA

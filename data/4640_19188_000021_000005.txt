@@ -1,0 +1,8 @@
+Are	1	0
+there	0	1
+children	2	2
+or	1	0
+are	0	0
+there	0	0
+not	1	2
+?	NA	NA

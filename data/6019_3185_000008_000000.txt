@@ -1,0 +1,3 @@
+Thomas	1	1
+De	1	0
+Quincey	1	2

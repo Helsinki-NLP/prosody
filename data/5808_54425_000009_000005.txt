@@ -1,0 +1,15 @@
+It	0	0
+had	2	0
+taken	0	1
+barely	1	0
+five	1	0
+years	1	1
+to	0	0
+accomplish	1	1
+an	0	0
+entire	2	1
+metamorphosis	1	1
+of	0	0
+their	1	0
+characters	1	2
+.	NA	NA

@@ -1,0 +1,4 @@
+Yes	2	1
+,	NA	NA
+go	1	2
+.	NA	NA

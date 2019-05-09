@@ -1,0 +1,8 @@
+But	2	1
+,	NA	NA
+however	1	1
+,	NA	NA
+he	0	0
+did	0	0
+not	2	2
+.	NA	NA

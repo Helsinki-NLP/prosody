@@ -1,0 +1,4 @@
+A	0	0
+sudden	1	0
+earthquake	1	2
+.	NA	NA

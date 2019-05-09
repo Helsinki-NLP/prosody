@@ -1,0 +1,7 @@
+I	2	1
+bade	1	1
+them	0	0
+both	1	1
+good	0	0
+by	1	2
+.	NA	NA

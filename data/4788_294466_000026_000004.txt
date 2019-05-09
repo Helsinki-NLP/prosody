@@ -1,0 +1,16 @@
+Jerry	2	0
+didn't	0	1
+have	0	0
+time	2	1
+to	0	0
+tell	2	0
+us	0	1
+about	1	0
+the	0	1
+Evil	1	0
+Eye	0	1
+Turquoise	1	1
+,	NA	NA
+did	1	0
+he	0	2
+?	NA	NA

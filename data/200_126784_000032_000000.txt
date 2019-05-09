@@ -1,0 +1,17 @@
+I	2	2
+!	NA	NA
+exclaimed	1	0
+the	0	0
+captain	0	0
+,	NA	NA
+in	0	1
+surprise	1	2
+;	NA	NA
+I	1	0
+have	0	0
+no	0	0
+cold	1	0
+in	0	1
+my	0	0
+head	1	2
+.	NA	NA

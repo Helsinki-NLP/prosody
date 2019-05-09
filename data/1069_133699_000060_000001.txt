@@ -1,0 +1,17 @@
+When	1	0
+a	0	0
+man's	1	1
+of	0	0
+that	2	1
+infallible	1	0
+mould	0	2
+what	2	0
+does	0	0
+it	0	1
+matter	2	1
+to	0	0
+him	1	2
+what	2	0
+one	0	1
+feels	2	2
+?	NA	NA

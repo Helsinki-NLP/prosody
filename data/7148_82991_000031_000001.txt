@@ -1,0 +1,9 @@
+Why	0	0
+,	NA	NA
+Mark	2	2
+,	NA	NA
+you	0	0
+are	1	0
+clean	0	0
+crazed	1	2
+!	NA	NA

@@ -1,0 +1,4 @@
+The	0	1
+clever	1	1
+devil	2	2
+!	NA	NA

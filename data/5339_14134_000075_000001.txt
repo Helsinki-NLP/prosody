@@ -1,0 +1,12 @@
+But	0	0
+he	0	0
+reasoned	2	0
+that	0	1
+first	1	0
+correct	1	0
+impression	0	0
+away	2	2
+with	1	0
+ingenious	1	1
+sophistry	1	2
+.	NA	NA

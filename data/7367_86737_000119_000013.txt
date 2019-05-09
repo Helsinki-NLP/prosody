@@ -1,0 +1,17 @@
+Teresa	2	1
+saw	0	0
+herself	0	0
+rich	1	2
+,	NA	NA
+superbly	2	0
+attired	2	2
+,	NA	NA
+and	1	0
+attended	0	0
+by	0	0
+a	0	0
+train	1	0
+of	0	1
+liveried	0	0
+domestics	1	2
+.	NA	NA

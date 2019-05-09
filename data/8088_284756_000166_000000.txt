@@ -1,0 +1,13 @@
+Here	2	1
+was	0	0
+no	0	0
+ocean	1	0
+bottom	1	1
+,	NA	NA
+but	0	0
+land	2	2
+,	NA	NA
+rich	1	0
+tropical	0	0
+jungle	1	2
+.	NA	NA

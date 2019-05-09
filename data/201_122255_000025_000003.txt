@@ -1,0 +1,7 @@
+Now	2	0
+look	0	1
+to	0	0
+thyself	2	1
+,	NA	NA
+fellow	2	2
+!	NA	NA

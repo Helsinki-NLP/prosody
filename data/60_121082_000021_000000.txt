@@ -1,0 +1,7 @@
+'How	2	0
+,	NA	NA
+'	NA	NA
+do	0	1
+you	0	0
+ask	1	2
+?	NA	NA

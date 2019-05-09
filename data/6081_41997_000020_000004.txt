@@ -1,0 +1,15 @@
+You	0	0
+will	0	0
+have	0	1
+time	1	0
+to	0	1
+faint	2	1
+when	0	0
+we	0	0
+get	0	0
+home	2	1
+;	NA	NA
+now	2	2
+come	0	0
+along	1	2
+.	NA	NA

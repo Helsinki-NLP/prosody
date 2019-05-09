@@ -1,0 +1,10 @@
+No	2	1
+,	NA	NA
+Pencroft	0	1
+,	NA	NA
+replied	0	0
+Cyrus	0	0
+Harding	0	2
+,	NA	NA
+no	2	2
+!	NA	NA

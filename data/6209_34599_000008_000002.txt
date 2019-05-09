@@ -1,0 +1,12 @@
+For	0	1
+a	2	0
+long	2	1
+time	2	0
+he	0	1
+had	0	0
+ceased	1	1
+to	0	0
+see	1	0
+the	0	1
+smoke	2	2
+.	NA	NA

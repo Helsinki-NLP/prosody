@@ -1,0 +1,16 @@
+Both	1	0
+sexes	0	0
+were	0	0
+slim	2	2
+,	NA	NA
+and	2	0
+there	0	0
+was	0	0
+a	0	1
+remarkable	1	0
+uniformity	1	1
+of	0	0
+size	1	0
+and	0	1
+appearance	2	2
+.	NA	NA

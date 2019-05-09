@@ -1,0 +1,17 @@
+It	0	0
+was	1	0
+a	0	0
+miniature	1	0
+copy	1	1
+of	0	0
+all	0	0
+the	0	0
+great	1	0
+men	0	0
+of	0	1
+Versailles	2	2
+,	NA	NA
+not	2	0
+giants	0	1
+themselves	2	2
+.	NA	NA

@@ -1,0 +1,11 @@
+Let	1	0
+thine	0	1
+heart	0	0
+cheer	0	0
+thee	0	2
+.	NA	NA
+Give	1	0
+it	0	0
+out	1	0
+let	0	2
+.	NA	NA

@@ -1,0 +1,11 @@
+Thus	2	0
+he	0	1
+came	2	0
+to	0	0
+the	0	2
+bar	2	1
+which	0	0
+Marius	1	1
+had	0	0
+loosened	1	2
+.	NA	NA

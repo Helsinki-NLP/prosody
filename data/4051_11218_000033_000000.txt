@@ -1,0 +1,14 @@
+Jason	2	0
+answered	0	2
+only	0	0
+by	1	0
+drawing	1	1
+his	0	0
+sword	0	1
+,	NA	NA
+and	0	0
+making	1	0
+a	0	0
+step	1	1
+forward	2	2
+.	NA	NA

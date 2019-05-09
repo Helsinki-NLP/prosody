@@ -1,0 +1,8 @@
+Make	2	0
+merry	1	2
+,	NA	NA
+let	2	0
+us	0	0
+make	0	1
+merry	2	2
+.	NA	NA

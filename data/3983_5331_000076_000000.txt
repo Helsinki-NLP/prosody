@@ -1,0 +1,4 @@
+Nor	1	1
+they	1	0
+either	2	2
+.	NA	NA

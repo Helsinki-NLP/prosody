@@ -1,0 +1,14 @@
+A	0	0
+viper's	2	0
+sting	2	2
+has	1	1
+robbed	2	0
+her	0	0
+of	0	2
+the	0	0
+years	1	0
+that	0	0
+were	0	0
+her	0	1
+due	1	2
+.	NA	NA

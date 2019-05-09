@@ -1,0 +1,10 @@
+Will	0	0
+you	2	2
+can	1	0
+you	0	0
+be	0	0
+my	0	0
+wife	0	1
+,	NA	NA
+darling	1	2
+?	NA	NA

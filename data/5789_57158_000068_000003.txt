@@ -1,0 +1,17 @@
+Good	2	0
+afternoon	0	1
+to	0	0
+you	0	0
+,	NA	NA
+sir	1	2
+.	NA	NA
+Then	2	0
+Reginald	0	1
+having	1	0
+thus	0	0
+done	0	0
+his	0	0
+duty	1	2
+returned	2	0
+home	1	2
+.	NA	NA

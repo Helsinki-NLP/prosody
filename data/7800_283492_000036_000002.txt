@@ -1,0 +1,8 @@
+Teddy	2	0
+was	0	1
+showing	0	1
+decided	2	0
+signs	1	1
+of	0	0
+improvement	2	2
+.	NA	NA

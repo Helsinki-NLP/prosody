@@ -1,0 +1,10 @@
+Grandpa	2	0
+brought	1	0
+the	0	1
+news	0	0
+home	0	2
+,	NA	NA
+California	2	0
+is	0	1
+ours	1	2
+.	NA	NA

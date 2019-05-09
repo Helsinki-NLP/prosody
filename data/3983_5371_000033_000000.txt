@@ -1,0 +1,16 @@
+And	1	0
+you	0	0
+see	0	0
+him	2	2
+,	NA	NA
+that	2	0
+pitiful	1	0
+outcast	1	1
+,	NA	NA
+who	0	0
+is	0	0
+too	1	0
+contemptible	1	0
+to	0	0
+live	2	2
+?	NA	NA

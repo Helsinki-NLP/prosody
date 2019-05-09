@@ -1,0 +1,8 @@
+At	2	0
+your	0	0
+druggist	2	1
+,	NA	NA
+twenty	0	0
+five	1	0
+cents	1	2
+.	NA	NA

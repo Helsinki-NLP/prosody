@@ -1,0 +1,10 @@
+Happiness	2	1
+desires	1	1
+that	0	0
+all	2	0
+the	0	0
+world	0	1
+should	0	0
+be	0	0
+happy	1	2
+.	NA	NA

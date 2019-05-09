@@ -1,0 +1,6 @@
+Yes	2	1
+,	NA	NA
+he	0	0
+bravely	1	1
+replied	2	2
+.	NA	NA

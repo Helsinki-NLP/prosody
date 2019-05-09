@@ -1,0 +1,13 @@
+Gwynplaine	2	2
+,	NA	NA
+by	2	0
+the	0	0
+inscription	0	0
+over	0	0
+his	0	0
+door	1	2
+,	NA	NA
+was	0	0
+soon	0	0
+found	2	2
+.	NA	NA

@@ -1,0 +1,5 @@
+The	2	0
+old	0	1
+statesman	1	0
+laughed	2	2
+.	NA	NA

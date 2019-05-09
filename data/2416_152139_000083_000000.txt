@@ -1,0 +1,17 @@
+An	0	0
+instant	1	0
+Jimmie	0	1
+Dale	1	0
+watched	1	1
+the	0	0
+other	2	2
+,	NA	NA
+then	2	0
+he	0	0
+picked	0	0
+up	1	1
+the	0	0
+sheet	1	0
+of	0	1
+paper	1	2
+.	NA	NA

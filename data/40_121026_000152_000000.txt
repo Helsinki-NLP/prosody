@@ -1,0 +1,5 @@
+That	2	1
+alters	0	1
+the	0	0
+case	2	2
+.	NA	NA

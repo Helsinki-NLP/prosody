@@ -1,0 +1,9 @@
+Well	2	1
+,	NA	NA
+no	1	0
+,	NA	NA
+sir	0	0
+,	NA	NA
+not	0	1
+exactly	1	2
+.	NA	NA

@@ -1,0 +1,7 @@
+That	2	1
+will	0	0
+tone	1	0
+down	1	0
+the	0	0
+horses	1	2
+.	NA	NA

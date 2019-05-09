@@ -1,0 +1,8 @@
+How	1	0
+she	0	0
+does	1	1
+pitch	2	1
+!	NA	NA
+he	0	0
+said	2	2
+.	NA	NA

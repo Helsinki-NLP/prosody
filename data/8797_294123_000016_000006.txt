@@ -1,0 +1,13 @@
+It	0	0
+is	1	0
+what	2	1
+binds	2	1
+him	0	0
+down	2	0
+to	0	2
+building	1	0
+as	0	0
+his	0	0
+fathers	2	1
+built	1	2
+.	NA	NA

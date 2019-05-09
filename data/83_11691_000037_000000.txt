@@ -1,0 +1,4 @@
+It	1	0
+looks	1	1
+striking	2	2
+.	NA	NA

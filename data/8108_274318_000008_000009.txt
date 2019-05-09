@@ -1,0 +1,11 @@
+Something	2	0
+from	0	1
+the	0	0
+region	1	1
+of	0	0
+utter	1	1
+cold	2	0
+was	0	1
+upon	2	0
+him	0	2
+.	NA	NA

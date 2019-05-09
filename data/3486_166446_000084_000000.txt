@@ -1,0 +1,13 @@
+The	0	0
+speeding	1	0
+shape	0	1
+halted	2	2
+,	NA	NA
+hesitated	2	2
+;	NA	NA
+it	0	0
+seemed	2	0
+about	1	0
+to	0	1
+return	1	2
+.	NA	NA

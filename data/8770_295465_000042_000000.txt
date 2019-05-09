@@ -1,0 +1,8 @@
+Papa	0	0
+day	2	2
+,	NA	NA
+where's	2	0
+my	0	0
+Papa	0	0
+day	1	2
+?	NA	NA

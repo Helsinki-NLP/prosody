@@ -1,0 +1,8 @@
+They	2	0
+did	0	0
+not	1	1
+foresee	2	2
+.	NA	NA
+.	NA	NA
+.	NA	NA
+.	NA	NA

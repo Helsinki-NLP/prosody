@@ -1,0 +1,14 @@
+Even	1	0
+the	0	0
+South	2	1
+,	NA	NA
+the	0	0
+Administration's	0	0
+stronghold	1	2
+,	NA	NA
+sent	1	0
+fiery	2	0
+telegrams	0	0
+demanding	0	0
+action	1	2
+.	NA	NA

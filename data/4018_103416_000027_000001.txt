@@ -1,0 +1,7 @@
+You	0	1
+know	1	0
+,	NA	NA
+I	0	0
+like	1	1
+business	2	2
+.	NA	NA

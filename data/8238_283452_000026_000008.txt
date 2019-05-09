@@ -1,0 +1,10 @@
+Some	2	0
+of	0	1
+these	0	0
+new	0	0
+spooks	1	0
+are	0	1
+notoriously	2	1
+good	0	0
+company	1	2
+.	NA	NA

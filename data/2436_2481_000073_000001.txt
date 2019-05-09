@@ -1,0 +1,9 @@
+But	1	0
+I'll	2	1
+kill	1	0
+him	0	1
+,	NA	NA
+I	0	1
+tell	2	0
+you	0	2
+!	NA	NA

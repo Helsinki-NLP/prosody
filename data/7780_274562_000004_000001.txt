@@ -1,0 +1,10 @@
+In	1	0
+personal	2	0
+grace	2	0
+and	0	2
+beauty	1	0
+he	0	1
+exceeded	0	0
+all	1	0
+men	1	2
+.	NA	NA

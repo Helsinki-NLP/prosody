@@ -1,0 +1,6 @@
+Ha'ie	NA	NA
+'s	0	1
+throwed	1	0
+me	0	1
+down	2	2
+.	NA	NA

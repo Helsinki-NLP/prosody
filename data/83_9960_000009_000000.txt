@@ -1,0 +1,8 @@
+All	2	0
+at	0	0
+once	0	2
+,	2	0
+Thenardier	NA	NA
+addressed	1	1
+the	0	0
+prisoner	1	2

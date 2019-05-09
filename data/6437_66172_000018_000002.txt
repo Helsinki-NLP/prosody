@@ -1,0 +1,13 @@
+After	2	0
+much	2	0
+noisy	2	1
+discussion	1	2
+,	NA	NA
+a	0	0
+plan	2	0
+of	0	1
+retaliation	2	1
+was	0	0
+agreed	0	0
+upon	1	2
+.	NA	NA

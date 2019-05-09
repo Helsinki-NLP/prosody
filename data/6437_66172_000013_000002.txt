@@ -1,0 +1,12 @@
+Each	1	0
+boy	2	0
+who	0	1
+failed	2	0
+to	0	1
+report	2	0
+himself	1	2
+was	0	0
+fined	2	1
+one	1	0
+cent	1	2
+.	NA	NA

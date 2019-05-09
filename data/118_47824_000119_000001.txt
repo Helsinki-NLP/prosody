@@ -1,0 +1,6 @@
+But	0	1
+I	0	0
+want	1	0
+it	0	2
+quickly	1	2
+.	NA	NA

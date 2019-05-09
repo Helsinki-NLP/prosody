@@ -1,0 +1,14 @@
+Jeroboam	2	2
+established	2	1
+the	0	0
+religion	0	0
+of	0	1
+the	0	0
+Canaanites	1	1
+and	0	0
+made	0	1
+gods	2	1
+and	0	0
+molten	0	0
+images	1	2
+.	NA	NA

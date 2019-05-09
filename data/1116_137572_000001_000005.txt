@@ -1,0 +1,13 @@
+Is	0	0
+the	2	0
+object	2	0
+of	0	1
+one's	0	1
+wishes	2	0
+as	0	1
+desirable	2	1
+as	0	0
+one	1	0
+had	0	1
+expected	2	2
+?	NA	NA

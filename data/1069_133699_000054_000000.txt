@@ -1,0 +1,5 @@
+Isabel	2	0
+turned	0	1
+about	0	0
+again	2	2
+.	NA	NA

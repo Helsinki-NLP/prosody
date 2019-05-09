@@ -1,0 +1,17 @@
+It	0	0
+required	2	0
+a	0	1
+hero	2	0
+to	0	1
+restore	1	0
+the	0	0
+machinery	1	1
+of	0	0
+government	1	2
+and	1	0
+evolve	0	0
+order	1	0
+out	0	0
+of	0	1
+chaos	1	2
+.	NA	NA

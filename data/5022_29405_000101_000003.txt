@@ -1,0 +1,14 @@
+Pray	2	0
+don't	1	0
+think	0	1
+me	0	0
+bold	2	2
+;	NA	NA
+I	0	0
+don't	1	0
+know	0	0
+how	1	0
+to	0	1
+express	0	0
+myself	2	2
+.	NA	NA

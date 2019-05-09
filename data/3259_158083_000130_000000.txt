@@ -1,0 +1,5 @@
+We	1	0
+quickened	2	0
+our	0	1
+pace	2	2
+.	NA	NA

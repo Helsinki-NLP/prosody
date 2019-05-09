@@ -1,0 +1,15 @@
+Oh	2	0
+,	NA	NA
+yes	0	1
+,	NA	NA
+says	1	0
+the	0	0
+man	0	0
+below	1	2
+,	NA	NA
+I	2	0
+know	0	0
+all	0	0
+about	1	0
+it	0	2
+.	NA	NA

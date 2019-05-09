@@ -1,0 +1,8 @@
+No	2	0
+new	0	1
+crime	1	0
+had	0	0
+since	0	0
+been	0	1
+discovered	2	2
+.	NA	NA

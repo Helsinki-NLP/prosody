@@ -1,0 +1,14 @@
+Then	1	0
+you	0	0
+refuse	0	1
+to	0	0
+help	1	0
+me	2	2
+?	NA	NA
+said	2	0
+esther	0	1
+in	0	0
+a	0	0
+trembling	1	0
+voice	1	2
+.	NA	NA

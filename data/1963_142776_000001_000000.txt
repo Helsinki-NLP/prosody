@@ -1,0 +1,3 @@
+FISH	1	1
+STOCK	2	2
+.	NA	NA

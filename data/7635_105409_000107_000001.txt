@@ -1,0 +1,3 @@
+He	1	1
+smiled	2	2
+.	NA	NA

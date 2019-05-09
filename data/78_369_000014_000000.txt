@@ -1,0 +1,3 @@
+Scoffing	2	0
+devil	0	2
+!	NA	NA

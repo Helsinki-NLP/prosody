@@ -1,0 +1,4 @@
+Both	2	1
+were	0	0
+closed	1	2
+.	NA	NA

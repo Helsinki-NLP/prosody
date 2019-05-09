@@ -1,0 +1,5 @@
+Your	0	0
+most	1	1
+obedient	0	1
+servant	2	2
+,	NA	NA

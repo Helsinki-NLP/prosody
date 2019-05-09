@@ -1,0 +1,10 @@
+Pity	0	0
+the	1	1
+Frogs	2	1
+don't	1	0
+come	0	0
+out	1	1
+to	0	0
+enjoy	0	0
+it	2	2
+!	NA	NA

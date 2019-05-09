@@ -1,0 +1,11 @@
+As	1	0
+a	0	0
+Christian	2	2
+she	1	0
+was	0	0
+a	0	0
+heretic	1	2
+and	1	0
+a	0	0
+bigot	1	2
+.	NA	NA

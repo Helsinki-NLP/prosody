@@ -1,0 +1,5 @@
+I	1	1
+dare	2	0
+you	0	1
+to	1	2
+!	NA	NA

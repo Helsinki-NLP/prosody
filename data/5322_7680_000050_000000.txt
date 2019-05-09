@@ -1,0 +1,10 @@
+Olenin	2	0
+was	0	0
+as	0	1
+happy	2	0
+as	0	1
+a	0	0
+boy	1	0
+of	0	1
+twelve	2	2
+.	NA	NA

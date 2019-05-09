@@ -1,0 +1,6 @@
+don't	1	1
+flap	2	0
+and	0	1
+stagger	0	0
+so	2	2
+!	NA	NA

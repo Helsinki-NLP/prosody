@@ -1,0 +1,8 @@
+Freshmen	2	0
+are	0	1
+terribly	2	1
+sensitive	0	0
+about	0	0
+being	0	1
+slighted	2	2
+.	NA	NA

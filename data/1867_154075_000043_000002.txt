@@ -1,0 +1,15 @@
+But	0	0
+I	2	0
+don't	0	0
+use	0	1
+poison	2	2
+,	NA	NA
+and	1	0
+I	0	0
+don't	0	0
+kill	2	0
+with	0	1
+mysterious	1	1
+X	1	0
+rays	0	2
+.	NA	NA

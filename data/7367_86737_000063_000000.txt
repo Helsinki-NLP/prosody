@@ -1,0 +1,6 @@
+These	0	0
+are	0	0
+my	0	0
+words	0	1
+exactly	2	2
+.	NA	NA

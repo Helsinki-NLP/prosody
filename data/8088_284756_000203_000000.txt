@@ -1,0 +1,5 @@
+I	1	0
+did	0	0
+not	1	1
+reply	2	2
+.	NA	NA

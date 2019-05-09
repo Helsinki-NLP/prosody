@@ -1,0 +1,14 @@
+But	0	0
+I	0	0
+like	2	2
+you	0	0
+,	NA	NA
+said	0	0
+Kenneth	1	1
+,	NA	NA
+and	0	0
+you're	0	0
+old	1	0
+and	0	1
+homeless	2	2
+.	NA	NA

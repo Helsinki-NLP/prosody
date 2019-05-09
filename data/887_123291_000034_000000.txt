@@ -1,0 +1,4 @@
+Another	2	1
+remarkable	0	0
+thing	1	2
+.	NA	NA

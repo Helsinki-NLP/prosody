@@ -1,0 +1,14 @@
+Now	1	0
+listen	0	2
+;	NA	NA
+Can	1	0
+you	0	0
+tell	1	0
+me	0	0
+what	0	0
+is	0	1
+going	1	0
+wrong	1	0
+with	0	1
+Dietrich	1	2
+?	NA	NA

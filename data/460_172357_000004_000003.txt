@@ -1,0 +1,13 @@
+My	0	0
+father	2	0
+took	0	0
+up	0	1
+a	0	0
+farm	2	1
+near	0	0
+Lake	0	1
+Simcoe	0	0
+,	NA	NA
+in	0	1
+Ontario	2	2
+.	NA	NA

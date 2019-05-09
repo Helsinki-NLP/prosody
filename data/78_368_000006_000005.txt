@@ -1,0 +1,3 @@
+Great	1	1
+God	2	2
+!	NA	NA

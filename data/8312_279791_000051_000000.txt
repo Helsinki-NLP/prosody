@@ -1,0 +1,12 @@
+Does	2	0
+he	0	0
+so	2	2
+?	NA	NA
+said	1	0
+the	0	0
+queen	1	1
+,	NA	NA
+now	1	0
+comprehending	0	0
+all	1	2
+.	NA	NA

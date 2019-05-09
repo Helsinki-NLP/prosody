@@ -1,0 +1,10 @@
+The	0	0
+man	2	0
+could	0	1
+not	2	0
+have	0	1
+raised	1	1
+himself	1	0
+on	0	1
+tiptoe	2	2
+.	NA	NA

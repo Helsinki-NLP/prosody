@@ -1,0 +1,14 @@
+In	0	1
+the	0	0
+north	2	1
+he	0	0
+had	1	0
+to	0	1
+drive	1	1
+back	2	2
+invading	1	0
+bands	2	0
+of	0	1
+the	0	0
+Muski	1	2
+.	NA	NA

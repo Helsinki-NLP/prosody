@@ -1,0 +1,6 @@
+He	0	0
+is	2	0
+an	0	1
+indefatigable	1	1
+worker	2	2
+.	NA	NA

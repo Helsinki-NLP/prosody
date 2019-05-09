@@ -1,0 +1,14 @@
+It	0	1
+was	0	0
+after	1	0
+eleven	0	1
+by	0	0
+the	0	0
+ship's	1	1
+clock	2	0
+on	0	1
+the	0	0
+mantel	1	2
+,	NA	NA
+and	1	0
+if	2	2

@@ -1,0 +1,15 @@
+I	1	0
+choose	2	1
+,	NA	NA
+answered	0	0
+the	0	0
+king	1	2
+;	NA	NA
+and	0	0
+I	1	0
+will	0	0
+not	1	0
+marry	0	0
+your	0	1
+goddaughter	1	2
+.	NA	NA

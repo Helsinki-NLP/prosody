@@ -1,0 +1,5 @@
+Lord	0	0
+David	2	2
+was	0	0
+ripening	2	2
+.	NA	NA

@@ -1,0 +1,7 @@
+Believe	2	0
+what	0	0
+I	0	2
+say	2	0
+to	0	1
+you	1	2
+.	NA	NA

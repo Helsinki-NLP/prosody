@@ -1,0 +1,4 @@
+Lucky	2	1
+for	0	0
+her	2	2
+!	NA	NA

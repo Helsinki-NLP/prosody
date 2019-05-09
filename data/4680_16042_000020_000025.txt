@@ -1,0 +1,5 @@
+Down	2	0
+with	0	1
+the	0	0
+tyrant	1	2
+!	NA	NA

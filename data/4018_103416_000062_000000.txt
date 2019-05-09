@@ -1,0 +1,5 @@
+You	0	0
+wouldn't	2	1
+,	NA	NA
+Graham	1	2
+.	NA	NA

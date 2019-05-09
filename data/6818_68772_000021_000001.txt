@@ -1,0 +1,8 @@
+She's	2	0
+the	0	1
+living	1	0
+image	2	0
+of	0	1
+mrs	0	0
+Rogers	2	2
+.	NA	NA

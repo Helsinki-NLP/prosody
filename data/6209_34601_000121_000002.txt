@@ -1,0 +1,12 @@
+He	2	0
+is	0	0
+so	1	2
+good	1	0
+for	0	0
+nothing	1	0
+that	0	0
+his	0	1
+relations	1	1
+desert	2	0
+him	0	2
+.	NA	NA

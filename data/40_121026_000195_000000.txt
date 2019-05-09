@@ -1,0 +1,8 @@
+Still	2	2
+,	NA	NA
+you	0	0
+have	1	1
+thought	2	0
+of	0	1
+it	0	2
+?	NA	NA

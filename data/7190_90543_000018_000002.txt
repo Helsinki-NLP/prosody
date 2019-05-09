@@ -1,0 +1,17 @@
+They	0	0
+would	1	0
+have	0	0
+deceived	0	1
+nine	2	0
+men	0	0
+out	0	0
+of	0	1
+ten	2	2
+you	1	0
+happen	0	1
+to	0	0
+be	1	0
+the	0	0
+tenth	1	0
+man	2	2
+.	NA	NA

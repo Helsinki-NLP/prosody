@@ -1,0 +1,11 @@
+But	0	1
+I	2	0
+think	0	0
+Theodora	1	0
+knows	1	2
+,	NA	NA
+she	1	0
+said	0	0
+,	NA	NA
+briefly	1	2
+.	NA	NA

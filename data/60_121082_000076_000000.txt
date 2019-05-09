@@ -1,0 +1,6 @@
+Is	2	1
+he	1	2
+pleased	2	0
+with	0	1
+you	1	2
+?	NA	NA

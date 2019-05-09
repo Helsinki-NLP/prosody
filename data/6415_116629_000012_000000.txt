@@ -1,0 +1,9 @@
+I	2	0
+gave	1	0
+it	0	1
+to	0	0
+you	0	0
+this	0	1
+very	1	0
+minute	1	2
+.	NA	NA

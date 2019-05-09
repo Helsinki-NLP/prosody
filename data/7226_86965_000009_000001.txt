@@ -1,0 +1,11 @@
+She	0	1
+now	1	0
+broke	1	0
+out	1	0
+,	NA	NA
+in	0	2
+shrill	1	0
+,	NA	NA
+high	0	0
+notes	2	2
+,	NA	NA

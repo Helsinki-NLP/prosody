@@ -1,0 +1,12 @@
+This	2	0
+time	1	1
+he	0	0
+made	0	1
+the	0	0
+bedroom	2	1
+the	0	0
+scene	0	0
+of	0	0
+his	0	1
+investigations	2	2
+.	NA	NA

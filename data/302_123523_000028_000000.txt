@@ -1,0 +1,12 @@
+The	0	0
+answer	1	0
+is	0	0
+easy	0	0
+,	NA	NA
+Dejah	1	1
+Thoris	2	2
+,	NA	NA
+I	1	0
+replied	1	1
+smiling	1	2
+.	NA	NA

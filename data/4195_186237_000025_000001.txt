@@ -1,0 +1,14 @@
+Jane	2	0
+left	0	1
+five	1	1
+thousand	2	2
+to	0	0
+me	1	0
+,	NA	NA
+also	2	0
+,	NA	NA
+which	0	0
+I	0	0
+didn't	0	0
+get	2	2
+.	NA	NA

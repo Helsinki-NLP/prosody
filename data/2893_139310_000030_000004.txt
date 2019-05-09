@@ -1,0 +1,11 @@
+These	1	0
+shouting	2	1
+thousands	1	1
+beyond	1	0
+the	0	1
+little	0	0
+doorway	1	0
+had	0	1
+rescued	2	0
+him	0	2
+.	NA	NA

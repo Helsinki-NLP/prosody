@@ -1,0 +1,7 @@
+Fishing	2	0
+and	0	1
+hunting	2	0
+on	0	0
+the	0	1
+premises	2	2
+.	NA	NA

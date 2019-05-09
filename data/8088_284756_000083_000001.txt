@@ -1,0 +1,14 @@
+Very	1	0
+nice	0	0
+old	0	1
+chap	1	1
+,	NA	NA
+Carson	1	2
+,	NA	NA
+impressive	2	0
+even	0	0
+in	0	1
+his	0	0
+bathing	1	0
+suit	2	2
+.	NA	NA

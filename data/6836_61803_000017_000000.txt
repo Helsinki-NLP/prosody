@@ -1,0 +1,10 @@
+Why	2	0
+should	0	1
+Cassius	1	1
+Calhoun	1	0
+have	0	2
+killed	2	0
+his	0	1
+own	1	0
+cousin	2	2
+?	NA	NA

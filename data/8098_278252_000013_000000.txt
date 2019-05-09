@@ -1,0 +1,8 @@
+You	1	0
+bet	2	1
+,	NA	NA
+said	0	0
+Pod	1	1
+,	NA	NA
+icily	1	2
+.	NA	NA

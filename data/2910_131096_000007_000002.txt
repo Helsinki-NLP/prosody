@@ -1,0 +1,10 @@
+But	1	0
+she	1	0
+shall	0	0
+not	1	0
+so	0	2
+quietly	2	1
+usurp	0	1
+my	0	0
+honors	1	2
+.	NA	NA

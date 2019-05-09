@@ -1,0 +1,8 @@
+He	0	1
+took	2	0
+mrs	0	1
+Darling's	1	1
+kiss	2	1
+with	1	0
+him	0	2
+.	NA	NA

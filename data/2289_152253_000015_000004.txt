@@ -1,0 +1,12 @@
+He	0	1
+was	0	0
+so	2	0
+enraged	1	2
+at	2	1
+this	1	1
+that	0	0
+he	1	1
+again	2	1
+began	0	0
+war	0	2
+.	NA	NA

@@ -1,0 +1,15 @@
+However	2	2
+it	2	0
+was	0	0
+he	0	0
+lived	0	0
+alone	1	1
+,	NA	NA
+and	2	0
+fished	2	2
+and	2	0
+hunted	0	0
+just	1	0
+for	0	1
+himself	1	2
+.	NA	NA

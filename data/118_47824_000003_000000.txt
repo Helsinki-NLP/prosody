@@ -1,0 +1,10 @@
+But	2	1
+,	NA	NA
+as	0	0
+always	1	2
+,	NA	NA
+thought	2	0
+brought	0	1
+no	0	0
+release	1	2
+.	NA	NA

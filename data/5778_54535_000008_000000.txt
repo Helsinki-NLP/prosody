@@ -1,0 +1,8 @@
+james	2	0
+was	0	1
+the	0	0
+oldest	1	1
+in	0	0
+the	0	0
+family	1	2
+.	NA	NA

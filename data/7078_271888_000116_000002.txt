@@ -1,0 +1,5 @@
+You	0	0
+must	1	0
+come	1	1
+too	2	2
+.	NA	NA

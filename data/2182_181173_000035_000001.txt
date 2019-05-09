@@ -1,0 +1,3 @@
+Thank	1	0
+you	1	2
+!	NA	NA

@@ -1,0 +1,15 @@
+The	0	0
+young	1	0
+man	0	0
+arrived	1	2
+,	NA	NA
+the	0	0
+old	1	0
+man	1	0
+was	0	0
+effaced	2	2
+;	NA	NA
+such	2	1
+is	0	0
+life	1	2
+.	NA	NA

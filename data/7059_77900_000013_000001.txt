@@ -1,0 +1,7 @@
+We'll	1	0
+go	0	0
+down	1	1
+to	0	0
+the	0	0
+Works	2	2
+.	NA	NA

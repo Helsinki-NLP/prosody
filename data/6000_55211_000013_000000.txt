@@ -1,0 +1,12 @@
+I'm	0	0
+afraid	2	0
+not	1	1
+,	NA	NA
+returned	0	0
+Billy	1	0
+,	NA	NA
+with	0	0
+a	0	1
+rueful	0	0
+laugh	2	2
+.	NA	NA

@@ -1,0 +1,10 @@
+Can	0	0
+I	0	0
+take	2	1
+those	2	1
+books	2	1
+for	0	0
+you	0	1
+,	NA	NA
+teacher	2	2
+?	NA	NA

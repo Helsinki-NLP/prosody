@@ -1,0 +1,14 @@
+Send	0	0
+off	2	0
+the	0	0
+babies	1	1
+,	NA	NA
+Alice	2	2
+,	NA	NA
+and	0	0
+ring	1	0
+the	0	0
+bell	0	0
+for	0	0
+breakfast	0	2
+.	NA	NA

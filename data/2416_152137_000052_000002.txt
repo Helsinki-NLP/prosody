@@ -1,0 +1,9 @@
+Yes	2	2
+;	NA	NA
+he	1	0
+knew	0	0
+Chang	0	0
+Foo's	1	1
+too	2	0
+well	0	2
+.	NA	NA

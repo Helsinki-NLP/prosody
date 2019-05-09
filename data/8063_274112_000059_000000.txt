@@ -1,0 +1,4 @@
+What	1	1
+is	0	0
+it	2	2
+?	NA	NA

@@ -1,0 +1,17 @@
+Say	1	0
+to	0	0
+such	0	0
+a	0	0
+one	0	2
+,	NA	NA
+Come	1	0
+and	0	0
+play	2	2
+,	NA	NA
+and	1	0
+the	0	0
+invitation	1	2
+will	1	0
+be	0	0
+declined	1	2
+.	NA	NA

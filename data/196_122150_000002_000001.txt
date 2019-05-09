@@ -1,0 +1,13 @@
+That	2	0
+truth	1	0
+is	0	1
+not	1	0
+so	0	0
+often	1	1
+made	0	0
+apparent	2	2
+as	1	0
+people	0	0
+might	1	1
+think	2	2
+.	NA	NA

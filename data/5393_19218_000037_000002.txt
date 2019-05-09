@@ -1,0 +1,11 @@
+Twenty	2	0
+of	0	1
+them	0	1
+ride	2	0
+in	0	0
+a	0	1
+carriage	2	1
+intended	1	1
+for	0	0
+six	2	2
+.	NA	NA

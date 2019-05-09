@@ -1,0 +1,7 @@
+And	0	0
+now	2	2
+there	2	0
+was	0	0
+the	0	0
+letter	0	2
+!	NA	NA

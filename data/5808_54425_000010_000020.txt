@@ -1,0 +1,12 @@
+Then	2	0
+he	0	0
+was	0	1
+battered	2	2
+,	NA	NA
+unkempt	2	1
+,	NA	NA
+and	1	0
+thick	0	0
+of	0	0
+speech	1	2
+.	NA	NA

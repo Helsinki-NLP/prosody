@@ -1,0 +1,17 @@
+There	0	0
+was	2	1
+there	1	2
+a	0	0
+being	1	0
+alive	1	0
+and	0	1
+awake	1	2
+,	NA	NA
+though	2	0
+it	0	0
+might	1	1
+be	0	0
+a	0	0
+wild	1	1
+beast	2	2
+.	NA	NA

@@ -1,0 +1,12 @@
+Are	0	0
+you	2	0
+,	NA	NA
+then	1	1
+,	NA	NA
+so	2	1
+easily	0	1
+turned	1	1
+from	0	0
+your	0	1
+design	2	2
+?	NA	NA

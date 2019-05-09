@@ -1,0 +1,3 @@
+But	0	0
+young	1	1
+persons	1	2

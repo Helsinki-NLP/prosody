@@ -1,0 +1,7 @@
+However	2	0
+,	NA	NA
+nothing	0	1
+serious	2	1
+had	0	0
+occurred	2	2
+.	NA	NA

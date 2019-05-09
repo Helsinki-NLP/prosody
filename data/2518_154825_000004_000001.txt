@@ -1,0 +1,6 @@
+Is	1	1
+the	0	0
+bone	1	1
+broken	2	2
+?	NA	NA
+'	NA	NA

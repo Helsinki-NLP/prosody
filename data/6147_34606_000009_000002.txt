@@ -1,0 +1,9 @@
+To	0	0
+the	1	0
+republican	2	1
+clubs	1	0
+had	1	1
+succeeded	0	0
+monarchical	1	0
+clubs	1	2
+.	NA	NA

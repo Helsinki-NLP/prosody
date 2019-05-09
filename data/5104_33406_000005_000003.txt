@@ -1,0 +1,13 @@
+His	0	1
+foe	1	1
+Thorgest	2	2
+has	0	0
+many	0	0
+rich	2	0
+and	0	1
+powerful	2	0
+men	1	1
+to	0	0
+back	2	0
+him	0	2
+.	NA	NA

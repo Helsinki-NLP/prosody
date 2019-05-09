@@ -1,0 +1,13 @@
+Thence	2	2
+,	NA	NA
+notwithstanding	2	1
+all	2	0
+they	0	0
+had	0	0
+endured	2	2
+,	NA	NA
+they	0	0
+proceeded	1	0
+to	0	0
+Bagdad	1	2
+.	NA	NA

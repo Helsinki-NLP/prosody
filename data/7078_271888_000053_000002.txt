@@ -1,0 +1,6 @@
+Promise	2	1
+to	0	0
+keep	1	1
+my	0	0
+secret	1	2
+!	NA	NA

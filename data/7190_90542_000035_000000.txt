@@ -1,0 +1,10 @@
+That's	0	0
+another	1	0
+good	0	0
+point	2	1
+,	NA	NA
+Wigan	1	1
+,	NA	NA
+chuckled	1	0
+Quarles	1	2
+.	NA	NA

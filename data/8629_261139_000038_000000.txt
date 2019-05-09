@@ -1,0 +1,6 @@
+I	2	0
+did	0	1
+not	2	1
+understand	1	0
+her	2	2
+.	NA	NA

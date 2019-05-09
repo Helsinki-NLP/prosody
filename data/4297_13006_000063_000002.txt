@@ -1,0 +1,6 @@
+You	1	0
+will	2	1
+think	0	0
+about	2	0
+it	1	2
+?	NA	NA

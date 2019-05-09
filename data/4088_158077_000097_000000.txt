@@ -1,0 +1,11 @@
+Some	2	0
+members	0	0
+of	0	2
+the	0	0
+crowd	2	0
+made	0	0
+sport	1	0
+of	0	1
+the	0	0
+women	0	2
+.	NA	NA

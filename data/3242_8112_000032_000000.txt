@@ -1,0 +1,12 @@
+That's	2	1
+a	0	0
+point	2	2
+the	0	0
+Council	1	1
+is	0	0
+nervous	2	0
+about	0	1
+,	NA	NA
+he	0	0
+said	1	2
+.	NA	NA

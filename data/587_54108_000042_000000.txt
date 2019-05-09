@@ -1,0 +1,10 @@
+She	0	1
+held	2	0
+them	0	1
+lightly	2	0
+in	0	1
+place	2	0
+on	0	1
+her	0	0
+shoulder	2	2
+.	NA	NA

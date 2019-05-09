@@ -1,0 +1,7 @@
+She	2	1
+was	0	0
+gone	2	2
+.	NA	NA
+.	NA	NA
+.	NA	NA
+.	NA	NA

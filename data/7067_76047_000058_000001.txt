@@ -1,0 +1,8 @@
+For	0	0
+such	1	1
+people	1	1
+as	0	0
+you	0	0
+two	0	1
+anyhow	2	2
+.	NA	NA

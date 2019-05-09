@@ -1,0 +1,10 @@
+I	0	0
+searched	2	0
+for	0	0
+it	0	2
+,	NA	NA
+pried	2	0
+it	0	0
+loose	0	1
+softly	2	2
+.	NA	NA

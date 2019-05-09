@@ -1,0 +1,11 @@
+Lord	2	1
+!	NA	NA
+what	1	0
+a	0	2
+bore	2	0
+stopping	0	1
+with	0	0
+her	2	0
+will	0	1
+be	1	2
+.	NA	NA

@@ -1,0 +1,16 @@
+I've	0	0
+gone	1	0
+over	0	0
+this	0	0
+list	1	2
+three	2	0
+times	2	1
+,	NA	NA
+and	0	0
+there	0	0
+isn't	1	0
+a	0	1
+single	1	1
+Ferris	2	1
+down	0	2
+.	NA	NA

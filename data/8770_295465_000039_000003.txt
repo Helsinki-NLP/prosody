@@ -1,0 +1,14 @@
+Please	1	1
+,	NA	NA
+Papa	1	0
+day	1	2
+,	NA	NA
+come	1	0
+back	2	0
+and	0	1
+play	2	0
+with	0	1
+your	0	0
+little	0	1
+Tad	2	2
+.	NA	NA

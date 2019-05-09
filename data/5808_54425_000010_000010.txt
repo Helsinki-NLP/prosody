@@ -1,0 +1,11 @@
+After	2	0
+some	1	1
+demur	2	2
+she	0	0
+received	0	0
+him	0	0
+upon	1	0
+his	0	1
+former	0	0
+footing	1	2
+.	NA	NA

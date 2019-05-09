@@ -1,0 +1,8 @@
+He	0	0
+was	1	0
+made	0	1
+instantly	1	1
+and	0	0
+warmly	2	1
+welcome	1	2
+.	NA	NA

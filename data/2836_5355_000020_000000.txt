@@ -1,0 +1,9 @@
+I	2	0
+did	0	0
+not	0	1
+judge	0	1
+so	2	2
+,	NA	NA
+he	0	0
+replied	2	2
+.	NA	NA

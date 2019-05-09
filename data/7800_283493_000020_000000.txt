@@ -1,0 +1,6 @@
+Frank	2	0
+was	0	1
+more	1	0
+than	0	1
+willing	1	2
+.	NA	NA

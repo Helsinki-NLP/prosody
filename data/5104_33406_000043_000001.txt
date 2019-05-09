@@ -1,0 +1,6 @@
+What	2	0
+will	0	0
+he	0	1
+not	2	1
+do	1	2
+?	NA	NA

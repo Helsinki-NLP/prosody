@@ -1,0 +1,17 @@
+Why	0	0
+,	NA	NA
+Caterpillar	2	2
+,	NA	NA
+what	2	0
+do	0	0
+you	0	1
+think	0	0
+those	0	0
+little	0	0
+eggs	1	1
+will	0	0
+turn	0	0
+out	1	1
+to	0	0
+be	2	2
+?	NA	NA

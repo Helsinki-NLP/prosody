@@ -1,0 +1,7 @@
+Not	0	0
+very	2	0
+early	0	0
+,	NA	NA
+answered	0	2
+Constance	1	2
+.	NA	NA

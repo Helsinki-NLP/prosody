@@ -1,0 +1,3 @@
+She's	0	1
+well	2	2
+.	NA	NA

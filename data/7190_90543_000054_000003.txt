@@ -1,0 +1,10 @@
+It	0	0
+might	1	0
+implicate	1	0
+Sir	0	1
+Joseph	2	2
+,	NA	NA
+it	0	0
+might	2	0
+not	1	2
+.	NA	NA

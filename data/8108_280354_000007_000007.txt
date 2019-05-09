@@ -1,0 +1,17 @@
+'tis	0	0
+but	2	1
+a	0	0
+short	2	1
+delay	1	2
+,	NA	NA
+and	0	0
+late	2	0
+or	0	0
+soon	1	2
+we	2	0
+all	0	0
+hasten	0	0
+towards	0	0
+one	0	1
+goal	2	2
+.	NA	NA

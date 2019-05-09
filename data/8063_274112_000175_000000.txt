@@ -1,0 +1,6 @@
+That	2	1
+is	2	0
+as	0	1
+may	0	0
+be	1	2
+.	NA	NA

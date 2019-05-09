@@ -1,0 +1,14 @@
+A	0	0
+man	1	0
+commits	0	1
+a	0	0
+bad	1	0
+action	2	2
+,	NA	NA
+and	0	0
+places	1	0
+his	0	0
+mark	0	0
+upon	1	0
+it	0	2
+.	NA	NA

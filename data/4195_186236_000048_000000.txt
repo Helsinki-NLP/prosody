@@ -1,0 +1,8 @@
+I'd	1	0
+like	2	1
+that	1	1
+,	NA	NA
+declared	1	0
+the	0	1
+boy	2	2
+.	NA	NA

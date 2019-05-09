@@ -1,0 +1,6 @@
+So	2	0
+he	0	1
+resolved	1	1
+to	0	0
+flee	2	2
+.	NA	NA

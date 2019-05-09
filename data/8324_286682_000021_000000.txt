@@ -1,0 +1,16 @@
+Now	1	0
+try	2	0
+it	0	2
+,	NA	NA
+said	2	0
+he	0	2
+,	NA	NA
+after	2	0
+he	0	0
+had	0	0
+gnawed	1	0
+for	0	0
+quite	0	1
+a	0	0
+while	1	2
+.	NA	NA

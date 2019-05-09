@@ -1,0 +1,9 @@
+And	0	0
+we	1	0
+have	0	1
+been	1	0
+as	0	2
+foolish	1	0
+as	0	1
+you	2	2
+.	NA	NA

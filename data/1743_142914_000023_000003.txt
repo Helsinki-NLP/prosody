@@ -1,0 +1,8 @@
+peter	0	0
+hastily	1	1
+backed	2	1
+away	1	0
+a	0	1
+few	0	0
+steps	2	2
+.	NA	NA

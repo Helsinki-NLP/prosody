@@ -1,0 +1,17 @@
+This	0	0
+is	0	1
+the	0	0
+fifth	2	1
+day	2	0
+,	NA	NA
+and	0	2
+it's	0	0
+blowing	2	0
+worse	1	0
+than	0	0
+ever	1	2
+.	NA	NA
+We	1	0
+all	0	0
+agreed	1	2
+.	NA	NA

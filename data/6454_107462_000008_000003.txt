@@ -1,0 +1,14 @@
+It	0	0
+was	2	0
+the	0	1
+plan	2	1
+which	0	0
+made	1	0
+him	0	0
+ultimately	1	1
+describe	2	1
+himself	2	2
+as	2	0
+a	0	0
+humorist	1	2
+.	NA	NA

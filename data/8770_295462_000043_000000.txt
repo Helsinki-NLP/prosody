@@ -1,0 +1,12 @@
+'Well	2	1
+,	NA	NA
+'	NA	NA
+he	0	0
+said	1	2
+,	NA	NA
+'let's	2	0
+have	0	0
+another	0	0
+chapter	0	2
+.	NA	NA
+'	NA	NA

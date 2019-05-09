@@ -1,0 +1,10 @@
+My	0	0
+friend	1	1
+and	0	0
+I	0	0
+are	1	1
+going	1	1
+to	0	0
+walk	1	1
+back	2	2
+.	NA	NA

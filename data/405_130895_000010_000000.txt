@@ -1,0 +1,12 @@
+All	2	0
+right	0	0
+,	NA	NA
+all	0	0
+right	1	2
+!	NA	NA
+the	0	0
+Canadian	1	0
+repeated	0	0
+in	0	1
+embarrassment	2	2
+.	NA	NA

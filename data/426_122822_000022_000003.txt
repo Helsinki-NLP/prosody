@@ -1,0 +1,8 @@
+Then	2	1
+he	0	0
+dodged	2	0
+back	0	1
+just	2	0
+in	0	1
+time	2	2
+.	NA	NA

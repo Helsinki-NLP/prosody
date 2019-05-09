@@ -1,0 +1,8 @@
+It's	2	0
+worth	2	1
+trying	1	1
+!	NA	NA
+I	0	0
+said	0	0
+resolutely	1	2
+.	NA	NA

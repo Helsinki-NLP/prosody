@@ -1,0 +1,14 @@
+Now	2	2
+,	NA	NA
+the	0	0
+plan	2	0
+I'm	0	1
+thinking	0	0
+of	1	1
+is	0	0
+to	0	0
+effect	1	0
+a	0	0
+little	0	1
+exchange	1	2
+.	NA	NA

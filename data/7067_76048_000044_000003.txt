@@ -1,0 +1,12 @@
+Just	1	0
+as	0	1
+we	0	0
+want	1	1
+food	2	2
+,	NA	NA
+just	2	0
+as	0	1
+we	0	0
+want	2	1
+sleep	2	2
+.	NA	NA

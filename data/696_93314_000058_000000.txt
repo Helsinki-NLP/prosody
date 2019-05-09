@@ -1,0 +1,12 @@
+That	2	0
+roused	1	2
+the	1	0
+Lover	0	1
+,	NA	NA
+as	2	0
+it	0	0
+was	0	0
+meant	1	0
+to	0	1
+do	2	2
+.	NA	NA

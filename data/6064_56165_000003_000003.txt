@@ -1,0 +1,9 @@
+He	2	0
+would	0	0
+have	0	1
+scorned	2	0
+to	0	1
+call	2	0
+it	0	1
+gossip	1	2
+.	NA	NA

@@ -1,0 +1,11 @@
+mrs	1	1
+Bond	2	1
+,	NA	NA
+my	0	0
+housekeeper	1	1
+,	NA	NA
+is	0	0
+looking	0	0
+after	2	1
+her	1	2
+.	NA	NA

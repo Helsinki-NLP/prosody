@@ -1,0 +1,15 @@
+Let	2	0
+me	0	0
+call	1	0
+the	0	1
+attention	1	1
+of	0	0
+the	0	0
+writers	2	2
+on	1	0
+jurisprudence	2	1
+to	0	0
+their	0	0
+own	1	0
+maxims	1	2
+.	NA	NA

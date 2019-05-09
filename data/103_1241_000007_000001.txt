@@ -1,0 +1,13 @@
+But	2	0
+there	0	0
+was	0	0
+a	0	0
+passenger	1	0
+dropped	1	0
+off	0	1
+for	0	0
+you	2	2
+a	1	0
+little	0	0
+girl	2	2
+.	NA	NA

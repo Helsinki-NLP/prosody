@@ -1,0 +1,9 @@
+Soon	2	2
+other	2	0
+houses	1	1
+were	0	0
+built	1	0
+along	1	0
+the	0	1
+fiords	2	2
+.	NA	NA

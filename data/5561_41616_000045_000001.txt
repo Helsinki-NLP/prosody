@@ -1,0 +1,11 @@
+Reddy	2	0
+circled	0	0
+about	2	0
+the	0	2
+victors	1	0
+almost	0	1
+too	0	0
+delighted	1	1
+for	0	0
+words	2	2
+.	NA	NA

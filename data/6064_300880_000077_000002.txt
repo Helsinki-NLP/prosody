@@ -1,0 +1,11 @@
+The	0	0
+two	2	0
+gentlemen	1	1
+then	1	0
+moved	0	1
+away	2	0
+in	0	0
+the	0	1
+extinguished	0	0
+taxi	2	2
+.	NA	NA

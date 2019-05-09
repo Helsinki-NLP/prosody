@@ -1,0 +1,5 @@
+That's	2	0
+a	0	1
+great	2	0
+relief	1	2
+.	NA	NA

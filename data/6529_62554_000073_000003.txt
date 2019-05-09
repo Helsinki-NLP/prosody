@@ -1,0 +1,10 @@
+Very	2	1
+well	0	1
+;	NA	NA
+I	0	0
+hope	2	1
+we	0	0
+mayn't	1	0
+repent	1	1
+it	0	2
+!	NA	NA

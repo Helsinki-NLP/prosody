@@ -1,0 +1,6 @@
+The	0	0
+day	2	0
+had	0	1
+been	0	0
+adorable	1	2
+.	NA	NA

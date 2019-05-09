@@ -1,0 +1,5 @@
+Then	1	0
+Coonskin	2	1
+went	0	0
+fishing	2	2
+.	NA	NA

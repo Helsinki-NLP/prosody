@@ -1,0 +1,9 @@
+We	0	0
+cannot	2	1
+tell	2	0
+what	0	1
+might	1	0
+come	0	0
+between	0	0
+us	1	2
+.	NA	NA

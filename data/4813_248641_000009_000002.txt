@@ -1,0 +1,14 @@
+Every	2	0
+one	1	0
+is	0	1
+expected	1	1
+,	NA	NA
+nay	2	1
+,	NA	NA
+commanded	2	2
+,	NA	NA
+to	0	0
+come	1	0
+to	0	1
+church	2	2
+.	NA	NA

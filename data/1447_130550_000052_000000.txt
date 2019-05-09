@@ -1,0 +1,6 @@
+Full	2	0
+of	0	2
+ardent	2	1
+affection	1	0
+and	0	0
+gratitude	0	2

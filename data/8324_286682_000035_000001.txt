@@ -1,0 +1,8 @@
+Yes	2	2
+,	NA	NA
+but	0	0
+how	2	0
+could	0	0
+that	0	1
+be	2	2
+?	NA	NA

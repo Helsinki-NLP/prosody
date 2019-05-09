@@ -1,0 +1,8 @@
+It	0	1
+means	2	0
+that	0	1
+opportunity	1	1
+has	0	0
+been	2	0
+lacking	2	2
+.	NA	NA

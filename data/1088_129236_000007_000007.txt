@@ -1,0 +1,10 @@
+But	1	0
+all	0	0
+is	0	1
+sour	2	0
+,	NA	NA
+if	0	1
+seen	0	0
+as	0	1
+experience	2	2
+.	NA	NA

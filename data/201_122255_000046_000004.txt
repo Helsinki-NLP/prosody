@@ -1,0 +1,11 @@
+His	2	0
+name	0	0
+is	0	1
+Little	0	0
+john	2	0
+,	NA	NA
+and	0	2
+mine	1	0
+Robin	2	0
+Hood	0	2
+.	NA	NA

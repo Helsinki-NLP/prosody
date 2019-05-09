@@ -1,0 +1,15 @@
+But	0	0
+as	1	0
+they	0	0
+came	0	0
+nearer	1	2
+,	NA	NA
+Eric	2	0
+all	1	0
+at	0	0
+once	0	1
+laughed	1	1
+loudly	1	1
+and	0	0
+called	1	0
+out	2	2

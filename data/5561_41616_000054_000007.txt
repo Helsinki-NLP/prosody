@@ -1,0 +1,12 @@
+They	0	0
+tossed	2	1
+their	0	0
+heads	2	2
+,	NA	NA
+but	0	0
+they	0	0
+didn't	1	1
+hiss	1	0
+any	0	0
+more	2	2
+.	NA	NA

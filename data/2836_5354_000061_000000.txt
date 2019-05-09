@@ -1,0 +1,11 @@
+Pierre	1	0
+was	0	0
+making	0	1
+himself	2	0
+ready	0	1
+to	1	0
+attend	0	1
+monsieur	1	1
+to	0	0
+England	2	2
+.	NA	NA

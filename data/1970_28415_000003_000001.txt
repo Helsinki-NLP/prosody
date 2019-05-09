@@ -1,0 +1,9 @@
+They	2	0
+untied	1	0
+it	0	1
+,	NA	NA
+and	0	0
+led	0	0
+it	0	1
+away	2	2
+.	NA	NA

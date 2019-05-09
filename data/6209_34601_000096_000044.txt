@@ -1,0 +1,16 @@
+Mischievous	1	1
+pick	0	0
+pocket	2	2
+,	NA	NA
+evil	1	0
+minded	1	1
+abortion	2	2
+,	NA	NA
+so	2	0
+you	0	0
+walk	1	0
+the	0	1
+streets	0	0
+after	0	0
+curfew	2	2
+?	NA	NA

@@ -1,0 +1,8 @@
+I'll	2	0
+take	2	0
+you	0	0
+,	NA	NA
+if	0	1
+you	0	0
+like	2	2
+.	NA	NA

@@ -1,0 +1,11 @@
+Ashur	0	0
+natsir	2	1
+pal's	2	0
+own	0	1
+account	0	0
+of	0	0
+the	0	0
+operations	0	2
+runs	2	0
+as	0	1
+follows	2	2

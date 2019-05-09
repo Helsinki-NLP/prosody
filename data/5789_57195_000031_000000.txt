@@ -1,0 +1,8 @@
+That's	2	1
+why	1	0
+I	0	1
+speak	0	0
+open	2	1
+to	0	0
+you	0	2
+.	NA	NA

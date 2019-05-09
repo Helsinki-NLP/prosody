@@ -1,0 +1,12 @@
+At	0	0
+that	2	0
+moment	1	1
+there	0	0
+came	1	0
+from	0	0
+Kara's	1	0
+room	1	1
+a	0	0
+faint	2	2
+clang	2	2
+.	NA	NA

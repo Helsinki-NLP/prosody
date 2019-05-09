@@ -1,0 +1,12 @@
+How	2	0
+could	0	1
+we	0	1
+be	0	0
+farmers	2	1
+if	0	0
+we	0	0
+did	0	0
+not	0	0
+have	0	1
+land	2	2
+?	NA	NA

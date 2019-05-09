@@ -1,0 +1,9 @@
+He	0	0
+had	0	0
+always	1	1
+been	0	0
+destined	1	1
+for	0	0
+the	0	0
+church	2	2
+.	NA	NA

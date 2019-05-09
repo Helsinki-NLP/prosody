@@ -1,0 +1,9 @@
+I	2	0
+thought	0	0
+it	0	1
+might	1	0
+have	0	1
+been	0	0
+an	0	0
+owl	2	2
+.	NA	NA

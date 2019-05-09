@@ -1,0 +1,16 @@
+Reach	1	0
+your	0	0
+tail	1	0
+with	0	1
+your	0	0
+head	2	2
+?	NA	NA
+asked	2	1
+the	0	0
+Water	0	0
+Adder	0	0
+in	0	1
+her	0	0
+sweetest	0	0
+voice	1	2
+.	NA	NA

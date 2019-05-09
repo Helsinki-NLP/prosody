@@ -1,0 +1,12 @@
+What's	1	0
+that	2	2
+?	NA	NA
+demanded	1	1
+Frank	0	0
+,	NA	NA
+wondering	1	0
+what	0	0
+was	0	1
+coming	0	0
+now	2	2
+.	NA	NA

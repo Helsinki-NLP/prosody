@@ -1,0 +1,13 @@
+When	0	0
+rocks	2	1
+turn	0	0
+into	0	0
+ham	1	0
+and	0	1
+eggs	1	2
+I'll	2	0
+trust	2	0
+you	0	1
+,	NA	NA
+Steve	2	2
+.	NA	NA

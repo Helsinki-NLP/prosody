@@ -1,0 +1,9 @@
+Then	1	0
+he	0	0
+began	2	1
+to	0	0
+lick	0	0
+his	0	1
+hands	1	1
+again	2	2
+.	NA	NA

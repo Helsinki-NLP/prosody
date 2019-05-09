@@ -1,0 +1,3 @@
+He	0	0
+said	0	1
+hastily	2	2

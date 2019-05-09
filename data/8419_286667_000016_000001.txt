@@ -1,0 +1,10 @@
+I	0	0
+saw	1	0
+you	0	1
+dancing	0	1
+this	0	0
+morning	1	2
+,	NA	NA
+she	2	0
+said	1	2
+.	NA	NA

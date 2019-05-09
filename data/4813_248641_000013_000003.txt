@@ -1,0 +1,10 @@
+It	0	0
+was	0	1
+religious	1	1
+zeal	1	1
+which	0	0
+furnished	2	2
+this	0	0
+motive	1	0
+power	2	2
+.	NA	NA

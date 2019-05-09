@@ -1,0 +1,6 @@
+I'll	2	0
+be	0	1
+there	0	0
+,	NA	NA
+sure	1	2
+.	NA	NA

@@ -1,0 +1,7 @@
+Eight	2	0
+hundred	0	1
+crowns	2	2
+?	NA	NA
+he	0	0
+asked	1	2
+.	NA	NA

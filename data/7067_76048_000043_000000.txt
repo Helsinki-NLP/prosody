@@ -1,0 +1,9 @@
+We	1	0
+have	2	0
+a	0	0
+right	0	1
+to	0	0
+life	1	2
+and	1	0
+happiness	2	2
+.	NA	NA

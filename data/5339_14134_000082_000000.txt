@@ -1,0 +1,8 @@
+'What	1	0
+then	2	2
+?	NA	NA
+and	1	0
+yo'r	0	0
+mother	0	0
+away	1	2
+.	NA	NA

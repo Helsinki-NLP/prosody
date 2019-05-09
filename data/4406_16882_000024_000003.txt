@@ -1,0 +1,15 @@
+Upon	2	0
+a	0	1
+Friday	2	2
+,	NA	NA
+a	0	0
+little	2	0
+after	0	1
+noon	0	1
+,	NA	NA
+we	0	0
+came	2	0
+to	0	1
+this	0	0
+river	1	2
+.	NA	NA

@@ -1,0 +1,14 @@
+Thus	1	0
+fostered	1	2
+they	1	0
+grew	2	1
+and	0	0
+flourished	2	1
+marvellously	2	1
+,	NA	NA
+and	0	0
+promised	2	1
+a	0	0
+goodly	0	0
+crop	1	2
+.	NA	NA

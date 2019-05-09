@@ -1,0 +1,15 @@
+Almost	2	0
+immediately	0	1
+Top	2	1
+bounded	1	0
+into	0	1
+the	0	0
+corral	2	2
+,	NA	NA
+and	1	0
+the	0	0
+gate	2	0
+was	0	1
+quickly	0	0
+shut	2	2
+.	NA	NA

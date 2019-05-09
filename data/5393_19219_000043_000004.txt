@@ -1,0 +1,14 @@
+Moreover	2	2
+,	NA	NA
+what	2	0
+is	0	0
+an	0	1
+obscure	0	0
+corner	0	0
+in	0	0
+such	0	0
+a	0	1
+submersion	2	0
+of	0	1
+joy	2	2
+?	NA	NA

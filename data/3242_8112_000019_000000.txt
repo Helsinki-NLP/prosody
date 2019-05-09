@@ -1,0 +1,14 @@
+Well	2	1
+,	NA	NA
+Trigger	0	0
+admitted	0	2
+,	NA	NA
+I	2	0
+could	0	1
+get	0	0
+along	0	0
+without	1	0
+the	0	1
+things	0	0
+indefinitely	2	2
+.	NA	NA

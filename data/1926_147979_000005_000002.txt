@@ -1,0 +1,10 @@
+Her	1	0
+manner	0	0
+was	0	1
+cold	2	2
+,	NA	NA
+and	0	0
+she	1	0
+talked	2	1
+little	1	2
+.	NA	NA

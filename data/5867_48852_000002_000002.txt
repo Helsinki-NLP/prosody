@@ -1,0 +1,9 @@
+And	0	0
+then	2	0
+he	0	1
+proposed	2	1
+to	0	0
+order	0	1
+saddle	1	0
+horses	0	2
+.	NA	NA

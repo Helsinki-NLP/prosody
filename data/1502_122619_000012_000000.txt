@@ -1,0 +1,9 @@
+When	2	0
+was	0	0
+it	0	1
+ever	0	0
+otherwise	2	1
+?	NA	NA
+returned	0	0
+Magua	2	2
+.	NA	NA

@@ -1,0 +1,13 @@
+Poor	1	0
+devil	2	2
+!	NA	NA
+muttered	1	0
+Sellen	1	1
+,	NA	NA
+covering	1	0
+him	0	0
+up	0	0
+with	0	1
+his	0	0
+rug	2	2
+.	NA	NA

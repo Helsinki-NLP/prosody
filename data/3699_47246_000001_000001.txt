@@ -1,0 +1,5 @@
+Nice	2	1
+distinctions	0	0
+are	0	0
+troublesome	1	2
+.	NA	NA

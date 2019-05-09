@@ -1,0 +1,17 @@
+Could	0	0
+we	0	0
+take	2	1
+integral	2	0
+parts	1	0
+of	0	0
+this	0	1
+power	2	2
+,	NA	NA
+and	0	0
+not	2	0
+be	0	0
+subject	1	1
+to	1	0
+its	0	2
+operation	1	2
+?	NA	NA

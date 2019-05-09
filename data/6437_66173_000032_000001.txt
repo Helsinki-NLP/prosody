@@ -1,0 +1,14 @@
+I	1	0
+remember	2	1
+that	0	0
+Binny	1	0
+Wallace	1	2
+wanted	2	1
+to	0	0
+give	1	0
+me	0	1
+his	0	0
+silver	1	0
+pencil	0	0
+case	1	2
+.	NA	NA

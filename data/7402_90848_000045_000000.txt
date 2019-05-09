@@ -1,0 +1,13 @@
+When	0	0
+the	0	1
+year	0	0
+was	0	0
+up	1	2
+,	NA	NA
+Bobo	2	1
+again	1	1
+sought	2	0
+out	0	1
+Father	2	0
+Time	0	2
+.	NA	NA

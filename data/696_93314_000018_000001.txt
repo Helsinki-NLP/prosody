@@ -1,0 +1,16 @@
+I	2	0
+oughtn't	1	2
+to	0	0
+have	1	0
+allowed	2	0
+the	0	1
+child	0	1
+to	0	0
+make	1	0
+these	0	1
+long	1	0
+visits	0	1
+to	0	0
+her	0	0
+aunt	1	2
+.	NA	NA

@@ -1,0 +1,6 @@
+He'll	1	0
+lash	1	0
+out	1	2
+at	0	0
+you	1	2
+.	NA	NA

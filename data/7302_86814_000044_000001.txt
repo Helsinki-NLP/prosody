@@ -1,0 +1,14 @@
+You	0	0
+were	2	0
+speaking	1	0
+of	0	1
+the	0	0
+Champs	1	2
+Elysees	2	0
+just	0	1
+now	1	2
+,	NA	NA
+worthy	1	0
+foster	0	0
+father	1	2
+.	NA	NA

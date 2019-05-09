@@ -1,0 +1,12 @@
+Let	1	0
+it	0	0
+not	0	0
+be	0	1
+so	2	0
+with	0	0
+us	0	1
+,	NA	NA
+was	1	0
+his	0	0
+conclusion	0	2
+.	NA	NA

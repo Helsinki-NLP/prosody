@@ -1,0 +1,14 @@
+I	0	0
+can't	0	0
+help	2	1
+loving	1	0
+that	0	1
+man	1	1
+,	NA	NA
+for	0	0
+all	2	0
+his	0	1
+drollery	1	1
+and	0	0
+waggishness	2	2
+.	NA	NA

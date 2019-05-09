@@ -1,0 +1,16 @@
+They	0	0
+rose	2	0
+together	1	0
+with	0	0
+him	0	1
+from	0	0
+the	0	0
+lake	2	0
+,	NA	NA
+or	1	1
+else	2	1
+were	1	0
+his	0	0
+first	1	1
+creations	1	2
+.	NA	NA

@@ -1,0 +1,11 @@
+Yes	0	1
+'tis	2	2
+,	NA	NA
+he	0	0
+said	1	1
+,	NA	NA
+shaking	2	0
+his	0	0
+head	0	0
+affirmatively	1	2
+.	NA	NA

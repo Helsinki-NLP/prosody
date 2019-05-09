@@ -1,0 +1,14 @@
+Here	2	0
+are	0	0
+lots	1	1
+of	0	0
+witnesses	1	1
+to	0	0
+prove	1	0
+it	0	1
+came	1	1
+from	0	0
+the	1	0
+other	0	1
+side	2	2
+.	NA	NA

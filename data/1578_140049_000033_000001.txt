@@ -1,0 +1,12 @@
+I	0	0
+have	2	0
+a	0	0
+handful	1	0
+of	0	1
+nuts	2	2
+and	0	0
+raisins	2	1
+and	1	0
+some	0	0
+apples	2	2
+.	NA	NA

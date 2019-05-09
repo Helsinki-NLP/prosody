@@ -1,0 +1,13 @@
+No	2	2
+;	NA	NA
+only	2	0
+a	0	1
+snake	1	1
+,	NA	NA
+and	0	0
+I	1	0
+don't	0	0
+care	1	0
+for	0	1
+snakes	0	2
+.	NA	NA

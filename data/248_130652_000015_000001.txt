@@ -1,0 +1,7 @@
+Why	2	0
+did	0	0
+you	0	0
+ask	1	2
+the	0	0
+Gogoffs	1	2
+?	NA	NA

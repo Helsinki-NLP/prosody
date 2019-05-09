@@ -1,0 +1,12 @@
+Tom	1	0
+Pen	1	2
+,	NA	NA
+Tom	2	0
+Pen	1	1
+,	NA	NA
+they	1	0
+have	0	0
+killed	1	0
+Papa	1	0
+day	2	2
+!	NA	NA

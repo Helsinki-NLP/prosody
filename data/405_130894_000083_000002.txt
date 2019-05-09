@@ -1,0 +1,8 @@
+I	1	0
+squeezed	2	0
+it	0	2
+in	1	0
+an	0	0
+involuntary	1	0
+convulsion	0	2
+.	NA	NA

@@ -1,0 +1,14 @@
+I	0	0
+assure	2	0
+you	0	1
+,	NA	NA
+sir	1	2
+,	NA	NA
+I	0	0
+have	1	0
+done	0	0
+everything	1	1
+according	0	0
+to	0	1
+law	2	2
+.	NA	NA

@@ -1,0 +1,6 @@
+Grace	2	0
+hummed	0	0
+a	0	1
+few	0	0
+bars	1	2
+.	NA	NA

@@ -1,0 +1,9 @@
+You	1	0
+know	0	0
+that	0	0
+as	0	1
+well	0	0
+as	0	1
+I	2	1
+do	2	2
+.	NA	NA

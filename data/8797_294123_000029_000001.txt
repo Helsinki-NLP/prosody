@@ -1,0 +1,14 @@
+It	0	0
+seems	2	1
+to	0	0
+me	0	0
+that	0	1
+they	0	0
+have	1	1
+no	0	0
+soul	2	2
+,	NA	NA
+was	0	0
+her	1	0
+answer	1	2
+.	NA	NA

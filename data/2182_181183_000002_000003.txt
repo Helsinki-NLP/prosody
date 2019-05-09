@@ -1,0 +1,13 @@
+mr	2	0
+Hobbs	1	0
+read	1	0
+so	0	0
+much	0	1
+about	2	0
+it	0	1
+that	0	0
+he	0	0
+became	0	0
+quite	0	1
+bewildered	2	2
+.	NA	NA

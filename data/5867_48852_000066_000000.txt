@@ -1,0 +1,14 @@
+I	0	0
+wish	1	0
+it	0	1
+could	0	0
+be	0	0
+otherwise	0	2
+;	NA	NA
+I	2	0
+wish	1	0
+it	0	1
+could	0	0
+be	1	0
+otherwise	0	2
+!	NA	NA

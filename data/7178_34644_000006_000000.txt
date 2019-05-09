@@ -1,0 +1,5 @@
+Gwynplaine	2	2
+did	0	0
+not	1	0
+understand	1	2
+.	NA	NA

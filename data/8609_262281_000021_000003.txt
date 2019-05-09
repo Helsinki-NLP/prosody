@@ -1,0 +1,7 @@
+I	0	1
+was	0	0
+in	1	0
+such	0	2
+a	0	0
+passion	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+I've	2	0
+run	0	1
+all	0	0
+the	0	1
+way	2	2
+,	NA	NA
+he	0	0
+said	1	2
+.	NA	NA

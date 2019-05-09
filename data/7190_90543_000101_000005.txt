@@ -1,0 +1,4 @@
+Round	0	0
+counters	1	1
+doctors	1	2
+.	NA	NA

@@ -1,0 +1,7 @@
+You	0	1
+carry	2	0
+marriage	0	0
+and	0	1
+entanglements	1	1
+lightly	2	2
+.	NA	NA

@@ -1,0 +1,8 @@
+But	2	0
+if	0	0
+none	0	0
+were	0	0
+possible	1	1
+what	1	1
+then	2	2
+?	NA	NA

@@ -1,0 +1,12 @@
+'Very	1	0
+thoughtful	0	0
+of	0	1
+you	0	0
+,	NA	NA
+Monica	2	2
+!	NA	NA
+'	NA	NA
+said	2	0
+my	0	0
+father	1	2
+.	NA	NA

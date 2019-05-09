@@ -1,0 +1,10 @@
+Why	2	0
+has	0	1
+the	0	0
+law	1	1
+sanctioned	0	1
+this	1	0
+abuse	0	0
+of	0	1
+power	2	2
+?	NA	NA

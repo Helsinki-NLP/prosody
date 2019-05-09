@@ -1,0 +1,9 @@
+It	0	1
+is	0	0
+something	2	0
+I	0	0
+was	0	1
+asked	2	2
+to	0	0
+sign	2	2
+.	NA	NA

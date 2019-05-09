@@ -1,0 +1,9 @@
+But	2	0
+I	0	1
+never	0	0
+could	0	1
+stand	2	1
+my	0	0
+sister	0	0
+Fanny	2	2
+.	NA	NA

@@ -1,0 +1,17 @@
+You	2	1
+,	NA	NA
+boy	2	2
+,	NA	NA
+who	1	0
+have	0	0
+just	1	0
+eaten	0	0
+up	0	0
+my	0	0
+supper	1	1
+,	NA	NA
+are	0	0
+you	1	0
+already	0	0
+asleep	1	2
+?	NA	NA

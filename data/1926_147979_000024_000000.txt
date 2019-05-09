@@ -1,0 +1,5 @@
+Johnnie	2	0
+shook	0	0
+his	0	1
+head	1	2
+.	NA	NA

@@ -1,0 +1,14 @@
+I	0	0
+got	2	0
+them	1	2
+,	NA	NA
+said	0	0
+Polly	2	1
+,	NA	NA
+running	0	0
+back	0	0
+in	0	1
+triumph	1	1
+to	0	0
+Jasper	1	2
+.	NA	NA

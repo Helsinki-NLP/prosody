@@ -1,0 +1,6 @@
+I	0	0
+fear	0	0
+not	2	1
+,	NA	NA
+doctor	2	2
+.	NA	NA

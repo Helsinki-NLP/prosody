@@ -1,0 +1,13 @@
+Let	2	0
+us	0	1
+see	1	0
+what	1	1
+comes	0	1
+of	0	0
+it	1	2
+,	NA	NA
+said	0	0
+the	0	0
+Old	0	0
+Oak	1	2
+.	NA	NA

@@ -1,0 +1,8 @@
+Well	2	0
+,	NA	NA
+now	0	1
+,	NA	NA
+here	1	0
+is	0	1
+another	1	2
+.	NA	NA

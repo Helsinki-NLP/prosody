@@ -1,0 +1,4 @@
+Test	2	0
+It	0	1
+Yourself	2	1
+FREE	1	2

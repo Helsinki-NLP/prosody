@@ -1,0 +1,10 @@
+Did	1	0
+they	0	0
+want	1	0
+to	0	1
+kill	1	0
+it	0	2
+or	0	1
+grab	2	0
+it	0	2
+?	NA	NA

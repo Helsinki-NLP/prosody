@@ -1,0 +1,13 @@
+'All	0	0
+right	2	2
+,	NA	NA
+'	NA	NA
+says	0	0
+the	0	1
+tenderfoot	2	2
+,	NA	NA
+'here's	0	0
+the	0	0
+money	2	2
+.	NA	NA
+'	NA	NA

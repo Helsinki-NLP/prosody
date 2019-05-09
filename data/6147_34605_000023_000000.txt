@@ -1,0 +1,15 @@
+Although	2	0
+plump	0	0
+and	0	1
+healthy	1	2
+,	2	0
+Josiana	NA	NA
+was	1	1
+,	NA	NA
+we	0	0
+repeat	0	1
+,	NA	NA
+a	0	0
+perfect	1	0
+prude	1	2
+.	NA	NA

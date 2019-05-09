@@ -12,14 +12,14 @@ def main():
 
     device = 'cuda' if torch.cuda.is_available() else 'cpu'
 
-    train_data, test_data, tag2id, id2tag = prosody_dataset.load_data()
+    train_data, test_data, tag_to_index, index_to_tag = prosody_dataset.load_data()
 
-    model = Net(device, vocab_size=len(tag2id))
+    model = Net(device, vocab_size=len(tag_to_index))
     model.to(device)
     model = nn.DataParallel(model)
 
-    train_dataset = ProsodyDataset(train_data, tag2id)
-    eval_dataset = ProsodyDataset(test_data, tag2id)
+    train_dataset = ProsodyDataset(train_data, tag_to_index)
+    eval_dataset = ProsodyDataset(test_data, tag_to_index)
 
     train_iter = data.DataLoader(dataset=train_dataset,
                                  batch_size=8,
@@ -37,7 +37,7 @@ def main():
     criterion = nn.CrossEntropyLoss(ignore_index=0)
 
     train(model, train_iter, optimizer, criterion)
-    evaluate(model, test_iter, tag2id, id2tag)
+    evaluate(model, test_iter, tag_to_index, index_to_tag)
 
 
 def train(model, iterator, optimizer, criterion):
@@ -60,7 +60,7 @@ def train(model, iterator, optimizer, criterion):
             print("step: {}, loss: {}".format(i, loss.item()))
 
 
-def evaluate(model, iterator, tag2id, id2tag):
+def evaluate(model, iterator, tag_to_index, index_to_tag):
     model.eval()
 
     words, is_heads, Tags, Y, Y_hat = [], [], [], [], []
@@ -80,15 +80,15 @@ def evaluate(model, iterator, tag2id, id2tag):
     with open("result", 'w') as fout:
         for words, is_heads, tags, y_hat in zip(words, is_heads, Tags, Y_hat):
             y_hat = [hat for head, hat in zip(is_heads, y_hat) if head == 1]
-            preds = [id2tag[hat] for hat in y_hat]
+            preds = [index_to_tag[hat] for hat in y_hat]
             assert len(preds) == len(words.split()) == len(tags.split())
             for w, t, p in zip(words.split()[1:-1], tags.split()[1:-1], preds[1:-1]):
                 fout.write("{} {} {}\n".format(w, t, p))
             fout.write("\n")
 
     # calc metric
-    y_true = np.array([tag2id[line.split()[1]] for line in open('result', 'r').read().splitlines() if len(line) > 0])
-    y_pred = np.array([tag2id[line.split()[2]] for line in open('result', 'r').read().splitlines() if len(line) > 0])
+    y_true = np.array([tag_to_index[line.split()[1]] for line in open('result', 'r').read().splitlines() if len(line) > 0])
+    y_pred = np.array([tag_to_index[line.split()[2]] for line in open('result', 'r').read().splitlines() if len(line) > 0])
 
     acc = (y_true == y_pred).astype(np.int32).sum() / len(y_true)
 

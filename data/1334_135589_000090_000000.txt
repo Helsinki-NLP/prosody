@@ -1,0 +1,11 @@
+Patience	1	1
+colored	0	0
+up	1	2
+and	0	0
+trembled	1	2
+when	0	0
+Edward	1	0
+first	1	1
+saw	1	0
+her	0	2
+.	NA	NA

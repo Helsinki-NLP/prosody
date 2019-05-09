@@ -1,0 +1,16 @@
+But	0	0
+,	1	0
+mr	NA	NA
+Toller	1	1
+,	NA	NA
+I	1	0
+objected	1	2
+,	NA	NA
+something	0	0
+must	2	1
+have	0	0
+happened	0	0
+to	0	1
+distress	1	0
+her	2	2
+.	NA	NA

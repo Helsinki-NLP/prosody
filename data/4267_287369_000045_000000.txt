@@ -1,0 +1,12 @@
+There's	1	0
+a	0	1
+mass	0	0
+of	0	0
+iron	0	0
+ore	0	0
+there	1	2
+!	NA	NA
+yelled	2	0
+mr	0	0
+Parker	2	2
+.	NA	NA

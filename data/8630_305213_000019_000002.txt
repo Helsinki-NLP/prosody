@@ -1,0 +1,16 @@
+Its	0	0
+followers	2	0
+formed	1	0
+a	0	0
+secret	0	1
+society	2	2
+,	NA	NA
+with	0	0
+signs	2	0
+and	0	1
+passwords	2	2
+,	NA	NA
+grades	2	0
+and	0	0
+initiations	1	2
+.	NA	NA

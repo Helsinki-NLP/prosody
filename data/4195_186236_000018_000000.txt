@@ -1,0 +1,6 @@
+Patsy	0	0
+tried	1	0
+to	0	1
+comfort	1	0
+Beth	2	2
+.	NA	NA

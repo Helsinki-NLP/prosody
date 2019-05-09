@@ -1,0 +1,13 @@
+I	2	0
+know	0	0
+how	0	0
+much	0	1
+you	0	0
+think	1	0
+of	0	0
+that	0	0
+teapot	0	0
+that	0	1
+was	0	0
+grandmother's	2	2
+.	NA	NA

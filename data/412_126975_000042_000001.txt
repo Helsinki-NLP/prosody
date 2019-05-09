@@ -1,0 +1,13 @@
+What	0	0
+I	2	1
+say	0	0
+is	1	2
+,	NA	NA
+let's	2	0
+do	0	0
+something	0	0
+for	0	0
+the	0	0
+company	1	0
+tonight	1	2
+.	NA	NA

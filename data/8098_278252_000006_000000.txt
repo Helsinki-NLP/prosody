@@ -1,0 +1,16 @@
+From	0	0
+there	2	0
+we	0	1
+marched	1	1
+to	0	0
+Superior	2	0
+street	1	2
+,	NA	NA
+where	1	0
+cheers	1	1
+greeted	1	0
+us	0	0
+on	0	1
+every	0	0
+hand	2	2
+.	NA	NA

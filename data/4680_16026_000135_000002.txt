@@ -1,0 +1,10 @@
+She	0	0
+followed	2	0
+them	0	0
+thus	1	2
+as	1	0
+far	2	0
+as	0	1
+the	0	0
+boulevard	0	2
+.	NA	NA

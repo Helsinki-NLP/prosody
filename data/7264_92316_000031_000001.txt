@@ -1,0 +1,6 @@
+To	0	1
+distort	2	1
+,	NA	NA
+to	0	0
+lie	2	2
+?	NA	NA

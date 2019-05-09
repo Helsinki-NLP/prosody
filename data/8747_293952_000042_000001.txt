@@ -1,0 +1,16 @@
+What's	1	0
+the	0	0
+use	0	0
+of	0	0
+his	0	1
+coming	1	1
+to	0	0
+life	2	2
+when	1	0
+he	0	0
+must	0	0
+suffer	1	0
+for	0	0
+his	0	1
+crime	2	2
+?	NA	NA

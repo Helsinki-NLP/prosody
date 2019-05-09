@@ -1,0 +1,15 @@
+Well	2	1
+,	NA	NA
+I	1	0
+confess	2	1
+,	NA	NA
+said	0	0
+Annie	1	2
+,	NA	NA
+I	0	0
+don't	1	0
+see	0	0
+how	1	1
+,	NA	NA
+exactly	1	2
+.	NA	NA

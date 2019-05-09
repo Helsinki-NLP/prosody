@@ -1,0 +1,14 @@
+There's	1	0
+a	0	0
+little	0	0
+girl	0	0
+back	1	1
+there	0	0
+and	0	1
+she	0	0
+hasn't	2	2
+any	2	2
+,	NA	NA
+mourned	1	0
+Phronsie	1	2
+.	NA	NA

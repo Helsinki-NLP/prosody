@@ -1,0 +1,14 @@
+I've	1	0
+often	2	1
+heard	1	0
+my	0	0
+wife	1	1
+speak	2	0
+of	0	1
+your	0	0
+old	0	1
+days	2	1
+together	1	0
+at	1	1
+Hatboro'	2	2
+.	NA	NA

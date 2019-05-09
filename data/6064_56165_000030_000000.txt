@@ -1,0 +1,12 @@
+Wasn't	2	1
+he	0	0
+mad	1	0
+at	0	0
+the	0	1
+two	0	0
+fellows	2	2
+for	0	0
+taking	0	0
+him	0	0
+there	2	2
+?	NA	NA

@@ -1,0 +1,6 @@
+Pity	1	0
+him	0	1
+,	NA	NA
+you	0	0
+lovers	2	2
+.	NA	NA

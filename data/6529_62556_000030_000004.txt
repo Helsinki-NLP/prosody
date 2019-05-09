@@ -1,0 +1,9 @@
+But	0	0
+for	0	0
+your	1	1
+boy's	2	0
+sake	0	1
+,	NA	NA
+calm	2	1
+yourself	0	2
+.	NA	NA

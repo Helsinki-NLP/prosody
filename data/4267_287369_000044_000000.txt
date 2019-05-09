@@ -1,0 +1,16 @@
+Almost	2	0
+as	0	0
+he	0	0
+spoke	1	0
+there	0	1
+came	0	0
+another	1	1
+explosion	2	2
+,	NA	NA
+even	1	0
+louder	2	0
+than	0	1
+the	0	0
+one	1	0
+preceding	1	2
+.	NA	NA

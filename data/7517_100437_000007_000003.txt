@@ -1,0 +1,16 @@
+It	0	0
+is	0	0
+my	0	0
+opening	0	0
+remark	1	2
+,	NA	NA
+just	2	1
+as	0	0
+yours	2	2
+is	1	0
+something	0	0
+futile	1	0
+about	0	0
+the	0	0
+weather	1	2
+.	NA	NA

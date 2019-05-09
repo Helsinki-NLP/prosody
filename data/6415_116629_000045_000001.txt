@@ -1,0 +1,5 @@
+Two	0	0
+men	1	0
+were	0	1
+killed	2	2
+.	NA	NA

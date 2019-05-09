@@ -1,0 +1,13 @@
+The	0	0
+bullets	2	1
+flew	1	1
+after	0	0
+him	1	2
+,	NA	NA
+he	0	0
+was	0	0
+more	1	0
+nimble	0	1
+than	0	0
+they	1	2
+.	NA	NA

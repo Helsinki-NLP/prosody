@@ -1,0 +1,16 @@
+In	1	0
+stowing	2	0
+the	0	1
+cargo	0	0
+a	0	2
+passage	2	0
+was	0	1
+left	1	1
+between	0	0
+the	0	1
+packages	2	0
+of	0	0
+which	1	0
+it	0	1
+consisted	2	2
+.	NA	NA

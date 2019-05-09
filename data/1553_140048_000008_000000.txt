@@ -1,0 +1,3 @@
+Rebecca	2	0
+dimpled	1	2
+.	NA	NA

@@ -1,0 +1,16 @@
+Yet	2	1
+I	2	0
+do	0	0
+not	1	0
+imagine	1	1
+that	1	0
+the	0	1
+one	2	0
+was	0	1
+copied	2	0
+or	0	1
+borrowed	2	1
+from	0	0
+the	0	0
+other	1	2
+.	NA	NA

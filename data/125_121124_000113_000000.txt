@@ -1,0 +1,13 @@
+Yes	2	1
+;	NA	NA
+for	0	0
+the	0	0
+examination	1	0
+of	0	0
+our	0	1
+cash	1	0
+takes	0	0
+place	0	1
+to	0	0
+morrow	2	2
+.	NA	NA

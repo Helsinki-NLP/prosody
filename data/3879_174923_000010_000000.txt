@@ -1,0 +1,10 @@
+You	0	0
+was	0	0
+all	1	1
+right	2	2
+,	NA	NA
+there	0	0
+,	0	0
+mr	NA	NA
+Finn	2	2
+.	NA	NA

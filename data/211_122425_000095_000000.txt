@@ -1,0 +1,8 @@
+With	0	1
+difficulty	2	1
+,	NA	NA
+but	0	0
+he	0	0
+can	1	0
+speak	2	2
+.	NA	NA

@@ -1,0 +1,11 @@
+W	2	1
+modestly	2	0
+confessed	2	2
+to	0	0
+never	2	0
+having	0	1
+possessed	2	1
+such	0	0
+an	0	0
+instrument	1	2
+.	NA	NA

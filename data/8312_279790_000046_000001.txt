@@ -1,0 +1,15 @@
+They	1	0
+conversed	2	1
+till	0	0
+daybreak	2	2
+,	NA	NA
+and	0	0
+promised	1	0
+faithfully	1	0
+every	0	0
+night	1	2
+to	0	0
+meet	0	0
+again	0	0
+thus	1	2
+.	NA	NA

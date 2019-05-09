@@ -1,0 +1,10 @@
+And	0	0
+on	0	1
+the	0	0
+edge	2	0
+of	0	1
+this	1	0
+volcano	1	1
+America	1	1
+played	2	2
+.	NA	NA

@@ -1,0 +1,5 @@
+Am	2	0
+not	0	1
+I	1	1
+here	2	2
+?	NA	NA

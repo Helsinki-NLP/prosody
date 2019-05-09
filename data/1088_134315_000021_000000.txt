@@ -1,0 +1,10 @@
+Part	2	0
+of	0	0
+it	0	1
+,	NA	NA
+Miss	0	0
+Holland	1	2
+,	NA	NA
+he	0	0
+smiled	1	2
+.	NA	NA

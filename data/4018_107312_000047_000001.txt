@@ -1,0 +1,9 @@
+All	2	0
+the	0	1
+children	1	1
+keep	0	0
+house	2	1
+in	0	0
+these	1	0
+days	1	2
+.	NA	NA

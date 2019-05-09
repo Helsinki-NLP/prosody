@@ -1,0 +1,8 @@
+All	2	0
+help	0	0
+themselves	2	2
+to	0	0
+what	1	0
+they	0	0
+want	1	2
+.	NA	NA

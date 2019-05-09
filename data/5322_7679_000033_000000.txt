@@ -1,0 +1,9 @@
+The	0	1
+Cossack	2	1
+looked	1	1
+at	0	0
+Olenin	0	1
+with	0	0
+laughing	1	0
+eyes	1	2
+.	NA	NA

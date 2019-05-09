@@ -1,0 +1,5 @@
+THE	0	0
+LAST	2	1
+DAY	1	0
+OUT	1	2
+.	NA	NA

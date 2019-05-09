@@ -1,0 +1,7 @@
+It's	1	0
+an	0	1
+old	2	1
+plan	1	0
+of	0	1
+mine	1	2
+.	NA	NA

@@ -1,0 +1,14 @@
+And	0	0
+remember	2	1
+that	0	0
+if	0	0
+I	0	0
+catch	1	0
+you	0	1
+plotting	2	2
+I	2	0
+will	0	0
+tell	0	0
+mr	0	0
+Durham	1	2
+.	NA	NA

@@ -1,0 +1,14 @@
+When	1	0
+the	0	0
+scene	1	1
+cleared	1	0
+again	1	2
+,	NA	NA
+it	1	0
+showed	2	1
+the	0	0
+bottom	2	0
+of	0	1
+the	0	0
+sea	1	2
+.	NA	NA

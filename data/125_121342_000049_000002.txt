@@ -1,0 +1,4 @@
+I'm	0	1
+just	0	1
+resting	2	2
+.	NA	NA

@@ -1,0 +1,16 @@
+She	0	0
+needed	0	0
+little	1	1
+,	NA	NA
+it	0	0
+is	0	0
+true	1	0
+,	NA	NA
+for	0	1
+herself	2	2
+,	NA	NA
+but	2	0
+there	1	0
+was	0	0
+Augustine	1	2
+.	NA	NA

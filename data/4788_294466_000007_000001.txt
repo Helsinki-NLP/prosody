@@ -1,0 +1,9 @@
+Goodbye	1	0
+,	NA	NA
+boys	1	2
+,	NA	NA
+we'll	0	0
+see	1	0
+you	0	0
+tomorrow	2	2
+.	NA	NA

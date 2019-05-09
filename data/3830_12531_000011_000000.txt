@@ -1,0 +1,17 @@
+I	0	0
+do	0	0
+not	2	0
+look	0	0
+upon	2	0
+those	0	0
+years	1	0
+of	0	1
+camp	2	2
+and	0	0
+cabin	2	0
+life	0	1
+as	0	0
+years	1	1
+of	0	0
+hardship	2	2
+.	NA	NA

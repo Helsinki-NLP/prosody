@@ -1,0 +1,14 @@
+Perhaps	2	2
+we	0	0
+never	0	0
+saw	2	0
+them	0	1
+before	1	1
+,	NA	NA
+and	0	0
+never	0	0
+shall	0	0
+meet	0	1
+them	0	0
+again	2	2
+.	NA	NA

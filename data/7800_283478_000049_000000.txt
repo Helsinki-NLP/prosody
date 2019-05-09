@@ -1,0 +1,13 @@
+Oh	2	0
+,	NA	NA
+I	0	0
+don't	0	0
+think	0	0
+he's	0	1
+quite	0	0
+that	2	1
+forgetful	2	1
+!	NA	NA
+laughed	0	0
+Frank	2	2
+.	NA	NA

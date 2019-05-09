@@ -1,0 +1,11 @@
+O	2	0
+,	NA	NA
+yes	0	1
+,	NA	NA
+it	0	0
+would	0	0
+Countrymen	1	2
+,	NA	NA
+fear	2	0
+not	0	2
+!	NA	NA

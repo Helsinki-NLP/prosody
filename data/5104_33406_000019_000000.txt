@@ -1,0 +1,7 @@
+Well	2	1
+,	NA	NA
+I	0	0
+must	1	1
+off	1	1
+somewhere	0	2
+.	NA	NA

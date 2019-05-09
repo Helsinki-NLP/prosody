@@ -1,0 +1,12 @@
+Well	2	0
+,	NA	NA
+Lucy	1	2
+,	NA	NA
+we	0	0
+must	1	0
+drive	1	0
+ourselves	0	1
+,	NA	NA
+that's	1	0
+all	0	2
+.	NA	NA

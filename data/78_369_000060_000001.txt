@@ -1,0 +1,6 @@
+What	0	0
+do	0	1
+these	0	0
+sounds	1	1
+portend	2	2
+?	NA	NA

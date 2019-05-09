@@ -1,0 +1,9 @@
+Mother	2	0
+Eel	1	1
+opened	1	0
+her	0	1
+big	0	0
+mouth	1	1
+very	0	0
+wide	1	2
+.	NA	NA

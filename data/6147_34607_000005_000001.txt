@@ -1,0 +1,14 @@
+She	0	0
+had	1	0
+an	0	1
+absurd	1	0
+academy	1	0
+of	0	1
+music	1	2
+,	NA	NA
+copied	2	0
+after	0	0
+that	1	0
+of	0	1
+France	1	2
+.	NA	NA

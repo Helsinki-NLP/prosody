@@ -1,0 +1,13 @@
+My	1	0
+left	2	1
+cheek	1	1
+,	NA	NA
+also	2	0
+,	NA	NA
+was	1	1
+puffed	1	0
+out	0	0
+like	0	0
+a	0	0
+dumpling	1	2
+.	NA	NA

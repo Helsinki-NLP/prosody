@@ -1,0 +1,12 @@
+He	0	0
+has	2	0
+as	0	1
+much	2	0
+right	2	2
+to	0	0
+speak	0	0
+here	1	0
+as	0	0
+any	0	0
+one	1	2
+!	NA	NA

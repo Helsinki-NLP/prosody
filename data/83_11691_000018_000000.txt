@@ -1,0 +1,4 @@
+Poor	2	1
+Prince	1	0
+Udo	1	2
+!	NA	NA

@@ -1,0 +1,7 @@
+His	0	0
+eyes	2	1
+fell	1	0
+to	0	1
+her	0	0
+throat	2	2
+.	NA	NA

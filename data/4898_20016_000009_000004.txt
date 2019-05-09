@@ -1,0 +1,14 @@
+There	0	0
+was	1	0
+a	0	1
+strange	2	1
+beauty	0	0
+,	NA	NA
+too	2	2
+,	NA	NA
+about	2	0
+the	0	0
+old	2	0
+man's	0	1
+face	1	2
+.	NA	NA

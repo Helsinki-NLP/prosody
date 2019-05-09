@@ -1,0 +1,13 @@
+Haliburton	2	1
+came	0	0
+running	0	0
+out	1	2
+,	NA	NA
+and	1	0
+begged	2	0
+me	0	1
+to	0	0
+bring	0	0
+them	0	0
+in	2	2
+.	NA	NA

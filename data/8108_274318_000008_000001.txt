@@ -1,0 +1,4 @@
+The	0	0
+windows	0	1
+rattled	2	2
+.	NA	NA

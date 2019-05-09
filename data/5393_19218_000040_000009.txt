@@ -1,0 +1,15 @@
+Paris	2	2
+,	NA	NA
+let	1	0
+us	0	0
+confess	2	0
+it	0	2
+willingly	2	0
+allows	1	0
+infamy	0	1
+to	0	0
+furnish	2	0
+it	0	1
+with	0	0
+comedy	2	2
+.	NA	NA

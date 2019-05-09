@@ -1,0 +1,6 @@
+Warn	2	0
+me	0	1
+?	NA	NA
+she	0	1
+said	2	2
+.	NA	NA

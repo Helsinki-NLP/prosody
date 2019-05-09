@@ -1,0 +1,15 @@
+The	0	0
+girl	2	0
+who	0	1
+composed	2	1
+and	0	0
+wrote	1	0
+that	0	0
+agreement	1	1
+will	0	0
+now	0	0
+rise	2	1
+and	0	0
+explain	1	0
+herself	1	2
+.	NA	NA

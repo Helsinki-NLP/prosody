@@ -1,0 +1,7 @@
+I	0	0
+have	2	1
+been	0	1
+false	2	1
+to	0	0
+you	1	2
+.	NA	NA

@@ -1,0 +1,10 @@
+Only	2	0
+I	0	0
+beg	1	0
+it	0	2
+shall	0	0
+not	1	1
+be	0	0
+before	0	0
+midnight	1	2
+.	NA	NA

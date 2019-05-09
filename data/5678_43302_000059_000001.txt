@@ -1,0 +1,14 @@
+She	2	0
+can't	1	1
+get	0	0
+it	0	0
+out	1	0
+of	0	0
+her	0	0
+head	2	2
+,	NA	NA
+even	2	0
+after	1	1
+fifty	1	0
+years	1	2
+.	NA	NA

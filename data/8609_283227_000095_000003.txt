@@ -1,0 +1,10 @@
+Are	0	0
+there	0	0
+not	2	1
+countless	1	0
+modes	1	0
+of	0	1
+saying	2	0
+the	0	1
+truth	0	2
+?	NA	NA

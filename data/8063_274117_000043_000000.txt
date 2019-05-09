@@ -1,0 +1,8 @@
+Yes	2	1
+,	NA	NA
+I	0	0
+will	0	1
+join	1	0
+you	0	1
+presently	1	2
+.	NA	NA

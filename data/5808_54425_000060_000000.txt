@@ -1,0 +1,16 @@
+She	0	0
+started	1	1
+to	0	0
+rise	2	2
+,	NA	NA
+but	2	0
+he	0	0
+took	0	0
+a	0	0
+step	1	0
+towards	1	1
+her	1	0
+and	0	0
+she	0	1
+paused	2	2
+.	NA	NA

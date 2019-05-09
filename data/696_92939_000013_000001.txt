@@ -1,0 +1,12 @@
+A	2	0
+blow	2	0
+was	0	1
+the	0	0
+only	0	0
+response	2	2
+when	0	0
+she	0	0
+tried	2	0
+to	0	1
+expostulate	1	2
+.	NA	NA

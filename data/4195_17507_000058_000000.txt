@@ -1,0 +1,13 @@
+A	0	0
+little	2	1
+,	NA	NA
+perhaps	1	1
+,	0	0
+mr	NA	NA
+Merrick	1	1
+;	NA	NA
+but	0	0
+it	0	0
+is	0	0
+unimportant	2	2
+.	NA	NA

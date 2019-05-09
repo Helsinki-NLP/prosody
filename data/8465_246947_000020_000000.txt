@@ -1,0 +1,7 @@
+A	0	0
+minute	2	0
+ago	1	2
+,	NA	NA
+she	2	0
+answered	1	2
+.	NA	NA

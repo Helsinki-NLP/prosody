@@ -1,0 +1,5 @@
+Poor	2	0
+people	0	1
+always	0	1
+do	2	2
+.	NA	NA

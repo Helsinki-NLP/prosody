@@ -1,0 +1,4 @@
+Between	1	0
+the	0	1
+two	2	2
+.	NA	NA

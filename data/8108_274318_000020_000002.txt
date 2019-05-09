@@ -1,0 +1,13 @@
+And	0	0
+then	2	0
+they	0	1
+advanced	2	1
+together	1	0
+towards	1	0
+the	0	1
+corner	2	2
+where	0	0
+the	0	0
+dog	2	0
+was	1	2
+.	NA	NA

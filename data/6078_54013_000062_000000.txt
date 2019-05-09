@@ -1,0 +1,14 @@
+I	0	0
+want	2	0
+to	0	1
+take	1	1
+service	2	1
+with	1	1
+you	0	0
+again	2	2
+,	NA	NA
+said	0	0
+the	0	0
+travelling	1	0
+servant	1	2
+.	NA	NA

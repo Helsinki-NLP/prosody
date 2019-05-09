@@ -1,0 +1,8 @@
+Teresa	2	0
+was	0	1
+sixteen	2	2
+,	NA	NA
+and	0	0
+Vampa	1	0
+seventeen	1	2
+.	NA	NA

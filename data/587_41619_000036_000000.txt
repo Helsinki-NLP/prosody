@@ -1,0 +1,17 @@
+What	0	1
+you	0	0
+say	2	0
+about	0	1
+appearance	2	1
+is	0	0
+quite	2	0
+true	0	0
+,	NA	NA
+Miss	0	1
+Savell	2	2
+,	NA	NA
+replied	2	0
+Miss	0	1
+Tebbs	1	0
+frankly	1	2
+.	NA	NA

@@ -1,0 +1,7 @@
+In	0	0
+some	2	0
+cases	0	1
+,	NA	NA
+said	1	0
+Sadness	1	2
+.	NA	NA

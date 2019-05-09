@@ -1,0 +1,16 @@
+The	0	0
+idea	2	2
+that	0	0
+there	0	0
+lived	1	0
+a	0	0
+person	0	1
+who	0	0
+did	0	0
+not	2	1
+know	0	0
+how	1	0
+to	0	0
+cook	0	0
+clams	1	2
+!	NA	NA

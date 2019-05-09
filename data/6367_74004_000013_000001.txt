@@ -1,0 +1,10 @@
+I	0	0
+know	2	0
+he	0	1
+writes	2	1
+to	0	0
+Em	0	1
+White	2	0
+in	0	1
+vacations	2	2
+.	NA	NA

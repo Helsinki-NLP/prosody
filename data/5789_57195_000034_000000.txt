@@ -1,0 +1,6 @@
+I'll	2	0
+make	0	1
+her	0	0
+a	0	0
+lady	1	2
+.	NA	NA

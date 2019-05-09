@@ -1,0 +1,13 @@
+Graham	2	1
+,	NA	NA
+fully	1	1
+dressed	1	2
+,	NA	NA
+stood	2	0
+at	0	1
+the	0	0
+side	1	0
+of	0	0
+the	0	1
+bed	2	2
+.	NA	NA

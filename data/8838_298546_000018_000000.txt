@@ -1,0 +1,11 @@
+It	0	0
+was	0	0
+not	1	0
+a	0	1
+cheering	1	1
+record	1	1
+which	0	1
+he	0	0
+read	1	1
+there	2	2
+.	NA	NA

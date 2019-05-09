@@ -1,0 +1,7 @@
+From	0	1
+here	2	0
+we	0	1
+can	0	0
+do	0	0
+so	0	2
+.	NA	NA

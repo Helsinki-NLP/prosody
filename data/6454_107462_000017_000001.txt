@@ -1,0 +1,14 @@
+'twas	2	1
+Herself	2	1
+should	0	0
+have	0	0
+got	2	0
+it	0	1
+,	NA	NA
+and	1	1
+Herself	2	0
+alone	2	2
+!	NA	NA
+.	NA	NA
+.	NA	NA
+.	NA	NA

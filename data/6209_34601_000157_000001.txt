@@ -1,0 +1,10 @@
+The	0	0
+steps	2	0
+were	1	0
+replaced	1	2
+,	NA	NA
+the	0	0
+door	1	0
+was	0	0
+reclosed	1	2
+.	NA	NA

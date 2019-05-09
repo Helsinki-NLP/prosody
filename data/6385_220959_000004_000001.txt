@@ -1,0 +1,7 @@
+No	2	2
+,	NA	NA
+they	2	0
+are	0	0
+merely	0	0
+symbols	0	2
+.	NA	NA

@@ -1,0 +1,8 @@
+I	1	0
+start	2	1
+for	1	0
+England	1	1
+in	0	0
+an	0	0
+hour	2	2
+.	NA	NA

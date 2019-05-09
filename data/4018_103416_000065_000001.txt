@@ -1,0 +1,6 @@
+Promise	1	1
+me	0	0
+you	0	0
+won't	0	1
+go	2	2
+.	NA	NA

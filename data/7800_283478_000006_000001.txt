@@ -1,0 +1,14 @@
+He	0	0
+must	2	0
+have	0	1
+seen	1	0
+us	0	0
+in	0	0
+the	0	1
+fight	2	2
+,	NA	NA
+and	0	0
+that	2	1
+settles	0	0
+it	1	2
+.	NA	NA

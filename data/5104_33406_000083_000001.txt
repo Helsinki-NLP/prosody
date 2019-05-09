@@ -1,0 +1,6 @@
+We	0	0
+must	2	0
+not	1	1
+freeze	0	0
+here	0	2
+.	NA	NA

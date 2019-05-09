@@ -1,0 +1,4 @@
+No	2	1
+,	NA	NA
+indeed	0	2
+!	NA	NA

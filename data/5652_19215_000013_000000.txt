@@ -1,0 +1,10 @@
+Nevertheless	2	0
+,	NA	NA
+she	0	1
+continued	0	1
+to	0	0
+call	1	0
+Jean	0	0
+Valjean	1	2
+Father	2	2
+.	NA	NA

@@ -1,0 +1,3 @@
+He	0	0
+approached	2	2
+.	NA	NA

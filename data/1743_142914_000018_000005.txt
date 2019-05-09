@@ -1,0 +1,5 @@
+peter	0	0
+greeted	1	0
+him	0	1
+joyously	2	2
+.	NA	NA

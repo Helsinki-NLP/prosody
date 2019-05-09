@@ -1,0 +1,14 @@
+With	2	0
+him	0	2
+were	1	0
+a	0	0
+man	1	0
+and	0	0
+a	0	0
+woman	1	2
+,	NA	NA
+and	1	0
+a	0	0
+little	0	1
+girl	2	2
+.	NA	NA

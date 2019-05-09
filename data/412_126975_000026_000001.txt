@@ -1,0 +1,14 @@
+You've	0	0
+only	1	1
+talked	1	1
+like	1	0
+that	1	0
+since	0	0
+you	0	1
+became	1	0
+a	0	1
+horrid	2	2
+what's	2	1
+his	0	0
+name	1	2
+.	NA	NA

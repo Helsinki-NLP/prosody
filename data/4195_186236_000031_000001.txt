@@ -1,0 +1,15 @@
+We're	2	0
+all	0	1
+three	0	0
+your	0	0
+nieces	1	2
+,	NA	NA
+and	1	0
+we'll	0	0
+take	1	0
+care	1	0
+of	0	0
+you	0	1
+between	1	0
+us	0	2
+.	NA	NA

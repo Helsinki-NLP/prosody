@@ -1,0 +1,16 @@
+She	0	0
+discoursed	2	0
+on	0	1
+Locke	1	2
+;	NA	NA
+she	0	0
+was	0	0
+polite	2	2
+;	NA	NA
+she	0	0
+was	0	0
+suspected	1	0
+of	0	0
+knowing	0	0
+Arabic	1	2
+.	NA	NA

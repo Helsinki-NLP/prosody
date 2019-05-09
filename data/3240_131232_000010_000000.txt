@@ -1,0 +1,8 @@
+Orthodoxy	2	0
+accepts	1	1
+the	0	0
+correlation	2	1
+and	0	0
+equivalence	1	1
+of	0	0
+forces	1	2

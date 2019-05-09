@@ -1,0 +1,17 @@
+A	0	0
+sledge	2	0
+journey	1	1
+through	0	0
+the	0	0
+Sahara	2	2
+could	0	0
+not	1	0
+have	0	0
+offered	2	1
+a	0	0
+worse	1	0
+surface	1	1
+to	0	0
+move	0	0
+over	2	2
+.	NA	NA

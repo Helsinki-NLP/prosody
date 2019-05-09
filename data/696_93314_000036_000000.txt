@@ -1,0 +1,8 @@
+Because	0	0
+I	0	0
+won't	1	2
+;	NA	NA
+because	1	0
+it's	0	1
+wrong	2	2
+.	NA	NA

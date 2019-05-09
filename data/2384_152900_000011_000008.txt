@@ -1,0 +1,10 @@
+The	0	0
+others	2	1
+consisted	0	0
+of	0	2
+trousers	2	0
+and	0	1
+jacket	1	1
+with	0	0
+hood	2	2
+.	NA	NA

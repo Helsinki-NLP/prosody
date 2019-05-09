@@ -1,0 +1,11 @@
+He	0	0
+lives	2	1
+,	NA	NA
+said	0	0
+he	0	1
+,	NA	NA
+but	1	0
+he	0	0
+must	2	0
+be	0	1
+carried	2	2

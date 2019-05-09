@@ -1,0 +1,9 @@
+Suppose	2	0
+somebody	1	1
+had	0	0
+gotten	1	1
+hurt	2	0
+,	NA	NA
+she	0	1
+said	2	2
+.	NA	NA

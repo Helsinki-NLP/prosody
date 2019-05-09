@@ -1,0 +1,16 @@
+The	0	0
+pack	2	1
+horse	0	0
+was	0	1
+found	1	0
+near	0	0
+the	0	0
+camp	1	2
+,	NA	NA
+but	1	0
+Derosier	2	1
+did	0	0
+not	0	0
+get	0	0
+in	0	2
+.	NA	NA

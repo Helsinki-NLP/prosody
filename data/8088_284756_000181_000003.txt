@@ -1,0 +1,17 @@
+The	0	0
+woman's	1	0
+features	1	1
+were	0	0
+torn	2	0
+with	0	1
+grief	2	2
+;	NA	NA
+the	0	0
+man's	2	0
+lips	0	1
+were	0	0
+set	2	1
+tight	1	1
+with	0	0
+suffering	2	2
+.	NA	NA

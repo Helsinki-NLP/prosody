@@ -1,0 +1,14 @@
+'Very	2	0
+probably	2	2
+,	NA	NA
+'	NA	NA
+said	0	0
+mrs	0	0
+Thornton	1	1
+,	NA	NA
+in	0	0
+a	0	0
+short	1	1
+displeased	0	0
+manner	1	2
+.	NA	NA

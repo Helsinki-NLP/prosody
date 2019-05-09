@@ -1,0 +1,12 @@
+For	0	0
+thirst	2	2
+,	NA	NA
+said	2	0
+he	1	2
+,	NA	NA
+putting	2	0
+it	0	1
+in	0	0
+his	0	0
+pocket	1	2
+.	NA	NA

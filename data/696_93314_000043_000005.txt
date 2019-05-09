@@ -1,0 +1,4 @@
+But	2	0
+it	0	1
+didn't	1	2
+.	NA	NA

@@ -1,0 +1,11 @@
+But	0	0
+there	1	0
+are	0	1
+some	2	0
+acts	0	2
+that	0	0
+there	1	0
+is	0	0
+no	0	1
+undoing	2	2
+.	NA	NA

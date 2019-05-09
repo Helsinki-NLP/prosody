@@ -1,0 +1,7 @@
+You	0	1
+have	2	0
+a	0	1
+theory	0	1
+,	NA	NA
+professor	2	2
+?	NA	NA

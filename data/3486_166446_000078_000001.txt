@@ -1,0 +1,4 @@
+They	0	0
+ARE	2	1
+drums	1	2
+.	NA	NA

@@ -1,0 +1,10 @@
+Drunk	1	0
+half	1	1
+the	0	0
+time	2	0
+and	0	1
+half	1	0
+drunk	1	1
+the	1	0
+rest	1	2
+.	NA	NA

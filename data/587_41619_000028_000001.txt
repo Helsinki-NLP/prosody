@@ -1,0 +1,9 @@
+What	1	0
+do	0	0
+you	0	1
+suppose	1	0
+she's	0	0
+up	1	1
+to	0	0
+now	2	2
+?	NA	NA

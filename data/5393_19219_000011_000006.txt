@@ -1,0 +1,13 @@
+Evil	2	0
+does	0	0
+not	1	1
+come	0	0
+from	0	0
+man	1	0
+,	NA	NA
+who	0	0
+is	0	1
+good	2	0
+at	0	1
+bottom	2	2
+.	NA	NA

@@ -1,0 +1,4 @@
+There	1	0
+was	2	1
+none	1	2
+.	NA	NA

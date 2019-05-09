@@ -1,0 +1,3 @@
+Without	2	1
+you	0	2
+?	NA	NA

@@ -1,0 +1,13 @@
+Now	2	0
+surely	2	2
+he	0	0
+would	0	0
+understand	2	1
+;	NA	NA
+but	0	0
+not	1	0
+a	0	0
+bit	2	0
+of	0	0
+it	0	2
+.	NA	NA

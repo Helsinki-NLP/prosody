@@ -1,0 +1,11 @@
+Oddly	2	0
+enough	0	1
+,	NA	NA
+Mary's	1	1
+pallor	1	0
+changed	2	1
+to	0	0
+an	0	0
+angry	1	1
+flush	2	2
+.	NA	NA

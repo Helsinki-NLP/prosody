@@ -1,0 +1,15 @@
+Don't	2	1
+swear	1	0
+,	NA	NA
+though	0	0
+might	0	0
+as	0	2
+well	2	0
+;	NA	NA
+he	0	1
+was	0	0
+so	1	0
+bad	1	0
+other	0	1
+ways	2	2
+.	NA	NA

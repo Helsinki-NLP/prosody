@@ -1,0 +1,10 @@
+They	2	0
+are	0	0
+like	1	1
+food	2	0
+and	0	1
+drink	2	1
+,	NA	NA
+they	0	0
+cried	1	2
+.	NA	NA

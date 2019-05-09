@@ -1,0 +1,16 @@
+So	1	0
+far	2	0
+as	0	1
+the	0	0
+Japanese	1	0
+are	0	1
+concerned	1	2
+,	NA	NA
+the	0	0
+Emperor	1	1
+lives	0	0
+,	NA	NA
+is	1	0
+himself	1	2
+deity	2	2
+.	NA	NA

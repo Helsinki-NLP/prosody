@@ -1,0 +1,16 @@
+He	0	0
+is	2	0
+a	0	0
+handsome	1	0
+old	0	1
+gentleman	1	0
+,	NA	NA
+and	0	1
+he	0	0
+is	1	2
+gallant	2	1
+for	0	0
+an	0	0
+old	0	1
+man	2	2
+.	NA	NA

@@ -1,0 +1,8 @@
+For	0	0
+twenty	1	0
+five	2	1
+years	0	0
+you	0	0
+have	0	1
+slept	2	2
+.	NA	NA

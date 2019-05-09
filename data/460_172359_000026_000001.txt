@@ -1,0 +1,13 @@
+Why	2	0
+,	NA	NA
+no	0	0
+wonder	1	0
+;	NA	NA
+it	0	1
+seemed	1	0
+like	1	0
+the	0	1
+finger	0	0
+of	0	1
+Providence	2	2
+.	NA	NA

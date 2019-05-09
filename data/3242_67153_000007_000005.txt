@@ -1,0 +1,10 @@
+What	2	0
+we	0	0
+used	0	1
+to	0	0
+throw	1	0
+away	2	0
+is	0	1
+our	0	1
+profit	2	2
+.	NA	NA

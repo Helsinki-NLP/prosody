@@ -1,0 +1,12 @@
+So	2	0
+of	0	0
+those	0	1
+thirty	0	0
+five	0	0
+ships	1	2
+only	2	0
+fifteen	1	1
+got	1	0
+to	0	0
+Greenland	1	2
+.	NA	NA

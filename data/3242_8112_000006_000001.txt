@@ -1,0 +1,6 @@
+Tell	1	0
+you	0	0
+about	1	1
+that	1	0
+later	1	2
+.	NA	NA

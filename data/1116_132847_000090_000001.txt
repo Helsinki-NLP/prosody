@@ -1,0 +1,14 @@
+There	1	0
+were	0	0
+so	0	0
+many	1	0
+of	0	1
+them	0	0
+that	1	0
+it	0	0
+took	1	2
+quite	2	0
+a	0	0
+long	0	1
+time	1	2
+.	NA	NA

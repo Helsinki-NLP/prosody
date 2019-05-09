@@ -1,0 +1,10 @@
+I'll	2	0
+give	0	0
+him	0	1
+my	1	0
+old	0	1
+hat	2	2
+,	NA	NA
+said	2	0
+another	1	2
+.	NA	NA

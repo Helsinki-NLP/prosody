@@ -1,0 +1,13 @@
+Her	1	0
+bread	2	0
+system	1	2
+is	0	0
+voluntary	1	0
+like	0	0
+ours	1	1
+,	NA	NA
+but	0	0
+much	0	0
+more	0	0
+detailed	2	2
+.	NA	NA

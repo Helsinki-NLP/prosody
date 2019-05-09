@@ -1,0 +1,5 @@
+The	2	0
+answers	0	1
+are	0	0
+many	1	2
+.	NA	NA

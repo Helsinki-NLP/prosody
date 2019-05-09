@@ -1,0 +1,4 @@
+You	0	1
+understand	1	0
+me	0	2
+!	NA	NA

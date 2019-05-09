@@ -1,0 +1,14 @@
+No	1	0
+,	NA	NA
+no	2	2
+,	NA	NA
+she	0	0
+vociferated	1	2
+,	NA	NA
+no	2	0
+,	NA	NA
+you	0	1
+cannot	1	0
+wish	0	0
+that	1	2
+!	NA	NA

@@ -1,0 +1,5 @@
+That's	1	0
+all	1	0
+,	NA	NA
+Bibbs	1	2
+.	NA	NA

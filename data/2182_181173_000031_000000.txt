@@ -1,0 +1,8 @@
+Cedric	2	0
+held	0	1
+the	0	0
+handkerchief	1	0
+in	0	1
+his	0	0
+hand	2	2
+.	NA	NA

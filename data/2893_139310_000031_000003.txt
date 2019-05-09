@@ -1,0 +1,17 @@
+Show	2	0
+us	0	1
+the	0	0
+Sleeper	1	2
+,	NA	NA
+show	2	0
+us	0	1
+the	0	0
+Sleeper	2	2
+!	NA	NA
+was	1	0
+the	0	0
+burden	2	0
+of	0	1
+the	0	0
+uproar	1	2
+.	NA	NA

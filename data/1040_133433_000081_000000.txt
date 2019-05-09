@@ -1,0 +1,12 @@
+That	2	0
+is	0	0
+a	0	1
+long	2	0
+time	0	0
+ago	0	1
+,	NA	NA
+sweetheart	2	1
+,	NA	NA
+says	0	0
+Wendy	1	2
+.	NA	NA

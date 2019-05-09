@@ -1,0 +1,14 @@
+Not	2	0
+one	1	0
+instance	1	1
+have	1	0
+we	0	0
+of	1	2
+tadpoles	2	0
+that	0	1
+have	0	0
+fallen	2	0
+to	0	1
+this	0	0
+earth	1	2
+.	NA	NA

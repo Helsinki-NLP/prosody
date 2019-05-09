@@ -1,0 +1,13 @@
+But	0	0
+none	2	0
+of	0	0
+these	0	1
+titles	2	1
+confer	2	1
+upon	1	1
+me	0	0
+the	0	0
+right	1	0
+of	0	1
+property	2	2
+.	NA	NA

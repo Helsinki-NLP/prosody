@@ -1,0 +1,8 @@
+I	1	0
+wonder	2	0
+what	0	0
+he's	0	1
+run	0	0
+across	1	1
+now	1	2
+?	NA	NA

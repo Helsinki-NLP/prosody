@@ -1,0 +1,5 @@
+Shepherd	2	0
+of	0	1
+tender	0	0
+sheep	1	2
+,	NA	NA

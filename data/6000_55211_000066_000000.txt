@@ -1,0 +1,9 @@
+Alice	2	2
+!	NA	NA
+gasped	2	1
+mrs	0	0
+Greggory	1	0
+in	0	1
+dismayed	0	0
+horror	1	2
+.	NA	NA

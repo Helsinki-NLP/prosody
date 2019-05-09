@@ -1,0 +1,11 @@
+Not	1	0
+from	0	1
+you	2	2
+.	NA	NA
+Juliet	2	1
+put	0	0
+her	0	0
+arm	0	1
+through	0	0
+his	1	2
+.	NA	NA

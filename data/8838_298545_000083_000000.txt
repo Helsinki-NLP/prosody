@@ -1,0 +1,13 @@
+The	0	0
+adventure	2	0
+and	0	0
+the	0	1
+profit	2	0
+would	0	2
+either	2	0
+of	0	0
+them	0	0
+have	0	0
+attracted	0	1
+Montgomery	2	2
+.	NA	NA

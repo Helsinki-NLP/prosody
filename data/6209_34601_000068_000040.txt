@@ -1,0 +1,7 @@
+Swallow	2	0
+up	0	1
+my	1	1
+food	1	1
+,	NA	NA
+boa	2	2
+.	NA	NA

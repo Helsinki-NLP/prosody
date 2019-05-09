@@ -1,0 +1,7 @@
+To	0	0
+New	0	0
+York	1	2
+,	NA	NA
+I	2	0
+finished	1	2
+.	NA	NA

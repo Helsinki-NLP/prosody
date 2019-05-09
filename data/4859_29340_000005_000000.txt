@@ -1,0 +1,7 @@
+This	0	0
+curious	2	0
+contradiction	0	1
+is	0	0
+not	2	0
+accidental	1	2
+.	NA	NA

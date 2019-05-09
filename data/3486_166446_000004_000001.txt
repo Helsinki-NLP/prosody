@@ -1,0 +1,17 @@
+Of	1	0
+human	0	0
+life	2	1
+,	NA	NA
+of	0	0
+green	2	0
+life	1	2
+,	NA	NA
+of	0	0
+life	2	0
+of	0	1
+any	0	0
+kind	1	1
+there	0	0
+was	0	0
+none	2	2
+.	NA	NA

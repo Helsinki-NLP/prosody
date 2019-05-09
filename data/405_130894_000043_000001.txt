@@ -1,0 +1,11 @@
+The	0	0
+Ice	2	0
+Bank's	1	2
+side	2	0
+walls	1	0
+and	0	1
+underbelly	1	1
+had	0	0
+visibly	1	0
+thickened	2	2
+.	NA	NA

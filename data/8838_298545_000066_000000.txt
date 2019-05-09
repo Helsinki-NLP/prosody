@@ -1,0 +1,9 @@
+I	2	0
+ain't	0	0
+one	0	1
+to	0	0
+go	1	1
+back	1	1
+,	NA	NA
+Fawcett	1	2
+.	NA	NA

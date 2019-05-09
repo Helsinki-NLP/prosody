@@ -1,0 +1,9 @@
+That	2	0
+which	0	0
+is	0	1
+biblical	0	0
+may	0	0
+well	1	0
+be	0	1
+Anglican	1	2
+.	NA	NA

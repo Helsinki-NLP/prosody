@@ -1,0 +1,14 @@
+Indeed	2	1
+,	NA	NA
+replied	1	0
+the	0	1
+priest	1	2
+,	NA	NA
+I	2	0
+cannot	0	0
+choose	0	1
+but	0	0
+tell	2	0
+this	0	1
+story	0	2
+.	NA	NA

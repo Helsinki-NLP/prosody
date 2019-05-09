@@ -1,0 +1,6 @@
+Rather	2	0
+shy	1	0
+in	0	1
+some	0	0
+respects	2	2
+.	NA	NA

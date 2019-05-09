@@ -1,0 +1,12 @@
+One	2	0
+day	1	2
+as	0	0
+Eric	1	0
+sat	0	0
+in	0	0
+the	0	1
+pilot's	0	0
+seat	1	2
+,	NA	NA
+he	0	0
+said	2	2

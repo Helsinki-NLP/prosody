@@ -1,0 +1,11 @@
+By	1	0
+degrees	1	0
+I	0	0
+made	0	0
+a	0	1
+discovery	2	2
+of	1	0
+still	1	0
+greater	1	0
+moment	0	2
+.	NA	NA

@@ -1,0 +1,11 @@
+He	0	0
+felt	2	0
+that	0	1
+he	0	0
+was	0	1
+the	0	0
+object	2	2
+and	2	0
+the	0	0
+instrument	1	2
+.	NA	NA

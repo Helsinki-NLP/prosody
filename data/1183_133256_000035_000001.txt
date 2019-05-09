@@ -1,0 +1,5 @@
+I	2	0
+think	0	1
+it	0	0
+wonderful	1	2
+.	NA	NA

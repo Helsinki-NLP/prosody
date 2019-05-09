@@ -1,0 +1,11 @@
+When	1	0
+the	0	0
+princess	1	0
+learnt	1	1
+this	1	2
+she	0	0
+was	1	0
+in	0	0
+great	1	1
+grief	1	2
+.	NA	NA

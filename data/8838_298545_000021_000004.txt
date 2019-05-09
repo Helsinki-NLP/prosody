@@ -1,0 +1,5 @@
+Take	0	0
+it	1	1
+,	NA	NA
+then	2	2
+!	NA	NA

@@ -1,0 +1,7 @@
+I	1	0
+wonder	0	0
+whether	0	0
+she'll	0	0
+like	1	2
+going	2	2
+.	NA	NA

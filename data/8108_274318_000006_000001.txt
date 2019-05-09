@@ -1,0 +1,9 @@
+The	0	0
+dimensions	2	0
+of	0	2
+the	0	0
+place	1	0
+altered	2	1
+and	0	0
+shifted	1	2
+.	NA	NA

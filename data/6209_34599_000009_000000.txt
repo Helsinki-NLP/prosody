@@ -1,0 +1,9 @@
+Two	1	0
+or	0	0
+three	0	1
+times	2	2
+the	0	0
+little	0	0
+infant	1	1
+cried	2	2
+.	NA	NA

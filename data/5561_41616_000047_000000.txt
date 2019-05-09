@@ -1,0 +1,13 @@
+Perhaps	2	1
+we'll	0	0
+challenge	2	0
+you	0	1
+some	1	0
+day	0	0
+,	NA	NA
+Reddy	1	1
+,	NA	NA
+said	0	0
+Grace	1	1
+mischievously	2	2
+.	NA	NA

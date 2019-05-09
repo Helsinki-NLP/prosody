@@ -1,0 +1,7 @@
+He	0	0
+had	1	1
+not	2	2
+uttered	1	0
+a	0	0
+word	1	2
+.	NA	NA

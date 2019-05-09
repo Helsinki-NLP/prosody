@@ -1,0 +1,9 @@
+She	2	0
+put	1	0
+me	0	0
+in	0	0
+a	0	2
+very	2	1
+queer	1	1
+prison	2	2
+.	NA	NA

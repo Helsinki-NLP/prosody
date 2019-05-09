@@ -1,0 +1,14 @@
+peter	2	0
+doesn't	0	1
+mind	1	1
+getting	0	1
+his	0	0
+feet	2	2
+damp	1	0
+,	NA	NA
+so	0	0
+he	0	0
+hopped	2	1
+along	1	1
+carelessly	2	2
+.	NA	NA

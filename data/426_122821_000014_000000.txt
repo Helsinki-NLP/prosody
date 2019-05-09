@@ -1,0 +1,3 @@
+Green	1	0
+gabels	1	2
+.	NA	NA

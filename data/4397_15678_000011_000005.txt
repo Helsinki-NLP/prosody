@@ -1,0 +1,11 @@
+But	1	1
+woe	2	0
+to	0	1
+the	0	0
+ranch	1	1
+should	0	2
+fire	2	1
+water	0	0
+get	1	0
+there	2	2
+!	NA	NA

@@ -1,0 +1,15 @@
+Grinning	2	1
+?	NA	NA
+asked	1	1
+Bill	1	0
+Gregg	2	2
+,	NA	NA
+grinding	2	0
+his	0	0
+teeth	1	0
+and	0	1
+starting	1	0
+from	0	1
+his	0	0
+chair	2	2
+.	NA	NA

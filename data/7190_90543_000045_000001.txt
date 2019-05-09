@@ -1,0 +1,12 @@
+I've	0	0
+read	0	0
+every	0	1
+report	2	2
+,	NA	NA
+but	0	0
+tell	1	0
+me	0	0
+yourself	1	1
+every	0	0
+detail	2	2
+.	NA	NA

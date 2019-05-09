@@ -1,0 +1,17 @@
+Is	1	0
+that	2	1
+the	0	0
+impression	2	1
+,	NA	NA
+he	0	0
+asked	1	2
+,	NA	NA
+produced	2	1
+by	0	0
+what	0	0
+I	0	0
+allowed	2	0
+you	0	1
+to	0	0
+read	2	2
+?	NA	NA

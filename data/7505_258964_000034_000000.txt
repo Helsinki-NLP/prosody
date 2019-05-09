@@ -1,0 +1,12 @@
+In	0	0
+most	1	0
+cases	0	0
+,	NA	NA
+however	1	2
+,	NA	NA
+social	2	0
+changes	0	0
+are	1	1
+impersonally	1	0
+caused	2	2
+.	NA	NA

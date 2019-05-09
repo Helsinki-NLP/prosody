@@ -1,0 +1,5 @@
+Such	1	0
+jolting	2	0
+and	0	1
+sliding	2	2
+!	NA	NA

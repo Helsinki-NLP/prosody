@@ -1,0 +1,14 @@
+Isabel	2	0
+might	1	0
+have	0	1
+believed	2	0
+it	0	2
+and	1	0
+not	2	0
+have	0	1
+been	0	0
+far	2	0
+from	0	1
+the	0	0
+truth	2	2
+.	NA	NA

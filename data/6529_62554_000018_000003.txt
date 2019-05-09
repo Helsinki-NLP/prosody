@@ -1,0 +1,16 @@
+Was	1	0
+it	0	0
+he	0	0
+who	0	0
+threw	0	1
+Top	2	1
+out	1	0
+of	0	1
+the	0	0
+lake	2	2
+,	NA	NA
+and	0	0
+killed	2	0
+the	0	1
+dugong	2	2
+?	NA	NA

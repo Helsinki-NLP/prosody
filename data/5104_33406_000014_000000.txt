@@ -1,0 +1,10 @@
+He	1	0
+is	0	0
+in	0	0
+a	0	1
+black	2	1
+temper	1	2
+,	NA	NA
+they	0	0
+said	2	2
+.	NA	NA

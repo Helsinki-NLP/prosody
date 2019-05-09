@@ -1,0 +1,3 @@
+And	0	1
+fairish	1	2
+?	NA	NA

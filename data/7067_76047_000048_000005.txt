@@ -1,0 +1,13 @@
+Miss	1	0
+Grammont	1	0
+has	0	1
+a	0	0
+startled	1	2
+and	0	0
+matured	2	0
+mind	1	2
+,	NA	NA
+an	0	0
+original	1	0
+mind	1	2
+.	NA	NA

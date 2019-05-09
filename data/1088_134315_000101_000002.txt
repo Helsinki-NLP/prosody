@@ -1,0 +1,9 @@
+It's	1	0
+that	2	1
+door	2	1
+that	0	0
+gives	1	0
+me	0	0
+the	0	0
+hump	1	2
+.	NA	NA

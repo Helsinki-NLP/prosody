@@ -1,0 +1,8 @@
+It	0	0
+was	2	0
+a	0	1
+charming	2	0
+and	0	1
+terrible	1	0
+sight	2	2
+.	NA	NA

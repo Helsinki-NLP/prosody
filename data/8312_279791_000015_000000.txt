@@ -1,0 +1,11 @@
+Blue	1	0
+Bird	0	2
+,	NA	NA
+Blue	2	0
+Bird	0	2
+,	NA	NA
+Come	2	0
+to	0	0
+my	0	1
+side	1	2
+.	NA	NA

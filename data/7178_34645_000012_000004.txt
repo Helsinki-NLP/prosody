@@ -1,0 +1,10 @@
+He	0	0
+even	1	0
+went	0	1
+so	1	1
+far	2	0
+as	0	2
+to	0	0
+justify	2	1
+him	2	2
+.	NA	NA

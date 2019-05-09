@@ -1,0 +1,12 @@
+Then	2	1
+it	0	0
+is	0	0
+a	0	1
+kind	1	0
+of	0	0
+luck	1	2
+that	2	0
+cannot	2	1
+be	0	0
+lost	1	2
+.	NA	NA

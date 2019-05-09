@@ -1,0 +1,9 @@
+Did	0	0
+he	0	0
+run	0	0
+away	2	1
+then	0	2
+?	NA	NA
+asked	1	0
+Frank	1	2
+.	NA	NA

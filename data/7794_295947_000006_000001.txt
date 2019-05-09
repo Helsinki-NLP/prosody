@@ -1,0 +1,16 @@
+He'll	2	0
+buy	1	0
+him	0	2
+,	NA	NA
+and	1	0
+then	1	0
+he'll	0	1
+boil	2	0
+him	0	0
+in	0	0
+a	1	1
+pot	1	0
+and	0	1
+eat	2	0
+him	1	2
+.	NA	NA

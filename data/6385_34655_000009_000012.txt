@@ -1,0 +1,10 @@
+Pictures	1	2
+turning	2	0
+on	0	1
+false	1	1
+panels	2	0
+were	0	0
+exits	1	1
+and	0	0
+entrances	1	2
+.	NA	NA

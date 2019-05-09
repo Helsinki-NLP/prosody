@@ -1,0 +1,6 @@
+God	2	0
+bless	1	0
+those	0	1
+earlier	1	0
+pioneers	1	2
+!	NA	NA

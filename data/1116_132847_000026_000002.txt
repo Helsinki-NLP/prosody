@@ -1,0 +1,13 @@
+At	1	0
+the	0	0
+sight	2	0
+of	0	0
+her	0	1
+Houarn	1	1
+stopped	2	2
+,	NA	NA
+dazzled	2	1
+by	1	0
+her	0	1
+beauty	1	2
+.	NA	NA

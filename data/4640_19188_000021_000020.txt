@@ -1,0 +1,10 @@
+Young	2	0
+girls	1	1
+without	1	1
+bread	2	1
+that	0	0
+is	1	0
+a	0	1
+terrible	2	0
+thing	1	2
+.	NA	NA

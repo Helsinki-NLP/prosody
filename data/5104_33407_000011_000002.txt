@@ -1,0 +1,10 @@
+He	0	1
+passed	2	0
+Iceland	1	1
+and	0	0
+the	0	0
+Faroes	1	2
+and	0	0
+the	0	0
+Shetlands	2	2
+.	NA	NA

@@ -1,0 +1,17 @@
+I	2	0
+feel	1	1
+pleased	0	0
+at	0	0
+the	0	1
+thought	2	2
+that	2	0
+it	0	0
+is	0	1
+sure	2	0
+not	2	0
+to	0	2
+be	0	0
+shut	1	0
+against	0	0
+us	1	2
+.	NA	NA

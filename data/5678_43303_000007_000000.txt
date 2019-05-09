@@ -1,0 +1,10 @@
+There	1	0
+is	0	0
+no	0	0
+need	1	0
+to	0	1
+telegraph	2	0
+for	0	1
+mr	1	1
+Brand	2	2
+?	NA	NA

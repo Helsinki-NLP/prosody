@@ -1,0 +1,15 @@
+Zangwill	2	0
+has	0	0
+written	0	1
+engagingly	2	0
+of	0	1
+spooks	1	2
+,	NA	NA
+with	2	0
+a	0	0
+laughable	0	1
+story	0	0
+about	0	0
+Samuel	0	1
+Johnson	2	2
+.	NA	NA

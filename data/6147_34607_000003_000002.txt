@@ -1,0 +1,12 @@
+She	1	0
+was	0	0
+gay	2	2
+,	NA	NA
+kindly	2	1
+,	NA	NA
+august	2	1
+to	2	0
+a	0	0
+certain	0	0
+extent	1	2
+.	NA	NA

@@ -1,0 +1,9 @@
+A	0	0
+certain	2	1
+king	1	0
+and	0	1
+queen	1	0
+had	0	1
+three	0	0
+daughters	2	2
+.	NA	NA

@@ -1,0 +1,16 @@
+There	2	0
+is	0	1
+something	1	1
+of	0	0
+the	0	0
+effect	2	1
+of	0	0
+a	0	1
+forest	2	2
+in	1	0
+the	0	0
+nocturnal	1	0
+diffusion	0	1
+of	0	0
+dreams	1	2
+.	NA	NA

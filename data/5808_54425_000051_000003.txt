@@ -1,0 +1,9 @@
+There	2	1
+he	0	0
+lay	1	1
+for	0	0
+more	1	0
+than	0	2
+two	0	0
+hours	2	2
+.	NA	NA

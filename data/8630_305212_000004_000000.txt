@@ -1,0 +1,13 @@
+Patricius	2	1
+was	0	0
+altogether	2	0
+unable	0	2
+to	0	0
+give	1	0
+Augustine	2	1
+the	0	0
+help	2	1
+that	0	0
+he	0	0
+needed	1	2
+.	NA	NA

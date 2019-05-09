@@ -1,0 +1,8 @@
+Now	2	2
+,	NA	NA
+about	2	0
+our	0	0
+jail	0	0
+breaking	0	1
+scheme	1	2
+?	NA	NA

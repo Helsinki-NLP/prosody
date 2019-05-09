@@ -1,0 +1,7 @@
+We'll	0	0
+go	0	0
+carefully	2	2
+,	NA	NA
+said	0	0
+Quarles	1	2
+.	NA	NA

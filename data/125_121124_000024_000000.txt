@@ -1,0 +1,3 @@
+His	1	1
+banker	2	2
+?	NA	NA

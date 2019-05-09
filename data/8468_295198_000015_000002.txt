@@ -1,0 +1,9 @@
+I	2	0
+understand	0	1
+just	2	1
+how	0	0
+to	0	0
+say	1	0
+the	0	1
+thing	1	2
+.	NA	NA

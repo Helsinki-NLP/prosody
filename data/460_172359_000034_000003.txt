@@ -1,0 +1,17 @@
+But	0	0
+if	0	0
+a	0	0
+feller	2	0
+knows	1	1
+the	0	0
+country	1	0
+and	0	0
+keeps	0	0
+his	0	1
+head	2	0
+level	1	2
+,	NA	NA
+he	0	0
+can't	1	0
+lose	1	2
+.	NA	NA

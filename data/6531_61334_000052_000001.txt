@@ -1,0 +1,15 @@
+Shalmaneser's	2	0
+meanwhile	0	0
+wasted	1	1
+and	0	0
+burned	1	0
+cities	0	1
+without	2	0
+number	1	2
+,	NA	NA
+and	0	0
+carried	2	0
+away	0	0
+great	0	0
+booty	0	2
+.	NA	NA

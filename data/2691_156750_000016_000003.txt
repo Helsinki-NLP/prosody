@@ -1,0 +1,7 @@
+Thus	2	1
+more	2	0
+friends	0	1
+came	1	0
+among	0	0
+us	0	2
+.	NA	NA

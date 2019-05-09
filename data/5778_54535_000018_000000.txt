@@ -1,0 +1,16 @@
+Later	2	2
+,	2	0
+mr	NA	NA
+Whistler	1	1
+received	0	0
+much	0	0
+more	1	0
+than	0	1
+two	0	0
+hundred	0	0
+guineas	2	1
+for	0	1
+a	0	0
+single	0	0
+picture	1	2
+.	NA	NA

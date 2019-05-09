@@ -1,0 +1,14 @@
+Upon	1	0
+due	1	0
+reflection	0	1
+I	2	0
+frankly	1	0
+admit	0	2
+the	0	0
+propriety	2	0
+of	0	0
+the	0	1
+explanation	1	0
+you	0	1
+suggest	2	2
+.	NA	NA

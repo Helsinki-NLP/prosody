@@ -1,0 +1,15 @@
+Perhaps	2	1
+he	0	0
+was	1	1
+fatigued	1	1
+,	NA	NA
+or	1	0
+perhaps	2	1
+he	0	0
+had	0	1
+something	1	0
+else	1	0
+to	0	1
+think	0	0
+of	1	2
+.	NA	NA

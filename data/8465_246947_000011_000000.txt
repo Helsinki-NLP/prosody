@@ -1,0 +1,12 @@
+Helen	2	0
+lifted	0	1
+a	0	0
+grateful	1	0
+look	0	1
+from	0	0
+eyes	2	0
+that	0	2
+swam	1	0
+in	0	1
+tears	2	2
+.	NA	NA

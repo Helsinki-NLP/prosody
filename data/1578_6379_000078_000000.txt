@@ -1,0 +1,11 @@
+That	2	0
+was	0	1
+the	0	0
+best	2	1
+part	1	0
+of	0	0
+it	0	1
+!	NA	NA
+Patty	0	0
+affirmed	1	2
+.	NA	NA

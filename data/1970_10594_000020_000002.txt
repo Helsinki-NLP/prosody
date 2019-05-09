@@ -1,0 +1,7 @@
+The	0	0
+word	2	0
+must	0	1
+come	0	0
+from	0	1
+you	2	2
+.	NA	NA

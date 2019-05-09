@@ -1,0 +1,8 @@
+They	2	0
+do	0	0
+not	1	1
+consent	2	2
+to	1	0
+be	0	0
+black	2	2
+.	NA	NA

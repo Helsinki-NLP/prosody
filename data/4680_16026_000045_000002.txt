@@ -1,0 +1,5 @@
+Tell	2	0
+me	0	1
+about	0	0
+it	1	2
+!	NA	NA

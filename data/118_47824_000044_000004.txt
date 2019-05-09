@@ -1,0 +1,12 @@
+Fact	2	0
+is	1	1
+,	NA	NA
+this	0	0
+fellow	1	0
+wants	0	1
+five	1	0
+dollars	1	2
+an	0	0
+outrageous	2	0
+rate	1	2
+.	NA	NA

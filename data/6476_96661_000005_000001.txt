@@ -1,0 +1,11 @@
+No	2	0
+two	1	0
+could	0	1
+be	0	0
+more	0	0
+different	1	2
+than	1	0
+these	1	1
+two	1	0
+were	1	2
+.	NA	NA

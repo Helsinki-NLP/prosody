@@ -1,0 +1,9 @@
+He	0	1
+put	2	0
+on	0	0
+his	0	1
+glasses	2	0
+and	0	0
+looked	0	1
+again	2	2
+.	NA	NA

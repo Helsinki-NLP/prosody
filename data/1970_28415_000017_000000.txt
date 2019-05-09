@@ -1,0 +1,16 @@
+The	0	0
+king	2	1
+for	0	0
+whom	1	0
+the	0	1
+Jews	1	0
+had	0	1
+been	0	0
+waiting	2	1
+had	0	0
+come	2	2
+at	1	0
+last	2	1
+to	1	0
+reign	2	2
+.	NA	NA

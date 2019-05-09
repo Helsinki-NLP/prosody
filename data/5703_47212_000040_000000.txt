@@ -1,0 +1,13 @@
+It	1	0
+was	0	0
+nearly	2	1
+three	0	1
+o'clock	2	0
+when	0	1
+they	0	0
+landed	1	0
+on	1	0
+the	0	1
+Inverashiel	1	1
+pier	2	2
+.	NA	NA

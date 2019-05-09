@@ -1,0 +1,10 @@
+Her	0	0
+manners	2	1
+suggest	1	1
+a	0	0
+person	2	0
+of	0	1
+considerable	0	0
+self	1	1
+control	2	2
+.	NA	NA

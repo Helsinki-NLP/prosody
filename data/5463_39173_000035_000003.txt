@@ -1,0 +1,17 @@
+What	1	0
+would	0	0
+the	0	0
+men	0	0
+do	2	1
+?	NA	NA
+and	0	0
+what	2	2
+oh	0	0
+!	NA	NA
+what	2	1
+would	0	0
+become	0	0
+of	0	0
+the	0	0
+women	1	2
+?	NA	NA

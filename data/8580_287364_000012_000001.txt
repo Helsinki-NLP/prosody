@@ -1,0 +1,8 @@
+Get	0	0
+him	0	0
+out	2	0
+and	0	2
+drop	1	0
+him	0	0
+overboard	1	2
+!	NA	NA

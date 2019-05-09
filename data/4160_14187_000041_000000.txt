@@ -1,0 +1,12 @@
+'But	2	1
+john	2	1
+Smith	2	0
+is	0	1
+the	0	0
+person	2	1
+who	0	0
+made	1	0
+the	0	1
+finger	0	0
+print	1	2
+.	NA	NA

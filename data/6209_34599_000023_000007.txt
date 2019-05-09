@@ -1,0 +1,15 @@
+At	0	0
+the	0	1
+side	2	2
+an	0	0
+inhabited	1	1
+pig	1	0
+sty	1	1
+told	1	0
+that	0	0
+the	0	0
+house	1	2
+was	0	0
+also	2	0
+inhabited	0	2
+.	NA	NA

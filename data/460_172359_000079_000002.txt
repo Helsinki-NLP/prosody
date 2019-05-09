@@ -1,0 +1,5 @@
+They	2	1
+give	1	0
+it	0	1
+away	2	2
+.	NA	NA

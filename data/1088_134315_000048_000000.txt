@@ -1,0 +1,6 @@
+Rum	1	0
+cove	2	1
+,	NA	NA
+said	0	0
+Fisher	1	2
+.	NA	NA

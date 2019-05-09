@@ -1,0 +1,11 @@
+But	1	1
+professional	2	0
+wine	1	0
+tasters	0	1
+are	0	0
+forbidden	2	0
+any	0	1
+cheese	2	1
+between	0	0
+sips	2	2
+.	NA	NA

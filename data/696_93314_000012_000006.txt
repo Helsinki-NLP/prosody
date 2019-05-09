@@ -1,0 +1,10 @@
+He	0	0
+went	1	0
+back	1	1
+to	0	0
+London	1	2
+,	NA	NA
+hell	2	0
+burning	1	0
+briskly	1	2
+.	NA	NA

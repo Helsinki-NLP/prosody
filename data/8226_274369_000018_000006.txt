@@ -1,0 +1,9 @@
+The	0	0
+opportunity	1	0
+was	0	0
+seized	0	1
+with	0	0
+joy	2	0
+and	0	1
+triumph	2	2
+.	NA	NA

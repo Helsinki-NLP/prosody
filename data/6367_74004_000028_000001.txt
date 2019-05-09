@@ -1,0 +1,11 @@
+His	0	0
+eyes	2	0
+just	0	2
+blazed	2	1
+,	NA	NA
+but	0	0
+his	0	0
+face	1	0
+went	0	1
+white	2	2
+.	NA	NA

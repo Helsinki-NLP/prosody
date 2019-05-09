@@ -1,0 +1,11 @@
+Teresa	1	1
+was	0	0
+lively	2	0
+and	0	0
+gay	1	2
+,	NA	NA
+but	0	0
+coquettish	2	0
+to	0	1
+excess	1	2
+.	NA	NA

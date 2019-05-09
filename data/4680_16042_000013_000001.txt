@@ -1,0 +1,4 @@
+Then	2	1
+he	0	0
+shuddered	1	2
+.	NA	NA

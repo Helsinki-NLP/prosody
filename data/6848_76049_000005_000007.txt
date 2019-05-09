@@ -1,0 +1,10 @@
+Old	2	0
+Grammont	0	2
+had	0	0
+made	2	0
+that	0	0
+woman	0	1
+sorry	1	0
+she	0	0
+spoke	2	2
+.	NA	NA

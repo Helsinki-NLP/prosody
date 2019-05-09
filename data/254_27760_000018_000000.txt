@@ -1,0 +1,11 @@
+Vanka	1	0
+sighed	0	1
+convulsively	1	2
+,	NA	NA
+and	0	0
+again	2	0
+stared	0	0
+at	0	1
+the	0	0
+window	2	2
+.	NA	NA

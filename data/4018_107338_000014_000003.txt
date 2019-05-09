@@ -1,0 +1,17 @@
+This	1	0
+led	2	1
+to	0	0
+a	0	0
+very	1	0
+long	2	1
+conversation	2	2
+in	0	0
+which	1	0
+he	0	0
+suddenly	2	0
+seemed	1	1
+to	0	0
+take	1	1
+great	2	0
+interest	1	2
+.	NA	NA

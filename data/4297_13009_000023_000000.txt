@@ -1,0 +1,5 @@
+So	2	0
+I	0	0
+am	0	1
+told	2	2
+.	NA	NA

@@ -1,0 +1,12 @@
+You	2	2
+are	0	0
+merely	1	0
+sitting	0	0
+in	0	0
+judgment	0	2
+on	1	0
+yourself	1	2
+.	NA	NA
+.	NA	NA
+.	NA	NA
+.	NA	NA

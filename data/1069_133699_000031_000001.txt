@@ -1,0 +1,16 @@
+I	0	0
+had	1	0
+a	0	0
+good	1	0
+deal	1	0
+of	0	1
+talk	2	0
+with	0	1
+him	1	2
+;	NA	NA
+he	0	1
+has	2	1
+come	0	0
+after	1	1
+you	1	2
+.	NA	NA

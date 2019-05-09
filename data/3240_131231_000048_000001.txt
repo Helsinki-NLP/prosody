@@ -1,0 +1,9 @@
+By	0	0
+way	2	0
+of	0	1
+contrast	2	2
+we	1	0
+offer	1	0
+our	0	0
+own	1	1
+acceptance	1	2

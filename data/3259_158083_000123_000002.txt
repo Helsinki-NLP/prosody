@@ -1,0 +1,4 @@
+Why	1	0
+not	1	1
+instantly	1	2
+?	NA	NA

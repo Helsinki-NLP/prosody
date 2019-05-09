@@ -1,0 +1,4 @@
+By	0	0
+mrs	1	1
+Alfred	1	0
+Gatty	1	2

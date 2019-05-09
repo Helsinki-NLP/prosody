@@ -1,0 +1,8 @@
+Jasper	1	1
+King	0	0
+,	NA	NA
+just	1	0
+look	1	0
+at	0	1
+Phronsie	2	2
+!	NA	NA

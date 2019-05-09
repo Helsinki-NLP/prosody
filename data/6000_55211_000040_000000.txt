@@ -1,0 +1,9 @@
+But	0	0
+I	0	1
+do	2	2
+that	2	0
+is	0	1
+,	NA	NA
+I	0	0
+must	1	2
+.	NA	NA

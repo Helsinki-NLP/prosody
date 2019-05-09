@@ -1,0 +1,10 @@
+Anna	2	1
+,	NA	NA
+I	0	0
+must	2	1
+warn	1	0
+you	0	1
+,	NA	NA
+he	0	0
+began	1	2
+.	NA	NA

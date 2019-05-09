@@ -1,0 +1,3 @@
+VON	2	0
+JUNG	0	2
+.	NA	NA

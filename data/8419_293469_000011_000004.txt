@@ -1,0 +1,15 @@
+I	2	0
+tried	2	0
+it	0	1
+again	2	0
+and	0	1
+again	2	0
+,	NA	NA
+and	0	1
+every	1	0
+time	1	0
+I	0	1
+hurt	0	0
+my	0	0
+head	2	2
+.	NA	NA

@@ -1,0 +1,17 @@
+As	0	0
+I	2	2
+,	NA	NA
+supplemented	1	0
+Father	0	0
+Brown	1	2
+,	NA	NA
+with	0	0
+a	0	0
+broad	2	0
+grin	1	1
+,	NA	NA
+was	1	0
+sitting	2	0
+just	0	1
+behind	2	0
+him	0	2

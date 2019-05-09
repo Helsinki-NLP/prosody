@@ -1,0 +1,11 @@
+He	0	0
+looked	2	1
+as	0	0
+she	0	1
+had	0	0
+never	1	0
+seen	0	1
+him	1	0
+look	1	1
+before	2	2
+.	NA	NA

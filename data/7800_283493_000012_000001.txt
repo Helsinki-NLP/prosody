@@ -1,0 +1,7 @@
+Bluff	2	2
+caught	1	0
+him	0	1
+by	0	0
+the	0	0
+arm	1	2
+.	NA	NA

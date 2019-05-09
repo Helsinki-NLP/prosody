@@ -1,0 +1,8 @@
+She	2	1
+understood	1	2
+,	NA	NA
+I	2	0
+know	0	0
+she	0	0
+did	0	2
+.	NA	NA

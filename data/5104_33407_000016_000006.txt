@@ -1,0 +1,12 @@
+On	1	0
+his	0	1
+head	2	0
+he	0	1
+put	0	0
+a	0	0
+knitted	1	1
+cap	2	0
+of	0	2
+bright	2	1
+colors	2	2
+.	NA	NA

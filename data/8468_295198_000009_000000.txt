@@ -1,0 +1,6 @@
+A	1	0
+fiddle	2	0
+on	0	0
+your	0	1
+constitution	1	2
+!	NA	NA

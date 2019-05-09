@@ -1,0 +1,15 @@
+Bite	1	0
+ye	2	1
+?	NA	NA
+I	1	0
+exclaimed	1	2
+,	NA	NA
+after	1	0
+satisfying	1	0
+myself	1	0
+that	0	1
+the	0	0
+fox	1	0
+was	0	1
+dead	2	2
+.	NA	NA

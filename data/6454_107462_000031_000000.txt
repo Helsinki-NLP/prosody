@@ -1,0 +1,8 @@
+It	0	0
+was	0	1
+so	2	2
+,	NA	NA
+said	1	0
+the	0	0
+widow	1	2
+.	NA	NA

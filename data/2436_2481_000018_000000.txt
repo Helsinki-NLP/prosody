@@ -1,0 +1,10 @@
+In	1	0
+there	2	2
+.	NA	NA
+I	0	0
+pounded	2	0
+on	0	0
+a	0	0
+twenty	0	0
+two	1	2
+.	NA	NA

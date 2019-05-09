@@ -1,0 +1,7 @@
+Poor	1	1
+fellow	1	1
+!	NA	NA
+said	1	0
+mrs	0	0
+Dale	2	2
+.	NA	NA

@@ -1,0 +1,4 @@
+CHAPTER	0	0
+twenty	0	1
+six	2	2
+.	NA	NA

@@ -1,0 +1,11 @@
+Put	2	0
+another	0	1
+plate	1	1
+,	NA	NA
+Norah	2	2
+,	NA	NA
+said	1	0
+mrs	0	0
+Wilmington	0	0
+carelessly	1	2
+.	NA	NA

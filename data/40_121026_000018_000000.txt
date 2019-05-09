@@ -1,0 +1,10 @@
+Ah	2	0
+,	NA	NA
+yes	1	1
+,	NA	NA
+said	0	0
+Faria	1	1
+;	NA	NA
+the	0	0
+penknife	2	2
+.	NA	NA

@@ -1,0 +1,7 @@
+Quickly	2	0
+,	NA	NA
+Wigan	1	2
+!	NA	NA
+Quarles	1	0
+cried	1	2
+.	NA	NA

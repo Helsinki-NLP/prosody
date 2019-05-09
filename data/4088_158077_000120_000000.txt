@@ -1,0 +1,7 @@
+Washington	2	2
+,	NA	NA
+july	0	0
+third	1	1
+nineteen	0	0
+seventeen	1	2
+.	NA	NA

@@ -1,0 +1,10 @@
+It	0	0
+doesn't	1	1
+take	1	1
+long	2	1
+to	0	0
+know	0	0
+a	0	1
+man	0	0
+then	2	2
+.	NA	NA

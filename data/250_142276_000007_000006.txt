@@ -1,0 +1,15 @@
+Helstone	2	0
+was	0	0
+at	0	1
+some	0	0
+distance	2	1
+from	0	0
+any	0	0
+neighbours	1	0
+of	0	1
+their	0	0
+own	1	1
+standard	2	0
+of	0	2
+cultivation	2	2
+.	NA	NA

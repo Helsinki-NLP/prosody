@@ -1,0 +1,11 @@
+He	0	0
+also	2	0
+believes	0	0
+that	0	1
+the	0	0
+psychological	1	0
+process	1	2
+operates	2	1
+through	0	0
+transference	1	2
+.	NA	NA

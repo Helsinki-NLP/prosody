@@ -1,0 +1,6 @@
+Here	2	1
+misery	1	0
+meets	0	1
+the	0	0
+ideal	1	2
+.	NA	NA

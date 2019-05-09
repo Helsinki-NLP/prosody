@@ -1,0 +1,15 @@
+But	0	1
+Lorenzo	2	0
+on	0	0
+his	0	1
+deathbed	2	0
+sent	1	0
+for	0	0
+him	1	2
+,	NA	NA
+and	0	0
+that	2	0
+was	0	0
+another	1	0
+matter	0	2
+.	NA	NA

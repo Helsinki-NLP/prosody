@@ -1,0 +1,6 @@
+The	0	1
+keeper's	1	0
+face	1	1
+brightened	2	0
+up	1	2
+.	NA	NA

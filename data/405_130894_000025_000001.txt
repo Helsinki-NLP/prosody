@@ -1,0 +1,13 @@
+I	1	0
+informed	2	1
+the	0	0
+captain	1	0
+of	0	1
+Ned's	1	0
+proposition	2	2
+,	NA	NA
+which	1	0
+was	0	0
+promptly	2	0
+accepted	2	2
+.	NA	NA

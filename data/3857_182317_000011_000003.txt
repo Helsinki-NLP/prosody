@@ -1,0 +1,16 @@
+The	1	0
+creatures	2	1
+that	0	0
+want	0	0
+to	0	0
+live	1	0
+a	0	0
+life	1	0
+of	0	1
+their	0	0
+own	1	1
+,	NA	NA
+we	1	1
+call	0	1
+wild	2	2
+.	NA	NA

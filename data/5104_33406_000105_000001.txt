@@ -1,0 +1,6 @@
+It	0	0
+is	1	1
+better	2	0
+than	0	1
+Iceland	2	2
+.	NA	NA

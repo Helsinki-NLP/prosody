@@ -1,0 +1,10 @@
+I	0	0
+hope	2	1
+he'll	0	0
+hate	0	1
+me	0	0
+then	1	2
+,	NA	NA
+said	0	0
+Isabel	2	2
+.	NA	NA

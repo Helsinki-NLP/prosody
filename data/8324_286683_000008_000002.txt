@@ -1,0 +1,13 @@
+He	0	1
+smiled	1	1
+all	2	0
+around	0	1
+his	0	0
+little	0	0
+mouth	2	2
+and	0	0
+showed	2	0
+his	0	0
+gnawing	0	0
+teeth	0	2
+.	NA	NA

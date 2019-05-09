@@ -1,0 +1,15 @@
+She	0	0
+didn't	0	0
+hurt	1	1
+me	0	0
+at	0	0
+all	1	2
+,	NA	NA
+but	0	0
+she	2	0
+would	0	1
+not	1	0
+let	0	0
+me	0	1
+go	2	2
+.	NA	NA

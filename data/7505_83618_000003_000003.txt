@@ -1,0 +1,11 @@
+The	0	0
+two	0	0
+nations	2	1
+were	0	0
+remote	2	0
+in	0	1
+everything	2	1
+but	0	0
+geographical	2	1
+position	2	2
+.	NA	NA

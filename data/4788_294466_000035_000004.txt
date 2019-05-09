@@ -1,0 +1,15 @@
+Her	1	0
+husband	2	0
+was	0	1
+a	0	0
+doctor	2	0
+and	0	1
+they	0	0
+lived	1	0
+back	2	0
+in	0	1
+Boston	2	1
+before	1	0
+he	0	1
+died	2	2
+.	NA	NA

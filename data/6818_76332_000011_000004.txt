@@ -1,0 +1,7 @@
+We	1	0
+never	2	1
+agreed	0	0
+about	0	0
+those	1	1
+questions	1	2
+.	NA	NA

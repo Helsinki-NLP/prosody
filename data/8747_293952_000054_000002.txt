@@ -1,0 +1,8 @@
+I	2	0
+heard	0	0
+he	0	1
+enlisted	1	1
+in	0	0
+the	0	0
+Lancers	2	2
+.	NA	NA

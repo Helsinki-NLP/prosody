@@ -1,0 +1,13 @@
+We	0	0
+call	2	0
+the	0	0
+valley	1	1
+Paradise	1	1
+Valley	0	0
+because	0	0
+it	0	0
+is	0	1
+the	0	0
+horses'	2	1
+paradise	1	2
+.	NA	NA

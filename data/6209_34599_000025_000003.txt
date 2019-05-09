@@ -1,0 +1,8 @@
+An	0	1
+iron	1	0
+knocker	2	1
+was	0	2
+attached	2	0
+to	1	0
+it	0	2
+.	NA	NA

@@ -1,0 +1,5 @@
+So	2	1
+!	NA	NA
+he	0	0
+sneered	0	2
+.	NA	NA

@@ -1,0 +1,5 @@
+There's	2	1
+enough	1	1
+for	0	0
+everyone	2	2
+.	NA	NA

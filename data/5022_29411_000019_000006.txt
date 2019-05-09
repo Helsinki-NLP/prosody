@@ -1,0 +1,12 @@
+She	1	0
+says	1	1
+so	1	0
+herself	2	2
+and	0	0
+she	1	0
+never	1	0
+told	0	1
+a	0	0
+lie	1	0
+yet	0	2
+.	NA	NA

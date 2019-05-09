@@ -1,0 +1,16 @@
+Let	2	0
+us	0	0
+hear	0	0
+the	0	0
+history	1	2
+,	NA	NA
+said	1	0
+Franz	1	1
+,	NA	NA
+motioning	1	1
+Signor	0	0
+Pastrini	1	1
+to	0	0
+seat	0	1
+himself	2	2
+.	NA	NA

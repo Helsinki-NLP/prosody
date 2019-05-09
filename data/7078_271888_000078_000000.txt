@@ -1,0 +1,11 @@
+You	0	1
+are	2	0
+at	0	1
+least	0	0
+sensible	0	1
+,	NA	NA
+Ethel	1	0
+,	NA	NA
+I	0	1
+said	2	2
+.	NA	NA

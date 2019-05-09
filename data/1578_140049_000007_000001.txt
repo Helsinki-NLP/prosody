@@ -1,0 +1,13 @@
+Well	2	0
+,	NA	NA
+you	0	2
+can	0	0
+go	1	0
+for	0	0
+an	0	0
+hour	0	0
+,	NA	NA
+and	0	1
+no	0	0
+more	1	2
+.	NA	NA

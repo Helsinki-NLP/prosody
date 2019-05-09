@@ -1,0 +1,10 @@
+The	1	0
+Mice	2	1
+will	0	0
+all	1	1
+be	0	0
+out	2	1
+sooner	0	0
+or	0	1
+later	2	2
+.	NA	NA

@@ -1,0 +1,12 @@
+He	1	0
+inquired	2	0
+next	1	1
+if	0	0
+I	1	0
+had	0	1
+brought	2	0
+his	0	1
+portfolio	2	1
+with	0	0
+me	1	2
+.	NA	NA

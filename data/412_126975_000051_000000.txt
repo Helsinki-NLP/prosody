@@ -1,0 +1,17 @@
+How	2	0
+even	0	0
+such	1	0
+a	0	1
+banquet	1	0
+of	0	1
+bosh	2	1
+was	0	0
+got	1	0
+ready	1	0
+in	0	1
+the	0	0
+time	2	2
+remained	2	1
+a	0	0
+riddle	2	2
+.	NA	NA

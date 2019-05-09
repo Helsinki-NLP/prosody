@@ -1,0 +1,6 @@
+I	1	0
+am	0	1
+not	2	0
+sure	0	1
+yet	2	2
+.	NA	NA

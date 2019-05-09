@@ -1,0 +1,16 @@
+Margaret	2	2
+,	NA	NA
+what	2	1
+comment	2	1
+can	0	0
+I	0	0
+make	1	0
+on	0	0
+the	0	1
+untimely	1	0
+extinction	0	0
+of	0	1
+this	0	0
+glorious	2	0
+spirit	1	2
+?	NA	NA

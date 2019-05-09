@@ -1,0 +1,4 @@
+He	0	0
+knocked	2	1
+once	2	2
+.	NA	NA

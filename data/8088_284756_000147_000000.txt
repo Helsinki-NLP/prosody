@@ -1,0 +1,9 @@
+Mercer	2	0
+was	0	1
+bending	0	0
+over	1	0
+me	0	2
+;	NA	NA
+speaking	0	0
+softly	2	2
+.	NA	NA

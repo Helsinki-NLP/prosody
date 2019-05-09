@@ -1,0 +1,13 @@
+He	0	0
+seemed	1	0
+confounded	1	2
+,	NA	NA
+and	0	0
+hung	1	0
+his	0	1
+head	2	0
+as	0	0
+if	1	1
+thoroughly	1	0
+abashed	1	2
+.	NA	NA

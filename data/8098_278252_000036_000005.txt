@@ -1,0 +1,13 @@
+If	0	1
+not	2	2
+,	NA	NA
+don't	1	0
+let	0	0
+your	0	1
+curiosity	1	1
+get	0	0
+the	0	1
+better	2	0
+of	0	1
+you	0	2
+.	NA	NA

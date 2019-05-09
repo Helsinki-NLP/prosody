@@ -1,0 +1,14 @@
+All	2	0
+day	1	1
+he	0	0
+slept	1	0
+in	0	1
+the	0	0
+servants'	1	0
+kitchen	1	2
+or	2	0
+trifled	0	1
+with	0	0
+the	0	0
+cooks	2	2
+.	NA	NA

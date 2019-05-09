@@ -1,0 +1,16 @@
+Patricius	2	0
+watched	1	1
+them	0	0
+together	2	2
+,	NA	NA
+and	0	0
+marvelled	2	0
+at	0	0
+the	0	0
+effects	2	1
+of	0	0
+the	0	0
+grace	2	0
+of	0	1
+Baptism	1	2
+.	NA	NA

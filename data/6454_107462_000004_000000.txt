@@ -1,0 +1,3 @@
+nineteen	1	1
+twenty	0	0
+two	2	2

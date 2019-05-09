@@ -1,0 +1,8 @@
+In	0	0
+your	2	0
+place	0	2
+,	NA	NA
+I	1	0
+should	0	0
+enlist	2	2
+.	NA	NA

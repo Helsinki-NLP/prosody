@@ -1,0 +1,5 @@
+I	2	0
+feel	0	1
+better	1	0
+now	2	2
+.	NA	NA

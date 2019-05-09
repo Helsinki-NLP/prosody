@@ -1,0 +1,15 @@
+But	2	0
+in	0	1
+the	0	0
+matter	1	0
+of	0	0
+our	0	1
+Social	1	0
+History	1	2
+he	0	0
+has	1	0
+no	1	0
+choice	1	1
+at	0	0
+all	2	2
+.	NA	NA

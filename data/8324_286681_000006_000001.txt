@@ -1,0 +1,17 @@
+I	2	1
+suppose	2	1
+I	1	0
+am	0	1
+braver	2	1
+because	1	0
+I	0	0
+wear	2	1
+so	0	0
+many	0	0
+of	0	1
+my	0	0
+bones	1	0
+on	0	1
+the	0	1
+outside	2	2
+.	NA	NA

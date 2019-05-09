@@ -1,0 +1,7 @@
+Outina	2	0
+was	0	1
+nowhere	1	0
+to	0	1
+be	0	0
+seen	2	2
+.	NA	NA

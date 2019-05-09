@@ -1,0 +1,5 @@
+mr	0	0
+Hoopdriver	1	0
+felt	1	1
+flattered	2	2
+.	NA	NA

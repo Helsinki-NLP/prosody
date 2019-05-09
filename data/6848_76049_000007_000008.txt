@@ -1,0 +1,6 @@
+How	2	0
+could	0	0
+one	1	1
+do	2	1
+it	0	2
+?	NA	NA

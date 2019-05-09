@@ -1,0 +1,9 @@
+What	2	0
+are	0	0
+your	2	0
+feelings	1	1
+about	1	0
+these	0	1
+man	0	0
+eaters	1	2
+?	NA	NA

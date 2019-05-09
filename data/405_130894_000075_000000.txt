@@ -1,0 +1,11 @@
+When	0	0
+I	2	0
+returned	1	0
+on	0	1
+board	1	1
+,	NA	NA
+I	1	0
+felt	2	2
+half	2	0
+suffocated	1	2
+.	NA	NA

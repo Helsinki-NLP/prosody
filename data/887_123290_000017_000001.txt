@@ -1,0 +1,13 @@
+In	0	1
+fact	2	2
+we	0	0
+were	0	0
+not	2	0
+upon	0	1
+the	0	0
+north	1	0
+shore	1	0
+of	0	1
+the	0	0
+sea	1	2
+.	NA	NA

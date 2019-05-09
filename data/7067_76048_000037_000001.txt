@@ -1,0 +1,8 @@
+But	2	1
+.	NA	NA
+.	NA	NA
+.	NA	NA
+it	1	0
+frightens	2	0
+me	0	2
+.	NA	NA

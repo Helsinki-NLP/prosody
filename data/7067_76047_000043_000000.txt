@@ -1,0 +1,11 @@
+What	2	2
+would	0	0
+a	0	0
+rich	0	1
+girl	1	1
+find	2	0
+out	0	1
+there	1	0
+in	0	1
+America	1	2
+?	NA	NA

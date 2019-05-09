@@ -1,0 +1,10 @@
+Who	2	0
+speaks	1	1
+to	0	0
+me	0	0
+so	1	0
+gently	2	2
+?	NA	NA
+asked	2	0
+she	2	2
+.	NA	NA

@@ -1,0 +1,11 @@
+This	2	0
+may	0	0
+be	0	1
+sometimes	1	0
+actually	2	1
+a	0	0
+virtue	1	2
+in	0	0
+his	0	0
+comedy	2	2
+.	NA	NA

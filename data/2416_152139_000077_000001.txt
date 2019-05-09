@@ -1,0 +1,15 @@
+Let	1	0
+me	0	0
+out	1	0
+of	0	2
+this	0	0
+for	0	1
+God's	2	1
+sake	1	2
+,	NA	NA
+let	1	0
+me	0	0
+out	1	0
+of	0	1
+this	1	2
+!	NA	NA

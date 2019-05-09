@@ -1,0 +1,16 @@
+He	0	1
+had	0	0
+ridden	2	0
+from	0	0
+the	0	1
+door	1	0
+of	0	0
+the	0	1
+Peacock	2	2
+at	2	0
+about	0	0
+a	0	1
+quarter	2	0
+to	0	0
+eight	1	2
+.	NA	NA

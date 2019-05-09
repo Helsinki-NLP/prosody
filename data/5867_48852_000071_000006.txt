@@ -1,0 +1,16 @@
+I	2	0
+am	0	0
+not	1	1
+blaming	1	1
+him	0	0
+,	NA	NA
+remember	2	2
+.	NA	NA
+These	2	0
+things	0	0
+are	0	1
+different	2	1
+with	0	0
+a	0	0
+man	1	2
+.	NA	NA

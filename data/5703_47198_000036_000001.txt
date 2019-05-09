@@ -1,0 +1,7 @@
+But	0	0
+I	2	1
+hope	2	1
+they'll	1	1
+tell	1	0
+me	1	2
+.	NA	NA

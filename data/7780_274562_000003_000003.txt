@@ -1,0 +1,15 @@
+He	0	0
+admitted	2	0
+but	0	1
+four	1	0
+unvarying	0	0
+laws	2	2
+,	NA	NA
+or	1	0
+rather	0	0
+elementary	0	0
+principles	2	1
+,	NA	NA
+of	2	0
+Bliss	1	2
+.	NA	NA

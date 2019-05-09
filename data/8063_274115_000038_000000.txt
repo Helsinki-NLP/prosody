@@ -1,0 +1,11 @@
+As	0	0
+soon	1	0
+as	0	1
+they	1	0
+had	1	1
+finished	1	2
+eating	1	1
+they	0	0
+set	0	0
+off	2	2
+.	NA	NA

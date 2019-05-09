@@ -1,0 +1,15 @@
+Why	1	0
+,	NA	NA
+Annie	2	1
+,	NA	NA
+she	0	0
+said	1	2
+,	NA	NA
+how	2	0
+glad	1	0
+I	0	0
+am	0	1
+to	0	0
+see	2	0
+you	0	2
+!	NA	NA

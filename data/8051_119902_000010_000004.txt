@@ -1,0 +1,13 @@
+In	1	0
+pies	2	1
+and	0	0
+cakes	2	1
+there	1	0
+must	0	1
+be	1	0
+at	0	0
+least	0	1
+one	0	0
+third	2	1
+substitute	1	2
+.	NA	NA

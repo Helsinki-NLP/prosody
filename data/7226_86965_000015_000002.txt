@@ -1,0 +1,17 @@
+It	1	0
+is	0	1
+a	0	0
+great	2	1
+pity	1	0
+that	0	1
+so	1	0
+many	0	1
+farmers'	2	1
+wives	1	1
+are	0	0
+the	0	0
+wretched	1	1
+cooks	2	1
+they	0	0
+are	2	2
+.	NA	NA

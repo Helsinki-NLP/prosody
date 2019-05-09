@@ -1,0 +1,7 @@
+That's	1	1
+Barry's	1	0
+pond	2	1
+,	NA	NA
+said	1	0
+matthew	0	2
+.	NA	NA

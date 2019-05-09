@@ -1,0 +1,7 @@
+Rawdon	2	0
+answered	1	2
+it	1	0
+was	0	0
+Lord	1	1
+Steyne	1	2
+.	NA	NA

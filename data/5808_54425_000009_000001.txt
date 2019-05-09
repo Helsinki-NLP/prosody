@@ -1,0 +1,14 @@
+For	1	0
+instance	1	2
+,	NA	NA
+the	0	0
+whole	2	0
+way	0	0
+of	0	1
+a	0	0
+family's	2	0
+life	2	1
+may	0	0
+be	0	0
+changed	1	2
+.	NA	NA

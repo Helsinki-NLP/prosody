@@ -1,0 +1,8 @@
+Louis	2	0
+the	0	0
+thirteenth	1	1
+appeared	1	0
+,	NA	NA
+walking	0	1
+fast	2	2
+.	NA	NA

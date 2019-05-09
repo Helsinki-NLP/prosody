@@ -1,0 +1,5 @@
+On	2	1
+the	0	0
+second	1	1
+occasion	1	2
+.	NA	NA

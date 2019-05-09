@@ -1,0 +1,9 @@
+A	0	0
+scene	2	0
+occurred	0	1
+between	0	0
+us	1	2
+and	2	0
+we	0	0
+parted	1	2
+.	NA	NA

@@ -1,0 +1,7 @@
+But	1	0
+if	0	0
+your	0	0
+excellency	1	1
+doubt	1	0
+my	0	1
+veracity	2	2

@@ -1,0 +1,11 @@
+He	0	0
+stretched	0	0
+out	2	0
+on	0	1
+the	0	0
+blankets	2	1
+and	0	0
+was	0	0
+instantly	1	1
+asleep	2	2
+.	NA	NA

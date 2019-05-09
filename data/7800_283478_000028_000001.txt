@@ -1,0 +1,13 @@
+There	2	0
+was	0	0
+a	0	1
+twinkle	1	0
+in	0	1
+his	0	0
+eye	1	0
+as	0	1
+he	0	0
+observed	2	1
+Frank	0	0
+Langdon	2	2
+.	NA	NA

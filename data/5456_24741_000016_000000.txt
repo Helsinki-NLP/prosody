@@ -1,0 +1,10 @@
+Note	2	2
+.	NA	NA
+We	0	0
+now	2	0
+clearly	0	0
+see	0	0
+what	0	1
+Memory	0	0
+is	1	2
+.	NA	NA

@@ -1,0 +1,9 @@
+The	0	0
+old	2	0
+lady	1	1
+,	NA	NA
+too	0	0
+,	NA	NA
+seemed	0	1
+excited	2	2
+.	NA	NA

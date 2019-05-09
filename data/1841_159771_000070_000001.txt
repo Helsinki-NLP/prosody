@@ -1,0 +1,6 @@
+He	2	0
+must	0	1
+be	0	0
+miles	0	1
+away	2	2
+.	NA	NA

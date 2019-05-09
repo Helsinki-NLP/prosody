@@ -1,0 +1,5 @@
+Why	2	1
+?	NA	NA
+asked	1	0
+Franz	0	2
+.	NA	NA

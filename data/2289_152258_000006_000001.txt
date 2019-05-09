@@ -1,0 +1,13 @@
+He	0	0
+could	0	0
+neither	0	0
+read	1	1
+nor	2	0
+write	0	2
+.	NA	NA
+But	0	0
+he	1	0
+was	0	0
+not	1	0
+ignorant	0	2
+.	NA	NA

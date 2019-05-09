@@ -1,0 +1,8 @@
+Thirty	0	0
+seven	2	0
+minutes	1	2
+six	1	0
+seconds	0	0
+past	1	0
+ten	1	2
+.	NA	NA

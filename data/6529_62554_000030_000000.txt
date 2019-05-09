@@ -1,0 +1,17 @@
+Possibly	2	1
+,	0	0
+mr	NA	NA
+Spilett	0	0
+,	NA	NA
+replied	1	1
+the	0	0
+sailor	1	1
+,	NA	NA
+but	0	0
+that	1	0
+is	0	0
+how	1	0
+I	0	0
+imagine	1	1
+him	0	2
+!	NA	NA

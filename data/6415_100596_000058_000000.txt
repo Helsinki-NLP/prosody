@@ -1,0 +1,5 @@
+Priscilla	2	0
+faced	1	1
+her	0	0
+ominously	1	2
+.	NA	NA

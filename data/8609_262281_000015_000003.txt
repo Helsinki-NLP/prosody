@@ -1,0 +1,7 @@
+She	2	0
+is	0	1
+too	0	0
+young	2	0
+to	0	1
+go	1	2
+.	NA	NA

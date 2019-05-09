@@ -1,0 +1,8 @@
+Theoretically	2	1
+she	0	0
+had	1	0
+a	0	1
+tremendously	2	1
+good	0	0
+time	2	2
+.	NA	NA

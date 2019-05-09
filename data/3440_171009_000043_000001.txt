@@ -1,0 +1,10 @@
+I	2	1
+do	0	0
+believe	0	0
+he's	0	0
+just	1	0
+the	0	1
+crossest	2	1
+man	0	0
+alive	1	2
+!	NA	NA

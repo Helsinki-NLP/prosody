@@ -1,0 +1,7 @@
+Yes	2	2
+,	NA	NA
+there	0	0
+was	0	0
+one	0	1
+here	2	2
+.	NA	NA

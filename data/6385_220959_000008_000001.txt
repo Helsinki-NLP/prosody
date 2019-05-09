@@ -1,0 +1,15 @@
+These	2	0
+expressions	0	0
+are	0	0
+metaphors	1	2
+,	NA	NA
+allegories	2	2
+,	NA	NA
+mystic	2	0
+explanations	0	1
+in	0	0
+the	0	0
+world	1	0
+of	0	1
+signification	2	2
+.	NA	NA

@@ -1,0 +1,6 @@
+And	2	0
+in	0	1
+many	0	0
+ways	1	1
+interesting	1	2
+.	NA	NA

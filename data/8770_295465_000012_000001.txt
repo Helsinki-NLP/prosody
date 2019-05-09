@@ -1,0 +1,16 @@
+That	2	0
+was	0	1
+the	0	0
+meaning	1	0
+of	0	1
+their	0	0
+song	2	1
+as	0	0
+they	0	0
+trooped	2	1
+to	0	0
+the	0	1
+front	2	0
+at	0	1
+his	0	1
+call	2	2

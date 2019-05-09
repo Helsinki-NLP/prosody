@@ -1,0 +1,10 @@
+Often	2	0
+the	0	1
+complex	1	1
+nature	0	0
+of	0	1
+the	0	0
+problem	1	0
+is	0	1
+ignored	2	2
+.	NA	NA

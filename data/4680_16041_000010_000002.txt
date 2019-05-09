@@ -1,0 +1,10 @@
+For	1	0
+the	0	0
+passers	1	1
+by	1	1
+now	2	1
+amounted	0	1
+to	0	0
+a	0	0
+crowd	2	2
+.	NA	NA

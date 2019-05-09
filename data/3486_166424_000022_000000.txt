@@ -1,0 +1,12 @@
+A	0	0
+rifle	2	1
+shot	0	0
+rang	0	1
+out	0	0
+above	1	0
+us	0	2
+;	NA	NA
+another	2	2
+and	0	0
+another	1	2
+.	NA	NA

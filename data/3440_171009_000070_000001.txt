@@ -1,0 +1,5 @@
+He	0	0
+must	1	0
+be	0	1
+cross	2	2
+.	NA	NA

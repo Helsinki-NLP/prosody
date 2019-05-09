@@ -1,0 +1,13 @@
+An	0	1
+urgent	2	0
+demand	1	2
+for	0	0
+special	2	0
+machinery	0	1
+raises	1	1
+quickly	1	1
+its	0	0
+rent	2	1
+and	0	0
+value	2	2
+.	NA	NA

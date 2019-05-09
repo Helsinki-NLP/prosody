@@ -1,0 +1,13 @@
+These	2	0
+were	0	0
+the	0	1
+first	2	0
+tears	1	1
+the	0	0
+man	2	0
+of	0	2
+blood	2	0
+had	0	0
+ever	0	0
+wept	2	2
+.	NA	NA

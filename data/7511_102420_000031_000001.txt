@@ -1,0 +1,11 @@
+He	0	0
+seated	1	1
+himself	1	1
+and	0	0
+took	1	0
+from	0	0
+the	0	0
+bundle	1	0
+an	0	1
+accordion	2	2
+!	NA	NA

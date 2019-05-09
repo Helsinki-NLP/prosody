@@ -1,0 +1,17 @@
+Homo	2	0
+turned	0	0
+his	0	1
+head	1	0
+now	0	0
+and	0	0
+then	1	2
+,	NA	NA
+to	0	0
+make	2	0
+sure	1	0
+that	0	1
+Gwynplaine	0	0
+was	0	1
+behind	1	0
+him	0	2
+.	NA	NA

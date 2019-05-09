@@ -1,0 +1,16 @@
+He	1	0
+whom	0	0
+all	1	0
+supports	1	0
+were	0	1
+failing	2	1
+felt	2	0
+that	0	1
+he	1	0
+was	0	0
+himself	2	2
+a	0	0
+basis	2	1
+of	0	0
+support	2	2
+.	NA	NA

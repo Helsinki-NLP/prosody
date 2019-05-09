@@ -1,0 +1,6 @@
+Truly	1	0
+an	0	1
+excellent	0	0
+young	0	0
+man	2	2
+.	NA	NA

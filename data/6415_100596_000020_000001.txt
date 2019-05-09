@@ -1,0 +1,16 @@
+You've	2	1
+mistaken	1	1
+the	0	0
+name	1	2
+,	NA	NA
+she	0	0
+remarked	0	1
+,	NA	NA
+handing	2	0
+the	0	1
+book	1	1
+back	2	0
+with	0	1
+a	0	0
+shrug	2	2
+.	NA	NA

@@ -1,0 +1,7 @@
+In	0	0
+a	0	0
+moment	2	1
+,	NA	NA
+said	0	0
+Harding	1	2
+.	NA	NA

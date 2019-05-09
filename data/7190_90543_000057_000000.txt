@@ -1,0 +1,9 @@
+Nor	1	0
+counters	2	0
+,	NA	NA
+I	0	1
+suppose	1	1
+,	NA	NA
+I	0	0
+interrupted	2	2
+.	NA	NA

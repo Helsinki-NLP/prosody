@@ -1,0 +1,17 @@
+Peerage	2	0
+,	NA	NA
+riches	0	1
+,	NA	NA
+power	2	0
+,	NA	NA
+rank	0	2
+all	2	0
+these	0	1
+things	0	0
+left	0	1
+Lord	1	0
+David	0	0
+and	0	1
+entered	0	0
+Gwynplaine	1	2
+.	NA	NA

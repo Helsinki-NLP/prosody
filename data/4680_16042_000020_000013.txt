@@ -1,0 +1,3 @@
+Why	2	0
+not	0	2
+?	NA	NA

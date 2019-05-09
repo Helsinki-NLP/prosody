@@ -1,0 +1,8 @@
+I'm	2	0
+going	0	0
+in	1	2
+,	NA	NA
+I	1	0
+said	0	1
+hoarsely	2	2
+.	NA	NA

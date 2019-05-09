@@ -1,0 +1,14 @@
+It	0	0
+was	0	0
+three	2	0
+o'clock	2	2
+when	0	0
+we	0	0
+donks	2	1
+were	0	0
+picketed	1	2
+and	0	0
+allowed	1	0
+to	0	1
+graze	2	2
+.	NA	NA

@@ -1,0 +1,15 @@
+Yet	0	0
+underlying	1	0
+all	0	1
+this	2	1
+there	0	0
+ran	1	0
+a	1	1
+vein	2	0
+of	0	1
+good	0	0
+cheer	1	2
+,	NA	NA
+of	0	0
+hopefulness	2	2
+.	NA	NA

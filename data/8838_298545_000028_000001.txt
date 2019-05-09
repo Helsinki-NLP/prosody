@@ -1,0 +1,9 @@
+I	0	0
+could	1	1
+stan'	2	0
+such	0	1
+fly	1	0
+flappin'	0	0
+all	1	1
+day	2	2
+.	NA	NA

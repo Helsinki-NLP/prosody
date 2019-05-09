@@ -1,0 +1,17 @@
+If	2	0
+they	1	0
+come	1	0
+,	NA	NA
+you	0	0
+shall	0	1
+treat	1	0
+them	0	1
+politely	2	1
+,	NA	NA
+you	0	0
+young	0	0
+dog	2	2
+,	NA	NA
+said	0	0
+he	2	2
+.	NA	NA

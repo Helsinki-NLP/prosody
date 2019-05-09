@@ -1,0 +1,8 @@
+Your	2	0
+uncle	0	1
+and	0	0
+Bell	2	0
+came	0	1
+yesterday	0	0
+afternoon	1	2
+.	NA	NA

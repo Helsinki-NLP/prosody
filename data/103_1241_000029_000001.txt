@@ -1,0 +1,4 @@
+I	0	0
+don't	2	1
+mind	1	2
+.	NA	NA

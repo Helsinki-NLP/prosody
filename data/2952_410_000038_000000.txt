@@ -1,0 +1,10 @@
+You	0	0
+have	0	0
+guessed	1	0
+rightly	1	0
+,	NA	NA
+Sir	1	2
+,	NA	NA
+Kwairyo	2	1
+responded	2	2
+.	NA	NA

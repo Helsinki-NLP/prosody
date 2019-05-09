@@ -1,0 +1,15 @@
+The	1	1
+unfortunate	2	0
+youth	0	1
+was	0	0
+intrepid	1	0
+in	0	0
+the	0	0
+attack	1	2
+,	NA	NA
+and	2	0
+rude	0	0
+in	0	0
+the	0	1
+defence	2	2
+.	NA	NA

@@ -1,0 +1,10 @@
+How	1	0
+can	0	1
+you	0	0
+say	2	0
+such	0	1
+things	2	2
+!	NA	NA
+she	0	0
+remonstrated	1	2
+.	NA	NA

@@ -1,0 +1,12 @@
+You	0	0
+see	2	2
+,	NA	NA
+we	1	0
+know	2	0
+these	0	1
+people	1	1
+,	NA	NA
+more	1	0
+or	0	0
+less	1	2
+.	NA	NA

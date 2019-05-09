@@ -1,0 +1,14 @@
+There	1	0
+is	0	0
+a	0	0
+hack	2	1
+driver	1	1
+outside	2	2
+who	0	0
+is	0	0
+even	0	1
+more	1	0
+suspicious	0	1
+than	0	0
+you	2	2
+.	NA	NA

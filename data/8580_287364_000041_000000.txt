@@ -1,0 +1,8 @@
+Then	1	0
+I'll	1	0
+help	1	2
+you	0	0
+get	0	0
+it	0	0
+out	2	2
+!	NA	NA

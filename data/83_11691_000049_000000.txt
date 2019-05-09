@@ -1,0 +1,16 @@
+The	0	0
+second	2	2
+was	2	0
+that	0	1
+Coronel	1	0
+should	0	1
+go	0	0
+back	1	1
+that	1	1
+afternoon	2	1
+and	2	0
+kill	1	0
+the	0	0
+old	0	0
+woman	1	2
+.	NA	NA

@@ -1,0 +1,10 @@
+Gloody	2	0
+at	0	1
+once	1	1
+acknowledged	2	1
+that	0	0
+we	0	0
+had	0	0
+no	0	1
+proof	2	2
+.	NA	NA

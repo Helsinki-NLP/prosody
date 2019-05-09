@@ -1,0 +1,11 @@
+I	0	0
+wonder	2	0
+if	0	1
+he's	0	0
+really	1	0
+here	2	2
+?	NA	NA
+whispered	2	0
+mr	0	0
+Damon	1	2
+.	NA	NA

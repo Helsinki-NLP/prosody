@@ -1,0 +1,13 @@
+He	0	0
+shuddered	2	1
+and	0	0
+shrank	1	0
+from	0	0
+them	0	2
+,	NA	NA
+and	0	0
+the	0	0
+whole	2	0
+earth	0	1
+trembled	1	2
+.	NA	NA

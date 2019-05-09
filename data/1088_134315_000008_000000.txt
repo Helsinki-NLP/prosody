@@ -1,0 +1,3 @@
+REMINGTON	2	0
+KARA	1	2
+.	NA	NA

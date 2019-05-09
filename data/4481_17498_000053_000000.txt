@@ -1,0 +1,11 @@
+Yes	2	1
+,	NA	NA
+daddy	0	1
+;	NA	NA
+but	0	0
+I	0	0
+won't	2	0
+,	NA	NA
+of	0	2
+course	2	2
+.	NA	NA

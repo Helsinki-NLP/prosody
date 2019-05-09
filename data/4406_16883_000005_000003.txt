@@ -1,0 +1,12 @@
+When	0	0
+I	0	0
+had	2	1
+done	2	0
+it	0	0
+,	NA	NA
+he	0	0
+would	0	2
+pay	2	0
+me	0	1
+nothing	2	2
+.	NA	NA

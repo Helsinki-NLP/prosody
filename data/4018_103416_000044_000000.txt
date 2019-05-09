@@ -1,0 +1,12 @@
+I've	1	0
+got	2	0
+the	0	1
+money	2	1
+for	0	0
+you	0	1
+,	NA	NA
+darling	2	1
+,	NA	NA
+she	0	0
+said	2	2
+.	NA	NA

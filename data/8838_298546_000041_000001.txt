@@ -1,0 +1,6 @@
+I	0	0
+have	0	0
+never	1	0
+claimed	0	1
+one	2	2
+.	NA	NA

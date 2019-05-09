@@ -1,0 +1,8 @@
+The	0	0
+snow	2	0
+was	0	1
+falling	1	1
+thickly	1	1
+and	2	0
+mournfully	1	2
+.	NA	NA

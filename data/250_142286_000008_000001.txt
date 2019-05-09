@@ -1,0 +1,7 @@
+But	2	0
+about	1	1
+the	0	0
+horses	2	0
+I'm	0	1
+determined	1	2
+.	NA	NA

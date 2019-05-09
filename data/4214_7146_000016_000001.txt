@@ -1,0 +1,9 @@
+Our	1	1
+potato	1	0
+crop	1	0
+is	0	2
+very	2	0
+good	0	0
+this	1	1
+year	1	2
+.	NA	NA

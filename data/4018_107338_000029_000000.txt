@@ -1,0 +1,7 @@
+My	0	0
+father's	2	1
+downfall	2	1
+!	NA	NA
+said	0	0
+Sybil	1	2
+.	NA	NA

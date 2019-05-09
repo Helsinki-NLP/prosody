@@ -1,0 +1,10 @@
+I	1	0
+expect	2	1
+you	0	0
+will	0	0
+find	1	0
+Miss	0	1
+Byrne	2	0
+up	0	1
+there	2	2
+.	NA	NA

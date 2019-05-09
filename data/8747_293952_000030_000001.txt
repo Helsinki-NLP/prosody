@@ -1,0 +1,7 @@
+Why	2	0
+did	0	0
+you	0	1
+accept	1	1
+me	1	0
+then	1	2
+?	NA	NA

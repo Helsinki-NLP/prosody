@@ -1,0 +1,8 @@
+Come	2	0
+,	NA	NA
+you	0	1
+pig	1	0
+,	NA	NA
+stuff	1	0
+yourself	1	2
+!	NA	NA

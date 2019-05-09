@@ -1,0 +1,15 @@
+She	0	1
+smiled	2	1
+,	NA	NA
+and	0	0
+kissed	0	0
+her	1	0
+hand	1	2
+,	NA	NA
+and	2	0
+fluttered	2	0
+out	0	0
+of	0	1
+the	0	0
+room	1	2
+.	NA	NA

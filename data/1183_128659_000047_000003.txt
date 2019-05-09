@@ -1,0 +1,6 @@
+Blue	2	0
+is	0	1
+the	0	0
+favorite	0	1
+color	2	2
+.	NA	NA

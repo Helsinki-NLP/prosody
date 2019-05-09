@@ -1,0 +1,14 @@
+Don't	1	0
+be	1	1
+impudent	1	1
+to	0	0
+me	1	1
+,	NA	NA
+boy	1	1
+!	NA	NA
+snapped	1	1
+the	0	0
+old	1	0
+miser	0	0
+angrily	1	2
+.	NA	NA

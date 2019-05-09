@@ -1,0 +1,6 @@
+Why	1	0
+was	0	0
+Miss	1	1
+Tilney	0	0
+embarrassed	1	2
+?	NA	NA

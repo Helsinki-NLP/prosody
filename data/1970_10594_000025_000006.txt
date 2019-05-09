@@ -1,0 +1,3 @@
+That	1	0
+I	0	1
+might	2	2

@@ -1,0 +1,13 @@
+They	1	0
+were	0	0
+attuned	2	2
+to	0	0
+the	1	0
+eternal	1	1
+peace	1	1
+of	0	0
+Eastern	0	1
+sky	1	0
+and	0	1
+sea	2	2
+.	NA	NA

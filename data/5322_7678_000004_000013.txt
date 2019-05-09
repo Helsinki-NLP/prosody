@@ -1,0 +1,15 @@
+He	0	0
+felt	2	1
+cool	2	1
+and	0	0
+comfortable	1	2
+and	0	0
+did	0	0
+not	2	1
+think	1	0
+of	0	1
+or	0	0
+wish	1	0
+for	0	0
+anything	0	2
+.	NA	NA

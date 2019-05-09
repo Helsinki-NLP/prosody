@@ -1,0 +1,15 @@
+At	0	0
+first	1	1
+they	0	0
+ate	0	0
+the	0	0
+food	0	1
+raw	2	2
+,	NA	NA
+tearing	2	1
+the	0	0
+flesh	1	0
+from	0	1
+the	0	0
+shells	1	2
+.	NA	NA

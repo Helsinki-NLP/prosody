@@ -1,0 +1,10 @@
+Your	2	0
+absence	1	1
+was	0	0
+the	0	0
+only	1	0
+drawback	0	1
+,	NA	NA
+she	0	0
+answered	1	2
+.	NA	NA

@@ -1,0 +1,12 @@
+The	0	1
+admission	2	0
+of	0	1
+additional	2	0
+water	0	0
+was	0	0
+enough	1	1
+to	0	0
+shift	1	0
+its	0	1
+balance	2	2
+.	NA	NA

@@ -1,0 +1,16 @@
+There	2	0
+is	0	0
+nothing	0	0
+abroad	2	0
+here	0	0
+but	0	2
+the	0	0
+stars	2	1
+,	NA	NA
+she	2	0
+answered	0	1
+,	NA	NA
+flitting	1	1
+before	1	0
+them	0	2
+.	NA	NA

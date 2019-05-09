@@ -1,0 +1,12 @@
+He	0	0
+would	2	0
+be	1	0
+a	1	1
+stranger	0	0
+there	1	1
+,	NA	NA
+even	1	0
+among	1	0
+his	0	1
+kin	2	2
+.	NA	NA

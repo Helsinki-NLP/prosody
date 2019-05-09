@@ -1,0 +1,11 @@
+Oh	2	1
+,	NA	NA
+I	0	0
+wish	2	0
+you'd	0	2
+do	2	0
+it	0	1
+to	0	0
+this	2	1
+company	1	2
+.	NA	NA

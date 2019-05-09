@@ -1,0 +1,5 @@
+As	2	0
+one	1	0
+Japanese	0	1
+has	0	0
+written	1	2

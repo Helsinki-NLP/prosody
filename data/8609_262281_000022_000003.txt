@@ -1,0 +1,13 @@
+It	0	0
+must	1	0
+be	0	0
+commenced	1	0
+gradually	2	2
+,	NA	NA
+almost	1	0
+imperceptibly	2	2
+,	NA	NA
+little	0	0
+by	1	0
+little	0	2
+.	NA	NA

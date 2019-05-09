@@ -1,0 +1,11 @@
+I	0	0
+do	0	1
+sometimes	2	2
+,	NA	NA
+he	0	0
+said	2	1
+,	NA	NA
+tapping	1	0
+his	0	1
+pocket	1	2
+.	NA	NA

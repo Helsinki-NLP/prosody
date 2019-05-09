@@ -1,0 +1,8 @@
+There	2	0
+the	0	0
+Carnival	1	2
+forms	2	0
+part	0	0
+of	0	1
+politics	1	2
+.	NA	NA

@@ -1,0 +1,14 @@
+She'd	2	0
+like	1	1
+Gardencourt	1	1
+a	0	0
+great	2	1
+deal	0	0
+better	1	0
+if	0	0
+it	0	0
+were	0	0
+a	0	2
+boarding	2	0
+house	2	2
+.	NA	NA

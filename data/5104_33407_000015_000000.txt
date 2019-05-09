@@ -1,0 +1,7 @@
+He	2	0
+had	0	1
+never	1	0
+seen	0	0
+a	0	2
+king	2	2
+.	NA	NA

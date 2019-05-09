@@ -1,0 +1,7 @@
+No	1	0
+one	0	0
+could	0	1
+train	2	0
+like	1	0
+him	1	2
+.	NA	NA

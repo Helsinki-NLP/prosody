@@ -1,0 +1,5 @@
+There	1	0
+was	0	1
+the	2	0
+link	0	2
+.	NA	NA

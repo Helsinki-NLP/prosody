@@ -1,0 +1,17 @@
+After	1	0
+they	0	0
+stopped	1	0
+hunting	1	2
+,	NA	NA
+the	0	0
+wind	2	0
+blew	0	1
+the	0	0
+door	1	0
+open	0	1
+,	NA	NA
+and	0	0
+I	0	0
+hopped	1	1
+out	2	2
+.	NA	NA

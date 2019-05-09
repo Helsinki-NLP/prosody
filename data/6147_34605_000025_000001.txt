@@ -1,0 +1,10 @@
+They	2	1
+deprive	2	0
+it	0	0
+of	0	2
+the	0	0
+honour	1	0
+of	0	1
+their	2	1
+adherence	1	2
+.	NA	NA

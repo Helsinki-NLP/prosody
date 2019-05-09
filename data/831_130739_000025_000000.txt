@@ -1,0 +1,11 @@
+At	0	0
+supper	1	0
+that	0	0
+night	1	2
+,	NA	NA
+holiday	2	0
+talk	1	1
+held	0	0
+undisputed	1	1
+sway	2	2
+.	NA	NA

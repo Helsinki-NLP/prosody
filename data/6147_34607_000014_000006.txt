@@ -1,0 +1,6 @@
+Not	2	0
+a	0	1
+personage	2	1
+is	0	0
+missing	1	2
+.	NA	NA

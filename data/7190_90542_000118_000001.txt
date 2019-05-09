@@ -1,0 +1,15 @@
+Another	0	1
+point	2	2
+,	NA	NA
+both	1	0
+these	0	0
+murders	1	0
+happened	1	0
+at	0	1
+the	0	0
+time	1	0
+of	0	0
+the	0	1
+full	0	0
+moon	1	2
+.	NA	NA

@@ -1,0 +1,13 @@
+How	2	1
+,	NA	NA
+therefore	0	1
+,	NA	NA
+or	2	0
+when	0	2
+could	0	0
+they	1	0
+have	0	0
+made	0	0
+an	0	0
+enemy	1	2
+?	NA	NA

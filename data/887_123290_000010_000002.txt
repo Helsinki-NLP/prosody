@@ -1,0 +1,13 @@
+With	1	0
+a	0	0
+few	0	0
+more	2	0
+pieces	0	0
+of	0	2
+surturbrand	2	1
+he	0	0
+had	0	0
+refitted	1	0
+our	0	0
+vessel	1	2
+.	NA	NA

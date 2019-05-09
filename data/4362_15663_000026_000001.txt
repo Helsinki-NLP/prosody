@@ -1,0 +1,11 @@
+And	0	0
+how	2	0
+lavishly	1	2
+the	0	0
+snow	2	0
+fell	1	1
+only	0	0
+mountaineers	1	1
+may	0	0
+know	1	2
+.	NA	NA

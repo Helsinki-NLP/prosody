@@ -1,0 +1,7 @@
+You	2	1
+!	NA	NA
+cried	2	0
+the	0	1
+servants	1	1
+mocking	2	2
+.	NA	NA

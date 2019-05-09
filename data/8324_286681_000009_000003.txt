@@ -1,0 +1,14 @@
+Their	1	0
+mother	2	1
+had	0	0
+brought	2	0
+up	0	0
+a	0	1
+large	2	1
+family	0	1
+,	NA	NA
+and	0	0
+was	1	0
+not	1	1
+strong	1	2
+.	NA	NA

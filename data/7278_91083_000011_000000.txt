@@ -1,0 +1,9 @@
+mr	2	0
+Childs	1	1
+has	0	0
+had	1	0
+a	0	0
+most	0	1
+interesting	1	0
+history	1	2
+.	NA	NA

@@ -1,0 +1,9 @@
+Tickets	1	0
+had	0	0
+been	0	1
+provided	2	1
+by	0	0
+the	0	0
+forethoughtful	2	0
+Harmon	1	2
+.	NA	NA

@@ -1,0 +1,14 @@
+The	0	0
+vision	1	1
+was	0	0
+vague	2	2
+,	NA	NA
+for	0	0
+Mercer	2	0
+was	0	1
+picturing	0	0
+his	0	1
+thoughts	2	0
+with	0	2
+difficulty	2	2
+.	NA	NA

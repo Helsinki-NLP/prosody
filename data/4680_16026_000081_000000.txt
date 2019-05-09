@@ -1,0 +1,9 @@
+Well	2	2
+,	NA	NA
+I	1	0
+don't	0	0
+mean	1	0
+that	1	1
+you	0	0
+shall	1	2
+.	NA	NA

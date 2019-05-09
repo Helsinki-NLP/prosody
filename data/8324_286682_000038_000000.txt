@@ -1,0 +1,8 @@
+That	1	0
+is	0	1
+enough	2	1
+,	NA	NA
+answered	1	1
+the	0	0
+Bachelor	1	2
+.	NA	NA

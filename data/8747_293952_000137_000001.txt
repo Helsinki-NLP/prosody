@@ -1,0 +1,10 @@
+The	0	0
+kind	2	1
+gentleman	1	1
+got	1	0
+them	0	0
+for	1	0
+me	0	1
+,	NA	NA
+ma'am	2	2
+.	NA	NA

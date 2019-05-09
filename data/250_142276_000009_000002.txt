@@ -1,0 +1,7 @@
+I'm	1	1
+glad	2	1
+we	0	0
+don't	0	0
+visit	1	1
+them	2	2
+.	NA	NA

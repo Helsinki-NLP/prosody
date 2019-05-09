@@ -1,0 +1,13 @@
+A	0	0
+glance	2	0
+was	0	1
+sufficient	2	0
+to	0	1
+recognise	2	0
+that	0	0
+the	0	2
+sprawly	1	0
+writing	2	1
+was	0	0
+Ethel's	1	2
+.	NA	NA

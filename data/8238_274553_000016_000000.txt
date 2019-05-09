@@ -1,0 +1,14 @@
+Sir	2	2
+,	NA	NA
+My	2	0
+friend	0	0
+,	NA	NA
+m	1	1
+p	1	1
+,	NA	NA
+will	0	0
+hand	2	0
+you	0	0
+this	0	0
+note	0	2
+.	NA	NA

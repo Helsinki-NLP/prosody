@@ -1,0 +1,12 @@
+Of	1	0
+course	2	1
+we	0	0
+won't	1	1
+encourage	2	1
+this	0	0
+young	0	0
+man	0	0
+in	0	0
+any	0	1
+way	2	2
+.	NA	NA

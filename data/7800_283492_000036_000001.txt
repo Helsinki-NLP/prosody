@@ -1,0 +1,15 @@
+Another	2	0
+,	NA	NA
+and	0	0
+yet	1	1
+a	0	0
+third	2	1
+found	1	2
+the	0	0
+boys	0	1
+enjoying	1	0
+themselves	1	1
+to	0	0
+the	0	0
+limit	1	2
+.	NA	NA

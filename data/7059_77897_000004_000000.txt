@@ -1,0 +1,13 @@
+I	0	0
+saw	2	0
+that	0	1
+they	0	0
+both	2	0
+made	0	1
+fun	2	0
+of	0	0
+it	1	2
+,	NA	NA
+said	0	0
+Annie	1	2
+.	NA	NA

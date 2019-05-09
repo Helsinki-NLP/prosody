@@ -1,0 +1,8 @@
+I	0	0
+really	1	0
+am	1	1
+feeling	1	1
+anxious	0	1
+about	1	0
+her	2	2
+.	NA	NA

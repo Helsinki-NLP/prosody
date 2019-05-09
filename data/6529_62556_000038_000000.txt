@@ -1,0 +1,10 @@
+He	0	0
+must	0	1
+not	2	1
+be	0	0
+moved	2	2
+.	NA	NA
+said	0	0
+Gideon	0	0
+Spilett	1	2
+.	NA	NA

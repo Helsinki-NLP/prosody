@@ -1,0 +1,15 @@
+Such	2	0
+features	0	0
+as	0	0
+she	0	1
+possessed	2	2
+,	NA	NA
+owe	2	1
+not	1	0
+everything	0	1
+to	0	0
+the	0	0
+light	1	0
+of	0	1
+life	2	2
+.	NA	NA

@@ -1,0 +1,4 @@
+And	1	0
+the	0	1
+bridegroom	1	2
+?	NA	NA

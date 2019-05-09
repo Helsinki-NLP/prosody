@@ -1,0 +1,9 @@
+The	0	0
+head	2	0
+was	0	1
+withdrawn	2	2
+and	0	0
+the	1	0
+window	0	0
+closed	1	2
+.	NA	NA

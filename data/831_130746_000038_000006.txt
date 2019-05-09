@@ -1,0 +1,4 @@
+They	0	1
+dismounted	1	0
+abruptly	2	2
+.	NA	NA

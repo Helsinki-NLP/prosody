@@ -1,0 +1,13 @@
+I	0	0
+should	2	0
+have	0	1
+done	1	0
+so	0	0
+had	0	0
+she	0	0
+not	2	2
+goaded	2	1
+me	0	0
+into	0	1
+speech	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+Well	0	0
+,	NA	NA
+George	2	0
+?	NA	NA
+she	0	1
+said	0	0
+,	NA	NA
+anxiously	2	2
+.	NA	NA

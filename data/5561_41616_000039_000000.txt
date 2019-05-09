@@ -1,0 +1,13 @@
+Let's	2	0
+hope	1	0
+that	0	1
+your	0	0
+bones	2	0
+are	0	2
+true	1	1
+prophets	2	1
+,	NA	NA
+laughed	1	1
+Marian	0	1
+Barber	2	2
+.	NA	NA

@@ -1,0 +1,4 @@
+He	0	1
+said	2	0
+nothing	1	2
+.	NA	NA

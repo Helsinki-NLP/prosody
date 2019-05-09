@@ -1,0 +1,6 @@
+How	1	1
+absurd	2	1
+!	NA	NA
+exclaimed	0	0
+Grace	1	2
+.	NA	NA

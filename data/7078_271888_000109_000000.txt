@@ -1,0 +1,17 @@
+The	0	0
+Masked	2	0
+Circe	1	1
+was	0	0
+pronounced	2	0
+one	0	0
+of	0	1
+the	0	0
+pictures	1	0
+of	0	0
+the	0	0
+year	2	2
+.	NA	NA
+Thousands	2	0
+admired	1	0
+it	0	2
+.	NA	NA

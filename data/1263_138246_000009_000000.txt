@@ -1,0 +1,15 @@
+While	0	0
+Michel	1	0
+Ardan	0	0
+was	0	0
+speaking	1	2
+,	NA	NA
+Barbicane	2	0
+and	0	0
+Nicholl	0	0
+were	0	0
+making	1	1
+their	0	0
+last	1	1
+preparations	1	2
+.	NA	NA

@@ -1,0 +1,6 @@
+His	0	0
+demeanour	2	0
+is	0	1
+completely	1	0
+changed	1	2
+.	NA	NA

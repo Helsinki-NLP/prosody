@@ -1,0 +1,9 @@
+Well	1	0
+,	NA	NA
+I	1	0
+won't	0	2
+be	0	0
+in	0	0
+your	0	1
+way	1	2
+.	NA	NA

@@ -1,0 +1,9 @@
+And	0	0
+I	1	0
+will	0	1
+be	0	0
+here	0	0
+again	2	2
+at	1	0
+ten	2	2
+.	NA	NA

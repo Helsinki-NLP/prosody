@@ -1,0 +1,9 @@
+The	0	0
+freshmen	2	0
+are	0	0
+simply	0	1
+scrambling	2	2
+to	0	0
+get	1	0
+in	2	2
+.	NA	NA

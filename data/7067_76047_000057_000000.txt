@@ -1,0 +1,9 @@
+Really	2	1
+!	NA	NA
+he	0	0
+said	1	1
+,	NA	NA
+this	2	0
+is	0	0
+preposterous	1	2
+.	NA	NA

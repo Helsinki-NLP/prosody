@@ -1,0 +1,11 @@
+That's	2	1
+awfully	2	0
+nice	0	1
+raspberry	1	0
+cordial	2	0
+,	NA	NA
+Anne	1	1
+,	NA	NA
+she	0	0
+said	1	2
+.	NA	NA

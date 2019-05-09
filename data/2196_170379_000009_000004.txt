@@ -1,0 +1,15 @@
+It	1	0
+is	0	0
+enough	2	1
+for	2	0
+them	0	1
+to	0	0
+know	2	0
+it	0	1
+has	1	0
+been	0	1
+harnessed	2	1
+for	1	0
+their	0	0
+use	0	2
+.	NA	NA

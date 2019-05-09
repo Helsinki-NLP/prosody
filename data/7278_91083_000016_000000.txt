@@ -1,0 +1,11 @@
+Fortune	2	1
+,	NA	NA
+of	0	0
+course	1	0
+,	NA	NA
+had	0	0
+come	2	2
+,	NA	NA
+and	0	0
+fame	2	2
+.	NA	NA

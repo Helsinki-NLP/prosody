@@ -1,0 +1,9 @@
+That's	1	0
+not	2	1
+so	0	0
+very	1	0
+long	0	0
+ago	0	1
+,	NA	NA
+Cora	2	2
+.	NA	NA

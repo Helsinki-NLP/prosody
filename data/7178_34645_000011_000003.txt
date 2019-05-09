@@ -1,0 +1,7 @@
+He	0	0
+who	0	0
+whispers	2	2
+to	2	0
+the	0	0
+emperor	1	2
+.	NA	NA

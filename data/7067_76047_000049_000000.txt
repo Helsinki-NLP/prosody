@@ -1,0 +1,10 @@
+I	0	0
+don't	2	1
+quite	1	1
+see	1	1
+what	0	0
+you	0	0
+are	0	1
+driving	2	0
+at	0	2
+.	NA	NA

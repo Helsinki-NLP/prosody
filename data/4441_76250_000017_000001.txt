@@ -1,0 +1,4 @@
+Is	0	0
+that	1	1
+so	2	2
+?	NA	NA

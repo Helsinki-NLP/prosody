@@ -1,0 +1,7 @@
+Now	2	2
+,	NA	NA
+What	2	0
+do'st	0	0
+thou	0	0
+believe	1	2
+?	NA	NA

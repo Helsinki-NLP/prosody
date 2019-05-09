@@ -1,0 +1,7 @@
+The	0	1
+very	2	1
+thing	0	0
+,	NA	NA
+she	0	1
+exclaimed	1	2
+.	NA	NA

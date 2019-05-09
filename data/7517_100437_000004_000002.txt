@@ -1,0 +1,7 @@
+Not	1	0
+unnaturally	0	2
+the	0	0
+world	2	0
+remained	0	0
+unmoved	0	2
+.	NA	NA

@@ -1,0 +1,16 @@
+This	1	0
+was	0	0
+not	2	1
+,	NA	NA
+as	1	0
+it	0	0
+may	0	0
+seem	1	2
+,	NA	NA
+merely	2	0
+a	0	1
+theory	2	2
+tinged	2	0
+with	0	1
+sarcasm	1	2
+.	NA	NA

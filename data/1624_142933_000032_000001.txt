@@ -1,0 +1,12 @@
+But	1	0
+I	0	0
+don't	2	1
+mind	0	0
+the	0	2
+pain	2	2
+,	NA	NA
+he	0	0
+hastened	0	1
+to	0	0
+say	1	2
+.	NA	NA

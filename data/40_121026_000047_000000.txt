@@ -1,0 +1,15 @@
+It	2	0
+has	1	0
+been	1	0
+long	0	1
+enough	0	0
+to	1	1
+inflict	1	0
+on	0	0
+me	1	0
+a	0	1
+great	2	0
+and	0	1
+undeserved	2	1
+misfortune	2	2
+.	NA	NA

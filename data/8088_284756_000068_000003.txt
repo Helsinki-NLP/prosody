@@ -1,0 +1,17 @@
+And	0	0
+in	0	0
+that	0	0
+white	1	1
+bathing	1	0
+suit	2	2
+yes	2	2
+,	NA	NA
+I	2	0
+believe	0	0
+she's	0	0
+taken	0	1
+a	0	0
+fancy	1	1
+to	0	0
+you	1	2
+!	NA	NA

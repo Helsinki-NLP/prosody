@@ -1,0 +1,7 @@
+Coronel	1	0
+bowed	1	1
+profoundly	2	1
+to	0	0
+the	0	0
+King	2	2
+.	NA	NA

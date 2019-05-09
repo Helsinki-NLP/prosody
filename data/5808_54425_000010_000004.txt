@@ -1,0 +1,17 @@
+Then	2	1
+,	NA	NA
+all	0	0
+of	0	0
+a	0	0
+sudden	2	2
+,	NA	NA
+he	0	0
+went	1	0
+down	1	0
+again	0	1
+,	NA	NA
+and	1	0
+went	0	1
+down	1	1
+badly	1	2
+.	NA	NA

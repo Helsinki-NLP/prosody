@@ -1,0 +1,9 @@
+I	0	0
+was	2	2
+firmly	2	1
+convinced	0	1
+it	0	0
+was	0	0
+raspberry	1	0
+cordial	1	2
+.	NA	NA

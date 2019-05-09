@@ -1,0 +1,12 @@
+No	0	0
+one	2	0
+can	0	0
+answer	1	1
+these	0	0
+questions	2	2
+,	NA	NA
+save	2	1
+the	0	0
+murderer	0	1
+himself	2	2
+.	NA	NA

@@ -1,0 +1,4 @@
+Here	0	0
+she	1	0
+is	0	2
+!	NA	NA

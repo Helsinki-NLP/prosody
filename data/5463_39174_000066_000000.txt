@@ -1,0 +1,7 @@
+But	1	0
+you	0	0
+may	0	0
+get	0	0
+better	0	1
+preferment	2	2
+.	NA	NA

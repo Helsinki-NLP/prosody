@@ -1,0 +1,11 @@
+But	0	0
+,	NA	NA
+Mercer	1	0
+,	NA	NA
+it's	0	1
+a	0	0
+nightmare	1	2
+!	NA	NA
+I	2	0
+protested	1	2
+.	NA	NA

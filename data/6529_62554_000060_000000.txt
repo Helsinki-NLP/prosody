@@ -1,0 +1,9 @@
+And	1	0
+with	0	0
+a	0	1
+slow	1	1
+step	2	1
+he	0	0
+walked	2	1
+away	1	2
+.	NA	NA

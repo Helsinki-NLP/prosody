@@ -1,0 +1,10 @@
+Soussio	2	0
+employed	0	1
+persuasions	1	0
+,	NA	NA
+threats	1	1
+,	NA	NA
+promises	1	0
+,	NA	NA
+entreaties	1	2
+.	NA	NA

@@ -1,0 +1,13 @@
+Then	1	0
+there	0	0
+is	0	0
+only	1	0
+his	0	2
+own	2	1
+statement	2	1
+that	0	0
+nothing	1	0
+has	0	0
+been	0	1
+taken	1	2
+.	NA	NA

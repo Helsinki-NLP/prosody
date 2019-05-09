@@ -1,0 +1,9 @@
+Well	2	1
+,	NA	NA
+I	2	0
+never	2	1
+,	NA	NA
+said	0	0
+Mrs	0	0
+Carey	1	2
+.	NA	NA

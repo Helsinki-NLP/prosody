@@ -1,0 +1,14 @@
+Once	2	0
+on	0	0
+the	0	0
+street	1	1
+a	0	0
+lively	1	1
+confab	1	0
+ensued	1	2
+,	NA	NA
+all	2	0
+talking	1	1
+at	0	0
+once	2	2
+.	NA	NA

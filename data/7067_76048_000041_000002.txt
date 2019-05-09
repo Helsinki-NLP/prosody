@@ -1,0 +1,9 @@
+We	0	0
+want	1	1
+bright	2	0
+little	0	1
+lives	1	1
+of	0	0
+our	0	0
+own	2	2
+.	NA	NA

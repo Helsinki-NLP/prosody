@@ -1,0 +1,15 @@
+We	0	0
+had	1	0
+gone	2	1
+perhaps	1	1
+ten	1	0
+miles	2	0
+when	0	2
+the	0	0
+ground	2	1
+began	1	1
+to	0	0
+rise	1	1
+very	0	0
+rapidly	2	2
+.	NA	NA

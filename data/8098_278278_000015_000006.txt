@@ -1,0 +1,4 @@
+The	0	1
+Professor	2	0
+snuffed	2	2
+.	NA	NA

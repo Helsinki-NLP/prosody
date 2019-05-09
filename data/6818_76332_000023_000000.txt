@@ -1,0 +1,10 @@
+Oh	2	0
+!	NA	NA
+did	0	1
+you	0	0
+know	0	0
+the	0	1
+family	0	0
+,	NA	NA
+the	2	2
+the	2	2

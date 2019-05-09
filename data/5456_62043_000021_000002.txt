@@ -1,0 +1,13 @@
+Deal	2	0
+,	NA	NA
+sir	1	0
+,	NA	NA
+if	0	0
+you	0	1
+please	1	2
+;	NA	NA
+better	0	0
+luck	1	1
+next	1	1
+time	1	2
+.	NA	NA

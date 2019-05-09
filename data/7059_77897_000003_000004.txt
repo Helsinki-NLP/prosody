@@ -1,0 +1,7 @@
+You	1	1
+saw	2	1
+how	0	0
+they	0	1
+took	1	0
+it	2	2
+.	NA	NA

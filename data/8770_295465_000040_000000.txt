@@ -1,0 +1,12 @@
+Young	2	0
+though	1	1
+he	0	0
+was	1	2
+he	0	0
+could	0	0
+not	1	1
+sleep	0	0
+long	2	0
+at	0	1
+night	1	2
+.	NA	NA

@@ -1,0 +1,14 @@
+But	2	2
+,	NA	NA
+my	0	0
+dear	1	0
+uncle	1	2
+,	NA	NA
+do	2	0
+let	0	1
+me	0	0
+ask	1	0
+you	0	1
+one	1	0
+question	0	2
+.	NA	NA

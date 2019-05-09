@@ -1,0 +1,11 @@
+This	2	1
+was	0	0
+not	0	1
+enough	2	2
+he	1	0
+must	0	0
+now	1	0
+learn	0	1
+to	0	0
+write	2	2
+.	NA	NA

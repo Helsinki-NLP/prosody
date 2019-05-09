@@ -1,0 +1,16 @@
+But	0	0
+my	1	0
+dinners	1	1
+at	0	0
+Danny	0	0
+Reeves'	1	2
+place	2	0
+must	0	0
+cost	2	1
+a	0	0
+lot	1	1
+,	NA	NA
+protested	1	0
+Uncle	0	0
+john	2	2
+.	NA	NA

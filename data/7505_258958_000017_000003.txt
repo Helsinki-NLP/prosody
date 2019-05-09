@@ -1,0 +1,9 @@
+A	0	0
+crop	2	0
+of	0	1
+corn	2	1
+is	1	2
+not	1	0
+all	0	0
+income	0	2
+.	NA	NA

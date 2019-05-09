@@ -1,0 +1,12 @@
+Oh	1	0
+,	NA	NA
+not	0	0
+much	1	2
+from	0	0
+twelve	2	0
+to	0	1
+thirteen	0	0
+hundred	0	1
+thousand	1	0
+francs	1	2
+.	NA	NA

@@ -1,0 +1,6 @@
+And	1	0
+then	2	0
+we	0	0
+can	0	1
+talk	2	2
+.	NA	NA

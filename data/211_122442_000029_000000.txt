@@ -1,0 +1,9 @@
+You	0	0
+will	0	0
+take	2	0
+your	0	1
+musketoon	1	0
+and	1	0
+your	0	1
+pistols	1	2
+.	NA	NA

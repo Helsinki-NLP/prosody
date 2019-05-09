@@ -1,0 +1,7 @@
+Except	1	1
+her	0	0
+looks	2	1
+,	NA	NA
+added	0	0
+Beth	1	2
+.	NA	NA

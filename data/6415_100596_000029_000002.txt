@@ -1,0 +1,3 @@
+KATE	1	0
+FERRIS	1	2
+.	NA	NA

@@ -1,0 +1,12 @@
+There	1	0
+had	0	0
+been	0	1
+many	0	0
+changes	1	2
+,	NA	NA
+of	1	0
+that	2	0
+he	0	1
+felt	1	0
+sure	2	2
+.	NA	NA

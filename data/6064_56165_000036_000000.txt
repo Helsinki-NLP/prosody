@@ -1,0 +1,5 @@
+Oh	2	1
+,	NA	NA
+some	1	0
+do	0	2
+!	NA	NA

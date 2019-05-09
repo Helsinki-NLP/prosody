@@ -1,0 +1,12 @@
+Of	0	1
+all	2	0
+the	0	1
+unreasonable	2	1
+women	0	0
+I	0	0
+ever	0	1
+saw	2	0
+she's	0	1
+the	0	0
+worst	2	2
+.	NA	NA

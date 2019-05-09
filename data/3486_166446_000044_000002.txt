@@ -1,0 +1,7 @@
+What	2	0
+is	0	0
+it	0	1
+they	1	0
+are	0	1
+heralding	1	2
+?	NA	NA

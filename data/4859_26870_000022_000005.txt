@@ -1,0 +1,13 @@
+She	0	0
+is	0	0
+a	0	1
+sterile	1	0
+flower	2	2
+,	NA	NA
+you	0	0
+know	2	1
+like	1	0
+some	0	0
+strawberry	1	0
+blossoms	0	2
+.	NA	NA

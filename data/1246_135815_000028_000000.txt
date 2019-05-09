@@ -1,0 +1,8 @@
+Six	1	0
+or	0	0
+eight	2	2
+,	NA	NA
+replied	2	0
+Johnny	0	0
+Chuck	1	2
+.	NA	NA

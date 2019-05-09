@@ -1,0 +1,15 @@
+There	0	0
+being	0	0
+no	0	0
+competition	1	2
+,	NA	NA
+no	0	0
+time	1	0
+or	0	0
+space	1	0
+is	0	1
+required	2	0
+for	0	1
+sensational	0	0
+trash	1	2
+.	NA	NA

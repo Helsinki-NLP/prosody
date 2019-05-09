@@ -1,0 +1,15 @@
+So	2	0
+we	0	0
+can't	1	0
+rely	1	0
+on	0	1
+nature	0	0
+to	0	0
+rescue	0	0
+us	1	2
+,	NA	NA
+only	2	0
+our	0	0
+own	0	0
+efforts	1	2
+.	NA	NA

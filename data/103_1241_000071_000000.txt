@@ -1,0 +1,11 @@
+That's	2	0
+it	0	1
+,	NA	NA
+isn't	0	0
+it	2	2
+?	NA	NA
+she	1	0
+said	0	0
+,	NA	NA
+pointing	1	2
+.	NA	NA

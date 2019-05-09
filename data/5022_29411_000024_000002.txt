@@ -1,0 +1,5 @@
+I	2	0
+offered	0	0
+a	0	1
+suggestion	2	2
+.	NA	NA

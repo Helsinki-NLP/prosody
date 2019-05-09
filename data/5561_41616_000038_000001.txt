@@ -1,0 +1,7 @@
+I	2	0
+feel	1	0
+it	0	0
+in	0	1
+my	0	0
+bones	1	2
+.	NA	NA

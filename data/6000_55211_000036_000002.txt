@@ -1,0 +1,16 @@
+My	0	0
+mother	2	0
+and	0	0
+my	0	1
+grandmother	1	0
+owned	0	0
+that	0	1
+teapot	0	0
+,	NA	NA
+sir	2	2
+.	NA	NA
+Again	2	1
+her	0	0
+voice	1	0
+broke	2	2
+.	NA	NA

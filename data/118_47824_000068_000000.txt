@@ -1,0 +1,8 @@
+I	1	0
+saw	0	0
+you	0	0
+arrive	2	2
+,	NA	NA
+he	0	0
+said	2	2
+.	NA	NA

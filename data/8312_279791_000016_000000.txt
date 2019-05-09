@@ -1,0 +1,6 @@
+But	0	1
+no	2	0
+Blue	0	0
+Bird	0	1
+appeared	2	2
+.	NA	NA

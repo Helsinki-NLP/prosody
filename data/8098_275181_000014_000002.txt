@@ -1,0 +1,13 @@
+He	0	0
+brought	2	0
+a	0	2
+two	0	0
+bushel	1	0
+basket	1	0
+and	0	1
+went	0	0
+out	2	0
+into	0	0
+the	0	1
+fields	2	2
+.	NA	NA

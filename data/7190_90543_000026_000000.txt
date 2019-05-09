@@ -1,0 +1,13 @@
+I	2	0
+think	0	0
+that	0	0
+would	1	1
+entirely	2	1
+depend	0	0
+on	0	0
+the	0	1
+man's	1	1
+temperament	1	1
+,	NA	NA
+professor	2	2
+.	NA	NA

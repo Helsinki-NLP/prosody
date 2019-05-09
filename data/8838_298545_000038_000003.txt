@@ -1,0 +1,16 @@
+He	0	0
+stood	2	0
+up	0	0
+and	0	1
+turned	1	1
+slowly	0	0
+round	2	1
+,	NA	NA
+as	1	0
+if	0	0
+in	0	1
+front	1	0
+of	0	0
+his	0	1
+tailor	2	2
+.	NA	NA

@@ -1,0 +1,7 @@
+Don't	2	1
+say	1	0
+I	0	0
+have	0	1
+deceived	1	0
+you	1	2
+.	NA	NA

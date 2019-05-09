@@ -1,0 +1,6 @@
+But	1	0
+he	0	0
+had	1	0
+it	0	1
+ready	2	2
+.	NA	NA

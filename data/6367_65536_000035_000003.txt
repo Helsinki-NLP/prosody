@@ -1,0 +1,14 @@
+One	2	0
+learns	0	0
+there	1	2
+in	1	0
+time	2	2
+but	0	0
+sometimes	2	1
+the	0	0
+lesson	1	0
+is	0	0
+learned	1	1
+too	0	0
+late	1	2
+.	NA	NA

@@ -1,0 +1,7 @@
+I	0	0
+had	2	1
+two	1	0
+reasons	1	1
+in	0	0
+mind	2	2
+.	NA	NA

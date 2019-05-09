@@ -1,0 +1,11 @@
+The	0	0
+terror	2	0
+of	0	0
+his	0	2
+possible	2	0
+counsel	1	1
+for	0	0
+the	0	0
+moment	0	1
+vanished	1	2
+.	NA	NA

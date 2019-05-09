@@ -1,0 +1,4 @@
+I	1	0
+love	1	0
+it	1	2
+.	NA	NA

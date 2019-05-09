@@ -1,0 +1,8 @@
+Daft	2	0
+is	0	1
+a	0	0
+little	1	0
+strong	0	1
+,	NA	NA
+Laura	1	2
+.	NA	NA

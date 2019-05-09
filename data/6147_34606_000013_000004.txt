@@ -1,0 +1,10 @@
+To	0	0
+fulfil	1	0
+this	0	1
+duty	0	0
+all	1	0
+means	0	1
+were	0	0
+held	1	1
+good	2	2
+.	NA	NA

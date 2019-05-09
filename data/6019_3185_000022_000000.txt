@@ -1,0 +1,14 @@
+Were	2	0
+there	0	1
+,	NA	NA
+then	1	0
+,	NA	NA
+no	1	1
+exceptions	1	1
+to	0	0
+this	0	0
+condition	1	0
+of	0	1
+awestruck	2	0
+admiration	1	2
+?	NA	NA

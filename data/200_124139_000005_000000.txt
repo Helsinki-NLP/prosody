@@ -1,0 +1,17 @@
+She	0	0
+has	2	0
+nothing	2	1
+,	NA	NA
+in	0	0
+short	2	1
+,	NA	NA
+to	0	0
+recommend	2	1
+her	0	1
+,	NA	NA
+but	0	0
+being	1	0
+an	0	0
+excellent	0	1
+walker	2	2
+.	NA	NA

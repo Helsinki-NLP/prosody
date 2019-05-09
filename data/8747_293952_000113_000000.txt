@@ -1,0 +1,15 @@
+He	1	0
+is	1	0
+a	0	0
+lad	0	0
+I	0	1
+wish	0	0
+you	0	0
+to	0	1
+help	2	2
+,	NA	NA
+said	1	1
+Beryl	1	1
+,	NA	NA
+blandly	2	2
+.	NA	NA

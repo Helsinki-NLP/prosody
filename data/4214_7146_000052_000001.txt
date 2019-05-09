@@ -1,0 +1,5 @@
+My	0	0
+heart	1	0
+is	0	1
+broken	2	2
+.	NA	NA

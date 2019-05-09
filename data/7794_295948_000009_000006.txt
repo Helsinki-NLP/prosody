@@ -1,0 +1,13 @@
+If	0	0
+there	2	0
+is	0	1
+anything	1	0
+that	0	2
+you	0	0
+wish	1	0
+for	0	2
+,	NA	NA
+pray	2	1
+tell	2	0
+me	0	2
+.	NA	NA

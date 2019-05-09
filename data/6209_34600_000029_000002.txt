@@ -1,0 +1,16 @@
+To	1	0
+the	0	2
+east	2	1
+great	2	0
+inclined	1	1
+planes	0	0
+of	0	1
+snow	1	0
+marked	1	0
+out	1	1
+the	0	0
+wide	1	0
+slopes	2	1
+of	0	0
+Radipole	2	2
+.	NA	NA

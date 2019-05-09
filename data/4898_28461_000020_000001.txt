@@ -1,0 +1,4 @@
+Don't	0	0
+leave	1	1
+me	2	2
+.	NA	NA

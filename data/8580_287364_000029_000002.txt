@@ -1,0 +1,8 @@
+We	0	0
+may	2	0
+get	0	2
+valuable	2	1
+information	1	0
+that	0	0
+way	2	2
+.	NA	NA

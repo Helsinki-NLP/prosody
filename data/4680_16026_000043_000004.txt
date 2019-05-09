@@ -1,0 +1,7 @@
+Now	1	1
+,	NA	NA
+get	0	0
+away	2	0
+with	0	1
+you	1	2
+.	NA	NA

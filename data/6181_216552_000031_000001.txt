@@ -1,0 +1,12 @@
+It	0	0
+has	0	0
+literally	1	2
+CREATED	2	2
+a	0	0
+right	2	0
+outside	0	0
+of	0	1
+its	0	0
+own	0	0
+province	2	2
+.	NA	NA

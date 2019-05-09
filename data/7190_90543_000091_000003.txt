@@ -1,0 +1,3 @@
+Then	2	0
+I	0	1
+shouted	1	2

@@ -1,0 +1,14 @@
+It	0	0
+is	0	1
+extraordinarily	2	0
+light	1	0
+and	0	1
+strong	2	2
+,	NA	NA
+and	0	0
+keeps	2	0
+the	0	0
+wind	0	0
+completely	0	0
+out	1	2
+.	NA	NA

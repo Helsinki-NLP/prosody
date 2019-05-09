@@ -1,0 +1,16 @@
+Then	2	0
+there	0	0
+came	0	0
+a	0	0
+retrospect	1	2
+,	NA	NA
+comparing	2	1
+the	0	0
+old	2	0
+state	0	0
+of	0	0
+England	0	0
+with	0	1
+the	0	0
+present	2	2
+.	NA	NA

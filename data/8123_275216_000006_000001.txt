@@ -1,0 +1,7 @@
+But	0	1
+Trees	2	1
+there	0	0
+were	1	0
+in	0	1
+plenty	2	2
+.	NA	NA

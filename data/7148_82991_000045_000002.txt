@@ -1,0 +1,4 @@
+To	2	0
+the	0	1
+castle	1	2
+!	NA	NA

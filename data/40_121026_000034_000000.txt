@@ -1,0 +1,11 @@
+And	1	0
+was	2	0
+it	0	0
+not	0	1
+discovered	1	0
+that	1	1
+your	0	0
+sheets	2	1
+were	0	0
+unhemmed	2	2
+?	NA	NA

@@ -1,0 +1,13 @@
+But	0	0
+soon	2	0
+she	0	0
+began	1	1
+stroking	1	1
+his	0	0
+beautiful	1	0
+plumage	1	2
+,	NA	NA
+and	0	0
+caressing	2	0
+him	0	2
+.	NA	NA

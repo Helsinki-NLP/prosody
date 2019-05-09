@@ -1,0 +1,13 @@
+Do	0	1
+you	0	0
+think	2	1
+that	0	0
+I	1	0
+was	0	1
+then	0	1
+dead	2	1
+to	0	0
+agony	1	0
+and	0	1
+remorse	1	2
+?	NA	NA

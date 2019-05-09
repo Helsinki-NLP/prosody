@@ -1,0 +1,11 @@
+I	2	0
+suppose	2	1
+she	0	0
+must	0	1
+equally	1	0
+be	1	0
+a	0	1
+pollution	2	1
+to	2	0
+it	0	2
+.	NA	NA

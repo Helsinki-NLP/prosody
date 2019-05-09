@@ -1,0 +1,9 @@
+No	2	1
+,	NA	NA
+I'm	1	0
+a	0	0
+journalist	1	1
+,	NA	NA
+objected	0	0
+Falk	2	2
+.	NA	NA

@@ -1,0 +1,7 @@
+Because	0	0
+ascending	2	0
+it	0	1
+becomes	2	1
+more	0	0
+pure	2	2
+.	NA	NA

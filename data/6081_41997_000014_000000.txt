@@ -1,0 +1,8 @@
+Ah	1	2
+!	NA	NA
+and	0	0
+how	0	0
+were	0	0
+they	0	0
+dressed	2	2
+?	NA	NA

@@ -1,0 +1,17 @@
+Cast	2	0
+on	1	1
+three	1	0
+stitches	0	2
+;	NA	NA
+increase	2	0
+at	0	1
+the	0	0
+beginning	1	0
+of	0	1
+each	0	0
+row	2	2
+till	1	0
+you	0	0
+have	0	0
+twelve	1	2
+.	NA	NA

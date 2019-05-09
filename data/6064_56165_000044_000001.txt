@@ -1,0 +1,11 @@
+There	2	0
+isn't	0	1
+any	2	0
+danger	0	0
+of	0	1
+girls	1	1
+getting	0	0
+ahead	2	0
+of	0	1
+us	0	2
+.	NA	NA

@@ -1,0 +1,8 @@
+Miss	0	0
+Thompson	2	0
+has	0	1
+promised	2	0
+me	0	0
+the	0	1
+gymnasium	2	2
+.	NA	NA

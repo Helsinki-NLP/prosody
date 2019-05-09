@@ -1,0 +1,13 @@
+The	0	0
+fees	2	0
+,	NA	NA
+dr	1	0
+Oldacre	0	1
+,	NA	NA
+would	0	0
+amount	1	1
+to	0	0
+about	1	0
+sixty	0	1
+pounds	2	2
+.	NA	NA

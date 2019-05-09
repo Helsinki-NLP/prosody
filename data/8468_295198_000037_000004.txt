@@ -1,0 +1,14 @@
+I	2	0
+always	0	1
+did	0	0
+tell	2	1
+you	0	0
+that	0	1
+your	0	0
+passion	2	1
+for	0	0
+water	2	0
+injured	0	1
+your	0	0
+singing	1	2
+.	NA	NA

@@ -1,0 +1,3 @@
+Or	0	0
+croquet	2	2
+?	NA	NA

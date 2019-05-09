@@ -1,0 +1,15 @@
+His	0	0
+Royal	2	0
+Highness	1	2
+,	NA	NA
+put	1	0
+in	0	0
+Coronel	1	2
+,	NA	NA
+has	2	0
+given	0	0
+his	0	0
+affections	0	1
+to	0	0
+another	2	2
+.	NA	NA

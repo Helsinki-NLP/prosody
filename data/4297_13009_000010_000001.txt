@@ -1,0 +1,7 @@
+It	0	1
+used	1	0
+not	2	0
+to	0	1
+be	1	1
+so	2	2
+.	NA	NA

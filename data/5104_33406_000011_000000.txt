@@ -1,0 +1,7 @@
+He	0	0
+walks	2	0
+like	1	1
+Thor	2	0
+the	0	1
+Fearless	2	2
+.	NA	NA

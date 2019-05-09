@@ -1,0 +1,8 @@
+Such	2	0
+a	0	1
+way	2	0
+as	0	2
+we	0	0
+came	0	0
+over	1	2
+!	NA	NA

@@ -1,0 +1,14 @@
+Like	2	0
+other	0	0
+Irish	0	1
+garments	0	1
+it	0	0
+was	1	0
+generally	1	0
+striped	1	1
+or	0	0
+speckled	0	0
+in	0	1
+various	1	1
+colours	2	2
+.	NA	NA

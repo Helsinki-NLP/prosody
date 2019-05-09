@@ -1,0 +1,15 @@
+The	0	0
+gates	2	0
+of	0	1
+Paradise	1	0
+reopen	1	2
+;	NA	NA
+but	2	0
+before	2	0
+he	0	0
+enters	0	1
+he	1	0
+examines	1	1
+his	0	0
+ground	1	2
+.	NA	NA

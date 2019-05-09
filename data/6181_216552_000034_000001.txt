@@ -1,0 +1,5 @@
+What	2	0
+principle	1	1
+directed	2	1
+it	0	2
+?	NA	NA

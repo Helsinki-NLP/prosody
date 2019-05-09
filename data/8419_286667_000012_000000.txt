@@ -1,0 +1,13 @@
+Then	2	0
+they	0	0
+stood	0	0
+and	0	1
+fished	2	0
+for	0	2
+a	0	0
+long	0	0
+time	2	1
+without	1	0
+saying	0	0
+anything	2	2
+.	NA	NA

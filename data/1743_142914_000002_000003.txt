@@ -1,0 +1,16 @@
+Redwing	2	0
+was	0	0
+one	0	0
+of	0	1
+the	0	0
+first	2	0
+birds	0	1
+to	0	0
+arrive	2	1
+,	NA	NA
+and	0	0
+I've	1	0
+neglected	1	0
+him	0	1
+shamefully	2	2
+.	NA	NA

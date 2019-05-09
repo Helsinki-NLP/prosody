@@ -1,0 +1,7 @@
+CHAPTER	0	0
+four	2	2
+MINUS	2	0
+FIVE	1	1
+,	NA	NA
+PLUS	0	0
+ONE	1	2

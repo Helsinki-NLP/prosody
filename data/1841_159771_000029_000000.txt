@@ -1,0 +1,13 @@
+Why	2	0
+didn't	0	1
+you	0	0
+grab	2	0
+him	0	0
+out	0	0
+of	0	0
+the	0	1
+snow	2	2
+?	NA	NA
+Simon	1	0
+asked	1	2
+.	NA	NA

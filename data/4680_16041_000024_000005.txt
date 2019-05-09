@@ -1,0 +1,11 @@
+The	0	0
+light	2	0
+was	0	1
+extinguished	2	2
+,	NA	NA
+sometimes	2	0
+the	0	1
+inhabitant	2	1
+was	0	0
+killed	2	2
+.	NA	NA

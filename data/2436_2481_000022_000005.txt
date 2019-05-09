@@ -1,0 +1,9 @@
+Verify	2	1
+our	0	0
+trajectory	1	1
+no	1	1
+wait	2	2
+.	NA	NA
+.	NA	NA
+.	NA	NA
+.	NA	NA

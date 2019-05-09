@@ -1,0 +1,8 @@
+What	1	0
+do	2	0
+they	1	0
+mean	0	0
+to	0	1
+do	0	0
+next	2	2
+?	NA	NA

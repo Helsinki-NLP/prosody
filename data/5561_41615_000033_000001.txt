@@ -1,0 +1,11 @@
+The	0	0
+latter	1	1
+flushed	2	2
+,	NA	NA
+then	1	0
+turned	0	1
+perfectly	1	0
+white	1	0
+with	0	1
+rage	1	2
+.	NA	NA

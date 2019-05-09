@@ -1,0 +1,14 @@
+Indeed	2	1
+the	1	0
+happiness	1	1
+of	0	0
+Orpheus	2	1
+and	0	0
+Eurydice	1	2
+was	2	0
+to	0	0
+be	0	0
+but	1	0
+short	0	0
+lived	1	2
+.	NA	NA

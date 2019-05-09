@@ -1,0 +1,5 @@
+You	0	1
+promised	2	1
+not	0	0
+to	1	2
+!	NA	NA

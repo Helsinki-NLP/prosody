@@ -1,0 +1,14 @@
+Near	2	0
+it	0	1
+set	0	0
+a	0	1
+tray	0	0
+like	2	2
+plate	2	0
+of	0	1
+the	0	0
+same	2	0
+ware	0	0
+and	0	1
+decoration	1	2
+.	NA	NA

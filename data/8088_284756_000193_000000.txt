@@ -1,0 +1,17 @@
+And	0	0
+so	2	2
+,	NA	NA
+just	2	0
+as	0	0
+the	0	1
+dawn	1	1
+was	0	0
+breaking	1	2
+,	NA	NA
+we	0	0
+took	2	0
+her	0	1
+to	0	0
+the	0	0
+shore	1	2
+.	NA	NA

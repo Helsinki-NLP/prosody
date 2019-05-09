@@ -1,0 +1,5 @@
+I've	2	0
+lost	1	1
+my	0	0
+temper	2	2
+.	NA	NA

@@ -1,0 +1,12 @@
+We	2	0
+must	1	1
+get	1	0
+him	1	0
+out	2	1
+at	0	0
+once	2	2
+!	NA	NA
+declared	1	0
+mr	0	0
+Jenks	1	2
+.	NA	NA

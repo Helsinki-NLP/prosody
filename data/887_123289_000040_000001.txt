@@ -1,0 +1,3 @@
+I	2	0
+asked	1	2
+.	NA	NA

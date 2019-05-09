@@ -1,0 +1,16 @@
+If	0	0
+Lee	2	0
+had	0	0
+been	0	1
+victorious	2	1
+there	2	2
+,	NA	NA
+he	0	0
+might	2	0
+have	0	1
+destroyed	1	0
+Philadelphia	2	1
+and	0	0
+New	0	0
+York	2	2
+.	NA	NA

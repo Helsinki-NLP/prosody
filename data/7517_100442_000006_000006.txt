@@ -1,0 +1,4 @@
+What	2	0
+a	0	1
+life	0	2
+!	NA	NA

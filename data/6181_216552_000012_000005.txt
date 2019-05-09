@@ -1,0 +1,12 @@
+Why	2	0
+,	NA	NA
+in	0	1
+according	1	0
+possession	2	2
+,	NA	NA
+has	0	0
+it	0	0
+also	2	0
+conceded	0	1
+property	2	2
+?	NA	NA

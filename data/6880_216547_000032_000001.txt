@@ -1,0 +1,17 @@
+The	0	0
+Church	2	0
+has	0	0
+erred	2	2
+in	0	0
+dogma	1	1
+and	0	0
+in	0	0
+morals	1	2
+;	NA	NA
+physics	2	0
+and	0	1
+mathematics	1	0
+testify	1	0
+against	0	0
+her	1	2
+.	NA	NA

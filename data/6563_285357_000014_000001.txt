@@ -1,0 +1,11 @@
+Certainly	2	1
+it	0	0
+has	0	1
+placed	1	0
+many	0	0
+notable	0	1
+flights	2	2
+to	0	0
+its	0	0
+credit	2	2
+.	NA	NA

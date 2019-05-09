@@ -1,0 +1,8 @@
+These	1	0
+miracles	2	1
+grotesquely	2	1
+happen	2	1
+,	NA	NA
+he	0	0
+said	2	2
+.	NA	NA

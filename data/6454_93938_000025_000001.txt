@@ -1,0 +1,5 @@
+There	2	0
+come	0	1
+the	0	0
+cavalry	1	2
+.	NA	NA

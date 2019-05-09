@@ -1,0 +1,17 @@
+I	2	0
+know	1	0
+she	0	1
+doesn't	1	1
+but	1	0
+of	0	2
+course	2	1
+I'll	0	0
+ask	2	1
+her	0	1
+just	2	1
+as	0	0
+if	0	0
+I	0	1
+didn't	0	0
+know	2	2
+.	NA	NA

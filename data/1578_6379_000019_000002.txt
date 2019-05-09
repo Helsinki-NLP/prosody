@@ -1,0 +1,5 @@
+Where'd	1	1
+you	0	0
+get	2	0
+it	0	2
+?	NA	NA

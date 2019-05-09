@@ -1,0 +1,5 @@
+Then	2	0
+the	0	1
+unexpected	1	0
+happened	0	2
+.	NA	NA

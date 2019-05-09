@@ -1,0 +1,12 @@
+To	0	0
+him	1	0
+,	NA	NA
+now	2	1
+,	NA	NA
+Gimblet	1	1
+devoted	2	1
+his	0	0
+powers	2	0
+of	0	1
+shadowing	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+It	0	0
+was	2	0
+in	0	1
+connection	2	1
+with	0	0
+our	0	0
+second	2	1
+lead	1	2
+.	NA	NA

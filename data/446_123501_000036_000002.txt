@@ -1,0 +1,11 @@
+At	1	1
+the	0	0
+same	2	0
+time	1	1
+he	0	0
+motioned	1	1
+his	0	0
+followers	2	1
+to	0	0
+advance	2	2
+.	NA	NA

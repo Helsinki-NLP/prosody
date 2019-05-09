@@ -1,0 +1,9 @@
+And	0	0
+populaces	1	1
+,	NA	NA
+like	0	0
+tyrants	2	2
+,	NA	NA
+require	2	0
+buffoons	0	2
+.	NA	NA

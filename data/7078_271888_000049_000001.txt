@@ -1,0 +1,16 @@
+He	0	0
+contracted	2	1
+typhoid	2	2
+while	2	0
+we	0	0
+were	0	0
+playing	1	0
+in	0	1
+San	1	0
+Francisco	1	2
+,	NA	NA
+and	0	0
+it	0	0
+terminated	1	0
+fatally	1	2
+.	NA	NA

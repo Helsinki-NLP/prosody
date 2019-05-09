@@ -1,0 +1,4 @@
+What	0	0
+are	1	1
+they	1	2
+?	NA	NA

@@ -1,0 +1,9 @@
+Was	1	0
+it	0	0
+our	2	1
+proximity	1	0
+to	0	1
+these	0	0
+European	0	1
+shores	2	2
+?	NA	NA

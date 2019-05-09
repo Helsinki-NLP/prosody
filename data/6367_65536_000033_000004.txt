@@ -1,0 +1,8 @@
+If	0	0
+I	2	0
+had	0	1
+known	1	1
+you	0	0
+were	0	1
+here	2	2
+!	NA	NA

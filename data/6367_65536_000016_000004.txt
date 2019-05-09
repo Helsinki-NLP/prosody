@@ -1,0 +1,13 @@
+How	1	0
+true	2	0
+and	0	1
+strong	2	0
+and	0	1
+womanly	2	0
+and	0	2
+gentle	2	0
+she	0	0
+had	0	0
+always	0	0
+been	2	2
+!	NA	NA

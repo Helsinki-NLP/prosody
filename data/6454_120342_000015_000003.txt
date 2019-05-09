@@ -1,0 +1,10 @@
+And	2	1
+so	2	0
+the	0	0
+children	0	0
+sung	2	2
+through	0	0
+Clement's	1	0
+old	0	1
+hymn	2	2
+.	NA	NA

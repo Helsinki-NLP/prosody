@@ -1,0 +1,6 @@
+I	2	0
+won't	0	1
+think	1	0
+of	0	0
+it	0	2
+.	NA	NA

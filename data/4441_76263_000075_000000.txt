@@ -1,0 +1,4 @@
+I'd	2	1
+rather	0	0
+not	2	2
+!	NA	NA

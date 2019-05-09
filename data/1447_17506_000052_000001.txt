@@ -1,0 +1,9 @@
+Uncle	2	0
+john	2	1
+hardly	0	0
+knew	1	0
+what	0	1
+to	0	0
+say	1	1
+further	2	2
+.	NA	NA

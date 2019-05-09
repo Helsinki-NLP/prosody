@@ -1,0 +1,11 @@
+Now	1	0
+,	NA	NA
+Adela	2	2
+,	NA	NA
+be	0	0
+good	0	0
+and	0	0
+listen	0	0
+to	0	1
+reason	2	2
+.	NA	NA

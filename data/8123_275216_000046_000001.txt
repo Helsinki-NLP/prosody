@@ -1,0 +1,8 @@
+It	2	1
+serves	2	1
+him	0	0
+right	1	1
+,	NA	NA
+he	0	0
+said	1	2
+.	NA	NA

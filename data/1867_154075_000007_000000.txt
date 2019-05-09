@@ -1,0 +1,13 @@
+It	1	0
+was	0	0
+down	2	0
+in	0	1
+the	0	0
+cellar	2	0
+that	0	1
+we	0	0
+found	2	0
+the	0	2
+first	1	0
+tracks	2	2
+.	NA	NA

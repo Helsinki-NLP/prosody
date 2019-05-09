@@ -1,0 +1,9 @@
+During	1	0
+his	0	1
+life	2	1
+I	0	0
+was	0	1
+merely	1	0
+a	0	1
+puppet	2	2
+.	NA	NA

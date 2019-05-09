@@ -1,0 +1,9 @@
+Have	2	0
+we	0	0
+not	1	0
+been	0	1
+attached	2	1
+from	0	0
+our	1	1
+youth	1	2
+?	NA	NA

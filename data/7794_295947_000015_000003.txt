@@ -1,0 +1,10 @@
+How	2	0
+could	0	0
+I	0	1
+stand	2	1
+by	1	0
+and	0	1
+see	0	0
+life	2	1
+taken	2	2
+?	NA	NA

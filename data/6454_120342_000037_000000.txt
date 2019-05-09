@@ -1,0 +1,10 @@
+The	1	1
+star	2	0
+,	NA	NA
+the	0	1
+manger	0	0
+,	NA	NA
+and	1	1
+the	0	0
+Child	2	2
+!	NA	NA

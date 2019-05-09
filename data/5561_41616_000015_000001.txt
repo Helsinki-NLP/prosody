@@ -1,0 +1,10 @@
+Let	2	0
+me	0	1
+see	1	2
+what	2	0
+would	0	1
+be	1	0
+a	0	0
+good	1	1
+tune	1	2
+?	NA	NA

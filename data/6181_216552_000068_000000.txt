@@ -1,0 +1,5 @@
+The	0	0
+application	2	1
+of	0	0
+justice	2	2
+.	NA	NA

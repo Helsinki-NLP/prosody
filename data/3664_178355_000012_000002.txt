@@ -1,0 +1,17 @@
+Striking	2	1
+out	2	1
+for	0	0
+a	0	0
+distance	1	0
+of	0	1
+three	0	0
+miles	1	2
+,	NA	NA
+we	0	0
+came	1	0
+up	0	1
+close	2	0
+to	0	1
+another	0	0
+herd	2	2
+.	NA	NA

@@ -1,0 +1,13 @@
+It	1	0
+was	0	0
+Rita's	0	0
+father	1	2
+,	NA	NA
+who	0	0
+brought	2	0
+his	0	0
+daughter's	0	0
+ransom	1	1
+in	0	0
+person	1	2
+.	NA	NA

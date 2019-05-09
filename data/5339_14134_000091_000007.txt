@@ -1,0 +1,10 @@
+Yet	2	0
+it	0	1
+seemed	2	0
+as	0	1
+though	1	0
+he	0	1
+could	0	0
+not	0	1
+stir	2	2
+.	NA	NA

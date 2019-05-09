@@ -1,0 +1,12 @@
+Forgive	1	1
+me	0	0
+,	NA	NA
+Harold	1	2
+,	NA	NA
+she	2	0
+said	1	0
+,	NA	NA
+with	0	0
+intense	0	0
+earnestness	1	2
+.	NA	NA

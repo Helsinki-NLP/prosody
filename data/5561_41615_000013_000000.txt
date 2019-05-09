@@ -1,0 +1,8 @@
+I	1	0
+certainly	2	1
+did	0	0
+not	2	1
+,	NA	NA
+responded	0	0
+Mabel	1	2
+.	NA	NA

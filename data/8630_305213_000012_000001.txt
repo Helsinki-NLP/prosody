@@ -1,0 +1,17 @@
+He	0	0
+had	0	0
+even	0	0
+greater	1	0
+gifts	0	1
+,	NA	NA
+it	0	0
+seemed	2	1
+,	NA	NA
+than	0	0
+eloquence	1	2
+,	NA	NA
+feeling	2	1
+,	NA	NA
+and	0	0
+wit	2	2
+.	NA	NA

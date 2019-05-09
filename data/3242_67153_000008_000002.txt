@@ -1,0 +1,13 @@
+And	0	0
+the	0	0
+boy	2	0
+took	0	0
+all	1	0
+the	0	1
+fancy	1	1
+courses	2	1
+and	0	0
+trimmings	2	0
+at	0	1
+college	2	2
+.	NA	NA

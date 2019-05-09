@@ -1,0 +1,3 @@
+HOME	2	1
+AGAIN	1	2
+.	NA	NA

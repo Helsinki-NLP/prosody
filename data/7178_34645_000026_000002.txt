@@ -1,0 +1,15 @@
+To	0	0
+keep	1	0
+hate	1	1
+thenceforth	2	0
+in	0	1
+a	0	0
+case	2	2
+,	NA	NA
+like	1	0
+a	0	0
+dagger	2	0
+in	0	0
+a	0	1
+museum	2	2
+!	NA	NA

@@ -1,0 +1,7 @@
+Tested	2	0
+thus	1	1
+,	NA	NA
+the	0	0
+Korean	1	1
+fails	2	2
+.	NA	NA

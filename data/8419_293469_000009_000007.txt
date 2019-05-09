@@ -1,0 +1,14 @@
+You	0	0
+may	0	0
+not	2	1
+believe	0	0
+me	1	2
+,	NA	NA
+but	0	0
+what	0	0
+I	1	0
+tell	0	0
+you	0	1
+is	0	0
+true	1	2
+.	NA	NA

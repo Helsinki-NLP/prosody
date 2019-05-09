@@ -1,0 +1,6 @@
+An	0	0
+amateur	2	2
+a	0	0
+rank	1	0
+amateur	1	2
+!	NA	NA

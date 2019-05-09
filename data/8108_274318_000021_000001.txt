@@ -1,0 +1,10 @@
+The	0	0
+doctor	2	0
+lit	1	0
+the	0	1
+candle	1	2
+and	0	0
+brought	2	0
+it	0	0
+over	1	2
+.	NA	NA

@@ -1,0 +1,14 @@
+Do	0	0
+you	0	0
+intend	1	0
+to	0	1
+obey	1	0
+me	0	0
+,	NA	NA
+Miss	0	1
+Savell	2	2
+?	NA	NA
+asked	2	0
+Miss	0	1
+Thompson	2	2
+.	NA	NA

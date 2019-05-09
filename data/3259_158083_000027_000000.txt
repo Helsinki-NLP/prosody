@@ -1,0 +1,16 @@
+The	0	0
+following	2	1
+morning	1	2
+the	0	0
+women	1	0
+were	0	0
+ordered	1	1
+by	0	0
+Judge	0	1
+Mullowny	1	1
+to	1	2
+come	2	0
+back	0	0
+on	0	0
+Friday	1	2
+.	NA	NA

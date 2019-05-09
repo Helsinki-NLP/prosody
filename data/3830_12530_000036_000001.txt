@@ -1,0 +1,12 @@
+It	0	0
+took	1	0
+a	0	1
+tugging	2	2
+of	0	0
+two	1	0
+days	1	1
+to	0	0
+go	1	0
+six	0	0
+miles	1	2
+.	NA	NA

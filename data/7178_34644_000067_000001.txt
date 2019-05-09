@@ -1,0 +1,4 @@
+His	0	0
+eyelids	2	1
+closed	0	2
+.	NA	NA

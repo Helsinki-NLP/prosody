@@ -1,0 +1,12 @@
+You	0	0
+can	0	0
+have	0	0
+sleek	2	2
+,	NA	NA
+shining	1	0
+fur	2	2
+when	0	0
+theirs	1	0
+is	0	0
+dull	1	2
+.	NA	NA

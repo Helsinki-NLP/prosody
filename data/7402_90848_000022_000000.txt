@@ -1,0 +1,10 @@
+So	0	0
+Bobo	1	0
+rode	1	0
+over	0	1
+the	0	0
+hills	1	0
+and	0	2
+far	1	0
+away	0	2
+.	NA	NA

@@ -1,0 +1,16 @@
+I	0	0
+am	1	1
+tired	2	0
+of	0	1
+a	0	0
+world	2	0
+in	0	1
+which	0	0
+there	0	0
+is	0	1
+nothing	1	1
+great	2	1
+but	0	0
+great	2	1
+disasters	2	2
+.	NA	NA

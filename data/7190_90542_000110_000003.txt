@@ -1,0 +1,8 @@
+The	0	0
+fire	2	1
+flickered	0	1
+lower	1	0
+and	0	1
+went	0	0
+out	1	2
+.	NA	NA

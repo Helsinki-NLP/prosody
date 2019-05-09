@@ -1,0 +1,5 @@
+Excuse	1	0
+me	1	0
+with	0	1
+thanks	2	2
+.	NA	NA

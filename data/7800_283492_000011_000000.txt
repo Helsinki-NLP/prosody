@@ -1,0 +1,5 @@
+Frank	1	1
+nodded	1	1
+his	0	0
+head	2	2
+.	NA	NA

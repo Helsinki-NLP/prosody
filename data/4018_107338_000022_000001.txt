@@ -1,0 +1,6 @@
+Do	0	0
+not	2	1
+they	0	0
+know	1	1
+everything	2	2
+?	NA	NA

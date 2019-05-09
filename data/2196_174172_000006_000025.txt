@@ -1,0 +1,12 @@
+Keep	0	0
+away	2	0
+from	0	1
+sad	1	1
+people	1	2
+,	NA	NA
+or	2	0
+you	0	0
+will	0	0
+be	0	1
+sad	1	2
+.	NA	NA

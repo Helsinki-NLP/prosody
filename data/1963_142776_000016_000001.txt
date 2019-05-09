@@ -1,0 +1,14 @@
+Simmer	2	0
+till	1	0
+the	0	1
+eels	0	0
+are	0	1
+tender	2	2
+,	NA	NA
+but	0	0
+do	0	0
+not	1	0
+break	1	0
+the	0	1
+fish	2	2
+.	NA	NA

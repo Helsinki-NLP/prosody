@@ -1,0 +1,6 @@
+Perhaps	1	1
+he	0	0
+has	0	0
+the	0	1
+plague	2	2
+.	NA	NA

@@ -1,0 +1,11 @@
+Now	2	0
+it	0	1
+takes	0	0
+more	0	0
+than	0	1
+that	2	0
+to	0	2
+produce	1	0
+a	0	1
+panic	2	2
+.	NA	NA

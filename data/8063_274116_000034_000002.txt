@@ -1,0 +1,17 @@
+The	0	1
+ten	2	0
+full	0	0
+bottles	1	1
+were	2	2
+ten	2	0
+empty	0	0
+ones	0	0
+by	0	0
+the	0	0
+time	0	1
+Truchen	0	0
+returned	1	1
+with	1	0
+the	0	1
+cheese	1	2
+.	NA	NA

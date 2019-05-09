@@ -1,0 +1,17 @@
+The	0	1
+hour	2	2
+,	NA	NA
+the	0	0
+strokes	2	0
+of	0	1
+which	0	0
+he	0	0
+had	0	0
+just	0	0
+counted	1	2
+,	NA	NA
+had	1	0
+been	0	0
+another	0	1
+blow	1	2
+.	NA	NA

@@ -1,0 +1,9 @@
+And	0	0
+now	0	0
+all	1	0
+went	0	2
+cheerfully	2	2
+in	0	0
+the	0	0
+castle	1	2
+.	NA	NA

@@ -1,0 +1,8 @@
+Coronel	2	0
+shook	0	1
+him	0	0
+solemnly	2	1
+by	1	0
+the	0	0
+hand	1	2
+.	NA	NA

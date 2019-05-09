@@ -1,0 +1,5 @@
+Yes	1	1
+,	NA	NA
+I	0	0
+will	2	2
+.	NA	NA

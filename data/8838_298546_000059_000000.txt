@@ -1,0 +1,8 @@
+Ten	0	0
+stone	0	0
+eleven	2	2
+,	NA	NA
+the	0	0
+assistant	0	0
+answered	1	2
+.	NA	NA

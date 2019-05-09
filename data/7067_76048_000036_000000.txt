@@ -1,0 +1,4 @@
+She	0	0
+considered	1	1
+that	2	2
+.	NA	NA

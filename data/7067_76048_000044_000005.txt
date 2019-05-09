@@ -1,0 +1,12 @@
+We	2	0
+have	0	0
+been	0	1
+made	2	0
+an	0	1
+exception	2	0
+of	0	2
+and	0	0
+got	2	0
+our	0	0
+rations	0	2
+.	NA	NA

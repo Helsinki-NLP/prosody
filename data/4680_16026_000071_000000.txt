@@ -1,0 +1,8 @@
+Go	2	0
+to	0	0
+the	0	1
+devil	1	2
+!	NA	NA
+cried	1	0
+Thenardier	1	2
+.	NA	NA

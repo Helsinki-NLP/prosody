@@ -1,0 +1,15 @@
+He	2	0
+remained	0	1
+for	0	0
+a	0	0
+quarter	1	0
+of	0	1
+an	0	0
+hour	2	2
+at	1	0
+a	0	1
+time	2	1
+gazing	2	0
+at	0	1
+Cosette	2	2
+.	NA	NA

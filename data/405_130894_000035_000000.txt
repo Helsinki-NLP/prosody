@@ -1,0 +1,4 @@
+An	0	0
+apt	2	1
+remark	2	2
+.	NA	NA

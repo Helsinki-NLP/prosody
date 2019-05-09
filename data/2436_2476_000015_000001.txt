@@ -1,0 +1,5 @@
+I	0	0
+had	0	0
+slept	2	2
+heavily	2	2
+.	NA	NA

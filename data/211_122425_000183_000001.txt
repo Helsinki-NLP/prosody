@@ -1,0 +1,3 @@
+Poor	1	1
+cardinal	1	2
+!	NA	NA

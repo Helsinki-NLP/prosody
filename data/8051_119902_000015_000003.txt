@@ -1,0 +1,8 @@
+Victory	2	0
+bread	1	0
+must	0	1
+be	0	0
+saved	2	1
+for	0	0
+them	2	2
+.	NA	NA

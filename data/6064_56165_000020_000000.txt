@@ -1,0 +1,5 @@
+Of	2	1
+course	1	1
+,	NA	NA
+really	1	2
+!	NA	NA

@@ -1,0 +1,9 @@
+So	1	0
+you	0	0
+want	1	0
+my	1	1
+tail	2	2
+?	NA	NA
+said	1	0
+he	0	2
+.	NA	NA

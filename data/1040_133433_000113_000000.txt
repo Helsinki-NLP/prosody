@@ -1,0 +1,8 @@
+And	0	0
+then	2	0
+one	0	0
+night	1	1
+came	0	2
+the	0	0
+tragedy	2	2
+.	NA	NA

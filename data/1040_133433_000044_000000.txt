@@ -1,0 +1,13 @@
+Sneaky	2	1
+tell	1	0
+tale	2	2
+!	NA	NA
+Tink	0	0
+called	0	0
+out	1	0
+from	0	1
+somewhere	0	0
+round	1	0
+the	0	1
+corner	1	2
+.	NA	NA

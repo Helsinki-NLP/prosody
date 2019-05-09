@@ -1,0 +1,13 @@
+His	0	0
+mother	2	0
+had	0	0
+already	0	1
+shown	2	0
+him	0	2
+the	0	0
+joys	2	0
+of	0	1
+a	0	0
+Christian	1	0
+deathbed	2	2
+.	NA	NA

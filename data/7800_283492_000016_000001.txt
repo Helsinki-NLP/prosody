@@ -1,0 +1,6 @@
+Evidently	2	1
+Teddy	2	0
+had	0	1
+heard	0	0
+enough	2	2
+.	NA	NA

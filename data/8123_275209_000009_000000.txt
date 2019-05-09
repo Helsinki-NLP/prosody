@@ -1,0 +1,12 @@
+But	0	1
+still	1	0
+there	0	0
+was	0	0
+a	0	0
+difficulty	0	2
+whom	2	0
+should	0	0
+the	0	1
+Caterpillar	0	0
+consult	2	2
+?	NA	NA

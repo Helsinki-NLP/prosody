@@ -1,0 +1,10 @@
+And	0	0
+then	2	1
+I	1	0
+can	0	0
+imagine	2	0
+that	0	1
+I'm	0	0
+dressed	0	1
+gorgeously	2	2
+.	NA	NA

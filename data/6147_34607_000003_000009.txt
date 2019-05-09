@@ -1,0 +1,9 @@
+The	0	0
+rest	2	0
+of	0	0
+her	0	1
+person	2	0
+was	0	1
+indifferently	1	1
+formed	2	2
+.	NA	NA

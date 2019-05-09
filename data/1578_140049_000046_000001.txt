@@ -1,0 +1,10 @@
+I've	2	0
+got	0	1
+no	0	0
+patience	1	2
+with	0	0
+such	1	0
+foolish	1	0
+goin's	1	1
+on	2	2
+.	NA	NA

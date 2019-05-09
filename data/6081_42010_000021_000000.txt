@@ -1,0 +1,12 @@
+But	1	0
+for	0	0
+that	2	1
+supposition	1	1
+,	NA	NA
+your	0	0
+words	2	1
+would	0	0
+have	0	0
+been	0	1
+meaningless	2	2
+?	NA	NA

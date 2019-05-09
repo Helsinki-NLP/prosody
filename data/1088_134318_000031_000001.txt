@@ -1,0 +1,8 @@
+This	2	0
+time	1	1
+the	0	0
+traveller	0	0
+carried	0	1
+no	2	0
+books	0	2
+.	NA	NA

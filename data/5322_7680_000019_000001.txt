@@ -1,0 +1,10 @@
+That's	2	0
+why	1	0
+the	0	1
+marriage	2	1
+does	0	0
+not	0	1
+come	0	0
+off	2	2
+.	NA	NA
+'	NA	NA

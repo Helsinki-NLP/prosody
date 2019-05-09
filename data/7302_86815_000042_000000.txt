@@ -1,0 +1,12 @@
+You	1	0
+do	0	0
+not	0	0
+answer	1	0
+,	NA	NA
+madame	1	2
+!	NA	NA
+exclaimed	2	0
+the	0	1
+terrible	0	0
+interrogator	1	2
+.	NA	NA

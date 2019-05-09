@@ -1,0 +1,5 @@
+Suddenly	2	0
+I	0	0
+regained	0	1
+consciousness	1	2
+.	NA	NA

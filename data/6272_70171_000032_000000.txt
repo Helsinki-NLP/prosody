@@ -1,0 +1,10 @@
+How	2	0
+much	0	0
+worse	1	0
+is	0	2
+the	0	0
+mare	2	0
+,	NA	NA
+cousin	0	1
+Charles	1	2
+?	NA	NA

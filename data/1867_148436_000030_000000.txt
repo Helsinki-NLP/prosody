@@ -1,0 +1,3 @@
+Never	0	0
+better	2	2
+.	NA	NA

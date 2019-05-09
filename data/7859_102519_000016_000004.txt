@@ -1,0 +1,16 @@
+The	0	0
+boat	2	0
+weathered	0	0
+the	0	1
+storm	2	0
+,	NA	NA
+and	0	1
+Justinian	0	0
+survived	2	2
+to	0	0
+carry	1	0
+out	0	0
+his	0	1
+cruel	0	0
+oath	2	2
+.	NA	NA

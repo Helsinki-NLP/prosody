@@ -1,0 +1,4 @@
+Sensible	2	0
+little	0	1
+piggywiggys	1	2
+.	NA	NA

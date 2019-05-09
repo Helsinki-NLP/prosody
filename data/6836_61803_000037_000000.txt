@@ -1,0 +1,9 @@
+No	1	0
+!	NA	NA
+he	0	1
+replies	2	2
+,	NA	NA
+I	0	0
+have	0	0
+not	2	2
+.	NA	NA

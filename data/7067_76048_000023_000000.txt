@@ -1,0 +1,11 @@
+For	1	0
+an	0	0
+American	2	0
+Miss	0	1
+Grammont	0	0
+was	0	1
+by	1	0
+no	0	0
+means	1	1
+autobiographical	2	2
+.	NA	NA

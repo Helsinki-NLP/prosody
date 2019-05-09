@@ -1,0 +1,16 @@
+He	0	0
+had	1	1
+promised	2	2
+that	1	0
+He	1	0
+would	0	0
+never	0	0
+fail	2	1
+those	2	1
+who	0	0
+put	2	1
+their	0	0
+trust	2	1
+in	0	0
+Him	1	2
+.	NA	NA

@@ -1,0 +1,14 @@
+It	0	0
+is	0	0
+already	2	1
+to	0	0
+day	0	0
+the	0	1
+capital	1	0
+fact	2	0
+of	0	2
+our	1	0
+whole	1	1
+political	1	0
+system	1	2
+.	NA	NA

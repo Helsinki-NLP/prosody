@@ -1,0 +1,7 @@
+Help	0	0
+me	1	2
+!	NA	NA
+help	1	0
+me	2	2
+!	NA	NA
+'	NA	NA

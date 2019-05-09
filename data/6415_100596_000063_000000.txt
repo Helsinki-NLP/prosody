@@ -1,0 +1,7 @@
+I'm	0	0
+afraid	1	1
+so	2	2
+,	NA	NA
+sighed	1	0
+Patty	2	2
+.	NA	NA

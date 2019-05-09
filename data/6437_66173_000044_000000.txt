@@ -1,0 +1,11 @@
+It	1	0
+was	2	1
+early	2	1
+candle	1	0
+light	1	1
+when	1	0
+we	0	0
+reached	0	1
+the	0	0
+house	1	2
+.	NA	NA

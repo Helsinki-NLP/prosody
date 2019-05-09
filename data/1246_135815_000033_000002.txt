@@ -1,0 +1,12 @@
+Cold	1	0
+weather	1	1
+,	NA	NA
+snow	0	0
+and	0	0
+ice	1	2
+don't	2	0
+worry	1	0
+me	1	0
+a	0	1
+bit	2	2
+.	NA	NA

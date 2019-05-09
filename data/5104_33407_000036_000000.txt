@@ -1,0 +1,11 @@
+There	1	0
+is	0	1
+no	1	0
+lack	2	0
+of	0	1
+fuel	2	0
+here	1	2
+,	NA	NA
+they	0	0
+said	1	2
+.	NA	NA

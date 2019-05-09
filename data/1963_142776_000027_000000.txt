@@ -1,0 +1,3 @@
+OYSTER	2	1
+SOUP	1	2
+.	NA	NA

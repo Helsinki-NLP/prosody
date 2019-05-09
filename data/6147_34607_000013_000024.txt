@@ -1,0 +1,14 @@
+Nothing	2	2
+!	NA	NA
+that	2	0
+is	0	0
+all	1	0
+that	0	1
+is	0	0
+asked	1	0
+of	0	1
+the	0	0
+sovereign	1	0
+of	0	0
+England	1	2
+.	NA	NA

@@ -1,0 +1,14 @@
+About	2	1
+six	2	1
+or	0	1
+seven	1	0
+and	0	1
+twenty	0	0
+years	1	1
+of	0	0
+age	2	0
+,	NA	NA
+I	0	1
+should	0	0
+say	2	2
+.	NA	NA

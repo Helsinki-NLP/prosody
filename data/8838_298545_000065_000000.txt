@@ -1,0 +1,5 @@
+And	0	0
+you	1	1
+,	NA	NA
+Purvis	2	2
+?	NA	NA

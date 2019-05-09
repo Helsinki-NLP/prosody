@@ -1,0 +1,4 @@
+Not	1	0
+quite	0	1
+that	2	2
+!	NA	NA

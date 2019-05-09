@@ -1,0 +1,7 @@
+Don't	2	1
+you	0	0
+see	0	0
+the	0	1
+grape	1	1
+shot	2	2
+?	NA	NA

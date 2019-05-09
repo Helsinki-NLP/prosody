@@ -1,0 +1,17 @@
+I	2	0
+shall	0	0
+be	0	0
+at	0	0
+the	0	1
+bookstall	1	1
+next	1	0
+Monday	1	2
+and	1	0
+I	0	0
+shall	0	0
+have	1	0
+to	0	0
+buy	0	1
+another	0	0
+copy	1	2
+.	NA	NA

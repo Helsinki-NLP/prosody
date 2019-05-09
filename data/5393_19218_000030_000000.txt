@@ -1,0 +1,13 @@
+The	0	0
+sidewalks	2	1
+were	0	0
+overflowing	2	0
+with	0	1
+pedestrians	1	2
+and	0	0
+the	0	0
+windows	2	1
+with	0	0
+curious	2	1
+spectators	1	2
+.	NA	NA

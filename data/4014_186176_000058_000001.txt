@@ -1,0 +1,10 @@
+And	0	0
+what	2	0
+does	0	1
+this	0	0
+fellow	2	1
+do	1	0
+aboard	0	1
+the	0	0
+ship	1	2
+?	NA	NA

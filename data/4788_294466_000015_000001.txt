@@ -1,0 +1,11 @@
+When	0	0
+Jerry	1	0
+and	0	0
+I	0	0
+were	0	0
+little	1	2
+,	NA	NA
+we	0	0
+were	1	1
+playmates	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+Do	0	1
+it	0	0
+to	0	0
+day	2	1
+,	NA	NA
+suggested	1	1
+the	0	0
+Major	2	2
+.	NA	NA

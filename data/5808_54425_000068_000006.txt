@@ -1,0 +1,4 @@
+They	0	0
+held	1	1
+her	2	2
+.	NA	NA

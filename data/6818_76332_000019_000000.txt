@@ -1,0 +1,5 @@
+That's	0	1
+it	2	1
+,	NA	NA
+then	1	2
+.	NA	NA

@@ -1,0 +1,9 @@
+He	0	1
+often	2	1
+did	1	1
+this	1	0
+while	1	0
+he	0	1
+was	0	0
+eating	2	2
+.	NA	NA

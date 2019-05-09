@@ -1,0 +1,6 @@
+Reckon	2	0
+they	1	0
+weren't	0	1
+there	0	0
+today	2	2
+?	NA	NA

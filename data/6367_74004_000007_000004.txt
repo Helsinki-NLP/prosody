@@ -1,0 +1,15 @@
+I	0	0
+tell	2	0
+you	0	1
+,	NA	NA
+they	0	0
+made	1	0
+a	0	2
+dandy	2	0
+looking	0	1
+couple	1	0
+when	0	0
+they	0	0
+were	0	1
+together	2	2
+.	NA	NA

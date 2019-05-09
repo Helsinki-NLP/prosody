@@ -1,0 +1,8 @@
+Here	2	1
+,	NA	NA
+no	2	1
+,	NA	NA
+Ned	0	0
+Land	1	0
+said	1	2
+.	NA	NA

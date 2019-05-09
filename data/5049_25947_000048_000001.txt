@@ -1,0 +1,11 @@
+Why	1	0
+,	NA	NA
+this	2	0
+is	0	1
+just	2	0
+like	0	1
+getting	1	0
+money	0	0
+from	0	1
+home	2	2
+.	NA	NA

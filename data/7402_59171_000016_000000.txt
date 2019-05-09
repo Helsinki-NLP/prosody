@@ -1,0 +1,13 @@
+The	0	0
+true	2	0
+things	1	0
+it	0	1
+contains	1	1
+,	NA	NA
+however	1	2
+,	NA	NA
+make	1	0
+it	0	0
+worth	1	0
+reading	1	2
+.	NA	NA

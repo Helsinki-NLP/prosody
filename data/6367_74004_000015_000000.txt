@@ -1,0 +1,17 @@
+But	0	0
+look	1	0
+here	2	2
+,	NA	NA
+I	1	0
+said	1	0
+,	NA	NA
+an	0	1
+uncomfortable	0	0
+idea	0	0
+striking	0	0
+me	1	2
+,	NA	NA
+what	0	0
+about	2	0
+Sylvia	2	2
+?	NA	NA

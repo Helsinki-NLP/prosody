@@ -1,0 +1,12 @@
+Why	2	0
+,	NA	NA
+to	0	0
+those	2	0
+as	0	1
+don't	1	0
+want	1	0
+it	0	2
+,	NA	NA
+every	2	0
+time	1	2
+.	NA	NA

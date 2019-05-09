@@ -1,0 +1,14 @@
+The	1	0
+slightest	2	0
+exhibition	1	0
+of	0	1
+art	2	2
+is	0	0
+an	0	0
+evidence	2	0
+of	0	1
+care	2	0
+and	0	1
+human	0	0
+interest	0	2
+.	NA	NA

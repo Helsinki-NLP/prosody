@@ -1,0 +1,10 @@
+Good	0	0
+bye	2	1
+,	NA	NA
+Jerry	0	0
+,	NA	NA
+said	0	1
+Beryl	1	1
+,	NA	NA
+kindly	1	2
+.	NA	NA

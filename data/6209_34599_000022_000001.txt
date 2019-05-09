@@ -1,0 +1,10 @@
+He	0	0
+was	1	0
+not	2	1
+long	1	1
+before	1	0
+he	0	1
+reached	1	1
+the	0	0
+houses	2	2
+.	NA	NA

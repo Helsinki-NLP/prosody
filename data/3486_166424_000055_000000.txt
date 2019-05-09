@@ -1,0 +1,7 @@
+Behind	2	0
+us	1	1
+was	0	0
+a	0	0
+wolflike	1	1
+yelping	1	2
+.	NA	NA

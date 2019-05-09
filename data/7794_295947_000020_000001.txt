@@ -1,0 +1,15 @@
+the	0	0
+old	1	0
+foxes	1	0
+have	0	1
+come	1	0
+back	2	2
+,	NA	NA
+out	2	0
+of	0	0
+fear	1	0
+for	0	0
+their	0	0
+cub's	1	1
+safety	2	2
+.	NA	NA

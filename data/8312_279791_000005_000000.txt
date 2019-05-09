@@ -1,0 +1,7 @@
+Am	0	0
+I	1	0
+likely	0	0
+to	0	1
+do	0	0
+this	2	2
+?	NA	NA

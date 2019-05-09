@@ -1,0 +1,10 @@
+And	0	0
+so	2	2
+the	2	0
+arrangements	0	1
+for	0	0
+the	0	0
+morning	0	1
+are	1	0
+made	0	2
+.	NA	NA

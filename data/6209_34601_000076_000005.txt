@@ -1,0 +1,10 @@
+Corporal	1	1
+,	NA	NA
+call	1	0
+out	0	0
+the	0	1
+guard	1	2
+!	NA	NA
+Another	1	0
+bang	2	2
+!	NA	NA

@@ -1,0 +1,8 @@
+Should	0	1
+we	0	0
+turn	1	0
+around	0	0
+and	0	0
+go	0	2
+back	2	2
+?	NA	NA

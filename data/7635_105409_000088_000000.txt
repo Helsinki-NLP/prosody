@@ -1,0 +1,13 @@
+There	2	0
+is	0	0
+no	0	1
+'but	2	1
+.	NA	NA
+'	NA	NA
+I	1	0
+said	1	0
+,	NA	NA
+do	0	1
+you	0	1
+remember	2	2
+?	NA	NA

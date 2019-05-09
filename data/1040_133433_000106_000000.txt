@@ -1,0 +1,12 @@
+What	2	0
+did	0	0
+his	0	1
+crow	2	0
+sound	0	1
+like	2	2
+?	NA	NA
+Jane	2	0
+asked	0	1
+one	0	0
+evening	0	2
+.	NA	NA

@@ -1,0 +1,11 @@
+Then	2	0
+she	0	0
+turned	0	0
+up	0	1
+the	0	0
+light	2	2
+,	NA	NA
+and	0	0
+peter	0	0
+saw	1	2
+.	NA	NA

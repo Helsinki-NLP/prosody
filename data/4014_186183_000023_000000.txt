@@ -1,0 +1,5 @@
+Nothing	2	1
+could	0	0
+halt	2	0
+them	1	2
+.	NA	NA

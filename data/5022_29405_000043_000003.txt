@@ -1,0 +1,5 @@
+I'll	2	0
+write	0	0
+it	0	1
+myself	1	2
+.	NA	NA

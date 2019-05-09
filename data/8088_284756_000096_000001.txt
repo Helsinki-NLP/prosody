@@ -1,0 +1,10 @@
+She	1	0
+made	2	0
+again	0	1
+that	0	0
+strange	0	0
+little	0	1
+gesture	1	0
+of	0	1
+invitation	2	2
+.	NA	NA

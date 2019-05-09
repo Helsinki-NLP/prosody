@@ -1,0 +1,8 @@
+'And	0	0
+what	2	0
+would	0	0
+a	0	1
+horse	1	1
+cost	2	2
+?	NA	NA
+'	NA	NA

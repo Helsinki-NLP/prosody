@@ -1,0 +1,8 @@
+It	1	0
+was	0	1
+abominable	2	1
+,	NA	NA
+said	0	0
+Eva	0	0
+Allen	1	2
+.	NA	NA

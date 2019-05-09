@@ -1,0 +1,15 @@
+But	0	0
+he	0	0
+is	1	1
+dead	2	2
+,	NA	NA
+so	1	0
+you	0	0
+need	0	0
+not	0	0
+cast	0	1
+stones	1	1
+at	0	0
+his	0	0
+memory	1	2
+.	NA	NA

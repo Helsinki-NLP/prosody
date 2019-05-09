@@ -1,0 +1,9 @@
+Think	1	0
+only	0	0
+of	0	0
+this	0	2
+Herbert	2	1
+must	2	1
+be	0	0
+saved	2	2
+!	NA	NA

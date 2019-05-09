@@ -1,0 +1,11 @@
+And	0	0
+directly	2	0
+afterwards	0	2
+the	0	0
+doctor's	2	0
+own	0	0
+distress	1	2
+became	1	0
+intolerably	2	1
+acute	0	2
+.	NA	NA

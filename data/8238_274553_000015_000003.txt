@@ -1,0 +1,12 @@
+I	2	0
+can	0	1
+just	2	1
+remember	1	0
+the	0	1
+titles	2	1
+of	0	0
+some	1	0
+of	0	1
+the	0	0
+works	2	2
+.	NA	NA

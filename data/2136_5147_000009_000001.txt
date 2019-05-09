@@ -1,0 +1,5 @@
+what's	2	1
+the	0	0
+matter	1	2
+?	NA	NA
+'	NA	NA

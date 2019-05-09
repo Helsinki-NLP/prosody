@@ -1,0 +1,15 @@
+I	0	0
+think	0	0
+also	2	0
+that	0	0
+the	0	2
+boiled	2	0
+eggs	1	2
+were	0	0
+smaller	1	0
+than	0	0
+any	1	0
+I	0	0
+had	0	1
+seen	1	2
+.	NA	NA

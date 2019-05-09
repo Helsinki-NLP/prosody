@@ -1,0 +1,17 @@
+I	2	0
+was	0	1
+telling	1	0
+your	0	1
+father	1	0
+only	0	0
+yesterday	1	2
+that	1	0
+it	0	0
+was	0	0
+about	1	0
+time	1	0
+for	0	1
+you	0	0
+to	0	0
+hatch	2	2
+.	NA	NA

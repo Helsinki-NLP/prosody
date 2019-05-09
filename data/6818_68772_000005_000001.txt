@@ -1,0 +1,10 @@
+p	0	0
+l	1	2
+,	NA	NA
+and	0	0
+the	0	0
+words	2	1
+FORBES	2	1
+FOR	0	0
+REPRESENTATIVE	1	2
+.	NA	NA

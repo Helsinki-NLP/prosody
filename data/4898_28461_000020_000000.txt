@@ -1,0 +1,12 @@
+No	1	0
+,	NA	NA
+no	0	1
+,	NA	NA
+he	0	0
+said	2	2
+,	NA	NA
+I	1	0
+can	0	0
+walk	1	0
+down	1	2
+.	NA	NA

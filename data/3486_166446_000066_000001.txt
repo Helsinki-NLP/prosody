@@ -1,0 +1,7 @@
+The	0	1
+very	2	1
+Polar	0	0
+ice	1	0
+was	0	1
+chiseled	1	2
+.	NA	NA

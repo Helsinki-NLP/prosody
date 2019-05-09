@@ -1,0 +1,12 @@
+Their	0	0
+trunks	2	1
+,	NA	NA
+chambers	2	2
+,	NA	NA
+and	0	0
+studies	1	0
+were	0	0
+sealed	0	0
+and	0	0
+locked	2	2
+.	NA	NA

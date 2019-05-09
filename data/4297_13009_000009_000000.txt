@@ -1,0 +1,12 @@
+They're	2	0
+both	1	1
+good	1	1
+,	NA	NA
+men	2	0
+in	0	1
+their	0	0
+way	2	0
+,	NA	NA
+you	0	1
+know	1	2
+.	NA	NA

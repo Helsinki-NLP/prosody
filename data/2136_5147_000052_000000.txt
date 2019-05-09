@@ -1,0 +1,16 @@
+'You	0	0
+know	1	1
+,	NA	NA
+my	0	0
+dear	0	1
+,	NA	NA
+your	0	0
+father	1	0
+is	0	0
+an	0	0
+oddity	1	2
+,	NA	NA
+'	NA	NA
+she	1	0
+said	2	2
+.	NA	NA

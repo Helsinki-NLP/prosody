@@ -1,0 +1,15 @@
+'Is	0	1
+that	1	0
+all	2	2
+?	NA	NA
+'	NA	NA
+answered	2	0
+the	0	0
+mouse	1	2
+;	NA	NA
+'that	2	0
+needn't	0	1
+distress	0	0
+you	0	0
+much	1	2
+.	NA	NA

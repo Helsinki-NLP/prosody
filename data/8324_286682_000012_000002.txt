@@ -1,0 +1,8 @@
+He	0	0
+could	1	1
+hardly	2	1
+believe	1	1
+what	1	0
+he	0	0
+saw	2	2
+.	NA	NA

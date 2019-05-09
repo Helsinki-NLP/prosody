@@ -1,0 +1,7 @@
+Let	1	0
+me	0	0
+hear	1	0
+the	0	1
+whole	1	1
+truth	2	2
+.	NA	NA

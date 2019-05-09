@@ -1,0 +1,10 @@
+Our	0	0
+day's	1	0
+march	2	2
+was	0	0
+eighteen	1	1
+and	0	0
+a	0	0
+half	1	0
+miles	1	2
+.	NA	NA

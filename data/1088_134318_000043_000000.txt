@@ -1,0 +1,10 @@
+What's	2	0
+that	2	2
+?	NA	NA
+asked	1	0
+the	0	0
+visitor	1	0
+a	0	0
+little	0	1
+startled	2	2
+.	NA	NA

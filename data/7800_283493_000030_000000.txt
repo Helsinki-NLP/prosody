@@ -1,0 +1,8 @@
+All	2	1
+stared	0	0
+hard	1	0
+at	0	1
+the	0	0
+monstrous	0	0
+tracks	2	2
+.	NA	NA

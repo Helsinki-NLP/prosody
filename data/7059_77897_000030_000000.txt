@@ -1,0 +1,10 @@
+Not	2	0
+at	0	0
+all	2	2
+!	1	1
+mrs	NA	NA
+Munger	1	0
+answered	0	1
+for	0	0
+Annie	0	2
+.	NA	NA

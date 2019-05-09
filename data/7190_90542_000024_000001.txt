@@ -1,0 +1,8 @@
+And	1	0
+where	0	0
+would	0	0
+that	1	1
+ditch	1	1
+lead	0	0
+him	2	2
+?	NA	NA

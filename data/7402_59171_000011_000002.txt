@@ -1,0 +1,8 @@
+But	2	0
+it	0	0
+is	0	1
+not	1	0
+always	2	1
+a	0	0
+virtue	2	2
+.	NA	NA

@@ -1,0 +1,17 @@
+Then	0	0
+she	0	0
+gave	1	0
+a	0	1
+pretty	0	0
+little	0	0
+start	1	1
+,	NA	NA
+and	0	0
+said	2	1
+,	NA	NA
+Oh	2	2
+,	NA	NA
+are	1	0
+you	0	0
+here	1	2
+?	NA	NA

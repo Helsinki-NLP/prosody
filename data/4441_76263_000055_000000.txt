@@ -1,0 +1,7 @@
+Hang	1	0
+it	0	0
+all	1	0
+,	NA	NA
+I'm	0	1
+cold	2	2
+!	NA	NA

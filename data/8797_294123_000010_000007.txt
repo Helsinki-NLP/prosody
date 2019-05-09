@@ -1,0 +1,13 @@
+It	1	0
+was	0	0
+the	0	0
+thick	2	0
+of	0	1
+war	2	2
+.	NA	NA
+But	2	0
+it	0	0
+did	0	0
+not	1	1
+matter	0	2
+.	NA	NA

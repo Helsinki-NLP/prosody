@@ -1,0 +1,7 @@
+Another	2	0
+gentleman	0	1
+in	0	0
+brown	2	0
+,	NA	NA
+sir	1	2
+.	NA	NA

@@ -1,0 +1,15 @@
+The	0	0
+country	2	0
+is	0	2
+a	0	0
+vast	2	1
+deal	1	0
+pleasanter	1	1
+,	NA	NA
+is	1	0
+it	0	1
+not	0	0
+,	0	0
+mr	NA	NA
+Bingley	1	2
+?	NA	NA

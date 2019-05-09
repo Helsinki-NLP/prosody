@@ -1,0 +1,16 @@
+Some	1	0
+were	0	0
+for	1	0
+a	0	1
+boy	2	1
+,	NA	NA
+his	0	0
+son	2	2
+,	NA	NA
+and	0	0
+some	2	0
+for	0	0
+an	0	0
+ambitious	0	0
+kinsman	1	2
+.	NA	NA

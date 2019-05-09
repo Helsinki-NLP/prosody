@@ -1,0 +1,9 @@
+But	2	0
+maybe	1	1
+they'll	1	0
+behave	0	1
+all	0	0
+right	0	0
+after	0	1
+all	1	2
+.	NA	NA

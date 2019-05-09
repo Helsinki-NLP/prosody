@@ -1,0 +1,4 @@
+He	0	0
+is	1	1
+innocent	2	2
+.	NA	NA

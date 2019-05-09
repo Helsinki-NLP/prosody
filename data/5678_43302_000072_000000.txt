@@ -1,0 +1,16 @@
+If	1	0
+not	2	2
+,	NA	NA
+there	0	0
+will	0	0
+be	1	0
+a	0	0
+catastrophe	2	1
+such	0	0
+as	0	1
+never	1	0
+has	0	0
+been	1	1
+even	1	1
+imagined	2	2
+.	NA	NA

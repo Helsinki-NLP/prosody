@@ -1,0 +1,9 @@
+The	0	0
+citizens	1	1
+told	1	0
+him	0	1
+that	1	0
+the	0	1
+emperor	1	0
+did	2	2
+.	NA	NA

@@ -1,0 +1,8 @@
+Because	0	0
+I	1	0
+shall	0	1
+wear	2	0
+my	0	0
+new	0	2
+dress	2	2
+.	NA	NA

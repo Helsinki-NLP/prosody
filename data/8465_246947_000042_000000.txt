@@ -1,0 +1,12 @@
+Helen	2	0
+sighed	1	2
+,	NA	NA
+thinking	1	0
+how	1	0
+ill	0	0
+that	0	1
+had	0	0
+worked	1	0
+with	0	1
+Emmeline	1	2
+.	NA	NA

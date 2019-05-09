@@ -1,0 +1,6 @@
+'Very	2	0
+well	0	1
+,	NA	NA
+dear	1	2
+.	NA	NA
+'	NA	NA

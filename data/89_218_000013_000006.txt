@@ -1,0 +1,14 @@
+Her	0	0
+heart	2	0
+fluttered	2	2
+,	NA	NA
+her	0	0
+knees	2	0
+trembled	0	0
+,	NA	NA
+and	0	1
+her	0	0
+cheeks	1	1
+grew	0	0
+pale	1	2
+.	NA	NA

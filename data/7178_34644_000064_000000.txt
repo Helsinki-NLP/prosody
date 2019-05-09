@@ -1,0 +1,5 @@
+Now	2	0
+laugh	1	1
+for	1	0
+ever	0	2
+!	NA	NA

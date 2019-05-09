@@ -1,0 +1,15 @@
+He	0	0
+then	1	0
+strapped	1	0
+it	0	1
+to	0	0
+his	0	0
+side	2	2
+and	0	0
+said	2	0
+he	0	0
+would	1	2
+always	2	0
+wear	0	1
+it	0	2
+.	NA	NA

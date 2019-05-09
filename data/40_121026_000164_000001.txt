@@ -1,0 +1,6 @@
+What	2	0
+was	0	0
+your	0	0
+deputy	1	1
+called	2	2
+?	NA	NA

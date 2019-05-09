@@ -1,0 +1,11 @@
+All	2	0
+one's	0	1
+little	0	0
+household	0	0
+tasks	2	2
+keep	1	0
+one	0	0
+from	0	0
+being	0	0
+lonely	1	2
+.	NA	NA

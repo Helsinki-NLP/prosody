@@ -1,0 +1,7 @@
+Besides	2	1
+,	NA	NA
+we	1	0
+are	1	0
+six	0	0
+also	1	2
+.	NA	NA

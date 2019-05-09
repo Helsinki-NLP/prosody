@@ -1,0 +1,10 @@
+This	2	0
+was	0	0
+what	1	1
+Marius	1	1
+perceived	0	1
+most	1	1
+clearly	0	0
+of	0	0
+all	2	2
+.	NA	NA

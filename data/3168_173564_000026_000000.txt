@@ -1,0 +1,15 @@
+After	2	0
+a	0	0
+short	0	1
+silence	2	2
+the	0	0
+countess	1	0
+spoke	0	0
+again	1	2
+but	0	0
+this	0	0
+time	2	1
+no	1	0
+one	0	0
+replied	1	2
+.	NA	NA

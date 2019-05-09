@@ -1,0 +1,11 @@
+I	1	0
+will	2	1
+,	NA	NA
+upon	1	0
+my	0	0
+honour	1	2
+,	NA	NA
+the	0	0
+Baronet	1	0
+said	1	2
+.	NA	NA

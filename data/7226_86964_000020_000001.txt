@@ -1,0 +1,11 @@
+It's	0	0
+all	2	0
+in	0	1
+gettin'	1	0
+the	0	1
+bellers	2	1
+to	0	0
+work	1	2
+even	2	0
+like	1	2
+.	NA	NA

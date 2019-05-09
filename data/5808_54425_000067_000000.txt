@@ -1,0 +1,6 @@
+She	0	0
+gazed	2	0
+at	0	1
+him	0	0
+fascinated	2	2
+.	NA	NA

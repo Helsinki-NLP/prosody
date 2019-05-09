@@ -1,0 +1,3 @@
+Judge	1	0
+coolly	2	2
+.	NA	NA

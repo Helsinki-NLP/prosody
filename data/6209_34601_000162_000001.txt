@@ -1,0 +1,10 @@
+A	0	0
+few	0	0
+minutes	0	0
+after	1	2
+,	NA	NA
+both	2	0
+children	1	0
+slept	1	1
+profoundly	1	2
+.	NA	NA

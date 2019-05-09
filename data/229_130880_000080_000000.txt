@@ -1,0 +1,6 @@
+Cleopatra	2	2
+,	NA	NA
+Conseil	1	0
+shot	0	0
+back	1	2
+.	NA	NA

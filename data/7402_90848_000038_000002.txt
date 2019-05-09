@@ -1,0 +1,9 @@
+So	2	1
+Bobo	2	1
+obediently	0	0
+let	1	0
+the	0	1
+shoes	0	0
+guide	1	0
+him	0	2
+.	NA	NA

@@ -1,0 +1,6 @@
+And	1	0
+something	1	1
+more	1	1
+than	0	0
+that	2	2
+.	NA	NA

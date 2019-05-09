@@ -1,0 +1,7 @@
+But	2	1
+we	0	0
+must	0	0
+not	1	1
+be	0	0
+inhospitable	1	2
+.	NA	NA

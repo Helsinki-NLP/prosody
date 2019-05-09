@@ -1,0 +1,11 @@
+During	2	0
+that	2	1
+time	0	2
+the	0	0
+Cropper	2	1
+boys	1	1
+had	0	0
+come	0	0
+to	0	1
+school	1	2
+.	NA	NA

@@ -1,0 +1,8 @@
+A	0	0
+villain	2	0
+gnawing	1	0
+at	0	1
+his	0	0
+own	1	1
+powerlessness	2	2
+!	NA	NA

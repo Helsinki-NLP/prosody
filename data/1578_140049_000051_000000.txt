@@ -1,0 +1,11 @@
+Is	0	0
+that	2	0
+his	0	0
+real	0	1
+name	2	1
+?	NA	NA
+queried	1	0
+Rebecca	0	0
+in	0	1
+astonishment	2	2
+.	NA	NA

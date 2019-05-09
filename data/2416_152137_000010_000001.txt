@@ -1,0 +1,4 @@
+The	0	1
+Gray	1	1
+Seal	2	2
+!	NA	NA

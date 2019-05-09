@@ -1,0 +1,7 @@
+Poor	2	1
+chap	2	2
+!	NA	NA
+said	0	0
+the	0	0
+barmaid	1	2
+.	NA	NA

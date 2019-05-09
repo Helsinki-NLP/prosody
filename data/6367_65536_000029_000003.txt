@@ -1,0 +1,13 @@
+And	0	0
+I	0	1
+thought	2	1
+you	0	0
+would	0	1
+be	0	0
+over	2	1
+to	0	0
+see	0	0
+us	2	1
+this	0	0
+evening	1	2
+.	NA	NA

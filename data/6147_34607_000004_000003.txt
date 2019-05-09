@@ -1,0 +1,17 @@
+good	2	0
+natured	0	1
+,	NA	NA
+her	0	0
+ideal	1	0
+was	0	1
+to	0	0
+allow	1	0
+none	1	0
+to	0	2
+despair	2	0
+,	NA	NA
+and	0	1
+to	0	0
+worry	1	0
+all	2	2
+.	NA	NA

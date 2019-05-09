@@ -1,0 +1,16 @@
+Hence	2	0
+it	0	0
+was	1	0
+that	1	2
+,	NA	NA
+in	1	0
+spite	2	0
+of	0	1
+myself	1	2
+,	NA	NA
+I	2	0
+was	0	0
+moved	1	1
+to	0	0
+tears	2	2
+.	NA	NA

@@ -1,0 +1,7 @@
+It	2	0
+seemed	2	1
+to	0	0
+help	2	0
+him	0	0
+think	1	2
+.	NA	NA

@@ -1,0 +1,10 @@
+Dinner	2	0
+will	0	1
+be	0	0
+ready	2	0
+almost	0	0
+immediately	1	1
+,	NA	NA
+he	0	0
+said	2	2
+.	NA	NA

@@ -1,0 +1,4 @@
+Look	2	0
+at	1	1
+Pears's	0	0
+.	NA	NA

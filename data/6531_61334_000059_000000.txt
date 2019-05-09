@@ -1,0 +1,15 @@
+In	0	0
+time	2	2
+Jehoiada	2	2
+stirred	2	0
+up	0	0
+a	0	0
+revolt	1	0
+against	0	1
+the	0	0
+Baal	1	0
+worshipping	0	0
+queen	0	0
+of	0	0
+Judah	1	2
+.	NA	NA

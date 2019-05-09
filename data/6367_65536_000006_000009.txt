@@ -1,0 +1,10 @@
+With	2	0
+the	0	0
+thought	2	2
+came	0	0
+a	0	0
+great	2	1
+yearning	1	1
+for	0	0
+home	1	2
+.	NA	NA

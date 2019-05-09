@@ -1,0 +1,6 @@
+How	1	0
+long	0	0
+had	0	0
+he	0	1
+slept	2	2
+?	NA	NA

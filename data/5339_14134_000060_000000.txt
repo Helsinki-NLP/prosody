@@ -1,0 +1,14 @@
+'I'm	0	0
+not	0	0
+going	2	1
+by	0	0
+York	1	2
+;	NA	NA
+I'm	0	0
+going	2	0
+by	0	0
+a	0	0
+Newcastle	1	0
+smack	0	2
+.	NA	NA
+'	NA	NA

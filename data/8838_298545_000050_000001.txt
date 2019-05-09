@@ -1,0 +1,16 @@
+Work	2	0
+the	1	1
+grease	1	0
+out	1	0
+of	0	0
+him	0	1
+and	0	0
+I	0	0
+lay	1	0
+there's	0	1
+no	2	0
+great	2	1
+difference	0	1
+between	0	0
+them	2	2
+.	NA	NA

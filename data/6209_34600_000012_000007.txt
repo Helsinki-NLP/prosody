@@ -1,0 +1,4 @@
+Hence	1	0
+arise	1	0
+entanglements	1	2
+.	NA	NA

@@ -1,0 +1,7 @@
+For	1	0
+of	0	1
+course	2	0
+he'll	0	1
+tell	1	0
+her	2	2
+.	NA	NA

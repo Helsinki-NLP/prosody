@@ -1,0 +1,13 @@
+She	2	0
+was	0	0
+very	1	1
+close	1	0
+now	2	2
+,	NA	NA
+within	1	0
+a	0	0
+few	0	0
+feet	0	0
+of	0	0
+us	2	2
+.	NA	NA

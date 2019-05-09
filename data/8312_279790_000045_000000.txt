@@ -1,0 +1,7 @@
+Ah	2	2
+!	NA	NA
+do	0	0
+not	1	1
+deceive	0	0
+me	1	2
+.	NA	NA

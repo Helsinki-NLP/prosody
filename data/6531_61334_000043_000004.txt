@@ -1,0 +1,6 @@
+In	0	0
+eight	2	1
+fifty	0	1
+one	2	0
+b	0	1
+c	1	2

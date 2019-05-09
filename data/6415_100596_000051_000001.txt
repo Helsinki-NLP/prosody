@@ -1,0 +1,5 @@
+She	1	0
+couldn't	2	0
+have	0	1
+come	1	2
+.	NA	NA

@@ -1,0 +1,14 @@
+The	0	0
+extension	2	0
+of	0	1
+man's	1	1
+view	0	0
+works	2	0
+a	0	1
+momentous	1	0
+change	2	2
+in	0	0
+his	0	0
+economic	0	0
+estimates	2	2
+.	NA	NA

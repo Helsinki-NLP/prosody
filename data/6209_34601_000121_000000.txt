@@ -1,0 +1,4 @@
+You	2	0
+little	0	1
+scamp	2	2
+!	NA	NA

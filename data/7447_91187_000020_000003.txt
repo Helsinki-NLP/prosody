@@ -1,0 +1,15 @@
+An	1	0
+accentuation	2	0
+like	1	1
+the	0	0
+ringing	0	0
+of	0	1
+distant	0	0
+bells	2	2
+is	1	0
+frequently	0	0
+heard	2	0
+in	0	1
+his	0	0
+music	0	2
+.	NA	NA

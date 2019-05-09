@@ -1,0 +1,16 @@
+Nothing	2	0
+seems	0	1
+more	1	0
+unfit	1	2
+to	0	0
+give	0	0
+a	0	0
+deeper	1	0
+meaning	0	0
+to	0	0
+life	2	2
+and	1	0
+a	0	0
+higher	0	0
+value	1	2
+.	NA	NA

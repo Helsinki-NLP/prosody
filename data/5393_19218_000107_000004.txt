@@ -1,0 +1,8 @@
+I	2	0
+run	0	0
+the	0	0
+risk	0	0
+of	0	1
+being	0	0
+nabbed	2	2
+.	NA	NA
