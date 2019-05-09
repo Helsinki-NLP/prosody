@@ -21,7 +21,7 @@ parser.add_argument('--log_every',
                     default=10)
 parser.add_argument('--learning_rate',
                     type=float,
-                    default=0.0005)
+                    default=0.0001)
 parser.add_argument('--weight_decay',
                     type=float,
                     default=0)
@@ -121,7 +121,7 @@ def train(model, iterator, optimizer, criterion, config):
     print('\nTraining started...\n')
     model.train()
     for i, batch in enumerate(iterator):
-        words, x, tags, y, seqlens = batch
+        words, x, is_main_piece, tags, y, seqlens = batch
         optimizer.zero_grad()
         logits, y, _ = model(x, y) # logits: (N, T, VOCAB), y: (N, T)
 
@@ -142,24 +142,26 @@ def evaluate(model, iterator, tag_to_index, index_to_tag, config):
 
     model.eval()
 
-    Words, Tags, Y, Y_hat = [], [], [], []
+    Words, Is_main_piece, Tags, Y, Y_hat = [], [], [], [], []
     with torch.no_grad():
         for i, batch in enumerate(iterator):
-            words, x, tags, y, seqlens = batch
+            words, x, is_main_piece, tags, y, seqlens = batch
 
             _, _, y_hat = model(x, y)  # y_hat: (N, T)
 
             Words.extend(words)
+            Is_main_piece.extend(is_main_piece)
             Tags.extend(tags)
             Y.extend(y.numpy().tolist())
             Y_hat.extend(y_hat.cpu().numpy().tolist())
 
     # gets results and save
     with open(config.save_path, 'w') as results:
-        for words, tags, y_hat in zip(Words, Tags, Y_hat):
+        for words, is_main_piece, tags, y_hat in zip(Words, Is_main_piece, Tags, Y_hat):
+            y_hat = [hat for head, hat in zip(is_main_piece, y_hat) if head == 1]
             preds = [index_to_tag[hat] for hat in y_hat]
-            # assert len(preds) == len(words.split()) == len(tags.split())
-            for w, t, p in zip(words.split()[1:-1], tags.split()[1:-1], preds):
+            assert len(preds) == len(words.split()) == len(tags.split())
+            for w, t, p in zip(words.split()[1:-1], tags.split()[1:-1], preds[1:-1]):
                 results.write("{} {} {}\n".format(w, t, p))
             results.write("\n")
 

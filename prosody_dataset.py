@@ -27,6 +27,7 @@ class ProsodyDataset(data.Dataset):
         words, tags = self.sents[id], self.tags_li[id] # words, tags: string list
 
         x, y = [], [] # list of ids
+        is_main_piece = [] # only score the "head" of each word
         for w, t in zip(words, tags):
             tokens = self.tokenizer.tokenize(w) if w not in ("[CLS]", "[SEP]") else [w]
             xx = self.tokenizer.convert_tokens_to_ids(tokens)
@@ -34,16 +35,20 @@ class ProsodyDataset(data.Dataset):
             t = [t] + ["<pad>"] * (len(tokens) - 1)  # <PAD>: no decision
             yy = [self.tag_to_index[each] for each in t]  # (T,)
 
+            head = [1] + [0]*(len(tokens) - 1)
+
             x.extend(xx)
+            is_main_piece.extend(head)
             y.extend(yy)
 
+        assert len(x) == len(y) == len(is_main_piece), "len(x)={}, len(y)={}, len(is_main_piece)={}".format(len(x), len(y), len(is_main_piece))
         # seqlen
         seqlen = len(y)
 
         # to string
         words = " ".join(words)
         tags = " ".join(tags)
-        return words, x, tags, y, seqlen
+        return words, x, is_main_piece, tags, y, seqlen
 
 
 def load_data(config):
@@ -63,7 +68,7 @@ def load_data(config):
             tagged_sents.append(sent)
         else:
             break
-        if files >= config.no_of_sents:
+        if files >= config.number_of_sents:
             break
 
     tags = list(set(word_tag[1] for sent in tagged_sents for word_tag in sent))
@@ -81,10 +86,11 @@ def load_data(config):
 
 
 def pad(batch):
-    # Pads to the longest sample
+    '''Pads to the longest sample'''
     f = lambda x: [sample[x] for sample in batch]
     words = f(0)
-    tags = f(2)
+    is_main_piece = f(2)
+    tags = f(3)
     seqlens = f(-1)
     maxlen = np.array(seqlens).max()
 
@@ -92,5 +98,7 @@ def pad(batch):
     x = f(1, maxlen)
     y = f(-2, maxlen)
 
+
     f = torch.LongTensor
-    return words, f(x), tags, f(y), seqlens
+
+    return words, f(x), is_main_piece, tags, f(y), seqlens
