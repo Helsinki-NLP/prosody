@@ -27,7 +27,7 @@ class ProsodyDataset(data.Dataset):
         words, tags = self.sents[id], self.tags_li[id] # words, tags: string list
 
         x, y = [], [] # list of ids
-        is_main_piece = [] # only score the "head" of each word
+        is_main_piece = [] # only score the main piece of each word
         for w, t in zip(words, tags):
             tokens = self.tokenizer.tokenize(w) if w not in ("[CLS]", "[SEP]") else [w]
             xx = self.tokenizer.convert_tokens_to_ids(tokens)
@@ -35,7 +35,7 @@ class ProsodyDataset(data.Dataset):
             t = [t] + ["<pad>"] * (len(tokens) - 1)  # <PAD>: no decision
             yy = [self.tag_to_index[each] for each in t]  # (T,)
 
-            head = [1] + [0]*(len(tokens) - 1)
+            head = [1] + [0]*(len(tokens) - 1) # identify the main piece of each word
 
             x.extend(xx)
             is_main_piece.extend(head)
@@ -78,15 +78,18 @@ def load_data(config):
     index_to_tag = {index: tag for index, tag in enumerate(tags)}
 
     # Let's split the data into train and test (or eval)
-    train_data, test_data = train_test_split(tagged_sents, test_size=config.test_split_ratio)
+    train_data, validation_data = train_test_split(tagged_sents, test_size=2*config.test_and_dev_split)
+    dev_data, test_data = train_test_split(validation_data, test_size=.5)
+
     print('Training data: {}'.format(len(train_data)))
+    print('Dev data: {}'.format(len(dev_data)))
     print('Test data: {}'.format(len(test_data)))
 
-    return train_data, test_data, tag_to_index, index_to_tag
+    return train_data, test_data, dev_data, tag_to_index, index_to_tag
 
 
 def pad(batch):
-    '''Pads to the longest sample'''
+    # Pad sentences to the longest sample
     f = lambda x: [sample[x] for sample in batch]
     words = f(0)
     is_main_piece = f(2)
