@@ -79,7 +79,7 @@ def evaluate(model, iterator, tag_to_index, index_to_tag):
     # gets results and save
     with open("result.txt", 'w') as results:
         # for words, is_heads, tags, y_hat in zip(words, is_heads, Tags, Y_hat):
-        for words, is_heads, tags, y_hat in zip(words, Tags, Y_hat):
+        for words, tags, y_hat in zip(words, Tags, Y_hat):
             #y_hat = [hat for head, hat in zip(is_heads, y_hat) if head == 1]
             preds = [index_to_tag[hat] for hat in y_hat]
             # assert len(preds) == len(words.split()) == len(tags.split())
