@@ -10,7 +10,7 @@ DATADIR = "data/"
 
 
 class ProsodyDataset(data.Dataset):
-    def __init__(self, tagged_sents, tag2id):
+    def __init__(self, tagged_sents, tag_to_index):
         sents, tags_li = [], [] # list of lists
         for sent in tagged_sents:
             words = [word_tag[0] for word_tag in sent]
@@ -19,7 +19,7 @@ class ProsodyDataset(data.Dataset):
             tags_li.append(["<pad>"] + tags + ["<pad>"])
         self.sents, self.tags_li = sents, tags_li
         self.tokenizer = BertTokenizer.from_pretrained('bert-base-cased', do_lower_case=False)
-        self.tag2id = tag2id
+        self.tag_to_index = tag_to_index
 
     def __len__(self):
         return len(self.sents)
@@ -37,7 +37,7 @@ class ProsodyDataset(data.Dataset):
             is_head = [1] + [0]*(len(tokens) - 1)
 
             t = [t] + ["<pad>"] * (len(tokens) - 1)  # <PAD>: no decision
-            yy = [self.tag2id[each] for each in t]  # (T,)
+            yy = [self.tag_to_index[each] for each in t]  # (T,)
 
             x.extend(xx)
             is_heads.extend(is_head)

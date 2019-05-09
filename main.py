@@ -56,7 +56,7 @@ def train(model, iterator, optimizer, criterion):
 
         optimizer.step()
 
-        if i%10==0: # monitoring
+        if i%100==0: # monitoring
             print("step: {}, loss: {}".format(i, loss.item()))
 
 
@@ -77,18 +77,19 @@ def evaluate(model, iterator, tag_to_index, index_to_tag):
             Y_hat.extend(y_hat.cpu().numpy().tolist())
 
     # gets results and save
-    with open("result", 'w') as fout:
-        for words, is_heads, tags, y_hat in zip(words, is_heads, Tags, Y_hat):
-            y_hat = [hat for head, hat in zip(is_heads, y_hat) if head == 1]
+    with open("result.txt", 'w') as results:
+        # for words, is_heads, tags, y_hat in zip(words, is_heads, Tags, Y_hat):
+        for words, is_heads, tags, y_hat in zip(words, Tags, Y_hat):
+            #y_hat = [hat for head, hat in zip(is_heads, y_hat) if head == 1]
             preds = [index_to_tag[hat] for hat in y_hat]
-            assert len(preds) == len(words.split()) == len(tags.split())
+            # assert len(preds) == len(words.split()) == len(tags.split())
             for w, t, p in zip(words.split()[1:-1], tags.split()[1:-1], preds[1:-1]):
-                fout.write("{} {} {}\n".format(w, t, p))
-            fout.write("\n")
+                results.write("{} {} {}\n".format(w, t, p))
+            results.write("\n")
 
     # calc metric
-    y_true = np.array([tag_to_index[line.split()[1]] for line in open('result', 'r').read().splitlines() if len(line) > 0])
-    y_pred = np.array([tag_to_index[line.split()[2]] for line in open('result', 'r').read().splitlines() if len(line) > 0])
+    y_true = np.array([tag_to_index[line.split()[1]] for line in open('result.txt', 'r').read().splitlines() if len(line) > 0])
+    y_pred = np.array([tag_to_index[line.split()[2]] for line in open('result.txt', 'r').read().splitlines() if len(line) > 0])
 
     acc = (y_true == y_pred).astype(np.int32).sum() / len(y_true)
 
