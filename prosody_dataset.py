@@ -47,21 +47,6 @@ class ProsodyDataset(data.Dataset):
         return words, x, tags, y, seqlen
 
 
-def load_pos_data():
-    tagged_sents = nltk.corpus.treebank.tagged_sents()
-    tags = list(set(word_tag[1] for sent in tagged_sents for word_tag in sent))
-    tags = ["<pad>"] + tags
-
-    tag2id = {tag: id for id, tag in enumerate(tags)}
-    id2tag = {id: tag for id, tag in enumerate(tags)}
-
-    # Let's split the data into train and test (or eval)
-    train_data, test_data = train_test_split(tagged_sents, test_size=.1)
-    len(train_data), len(test_data)
-
-    return train_data, test_data, tag2id, id2tag
-
-
 def load_data():
     directory = os.fsencode(DATADIR)
     tagged_sents = []

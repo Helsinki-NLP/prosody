@@ -22,9 +22,23 @@ parser.add_argument('--log_every',
 parser.add_argument('--learning_rate',
                     type=float,
                     default=0.0005)
+parser.add_argument('--weight_decay',
+                    type=float,
+                    default=0)
 parser.add_argument('--gpu',
                     type=int,
                     default=0)
+parser.add_argument("--optimizer",
+                    type=str,
+                    choices=['rprop',
+                             'adadelta',
+                             'adagrad',
+                             'rmsprop',
+                             'adamax',
+                             'asgd',
+                             'adam',
+                             'sgd'],
+                    default='adam')
 
 
 def main():
@@ -38,6 +52,27 @@ def main():
     else:
         print("GPU not available. Training on CPU.")
         device = 'cpu'
+
+
+    # Optimizer
+    if config.optimizer == 'adadelta':
+        optim_algorithm = optim.Adadelta
+    elif config.optimizer == 'adagrad':
+        optim_algorithm = optim.Adagrad
+    elif config.optimizer == 'adam':
+        optim_algorithm = optim.Adam
+    elif config.optimizer == 'adamax':
+        optim_algorithm = optim.Adamax
+    elif config.optimizer == 'asgd':
+        optim_algorithm = optim.ASGD
+    elif config.optimizer == 'rmsprop':
+        optim_algorithm = optim.RMSprop
+    elif config.optimizer == 'rprop':
+        optim_algorithm = optim.Rprop
+    elif config.optimizer == 'sgd':
+        optim_algorithm = optim.SGD
+    else:
+        raise Exception('Unknown optimization optimizer: "%s"' % config.optimizer)
 
     train_data, test_data, tag_to_index, index_to_tag = prosody_dataset.load_data()
 
@@ -59,7 +94,9 @@ def main():
                                 num_workers=1,
                                 collate_fn=prosody_dataset.pad)
 
-    optimizer = optim.Adam(model.parameters(), lr=config.learning_rate)
+    optimizer = optim_algorithm(model.parameters(),
+                                lr=config.learning_rate,
+                                weight_decay=config.weight_decay)
 
     criterion = nn.CrossEntropyLoss(ignore_index=0)
 
