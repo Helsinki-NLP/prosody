@@ -2,7 +2,6 @@ import os
 from torch.utils import data
 from pytorch_pretrained_bert import BertTokenizer
 from sklearn.model_selection import train_test_split
-#import nltk
 import torch
 import numpy as np
 
@@ -47,7 +46,7 @@ class ProsodyDataset(data.Dataset):
         return words, x, tags, y, seqlen
 
 
-def load_data():
+def load_data(config):
     directory = os.fsencode(DATADIR)
     tagged_sents = []
     files = 0
@@ -64,7 +63,7 @@ def load_data():
             tagged_sents.append(sent)
         else:
             break
-        if files > 1000:
+        if files >= config.no_of_sents:
             break
 
     tags = list(set(word_tag[1] for sent in tagged_sents for word_tag in sent))
@@ -74,7 +73,7 @@ def load_data():
     index_to_tag = {index: tag for index, tag in enumerate(tags)}
 
     # Let's split the data into train and test (or eval)
-    train_data, test_data = train_test_split(tagged_sents, test_size=.1)
+    train_data, test_data = train_test_split(tagged_sents, test_size=config.test_split_ratio)
     print('Training data: {}'.format(len(train_data)))
     print('Test data: {}'.format(len(test_data)))
 

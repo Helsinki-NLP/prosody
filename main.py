@@ -28,6 +28,12 @@ parser.add_argument('--weight_decay',
 parser.add_argument('--gpu',
                     type=int,
                     default=0)
+parser.add_argument('--number_of_sents',
+                    type=int,
+                    default=1000)
+parser.add_argument('--test_split_ratio',
+                    type=float,
+                    default=.1)
 parser.add_argument("--optimizer",
                     type=str,
                     choices=['rprop',
@@ -74,7 +80,7 @@ def main():
     else:
         raise Exception('Unknown optimization optimizer: "%s"' % config.optimizer)
 
-    train_data, test_data, tag_to_index, index_to_tag = prosody_dataset.load_data()
+    train_data, test_data, tag_to_index, index_to_tag = prosody_dataset.load_data(config)
 
     model = Net(device, vocab_size=len(tag_to_index))
     model.to(device)
@@ -149,7 +155,7 @@ def evaluate(model, iterator, tag_to_index, index_to_tag, config):
             Y_hat.extend(y_hat.cpu().numpy().tolist())
 
     # gets results and save
-    with open(config.results, 'w') as results:
+    with open(config.save_path, 'w') as results:
         for words, tags, y_hat in zip(Words, Tags, Y_hat):
             preds = [index_to_tag[hat] for hat in y_hat]
             # assert len(preds) == len(words.split()) == len(tags.split())
@@ -158,8 +164,8 @@ def evaluate(model, iterator, tag_to_index, index_to_tag, config):
             results.write("\n")
 
     # calc metric
-    y_true = np.array([tag_to_index[line.split()[1]] for line in open(config.results, 'r').read().splitlines() if len(line) > 0])
-    y_pred = np.array([tag_to_index[line.split()[2]] for line in open(config.results, 'r').read().splitlines() if len(line) > 0])
+    y_true = np.array([tag_to_index[line.split()[1]] for line in open(config.save_path, 'r').read().splitlines() if len(line) > 0])
+    y_pred = np.array([tag_to_index[line.split()[2]] for line in open(config.save_path, 'r').read().splitlines() if len(line) > 0])
 
     acc = (y_true == y_pred).astype(np.int32).sum() / len(y_true)
 
