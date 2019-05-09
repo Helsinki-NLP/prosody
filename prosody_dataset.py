@@ -43,8 +43,6 @@ class ProsodyDataset(data.Dataset):
             is_heads.extend(is_head)
             y.extend(yy)
 
-        #assert len(x)==len(y)==len(is_heads), "len(x)={}, len(y)={}, len(is_heads)={}".format(len(x), len(y), len(is_heads))
-
         # seqlen
         seqlen = len(y)
 
