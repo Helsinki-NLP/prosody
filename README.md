@@ -12,7 +12,7 @@ python3 main.py \
     --batch_size 16 \
     --epochs 5 \
     --save_path results.txt \
-    --log_every 10 \
+    --log_every 50 \
     --learning_rate 0.0001 \
     --weight_decay 0 \
     --gpu 0 \
