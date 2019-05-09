@@ -1,5 +1,0 @@
-You're	2	1
-posted	1	1
-,	NA	NA
-said	0	0
-i	2	2

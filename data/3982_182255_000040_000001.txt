@@ -1,4 +1,0 @@
-You	0	0
-don't	2	1
-say	2	2
-!	NA	NA

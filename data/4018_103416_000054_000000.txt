@@ -1,7 +1,0 @@
-He's	0	0
-not	2	1
-sick	2	0
-,	NA	NA
-is	0	1
-he	2	2
-?	NA	NA

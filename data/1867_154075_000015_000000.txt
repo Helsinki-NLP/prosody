@@ -1,6 +1,0 @@
-And	1	0
-where	1	0
-did	0	0
-it	0	1
-lead	2	2
-?	NA	NA

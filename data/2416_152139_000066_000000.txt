@@ -1,9 +1,0 @@
-You	0	0
-were	0	0
-safe	1	0
-enough	1	1
-,	NA	NA
-he	0	0
-rasped	2	1
-on	2	2
-.	NA	NA

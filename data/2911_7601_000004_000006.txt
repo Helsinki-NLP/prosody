@@ -1,8 +1,0 @@
-For	2	0
-his	0	1
-gold	1	0
-I	0	0
-had	0	0
-no	1	1
-desire	2	2
-.	NA	NA

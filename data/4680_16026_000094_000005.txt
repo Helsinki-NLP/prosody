@@ -1,5 +1,0 @@
-You	2	0
-don't	0	1
-frighten	1	1
-me	2	2
-.	NA	NA

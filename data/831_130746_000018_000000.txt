@@ -1,9 +1,0 @@
-She	0	0
-went	2	1
-,	NA	NA
-sir	1	1
-,	NA	NA
-with	0	0
-Another	0	1
-Gentleman	1	2
-.	NA	NA

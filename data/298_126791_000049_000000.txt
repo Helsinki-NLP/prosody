@@ -1,6 +1,0 @@
-Doubtless	2	1
-it	0	0
-is	1	0
-his	0	1
-duty	1	2
-.	NA	NA

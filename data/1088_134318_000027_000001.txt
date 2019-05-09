@@ -1,6 +1,0 @@
-Pull	2	0
-one	0	0
-out	1	0
-and	0	1
-see	2	2
-!	NA	NA

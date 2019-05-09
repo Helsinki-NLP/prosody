@@ -1,9 +1,0 @@
-Stay	2	1
-,	NA	NA
-said	0	0
-Medea	1	0
-,	NA	NA
-holding	0	1
-him	0	0
-back	2	2
-.	NA	NA

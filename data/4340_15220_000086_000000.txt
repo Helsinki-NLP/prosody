@@ -1,4 +1,0 @@
-Course	1	1
-I	1	0
-do	0	2
-.	NA	NA

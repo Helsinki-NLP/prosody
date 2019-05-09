@@ -1,9 +1,0 @@
-This	0	0
-was	2	0
-,	NA	NA
-indeed	1	1
-,	NA	NA
-a	0	0
-dangerous	1	1
-resort	2	2
-.	NA	NA

@@ -1,5 +1,0 @@
-Don't	2	0
-be	0	1
-frightened	1	2
-.	NA	NA
-'	NA	NA

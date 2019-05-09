@@ -1,8 +1,0 @@
-Yet	1	1
-the	0	0
-questions	2	2
-Does	1	0
-she	0	0
-love	0	0
-me	1	2
-?	NA	NA

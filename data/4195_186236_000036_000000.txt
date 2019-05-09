@@ -1,6 +1,0 @@
-Uncle	0	0
-John's	2	1
-eyes	1	1
-were	0	0
-moist	2	2
-.	NA	NA

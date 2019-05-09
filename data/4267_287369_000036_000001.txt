@@ -1,7 +1,0 @@
-He	0	0
-pointed	1	0
-upward	0	2
-,	NA	NA
-and	0	0
-whispered	1	1
-hoarsely	2	2

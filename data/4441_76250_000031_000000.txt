@@ -1,6 +1,0 @@
-You	0	0
-may	1	0
-depend	1	1
-upon	2	0
-it	0	2
-.	NA	NA

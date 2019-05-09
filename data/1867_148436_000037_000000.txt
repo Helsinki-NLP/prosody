@@ -1,7 +1,0 @@
-Where's	1	0
-the	0	1
-folks	2	1
-?	NA	NA
-he	0	0
-asked	1	2
-.	NA	NA

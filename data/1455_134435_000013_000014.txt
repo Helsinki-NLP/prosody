@@ -1,8 +1,0 @@
-As	0	1
-he	0	0
-talked	2	0
-his	0	1
-left	0	0
-eyelid	2	1
-twitched	1	2
-.	NA	NA

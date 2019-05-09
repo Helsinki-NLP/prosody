@@ -1,9 +1,0 @@
-You	2	0
-,	NA	NA
-of	0	1
-course	1	1
-,	NA	NA
-will	1	0
-insure	0	0
-yours	2	2
-.	NA	NA

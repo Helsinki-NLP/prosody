@@ -1,7 +1,0 @@
-Question	2	2
-.	NA	NA
-Well	2	0
-what's	0	1
-the	0	0
-situation	1	2
-?	NA	NA

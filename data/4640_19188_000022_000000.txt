@@ -1,9 +1,0 @@
-All	2	0
-dropped	1	1
-their	1	0
-heads	0	0
-with	0	1
-a	0	0
-gloomy	0	0
-air	1	2
-.	NA	NA

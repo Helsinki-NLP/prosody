@@ -1,6 +1,0 @@
-I	1	0
-rode	2	1
-,	NA	NA
-said	0	0
-Coronel	1	2
-.	NA	NA

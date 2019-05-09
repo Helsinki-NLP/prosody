@@ -1,9 +1,0 @@
-Why	2	0
-,	NA	NA
-Diana	0	0
-,	NA	NA
-what	1	0
-is	0	2
-the	0	0
-matter	2	2
-?	NA	NA

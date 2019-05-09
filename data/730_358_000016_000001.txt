@@ -1,6 +1,0 @@
-The	0	0
-meal	2	0
-was	0	1
-quickly	0	0
-dispatched	2	2
-.	NA	NA

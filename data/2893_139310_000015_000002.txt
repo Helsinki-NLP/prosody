@@ -1,7 +1,0 @@
-They	1	0
-rule	2	0
-it	0	1
-in	0	0
-your	1	0
-name	2	2
-.	NA	NA

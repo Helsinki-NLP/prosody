@@ -1,7 +1,0 @@
-I	1	0
-can	0	0
-let	0	1
-you	0	0
-have	2	0
-it	0	2
-.	NA	NA

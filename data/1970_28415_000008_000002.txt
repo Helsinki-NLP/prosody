@@ -1,7 +1,0 @@
-Everyone	2	1
-seemed	1	0
-to	0	1
-be	0	0
-saying	2	0
-it	1	2
-.	NA	NA

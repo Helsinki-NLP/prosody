@@ -1,7 +1,0 @@
-It	1	0
-is	0	1
-wonderful	0	1
-!	NA	NA
-murmured	1	1
-Ferralti	2	2
-.	NA	NA

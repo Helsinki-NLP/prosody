@@ -1,7 +1,0 @@
-Adventures	2	0
-!	NA	NA
-she	0	1
-called	0	0
-back	0	1
-excitedly	1	2
-.	NA	NA

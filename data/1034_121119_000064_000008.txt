@@ -1,5 +1,0 @@
-Have	0	0
-they	1	1
-loved	2	1
-me	2	2
-?	NA	NA

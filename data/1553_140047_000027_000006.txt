@@ -1,9 +1,0 @@
-Do	0	1
-they	0	0
-have	2	0
-green	1	1
-petticoats	1	1
-,	NA	NA
-I	1	0
-wonder	2	2
-?	NA	NA

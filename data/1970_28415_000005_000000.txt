@@ -1,5 +1,0 @@
-They	0	0
-shouted	1	1
-,	NA	NA
-Hosanna	2	2
-!	NA	NA

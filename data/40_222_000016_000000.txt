@@ -1,9 +1,0 @@
-It	0	0
-contained	2	0
-something	0	1
-worse	2	0
-than	0	1
-anybody	1	0
-could	0	1
-suppose	2	2
-!	NA	NA

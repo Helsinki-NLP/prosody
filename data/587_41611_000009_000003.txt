@@ -1,8 +1,0 @@
-I	2	0
-think	0	1
-it's	0	0
-a	0	0
-shame	1	1
-,	NA	NA
-too	2	2
-.	NA	NA

@@ -1,7 +1,0 @@
-Life	2	0
-went	0	0
-on	1	0
-much	0	0
-as	0	1
-before	2	2
-.	NA	NA

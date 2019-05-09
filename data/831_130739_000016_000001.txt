@@ -1,6 +1,0 @@
-The	0	0
-apprentice	2	0
-becomes	0	1
-extremely	2	0
-active	2	2
-.	NA	NA

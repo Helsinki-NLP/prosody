@@ -1,7 +1,0 @@
-She	2	0
-was	0	0
-so	1	1
-beautiful	1	0
-on	0	1
-Sunday	1	2
-.	NA	NA

@@ -1,6 +1,0 @@
-About	2	0
-the	0	1
-new	0	0
-war	2	1
-contracts	1	2
-.	NA	NA

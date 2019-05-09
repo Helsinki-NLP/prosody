@@ -1,5 +1,0 @@
-I	0	0
-could	0	0
-not	2	1
-describe	1	1
-her	1	2

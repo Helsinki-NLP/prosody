@@ -1,4 +1,0 @@
-Got	1	0
-a	0	1
-pass	2	2
-?	NA	NA

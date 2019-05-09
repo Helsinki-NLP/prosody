@@ -1,7 +1,0 @@
-Merriwig	2	1
-was	0	0
-in	0	0
-an	0	0
-awkward	0	1
-position	1	2
-.	NA	NA

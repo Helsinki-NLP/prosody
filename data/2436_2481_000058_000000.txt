@@ -1,6 +1,0 @@
-His	0	0
-voice	0	0
-rang	0	0
-shrilly	0	2
-Stop	2	2
-!	NA	NA

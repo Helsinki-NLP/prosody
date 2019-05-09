@@ -1,5 +1,0 @@
-Can't	1	0
-what	1	1
-,	NA	NA
-Bibbs	2	2
-?	NA	NA

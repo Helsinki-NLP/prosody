@@ -1,5 +1,0 @@
-I	1	0
-shall	0	0
-have	1	1
-Tink	2	2
-.	NA	NA

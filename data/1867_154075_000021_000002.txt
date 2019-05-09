@@ -1,7 +1,0 @@
-I've	2	0
-been	1	0
-here	0	1
-for	0	0
-some	0	1
-time	2	2
-.	NA	NA

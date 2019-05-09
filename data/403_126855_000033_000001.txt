@@ -1,6 +1,0 @@
-Quick	2	1
-!	NA	NA
-Make	1	0
-a	0	0
-bridge	2	2
-!	NA	NA

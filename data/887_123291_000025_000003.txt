@@ -1,5 +1,0 @@
-There	1	0
-stands	1	1
-the	0	0
-body	2	2
-!	NA	NA

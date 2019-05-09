@@ -1,9 +1,0 @@
-There	1	0
-is	0	0
-only	1	0
-one	1	1
-thing	0	0
-left	1	1
-to	0	0
-do	1	2
-.	NA	NA

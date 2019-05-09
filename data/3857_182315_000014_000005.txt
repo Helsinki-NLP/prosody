@@ -1,5 +1,0 @@
-What	1	0
-could	0	0
-you	0	0
-expect	2	2
-?	NA	NA

@@ -1,6 +1,0 @@
-That's	2	1
-what	0	0
-he	0	0
-told	0	0
-me	2	2
-.	NA	NA

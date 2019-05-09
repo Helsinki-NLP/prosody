@@ -1,7 +1,0 @@
-Quillan	2	1
-came	0	0
-back	2	0
-to	0	1
-his	0	0
-chair	2	2
-.	NA	NA

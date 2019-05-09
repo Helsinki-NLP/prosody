@@ -1,9 +1,0 @@
-One	2	0
-O	0	1
-Two	0	0
-instead	0	0
-of	0	2
-One	2	0
-Two	0	0
-Seven	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-You	1	0
-are	0	0
-not	0	0
-in	0	0
-debt	1	2
-,	NA	NA
-then	2	2
-?	NA	NA

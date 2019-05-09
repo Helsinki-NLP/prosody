@@ -1,8 +1,0 @@
-Look	2	0
-at	0	1
-that	1	1
-woman	1	0
-in	0	0
-the	0	1
-picture	1	2
-!	NA	NA

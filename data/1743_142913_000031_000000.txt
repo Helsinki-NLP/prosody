@@ -1,9 +1,0 @@
-Have	0	1
-you	0	0
-got	2	0
-two	0	1
-homes	1	0
-?	NA	NA
-asked	1	1
-peter	2	2
-.	NA	NA

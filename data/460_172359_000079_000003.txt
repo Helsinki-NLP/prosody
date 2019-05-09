@@ -1,8 +1,0 @@
-And	1	0
-who	0	0
-do	0	0
-they	1	1
-give	1	0
-it	0	2
-to	2	2
-?	NA	NA

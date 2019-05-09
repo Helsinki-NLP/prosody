@@ -1,9 +1,0 @@
-Ah	2	2
-!	NA	NA
-murmured	1	1
-the	0	0
-man	0	0
-of	0	1
-the	0	0
-sneer	1	2
-.	NA	NA

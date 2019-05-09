@@ -1,5 +1,0 @@
-Oh	2	0
-,	NA	NA
-how	0	1
-exciting	2	2
-!	NA	NA

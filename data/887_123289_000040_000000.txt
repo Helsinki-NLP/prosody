@@ -1,6 +1,0 @@
-But	2	0
-where	1	0
-is	0	1
-the	0	0
-compass	2	2
-?	NA	NA

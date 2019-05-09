@@ -1,6 +1,0 @@
-We	1	0
-can	0	0
-talk	2	1
-between	0	1
-bites	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-He's	1	0
-official	1	1
-fence	1	0
-mender	0	0
-just	0	1
-at	0	0
-present	2	2
-.	NA	NA

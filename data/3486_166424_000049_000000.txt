@@ -1,7 +1,0 @@
-To	0	0
-the	1	1
-fissure	1	0
-!	NA	NA
-shouted	0	1
-Ventnor	2	2
-.	NA	NA

@@ -1,7 +1,0 @@
-The	0	1
-divorce	2	0
-was	0	1
-pronounced	1	1
-without	1	0
-opposition	1	2
-.	NA	NA

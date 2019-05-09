@@ -1,8 +1,0 @@
-mr	0	0
-Merrick	1	0
-looked	0	1
-at	0	0
-the	0	0
-driver	1	1
-carefully	2	2
-.	NA	NA

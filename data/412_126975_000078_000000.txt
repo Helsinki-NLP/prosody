@@ -1,7 +1,0 @@
-He	0	0
-was	2	2
-?	NA	NA
-called	2	0
-Fischer	0	0
-inquiringly	1	2
-.	NA	NA

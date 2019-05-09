@@ -1,6 +1,0 @@
-I	0	0
-bade	2	0
-the	0	1
-gentlemen	0	1
-welcome	1	2
-.	NA	NA

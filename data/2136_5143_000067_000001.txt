@@ -1,4 +1,0 @@
-What	1	0
-cross	0	1
-girl	2	2
-!	NA	NA

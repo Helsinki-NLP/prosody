@@ -1,6 +1,0 @@
-Go	2	0
-to	0	1
-the	0	0
-Buck's	2	1
-Head	1	2
-.	NA	NA

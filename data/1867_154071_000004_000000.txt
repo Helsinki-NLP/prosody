@@ -1,6 +1,0 @@
-It	1	1
-was	0	0
-vastly	2	1
-wearying	1	0
-work	2	2
-.	NA	NA

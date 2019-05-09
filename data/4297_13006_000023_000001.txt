@@ -1,9 +1,0 @@
-But	1	0
-I	0	0
-should	2	0
-have	0	1
-wished	2	1
-to	0	1
-accept	1	1
-him	1	2
-.	NA	NA

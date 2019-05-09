@@ -1,8 +1,0 @@
-Closing	2	0
-the	0	0
-Woman's	1	1
-Party	1	0
-headquarters	1	0
-was	0	1
-discussed	2	2
-.	NA	NA

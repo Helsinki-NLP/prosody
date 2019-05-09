@@ -1,6 +1,0 @@
-You	2	0
-sent	1	0
-up	0	0
-for	0	1
-snicks	2	2
-!	NA	NA

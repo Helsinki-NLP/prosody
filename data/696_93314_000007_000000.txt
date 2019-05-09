@@ -1,8 +1,0 @@
-Even	0	0
-then	1	1
-he	0	0
-tried	2	0
-to	0	1
-be	0	0
-strong	2	2
-.	NA	NA

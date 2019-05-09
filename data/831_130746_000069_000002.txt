@@ -1,3 +1,0 @@
-Well	1	1
-Chris	2	2
-.	NA	NA

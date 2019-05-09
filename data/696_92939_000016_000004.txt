@@ -1,6 +1,0 @@
-All	2	0
-these	0	1
-promises	1	1
-were	0	0
-broken	1	2
-.	NA	NA

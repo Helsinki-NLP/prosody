@@ -1,6 +1,0 @@
-Oh	2	2
-!	NA	NA
-Conny	1	0
-murmured	0	0
-disappointedly	1	2
-.	NA	NA

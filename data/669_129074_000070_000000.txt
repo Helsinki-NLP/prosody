@@ -1,7 +1,0 @@
-The	0	1
-Colonel's	2	1
-brow	0	0
-darkened	0	1
-at	0	0
-this	1	2
-.	NA	NA

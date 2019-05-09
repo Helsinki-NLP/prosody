@@ -1,3 +1,0 @@
-Shet	2	1
-up	0	2
-!	NA	NA

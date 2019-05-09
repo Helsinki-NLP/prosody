@@ -1,5 +1,0 @@
-Has	1	0
-Woods	1	0
-an	0	1
-aeroplane	2	2
-?	NA	NA

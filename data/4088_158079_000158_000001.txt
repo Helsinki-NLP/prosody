@@ -1,4 +1,0 @@
-Still	2	0
-others	0	1
-advanced	1	2
-.	NA	NA

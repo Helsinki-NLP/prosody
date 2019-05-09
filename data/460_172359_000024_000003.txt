@@ -1,5 +1,0 @@
-He	0	0
-did	1	0
-it	0	1
-too	2	2
-.	NA	NA

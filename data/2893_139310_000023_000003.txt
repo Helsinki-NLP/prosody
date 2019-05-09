@@ -1,4 +1,0 @@
-They	0	0
-were	1	1
-cunning	1	2
-.	NA	NA

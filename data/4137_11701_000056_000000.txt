@@ -1,7 +1,0 @@
-Don't	2	1
-be	0	0
-a	0	0
-fool	0	0
-,	NA	NA
-Coronel	1	2
-.	NA	NA

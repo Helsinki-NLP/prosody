@@ -1,8 +1,0 @@
-Did	0	0
-you	0	1
-bring	0	0
-us	2	0
-some	0	1
-wedding	0	0
-cake	2	2
-?	NA	NA

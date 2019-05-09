@@ -1,6 +1,0 @@
-What	2	1
-fine	2	0
-words	0	1
-he	0	0
-uses	1	2
-!	NA	NA

@@ -1,5 +1,0 @@
-She	0	0
-had	1	0
-a	0	1
-beard	2	2
-.	NA	NA

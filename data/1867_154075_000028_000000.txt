@@ -1,9 +1,0 @@
-john	2	2
-began	1	0
-ruth	0	1
-Tolliver	1	1
-,	NA	NA
-her	0	0
-voice	1	0
-shaking	0	2
-.	NA	NA

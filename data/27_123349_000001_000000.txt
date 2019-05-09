@@ -1,7 +1,0 @@
-At	2	0
-length	1	2
-all	2	0
-differences	0	1
-were	0	0
-compromised	1	2
-.	NA	NA

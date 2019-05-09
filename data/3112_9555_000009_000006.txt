@@ -1,8 +1,0 @@
-But	2	0
-I	0	0
-could	0	0
-not	0	1
-look	2	0
-my	0	1
-feelings	2	2
-.	NA	NA

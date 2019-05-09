@@ -1,6 +1,0 @@
-But	0	0
-I	1	1
-can	1	1
-,	NA	NA
-easily	1	2
-.	NA	NA

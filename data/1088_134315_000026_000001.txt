@@ -1,8 +1,0 @@
-I	2	0
-suppose	1	1
-that	0	0
-is	0	0
-how	0	0
-blackmailers	2	1
-feel	2	2
-.	NA	NA

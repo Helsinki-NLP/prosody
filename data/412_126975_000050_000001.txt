@@ -1,7 +1,0 @@
-There	2	2
-,	NA	NA
-we	1	0
-are	0	0
-all	1	1
-fitted	1	2
-.	NA	NA

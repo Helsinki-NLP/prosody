@@ -1,6 +1,0 @@
-A	0	0
-witness	2	0
-of	0	1
-this	0	0
-fall	1	1
-says	2	2

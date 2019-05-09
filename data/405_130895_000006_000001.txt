@@ -1,8 +1,0 @@
-No	0	0
-crewmen	2	2
-.	NA	NA
-Not	2	0
-even	0	0
-Captain	0	0
-Nemo	1	2
-.	NA	NA

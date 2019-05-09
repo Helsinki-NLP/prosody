@@ -1,7 +1,0 @@
-A	0	0
-long	2	0
-and	0	0
-musing	0	1
-pause	1	1
-succeeded	2	2
-.	NA	NA

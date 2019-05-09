@@ -1,8 +1,0 @@
-But	0	0
-the	0	0
-Administration's	1	1
-policy	2	1
-must	0	1
-go	0	0
-on	2	2
-.	NA	NA

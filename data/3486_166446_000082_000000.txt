@@ -1,6 +1,0 @@
-The	0	1
-Thing	2	1
-split	1	0
-in	0	1
-two	1	2
-.	NA	NA

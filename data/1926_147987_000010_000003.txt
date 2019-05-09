@@ -1,9 +1,0 @@
-I	2	0
-held	0	0
-my	0	0
-breath	1	0
-and	0	1
-lay	0	0
-absolutely	1	1
-still	1	2
-.	NA	NA

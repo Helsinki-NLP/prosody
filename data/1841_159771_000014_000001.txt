@@ -1,9 +1,0 @@
-If	0	0
-I'm	2	0
-not	0	1
-mistaken	1	1
-I	2	0
-heard	0	0
-a	0	1
-squeak	1	2
-.	NA	NA

@@ -1,3 +1,0 @@
-Or	0	0
-still	1	0
-simpler	2	2

@@ -1,6 +1,0 @@
-He	0	0
-had	0	0
-walked	2	1
-some	1	0
-distance	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-I	0	0
-had	2	0
-been	0	1
-too	0	0
-wary	2	1
-for	0	0
-that	2	2
-.	NA	NA

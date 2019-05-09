@@ -1,8 +1,0 @@
-That	2	0
-is	0	1
-the	0	0
-landslide	1	1
-which	0	0
-I	1	1
-predicted	2	2
-!	NA	NA

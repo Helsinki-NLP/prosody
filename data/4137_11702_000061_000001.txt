@@ -1,7 +1,0 @@
-Why	2	0
-didn't	0	0
-I	0	1
-think	1	0
-of	0	1
-him	0	2
-?	NA	NA

@@ -1,4 +1,0 @@
-Poor	1	0
-mrs	0	0
-Low	1	2
-!	NA	NA

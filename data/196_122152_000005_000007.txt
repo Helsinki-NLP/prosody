@@ -1,8 +1,0 @@
-His	1	0
-left	2	1
-arm	1	1
-hung	0	0
-by	0	0
-his	0	1
-side	2	2
-.	NA	NA

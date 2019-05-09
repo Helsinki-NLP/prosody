@@ -1,4 +1,0 @@
-At	1	0
-two	0	1
-o'clock	2	2
-.	NA	NA

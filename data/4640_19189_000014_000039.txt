@@ -1,9 +1,0 @@
-Equality	2	0
-has	0	1
-an	0	0
-organ	1	2
-gratuitous	2	0
-and	0	1
-obligatory	1	0
-instruction	1	2
-.	NA	NA

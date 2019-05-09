@@ -1,7 +1,0 @@
-She	0	0
-took	2	0
-a	0	0
-minute	0	1
-to	0	1
-answer	2	2
-.	NA	NA

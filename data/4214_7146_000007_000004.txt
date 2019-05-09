@@ -1,9 +1,0 @@
-It	0	0
-was	2	0
-a	0	2
-beautiful	2	1
-fairy	0	1
-story	0	0
-,	NA	NA
-Marilla	2	2
-.	NA	NA

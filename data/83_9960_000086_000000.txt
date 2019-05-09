@@ -1,5 +1,0 @@
-We	0	0
-haven't	1	0
-the	0	1
-time	2	2
-.	NA	NA

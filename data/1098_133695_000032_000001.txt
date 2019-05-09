@@ -1,8 +1,0 @@
-I'll	2	1
-come	0	0
-up	0	1
-in	0	0
-half	1	1
-an	0	0
-hour	1	2
-.	NA	NA

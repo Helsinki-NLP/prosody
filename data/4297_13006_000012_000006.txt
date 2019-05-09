@@ -1,7 +1,0 @@
-No	0	0
-doubt	2	0
-the	0	1
-contact	1	0
-was	0	2
-dangerous	1	2
-.	NA	NA

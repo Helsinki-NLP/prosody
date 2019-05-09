@@ -1,7 +1,0 @@
-Pee	0	0
-wee	2	2
-!	NA	NA
-peter	1	0
-chuckled	0	0
-happily	1	2
-.	NA	NA

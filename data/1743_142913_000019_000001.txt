@@ -1,9 +1,0 @@
-Does	0	1
-Cresty	0	0
-make	1	0
-the	1	1
-hole	2	0
-?	NA	NA
-he	0	0
-asked	2	2
-.	NA	NA

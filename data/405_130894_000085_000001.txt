@@ -1,9 +1,0 @@
-The	0	0
-pressure	2	0
-gauge	1	1
-soon	2	0
-indicated	1	0
-an	0	1
-ascending	2	0
-movement	1	2
-.	NA	NA

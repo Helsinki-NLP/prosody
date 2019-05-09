@@ -1,8 +1,0 @@
-The	0	1
-whole	2	0
-five	0	1
-accepted	0	0
-the	0	0
-invitation	0	1
-eagerly	1	2
-.	NA	NA

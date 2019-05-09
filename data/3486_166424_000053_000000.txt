@@ -1,7 +1,0 @@
-Now	1	0
-Chiu	1	0
-Ming	1	0
-was	0	1
-with	2	1
-them	1	2
-.	NA	NA

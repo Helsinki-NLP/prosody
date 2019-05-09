@@ -1,8 +1,0 @@
-The	0	0
-house	2	0
-is	0	1
-taken	1	2
-?	NA	NA
-asked	2	0
-Prudence	0	2
-.	NA	NA

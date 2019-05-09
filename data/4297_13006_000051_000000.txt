@@ -1,7 +1,0 @@
-Is	0	0
-not	0	0
-that	1	1
-prejudice	1	1
-,	NA	NA
-papa	2	2
-?	NA	NA

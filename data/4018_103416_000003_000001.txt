@@ -1,8 +1,0 @@
-People	1	1
-played	2	0
-that	0	1
-they	0	0
-might	1	0
-not	0	1
-think	2	2
-.	NA	NA

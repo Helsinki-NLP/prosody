@@ -1,6 +1,0 @@
-Do	0	0
-you	0	0
-mean	1	0
-Madame	0	0
-Vine	1	2
-?	NA	NA

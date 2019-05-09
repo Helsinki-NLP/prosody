@@ -1,5 +1,0 @@
-our	1	0
-magnificent	0	1
-warehouses	2	2
-?	NA	NA
-'	NA	NA

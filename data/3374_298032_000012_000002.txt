@@ -1,9 +1,0 @@
-My	1	1
-career	1	0
-was	0	0
-ended	1	2
-,	NA	NA
-but	0	0
-not	1	1
-completed	2	2
-.	NA	NA

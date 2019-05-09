@@ -1,8 +1,0 @@
-We	0	0
-had	2	1
-quite	1	0
-a	0	1
-time	2	0
-there	0	1
-together	1	2
-.	NA	NA

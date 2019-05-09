@@ -1,8 +1,0 @@
-They	2	0
-were	0	1
-talking	2	1
-,	NA	NA
-laughing	2	1
-around	0	0
-him	1	2
-.	NA	NA

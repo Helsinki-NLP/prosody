@@ -1,4 +1,0 @@
-The	0	0
-lawyer	2	1
-hesitated	1	2
-.	NA	NA

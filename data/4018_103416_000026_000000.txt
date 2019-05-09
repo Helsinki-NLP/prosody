@@ -1,4 +1,0 @@
-Oh	1	1
-,	NA	NA
-business	2	2
-!	NA	NA

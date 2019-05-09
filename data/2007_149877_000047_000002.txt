@@ -1,9 +1,0 @@
-I	2	0
-wouldn't	0	1
-bother	2	0
-about	1	0
-it	0	1
-myself	2	1
-,	NA	NA
-though	1	2
-.	NA	NA

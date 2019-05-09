@@ -1,5 +1,0 @@
-It	0	0
-is	0	0
-only	1	1
-me	2	2
-.	NA	NA

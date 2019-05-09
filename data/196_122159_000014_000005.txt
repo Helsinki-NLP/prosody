@@ -1,7 +1,0 @@
-And	0	0
-I	2	0
-could	0	1
-think	1	1
-,	NA	NA
-too	1	2
-.	NA	NA

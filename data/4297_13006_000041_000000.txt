@@ -1,6 +1,0 @@
-Never	2	2
-;	NA	NA
-not	1	0
-a	0	0
-word	1	2
-.	NA	NA

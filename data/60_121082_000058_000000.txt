@@ -1,8 +1,0 @@
-Come	2	1
-you	2	0
-understand	0	0
-me	0	1
-;	NA	NA
-but	0	0
-that	1	0
-with	0	2

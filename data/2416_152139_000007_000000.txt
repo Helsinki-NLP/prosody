@@ -1,9 +1,0 @@
-I	0	0
-am	2	0
-mr	0	1
-Carling	1	2
-,	NA	NA
-replied	2	1
-the	0	0
-other	1	2
-.	NA	NA

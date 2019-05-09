@@ -43,7 +43,7 @@ class ProsodyDataset(data.Dataset):
             is_heads.extend(is_head)
             y.extend(yy)
 
-        assert len(x)==len(y)==len(is_heads), "len(x)={}, len(y)={}, len(is_heads)={}".format(len(x), len(y), len(is_heads))
+        #assert len(x)==len(y)==len(is_heads), "len(x)={}, len(y)={}, len(is_heads)={}".format(len(x), len(y), len(is_heads))
 
         # seqlen
         seqlen = len(y)
@@ -70,8 +70,6 @@ def load_pos_data():
 
 
 def load_data():
-    # TODO: update with prosody dataset and loading
-    # TODO: Load sentences into a list as lists of tuples [[('word', 'tag), ...], ...]
     directory = os.fsencode(DATADIR)
     tagged_sents = []
     for file in os.listdir(directory):
@@ -91,8 +89,8 @@ def load_data():
     tags = list(set(word_tag[1] for sent in tagged_sents for word_tag in sent))
     tags = ["<pad>"] + tags
 
-    tag_to_index = {tag: id for id, tag in enumerate(tags)}
-    index_to_tag = {id: tag for id, tag in enumerate(tags)}
+    tag_to_index = {tag: index for index, tag in enumerate(tags)}
+    index_to_tag = {index: tag for index, tag in enumerate(tags)}
 
     # Let's split the data into train and test (or eval)
     train_data, test_data = train_test_split(tagged_sents, test_size=.1)

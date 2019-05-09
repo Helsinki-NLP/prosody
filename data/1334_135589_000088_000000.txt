@@ -1,9 +1,0 @@
-Edward	2	0
-was	0	0
-most	1	1
-kindly	1	1
-received	1	2
-by	0	0
-mr	1	0
-Heatherstone	1	2
-.	NA	NA

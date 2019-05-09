@@ -1,6 +1,0 @@
-The	1	0
-selection	1	0
-is	0	0
-not	0	1
-difficult	2	2
-.	NA	NA

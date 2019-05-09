@@ -1,9 +1,0 @@
-Then	0	0
-give	1	0
-me	1	0
-a	0	1
-drink	2	2
-,	NA	NA
-said	1	0
-Javert	1	2
-.	NA	NA

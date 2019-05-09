@@ -1,8 +1,0 @@
-I'll	0	0
-go	0	0
-all	0	0
-out	2	2
-,	NA	NA
-Conseil	2	0
-replied	1	2
-.	NA	NA

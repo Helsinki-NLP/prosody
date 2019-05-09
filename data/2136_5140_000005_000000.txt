@@ -1,5 +1,0 @@
-The	1	0
-air	0	0
-was	0	1
-still	2	2
-.	NA	NA

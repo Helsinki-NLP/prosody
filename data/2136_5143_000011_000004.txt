@@ -1,9 +1,0 @@
-Madame	2	0
-was	0	1
-cool	1	0
-,	NA	NA
-frank	0	0
-,	NA	NA
-and	0	1
-fluent	2	2
-.	NA	NA

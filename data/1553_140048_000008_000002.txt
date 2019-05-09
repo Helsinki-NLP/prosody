@@ -1,4 +1,0 @@
-It	0	0
-is	0	1
-called	2	1
-the	1	2

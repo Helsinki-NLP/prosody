@@ -1,7 +1,0 @@
-You	1	0
-were	0	0
-always	0	2
-a	0	0
-good	0	0
-girl	1	2
-.	NA	NA

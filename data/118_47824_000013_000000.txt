@@ -1,7 +1,0 @@
-Bobby	2	0
-glanced	1	0
-at	0	1
-him	0	0
-,	NA	NA
-flushing	2	2
-.	NA	NA

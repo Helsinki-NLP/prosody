@@ -1,6 +1,0 @@
-Tommy	1	0
-Fox	2	1
-made	0	0
-a	0	0
-visit	1	2
-.	NA	NA

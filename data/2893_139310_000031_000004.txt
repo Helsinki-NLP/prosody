@@ -1,6 +1,0 @@
-Men	1	0
-were	0	1
-bawling	1	1
-for	0	0
-Order	2	2
-!	NA	NA

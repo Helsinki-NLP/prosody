@@ -1,9 +1,0 @@
-The	0	1
-dear	2	0
-old	0	1
-days	1	1
-when	0	0
-I	0	0
-could	0	0
-fly	2	2
-!	NA	NA

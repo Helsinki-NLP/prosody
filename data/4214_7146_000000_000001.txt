@@ -1,8 +1,0 @@
-Diana	2	0
-Is	0	0
-Invited	1	1
-to	0	0
-Tea	2	2
-with	0	0
-Tragic	2	1
-Results	1	2

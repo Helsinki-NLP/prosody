@@ -1,9 +1,0 @@
-You	1	0
-couldn't	0	0
-walk	1	1
-four	0	0
-miles	2	2
-,	NA	NA
-began	2	0
-Ben	0	2
-.	NA	NA

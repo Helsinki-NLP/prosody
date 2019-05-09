@@ -1,9 +1,0 @@
-I	2	0
-am	0	1
-I	1	0
-am	0	0
-not	1	0
-afraid	0	0
-to	0	1
-tell	1	2
-.	NA	NA

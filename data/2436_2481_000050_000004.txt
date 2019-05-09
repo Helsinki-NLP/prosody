@@ -1,6 +1,0 @@
-A	0	0
-brief	2	1
-,	NA	NA
-savage	2	1
-encounter	0	2
-.	NA	NA

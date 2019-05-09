@@ -1,6 +1,0 @@
-He	0	0
-ignores	2	0
-what	0	1
-happened	0	0
-yesterday	1	2
-.	NA	NA

@@ -1,6 +1,0 @@
-Merriwig	2	1
-leant	0	0
-forward	2	0
-with	0	1
-eagerness	1	2
-.	NA	NA

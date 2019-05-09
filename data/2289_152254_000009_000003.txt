@@ -1,7 +1,0 @@
-One	2	0
-of	0	0
-these	0	1
-towns	0	0
-was	1	2
-Hippo	2	2
-.	NA	NA

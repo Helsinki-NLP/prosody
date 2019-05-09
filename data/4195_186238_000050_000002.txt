@@ -1,6 +1,0 @@
-Don't	1	0
-hurry	2	1
-,	NA	NA
-Uncle	0	0
-john	2	2
-.	NA	NA

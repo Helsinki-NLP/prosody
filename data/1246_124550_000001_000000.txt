@@ -1,3 +1,0 @@
-CHAPTER	2	1
-thirty	0	0
-seven	1	2

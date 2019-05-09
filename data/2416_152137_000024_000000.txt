@@ -1,7 +1,0 @@
-Jimmie	0	0
-Dale	2	1
-whistled	0	0
-softly	2	1
-to	0	0
-himself	2	2
-.	NA	NA

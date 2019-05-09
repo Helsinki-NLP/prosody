@@ -1,6 +1,0 @@
-Would	1	0
-you	0	0
-rather	1	0
-say	0	1
-infant	2	2
-?	NA	NA

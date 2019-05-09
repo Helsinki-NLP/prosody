@@ -1,9 +1,0 @@
-He	0	0
-was	1	0
-ex	1	1
-officio	2	2
-Indian	2	0
-agent	0	1
-,	NA	NA
-too	1	2
-.	NA	NA

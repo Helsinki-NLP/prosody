@@ -1,7 +1,0 @@
-He	0	0
-reached	1	0
-out	1	2
-,	NA	NA
-touched	2	1
-me	0	2
-.	NA	NA

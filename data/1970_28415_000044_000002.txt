@@ -1,3 +1,0 @@
-You	1	0
-snakes	2	2
-!	NA	NA

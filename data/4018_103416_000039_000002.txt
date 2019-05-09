@@ -1,8 +1,0 @@
-You're	0	0
-an	0	0
-awful	2	1
-dear	2	1
-,	NA	NA
-you	0	0
-know	2	2
-.	NA	NA

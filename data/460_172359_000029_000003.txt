@@ -1,9 +1,0 @@
-They	2	0
-didn't	0	1
-care	1	0
-!	NA	NA
-They	0	0
-took	0	0
-a	0	1
-chance	2	2
-.	NA	NA

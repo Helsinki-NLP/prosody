@@ -1,8 +1,0 @@
-What	1	0
-books	2	1
-in	0	0
-the	0	0
-circulating	0	0
-libraries	1	1
-circulate	2	2
-?	NA	NA

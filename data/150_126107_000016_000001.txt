@@ -1,4 +1,0 @@
-I	2	1
-pity	1	1
-you	1	2
-.	NA	NA

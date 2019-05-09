@@ -1,6 +1,0 @@
-One	1	0
-knows	2	0
-a	0	1
-downright	0	1
-lie	2	2
-.	NA	NA

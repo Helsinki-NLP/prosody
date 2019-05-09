@@ -1,9 +1,0 @@
-Carling	2	0
-was	0	1
-once	0	0
-more	1	0
-the	0	1
-pompous	2	1
-bank	0	0
-official	2	2
-.	NA	NA

@@ -1,9 +1,0 @@
-dr	2	0
-Frank	1	0
-and	0	1
-her	0	0
-brother	0	0
-are	0	0
-with	0	0
-her	2	2
-.	NA	NA

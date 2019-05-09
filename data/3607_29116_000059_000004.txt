@@ -1,8 +1,0 @@
-I	1	0
-do	0	1
-not	0	0
-like	2	2
-to	0	0
-use	0	0
-it	1	2
-.	NA	NA

@@ -1,5 +1,0 @@
-Where	2	1
-?	NA	NA
-asked	1	0
-Prudence	0	2
-.	NA	NA

@@ -1,6 +1,0 @@
-To	0	0
-him	2	1
-this	1	0
-was	0	1
-important	2	2
-.	NA	NA

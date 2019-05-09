@@ -1,6 +1,0 @@
-Never	0	0
-heard	1	1
-the	0	0
-name	2	1
-before	1	2
-.	NA	NA

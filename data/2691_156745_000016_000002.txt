@@ -1,8 +1,0 @@
-Sometimes	2	1
-home	2	2
-was	0	0
-where	0	0
-night	1	1
-overtook	1	0
-us	0	2
-.	NA	NA

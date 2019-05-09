@@ -1,8 +1,0 @@
-'I	0	0
-don't	2	1
-remember	0	0
-any	0	1
-such	0	0
-name	2	2
-!	NA	NA
-'	NA	NA

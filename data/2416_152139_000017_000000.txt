@@ -1,3 +1,0 @@
-Quite	2	0
-neat	1	2
-!	NA	NA

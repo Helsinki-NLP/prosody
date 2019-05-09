@@ -1,6 +1,0 @@
-Oh	2	0
-,	NA	NA
-I	0	1
-saw	1	0
-Senator	0	1
-Balloon	1	2

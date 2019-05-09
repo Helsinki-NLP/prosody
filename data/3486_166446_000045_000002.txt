@@ -1,9 +1,0 @@
-Motionless	2	0
-stood	0	0
-Norhala	2	2
-;	NA	NA
-and	2	0
-as	0	0
-motionless	0	0
-ruth	1	2
-.	NA	NA

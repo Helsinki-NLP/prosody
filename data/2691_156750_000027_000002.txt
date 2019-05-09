@@ -1,7 +1,0 @@
-A	0	0
-sweet	1	0
-voice	1	0
-answered	1	2
-,	NA	NA
-Coming	2	2
-!	NA	NA

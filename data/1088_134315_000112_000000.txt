@@ -1,6 +1,0 @@
-The	0	0
-top	2	0
-pair	0	1
-were	2	0
-locked	0	2
-.	NA	NA

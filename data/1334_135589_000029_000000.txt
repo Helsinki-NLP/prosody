@@ -1,7 +1,0 @@
-Nature	2	0
-has	0	1
-done	1	1
-more	1	1
-,	NA	NA
-Edward	1	2
-.	NA	NA

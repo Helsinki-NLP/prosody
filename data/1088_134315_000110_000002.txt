@@ -1,9 +1,0 @@
-In	1	0
-that	2	0
-case	0	2
-was	0	0
-a	0	0
-new	1	1
-steel	1	1
-key	2	2
-.	NA	NA

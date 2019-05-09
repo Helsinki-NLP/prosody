@@ -1,5 +1,0 @@
-Yes	2	0
-,	NA	NA
-I'm	0	1
-out	1	2
-.	NA	NA

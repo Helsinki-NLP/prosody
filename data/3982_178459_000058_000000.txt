@@ -1,7 +1,0 @@
-She	0	0
-gave	1	0
-a	0	1
-choked	2	0
-little	0	1
-laugh	2	2
-.	NA	NA

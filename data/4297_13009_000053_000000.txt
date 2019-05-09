@@ -1,8 +1,0 @@
-That's	2	1
-just	1	2
-the	0	0
-reason	1	1
-why	0	0
-they	0	0
-should	2	2
-.	NA	NA

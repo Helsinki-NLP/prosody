@@ -1,7 +1,0 @@
-You	0	0
-are	2	1
-acquainted	1	0
-with	0	0
-the	0	1
-Scriptures	2	2
-?	NA	NA

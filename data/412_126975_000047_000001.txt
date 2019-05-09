@@ -1,9 +1,0 @@
-I'll	2	0
-be	0	1
-columbine	2	2
-and	1	0
-you	0	0
-shall	0	0
-be	0	0
-pantaloon	1	2
-.	NA	NA

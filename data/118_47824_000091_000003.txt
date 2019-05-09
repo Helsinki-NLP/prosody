@@ -1,4 +1,0 @@
-Everything's	2	1
-about	0	0
-ready	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-Can	0	0
-you	1	1
-procure	2	0
-any	0	0
-of	0	1
-your	0	0
-countrymen	2	2
-?	NA	NA

@@ -1,6 +1,0 @@
-You	0	0
-mustn't	2	1
-come	2	1
-any	0	0
-more	1	2
-.	NA	NA

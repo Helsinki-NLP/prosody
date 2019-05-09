@@ -1,8 +1,0 @@
-There	2	0
-is	0	1
-the	0	0
-National	1	1
-Guard	0	0
-in	0	1
-addition	1	2
-.	NA	NA

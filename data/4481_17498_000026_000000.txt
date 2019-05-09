@@ -1,8 +1,0 @@
-I'm	1	0
-going	0	1
-to	0	0
-Europe	2	2
-,	NA	NA
-he	0	0
-said	2	2
-.	NA	NA

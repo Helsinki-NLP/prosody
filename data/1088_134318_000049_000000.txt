@@ -1,7 +1,0 @@
-It	0	0
-wanted	1	1
-five	1	0
-minutes	1	2
-to	0	0
-ten	2	2
-.	NA	NA

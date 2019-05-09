@@ -1,7 +1,0 @@
-We	1	0
-are	0	0
-not	0	0
-alike	1	1
-at	0	0
-all	1	2
-.	NA	NA

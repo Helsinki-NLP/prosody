@@ -1,5 +1,0 @@
-Amory	2	1
-smiled	0	1
-a	0	0
-bit	2	2
-.	NA	NA

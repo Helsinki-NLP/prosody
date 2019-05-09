@@ -1,8 +1,0 @@
-Miss	1	0
-Carlyle	2	1
-did	0	0
-not	1	1
-believe	1	0
-a	0	1
-word	1	2
-.	NA	NA

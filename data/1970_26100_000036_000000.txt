@@ -1,6 +1,0 @@
-That's	2	0
-up	1	1
-to	0	0
-us	1	1
-now	1	2
-.	NA	NA

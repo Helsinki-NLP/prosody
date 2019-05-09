@@ -1,7 +1,0 @@
-What	2	0
-does	0	1
-Mantelish	0	1
-make	1	0
-of	0	0
-it	0	2
-?	NA	NA

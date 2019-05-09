@@ -1,7 +1,0 @@
-It	1	0
-was	0	1
-only	2	0
-a	0	1
-gold	1	1
-pencil	2	2
-.	NA	NA

@@ -1,6 +1,0 @@
-Do	0	1
-your	0	0
-hair	0	0
-up	1	1
-quick	2	2
-!	NA	NA

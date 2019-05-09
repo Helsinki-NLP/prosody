@@ -1,6 +1,0 @@
-Kemp	1	0
-grasped	2	1
-his	0	0
-hand	1	0
-heartily	2	2
-.	NA	NA

@@ -1,4 +1,0 @@
-Go	1	0
-to	0	1
-sleep	2	2
-!	NA	NA

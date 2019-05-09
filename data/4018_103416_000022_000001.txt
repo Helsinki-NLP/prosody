@@ -1,5 +1,0 @@
-What	0	0
-did	1	0
-I	0	1
-say	1	2
-?	NA	NA

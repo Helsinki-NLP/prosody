@@ -1,6 +1,0 @@
-It	0	0
-sounded	2	0
-like	0	1
-another	0	0
-call	2	2
-.	NA	NA

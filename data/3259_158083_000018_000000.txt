@@ -1,9 +1,0 @@
-There	2	0
-were	0	1
-exceptionally	1	2
-dramatic	2	0
-figures	0	1
-in	0	0
-this	0	0
-group	2	2
-.	NA	NA

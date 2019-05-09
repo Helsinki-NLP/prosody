@@ -1,3 +1,0 @@
-Richard	1	0
-Hare	1	2
-!	NA	NA

@@ -1,5 +1,0 @@
-It	2	0
-is	0	1
-too	0	1
-soon	2	2
-.	NA	NA

@@ -1,5 +1,0 @@
-Will	0	0
-not	1	1
-rub	2	0
-off	0	2
-.	NA	NA

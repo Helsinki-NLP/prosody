@@ -1,9 +1,0 @@
-Did	0	0
-he	0	0
-rustle	2	0
-a	0	1
-couple	2	0
-of	0	1
-your	0	0
-sheep	2	2
-?	NA	NA

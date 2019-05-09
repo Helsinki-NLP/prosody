@@ -1,3 +1,0 @@
-CUPID	0	1
-AND	0	0
-PSYCHE	2	2

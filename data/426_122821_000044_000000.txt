@@ -1,4 +1,0 @@
-Willie	1	0
-White's	2	1
-began	1	2
-,	NA	NA

@@ -1,8 +1,0 @@
-Roger	2	1
-Scurvilegs	2	1
-frankly	1	0
-breaks	0	1
-down	2	0
-over	0	0
-it	0	2
-.	NA	NA

@@ -1,5 +1,0 @@
-No	2	1
-;	NA	NA
-the	0	0
-letter	1	2
-.	NA	NA

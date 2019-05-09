@@ -1,7 +1,0 @@
-Your	1	0
-hair	2	0
-is	0	0
-like	0	1
-rippling	0	0
-gold	2	2
-.	NA	NA

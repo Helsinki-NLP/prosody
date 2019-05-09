@@ -1,8 +1,0 @@
-On	2	0
-the	0	0
-fishing	2	2
-,	NA	NA
-the	0	0
-Canadian	0	0
-replied	1	2
-.	NA	NA

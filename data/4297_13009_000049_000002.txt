@@ -1,6 +1,0 @@
-I	1	1
-quite	2	1
-sympathise	1	1
-with	0	0
-him	1	2
-.	NA	NA

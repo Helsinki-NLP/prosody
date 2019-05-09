@@ -1,6 +1,0 @@
-I	0	1
-see	0	0
-ever	2	1
-so	0	0
-much	2	2
-.	NA	NA

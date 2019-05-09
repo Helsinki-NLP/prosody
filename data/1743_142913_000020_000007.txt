@@ -1,6 +1,0 @@
-I	2	0
-like	1	2
-to	0	0
-see	1	0
-that	0	2
-.	NA	NA

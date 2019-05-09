@@ -1,7 +1,0 @@
-Arm	2	0
-yourselves	1	0
-and	0	1
-guard	2	0
-our	0	0
-weapons	1	2
-.	NA	NA

@@ -1,9 +1,0 @@
-Then	1	1
-follow	2	0
-the	0	1
-leader	2	0
-,	NA	NA
-he	0	2
-cried	0	0
-gaily	1	2
-.	NA	NA

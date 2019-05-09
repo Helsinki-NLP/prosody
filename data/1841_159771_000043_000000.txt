@@ -1,8 +1,0 @@
-In	1	0
-the	0	0
-orchard	2	2
-!	NA	NA
-his	0	0
-cousin	1	1
-cried	1	2
-.	NA	NA

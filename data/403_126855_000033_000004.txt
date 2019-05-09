@@ -1,3 +1,0 @@
-A	0	1
-bridge	2	2
-!	NA	NA

@@ -1,9 +1,0 @@
-These	2	0
-intruders	0	0
-came	0	0
-towards	1	0
-him	0	2
-and	0	0
-Lincoln	1	2
-gesticulating	2	2
-.	NA	NA

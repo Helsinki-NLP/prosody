@@ -1,5 +1,0 @@
-Perhaps	2	1
-we	0	0
-have	0	0
-deviated	1	2
-.	NA	NA

@@ -1,6 +1,0 @@
-I	0	0
-saw	2	0
-a	0	1
-spear	1	1
-thrown	1	2
-.	NA	NA

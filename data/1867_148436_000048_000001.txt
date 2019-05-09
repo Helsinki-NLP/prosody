@@ -1,7 +1,0 @@
-Come	0	0
-out	2	0
-short	0	0
-at	0	2
-poker	1	0
-lately	2	2
-?	NA	NA

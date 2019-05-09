@@ -1,6 +1,0 @@
-I	0	0
-really	2	0
-didn't	0	1
-mean	1	0
-to	1	2
-.	NA	NA

@@ -1,7 +1,0 @@
-Kirkpatrick	2	1
-caught	1	1
-Tiny	0	0
-by	0	0
-the	0	0
-elbows	2	2
-.	NA	NA

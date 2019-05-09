@@ -1,9 +1,0 @@
-Memory	2	0
-makes	0	1
-the	0	0
-one	1	2
-,	NA	NA
-philosophy	2	1
-the	0	0
-other	1	2
-.	NA	NA

@@ -1,4 +1,0 @@
-Ferralti	2	1
-Count	1	0
-Ferralti	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-Why	0	0
-they	1	0
-want	0	0
-it	0	1
-,	NA	NA
-goodness	1	2
-knows	2	2
-!	NA	NA

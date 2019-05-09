@@ -1,4 +1,0 @@
-wednesday	2	1
-november	1	0
-fourteenth	0	2
-.	NA	NA

@@ -1,6 +1,0 @@
-She	1	0
-has	0	1
-gained	2	0
-her	0	1
-point	2	2
-.	NA	NA

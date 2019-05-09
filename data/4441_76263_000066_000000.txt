@@ -1,8 +1,0 @@
-Falk	1	0
-entered	1	2
-,	NA	NA
-looking	0	0
-a	0	0
-little	0	0
-hectic	1	2
-.	NA	NA

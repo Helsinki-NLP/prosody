@@ -1,6 +1,0 @@
-You	2	0
-know	0	0
-what	0	0
-I	0	1
-mean	2	2
-.	NA	NA

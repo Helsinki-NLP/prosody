@@ -1,7 +1,0 @@
-When	0	0
-August	2	1
-came	0	1
-I	0	0
-sailed	1	0
-away	2	2
-.	NA	NA

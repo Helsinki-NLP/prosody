@@ -1,7 +1,0 @@
-My	2	0
-,	NA	NA
-how	0	1
-her	0	0
-eyes	0	1
-sparkled	1	2
-!	NA	NA

@@ -1,6 +1,0 @@
-Ha	2	2
-!	NA	NA
-Ned	2	0
-Land	0	1
-exclaimed	1	2
-.	NA	NA

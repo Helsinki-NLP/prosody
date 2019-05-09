@@ -1,6 +1,0 @@
-There's	1	0
-our	0	0
-friend	0	1
-in	0	0
-white	2	2
-!	NA	NA

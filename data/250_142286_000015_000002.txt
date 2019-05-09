@@ -1,8 +1,0 @@
-Couldn't	2	1
-you	0	0
-bring	2	0
-nurse	1	1
-here	1	1
-,	NA	NA
-mamma	1	2
-?	NA	NA

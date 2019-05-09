@@ -1,8 +1,0 @@
-A	2	0
-complete	0	0
-change	2	0
-of	0	1
-life	2	1
-became	0	0
-desirable	1	2
-.	NA	NA

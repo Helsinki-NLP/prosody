@@ -1,9 +1,0 @@
-An	0	0
-important	1	1
-question	2	1
-then	1	0
-popped	2	0
-into	0	1
-my	0	0
-head	2	2
-.	NA	NA

@@ -1,5 +1,0 @@
-That's	2	0
-what	1	0
-we	0	1
-suspected	2	2
-.	NA	NA

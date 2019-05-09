@@ -1,7 +1,0 @@
-Hold	2	1
-your	0	0
-tongue	1	1
-when	0	0
-I'm	0	1
-speaking	2	2
-!	NA	NA

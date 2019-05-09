@@ -1,3 +1,0 @@
-peter	1	0
-cried	1	2
-.	NA	NA

@@ -1,8 +1,0 @@
-Don't	2	0
-you	0	0
-be	0	0
-a	0	1
-donkey	2	1
-,	NA	NA
-Bill	2	2
-.	NA	NA

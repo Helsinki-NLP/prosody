@@ -1,7 +1,0 @@
-Including	1	1
-Prince	0	0
-Udo	2	2
-,	NA	NA
-smiled	2	0
-Hyacinth	0	2
-.	NA	NA

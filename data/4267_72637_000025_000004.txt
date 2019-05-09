@@ -1,9 +1,0 @@
-I	2	0
-hadn't	0	0
-been	0	1
-a	0	0
-college	1	0
-athlete	1	1
-for	0	0
-nothing	2	2
-.	NA	NA

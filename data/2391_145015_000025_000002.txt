@@ -1,8 +1,0 @@
-Vegetables	2	0
-were	0	0
-less	0	1
-plentiful	0	0
-and	0	1
-less	0	0
-various	2	2
-.	NA	NA

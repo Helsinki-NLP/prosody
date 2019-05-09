@@ -1,6 +1,0 @@
-Cried	2	1
-?	NA	NA
-echoed	0	0
-Miss	0	1
-Carlyle	1	2
-.	NA	NA

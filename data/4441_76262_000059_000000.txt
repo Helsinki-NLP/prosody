@@ -1,6 +1,0 @@
-I	2	0
-say	0	0
-it's	0	1
-a	0	0
-lie	2	2
-!	NA	NA

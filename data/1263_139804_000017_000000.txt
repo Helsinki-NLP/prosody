@@ -1,8 +1,0 @@
-Their	1	0
-raiment	2	0
-is	0	1
-altogether	0	0
-after	1	2
-new	0	0
-models	2	2
-.	NA	NA

@@ -1,3 +1,0 @@
-Burst	2	1
-it	1	2
-?	NA	NA

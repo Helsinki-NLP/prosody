@@ -1,6 +1,0 @@
-Your	0	0
-mother	1	0
-wouldn't	0	1
-like	2	0
-it	0	2
-.	NA	NA

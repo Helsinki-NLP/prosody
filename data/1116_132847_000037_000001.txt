@@ -1,9 +1,0 @@
-I	0	0
-can	0	1
-only	1	1
-accept	0	0
-it	1	0
-with	0	2
-joy	2	2
-.	NA	NA
-'	NA	NA

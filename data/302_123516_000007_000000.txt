@@ -1,7 +1,0 @@
-He	0	0
-will	0	1
-live	2	1
-,	NA	NA
-O	1	0
-Jed	1	2
-.	NA	NA

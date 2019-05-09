@@ -1,7 +1,0 @@
-It	2	0
-was	0	0
-he	1	0
-that	0	1
-Solomon	1	1
-heard	1	2
-.	NA	NA

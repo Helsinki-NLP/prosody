@@ -1,5 +1,0 @@
-That	2	0
-is	0	1
-reason	0	1
-sufficient	2	2
-.	NA	NA

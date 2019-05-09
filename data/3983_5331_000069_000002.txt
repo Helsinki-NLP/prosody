@@ -1,3 +1,0 @@
-I	1	0
-have	0	1
-invited	1	2

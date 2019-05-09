@@ -1,6 +1,0 @@
-Right	2	0
-here	0	0
-on	0	0
-the	0	1
-table	2	2
-.	NA	NA

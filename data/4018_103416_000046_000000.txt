@@ -1,6 +1,0 @@
-Never	2	0
-mind	0	1
-about	1	0
-taking	2	1
-it	1	2
-.	NA	NA

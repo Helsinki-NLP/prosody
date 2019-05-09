@@ -1,9 +1,0 @@
-Good	0	1
-morning	2	0
-,	NA	NA
-Johnny	0	0
-Chuck	1	2
-,	NA	NA
-said	1	0
-she	2	2
-.	NA	NA

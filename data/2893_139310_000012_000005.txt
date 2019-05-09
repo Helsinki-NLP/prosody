@@ -1,8 +1,0 @@
-I	0	0
-have	2	1
-gone	2	1
-mad	0	2
-.	NA	NA
-.	NA	NA
-.	NA	NA
-.	NA	NA

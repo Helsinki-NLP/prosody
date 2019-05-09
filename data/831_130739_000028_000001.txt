@@ -1,7 +1,0 @@
-And	0	0
-not	2	0
-come	1	1
-any	0	0
-nasty	0	1
-croppers	2	2
-.	NA	NA

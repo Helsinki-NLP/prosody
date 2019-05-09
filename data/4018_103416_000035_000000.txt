@@ -1,4 +1,0 @@
-He	0	0
-flushed	2	1
-slightly	1	2
-.	NA	NA

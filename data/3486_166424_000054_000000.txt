@@ -1,6 +1,0 @@
-A	0	0
-chance	2	1
-!	NA	NA
-gasped	2	1
-Ventnor	1	2
-.	NA	NA

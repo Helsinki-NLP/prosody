@@ -1,3 +1,0 @@
-THE	0	0
-BANQUET	2	0
-LAMP	1	2

@@ -1,9 +1,0 @@
-The	0	0
-commandant	2	2
-accordingly	2	0
-resolved	1	1
-to	0	0
-buy	1	0
-the	0	0
-vessel	0	2
-.	NA	NA

@@ -1,4 +1,0 @@
-What	1	0
-should	0	1
-happen	2	2
-?	NA	NA

@@ -1,8 +1,0 @@
-I	2	0
-was	0	0
-afraid	0	1
-so	2	2
-,	NA	NA
-he	0	0
-said	1	2
-.	NA	NA

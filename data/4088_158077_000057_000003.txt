@@ -1,6 +1,0 @@
-The	0	0
-Republicans	2	1
-had	0	0
-then	1	0
-attempted	2	1
-to	0	2

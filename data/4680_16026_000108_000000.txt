@@ -1,7 +1,0 @@
-You	1	1
-bother	2	1
-me	0	0
-,	NA	NA
-said	0	0
-Eponine	1	2
-.	NA	NA

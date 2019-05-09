@@ -1,5 +1,0 @@
-Monk	1	0
-wouldn't	1	1
-have	1	1
-done	2	2
-.	NA	NA

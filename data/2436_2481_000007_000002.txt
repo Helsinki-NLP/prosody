@@ -1,5 +1,0 @@
-He	0	0
-shoved	2	0
-us	0	1
-aside	2	2
-.	NA	NA

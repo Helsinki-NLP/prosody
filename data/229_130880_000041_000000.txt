@@ -1,7 +1,0 @@
-He	0	0
-didn't	1	0
-tell	2	0
-you	0	1
-anything	0	0
-else	2	2
-?	NA	NA

@@ -1,7 +1,0 @@
-How	2	0
-can	0	1
-earthly	1	0
-words	0	1
-describe	2	0
-it	0	2
-!	NA	NA

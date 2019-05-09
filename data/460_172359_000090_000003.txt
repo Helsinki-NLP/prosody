@@ -1,5 +1,0 @@
-You	0	1
-don't	2	0
-know	0	1
-Mariposa	2	2
-.	NA	NA

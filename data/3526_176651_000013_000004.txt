@@ -1,8 +1,0 @@
-Now	2	0
-both	1	1
-man	0	0
-and	0	0
-horse	0	1
-had	0	0
-stopped	2	2
-.	NA	NA

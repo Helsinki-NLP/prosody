@@ -1,4 +1,0 @@
-Madmen	2	1
-know	0	0
-nothing	1	2
-.	NA	NA

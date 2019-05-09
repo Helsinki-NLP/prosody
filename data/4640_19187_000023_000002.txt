@@ -1,8 +1,0 @@
-It	0	0
-had	2	0
-the	1	1
-appearance	1	0
-of	0	1
-being	1	1
-afraid	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-mrs	2	0
-Teeter	0	0
-stood	0	0
-up	1	0
-and	0	2
-stepped	1	1
-aside	2	2
-.	NA	NA

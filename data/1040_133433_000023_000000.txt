@@ -1,5 +1,0 @@
-About	2	0
-me	1	1
-,	NA	NA
-peter	1	2
-?	NA	NA

@@ -1,6 +1,0 @@
-I	0	1
-suppose	2	0
-it's	0	1
-so	2	2
-.	NA	NA
-.	NA	NA

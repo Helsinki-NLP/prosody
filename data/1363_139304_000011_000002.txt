@@ -1,8 +1,0 @@
-He	0	0
-realised	2	1
-that	0	0
-he	0	0
-was	1	1
-intensely	2	1
-hungry	1	2
-.	NA	NA

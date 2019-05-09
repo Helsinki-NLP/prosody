@@ -1,7 +1,0 @@
-He	0	0
-turned	2	0
-back	2	1
-to	0	0
-Ronicky	1	1
-Doone	2	2
-.	NA	NA

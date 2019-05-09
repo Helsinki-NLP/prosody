@@ -1,6 +1,0 @@
-Wild	2	0
-eyed	0	1
-,	NA	NA
-chasing	1	0
-a	0	0
-phantom	1	2

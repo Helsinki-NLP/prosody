@@ -1,7 +1,0 @@
-But	1	0
-in	0	0
-this	1	1
-they	1	0
-were	0	1
-disappointed	2	2
-.	NA	NA

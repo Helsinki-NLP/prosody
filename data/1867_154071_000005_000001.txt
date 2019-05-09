@@ -1,8 +1,0 @@
-There	0	0
-she	0	0
-is	0	1
-now	2	2
-!	NA	NA
-he	0	0
-exclaimed	1	2
-.	NA	NA

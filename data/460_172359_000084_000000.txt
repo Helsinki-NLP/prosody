@@ -1,9 +1,0 @@
-The	0	0
-end	2	0
-of	0	0
-it	0	0
-was	0	1
-bound	2	0
-to	0	2
-come	1	2
-.	NA	NA

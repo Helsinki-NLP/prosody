@@ -1,8 +1,0 @@
-'Thank	2	0
-you	1	2
-,	NA	NA
-'	NA	NA
-said	0	0
-mrs	0	0
-Thornton	1	2
-.	NA	NA

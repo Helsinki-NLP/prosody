@@ -1,9 +1,0 @@
-She	2	1
-could	0	0
-not	2	0
-yet	1	0
-meet	0	1
-his	0	0
-eyes	1	1
-again	2	2
-.	NA	NA

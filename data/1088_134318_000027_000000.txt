@@ -1,9 +1,0 @@
-Is	1	0
-it	0	1
-real	1	0
-grey	1	1
-?	NA	NA
-insisted	0	1
-the	0	0
-visitor	2	2
-.	NA	NA

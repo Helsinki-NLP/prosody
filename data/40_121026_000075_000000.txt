@@ -1,6 +1,0 @@
-Put	2	0
-it	0	0
-into	0	0
-my	0	1
-portfolio	2	2
-.	NA	NA

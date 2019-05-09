@@ -1,5 +1,0 @@
-You	0	0
-mean	1	0
-Axel	1	0
-Island	0	2
-.	NA	NA

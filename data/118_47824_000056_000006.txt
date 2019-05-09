@@ -1,8 +1,0 @@
-He	0	0
-planned	2	0
-it	0	0
-with	0	1
-some	0	0
-local	1	1
-fellow	1	2
-.	NA	NA

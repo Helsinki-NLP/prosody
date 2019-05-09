@@ -1,9 +1,0 @@
-And	1	0
-yet	2	1
-there	1	0
-was	0	0
-method	2	0
-in	0	1
-his	0	0
-madness	1	2
-.	NA	NA

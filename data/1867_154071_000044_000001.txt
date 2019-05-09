@@ -1,9 +1,0 @@
-I'll	2	1
-smash	1	1
-every	1	1
-bone	1	0
-in	0	1
-his	0	0
-ugly	1	0
-head	2	2
-.	NA	NA

@@ -1,5 +1,0 @@
-Whatever	2	1
-can	0	0
-it	0	1
-be	2	2
-?	NA	NA

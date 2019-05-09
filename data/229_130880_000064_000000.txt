@@ -1,5 +1,0 @@
-Yes	2	0
-,	NA	NA
-my	0	1
-boy	2	2
-.	NA	NA

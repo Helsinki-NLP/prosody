@@ -1,8 +1,0 @@
-It	0	0
-doesn't	2	0
-taste	1	0
-a	0	1
-bit	2	0
-like	0	1
-hers	2	2
-.	NA	NA

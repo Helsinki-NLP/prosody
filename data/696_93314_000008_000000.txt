@@ -1,9 +1,0 @@
-Don't	1	1
-!	NA	NA
-he	1	0
-said	0	0
-tenderly	1	1
-,	NA	NA
-don't	2	1
-worry	1	2
-.	NA	NA

@@ -1,7 +1,0 @@
-Come	0	0
-along	1	2
-,	NA	NA
-nobody'll	2	1
-tell	0	0
-tales	1	2
-.	NA	NA

@@ -1,6 +1,0 @@
-Well	2	1
-,	NA	NA
-is	0	0
-she	1	0
-pretty	2	2
-?	NA	NA

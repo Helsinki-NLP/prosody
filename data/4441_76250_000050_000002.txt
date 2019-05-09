@@ -1,7 +1,0 @@
-I	0	1
-think	2	1
-I've	1	0
-heard	0	0
-it	0	1
-before	2	2
-.	NA	NA

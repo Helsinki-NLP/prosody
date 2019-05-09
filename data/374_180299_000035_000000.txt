@@ -1,7 +1,0 @@
-I	1	0
-don't	2	0
-in	0	1
-the	0	0
-least	0	1
-know	2	2
-.	NA	NA

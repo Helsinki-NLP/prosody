@@ -1,8 +1,0 @@
-It	0	1
-was	0	0
-over	2	0
-in	0	0
-a	0	1
-few	0	0
-seconds	2	2
-.	NA	NA

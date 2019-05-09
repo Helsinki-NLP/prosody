@@ -1,7 +1,0 @@
-Were	0	0
-desperately	1	1
-poor	1	2
-,	NA	NA
-she	0	0
-said	2	2
-.	NA	NA

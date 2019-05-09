@@ -1,9 +1,0 @@
-Every	2	0
-shilling	1	0
-of	0	1
-my	1	0
-money	0	0
-is	0	1
-tied	2	0
-up	0	2
-.	NA	NA

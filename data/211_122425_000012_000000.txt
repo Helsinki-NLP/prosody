@@ -1,7 +1,0 @@
-And	0	0
-how	2	0
-did	0	1
-the	0	0
-thing	1	1
-happen	2	2
-?	NA	NA

@@ -1,9 +1,0 @@
-Are	0	0
-mussels	1	0
-included	0	1
-too	2	2
-?	NA	NA
-the	0	0
-Canadian	0	0
-asked	1	2
-.	NA	NA

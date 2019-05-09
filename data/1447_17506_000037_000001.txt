@@ -1,8 +1,0 @@
-Allow	2	0
-me	0	1
-to	0	0
-offer	1	0
-you	0	1
-my	0	0
-card	2	2
-.	NA	NA

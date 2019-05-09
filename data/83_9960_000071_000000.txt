@@ -1,5 +1,0 @@
-THE	0	0
-BOBBIES	2	1
-ARE	0	0
-HERE	1	2
-.	NA	NA

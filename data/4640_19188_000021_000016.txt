@@ -1,6 +1,0 @@
-And	0	0
-those	2	1
-who	0	0
-have	0	1
-daughters	2	2
-!	NA	NA

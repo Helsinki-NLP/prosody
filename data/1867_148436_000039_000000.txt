@@ -1,4 +1,0 @@
-All	1	0
-right	0	1
-son	2	2
-.	NA	NA

@@ -1,4 +1,0 @@
-That's	1	0
-damn	1	1
-queer	2	2
-.	NA	NA

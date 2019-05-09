@@ -1,8 +1,0 @@
-That	2	0
-may	0	1
-be	1	2
-,	NA	NA
-answered	2	0
-the	0	1
-boy	2	2
-.	NA	NA

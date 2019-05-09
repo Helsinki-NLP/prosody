@@ -1,5 +1,0 @@
-Princess	2	1
-!	NA	NA
-said	2	0
-he	0	2
-.	NA	NA

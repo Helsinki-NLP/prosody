@@ -1,4 +1,0 @@
-The	0	0
-Onlooker	1	1
-prayed	2	2
-.	NA	NA

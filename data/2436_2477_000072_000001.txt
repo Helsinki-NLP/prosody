@@ -1,5 +1,0 @@
-Why	2	2
-we've	0	0
-hardly	1	0
-spoken	2	2
-!	NA	NA

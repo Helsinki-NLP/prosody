@@ -1,7 +1,0 @@
-It	2	0
-made	1	0
-him	0	1
-feel	0	0
-quite	2	1
-uncomfortable	1	2
-.	NA	NA

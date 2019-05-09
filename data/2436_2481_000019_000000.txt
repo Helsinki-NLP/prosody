@@ -1,9 +1,0 @@
-The	0	0
-Captain	0	0
-rasped	1	2
-,	NA	NA
-Get	2	0
-out	1	0
-,	NA	NA
-Haljan	1	2
-!	NA	NA

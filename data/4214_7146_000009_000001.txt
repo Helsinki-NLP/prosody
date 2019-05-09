@@ -1,4 +1,0 @@
-How	1	1
-perfectly	0	0
-lovely	1	2
-!	NA	NA

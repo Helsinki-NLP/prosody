@@ -1,9 +1,0 @@
-Nearly	1	0
-half	1	1
-an	0	0
-hour	1	1
-passed	2	2
-in	0	0
-this	0	0
-manner	2	2
-.	NA	NA

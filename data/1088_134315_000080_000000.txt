@@ -1,6 +1,0 @@
-She	2	0
-pursed	1	1
-her	1	0
-lips	0	1
-thoughtfully	1	2
-.	NA	NA

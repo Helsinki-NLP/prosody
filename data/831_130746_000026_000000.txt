@@ -1,7 +1,0 @@
-He	0	0
-flung	2	1
-himself	2	1
-into	0	0
-the	0	0
-armchair	2	2
-.	NA	NA

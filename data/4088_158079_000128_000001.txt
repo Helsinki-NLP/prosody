@@ -1,9 +1,0 @@
-This	2	1
-,	NA	NA
-too	2	0
-,	NA	NA
-went	0	1
-to	0	0
-certain	0	0
-death	1	2
-.	NA	NA

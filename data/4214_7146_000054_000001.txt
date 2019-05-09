@@ -1,7 +1,0 @@
-I	2	0
-wish	1	0
-you'd	0	1
-go	2	1
-,	NA	NA
-Marilla	2	2
-.	NA	NA

@@ -1,6 +1,0 @@
-Antonia	2	0
-turned	1	0
-to	0	1
-me	0	0
-eagerly	2	2
-.	NA	NA

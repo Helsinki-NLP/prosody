@@ -1,6 +1,0 @@
-out	1	2
-There	2	0
-was	0	0
-no	0	0
-disorder	1	2
-.	NA	NA

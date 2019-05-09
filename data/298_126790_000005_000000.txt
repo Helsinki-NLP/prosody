@@ -1,6 +1,0 @@
-Katy	0	1
-,	NA	NA
-is	0	0
-he	0	0
-gone	2	2
-?	NA	NA

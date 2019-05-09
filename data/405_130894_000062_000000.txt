@@ -1,7 +1,0 @@
-So	1	0
-let's	0	0
-try	1	0
-it	0	1
-,	NA	NA
-professor	1	2
-.	NA	NA

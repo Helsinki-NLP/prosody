@@ -1,8 +1,0 @@
-A	0	0
-nasty	1	0
-one	2	2
-!	NA	NA
-the	1	0
-Englishman	0	0
-exclaimed	0	2
-.	NA	NA

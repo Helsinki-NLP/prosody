@@ -1,3 +1,0 @@
-THE	0	0
-CONCLUSION	2	2
-.	NA	NA

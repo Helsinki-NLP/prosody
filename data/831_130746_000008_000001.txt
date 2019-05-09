@@ -1,8 +1,0 @@
-They	1	0
-heard	0	0
-a	0	1
-chair	2	1
-creak	2	1
-under	1	0
-him	0	2
-.	NA	NA

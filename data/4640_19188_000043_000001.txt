@@ -1,8 +1,0 @@
-These	1	0
-men	2	2
-did	0	0
-not	1	0
-astonish	1	1
-each	0	0
-other	2	2
-.	NA	NA

@@ -1,6 +1,0 @@
-As	1	1
-you	0	0
-wish	2	1
-,	NA	NA
-Brodie	1	2
-.	NA	NA

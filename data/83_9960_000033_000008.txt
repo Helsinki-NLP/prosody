@@ -1,8 +1,0 @@
-It's	1	1
-nothing	2	0
-but	1	0
-a	0	1
-big	1	1
-carriage	2	0
-gate	1	2
-!	NA	NA

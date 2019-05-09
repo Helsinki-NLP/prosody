@@ -1,9 +1,0 @@
-After	0	0
-the	0	1
-greetings	0	0
-were	1	0
-over	1	2
-,	NA	NA
-Edward	1	0
-said	2	2
-,	NA	NA

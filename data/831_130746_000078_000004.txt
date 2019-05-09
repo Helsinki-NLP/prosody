@@ -1,4 +1,0 @@
-he	0	0
-told	0	1
-himself	2	2
-.	NA	NA

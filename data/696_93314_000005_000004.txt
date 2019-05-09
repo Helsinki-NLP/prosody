@@ -1,8 +1,0 @@
-But	2	0
-he	0	1
-had	0	0
-never	0	1
-told	2	0
-his	0	1
-love	1	2
-.	NA	NA

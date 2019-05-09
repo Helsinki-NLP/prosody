@@ -1,7 +1,0 @@
-Am	1	0
-I	1	0
-sure	1	0
-of	0	1
-coming	2	1
-here	2	2
-?	NA	NA

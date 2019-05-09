@@ -1,5 +1,0 @@
-Beginning	1	0
-with	0	1
-my	1	0
-father	2	2
-!	NA	NA

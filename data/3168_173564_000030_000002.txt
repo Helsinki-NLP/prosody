@@ -1,7 +1,0 @@
-The	0	0
-boards	2	0
-of	0	0
-the	0	1
-floor	1	1
-creaked	1	2
-.	NA	NA

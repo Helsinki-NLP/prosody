@@ -1,6 +1,0 @@
-Oh	2	1
-!	NA	NA
-squealed	1	0
-Mae	0	1
-Mertelle	0	2
-.	NA	NA

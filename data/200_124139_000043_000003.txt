@@ -1,8 +1,0 @@
-And	0	1
-so	2	1
-extremely	1	0
-accomplished	0	1
-for	0	0
-her	0	0
-age	2	2
-!	NA	NA

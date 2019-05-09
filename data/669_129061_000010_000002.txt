@@ -1,7 +1,0 @@
-I	1	0
-can't	2	1
-help	2	1
-you	0	0
-any	0	0
-more	1	2
-.	NA	NA

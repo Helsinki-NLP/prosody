@@ -1,5 +1,0 @@
-Is	0	1
-there	1	0
-anything	0	1
-more	2	2
-?	NA	NA

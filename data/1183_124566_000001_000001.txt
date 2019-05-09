@@ -1,5 +1,0 @@
-Why	2	0
-put	0	1
-them	0	0
-right	1	2
-?	NA	NA

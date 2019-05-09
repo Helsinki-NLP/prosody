@@ -1,6 +1,0 @@
-Instead	2	2
-he	0	0
-prayed	1	0
-for	0	0
-it	0	2
-.	NA	NA

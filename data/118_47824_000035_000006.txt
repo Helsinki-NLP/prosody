@@ -1,6 +1,0 @@
-Graham	2	0
-moved	0	1
-toward	1	1
-the	0	0
-door	1	2
-.	NA	NA

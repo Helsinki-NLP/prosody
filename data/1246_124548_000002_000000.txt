@@ -1,4 +1,0 @@
-Champ	1	1
-was	1	0
-broken	1	2
-.	NA	NA

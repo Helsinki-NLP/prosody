@@ -1,8 +1,0 @@
-I	1	0
-cannot	2	1
-do	0	0
-otherwise	1	1
-,	NA	NA
-he	0	0
-answered	2	2
-.	NA	NA

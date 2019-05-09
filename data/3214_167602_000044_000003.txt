@@ -1,9 +1,0 @@
-I	2	0
-don't	2	1
-like	2	0
-that	0	0
-way	0	0
-of	0	1
-doing	1	1
-things	1	2
-.	NA	NA

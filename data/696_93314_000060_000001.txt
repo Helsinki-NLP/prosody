@@ -1,7 +1,0 @@
-They're	0	0
-not	2	0
-so	0	1
-particular	0	0
-just	1	1
-now	2	2
-.	NA	NA

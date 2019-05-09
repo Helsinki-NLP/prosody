@@ -1,9 +1,0 @@
-Certainly	2	1
-,	NA	NA
-said	0	0
-Lawton	1	0
-,	NA	NA
-with	0	1
-unexpected	0	0
-condescension	1	2
-.	NA	NA

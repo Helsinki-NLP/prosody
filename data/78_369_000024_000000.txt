@@ -1,5 +1,0 @@
-Walton	2	1
-,	NA	NA
-in	0	0
-continuation	2	2
-.	NA	NA

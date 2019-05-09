@@ -1,6 +1,0 @@
-And	1	1
-it	0	0
-tends	2	0
-toward	0	1
-splendor	2	2
-.	NA	NA

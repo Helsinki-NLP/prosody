@@ -1,6 +1,0 @@
-How	1	0
-could	1	0
-it	0	1
-concern	2	1
-her	1	2
-?	NA	NA

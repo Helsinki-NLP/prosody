@@ -1,8 +1,0 @@
-'	NA	NA
-Jumped	2	1
-,	NA	NA
-he	0	0
-corrected	1	1
-me	0	0
-incisively	1	2
-.	NA	NA

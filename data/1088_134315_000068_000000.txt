@@ -1,9 +1,0 @@
-Give	2	0
-me	0	0
-those	1	1
-books	2	1
-!	NA	NA
-roared	1	1
-the	0	0
-other	1	2
-.	NA	NA

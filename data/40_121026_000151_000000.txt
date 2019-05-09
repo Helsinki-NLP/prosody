@@ -1,5 +1,0 @@
-I	2	0
-saw	0	0
-it	0	1
-done	2	2
-.	NA	NA

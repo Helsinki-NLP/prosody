@@ -1,7 +1,0 @@
-Coronel	2	1
-exchanged	1	1
-a	0	0
-glance	1	1
-with	0	0
-Hyacinth	2	2
-.	NA	NA

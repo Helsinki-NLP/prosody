@@ -1,9 +1,0 @@
-He	0	0
-is	0	0
-at	2	0
-the	0	0
-wind	0	0
-vane	1	0
-offices	0	1
-directing	2	2
-.	NA	NA

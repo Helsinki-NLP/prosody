@@ -1,7 +1,0 @@
-As	1	1
-he	0	0
-rode	2	1
-beside	1	0
-Kenneth	1	1
-he	0	0
-said	2	2

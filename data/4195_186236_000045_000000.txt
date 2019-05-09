@@ -1,9 +1,0 @@
-Can't	1	0
-you	0	1
-go	1	1
-yourself	2	1
-?	NA	NA
-asked	2	2
-the	0	0
-boy	2	2
-.	NA	NA

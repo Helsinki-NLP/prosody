@@ -1,9 +1,0 @@
-Easy	2	1
-,	NA	NA
-Gregg	2	2
-!	NA	NA
-dr	1	0
-Frank	0	0
-gripped	1	0
-me	0	2
-.	NA	NA

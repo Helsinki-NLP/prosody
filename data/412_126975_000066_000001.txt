@@ -1,8 +1,0 @@
-What	1	1
-it's	0	0
-worth	2	2
-you	0	0
-can	0	0
-say	0	0
-afterwards	1	2
-.	NA	NA

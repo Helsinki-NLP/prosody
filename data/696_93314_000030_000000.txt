@@ -1,8 +1,0 @@
-But	0	0
-I	1	0
-may	0	1
-die	2	0
-at	0	1
-any	0	0
-moment	2	2
-.	NA	NA

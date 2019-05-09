@@ -1,4 +1,0 @@
-Oh	1	1
-,	NA	NA
-Edward	2	2
-!	NA	NA

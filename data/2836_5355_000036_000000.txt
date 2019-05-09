@@ -1,7 +1,0 @@
-Quite	2	0
-true	1	2
-,	NA	NA
-was	0	0
-her	0	0
-reply	2	2
-.	NA	NA

@@ -1,6 +1,0 @@
-I	0	0
-cannot	1	0
-help	1	1
-the	0	0
-delay	2	2
-.	NA	NA

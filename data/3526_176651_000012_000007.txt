@@ -1,8 +1,0 @@
-She	1	0
-had	0	2
-never	1	0
-been	0	0
-up	2	0
-there	0	1
-before	2	2
-.	NA	NA

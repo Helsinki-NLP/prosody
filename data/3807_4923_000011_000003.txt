@@ -1,5 +1,0 @@
-It's	0	1
-liberty	2	0
-we	0	1
-require	2	2
-.	NA	NA

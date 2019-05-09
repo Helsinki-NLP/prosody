@@ -1,4 +1,0 @@
-Could	1	0
-it	0	1
-be	2	2
-?	NA	NA

@@ -1,9 +1,0 @@
-I'm	2	1
-afraid	1	0
-I	0	0
-must	0	2
-be	0	0
-frank	2	0
-with	0	1
-master	2	2
-.	NA	NA

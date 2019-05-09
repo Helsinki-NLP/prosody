@@ -1,6 +1,0 @@
-Not	2	0
-that	1	1
-,	NA	NA
-Rawdon	1	0
-said	0	2
-.	NA	NA

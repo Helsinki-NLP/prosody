@@ -1,7 +1,0 @@
-In	0	0
-fact	2	1
-,	NA	NA
-I	0	0
-said	1	1
-,	1	2
-mr	NA	NA

@@ -1,9 +1,0 @@
-mrs	2	1
-Chuck	1	0
-and	0	0
-I	1	0
-believe	1	0
-in	0	2
-large	2	0
-families	1	2
-.	NA	NA

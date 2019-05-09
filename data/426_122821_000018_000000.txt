@@ -1,5 +1,0 @@
-edward	1	1
-blake	1	1
-ClaY	2	2
-.	NA	NA
-'	NA	NA

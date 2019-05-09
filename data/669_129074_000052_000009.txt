@@ -1,6 +1,0 @@
-She	0	2
-knew	1	0
-he	0	1
-would	1	0
-come	2	2
-.	NA	NA

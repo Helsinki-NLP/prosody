@@ -1,6 +1,0 @@
-From	1	1
-Cape	2	0
-Horn	1	2
-to	1	0
-the	0	0
-Amazon	1	2

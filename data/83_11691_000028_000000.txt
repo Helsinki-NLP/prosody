@@ -1,6 +1,0 @@
-Really	2	1
-frankly	2	1
-?	NA	NA
-he	0	0
-asked	2	2
-.	NA	NA

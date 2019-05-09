@@ -1,5 +1,0 @@
-Day	2	0
-after	0	1
-day	0	0
-passed	1	2
-.	NA	NA

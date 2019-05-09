@@ -1,3 +1,0 @@
-What	1	0
-friend	1	2
-?	NA	NA

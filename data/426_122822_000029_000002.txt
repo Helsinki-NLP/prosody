@@ -1,6 +1,0 @@
-But	0	0
-she	0	1
-decided	2	1
-not	0	1
-to	2	2
-.	NA	NA

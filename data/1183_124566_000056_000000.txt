@@ -1,3 +1,0 @@
-twenty	0	1
-six	2	2
-.	NA	NA

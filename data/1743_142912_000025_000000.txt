@@ -1,5 +1,0 @@
-Jenny	2	0
-!	NA	NA
-called	1	1
-peter	0	2
-.	NA	NA

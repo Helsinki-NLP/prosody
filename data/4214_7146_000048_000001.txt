@@ -1,9 +1,0 @@
-Her	1	0
-face	2	0
-was	0	1
-twitching	2	0
-in	0	1
-spite	2	0
-of	0	1
-herself	2	2
-.	NA	NA

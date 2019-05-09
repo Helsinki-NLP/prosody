@@ -1,7 +1,0 @@
-Why	1	0
-would	0	0
-they	0	0
-not	0	2
-be	0	0
-gone	2	2
-?	NA	NA

@@ -1,9 +1,0 @@
-But	0	0
-I'm	0	0
-much	1	0
-obliged	1	2
-to	0	0
-Jane	0	1
-,	NA	NA
-nevertheless	2	2
-.	NA	NA

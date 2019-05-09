@@ -1,8 +1,0 @@
-I	2	0
-know	1	0
-I	0	1
-can	0	0
-trust	1	1
-your	0	0
-word	2	2
-.	NA	NA

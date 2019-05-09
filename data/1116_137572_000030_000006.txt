@@ -1,8 +1,0 @@
-You	0	1
-cannot	2	0
-help	0	1
-your	0	0
-change	1	0
-of	0	1
-feeling	1	2
-.	NA	NA

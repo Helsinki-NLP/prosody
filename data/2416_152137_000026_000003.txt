@@ -1,5 +1,0 @@
-THE	0	0
-LETTER	1	0
-WAS	0	1
-GONE	2	2
-!	NA	NA

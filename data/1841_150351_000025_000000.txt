@@ -1,9 +1,0 @@
-The	0	0
-totem	2	1
-pole	0	2
-is	0	0
-a	0	0
-most	1	0
-interesting	0	1
-affair	2	2
-.	NA	NA

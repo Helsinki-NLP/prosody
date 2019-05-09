@@ -1,2 +1,0 @@
-Stop	1	0
-worrying	1	2

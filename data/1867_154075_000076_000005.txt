@@ -1,4 +1,0 @@
-Is	0	1
-that	2	1
-square	2	2
-?	NA	NA

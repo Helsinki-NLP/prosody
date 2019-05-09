@@ -1,6 +1,0 @@
-Faithless	1	1
-to	0	0
-my	0	0
-country	0	1
-then	2	2
-?	NA	NA

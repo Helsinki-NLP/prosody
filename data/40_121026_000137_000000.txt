@@ -1,7 +1,0 @@
-With	0	0
-more	2	0
-of	0	1
-mildness	2	1
-than	0	0
-severity	2	2
-.	NA	NA

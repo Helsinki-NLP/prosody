@@ -1,6 +1,0 @@
-That	2	0
-was	0	0
-a	0	1
-cow	1	1
-mooing	1	2
-.	NA	NA

@@ -1,9 +1,0 @@
-What	1	0
-do	0	1
-you	0	0
-mean	2	2
-?	NA	NA
-Grandaddy	2	1
-Beaver	0	0
-asked	2	2
-.	NA	NA

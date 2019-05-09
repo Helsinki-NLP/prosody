@@ -1,4 +1,0 @@
-Of	0	0
-what	1	1
-powers	2	2
-?	NA	NA

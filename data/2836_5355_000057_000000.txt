@@ -1,8 +1,0 @@
-Let's	1	1
-see	2	1
-how	0	0
-old	2	0
-is	0	1
-he	0	0
-now	2	2
-?	NA	NA

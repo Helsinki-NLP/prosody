@@ -1,4 +1,0 @@
-That's	2	1
-my	0	0
-masterpiece	1	2
-.	NA	NA

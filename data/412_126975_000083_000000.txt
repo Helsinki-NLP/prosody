@@ -1,8 +1,0 @@
-You	0	1
-never	0	0
-did	1	1
-anything	0	0
-better	1	1
-,	NA	NA
-Flambeau	2	2
-.	NA	NA

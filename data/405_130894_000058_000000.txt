@@ -1,6 +1,0 @@
-Boiling	0	1
-water	2	1
-!	NA	NA
-he	0	0
-muttered	2	2
-.	NA	NA

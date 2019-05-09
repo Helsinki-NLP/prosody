@@ -1,8 +1,0 @@
-PARIS	2	2
-,	NA	NA
-January	2	0
-,	NA	NA
-nineteen	0	1
-o	0	0
-six	0	2
-.	NA	NA

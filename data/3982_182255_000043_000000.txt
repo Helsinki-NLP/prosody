@@ -1,7 +1,0 @@
-He	1	1
-did	2	2
-,	NA	NA
-said	1	0
-mr	0	0
-Fyshe	0	2
-.	NA	NA

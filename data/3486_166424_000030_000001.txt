@@ -1,7 +1,0 @@
-Just	0	0
-a	0	0
-minute	1	0
-,	NA	NA
-he	0	1
-called	2	2
-.	NA	NA

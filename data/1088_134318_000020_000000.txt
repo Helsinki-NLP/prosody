@@ -1,7 +1,0 @@
-Yes	1	1
-,	NA	NA
-sir	2	0
-,	NA	NA
-said	0	1
-Fisher	1	2
-.	NA	NA

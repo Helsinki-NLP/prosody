@@ -1,3 +1,0 @@
-Poor	1	0
-Barrington	2	2
-!	NA	NA

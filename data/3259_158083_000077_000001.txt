@@ -1,9 +1,0 @@
-Demanded	2	0
-to	0	1
-see	0	0
-Superintendent	1	0
-Whittaker	1	2
-.	NA	NA
-Request	2	0
-refused	1	2
-.	NA	NA

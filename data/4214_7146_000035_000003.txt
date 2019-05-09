@@ -1,5 +1,0 @@
-I'll	0	1
-never	2	1
-forsake	1	0
-you	1	2
-.	NA	NA

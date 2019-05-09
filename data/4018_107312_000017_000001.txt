@@ -1,5 +1,0 @@
-Small	1	0
-cops	2	1
-be	0	0
-hanged	2	2
-!	NA	NA

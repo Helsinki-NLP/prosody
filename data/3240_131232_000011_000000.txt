@@ -1,7 +1,0 @@
-Gravitation	2	1
-is	0	0
-one	1	0
-of	0	0
-these	0	1
-forces	1	2
-.	NA	NA

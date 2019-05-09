@@ -1,9 +1,0 @@
-I	0	0
-did	0	0
-not	0	0
-mean	1	0
-to	0	2
-to	1	0
-intoxicate	2	1
-Diana	1	2
-.	NA	NA

@@ -1,8 +1,0 @@
-We	0	0
-had	0	0
-gone	0	0
-backwards	1	2
-instead	2	0
-of	0	1
-forwards	2	2
-!	NA	NA

@@ -1,5 +1,0 @@
-Sister	2	0
-!	NA	NA
-she	0	1
-whispered	2	2
-.	NA	NA

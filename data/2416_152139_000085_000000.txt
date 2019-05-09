@@ -1,4 +1,0 @@
-THOMAS	1	1
-h	1	1
-CARLING	1	2
-.	NA	NA

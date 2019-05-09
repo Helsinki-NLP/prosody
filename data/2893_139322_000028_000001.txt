@@ -1,5 +1,0 @@
-The	0	0
-people	1	0
-are	0	1
-here	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-A	0	0
-sudden	2	0
-light	0	2
-broke	1	0
-upon	0	0
-Rebecca's	0	0
-darkness	1	2
-.	NA	NA

@@ -1,8 +1,0 @@
-Combeferre	2	0
-has	0	1
-said	1	0
-convincing	1	0
-things	0	1
-to	0	0
-you	1	2
-.	NA	NA

@@ -1,7 +1,0 @@
-I'm	2	0
-going	0	1
-for	0	0
-a	0	0
-Cycling	2	1
-Tour	2	2
-.	NA	NA

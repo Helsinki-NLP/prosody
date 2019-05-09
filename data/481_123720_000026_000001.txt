@@ -1,6 +1,0 @@
-It's	0	0
-not	2	0
-an	0	1
-official	1	1
-gathering	1	2
-.	NA	NA

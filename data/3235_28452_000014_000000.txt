@@ -1,8 +1,0 @@
-The	0	0
-little	1	0
-girl's	1	1
-work	1	1
-was	0	0
-not	0	0
-ended	2	2
-.	NA	NA

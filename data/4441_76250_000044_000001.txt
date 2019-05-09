@@ -1,9 +1,0 @@
-I	2	0
-should	0	0
-take	0	1
-jolly	1	0
-good	0	1
-care	0	0
-not	2	1
-to	1	2
-.	NA	NA

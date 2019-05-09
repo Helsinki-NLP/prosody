@@ -1,5 +1,0 @@
-'tis	1	0
-a	0	1
-sad	2	1
-business	1	2
-.	NA	NA

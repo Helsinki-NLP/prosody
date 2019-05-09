@@ -1,8 +1,0 @@
-It	0	0
-really	2	1
-is	0	0
-reddish	0	1
-brown	2	1
-in	0	0
-color	2	2
-.	NA	NA

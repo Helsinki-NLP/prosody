@@ -1,5 +1,0 @@
-Drums	0	1
-,	NA	NA
-whispered	0	0
-Ventnor	2	2
-.	NA	NA

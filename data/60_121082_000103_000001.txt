@@ -1,8 +1,0 @@
-I	2	0
-hope	0	1
-I	2	1
-am	0	0
-not	0	1
-the	0	0
-cause	1	2
-.	NA	NA

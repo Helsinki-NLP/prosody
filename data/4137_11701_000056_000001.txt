@@ -1,9 +1,0 @@
-I	0	0
-haven't	2	1
-the	0	0
-slightest	2	1
-intention	0	1
-of	0	0
-marrying	1	0
-her	2	2
-.	NA	NA

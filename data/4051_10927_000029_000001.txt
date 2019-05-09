@@ -1,4 +1,0 @@
-I	1	0
-love	2	1
-you	0	2
-.	NA	NA

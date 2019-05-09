@@ -1,6 +1,0 @@
-But	0	1
-where	2	0
-is	0	0
-your	0	1
-crook	2	2
-?	NA	NA

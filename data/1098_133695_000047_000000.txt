@@ -1,3 +1,0 @@
-Isabel	0	1
-considered	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-Oh	2	0
-!	NA	NA
-yes	1	2
-I	2	0
-understand	0	1
-you	0	0
-perfectly	1	2
-.	NA	NA

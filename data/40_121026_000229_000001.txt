@@ -1,6 +1,0 @@
-Did	2	0
-you	0	0
-fancy	1	0
-yourself	0	1
-dying	2	2
-?	NA	NA

@@ -1,4 +1,0 @@
-Then	1	0
-peter	0	1
-chuckled	2	2
-.	NA	NA

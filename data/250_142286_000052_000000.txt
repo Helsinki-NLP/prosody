@@ -1,8 +1,0 @@
-mrs	1	1
-Thornton	2	1
-went	0	0
-on	1	1
-after	0	0
-a	0	0
-moment's	0	1
-pause	2	2

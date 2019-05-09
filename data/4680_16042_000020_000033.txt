@@ -1,6 +1,0 @@
-These	2	0
-wars	1	1
-build	0	0
-up	1	1
-peace	2	2
-.	NA	NA

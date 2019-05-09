@@ -1,4 +1,0 @@
-So	0	0
-I	1	1
-despise	2	2
-.	NA	NA

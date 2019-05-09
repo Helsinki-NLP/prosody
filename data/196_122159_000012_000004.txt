@@ -1,7 +1,0 @@
-And	1	0
-at	0	0
-the	0	1
-time	1	2
-.	NA	NA
-.	NA	NA
-.	NA	NA

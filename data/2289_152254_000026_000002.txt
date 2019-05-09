@@ -1,7 +1,0 @@
-Of	1	0
-course	1	0
-peace	1	0
-was	0	1
-not	0	1
-made	2	2
-.	NA	NA

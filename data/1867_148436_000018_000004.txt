@@ -1,8 +1,0 @@
-I	1	0
-told	1	0
-him	0	2
-;	NA	NA
-sure	1	0
-I	0	1
-did	1	2
-.	NA	NA

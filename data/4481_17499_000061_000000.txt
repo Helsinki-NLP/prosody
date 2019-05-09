@@ -1,9 +1,0 @@
-mrs	1	0
-Merrick	0	1
-held	1	0
-up	0	1
-her	0	0
-hands	1	0
-in	0	2
-horror	2	2
-.	NA	NA

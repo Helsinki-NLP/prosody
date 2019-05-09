@@ -1,8 +1,0 @@
-I	2	0
-slept	1	1
-like	1	0
-a	0	1
-top	2	1
-last	1	1
-night	0	2
-.	NA	NA

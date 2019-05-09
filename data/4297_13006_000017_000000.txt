@@ -1,9 +1,0 @@
-Yes	2	0
-,	NA	NA
-papa	1	2
-;	NA	NA
-I	1	0
-think	1	0
-I	1	0
-do	1	2
-.	NA	NA

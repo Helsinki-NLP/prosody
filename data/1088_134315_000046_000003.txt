@@ -1,6 +1,0 @@
-This	2	0
-however	0	0
-yielded	0	1
-no	1	0
-result	1	2
-.	NA	NA

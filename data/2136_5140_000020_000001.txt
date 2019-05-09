@@ -1,9 +1,0 @@
-He	0	0
-says	2	1
-your	0	0
-mamma	0	1
-is	0	0
-not	1	1
-there	2	2
-.	NA	NA
-'	NA	NA

@@ -1,9 +1,0 @@
-I	2	1
-suppose	2	1
-you	0	0
-haven't	1	1
-heard	1	0
-anything	0	0
-of	0	1
-them	2	2
-?	NA	NA

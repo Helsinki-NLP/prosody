@@ -1,5 +1,0 @@
-I	1	0
-will	1	0
-not	0	1
-yield	1	2
-.	NA	NA

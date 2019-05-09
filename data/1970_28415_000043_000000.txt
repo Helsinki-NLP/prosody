@@ -1,9 +1,0 @@
-Turning	2	0
-to	1	0
-the	0	1
-Pharisees	1	1
-themselves	2	1
-,	NA	NA
-he	0	0
-went	0	0
-on	2	2

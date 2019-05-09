@@ -1,6 +1,0 @@
-Today	2	0
-the	0	1
-chairs	2	1
-were	1	0
-empty	1	2
-.	NA	NA

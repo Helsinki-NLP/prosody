@@ -1,8 +1,0 @@
-He	0	0
-will	0	0
-always	1	2
-be	0	0
-blind	1	1
-,	NA	NA
-dear	2	2
-.	NA	NA

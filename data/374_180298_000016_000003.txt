@@ -1,6 +1,0 @@
-You	0	1
-will	0	0
-readily	1	1
-understand	1	1
-why	2	2
-.	NA	NA

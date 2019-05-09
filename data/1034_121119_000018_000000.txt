@@ -1,7 +1,0 @@
-Oh	2	1
-,	NA	NA
-this	0	0
-is	0	0
-too	0	0
-much	1	2
-!	NA	NA

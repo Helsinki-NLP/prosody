@@ -1,6 +1,0 @@
-He	0	0
-never	1	1
-cared	2	1
-for	0	0
-you	2	2
-.	NA	NA

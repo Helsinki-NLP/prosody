@@ -1,7 +1,0 @@
-That's	2	1
-it	1	1
-!	NA	NA
-said	1	0
-Uncle	0	1
-john	2	2
-.	NA	NA

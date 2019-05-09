@@ -1,8 +1,0 @@
-An	0	0
-hour	2	1
-ago	0	0
-,	NA	NA
-was	0	1
-the	0	0
-reply	2	2
-.	NA	NA

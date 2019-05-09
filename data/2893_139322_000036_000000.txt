@@ -1,8 +1,0 @@
-What	1	0
-did	0	0
-he	0	1
-say	2	2
-?	NA	NA
-asked	1	0
-Graham	1	2
-.	NA	NA

@@ -1,6 +1,0 @@
-Don't	0	0
-move	1	1
-,	NA	NA
-peter	0	0
-Rabbit	2	2
-!	NA	NA

@@ -1,4 +1,0 @@
-There's	1	0
-our	0	1
-tree	2	2
-.	NA	NA

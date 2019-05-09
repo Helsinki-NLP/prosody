@@ -1,5 +1,0 @@
-Good	0	1
-bye	2	0
-,	NA	NA
-Dick	1	2
-!	NA	NA

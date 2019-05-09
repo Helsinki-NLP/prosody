@@ -1,3 +1,0 @@
-Fit	2	1
-for	0	0
-Drink	2	2

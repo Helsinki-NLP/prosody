@@ -1,9 +1,0 @@
-She	0	0
-ain't	1	0
-been	0	1
-developed	2	2
-,	NA	NA
-Jeff	1	0
-would	0	0
-say	1	2
-.	NA	NA

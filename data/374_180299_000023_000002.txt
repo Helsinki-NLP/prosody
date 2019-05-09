@@ -1,7 +1,0 @@
-Marguerite	2	1
-could	0	0
-not	1	0
-be	0	1
-without	2	0
-me	0	2
-.	NA	NA

@@ -1,6 +1,0 @@
-The	0	0
-darky	2	1
-scratched	1	1
-his	0	0
-head	2	2
-.	NA	NA

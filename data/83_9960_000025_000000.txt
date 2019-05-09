@@ -1,9 +1,0 @@
-The	0	0
-prisoner	1	1
-made	1	0
-a	0	0
-movement	1	1
-in	0	0
-his	0	1
-bonds	2	2
-.	NA	NA

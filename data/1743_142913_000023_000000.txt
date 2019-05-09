@@ -1,6 +1,0 @@
-peter	0	1
-grinned	2	0
-and	0	0
-looked	0	1
-foolish	2	2
-.	NA	NA

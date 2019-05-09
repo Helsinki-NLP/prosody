@@ -1,9 +1,0 @@
-I	0	0
-will	0	1
-do	2	0
-what	0	0
-has	1	0
-to	0	2
-be	0	0
-done	2	2
-.	NA	NA

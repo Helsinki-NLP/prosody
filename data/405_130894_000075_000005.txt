@@ -1,8 +1,0 @@
-Some	2	0
-crewmen	1	1
-were	0	0
-at	0	0
-their	0	1
-last	2	1
-gasp	2	2
-.	NA	NA

@@ -1,7 +1,0 @@
-George	2	0
-Gathercole	0	2
-,	NA	NA
-Junior	2	0
-Travellers'	1	1
-Club	0	2
-.	NA	NA

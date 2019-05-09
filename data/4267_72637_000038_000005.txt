@@ -1,7 +1,0 @@
-Of	0	1
-course	2	2
-,	NA	NA
-I	1	0
-took	0	0
-you	2	2
-.	NA	NA

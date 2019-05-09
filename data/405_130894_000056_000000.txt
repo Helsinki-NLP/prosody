@@ -1,8 +1,0 @@
-I	2	1
-broke	0	0
-out	1	0
-in	0	1
-a	0	0
-cold	1	1
-sweat	2	2
-.	NA	NA

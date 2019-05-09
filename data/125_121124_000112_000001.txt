@@ -1,8 +1,0 @@
-Are	1	0
-you	0	0
-then	1	1
-pressed	2	1
-for	0	0
-this	0	0
-money	2	2
-?	NA	NA

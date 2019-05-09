@@ -1,8 +1,0 @@
-'Quit	1	0
-my	1	0
-presence	2	2
-!	NA	NA
-'	NA	NA
-cried	2	0
-Montoni	0	2
-.	NA	NA

@@ -1,9 +1,0 @@
-It	2	0
-is	0	0
-not	1	1
-you	2	2
-,	NA	NA
-but	2	0
-your	0	0
-radiance	1	2
-.	NA	NA

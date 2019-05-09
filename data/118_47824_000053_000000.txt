@@ -1,7 +1,0 @@
-His	0	1
-laugh	2	0
-was	0	1
-short	1	0
-and	0	1
-embarrassed	1	2
-.	NA	NA

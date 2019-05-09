@@ -1,8 +1,0 @@
-And	1	0
-indeed	1	1
-,	NA	NA
-she	0	0
-walked	2	1
-very	1	0
-dizzily	1	2
-.	NA	NA

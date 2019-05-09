@@ -1,7 +1,0 @@
-He	0	0
-calls	2	0
-my	0	0
-people	1	2
-'most	1	0
-beloved'	1	2
-.	NA	NA

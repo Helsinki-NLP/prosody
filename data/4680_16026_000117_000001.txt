@@ -1,4 +1,0 @@
-Do	0	1
-the	0	0
-job	2	2
-.	NA	NA

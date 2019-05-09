@@ -1,8 +1,0 @@
-Kate	0	0
-Stafford	1	1
-,	NA	NA
-Oklahoma	1	0
-City	0	1
-.	NA	NA
-Minnesota	2	1
-mrs	0	2

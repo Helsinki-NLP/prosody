@@ -1,7 +1,0 @@
-The	0	0
-rhinoceros	2	1
-cares	0	0
-little	0	0
-for	0	1
-adaptability	2	2
-.	NA	NA

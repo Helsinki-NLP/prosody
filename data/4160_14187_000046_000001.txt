@@ -1,8 +1,0 @@
-Take	2	0
-our	0	0
-present	1	1
-case	1	0
-,	NA	NA
-for	0	1
-instance	2	2
-.	NA	NA

@@ -1,9 +1,0 @@
-The	0	0
-basilisk	2	1
-,	NA	NA
-eh	2	1
-?	NA	NA
-asked	1	0
-john	0	0
-Mark	1	2
-.	NA	NA

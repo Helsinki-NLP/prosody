@@ -1,9 +1,0 @@
-I	1	0
-beg	2	1
-to	0	0
-be	0	0
-allowed	0	1
-to	0	0
-get	0	0
-out	2	2
-!	NA	NA

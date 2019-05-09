@@ -1,8 +1,0 @@
-You	0	0
-ladies	1	0
-should	0	0
-think	0	1
-of	0	0
-that	2	1
-beforehand	2	2
-.	NA	NA

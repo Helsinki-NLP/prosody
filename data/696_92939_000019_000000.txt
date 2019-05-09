@@ -1,3 +1,0 @@
-My	1	1
-dear	1	0
-Baron	0	2

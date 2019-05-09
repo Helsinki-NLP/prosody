@@ -1,7 +1,0 @@
-I'll	1	0
-be	0	0
-there	0	1
-presently	2	1
-,	NA	NA
-Gregg	2	2
-.	NA	NA

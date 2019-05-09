@@ -1,6 +1,0 @@
-Boiling	2	0
-water	1	1
-?	NA	NA
-I	0	0
-exclaimed	1	2
-.	NA	NA

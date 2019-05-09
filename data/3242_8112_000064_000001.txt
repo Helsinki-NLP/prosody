@@ -1,3 +1,0 @@
-Around	2	1
-forty	1	2
-.	NA	NA

@@ -1,5 +1,0 @@
-Counsel	2	1
-sought	1	0
-a	0	1
-deputy	1	2
-.	NA	NA

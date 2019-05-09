@@ -1,7 +1,0 @@
-But	0	0
-a	0	0
-sure	1	1
-goer	2	1
-,	NA	NA
-eh	1	2
-?	NA	NA

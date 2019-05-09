@@ -1,5 +1,0 @@
-You	0	0
-never	1	0
-told	2	1
-me	0	2
-.	NA	NA

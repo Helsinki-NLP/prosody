@@ -1,4 +1,0 @@
-Yes	2	1
-,	NA	NA
-nephew	0	2
-.	NA	NA

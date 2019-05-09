@@ -1,9 +1,0 @@
-Is	0	0
-the	0	0
-world	1	2
-filled	2	0
-with	0	1
-tigers	2	0
-and	0	1
-crocodiles	1	2
-?	NA	NA

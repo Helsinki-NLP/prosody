@@ -1,7 +1,0 @@
-It	0	0
-lurched	2	1
-forward	2	2
-away	1	0
-from	0	0
-us	1	2
-.	NA	NA

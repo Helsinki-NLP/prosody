@@ -1,9 +1,0 @@
-She	2	0
-had	0	0
-a	0	2
-fearful	1	0
-headache	0	1
-all	2	0
-day	0	0
-yesterday	1	2
-.	NA	NA

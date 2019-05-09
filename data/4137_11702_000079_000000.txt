@@ -1,7 +1,0 @@
-Well	2	0
-,	NA	NA
-no	1	0
-,	NA	NA
-it	0	1
-doesn't	1	2
-.	NA	NA

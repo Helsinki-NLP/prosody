@@ -1,7 +1,0 @@
-Carter	2	1
-came	2	1
-into	0	0
-the	0	0
-chart	2	0
-room	0	2
-.	NA	NA

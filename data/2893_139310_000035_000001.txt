@@ -1,6 +1,0 @@
-Wave	2	1
-your	0	0
-arm	2	1
-to	0	0
-them	0	2
-.	NA	NA

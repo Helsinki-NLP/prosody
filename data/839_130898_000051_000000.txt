@@ -1,6 +1,0 @@
-He	0	0
-went	2	1
-down	1	0
-the	0	1
-hatch	1	2
-.	NA	NA

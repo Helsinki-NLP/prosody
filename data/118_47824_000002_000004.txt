@@ -1,6 +1,0 @@
-I	0	0
-must	2	1
-think	1	0
-it	0	0
-over	2	2
-.	NA	NA

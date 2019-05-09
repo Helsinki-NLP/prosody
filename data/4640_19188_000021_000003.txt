@@ -1,3 +1,0 @@
-See	0	1
-here	2	2
-.	NA	NA

@@ -1,6 +1,0 @@
-Evil	1	1
-thenceforth	2	1
-became	0	0
-my	0	0
-good	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-Orchard	2	1
-Slope's	1	1
-the	0	0
-name	1	0
-of	0	0
-his	0	1
-place	1	2
-.	NA	NA

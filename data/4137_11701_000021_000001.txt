@@ -1,5 +1,0 @@
-That's	2	1
-what	1	0
-I'm	0	1
-wondering	1	2
-.	NA	NA

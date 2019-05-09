@@ -1,4 +1,0 @@
-Who	0	1
-are	2	0
-you	0	2
-?	NA	NA

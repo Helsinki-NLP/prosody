@@ -1,9 +1,0 @@
-What	2	1
-did	0	0
-you	1	0
-expect	1	1
-to	0	0
-gain	1	0
-by	1	1
-that	1	2
-?	NA	NA

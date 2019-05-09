@@ -1,6 +1,0 @@
-A	0	0
-form	2	1
-fuller	2	0
-than	0	0
-the	0	1
-preceding	1	2

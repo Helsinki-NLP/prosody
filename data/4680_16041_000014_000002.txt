@@ -1,9 +1,0 @@
-Entering	1	0
-a	0	0
-street	2	2
-was	0	0
-like	1	0
-entering	0	0
-a	0	1
-cellar	2	2
-.	NA	NA

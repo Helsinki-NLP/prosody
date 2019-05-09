@@ -1,6 +1,0 @@
-With	0	0
-us	1	1
-is	1	0
-it	0	2
-curiosity	2	2
-?	NA	NA

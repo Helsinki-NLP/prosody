@@ -1,8 +1,0 @@
-She	0	0
-would	0	1
-be	0	0
-very	2	0
-glad	0	0
-to	0	1
-stay	2	2
-.	NA	NA

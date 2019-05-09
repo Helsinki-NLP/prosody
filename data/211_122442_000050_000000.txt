@@ -1,4 +1,0 @@
-Far	1	0
-from	0	1
-here	2	2
-?	NA	NA

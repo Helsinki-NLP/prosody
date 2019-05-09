@@ -1,7 +1,0 @@
-The	0	0
-other	2	1
-two	0	0
-were	0	0
-in	0	1
-Paradise	1	2
-.	NA	NA

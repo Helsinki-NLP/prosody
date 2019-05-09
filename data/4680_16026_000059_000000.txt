@@ -1,4 +1,0 @@
-Eponine	2	0
-caught	1	1
-Montparnasse's	1	0
-.	NA	NA

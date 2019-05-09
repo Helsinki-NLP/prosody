@@ -1,9 +1,0 @@
-He	0	0
-lived	2	1
-there	1	2
-the	0	0
-remainder	1	0
-of	0	1
-his	0	0
-life	1	2
-.	NA	NA

@@ -1,8 +1,0 @@
-Nobody	2	1
-knows	1	0
-or	0	2
-cares	1	0
-about	0	0
-it	0	1
-now	2	2
-.	NA	NA

@@ -1,6 +1,0 @@
-There	0	0
-,	NA	NA
-there	2	1
-,	NA	NA
-child	0	2
-.	NA	NA

@@ -1,6 +1,0 @@
-Hop	2	0
-in	0	1
-,	NA	NA
-my	0	0
-dears	1	2
-.	NA	NA

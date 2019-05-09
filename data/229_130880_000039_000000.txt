@@ -1,7 +1,0 @@
-Oh	2	1
-!	NA	NA
-I	0	0
-said	1	1
-You	0	0
-know	1	0
-about	1	2

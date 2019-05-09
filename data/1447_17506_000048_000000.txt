@@ -1,6 +1,0 @@
-Quite	2	1
-sure	0	1
-,	NA	NA
-my	0	0
-dear	1	2
-.	NA	NA

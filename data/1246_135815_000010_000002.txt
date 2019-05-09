@@ -1,9 +1,0 @@
-You	0	0
-will	1	0
-notice	1	0
-that	0	1
-Johnny	2	0
-has	0	1
-stout	1	1
-claws	2	2
-.	NA	NA

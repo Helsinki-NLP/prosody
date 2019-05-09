@@ -1,7 +1,0 @@
-I	0	0
-heard	2	1
-many	1	0
-things	0	1
-in	0	0
-hell	2	2
-.	NA	NA

@@ -1,3 +1,0 @@
-Splendid	1	0
-coffee	1	2
-!	NA	NA

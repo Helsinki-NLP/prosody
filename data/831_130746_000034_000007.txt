@@ -1,8 +1,0 @@
-And	0	0
-she	1	1
-by	1	1
-the	0	0
-side	2	0
-of	0	1
-him	2	2
-!	NA	NA

@@ -1,5 +1,0 @@
-Won't	1	0
-we	0	1
-,	NA	NA
-girls	2	2
-?	NA	NA

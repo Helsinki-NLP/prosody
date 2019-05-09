@@ -1,8 +1,0 @@
-Her	1	1
-in	2	0
-doors	0	0
-life	1	2
-had	1	0
-its	0	1
-drawbacks	2	2
-.	NA	NA

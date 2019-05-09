@@ -1,5 +1,0 @@
-The	0	0
-officers	2	1
-were	0	0
-satisfied	2	2
-.	NA	NA

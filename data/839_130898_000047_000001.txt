@@ -1,9 +1,0 @@
-The	0	1
-sea	1	0
-was	0	0
-smooth	1	2
-,	NA	NA
-the	0	0
-skies	2	1
-clear	2	2
-.	NA	NA

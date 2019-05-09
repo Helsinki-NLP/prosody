@@ -1,4 +1,0 @@
-She	0	0
-laughed	2	1
-delightedly	1	2
-.	NA	NA

@@ -1,9 +1,0 @@
-It	1	0
-was	0	1
-probably	1	0
-in	0	0
-him	0	0
-from	0	0
-the	0	2
-start	2	2
-.	NA	NA

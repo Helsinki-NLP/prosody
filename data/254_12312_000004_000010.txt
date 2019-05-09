@@ -1,8 +1,0 @@
-The	0	0
-globe	2	0
-terrestrial	1	2
-is	2	1
-the	0	0
-tennis	1	0
-ball	1	2
-.	NA	NA

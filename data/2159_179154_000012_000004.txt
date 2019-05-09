@@ -1,4 +1,0 @@
-Then	2	0
-he	0	1
-stopped	2	2
-.	NA	NA

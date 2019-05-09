@@ -1,7 +1,0 @@
-He	0	0
-will	1	0
-be	0	1
-here	2	1
-before	1	0
-noon	1	2
-.	NA	NA

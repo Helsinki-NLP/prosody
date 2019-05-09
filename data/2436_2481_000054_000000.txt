@@ -1,7 +1,0 @@
-I	1	0
-fell	0	0
-helpless	2	1
-to	0	0
-the	0	0
-deck	2	2
-.	NA	NA

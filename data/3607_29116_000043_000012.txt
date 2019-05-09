@@ -1,6 +1,0 @@
-Uncle	1	0
-Dilworthy	1	2
-.	NA	NA
-.	NA	NA
-.	NA	NA
-.	NA	NA

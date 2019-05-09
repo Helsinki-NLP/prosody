@@ -1,7 +1,0 @@
-She	0	0
-was	0	1
-not	1	0
-even	0	1
-the	0	0
-mistress	2	2
-.	NA	NA

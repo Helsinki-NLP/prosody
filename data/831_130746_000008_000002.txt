@@ -1,5 +1,0 @@
-Interlude	2	0
-of	0	1
-conversational	0	0
-eyebrows	2	2
-.	NA	NA

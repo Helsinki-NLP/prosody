@@ -1,7 +1,0 @@
-I	0	1
-can't	2	1
-see	0	0
-you	0	1
-,	NA	NA
-dear	1	2
-!	NA	NA

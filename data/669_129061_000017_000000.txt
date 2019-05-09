@@ -1,8 +1,0 @@
-I	2	0
-wish	2	1
-I	2	0
-was	0	2
-,	NA	NA
-Rawdon	1	0
-replied	1	2
-.	NA	NA

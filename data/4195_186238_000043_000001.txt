@@ -1,8 +1,0 @@
-It's	0	0
-Patsy's	2	1
-doing	2	0
-,	NA	NA
-I've	0	0
-no	0	1
-doubt	2	2
-.	NA	NA

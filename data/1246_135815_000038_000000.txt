@@ -1,9 +1,0 @@
-Time	0	1
-is	0	0
-up	2	2
-,	NA	NA
-interrupted	1	1
-Old	0	0
-Mother	0	0
-Nature	2	2
-.	NA	NA

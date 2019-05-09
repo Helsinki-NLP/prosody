@@ -1,4 +1,0 @@
-No	1	0
-use	0	1
-now	2	2
-.	NA	NA

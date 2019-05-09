@@ -1,7 +1,0 @@
-She	2	0
-gave	0	0
-it	0	1
-to	0	0
-me	0	0
-herself	2	2
-.	NA	NA

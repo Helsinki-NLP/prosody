@@ -1,5 +1,0 @@
-mrs	2	1
-Thornton	0	1
-was	0	0
-shy	1	2
-.	NA	NA

@@ -1,7 +1,0 @@
-In	0	0
-Moyne's	2	0
-home	1	2
-up	1	0
-in	0	0
-Harlem	2	2
-.	NA	NA

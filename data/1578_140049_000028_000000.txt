@@ -1,9 +1,0 @@
-No	2	1
-!	NA	NA
-oh	1	1
-,	NA	NA
-no	1	0
-!	NA	NA
-not	0	0
-that	1	2
-!	NA	NA

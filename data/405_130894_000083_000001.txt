@@ -1,5 +1,0 @@
-I	1	0
-clutched	2	1
-his	0	0
-hand	2	2
-.	NA	NA

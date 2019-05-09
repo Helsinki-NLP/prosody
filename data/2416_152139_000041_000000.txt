@@ -1,5 +1,0 @@
-You	0	0
-found	2	0
-it	0	2
-WHERE	1	2
-?	NA	NA

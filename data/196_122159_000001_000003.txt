@@ -1,5 +1,0 @@
-It	0	0
-does	2	0
-me	0	1
-good	1	2
-.	NA	NA

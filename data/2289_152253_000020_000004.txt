@@ -1,8 +1,0 @@
-Both	1	0
-sides	0	1
-fought	1	0
-with	0	0
-the	0	1
-greatest	0	1
-bravery	2	2
-.	NA	NA

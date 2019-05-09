@@ -1,9 +1,0 @@
-Jimmy	1	1
-Rabbit	1	0
-almost	0	1
-cut	0	0
-off	1	0
-Frisky	0	1
-Squirrel's	1	0
-tail	2	2
-.	NA	NA

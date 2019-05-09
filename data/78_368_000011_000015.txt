@@ -1,5 +1,0 @@
-I	0	0
-arrived	2	0
-at	0	1
-Geneva	0	2
-.	NA	NA

@@ -1,6 +1,0 @@
-Did	1	0
-Charlotte	1	1
-dine	1	1
-with	0	0
-you	2	2
-?	NA	NA

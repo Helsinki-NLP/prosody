@@ -1,3 +1,0 @@
-Facts	2	1
-and	1	0
-Fancies	0	2

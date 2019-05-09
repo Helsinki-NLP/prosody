@@ -1,6 +1,0 @@
-But	1	0
-what	2	1
-does	1	0
-it	0	1
-matter	2	2
-?	NA	NA

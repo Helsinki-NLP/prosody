@@ -1,6 +1,0 @@
-How	1	1
-very	1	0
-unkind	1	0
-of	0	1
-her	2	2
-.	NA	NA

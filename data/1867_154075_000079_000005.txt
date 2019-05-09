@@ -1,9 +1,0 @@
-Where	1	0
-did	0	0
-john	1	0
-Mark	1	1
-get	2	0
-his	0	1
-sudden	1	0
-strength	2	2
-?	NA	NA

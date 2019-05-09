@@ -1,8 +1,0 @@
-Why	2	1
-,	NA	NA
-what's	0	0
-the	0	0
-matter	2	0
-with	0	1
-her	1	2
-?	NA	NA

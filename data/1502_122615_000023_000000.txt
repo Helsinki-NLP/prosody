@@ -1,6 +1,0 @@
-The	0	0
-Delawares	2	1
-of	0	0
-the	0	0
-Lakes	2	2
-!	NA	NA

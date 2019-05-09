@@ -1,5 +1,0 @@
-The	0	1
-Nautilus	2	1
-traveled	0	0
-swiftly	1	2
-.	NA	NA

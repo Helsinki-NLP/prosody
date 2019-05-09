@@ -1,8 +1,0 @@
-Never	0	1
-mind	2	1
-,	NA	NA
-dear	0	0
-,	NA	NA
-said	0	0
-she	2	2
-.	NA	NA

@@ -1,5 +1,0 @@
-Just	1	1
-back	1	0
-from	0	1
-Scotland	2	2
-.	NA	NA

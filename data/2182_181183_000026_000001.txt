@@ -1,4 +1,0 @@
-I	2	0
-know	1	1
-her	0	2
-!	NA	NA

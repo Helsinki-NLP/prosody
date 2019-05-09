@@ -1,9 +1,0 @@
-No	2	2
-;	NA	NA
-no	2	0
-more	0	0
-than	0	0
-Louis	0	0
-the	0	1
-sixteenth	2	2
-.	NA	NA

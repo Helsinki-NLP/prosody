@@ -1,5 +1,0 @@
-And	1	1
-still	2	0
-she	0	1
-stared	2	2
-.	NA	NA

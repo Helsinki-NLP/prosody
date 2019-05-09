@@ -1,7 +1,0 @@
-Don't	0	0
-you	0	0
-think	1	0
-that	2	0
-is	0	1
-suspicious	2	2
-?	NA	NA

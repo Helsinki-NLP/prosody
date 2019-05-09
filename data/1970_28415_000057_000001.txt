@@ -1,7 +1,0 @@
-That	2	0
-was	0	1
-all	2	0
-they	0	1
-talked	1	1
-about	1	2
-.	NA	NA

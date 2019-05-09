@@ -1,9 +1,0 @@
-You'd	0	1
-better	1	0
-lie	0	0
-down	1	2
-,	NA	NA
-said	0	0
-the	0	0
-countess	1	2
-.	NA	NA

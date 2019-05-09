@@ -1,6 +1,0 @@
-But	2	2
-are	2	0
-you	0	1
-perfectly	1	0
-certain	1	2
-?	NA	NA

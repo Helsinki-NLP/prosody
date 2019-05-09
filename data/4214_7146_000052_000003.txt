@@ -1,7 +1,0 @@
-Diana	1	1
-and	0	0
-I	1	0
-are	0	1
-parted	2	1
-forever	2	2
-.	NA	NA

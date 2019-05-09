@@ -1,7 +1,0 @@
-The	0	0
-House	2	0
-doesn't	0	1
-care	1	0
-about	0	1
-Monk	2	2
-.	NA	NA

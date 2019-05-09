@@ -1,7 +1,0 @@
-You	0	0
-know	1	0
-the	0	2
-name	2	1
-,	NA	NA
-eh	1	2
-?	NA	NA

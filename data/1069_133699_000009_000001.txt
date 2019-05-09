@@ -1,5 +1,0 @@
-They	2	0
-share	1	0
-their	0	1
-work	2	2
-.	NA	NA

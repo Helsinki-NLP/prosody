@@ -1,7 +1,0 @@
-Yes	2	2
-;	NA	NA
-he	1	0
-agreed	0	0
-at	0	0
-once	1	2
-.	NA	NA

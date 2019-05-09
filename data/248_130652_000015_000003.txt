@@ -1,8 +1,0 @@
-She	0	1
-spoils	2	1
-the	0	0
-look	0	0
-of	0	0
-the	0	0
-room	1	2
-.	NA	NA

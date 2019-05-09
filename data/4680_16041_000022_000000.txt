@@ -1,7 +1,0 @@
-CHAPTER	1	0
-two	1	2
-AN	1	0
-OWL'S	2	0
-VIEW	0	0
-OF	0	1
-PARIS	1	2

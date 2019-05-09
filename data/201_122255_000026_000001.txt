@@ -1,7 +1,0 @@
-Let	2	0
-us	0	1
-first	2	1
-measure	1	0
-our	0	1
-cudgels	2	2
-.	NA	NA

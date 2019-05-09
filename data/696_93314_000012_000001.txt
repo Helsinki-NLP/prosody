@@ -1,6 +1,0 @@
-I	0	0
-ought	2	0
-to	0	1
-be	0	1
-glad	1	2
-.	NA	NA

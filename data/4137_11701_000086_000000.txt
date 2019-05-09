@@ -1,6 +1,0 @@
-I	2	0
-congratulate	1	1
-your	0	0
-Royal	1	0
-Highness	0	2
-.	NA	NA

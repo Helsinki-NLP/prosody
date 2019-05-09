@@ -1,7 +1,0 @@
-Could	2	0
-I	0	1
-stand	1	0
-against	1	1
-the	0	0
-two	2	2
-?	NA	NA

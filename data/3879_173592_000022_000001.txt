@@ -1,8 +1,0 @@
-Their	1	0
-whoops	2	1
-were	0	0
-echoed	1	1
-from	0	0
-the	0	0
-rear	1	2
-.	NA	NA

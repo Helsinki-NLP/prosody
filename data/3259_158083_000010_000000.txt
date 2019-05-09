@@ -1,2 +1,0 @@
-Second	2	0
-Group	0	2

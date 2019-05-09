@@ -1,8 +1,0 @@
-Do	2	2
-,	NA	NA
-do	2	0
-take	0	1
-me	0	0
-,	NA	NA
-Ben	1	2
-!	NA	NA

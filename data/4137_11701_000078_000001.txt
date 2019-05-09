@@ -1,5 +1,0 @@
-This	2	0
-wanted	1	1
-thinking	0	0
-out	2	2
-.	NA	NA

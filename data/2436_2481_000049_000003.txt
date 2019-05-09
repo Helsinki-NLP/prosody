@@ -1,4 +1,0 @@
-A	0	0
-giant	2	1
-man	1	2
-.	NA	NA

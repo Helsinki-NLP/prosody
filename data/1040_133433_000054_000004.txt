@@ -1,5 +1,0 @@
-But	0	0
-she	2	0
-seemed	0	1
-satisfied	1	2
-.	NA	NA

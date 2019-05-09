@@ -1,9 +1,0 @@
-You	0	0
-will	2	1
-tell	0	0
-mr	0	1
-Kara	0	0
-that	0	0
-I	0	1
-called	2	2
-.	NA	NA

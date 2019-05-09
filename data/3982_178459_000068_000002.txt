@@ -1,4 +1,0 @@
-Don't	1	0
-you	0	1
-SEE	2	2
-?	NA	NA

@@ -1,2 +1,0 @@
-MORNING	1	0
-CALLS	1	2

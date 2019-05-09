@@ -1,9 +1,0 @@
-Now	2	2
-let	2	0
-us	0	0
-return	0	1
-to	0	0
-your	1	0
-particular	0	0
-world	0	2
-.	NA	NA

@@ -1,6 +1,0 @@
-Twelve	1	0
-o'clock	1	1
-,	NA	NA
-said	0	0
-Hurstwood	1	2
-.	NA	NA

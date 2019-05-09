@@ -1,7 +1,0 @@
-No	2	2
-;	NA	NA
-he	0	0
-lost	2	0
-a	0	1
-hoss	2	2
-.	NA	NA

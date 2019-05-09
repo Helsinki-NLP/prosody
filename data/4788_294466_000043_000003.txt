@@ -1,9 +1,0 @@
-The	0	1
-third	2	0
-adobe	1	0
-was	0	1
-neat	1	0
-and	0	1
-well	1	0
-kept	2	2
-.	NA	NA

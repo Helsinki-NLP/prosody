@@ -1,6 +1,0 @@
-What	1	0
-did	0	0
-you	0	1
-call	2	0
-it	0	2
-?	NA	NA

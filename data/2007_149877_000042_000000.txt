@@ -1,7 +1,0 @@
-That's	2	1
-Jules	0	0
-Wallace	2	1
-,	NA	NA
-the	0	0
-spiritualist	1	2
-.	NA	NA

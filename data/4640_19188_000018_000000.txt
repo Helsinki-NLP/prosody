@@ -1,7 +1,0 @@
-They	0	0
-emerged	2	1
-thence	1	1
-a	0	0
-moment	0	0
-later	1	2
-.	NA	NA

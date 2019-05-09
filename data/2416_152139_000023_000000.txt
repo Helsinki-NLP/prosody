@@ -1,5 +1,0 @@
-Yes	2	1
-,	NA	NA
-said	0	0
-Carling	1	2
-.	NA	NA

@@ -1,9 +1,0 @@
-As	2	0
-we	0	1
-sped	0	0
-after	1	1
-him	0	2
-I	1	0
-looked	0	1
-back	2	2
-.	NA	NA

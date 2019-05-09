@@ -1,8 +1,0 @@
-A	0	0
-doubt	2	2
-soon	2	0
-mingled	0	0
-with	0	1
-their	0	0
-joy	2	2
-.	NA	NA

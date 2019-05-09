@@ -1,9 +1,0 @@
-But	0	0
-on	1	0
-glancing	2	1
-at	0	0
-Rostov's	0	1
-Ilyin	2	0
-stopped	0	0
-short	2	2
-.	NA	NA

@@ -1,9 +1,0 @@
-These	2	1
-were	0	0
-his	1	0
-Father's	1	0
-people	1	1
-and	0	0
-his	2	0
-people	1	2
-.	NA	NA

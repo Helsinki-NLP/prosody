@@ -1,4 +1,0 @@
-My	1	0
-dearest	2	1
-papa	1	2
-!	NA	NA

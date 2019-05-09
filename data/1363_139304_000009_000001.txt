@@ -1,8 +1,0 @@
-What	2	0
-was	0	0
-that	1	1
-sound	1	0
-of	0	1
-pattering	0	0
-feet	2	2
-?	NA	NA

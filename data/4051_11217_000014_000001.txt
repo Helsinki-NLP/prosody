@@ -1,6 +1,0 @@
-Very	2	1
-true	1	0
-,	NA	NA
-young	0	1
-man	1	2
-.	NA	NA

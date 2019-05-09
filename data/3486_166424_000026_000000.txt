@@ -1,5 +1,0 @@
-Again	1	0
-Ventnor's	0	1
-rifle	1	1
-cracked	2	2
-.	NA	NA

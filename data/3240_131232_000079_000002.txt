@@ -1,5 +1,0 @@
-Take	2	0
-it	0	2
-or	2	0
-leave	0	0
-it	0	2

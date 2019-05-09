@@ -1,9 +1,0 @@
-Perhaps	1	0
-you	0	1
-once	1	1
-belonged	2	2
-to	0	0
-the	0	0
-samurai	2	1
-class	1	2
-?	NA	NA

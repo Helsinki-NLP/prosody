@@ -1,8 +1,0 @@
-Let	1	0
-them	0	0
-come	1	2
-,	NA	NA
-I	2	0
-don't	0	1
-care	1	2
-!	NA	NA

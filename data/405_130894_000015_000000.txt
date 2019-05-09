@@ -1,6 +1,0 @@
-Which	0	0
-one	2	2
-?	NA	NA
-I	1	0
-asked	0	2
-.	NA	NA

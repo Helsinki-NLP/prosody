@@ -1,8 +1,0 @@
-'	NA	NA
-And	1	1
-be	0	0
-saved	2	2
-,	NA	NA
-I	1	0
-interjected	1	2
-.	NA	NA

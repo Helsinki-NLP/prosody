@@ -1,9 +1,0 @@
-I	1	0
-think	0	1
-he's	0	0
-right	1	1
-there	2	2
-,	NA	NA
-said	0	0
-Roby	1	2
-.	NA	NA

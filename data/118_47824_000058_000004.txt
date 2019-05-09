@@ -1,7 +1,0 @@
-You	0	1
-will	2	1
-forgive	1	0
-us	0	1
-,	NA	NA
-Carlos	1	2
-?	NA	NA

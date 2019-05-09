@@ -1,6 +1,0 @@
-She's	0	1
-down	2	0
-there	0	1
-all	0	0
-right	2	2
-.	NA	NA

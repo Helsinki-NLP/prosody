@@ -1,4 +1,0 @@
-I	1	0
-am	0	1
-done	1	2
-.	NA	NA

@@ -1,3 +1,0 @@
-Shortage	1	1
-of	0	0
-Air	1	2

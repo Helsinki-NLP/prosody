@@ -1,3 +1,0 @@
-At	0	1
-Newport	2	2
-?	NA	NA

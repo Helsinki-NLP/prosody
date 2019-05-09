@@ -1,4 +1,0 @@
-Barbaik	2	1
-was	0	0
-furious	1	2
-.	NA	NA

@@ -1,5 +1,0 @@
-Eventually	2	1
-his	0	0
-curiosity	2	1
-conquered	2	2
-.	NA	NA

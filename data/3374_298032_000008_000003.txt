@@ -1,8 +1,0 @@
-I	2	0
-felt	0	0
-so	0	0
-alone	1	2
-and	0	0
-so	0	0
-strangely	2	2
-.	NA	NA

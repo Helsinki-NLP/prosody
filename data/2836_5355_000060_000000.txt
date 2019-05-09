@@ -1,7 +1,0 @@
-Who	1	0
-is	0	1
-he	0	0
-like	2	1
-,	NA	NA
-Isabel	2	2
-?	NA	NA

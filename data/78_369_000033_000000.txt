@@ -1,4 +1,0 @@
-My	0	1
-beloved	2	1
-Sister	1	2
-,	NA	NA

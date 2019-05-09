@@ -1,7 +1,0 @@
-I	2	1
-tied	0	0
-that	2	1
-paw	0	0
-for	0	0
-him	1	2
-.	NA	NA

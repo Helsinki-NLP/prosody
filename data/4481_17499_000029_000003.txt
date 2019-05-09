@@ -1,3 +1,0 @@
-Answer	2	0
-immediately	1	2
-.	NA	NA

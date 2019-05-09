@@ -1,8 +1,0 @@
-That	2	0
-was	0	1
-Jeff's	1	0
-money	1	2
-part	2	0
-of	0	0
-it	0	2
-.	NA	NA

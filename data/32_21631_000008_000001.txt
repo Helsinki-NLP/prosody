@@ -1,8 +1,0 @@
-But	0	0
-mr	2	1
-Crow	1	1
-really	0	0
-came	1	1
-at	0	0
-last	2	2
-.	NA	NA

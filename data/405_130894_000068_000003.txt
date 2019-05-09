@@ -1,9 +1,0 @@
-Accordingly	2	2
-,	NA	NA
-that	2	0
-day	0	0
-it	0	0
-kept	0	0
-getting	0	0
-worse	1	2
-.	NA	NA

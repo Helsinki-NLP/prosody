@@ -1,5 +1,0 @@
-The	0	0
-rosebud	1	1
-tea	1	0
-set	1	2
-!	NA	NA

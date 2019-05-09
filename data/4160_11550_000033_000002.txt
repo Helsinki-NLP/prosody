@@ -1,8 +1,0 @@
-I	2	0
-should	0	1
-never	0	0
-love	1	0
-any	0	1
-one	0	0
-else	1	2
-.	NA	NA

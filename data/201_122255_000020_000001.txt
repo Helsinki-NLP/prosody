@@ -1,9 +1,0 @@
-Who	0	0
-art	2	1
-thou	2	0
-that	0	1
-comest	0	0
-ranging	0	0
-Sherwood's	1	1
-paths	2	2
-?	NA	NA

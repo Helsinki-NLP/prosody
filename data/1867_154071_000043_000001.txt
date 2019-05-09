@@ -1,3 +1,0 @@
-Every	1	0
-minute	1	2
-.	NA	NA

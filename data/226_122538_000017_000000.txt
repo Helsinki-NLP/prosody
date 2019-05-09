@@ -1,3 +1,0 @@
-Welcome	2	0
-home	1	2
-.	NA	NA

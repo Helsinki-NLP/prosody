@@ -1,9 +1,0 @@
-How	0	0
-are	2	0
-we	0	2
-ever	2	0
-going	0	1
-to	0	0
-get	0	1
-across	2	2
-?	NA	NA

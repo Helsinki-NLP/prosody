@@ -1,7 +1,0 @@
-It	1	0
-crackled	2	1
-like	0	0
-a	0	0
-mighty	0	1
-fire	2	2
-.	NA	NA

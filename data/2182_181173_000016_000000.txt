@@ -1,9 +1,0 @@
-mr	1	0
-Hobbs	2	1
-blew	0	0
-his	0	0
-nose	1	1
-very	2	1
-loudly	1	1
-again	1	2
-.	NA	NA

@@ -1,8 +1,0 @@
-He	0	0
-liked	2	0
-to	0	2
-be	0	0
-called	2	1
-Honest	1	1
-Jim	1	2
-.	NA	NA

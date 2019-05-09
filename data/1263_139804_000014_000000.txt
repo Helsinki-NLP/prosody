@@ -1,3 +1,0 @@
-THEIR	1	0
-FOOTWEAR	1	2
-.	NA	NA

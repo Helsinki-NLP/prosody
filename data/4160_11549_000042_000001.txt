@@ -1,7 +1,0 @@
-I	2	0
-was	1	0
-glad	0	1
-to	0	0
-see	0	0
-you	1	2
-.	NA	NA

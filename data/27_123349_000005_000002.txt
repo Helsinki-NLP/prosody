@@ -1,8 +1,0 @@
-Six	1	0
-thousand	2	0
-pounds	1	0
-had	0	1
-been	0	0
-expected	1	1
-thence	2	2
-.	NA	NA

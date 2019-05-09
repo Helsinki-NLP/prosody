@@ -1,7 +1,0 @@
-They	0	0
-slanted	1	0
-down	1	0
-but	0	1
-not	0	0
-sidewise	1	2
-.	NA	NA

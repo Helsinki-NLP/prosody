@@ -1,6 +1,0 @@
-Jimmie	0	0
-Dale	2	1
-gritted	0	0
-his	0	1
-teeth	1	2
-.	NA	NA

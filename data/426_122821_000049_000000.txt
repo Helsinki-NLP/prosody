@@ -1,4 +1,0 @@
-'My	2	0
-dear	1	1
-teacher	1	2
-,	NA	NA

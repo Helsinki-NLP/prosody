@@ -1,8 +1,0 @@
-In	0	0
-her	0	0
-stateroom	1	2
-,	NA	NA
-a	1	0
-twenty	0	0
-two	2	2
-!	NA	NA

@@ -1,8 +1,0 @@
-You	0	1
-boasted	2	1
-,	NA	NA
-my	0	0
-dear	0	0
-young	0	0
-friend	1	2
-.	NA	NA

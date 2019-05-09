@@ -1,9 +1,0 @@
-Of	2	1
-this	0	0
-at	0	1
-first	1	1
-it	0	0
-gives	1	0
-no	0	0
-hint	1	2
-.	NA	NA

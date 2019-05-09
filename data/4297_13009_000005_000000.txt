@@ -1,6 +1,0 @@
-Who	0	0
-were	2	0
-the	0	1
-two	0	0
-men	2	2
-?	NA	NA

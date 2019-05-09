@@ -1,9 +1,0 @@
-Try	1	0
-it	0	0
-,	NA	NA
-if	0	2
-you	0	0
-don't	2	1
-believe	2	1
-me	0	2
-.	NA	NA

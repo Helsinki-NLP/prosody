@@ -1,7 +1,0 @@
-And	0	1
-then	2	0
-came	0	0
-a	0	1
-remote	2	1
-disorder	2	2
-.	NA	NA

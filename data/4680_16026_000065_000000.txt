@@ -1,8 +1,0 @@
-There	0	0
-are	0	0
-lone	0	0
-women	2	2
-,	NA	NA
-said	1	0
-Guelemer	2	2
-.	NA	NA

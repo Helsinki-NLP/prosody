@@ -1,3 +1,0 @@
-I'm	0	1
-afloat	2	2
-!	NA	NA

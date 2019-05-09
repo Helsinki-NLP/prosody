@@ -1,6 +1,0 @@
-Mary	2	0
-drew	0	1
-a	0	0
-deep	1	1
-breath	2	2
-.	NA	NA

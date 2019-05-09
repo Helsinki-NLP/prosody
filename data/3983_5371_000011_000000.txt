@@ -1,7 +1,0 @@
-Miss	1	0
-Carlyle	2	1
-never	0	0
-spoke	0	1
-a	0	0
-word	2	2
-.	NA	NA

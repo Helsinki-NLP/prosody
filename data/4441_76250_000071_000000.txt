@@ -1,6 +1,0 @@
-Did	0	1
-you	2	2
-.	NA	NA
-.	NA	NA
-.	NA	NA
-.	NA	NA

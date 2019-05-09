@@ -1,5 +1,0 @@
-I	2	2
-I	0	0
-heard	2	0
-her	0	1
-say	1	2

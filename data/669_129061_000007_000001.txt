@@ -1,6 +1,0 @@
-Don't	2	0
-be	0	1
-frightened	1	1
-,	NA	NA
-Pitt	2	2
-.	NA	NA

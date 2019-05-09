@@ -1,6 +1,0 @@
-That's	0	0
-it	2	1
-,	NA	NA
-is	2	0
-it	0	2
-!	NA	NA

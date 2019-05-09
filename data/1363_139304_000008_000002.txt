@@ -1,5 +1,0 @@
-He	0	0
-must	2	0
-have	0	1
-slept	2	2
-.	NA	NA

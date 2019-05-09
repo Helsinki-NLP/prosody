@@ -1,7 +1,0 @@
-I	1	0
-myself	2	0
-have	0	1
-seen	0	0
-promising	0	0
-results	2	2
-.	NA	NA

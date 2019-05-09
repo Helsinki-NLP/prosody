@@ -1,7 +1,0 @@
-Put	0	0
-on	2	0
-your	0	1
-hats	1	0
-and	0	1
-come	2	2
-.	NA	NA

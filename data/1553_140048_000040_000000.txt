@@ -1,5 +1,0 @@
-Mine	2	0
-doesn't	0	1
-!	NA	NA
-exclaimed	0	0
-Rebecca	2	2

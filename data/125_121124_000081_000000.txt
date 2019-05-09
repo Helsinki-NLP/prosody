@@ -1,6 +1,0 @@
-I	1	0
-have	0	1
-brought	2	0
-my	0	1
-receipt	1	2
-.	NA	NA

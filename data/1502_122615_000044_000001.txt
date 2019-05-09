@@ -1,5 +1,0 @@
-They	0	0
-passed	2	0
-it	0	1
-unmolested	2	2
-.	NA	NA

@@ -1,6 +1,0 @@
-But	1	0
-he	0	1
-shook	2	0
-his	0	1
-head	2	2
-.	NA	NA

@@ -1,7 +1,0 @@
-An	1	0
-excellent	1	0
-arrangement	1	1
-,	NA	NA
-my	0	0
-dear	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-Certain	2	0
-,	NA	NA
-true	0	1
-,	NA	NA
-Black	1	0
-and	0	1
-blue	2	2
-.	NA	NA

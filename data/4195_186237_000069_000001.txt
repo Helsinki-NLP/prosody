@@ -1,9 +1,0 @@
-All	1	0
-this	0	1
-wealth	2	2
-,	NA	NA
-and	0	0
-you	0	1
-pleading	0	0
-poverty	2	2
-?	NA	NA

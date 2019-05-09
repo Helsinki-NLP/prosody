@@ -1,8 +1,0 @@
-Besides	2	1
-,	NA	NA
-Miss	0	0
-Pierson	1	0
-is	0	1
-too	0	0
-short	2	2
-.	NA	NA

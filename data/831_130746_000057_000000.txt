@@ -1,7 +1,0 @@
-I	0	0
-am	1	1
-entirely	2	0
-at	0	1
-your	0	0
-service	2	2
-.	NA	NA

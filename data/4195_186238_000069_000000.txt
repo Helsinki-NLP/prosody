@@ -1,9 +1,0 @@
-It's	0	0
-our	2	0
-Sunday	2	0
-morning	0	0
-extra	1	2
-an	2	0
-egg	1	0
-apiece	0	2
-.	NA	NA

@@ -1,6 +1,0 @@
-You	0	0
-lie	2	2
-!	NA	NA
-he	0	0
-cried	1	2
-.	NA	NA

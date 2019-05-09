@@ -1,6 +1,0 @@
-And	1	0
-now	0	0
-,	NA	NA
-I'm	0	1
-off	1	2
-.	NA	NA

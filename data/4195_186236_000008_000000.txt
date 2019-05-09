@@ -1,7 +1,0 @@
-Blank	2	0
-looks	1	1
-followed	2	1
-mr	0	0
-Watson's	1	0
-statement	2	2
-.	NA	NA

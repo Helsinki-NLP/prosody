@@ -1,6 +1,0 @@
-He's	1	1
-very	2	1
-,	NA	NA
-very	1	0
-clever	1	2
-.	NA	NA

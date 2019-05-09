@@ -1,6 +1,0 @@
-There	1	0
-was	0	1
-yet	1	0
-a	0	1
-chance	2	2
-.	NA	NA

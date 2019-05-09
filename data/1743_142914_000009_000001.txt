@@ -1,9 +1,0 @@
-He	0	1
-plunged	2	0
-it	0	0
-in	2	0
-for	0	0
-the	0	1
-whole	1	0
-length	2	2
-.	NA	NA

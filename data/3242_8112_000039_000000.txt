@@ -1,4 +1,0 @@
-Trigger	2	0
-glanced	0	1
-down	2	2
-.	NA	NA

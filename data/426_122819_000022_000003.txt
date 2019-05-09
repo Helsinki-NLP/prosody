@@ -1,7 +1,0 @@
-You're	0	0
-not	1	1
-going	2	1
-yet	0	0
-,	NA	NA
-Anne	1	2
-?	NA	NA

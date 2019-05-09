@@ -1,9 +1,0 @@
-The	0	0
-nights	2	1
-descended	1	0
-on	0	0
-her	1	2
-like	2	0
-a	0	0
-benediction	1	2
-.	NA	NA

@@ -1,6 +1,0 @@
-Not	2	0
-at	0	1
-all	0	1
-,	NA	NA
-Daddy	1	2
-.	NA	NA

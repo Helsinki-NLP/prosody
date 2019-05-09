@@ -1,5 +1,0 @@
-Will	1	0
-you	0	1
-help	2	1
-me	2	2
-!	NA	NA

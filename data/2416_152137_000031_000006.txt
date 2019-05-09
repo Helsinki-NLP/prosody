@@ -1,3 +1,0 @@
-A	0	0
-chance	1	2
-!	NA	NA

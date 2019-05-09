@@ -1,5 +1,0 @@
-Worse	2	1
-;	NA	NA
-far	2	0
-worse	0	2
-!	NA	NA

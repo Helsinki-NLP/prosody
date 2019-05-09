@@ -1,4 +1,0 @@
-five	2	0
-hundred	0	1
-thousand	2	2
-.	NA	NA

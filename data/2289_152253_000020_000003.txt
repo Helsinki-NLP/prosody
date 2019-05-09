@@ -1,6 +1,0 @@
-It	2	0
-was	0	0
-a	0	1
-fierce	2	1
-battle	1	2
-.	NA	NA

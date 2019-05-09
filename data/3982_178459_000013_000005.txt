@@ -1,5 +1,0 @@
-Do	0	1
-you	0	0
-want	1	1
-to	2	2
-?	NA	NA

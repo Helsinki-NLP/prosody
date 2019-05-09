@@ -1,3 +1,0 @@
-This	0	1
-way	2	2
-!	NA	NA

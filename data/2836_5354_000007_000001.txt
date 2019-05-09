@@ -1,7 +1,0 @@
-They	0	0
-were	2	1
-staying	1	0
-now	0	0
-at	0	1
-Grenoble	1	2
-.	NA	NA

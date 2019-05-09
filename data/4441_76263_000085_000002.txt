@@ -1,7 +1,0 @@
-Go	0	0
-on	2	1
-,	NA	NA
-Falk	1	1
-,	NA	NA
-sign	2	2
-!	NA	NA

@@ -1,7 +1,0 @@
-Not	0	0
-shy	2	0
-,	NA	NA
-child	0	1
-,	NA	NA
-cautious	1	2
-.	NA	NA

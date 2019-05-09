@@ -1,7 +1,0 @@
-Her	0	1
-face	2	0
-was	0	1
-pale	2	1
-and	0	0
-rigid	1	2
-.	NA	NA

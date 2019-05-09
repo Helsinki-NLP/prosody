@@ -1,6 +1,0 @@
-The	0	0
-frog	2	0
-hopped	1	0
-several	0	1
-times	2	2
-.	NA	NA

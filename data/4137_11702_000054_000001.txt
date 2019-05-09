@@ -1,4 +1,0 @@
-I	0	0
-have	1	1
-one	1	2
-.	NA	NA

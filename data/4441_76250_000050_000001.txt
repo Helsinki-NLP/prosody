@@ -1,5 +1,0 @@
-A	0	0
-very	1	0
-good	0	1
-name	1	2
-!	NA	NA

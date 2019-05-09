@@ -1,5 +1,0 @@
-I	2	0
-should	0	0
-have	0	1
-guessed	1	2
-.	NA	NA

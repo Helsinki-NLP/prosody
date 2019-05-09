@@ -1,6 +1,0 @@
-This	0	0
-here	2	0
-calls	0	1
-for	0	0
-lawyers	2	2
-.	NA	NA

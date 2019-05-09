@@ -1,7 +1,0 @@
-After	1	0
-us	2	2
-!	NA	NA
-yelled	2	0
-the	0	0
-ruffians	0	2
-.	NA	NA

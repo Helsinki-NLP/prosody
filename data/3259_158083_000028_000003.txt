@@ -1,5 +1,0 @@
-Picketing	2	1
-must	2	1
-be	0	0
-stopped	2	2
-!	NA	NA

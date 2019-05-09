@@ -1,3 +1,0 @@
-Very	2	1
-well	1	2
-.	NA	NA

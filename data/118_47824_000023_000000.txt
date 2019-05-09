@@ -1,6 +1,0 @@
-How	2	0
-can	0	0
-I	0	1
-forget	2	0
-it	0	2
-?	NA	NA

@@ -1,5 +1,0 @@
-The	0	0
-disciples	2	0
-walked	0	2
-ahead	2	2
-.	NA	NA

@@ -1,5 +1,0 @@
-And	0	0
-why	0	0
-not	1	1
-himself	2	2
-?	NA	NA

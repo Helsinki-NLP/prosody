@@ -1,7 +1,0 @@
-The	0	0
-hunter	1	0
-is	0	0
-a	0	2
-splendid	2	1
-fellow	1	2
-.	NA	NA

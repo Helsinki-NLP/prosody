@@ -1,8 +1,0 @@
-Our	2	0
-peace	1	1
-was	0	0
-at	1	0
-a	0	2
-fearful	2	1
-cost	1	2
-.	NA	NA

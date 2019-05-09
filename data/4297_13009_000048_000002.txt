@@ -1,5 +1,0 @@
-But	1	0
-mr	1	0
-Erle	0	1
-declined	2	2
-.	NA	NA

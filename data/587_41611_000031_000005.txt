@@ -1,8 +1,0 @@
-David	2	1
-promised	2	1
-to	0	0
-get	1	0
-me	0	0
-the	0	1
-tickets	2	2
-.	NA	NA

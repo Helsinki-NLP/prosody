@@ -1,5 +1,0 @@
-Only	2	0
-try	0	1
-,	NA	NA
-signore	1	2
-!	NA	NA

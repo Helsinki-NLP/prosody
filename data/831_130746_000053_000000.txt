@@ -1,6 +1,0 @@
-I	1	0
-know	2	2
-,	NA	NA
-said	0	0
-Hoopdriver	1	2
-.	NA	NA

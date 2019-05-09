@@ -1,5 +1,0 @@
-mrs	2	1
-Woodchuck	1	1
-is	0	0
-worried	2	2
-.	NA	NA

@@ -1,7 +1,0 @@
-Yes	2	2
-;	NA	NA
-the	0	0
-grand	1	0
-marshal	0	0
-did	0	2
-.	NA	NA

@@ -1,8 +1,0 @@
-First	2	0
-of	0	0
-all	0	0
-I	0	1
-dismembered	1	2
-the	0	0
-corpse	2	2
-.	NA	NA

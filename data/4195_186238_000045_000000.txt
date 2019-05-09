@@ -1,6 +1,0 @@
-More	2	0
-than	0	1
-enough	1	1
-,	NA	NA
-sir	2	2
-.	NA	NA

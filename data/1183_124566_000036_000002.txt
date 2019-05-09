@@ -1,6 +1,0 @@
-There	2	0
-is	0	1
-uprightness	2	1
-in	0	0
-this	1	2
-.	NA	NA

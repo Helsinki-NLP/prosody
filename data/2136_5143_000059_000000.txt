@@ -1,7 +1,0 @@
-'I	2	0
-know	0	0
-nothing	1	0
-of	0	1
-papa's	2	1
-will	1	2
-.	NA	NA

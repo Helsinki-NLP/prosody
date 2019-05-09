@@ -1,9 +1,0 @@
-Their	0	0
-garments	2	0
-partake	0	0
-of	0	1
-the	0	0
-loose	0	1
-flowing	2	1
-order	1	2
-.	NA	NA

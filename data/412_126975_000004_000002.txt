@@ -1,7 +1,0 @@
-Enough	1	2
-,	NA	NA
-you	2	0
-know	1	0
-the	0	1
-species	1	2
-.	NA	NA

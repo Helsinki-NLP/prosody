@@ -1,7 +1,0 @@
-Gave	2	0
-me	1	0
-the	0	1
-creeps	1	1
-,	NA	NA
-too	2	2
-.	NA	NA

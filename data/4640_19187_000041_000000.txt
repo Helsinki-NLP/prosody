@@ -1,5 +1,0 @@
-This	1	0
-moment	2	0
-was	0	1
-brief	2	2
-.	NA	NA

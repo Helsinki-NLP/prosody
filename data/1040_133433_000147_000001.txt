@@ -1,7 +1,0 @@
-Of	0	0
-course	2	0
-he	0	1
-did	0	0
-not	0	1
-strike	2	2
-.	NA	NA

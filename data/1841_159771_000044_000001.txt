@@ -1,6 +1,0 @@
-I	2	0
-don't	0	1
-feel	0	0
-like	1	1
-running	1	2
-.	NA	NA

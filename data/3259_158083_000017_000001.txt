@@ -1,5 +1,0 @@
-Harvey	0	0
-Wiley	1	1
-.	NA	NA
-Louisiana	2	1
-mrs	1	2

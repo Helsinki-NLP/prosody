@@ -1,9 +1,0 @@
-There	1	0
-the	0	0
-rabble	2	0
-ended	0	2
-and	0	0
-the	0	0
-army	1	0
-began	1	2
-.	NA	NA

@@ -1,6 +1,0 @@
-This	2	1
-he	0	0
-rejected	1	0
-at	0	0
-once	2	2
-.	NA	NA

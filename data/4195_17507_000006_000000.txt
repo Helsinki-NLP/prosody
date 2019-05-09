@@ -1,5 +1,0 @@
-Uncle	1	0
-john	2	0
-was	0	1
-obdurate	2	2
-.	NA	NA

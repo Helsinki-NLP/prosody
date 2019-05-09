@@ -1,7 +1,0 @@
-It	1	0
-was	0	0
-not	2	1
-thus	1	1
-with	0	0
-Felix	2	2
-.	NA	NA

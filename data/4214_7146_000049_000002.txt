@@ -1,7 +1,0 @@
-Didn't	2	0
-you	0	0
-know	1	0
-the	0	1
-difference	0	1
-yourself	2	2
-?	NA	NA

@@ -1,6 +1,0 @@
-Right	2	0
-there	0	0
-on	0	1
-Harvest	1	1
-Moon	2	2
-!	NA	NA

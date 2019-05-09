@@ -1,9 +1,0 @@
-They	2	0
-entered	0	0
-,	NA	NA
-and	0	1
-their	0	0
-leader	0	0
-addressed	2	1
-me	1	2
-.	NA	NA

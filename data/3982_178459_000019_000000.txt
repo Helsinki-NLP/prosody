@@ -1,6 +1,0 @@
-What	2	0
-made	1	1
-you	0	0
-say	0	0
-that	1	2
-?	NA	NA

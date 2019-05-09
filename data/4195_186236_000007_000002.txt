@@ -1,9 +1,0 @@
-mr	1	0
-Bradley	2	0
-having	0	1
-provided	2	1
-for	0	0
-that	2	0
-most	1	0
-fully	1	2
-.	NA	NA

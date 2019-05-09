@@ -1,4 +1,0 @@
-What	0	1
-,	NA	NA
-Isabella	2	2
-!	NA	NA

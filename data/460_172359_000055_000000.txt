@@ -1,8 +1,0 @@
-Did	0	0
-I	1	0
-mention	0	1
-Myra	1	2
-,	NA	NA
-Jeff's	2	1
-daughter	2	2
-?	NA	NA

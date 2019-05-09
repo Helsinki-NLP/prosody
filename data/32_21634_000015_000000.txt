@@ -1,5 +1,0 @@
-mr	2	0
-Crow	0	0
-looked	0	1
-around	2	2
-.	NA	NA

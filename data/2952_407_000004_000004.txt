@@ -1,8 +1,0 @@
-But	0	0
-she	0	0
-had	0	0
-not	2	2
-the	0	0
-money	1	0
-necessary	2	2
-.	NA	NA

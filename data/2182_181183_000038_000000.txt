@@ -1,6 +1,0 @@
-That's	0	1
-so	2	1
-!	NA	NA
-he	0	0
-replied	1	2
-.	NA	NA

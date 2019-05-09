@@ -1,7 +1,0 @@
-Well	2	2
-?	NA	NA
-Captain	1	0
-Nemo	0	0
-went	0	0
-on	0	2
-.	NA	NA

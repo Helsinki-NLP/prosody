@@ -1,9 +1,0 @@
-But	0	0
-you're	2	0
-lookin'	0	1
-sort	0	0
-of	0	1
-sleepy	1	1
-,	NA	NA
-stranger	2	2
-?	NA	NA

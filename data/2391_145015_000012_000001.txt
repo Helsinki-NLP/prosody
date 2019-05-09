@@ -1,8 +1,0 @@
-This	2	0
-was	0	2
-the	0	0
-cradle	2	0
-of	0	1
-her	0	0
-genius	1	2
-.	NA	NA

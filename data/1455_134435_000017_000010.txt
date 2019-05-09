@@ -1,6 +1,0 @@
-Wake	2	0
-up	0	1
-,	NA	NA
-little	0	0
-animal	1	2
-.	NA	NA

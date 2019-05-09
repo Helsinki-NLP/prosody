@@ -1,6 +1,0 @@
-But	0	0
-why	2	0
-wear	0	1
-colored	2	1
-glasses	1	2
-?	NA	NA

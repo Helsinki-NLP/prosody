@@ -1,5 +1,0 @@
-Go	2	0
-on	0	1
-,	NA	NA
-Billy	1	2
-.	NA	NA

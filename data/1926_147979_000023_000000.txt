@@ -1,9 +1,0 @@
-Oh	2	0
-,	NA	NA
-what	0	0
-do	0	0
-you	0	1
-care	1	1
-,	NA	NA
-Johnnie	1	2
-?	NA	NA

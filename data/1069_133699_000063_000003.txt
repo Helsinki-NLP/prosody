@@ -1,7 +1,0 @@
-I	1	0
-expect	2	0
-him	0	1
-here	1	0
-any	0	1
-day	2	2
-.	NA	NA

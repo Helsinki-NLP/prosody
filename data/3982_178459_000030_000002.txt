@@ -1,9 +1,0 @@
-Do	1	0
-you	0	1
-think	2	0
-I'm	0	1
-in	0	0
-love	2	0
-with	0	0
-you	1	2
-?	NA	NA

@@ -1,6 +1,0 @@
-My	2	0
-eyes	0	1
-are	0	0
-not	0	1
-strong	1	2
-.	NA	NA

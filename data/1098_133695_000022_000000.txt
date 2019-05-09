@@ -1,6 +1,0 @@
-Yes	0	2
-,	NA	NA
-he's	0	0
-very	2	0
-nice	1	2
-.	NA	NA

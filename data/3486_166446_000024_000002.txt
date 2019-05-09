@@ -1,5 +1,0 @@
-Norhala	1	0
-I	0	1
-am	0	0
-tired	2	2
-.	NA	NA

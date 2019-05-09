@@ -1,7 +1,0 @@
-I	0	0
-felt	1	0
-a	0	0
-shock	2	0
-of	0	2
-repulsion	2	2
-.	NA	NA

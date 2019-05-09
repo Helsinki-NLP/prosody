@@ -1,5 +1,0 @@
-There's	1	0
-the	0	1
-study	1	1
-bell	2	2
-.	NA	NA

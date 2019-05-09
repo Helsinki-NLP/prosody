@@ -1,5 +1,0 @@
-Rollin	2	0
-spoke	1	0
-with	0	1
-enthusiasm	1	2
-.	NA	NA

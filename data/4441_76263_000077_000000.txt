@@ -1,8 +1,0 @@
-Those	2	0
-are	0	1
-easy	0	0
-terms	2	2
-,	NA	NA
-replied	1	0
-Falk	2	2
-.	NA	NA

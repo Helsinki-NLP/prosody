@@ -1,6 +1,0 @@
-She	0	0
-is	2	0
-a	0	2
-frail	1	0
-girl	1	2
-.	NA	NA

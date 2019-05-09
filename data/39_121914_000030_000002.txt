@@ -1,6 +1,0 @@
-Not	1	0
-a	0	1
-speck	0	1
-on	2	0
-them	0	2
-.	NA	NA

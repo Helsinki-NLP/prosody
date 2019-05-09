@@ -1,7 +1,0 @@
-No	2	1
-doubt	2	2
-!	1	0
-mr	NA	NA
-Crow	0	0
-remarked	0	2
-.	NA	NA

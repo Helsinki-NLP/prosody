@@ -1,4 +1,0 @@
-Pewee	0	1
-chuckled	2	1
-happily	2	2
-.	NA	NA

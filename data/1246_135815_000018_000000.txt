@@ -1,6 +1,0 @@
-Huh	2	1
-!	NA	NA
-interrupted	1	1
-Johnny	0	0
-Chuck	1	2
-.	NA	NA

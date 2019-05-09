@@ -1,7 +1,0 @@
-I'm	1	0
-ruined	0	2
-ruined	2	0
-as	0	0
-it	0	1
-is	0	2
-.	NA	NA

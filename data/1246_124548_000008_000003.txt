@@ -1,8 +1,0 @@
-Ray	2	1
-still	1	0
-needed	0	1
-nursing	1	0
-,	NA	NA
-she	0	2
-explained	2	2
-.	NA	NA

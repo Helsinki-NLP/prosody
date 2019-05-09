@@ -1,6 +1,0 @@
-Come	0	0
-on	2	2
-!	NA	NA
-shouted	2	0
-Snap	0	2
-.	NA	NA

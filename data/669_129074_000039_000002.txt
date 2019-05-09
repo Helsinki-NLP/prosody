@@ -1,6 +1,0 @@
-He	0	0
-owned	1	0
-it	0	1
-to	0	0
-me	1	2
-.	NA	NA

@@ -1,6 +1,0 @@
-Moving	1	1
-where	2	0
-?	NA	NA
-she	0	1
-asked	2	2
-.	NA	NA

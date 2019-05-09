@@ -1,7 +1,0 @@
-Where's	0	0
-Harold	2	2
-;	NA	NA
-I	1	0
-asked	0	1
-presently	1	2
-.	NA	NA

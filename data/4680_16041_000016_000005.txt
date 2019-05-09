@@ -1,6 +1,0 @@
-he	0	0
-could	0	0
-not	0	0
-have	0	1
-told	2	2
-.	NA	NA

@@ -1,7 +1,0 @@
-And	2	1
-he	0	0
-has	0	1
-ever	2	0
-been	0	1
-honest	1	2
-.	NA	NA

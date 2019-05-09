@@ -1,8 +1,0 @@
-You	0	0
-need	1	0
-not	2	0
-be	0	2
-sorry	2	1
-for	0	0
-her	1	2
-.	NA	NA

@@ -1,8 +1,0 @@
-Finding	2	0
-the	0	1
-door	0	0
-open	1	1
-,	NA	NA
-I	0	0
-entered	2	2
-.	NA	NA

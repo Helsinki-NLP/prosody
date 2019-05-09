@@ -1,9 +1,0 @@
-And	0	0
-I	0	0
-do	0	0
-not	2	1
-even	0	0
-know	0	1
-your	0	0
-name	1	2
-!	NA	NA

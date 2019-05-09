@@ -1,9 +1,0 @@
-All	2	1
-fit	1	1
-and	0	0
-well	1	0
-,	NA	NA
-I	0	1
-can	0	0
-see	1	2
-.	NA	NA

@@ -1,4 +1,0 @@
-To	0	1
-morrow	2	1
-evening	0	2
-!	NA	NA

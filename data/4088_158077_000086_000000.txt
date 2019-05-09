@@ -1,6 +1,0 @@
-Of	0	1
-course	2	0
-it	0	0
-was	0	1
-embarrassing	1	2
-.	NA	NA

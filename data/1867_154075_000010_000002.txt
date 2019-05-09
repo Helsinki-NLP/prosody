@@ -1,5 +1,0 @@
-You	0	1
-followed	2	1
-his	0	0
-trail	2	2
-?	NA	NA

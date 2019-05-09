@@ -1,6 +1,0 @@
-She	1	0
-looked	0	1
-up	2	0
-at	0	1
-him	1	2
-.	NA	NA

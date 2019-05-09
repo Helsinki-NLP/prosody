@@ -1,7 +1,0 @@
-Hoopdriver	1	1
-pulls	2	0
-at	0	0
-his	0	1
-skimpy	0	0
-moustache	2	2
-.	NA	NA

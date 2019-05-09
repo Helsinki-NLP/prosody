@@ -1,5 +1,0 @@
-There	2	0
-was	1	0
-not	1	1
-time	1	2
-.	NA	NA

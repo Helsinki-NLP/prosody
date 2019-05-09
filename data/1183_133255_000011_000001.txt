@@ -1,8 +1,0 @@
-Blacks	2	1
-,	NA	NA
-polishes	1	0
-,	NA	NA
-softens	1	0
-and	0	1
-preserves	2	2
-.	NA	NA

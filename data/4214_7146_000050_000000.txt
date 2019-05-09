@@ -1,8 +1,0 @@
-I	0	0
-never	1	1
-tasted	1	0
-it	1	2
-,	NA	NA
-said	1	0
-Anne	1	2
-.	NA	NA

@@ -1,7 +1,0 @@
-You	0	0
-have	2	0
-won	0	1
-the	0	0
-Golden	0	1
-Fleece	1	2
-.	NA	NA

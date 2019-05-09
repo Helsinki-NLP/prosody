@@ -1,5 +1,0 @@
-He	0	0
-said	2	0
-a	0	1
-girl	2	2
-.	NA	NA

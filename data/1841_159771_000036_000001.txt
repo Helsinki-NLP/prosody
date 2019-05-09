@@ -1,5 +1,0 @@
-The	0	1
-snow	1	0
-was	0	1
-deep	1	2
-.	NA	NA

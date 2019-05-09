@@ -1,7 +1,0 @@
-Come	0	1
-to	0	0
-my	1	0
-room	0	0
-at	0	2
-once	2	2
-.	NA	NA

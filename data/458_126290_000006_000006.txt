@@ -1,8 +1,0 @@
-I	0	0
-have	2	1
-never	1	0
-seen	0	0
-it	0	1
-in	0	0
-print	2	2
-.	NA	NA

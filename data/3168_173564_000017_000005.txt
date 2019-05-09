@@ -1,8 +1,0 @@
-The	0	0
-countess	2	1
-exchanged	0	1
-a	0	0
-look	1	1
-with	0	0
-Sonya	2	2
-.	NA	NA

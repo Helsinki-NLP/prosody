@@ -1,5 +1,0 @@
-mrs	2	0
-Teeter	0	0
-chuckled	0	1
-softly	2	2
-.	NA	NA

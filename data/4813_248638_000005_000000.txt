@@ -1,8 +1,0 @@
-Milton	2	1
-a	0	0
-town	2	0
-of	0	1
-dignity	0	0
-and	0	1
-distinction	1	2
-!	NA	NA

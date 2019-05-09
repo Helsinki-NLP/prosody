@@ -1,8 +1,0 @@
-Are	1	0
-you	0	0
-not	0	0
-afraid	1	0
-of	0	2
-Hairy	1	0
-Things	0	2
-?	NA	NA

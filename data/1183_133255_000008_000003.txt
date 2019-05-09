@@ -1,7 +1,0 @@
-Polish	1	0
-with	0	1
-a	0	0
-brush	1	0
-or	0	1
-cloth	2	2
-.	NA	NA
