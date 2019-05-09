@@ -22,12 +22,12 @@ def main():
     eval_dataset = ProsodyDataset(test_data, tag_to_index)
 
     train_iter = data.DataLoader(dataset=train_dataset,
-                                 batch_size=8,
+                                 batch_size=16,
                                  shuffle=True,
                                  num_workers=1,
                                  collate_fn=prosody_dataset.pad)
     test_iter = data.DataLoader(dataset=eval_dataset,
-                                batch_size=8,
+                                batch_size=16,
                                 shuffle=False,
                                 num_workers=1,
                                 collate_fn=prosody_dataset.pad)
@@ -86,9 +86,9 @@ def evaluate(model, iterator, tag_to_index, index_to_tag):
 
     # gets results and save
     with open("result.txt", 'w') as results:
-        for words, tags, y_hat in zip(words, Tags, Y_hat):
+        for words, tags, y_hat in zip(Words, Tags, Y_hat):
             preds = [index_to_tag[hat] for hat in y_hat]
-            assert len(preds) == len(words.split()) == len(tags.split())
+            #assert len(preds) == len(words.split()) == len(tags.split())
             for w, t, p in zip(words.split()[1:-1], tags.split()[1:-1], preds):
                 results.write("{} {} {}\n".format(w, t, p))
             results.write("\n")

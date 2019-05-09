@@ -77,10 +77,9 @@ def load_data():
                     split_line = line.split('\t')
                     sent.append((split_line[0], split_line[1]))
             tagged_sents.append(sent)
-            continue
-        if files > 1000:
-            break
         else:
+            break
+        if files > 1000:
             break
 
     tags = list(set(word_tag[1] for sent in tagged_sents for word_tag in sent))
@@ -91,7 +90,8 @@ def load_data():
 
     # Let's split the data into train and test (or eval)
     train_data, test_data = train_test_split(tagged_sents, test_size=.1)
-    len(train_data), len(test_data)
+    print('Training data: {}'.format(len(train_data)))
+    print('Test data: {}'.format(len(test_data)))
 
     return train_data, test_data, tag_to_index, index_to_tag
 
