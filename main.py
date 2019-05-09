@@ -6,11 +6,38 @@ import torch.optim as optim
 import prosody_dataset
 from prosody_dataset import ProsodyDataset
 from model import Net
+from argparse import ArgumentParser
+
+parser = ArgumentParser(description='Prosody prediction')
+
+parser.add_argument('--batch_size',
+                    type=int,
+                    default=16)
+parser.add_argument('--save_path',
+                    type=str,
+                    default='results.txt')
+parser.add_argument('--log_every',
+                    type=int,
+                    default=10)
+parser.add_argument('--learning_rate',
+                    type=float,
+                    default=0.0005)
+parser.add_argument('--gpu',
+                    type=int,
+                    default=0)
 
 
 def main():
 
-    device = 'cuda' if torch.cuda.is_available() else 'cpu'
+    config = parser.parse_args()
+
+    if torch.cuda.is_available():
+        torch.cuda.set_device(config.gpu)
+        device = torch.device('cuda:{}'.format(config.gpu))
+        print("Training on GPU[{}]".format(config.gpu))
+    else:
+        print("GPU not available. Training on CPU.")
+        device = 'cpu'
 
     train_data, test_data, tag_to_index, index_to_tag = prosody_dataset.load_data()
 
@@ -22,17 +49,17 @@ def main():
     eval_dataset = ProsodyDataset(test_data, tag_to_index)
 
     train_iter = data.DataLoader(dataset=train_dataset,
-                                 batch_size=16,
+                                 batch_size=config.batch_size,
                                  shuffle=True,
                                  num_workers=1,
                                  collate_fn=prosody_dataset.pad)
     test_iter = data.DataLoader(dataset=eval_dataset,
-                                batch_size=16,
+                                batch_size=config.batch_size,
                                 shuffle=False,
                                 num_workers=1,
                                 collate_fn=prosody_dataset.pad)
 
-    optimizer = optim.Adam(model.parameters(), lr=0.0001)
+    optimizer = optim.Adam(model.parameters(), lr=config.learning_rate)
 
     criterion = nn.CrossEntropyLoss(ignore_index=0)
 
@@ -43,11 +70,11 @@ def main():
     params = sum([p.numel() for p in model.parameters()])
     print('Parameters: {}'.format(params))
 
-    train(model, train_iter, optimizer, criterion)
-    evaluate(model, test_iter, tag_to_index, index_to_tag)
+    train(model, train_iter, optimizer, criterion, config)
+    evaluate(model, test_iter, tag_to_index, index_to_tag, config)
 
 
-def train(model, iterator, optimizer, criterion):
+def train(model, iterator, optimizer, criterion, config):
     print('\nTraining started...\n')
     model.train()
     for i, batch in enumerate(iterator):
@@ -63,11 +90,11 @@ def train(model, iterator, optimizer, criterion):
 
         optimizer.step()
 
-        if i % 10 == 0:
+        if i % config.log_every == 0:
             print("step: {}, loss: {}".format(i, loss.item()))
 
 
-def evaluate(model, iterator, tag_to_index, index_to_tag):
+def evaluate(model, iterator, tag_to_index, index_to_tag, config):
     print('\nEvaluation started...\n')
 
     model.eval()
@@ -85,21 +112,21 @@ def evaluate(model, iterator, tag_to_index, index_to_tag):
             Y_hat.extend(y_hat.cpu().numpy().tolist())
 
     # gets results and save
-    with open("result.txt", 'w') as results:
+    with open(config.results, 'w') as results:
         for words, tags, y_hat in zip(Words, Tags, Y_hat):
             preds = [index_to_tag[hat] for hat in y_hat]
-            #assert len(preds) == len(words.split()) == len(tags.split())
+            # assert len(preds) == len(words.split()) == len(tags.split())
             for w, t, p in zip(words.split()[1:-1], tags.split()[1:-1], preds):
                 results.write("{} {} {}\n".format(w, t, p))
             results.write("\n")
 
     # calc metric
-    y_true = np.array([tag_to_index[line.split()[1]] for line in open('result.txt', 'r').read().splitlines() if len(line) > 0])
-    y_pred = np.array([tag_to_index[line.split()[2]] for line in open('result.txt', 'r').read().splitlines() if len(line) > 0])
+    y_true = np.array([tag_to_index[line.split()[1]] for line in open(config.results, 'r').read().splitlines() if len(line) > 0])
+    y_pred = np.array([tag_to_index[line.split()[2]] for line in open(config.results, 'r').read().splitlines() if len(line) > 0])
 
     acc = (y_true == y_pred).astype(np.int32).sum() / len(y_true)
 
-    print("acc=%.2f" % acc)
+    print("acc=%.2f\n" % acc)
 
 
 if __name__ == "__main__":
