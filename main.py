@@ -30,7 +30,7 @@ parser.add_argument('--gpu',
                     default=0)
 parser.add_argument('--number_of_sents',
                     type=int,
-                    default=1000)
+                    default=33047)
 parser.add_argument('--test_split_ratio',
                     type=float,
                     default=.1)
