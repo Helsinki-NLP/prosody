@@ -21,7 +21,7 @@ python3 main.py \
     --weight_decay 0 \
     --gpu 0 \
     --number_of_sents 33047 \ # Use this to select only a subset of examples
-    --test_and_dev_split .1 \ # This will create splits 90/10/10
+    --test_and_dev_split .1 \ # This will create splits 80/10/10
     --optimizer adam \
     --seed 1234
 ```
