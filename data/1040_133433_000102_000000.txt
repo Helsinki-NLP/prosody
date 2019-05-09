@@ -1,0 +1,16 @@
+Yes	2	1
+,	NA	NA
+so	2	0
+do	0	0
+i	0	2
+What	2	0
+was	0	0
+the	0	0
+last	1	0
+thing	0	1
+peter	0	0
+ever	0	0
+said	1	0
+to	0	1
+you	1	2
+?	NA	NA

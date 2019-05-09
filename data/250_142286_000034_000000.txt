@@ -1,0 +1,9 @@
+'I	0	1
+wonder	2	0
+how	0	0
+you	0	0
+can	0	1
+exist	2	0
+without	1	1
+one	2	2
+.	NA	NA

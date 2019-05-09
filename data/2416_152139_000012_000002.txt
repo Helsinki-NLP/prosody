@@ -1,0 +1,5 @@
+This	1	0
+way	1	1
+,	NA	NA
+please	1	2
+.	NA	NA

@@ -1,0 +1,11 @@
+Before	2	0
+peter	0	1
+could	0	0
+say	0	0
+another	0	1
+word	2	1
+Cresty	1	0
+had	0	2
+flown	0	0
+away	2	2
+.	NA	NA

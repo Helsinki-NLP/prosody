@@ -1,0 +1,13 @@
+Bibbs	2	0
+,	NA	NA
+look	0	0
+at	0	0
+me	1	2
+!	NA	NA
+Her	0	0
+voice	2	0
+was	0	1
+loud	1	0
+and	0	1
+clear	1	2
+.	NA	NA

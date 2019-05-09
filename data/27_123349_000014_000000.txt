@@ -1,0 +1,5 @@
+The	0	0
+voyage	2	0
+was	0	1
+prosperous	1	2
+.	NA	NA

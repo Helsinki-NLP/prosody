@@ -1,0 +1,10 @@
+Send	2	0
+in	0	0
+Miss	0	1
+Carlyle	1	1
+first	1	1
+,	NA	NA
+was	1	0
+the	0	0
+answer	1	2
+.	NA	NA

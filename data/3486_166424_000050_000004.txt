@@ -1,0 +1,7 @@
+We	0	1
+sprang	2	0
+up	0	1
+,	NA	NA
+sped	1	0
+on	1	2
+.	NA	NA

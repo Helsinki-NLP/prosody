@@ -1,0 +1,12 @@
+Obviously	2	0
+they	1	0
+would	0	1
+come	1	0
+together	1	0
+before	1	1
+the	0	0
+Nautilus	1	0
+could	0	1
+break	1	0
+free	2	2
+.	NA	NA

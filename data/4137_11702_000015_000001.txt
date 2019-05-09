@@ -1,0 +1,15 @@
+Handkerchiefs	1	0
+fluttered	2	0
+to	0	0
+them	0	1
+from	0	0
+the	0	0
+walls	2	2
+;	NA	NA
+trumpets	2	0
+were	0	1
+blown	0	1
+;	NA	NA
+hounds	2	1
+bayed	2	2
+.	NA	NA

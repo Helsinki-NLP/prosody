@@ -1,0 +1,10 @@
+It	1	0
+is	0	0
+looked	0	0
+upon	2	0
+as	0	1
+being	0	0
+very	2	0
+great	0	1
+promotion	2	2
+.	NA	NA

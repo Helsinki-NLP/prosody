@@ -1,0 +1,9 @@
+Logan	2	1
+considered	1	1
+the	0	0
+other	2	0
+with	0	0
+a	0	1
+sardonic	1	1
+smile	2	2
+.	NA	NA

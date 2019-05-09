@@ -1,0 +1,3 @@
+Louise	1	1
+smiled	1	2
+.	NA	NA

@@ -1,0 +1,16 @@
+There	2	0
+are	0	0
+the	0	1
+characters	1	2
+you	0	0
+can	1	0
+see	1	0
+for	0	1
+yourselves	2	1
+that	0	0
+they	0	0
+have	0	0
+not	2	0
+been	0	1
+painted	2	2
+.	NA	NA

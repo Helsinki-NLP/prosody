@@ -1,0 +1,8 @@
+It's	0	0
+very	1	0
+odd	2	2
+,	NA	NA
+thought	1	0
+Miss	0	0
+Corny	1	2
+.	NA	NA

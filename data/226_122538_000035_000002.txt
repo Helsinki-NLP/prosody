@@ -1,0 +1,8 @@
+But	0	0
+life	2	0
+holds	0	1
+other	2	0
+things	0	1
+beside	1	1
+sight	2	2
+.	NA	NA

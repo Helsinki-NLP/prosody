@@ -1,0 +1,11 @@
+I	2	0
+ain't	0	1
+much	0	0
+wise	2	1
+to	0	0
+New	0	0
+York	2	2
+,	NA	NA
+he	1	0
+explained	2	2
+.	NA	NA

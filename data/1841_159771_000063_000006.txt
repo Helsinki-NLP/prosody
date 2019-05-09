@@ -1,0 +1,10 @@
+And	1	0
+he	1	0
+knew	0	0
+that	0	0
+muskrats	1	1
+lived	2	0
+under	1	1
+its	0	0
+banks	2	2
+.	NA	NA

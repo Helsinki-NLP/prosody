@@ -1,0 +1,10 @@
+Captain	0	1
+Wharton	2	2
+,	NA	NA
+from	2	0
+my	0	1
+soul	2	0
+I	0	1
+pity	1	0
+you	0	2
+!	NA	NA

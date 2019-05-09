@@ -1,0 +1,8 @@
+Can	0	0
+the	0	2
+cunning	1	0
+stranger	0	0
+frighten	2	1
+him	0	0
+away	2	2
+?	NA	NA

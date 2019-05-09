@@ -1,0 +1,12 @@
+At	0	0
+last	2	2
+I	1	0
+concluded	1	0
+it	0	1
+would	0	0
+be	0	0
+a	0	0
+waste	1	0
+of	0	1
+labour	1	2
+.	NA	NA

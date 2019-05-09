@@ -1,0 +1,14 @@
+Master	2	0
+Meadow	0	0
+Mouse	0	1
+promised	1	0
+himself	2	2
+that	2	0
+he	0	0
+would	0	0
+not	1	1
+repeat	2	0
+it	0	1
+another	1	0
+time	1	2
+.	NA	NA

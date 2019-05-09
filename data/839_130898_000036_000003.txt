@@ -1,0 +1,9 @@
+Another	2	0
+cable	0	0
+was	0	1
+put	0	0
+down	2	2
+under	0	0
+better	2	1
+conditions	1	2
+.	NA	NA

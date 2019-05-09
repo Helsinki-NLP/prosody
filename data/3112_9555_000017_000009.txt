@@ -1,0 +1,9 @@
+Of	2	1
+course	2	0
+I	0	0
+was	0	1
+ill	1	0
+dressed	1	0
+and	0	1
+dirty	2	2
+.	NA	NA

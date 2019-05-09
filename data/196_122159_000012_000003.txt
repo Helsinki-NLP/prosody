@@ -1,0 +1,11 @@
+Not	2	0
+the	0	1
+breadth	2	1
+of	0	0
+a	0	0
+hair	2	1
+between	0	0
+this	1	0
+and	0	1
+that	1	2
+.	NA	NA

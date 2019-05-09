@@ -1,0 +1,4 @@
+Is	0	0
+this	0	1
+private	2	2
+?	NA	NA

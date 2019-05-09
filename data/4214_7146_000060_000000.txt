@@ -1,0 +1,4 @@
+Her	0	1
+face	2	1
+hardened	1	2
+.	NA	NA

@@ -1,0 +1,7 @@
+The	0	0
+Story	1	0
+of	0	1
+Roc	1	2
+,	NA	NA
+the	0	0
+Brazilian	1	2

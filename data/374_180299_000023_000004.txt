@@ -1,0 +1,9 @@
+The	0	0
+servants	2	0
+addressed	2	1
+me	0	0
+officially	1	1
+as	1	0
+their	0	0
+master	2	2
+.	NA	NA

@@ -1,0 +1,8 @@
+It	2	0
+will	0	0
+be	0	1
+better	2	1
+to	0	0
+avoid	2	0
+him	0	2
+.	NA	NA

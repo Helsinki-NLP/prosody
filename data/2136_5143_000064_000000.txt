@@ -1,0 +1,16 @@
+She	0	0
+did	0	0
+not	0	0
+release	0	1
+it	0	0
+immediately	0	0
+however	2	2
+,	NA	NA
+but	2	0
+continued	2	1
+her	0	0
+torture	1	0
+and	0	1
+discordant	2	0
+laughter	2	2
+.	NA	NA

@@ -2,7 +2,7 @@ import os
 from torch.utils import data
 from pytorch_pretrained_bert import BertTokenizer
 from sklearn.model_selection import train_test_split
-import nltk
+#import nltk
 import torch
 import numpy as np
 
@@ -27,20 +27,15 @@ class ProsodyDataset(data.Dataset):
     def __getitem__(self, id):
         words, tags = self.sents[id], self.tags_li[id] # words, tags: string list
 
-        # We give credits only to the first piece.
         x, y = [], [] # list of ids
-        is_heads = [] # list. 1: the token is the first piece of a word
         for w, t in zip(words, tags):
             tokens = self.tokenizer.tokenize(w) if w not in ("[CLS]", "[SEP]") else [w]
             xx = self.tokenizer.convert_tokens_to_ids(tokens)
-
-            is_head = [1] + [0]*(len(tokens) - 1)
 
             t = [t] + ["<pad>"] * (len(tokens) - 1)  # <PAD>: no decision
             yy = [self.tag_to_index[each] for each in t]  # (T,)
 
             x.extend(xx)
-            is_heads.extend(is_head)
             y.extend(yy)
 
         # seqlen
@@ -49,7 +44,7 @@ class ProsodyDataset(data.Dataset):
         # to string
         words = " ".join(words)
         tags = " ".join(tags)
-        return words, x, is_heads, tags, y, seqlen
+        return words, x, tags, y, seqlen
 
 
 def load_pos_data():
@@ -70,7 +65,9 @@ def load_pos_data():
 def load_data():
     directory = os.fsencode(DATADIR)
     tagged_sents = []
+    files = 0
     for file in os.listdir(directory):
+        files += 1
         filename = os.fsdecode(file)
         if filename.endswith(".txt"):
             with open(DATADIR+filename) as f:
@@ -81,6 +78,8 @@ def load_data():
                     sent.append((split_line[0], split_line[1]))
             tagged_sents.append(sent)
             continue
+        if files > 1000:
+            break
         else:
             break
 
@@ -101,8 +100,7 @@ def pad(batch):
     # Pads to the longest sample
     f = lambda x: [sample[x] for sample in batch]
     words = f(0)
-    is_heads = f(2)
-    tags = f(3)
+    tags = f(2)
     seqlens = f(-1)
     maxlen = np.array(seqlens).max()
 
@@ -111,4 +109,4 @@ def pad(batch):
     y = f(-2, maxlen)
 
     f = torch.LongTensor
-    return words, f(x), is_heads, tags, f(y), seqlens
+    return words, f(x), tags, f(y), seqlens

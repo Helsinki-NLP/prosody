@@ -1,0 +1,3 @@
+Robinson	2	0
+entered	0	2
+.	NA	NA

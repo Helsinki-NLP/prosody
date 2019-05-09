@@ -1,0 +1,16 @@
+Or	1	0
+maybe	1	0
+old	0	1
+Rough	1	1
+leg	1	1
+,	NA	NA
+the	0	0
+Hawk	2	0
+,	NA	NA
+has	0	1
+caught	1	1
+more	0	0
+than	0	1
+his	0	0
+share	2	2
+.	NA	NA

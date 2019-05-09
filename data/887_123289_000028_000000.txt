@@ -1,0 +1,14 @@
+No	2	2
+,	NA	NA
+I	2	0
+only	2	0
+want	1	1
+to	0	0
+know	1	1
+how	0	0
+that	1	0
+is	0	1
+to	0	0
+be	0	0
+managed	1	2
+.	NA	NA

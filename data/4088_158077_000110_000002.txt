@@ -1,0 +1,6 @@
+To	0	1
+jail	1	0
+they	0	0
+must	1	1
+go	2	2
+.	NA	NA

@@ -1,0 +1,6 @@
+And	0	1
+what	1	0
+do	0	0
+you	0	1
+think	2	2
+?	NA	NA

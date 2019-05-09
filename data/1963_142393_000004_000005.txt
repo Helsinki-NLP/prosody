@@ -1,0 +1,4 @@
+I'll	2	0
+wait	0	1
+patiently	1	2
+.	NA	NA

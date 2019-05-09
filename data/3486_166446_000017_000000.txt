@@ -1,0 +1,7 @@
+It	0	0
+is	0	1
+done	2	0
+,	NA	NA
+she	0	1
+said	1	2
+.	NA	NA

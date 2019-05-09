@@ -1,0 +1,6 @@
+mr	2	0
+Oglethorpe	0	1
+told	2	0
+me	0	1
+so	2	2
+.	NA	NA

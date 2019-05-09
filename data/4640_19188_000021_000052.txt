@@ -1,0 +1,7 @@
+There	1	0
+were	0	1
+ashes	2	1
+in	0	0
+his	0	1
+teeth	2	2
+.	NA	NA

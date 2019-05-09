@@ -1,0 +1,11 @@
+To	0	1
+our	2	0
+eyes	0	1
+they	0	0
+seem	1	1
+too	0	0
+orderly	1	1
+,	NA	NA
+for	1	0
+instance	2	2
+.	NA	NA

@@ -1,0 +1,8 @@
+Too	1	0
+crowded	1	1
+,	NA	NA
+that	1	0
+is	0	1
+the	0	0
+worst	2	2
+.	NA	NA

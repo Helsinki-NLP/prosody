@@ -1,0 +1,11 @@
+I	2	0
+leave	0	0
+you	1	0
+to	0	1
+judge	2	1
+how	0	0
+much	0	0
+I	1	0
+was	0	1
+surprised	2	2
+.	NA	NA

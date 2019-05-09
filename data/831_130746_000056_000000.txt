@@ -1,0 +1,3 @@
+She	1	1
+thought	2	2
+.	NA	NA

@@ -1,0 +1,6 @@
+Is	2	0
+there	0	0
+a	0	1
+foreign	2	1
+war	2	2
+?	NA	NA

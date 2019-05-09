@@ -1,0 +1,11 @@
+Free	0	0
+?	NA	NA
+repeated	0	1
+Laura	2	0
+,	NA	NA
+with	0	2
+indignation	2	0
+in	0	1
+her	0	0
+face	2	2
+.	NA	NA

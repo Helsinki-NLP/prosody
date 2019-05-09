@@ -1,0 +1,11 @@
+Yes	2	1
+,	NA	NA
+but	1	0
+of	0	1
+course	2	0
+the	0	1
+chance	1	1
+might	1	0
+come	0	1
+again	2	2
+.	NA	NA

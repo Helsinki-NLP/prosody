@@ -1,0 +1,3 @@
+Who	1	0
+knows	1	2
+?	NA	NA

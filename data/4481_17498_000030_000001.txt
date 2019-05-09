@@ -1,0 +1,4 @@
+You're	1	1
+dreaming	1	0
+again	2	2
+.	NA	NA

@@ -1,0 +1,10 @@
+I	2	0
+like	0	0
+to	0	2
+be	0	0
+treated	0	0
+as	1	0
+an	0	1
+American	2	1
+lady	1	2
+.	NA	NA

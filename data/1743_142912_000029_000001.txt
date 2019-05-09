@@ -1,0 +1,7 @@
+Snake	2	1
+skins	1	0
+!	NA	NA
+shrieked	0	1
+Jenny	0	0
+Wren	2	2
+.	NA	NA

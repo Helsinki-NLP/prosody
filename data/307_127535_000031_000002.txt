@@ -1,0 +1,6 @@
+Sea	2	2
+!	NA	NA
+Gentlemen	1	0
+o'	0	0
+fortune	1	2
+!	NA	NA

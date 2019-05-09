@@ -1,0 +1,9 @@
+Poor	2	0
+little	0	1
+snuff	1	0
+colored	1	0
+Miss	0	1
+Elizabeth	0	1
+was	0	0
+delighted	2	2
+.	NA	NA

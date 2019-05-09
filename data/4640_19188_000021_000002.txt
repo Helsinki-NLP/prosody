@@ -1,0 +1,7 @@
+It	2	0
+is	0	0
+a	0	1
+question	1	0
+of	0	1
+women	2	2
+.	NA	NA

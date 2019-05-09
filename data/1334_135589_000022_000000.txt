@@ -1,0 +1,15 @@
+Look	2	0
+,	NA	NA
+Edward	1	2
+,	NA	NA
+said	0	0
+Chaloner	2	2
+,	NA	NA
+at	0	0
+those	1	0
+lovely	0	0
+girls	2	0
+at	0	1
+yon	0	0
+window	1	2
+.	NA	NA

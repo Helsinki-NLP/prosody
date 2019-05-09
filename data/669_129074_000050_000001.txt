@@ -1,0 +1,17 @@
+Georgy	2	0
+had	0	1
+a	0	0
+dandy	1	0
+telescope	1	2
+and	0	0
+got	2	0
+the	0	0
+vessel	1	0
+under	0	0
+view	2	2
+in	1	0
+the	0	0
+most	0	1
+skilful	1	0
+manner	1	2
+.	NA	NA

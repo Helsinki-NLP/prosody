@@ -1,0 +1,9 @@
+That	2	0
+is	0	1
+promotion	1	1
+,	NA	NA
+and	0	0
+I	0	0
+am	0	1
+glad	2	2
+!	NA	NA

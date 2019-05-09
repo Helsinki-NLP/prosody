@@ -1,0 +1,8 @@
+Those	2	0
+of	0	0
+the	0	1
+former	1	2
+white	2	0
+as	0	1
+Snow	1	2
+.	NA	NA

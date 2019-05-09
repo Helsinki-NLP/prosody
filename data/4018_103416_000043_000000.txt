@@ -1,0 +1,7 @@
+Natalie	2	1
+was	0	0
+in	0	0
+her	0	1
+dressing	1	1
+room	1	2
+.	NA	NA

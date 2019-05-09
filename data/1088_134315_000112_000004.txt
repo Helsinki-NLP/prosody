@@ -1,0 +1,9 @@
+She	1	0
+gave	2	1
+her	0	0
+attention	2	1
+to	0	0
+the	0	0
+second	0	0
+drawer	1	2
+.	NA	NA

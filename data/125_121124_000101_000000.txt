@@ -1,0 +1,9 @@
+They	2	0
+gave	1	1
+all	2	0
+their	0	0
+fortune	2	1
+to	0	0
+the	0	1
+hospitals	1	2
+.	NA	NA

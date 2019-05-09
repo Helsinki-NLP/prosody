@@ -1,0 +1,7 @@
+You	0	0
+gave	2	0
+me	0	0
+a	0	1
+dreadful	2	1
+start	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+But	2	0
+he	0	0
+was	0	0
+never	0	0
+idle	1	0
+unless	0	1
+when	0	0
+suffering	1	2
+.	NA	NA

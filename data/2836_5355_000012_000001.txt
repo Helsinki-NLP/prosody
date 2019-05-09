@@ -1,0 +1,12 @@
+It	0	0
+is	0	0
+you	1	0
+who	0	0
+have	0	1
+thrown	0	0
+out	1	0
+the	0	2
+challenge	2	1
+,	NA	NA
+mind	1	2
+.	NA	NA

@@ -1,0 +1,5 @@
+Now	2	0
+there's	0	1
+considerable	1	0
+doubt	2	2
+.	NA	NA

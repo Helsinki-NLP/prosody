@@ -1,0 +1,5 @@
+The	0	0
+operation	1	1
+proceeded	0	0
+apace	2	2
+.	NA	NA

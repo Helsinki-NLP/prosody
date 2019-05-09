@@ -1,0 +1,17 @@
+Thank	2	0
+you	0	1
+,	NA	NA
+said	0	0
+the	0	0
+girl	1	0
+quietly	1	2
+,	NA	NA
+but	2	0
+I	0	0
+am	0	0
+already	0	0
+being	0	0
+paid	1	1
+quite	2	1
+sufficient	1	2
+.	NA	NA

@@ -1,0 +1,12 @@
+I	0	0
+was	1	1
+bewildered	2	2
+,	NA	NA
+in	0	0
+a	0	0
+cloud	2	0
+of	0	1
+wonder	0	0
+and	0	1
+horror	1	2
+.	NA	NA

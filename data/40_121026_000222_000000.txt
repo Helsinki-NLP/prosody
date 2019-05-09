@@ -1,0 +1,9 @@
+Perhaps	2	2
+!	NA	NA
+exclaimed	1	0
+Dantes	0	1
+in	0	0
+grief	0	0
+stricken	0	0
+tones	1	2
+.	NA	NA

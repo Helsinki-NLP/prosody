@@ -1,0 +1,11 @@
+But	0	0
+what	1	0
+harm	2	2
+could	1	0
+he	0	0
+do	0	1
+by	1	0
+going	1	1
+to	0	0
+Snowfield	1	2
+?	NA	NA

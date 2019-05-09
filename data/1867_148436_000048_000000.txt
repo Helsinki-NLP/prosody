@@ -1,0 +1,5 @@
+What's	2	0
+he	0	1
+sore	1	1
+about	1	2
+?	NA	NA

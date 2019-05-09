@@ -1,0 +1,12 @@
+'Yes	2	2
+,	NA	NA
+a	0	0
+Doctor	2	0
+Bryerly	1	1
+,	NA	NA
+who	0	0
+remained	0	0
+a	0	1
+few	0	0
+days	1	2
+.	NA	NA

@@ -1,0 +1,9 @@
+Throw	2	0
+it	0	0
+into	0	1
+the	0	0
+fire	2	1
+,	NA	NA
+said	0	0
+Anne	1	2
+.	NA	NA

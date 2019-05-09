@@ -1,0 +1,5 @@
+And	0	0
+that	1	0
+picture	0	1
+passed	2	2
+.	NA	NA

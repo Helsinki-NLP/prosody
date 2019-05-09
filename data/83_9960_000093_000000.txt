@@ -1,0 +1,10 @@
+As	0	0
+soon	2	0
+as	0	1
+the	0	0
+ladder	1	0
+was	0	1
+arranged	0	1
+,	2	1
+Thenardier	NA	NA
+cried	2	2

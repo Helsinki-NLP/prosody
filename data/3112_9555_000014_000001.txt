@@ -1,0 +1,11 @@
+This	2	0
+was	1	0
+,	NA	NA
+I	0	1
+think	1	1
+,	NA	NA
+in	0	0
+eighteen	1	0
+twenty	0	1
+seven	2	2
+.	NA	NA

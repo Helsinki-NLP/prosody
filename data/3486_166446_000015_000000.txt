@@ -1,0 +1,15 @@
+And	1	0
+me	1	1
+me	2	1
+she	0	0
+raised	1	0
+little	0	1
+clenched	0	0
+hands	1	2
+me	2	0
+they	0	0
+stripped	0	0
+like	0	1
+a	0	0
+slave	2	2
+.	NA	NA

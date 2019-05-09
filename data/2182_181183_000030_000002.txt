@@ -1,0 +1,6 @@
+That's	2	1
+what	0	0
+you	0	0
+look	0	1
+at	2	2
+!	NA	NA

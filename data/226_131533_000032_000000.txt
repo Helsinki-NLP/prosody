@@ -1,0 +1,13 @@
+'Wouldn't	1	0
+what	1	2
+?	NA	NA
+How	2	0
+do	0	0
+they	0	0
+know	1	0
+that	0	1
+I	0	0
+go	0	0
+there	1	2
+?	NA	NA
+'	NA	NA

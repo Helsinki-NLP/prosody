@@ -1,0 +1,6 @@
+Carter	2	1
+burst	2	1
+into	0	0
+the	0	0
+room	1	2
+.	NA	NA

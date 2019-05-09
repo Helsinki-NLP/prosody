@@ -1,0 +1,4 @@
+what	1	0
+has	0	1
+happened	1	2
+?	NA	NA

@@ -1,0 +1,10 @@
+Three	0	0
+days	2	1
+later	0	0
+he	0	1
+took	0	0
+up	1	0
+his	0	1
+new	0	0
+work	2	2
+.	NA	NA

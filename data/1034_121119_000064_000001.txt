@@ -1,0 +1,7 @@
+What	1	0
+am	0	0
+I	0	1
+?	NA	NA
+the	0	0
+law	2	2
+.	NA	NA

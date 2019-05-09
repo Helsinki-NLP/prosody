@@ -1,0 +1,7 @@
+Can	0	0
+you	0	1
+manage	2	1
+to	0	0
+see	0	0
+Richard	2	2
+?	NA	NA

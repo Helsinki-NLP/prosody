@@ -1,0 +1,17 @@
+He	2	0
+assisted	1	0
+her	0	1
+to	0	0
+dismount	2	1
+,	NA	NA
+and	0	0
+dismissing	1	0
+her	0	1
+guide	2	2
+,	NA	NA
+conducted	2	0
+her	0	0
+into	0	1
+the	0	0
+cottage	2	2
+.	NA	NA

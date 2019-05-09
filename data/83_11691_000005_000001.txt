@@ -1,0 +1,7 @@
+Isn't	2	0
+it	0	1
+time	2	1
+we	0	0
+were	0	1
+starting	1	2
+?	NA	NA

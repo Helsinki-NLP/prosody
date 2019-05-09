@@ -1,0 +1,6 @@
+SIR	1	0
+FRANCIS	0	0
+LEVISON	1	1
+,	NA	NA
+Bart	2	2
+.	NA	NA

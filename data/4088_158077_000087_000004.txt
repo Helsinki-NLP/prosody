@@ -1,0 +1,4 @@
+What	1	0
+a	0	1
+picture	1	2
+!	NA	NA

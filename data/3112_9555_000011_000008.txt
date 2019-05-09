@@ -1,0 +1,12 @@
+Mine	2	0
+was	0	0
+only	0	0
+done	0	0
+a	0	2
+day	2	0
+or	0	1
+two	1	0
+before	0	1
+the	0	0
+holidays	1	2
+.	NA	NA

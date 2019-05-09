@@ -1,0 +1,8 @@
+Whatever	2	0
+you	0	0
+all	0	1
+prefer	2	1
+,	NA	NA
+said	0	0
+Elsie	1	2
+.	NA	NA

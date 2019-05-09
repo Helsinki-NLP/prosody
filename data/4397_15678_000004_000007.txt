@@ -1,0 +1,10 @@
+The	0	0
+large	2	0
+brown	1	0
+species	0	0
+likes	0	1
+higher	2	0
+and	0	1
+opener	1	0
+ground	1	2
+.	NA	NA

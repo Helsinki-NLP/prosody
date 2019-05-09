@@ -1,0 +1,10 @@
+Come	0	0
+as	0	0
+often	2	1
+as	0	0
+you	0	1
+like	2	1
+,	NA	NA
+replied	1	1
+Pewee	1	2
+.	NA	NA

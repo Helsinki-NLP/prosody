@@ -1,0 +1,8 @@
+There	2	0
+is	0	1
+no	0	0
+doubt	2	0
+about	0	2
+the	0	0
+dangers	1	2
+.	NA	NA

@@ -1,0 +1,9 @@
+A	0	0
+slow	1	0
+movement	0	1
+was	0	0
+tried	2	2
+the	0	0
+Valhalla	2	1
+motif	0	2
+.	NA	NA

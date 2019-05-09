@@ -1,0 +1,5 @@
+You	0	0
+will	0	0
+lose	1	1
+time	2	2
+.	NA	NA

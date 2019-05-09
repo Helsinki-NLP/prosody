@@ -1,0 +1,17 @@
+His	0	1
+soul	2	2
+is	1	0
+as	0	0
+hellish	2	0
+as	0	1
+his	0	0
+form	1	1
+,	NA	NA
+full	1	0
+of	0	1
+treachery	1	0
+and	0	1
+fiend	0	0
+like	1	1
+malice	2	2
+.	NA	NA

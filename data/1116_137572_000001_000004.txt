@@ -1,0 +1,6 @@
+Then	2	0
+one	1	0
+begins	0	0
+to	0	1
+appraise	1	2
+.	NA	NA

@@ -1,0 +1,9 @@
+I	0	0
+wasn't	1	0
+away	0	1
+,	NA	NA
+you	0	0
+know	1	2
+,	NA	NA
+long	2	2
+.	NA	NA

@@ -1,0 +1,6 @@
+GOOD	0	1
+BYE	1	0
+TO	0	1
+GOLOVIN	1	1
+BAY	2	2
+.	NA	NA

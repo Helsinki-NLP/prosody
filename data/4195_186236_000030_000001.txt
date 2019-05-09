@@ -1,0 +1,5 @@
+I	2	0
+can	0	1
+wander	0	1
+yet	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+That	0	0
+was	0	1
+the	0	0
+amount	2	0
+,	NA	NA
+was	0	1
+it	0	0
+not	2	2
+?	NA	NA

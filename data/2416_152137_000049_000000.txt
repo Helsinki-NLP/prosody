@@ -1,0 +1,17 @@
+Jimmie	0	0
+Dale	1	0
+nodded	1	2
+,	NA	NA
+grinned	1	0
+back	2	2
+,	NA	NA
+emptied	2	0
+his	1	0
+glass	1	1
+,	NA	NA
+and	0	0
+dug	1	0
+for	0	0
+a	0	0
+coin	1	2
+.	NA	NA

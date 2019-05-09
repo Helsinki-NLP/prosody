@@ -1,0 +1,15 @@
+The	0	0
+Ostrogoth	2	0
+army	1	1
+was	0	0
+captured	2	2
+,	NA	NA
+and	0	0
+Vitiges	2	0
+was	0	0
+taken	1	0
+to	0	1
+Constantinople	2	1
+a	0	0
+prisoner	2	2
+.	NA	NA

@@ -1,0 +1,5 @@
+It	0	0
+struck	2	0
+me	0	1
+blank	2	2
+.	NA	NA

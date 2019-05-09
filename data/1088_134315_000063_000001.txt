@@ -1,0 +1,14 @@
+He	0	0
+told	2	0
+me	0	0
+he	0	0
+would	0	1
+be	0	0
+in	0	0
+at	0	1
+six	1	0
+o'clock	0	0
+at	1	1
+the	0	0
+latest	2	2
+.	NA	NA

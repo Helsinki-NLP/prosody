@@ -1,0 +1,13 @@
+I	2	0
+don't	0	0
+know	1	2
+;	NA	NA
+nothing	2	0
+I	0	0
+guess	2	1
+,	NA	NA
+replied	1	0
+Lucy	0	0
+,	NA	NA
+indignantly	1	2
+.	NA	NA

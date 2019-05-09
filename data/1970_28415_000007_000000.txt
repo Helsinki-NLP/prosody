@@ -1,0 +1,7 @@
+The	0	0
+crowds	2	1
+saw	1	0
+the	0	1
+procession	1	1
+coming	2	2
+.	NA	NA

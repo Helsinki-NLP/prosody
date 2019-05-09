@@ -1,0 +1,9 @@
+Yes	2	0
+,	NA	NA
+he	0	1
+was	0	0
+stone	2	1
+,	NA	NA
+stone	2	0
+dead	0	2
+.	NA	NA

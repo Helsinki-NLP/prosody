@@ -1,0 +1,15 @@
+I'm	2	0
+all	0	0
+right	1	1
+,	NA	NA
+declared	0	0
+Uncle	0	1
+john	1	1
+,	NA	NA
+cordially	1	0
+shaking	0	0
+hands	0	0
+with	0	1
+Patsy's	1	1
+father	2	2
+.	NA	NA

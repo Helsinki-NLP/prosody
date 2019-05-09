@@ -1,0 +1,5 @@
+The	0	0
+Speculations	2	1
+of	0	0
+Jefferson	1	1
+Thorpe	2	2

@@ -1,0 +1,10 @@
+And	0	0
+how	2	0
+are	0	0
+the	0	1
+crown	1	0
+servants	1	0
+of	0	2
+to	0	0
+day	2	2
+?	NA	NA

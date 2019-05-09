@@ -1,0 +1,15 @@
+Supervising	1	1
+our	0	0
+work	1	2
+,	NA	NA
+working	1	0
+himself	2	2
+,	NA	NA
+Captain	1	0
+Nemo	0	0
+passed	1	1
+near	0	0
+me	0	0
+just	1	0
+then	1	2
+.	NA	NA

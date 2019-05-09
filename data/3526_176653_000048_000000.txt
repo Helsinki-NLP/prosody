@@ -1,0 +1,7 @@
+No	1	0
+not	1	1
+in	0	0
+THESE	1	0
+mountains	0	2
+why	2	2
+?	NA	NA

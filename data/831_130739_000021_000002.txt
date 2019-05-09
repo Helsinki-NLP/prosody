@@ -1,0 +1,8 @@
+Can	1	0
+he	0	0
+learn	1	0
+it	0	1
+in	0	0
+a	0	0
+week	2	2
+?	NA	NA

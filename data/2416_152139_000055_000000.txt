@@ -1,0 +1,6 @@
+Jimmie	0	0
+Dale's	2	0
+lips	0	1
+parted	1	1
+ominously	1	2
+.	NA	NA

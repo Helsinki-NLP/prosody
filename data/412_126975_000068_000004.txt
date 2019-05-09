@@ -1,0 +1,11 @@
+Where	2	0
+is	1	1
+he	0	0
+exactly	2	0
+at	0	1
+this	0	0
+minute	1	2
+,	NA	NA
+I	1	0
+wonder	2	2
+.	NA	NA

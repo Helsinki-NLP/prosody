@@ -1,0 +1,5 @@
+But	2	1
+why	0	0
+should	2	0
+he	0	2
+?	NA	NA

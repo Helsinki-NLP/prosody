@@ -1,0 +1,15 @@
+I	0	0
+went	1	1
+to	0	0
+one	1	0
+wigwam	1	2
+,	NA	NA
+and	0	0
+they	2	0
+told	2	1
+me	0	0
+they	0	0
+had	0	1
+no	1	0
+room	0	2
+.	NA	NA

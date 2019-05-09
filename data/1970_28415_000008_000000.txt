@@ -1,0 +1,11 @@
+Some	1	0
+of	0	0
+the	0	0
+crowds	2	1
+began	1	1
+to	0	0
+shout	2	1
+with	2	1
+the	0	0
+disciples	2	2
+.	NA	NA

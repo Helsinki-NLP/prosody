@@ -1,0 +1,7 @@
+I	1	0
+own	0	0
+a	0	1
+better	2	0
+,	NA	NA
+now	1	2
+.	NA	NA

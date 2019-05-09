@@ -1,0 +1,12 @@
+Is	1	0
+it	0	1
+half	2	0
+past	1	1
+nine	0	0
+already	1	1
+,	NA	NA
+papa	0	0
+?	NA	NA
+she	0	0
+asked	2	2
+.	NA	NA

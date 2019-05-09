@@ -1,0 +1,3 @@
+Patience	1	1
+patience	2	2
+!	NA	NA

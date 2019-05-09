@@ -1,0 +1,4 @@
+Lady	1	1
+wife	1	1
+mother	1	2
+!	NA	NA

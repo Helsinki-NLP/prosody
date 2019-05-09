@@ -1,0 +1,11 @@
+You	0	0
+take	1	0
+my	0	1
+carrozza	1	1
+,	NA	NA
+signore	2	1
+?	NA	NA
+begged	2	0
+the	0	1
+cabman	1	2
+.	NA	NA

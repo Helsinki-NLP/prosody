@@ -1,0 +1,13 @@
+You	0	0
+naughty	1	0
+,	NA	NA
+naughty	0	0
+,	NA	NA
+NAUGHTY	1	1
+,	NA	NA
+NAUGHTY	1	0
+man	2	2
+!	NA	NA
+she	0	0
+cried	1	2
+.	NA	NA

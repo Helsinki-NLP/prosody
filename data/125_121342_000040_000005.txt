@@ -1,0 +1,15 @@
+The	0	0
+matron	2	1
+doesn't	0	0
+want	2	0
+to	0	0
+repeat	0	1
+her	0	0
+girlhood	2	2
+she	0	0
+wants	2	0
+to	0	1
+repeat	0	0
+her	0	0
+honeymoon	1	2
+.	NA	NA

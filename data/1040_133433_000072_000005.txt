@@ -1,0 +1,6 @@
+That	2	0
+used	0	1
+to	0	0
+be	0	0
+Tootles	2	2
+.	NA	NA

@@ -1,0 +1,14 @@
+Now	2	1
+run	0	0
+along	1	1
+,	NA	NA
+peter	0	0
+Rabbit	2	2
+,	NA	NA
+and	0	0
+don't	2	0
+bother	1	1
+me	0	0
+any	0	0
+more	1	2
+.	NA	NA

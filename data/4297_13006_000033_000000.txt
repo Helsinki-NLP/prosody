@@ -1,0 +1,10 @@
+You	1	0
+may	0	1
+say	1	0
+that	0	0
+of	0	1
+any	1	0
+man	1	2
+,	NA	NA
+papa	2	2
+.	NA	NA

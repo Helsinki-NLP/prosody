@@ -1,0 +1,4 @@
+It	0	1
+caught	2	1
+me	0	2
+.	NA	NA

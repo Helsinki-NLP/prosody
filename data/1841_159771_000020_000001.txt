@@ -1,0 +1,9 @@
+I	2	0
+believe	0	1
+it	0	0
+is	0	0
+getting	1	1
+nearer	1	1
+,	NA	NA
+too	2	2
+.	NA	NA

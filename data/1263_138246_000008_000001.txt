@@ -1,0 +1,5 @@
+You	0	1
+smile	2	1
+,	NA	NA
+Barbicane	1	2
+.	NA	NA

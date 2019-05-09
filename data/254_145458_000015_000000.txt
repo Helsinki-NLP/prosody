@@ -1,0 +1,9 @@
+What	2	1
+is	2	1
+Saki's	1	0
+,	NA	NA
+what	2	0
+his	0	0
+magic	0	0
+talisman	1	2
+?	NA	NA

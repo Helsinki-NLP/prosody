@@ -1,0 +1,13 @@
+Left	2	0
+nostril	1	1
+,	NA	NA
+throat	2	1
+and	0	0
+muscles	0	0
+of	0	0
+neck	1	1
+very	2	1
+sore	1	0
+all	0	0
+night	1	2
+.	NA	NA

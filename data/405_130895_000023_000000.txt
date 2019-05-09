@@ -1,0 +1,9 @@
+By	2	0
+then	0	0
+all	1	0
+our	0	1
+past	1	0
+sufferings	1	1
+were	0	0
+forgotten	2	2
+.	NA	NA

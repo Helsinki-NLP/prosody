@@ -1,0 +1,7 @@
+And	0	1
+why	2	2
+?	NA	NA
+asked	1	0
+Nicholl	0	0
+quickly	0	2
+.	NA	NA

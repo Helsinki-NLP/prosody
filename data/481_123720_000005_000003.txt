@@ -1,0 +1,17 @@
+I	0	0
+had	0	0
+not	1	0
+been	0	0
+treated	1	0
+like	0	0
+that	0	0
+even	0	0
+at	0	1
+school	2	2
+,	NA	NA
+though	0	0
+they	0	0
+all	2	1
+hated	1	1
+me	0	2
+.	NA	NA

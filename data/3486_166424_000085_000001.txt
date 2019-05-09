@@ -1,0 +1,11 @@
+I	0	0
+heard	1	0
+the	0	0
+shouts	2	0
+of	0	1
+their	0	0
+captains	2	1
+;	NA	NA
+they	0	0
+rushed	2	2
+.	NA	NA

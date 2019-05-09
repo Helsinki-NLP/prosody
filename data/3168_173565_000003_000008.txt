@@ -1,0 +1,17 @@
+He	0	0
+felt	1	0
+Prince	0	0
+Andrew's	1	1
+pulse	1	1
+,	NA	NA
+and	0	0
+to	0	0
+his	0	0
+surprise	2	0
+and	0	1
+dissatisfaction	2	2
+found	2	0
+it	0	1
+had	0	1
+improved	2	2
+.	NA	NA

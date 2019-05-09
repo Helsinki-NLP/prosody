@@ -1,0 +1,17 @@
+Of	2	0
+course	0	1
+you'll	0	0
+have	2	0
+money	0	2
+,	NA	NA
+but	0	0
+then	2	0
+I	0	1
+suppose	1	0
+he	0	0
+makes	0	1
+a	0	0
+large	1	0
+income	0	1
+himself	2	2
+.	NA	NA

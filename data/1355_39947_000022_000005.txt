@@ -1,0 +1,14 @@
+Every	2	0
+society	0	1
+which	0	0
+allows	2	1
+successes	2	0
+to	0	1
+superficiality	2	2
+diminishes	2	0
+its	0	1
+chances	1	0
+for	0	0
+mental	0	0
+health	1	2
+.	NA	NA

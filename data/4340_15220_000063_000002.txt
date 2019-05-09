@@ -1,0 +1,14 @@
+I	0	0
+don't	1	0
+mind	1	1
+paying	2	1
+for	0	0
+her	1	2
+;	NA	NA
+it's	2	1
+getting	2	1
+her	0	0
+there	0	0
+and	0	1
+back	2	2
+.	NA	NA

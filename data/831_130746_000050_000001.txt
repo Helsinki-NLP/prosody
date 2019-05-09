@@ -1,0 +1,8 @@
+It's	1	0
+an	0	0
+ugly	0	0
+name	1	2
+,	NA	NA
+he	0	0
+said	2	2
+.	NA	NA

@@ -1,0 +1,8 @@
+Snap	2	0
+was	0	1
+threatening	2	0
+everybody	0	1
+with	0	0
+his	0	0
+cylinder	2	2
+.	NA	NA

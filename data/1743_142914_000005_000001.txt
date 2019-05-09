@@ -1,0 +1,14 @@
+There	1	0
+was	0	1
+mrs	1	1
+Woodcock	2	1
+peeping	0	0
+at	0	0
+him	0	1
+from	0	0
+behind	1	0
+a	0	1
+tussock	2	0
+of	0	2
+grass	2	2
+.	NA	NA

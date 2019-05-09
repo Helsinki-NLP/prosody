@@ -1,0 +1,13 @@
+The	0	0
+Snow	0	0
+White	2	0
+is	0	1
+probably	1	0
+the	0	0
+most	0	1
+remarkable	1	0
+laundry	0	0
+soap	1	2
+ever	2	0
+manufactured	1	2
+.	NA	NA

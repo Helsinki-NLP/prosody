@@ -1,0 +1,13 @@
+Not	2	1
+one	2	0
+of	0	1
+them	0	0
+had	0	0
+come	1	0
+up	0	1
+to	0	0
+enjoy	1	0
+the	0	1
+open	2	0
+air	1	2
+.	NA	NA

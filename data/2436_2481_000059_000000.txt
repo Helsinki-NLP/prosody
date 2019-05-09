@@ -1,0 +1,8 @@
+Miko	2	0
+ran	2	1
+with	0	0
+me	0	0
+a	0	0
+few	0	0
+steps	2	2
+.	NA	NA

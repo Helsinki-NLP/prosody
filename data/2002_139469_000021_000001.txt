@@ -1,0 +1,9 @@
+Our	0	0
+little	0	0
+island	1	0
+was	0	2
+filled	2	1
+even	0	0
+to	0	1
+bursting	1	2
+.	NA	NA

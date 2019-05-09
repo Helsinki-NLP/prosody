@@ -1,0 +1,13 @@
+As	2	0
+we	0	0
+approached	1	1
+the	0	0
+inn	0	0
+at	0	1
+Amherst	2	2
+,	NA	NA
+the	0	0
+Clockmaker	2	0
+grew	1	0
+uneasy	0	2
+.	NA	NA

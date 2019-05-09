@@ -1,0 +1,15 @@
+But	0	1
+Perceval	2	0
+was	0	1
+so	1	0
+intent	0	1
+upon	1	0
+his	0	0
+thought	1	2
+that	0	0
+he	0	0
+gave	1	0
+him	0	0
+no	1	0
+answer	1	2
+.	NA	NA

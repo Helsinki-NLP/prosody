@@ -1,0 +1,9 @@
+I	0	0
+worked	2	0
+at	0	1
+night	1	0
+also	0	2
+,	NA	NA
+replied	2	0
+Faria	0	2
+.	NA	NA

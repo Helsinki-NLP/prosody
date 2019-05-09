@@ -1,0 +1,5 @@
+He	0	0
+gained	2	1
+many	0	0
+victories	2	2
+.	NA	NA

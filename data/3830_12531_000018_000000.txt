@@ -1,0 +1,6 @@
+Everybody	2	1
+seems	0	1
+to	0	0
+have	0	0
+money	2	2
+.	NA	NA

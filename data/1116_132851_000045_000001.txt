@@ -1,0 +1,10 @@
+Then	2	0
+they	0	1
+joined	0	0
+hands	2	2
+and	0	0
+danced	1	0
+round	1	0
+it	0	1
+,	NA	NA
+singing	2	2

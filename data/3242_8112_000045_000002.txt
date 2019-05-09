@@ -1,0 +1,8 @@
+Stood	2	0
+up	0	1
+for	0	0
+his	0	0
+rights	2	1
+,	NA	NA
+eh	1	2
+?	NA	NA

@@ -1,0 +1,6 @@
+Almost	2	1
+as	0	0
+much	0	0
+as	0	1
+Daddy	2	2
+.	NA	NA

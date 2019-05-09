@@ -1,0 +1,13 @@
+The	1	0
+answers	0	0
+to	0	1
+his	0	0
+questions	2	1
+were	0	0
+in	0	0
+the	0	2
+thick	2	1
+,	NA	NA
+vulgar	2	1
+speech	2	2
+.	NA	NA

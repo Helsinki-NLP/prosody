@@ -1,0 +1,7 @@
+Why	2	1
+,	NA	NA
+how	0	0
+can	0	1
+you	0	0
+live	2	2
+?	NA	NA

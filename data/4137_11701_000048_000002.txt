@@ -1,0 +1,14 @@
+She	1	0
+took	2	1
+unflinching	2	1
+what	0	0
+must	1	0
+have	0	0
+been	0	0
+the	0	2
+biggest	2	1
+shock	1	0
+in	0	1
+her	0	0
+life	2	2
+.	NA	NA

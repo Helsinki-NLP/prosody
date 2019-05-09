@@ -1,0 +1,13 @@
+She	2	0
+opened	0	0
+it	0	2
+;	NA	NA
+it	0	0
+was	1	0
+from	0	0
+Oxford	2	1
+;	NA	NA
+and	2	1
+to	0	0
+this	1	0
+purpose	1	2

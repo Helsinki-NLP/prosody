@@ -1,0 +1,4 @@
+Fastidious	1	0
+correctness	2	1
+of	0	0
+form	1	2

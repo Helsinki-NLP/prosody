@@ -1,0 +1,9 @@
+Wait	1	0
+for	1	0
+me	0	0
+here	1	2
+an	0	0
+hour	1	1
+before	0	0
+midnight	1	2
+.	NA	NA

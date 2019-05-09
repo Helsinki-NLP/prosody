@@ -1,0 +1,14 @@
+May	2	0
+I	0	1
+express	2	2
+a	0	0
+hope	2	1
+that	2	0
+you	0	0
+are	0	1
+pleased	1	0
+with	0	1
+my	0	0
+beautiful	0	0
+country	2	2
+?	NA	NA

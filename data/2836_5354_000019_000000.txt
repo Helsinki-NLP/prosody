@@ -1,0 +1,8 @@
+We	1	0
+are	0	1
+,	NA	NA
+sir	1	1
+,	NA	NA
+faithfully	1	0
+yours	1	2
+,	NA	NA

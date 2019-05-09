@@ -1,0 +1,14 @@
+The	0	0
+bullets	2	1
+fired	1	0
+from	0	1
+above	0	0
+and	0	0
+behind	2	2
+.	NA	NA
+The	0	0
+number	2	0
+of	0	1
+bullets	1	1
+fired	1	2
+.	NA	NA

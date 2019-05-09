@@ -1,0 +1,6 @@
+I	2	0
+want	1	1
+to	0	0
+help	0	0
+you	0	2
+.	NA	NA

@@ -1,0 +1,11 @@
+A	0	0
+lamp	2	1
+could	0	0
+not	1	0
+have	0	1
+expired	2	1
+with	0	0
+more	1	2
+awful	2	0
+effect	1	2
+.	NA	NA

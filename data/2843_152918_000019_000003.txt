@@ -1,0 +1,12 @@
+Can	0	0
+anyone	2	0
+be	0	1
+surprised	2	1
+that	0	0
+we	0	0
+called	1	0
+it	0	1
+the	0	0
+Devil's	1	0
+Glacier	2	2
+?	NA	NA

@@ -1,0 +1,14 @@
+Such	2	0
+creatures	1	0
+sentence	0	1
+themselves	1	0
+to	0	1
+be	0	0
+captives	1	1
+,	NA	NA
+by	1	0
+their	0	0
+lack	1	0
+of	1	1
+ambition	2	2
+.	NA	NA

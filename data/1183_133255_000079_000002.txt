@@ -1,0 +1,9 @@
+In	0	1
+collapsible	2	1
+metal	1	0
+tubes	1	0
+,	NA	NA
+twenty	0	1
+five	1	0
+cents	2	2
+.	NA	NA

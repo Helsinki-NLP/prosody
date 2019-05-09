@@ -1,0 +1,10 @@
+Two	2	1
+essential	0	0
+characteristics	1	2
+are	0	0
+involved	2	0
+in	0	1
+the	0	0
+ordinary	0	1
+musical	0	0
+measure	2	2

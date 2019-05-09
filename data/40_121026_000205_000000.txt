@@ -1,0 +1,12 @@
+And	1	0
+how	1	0
+long	0	0
+shall	0	1
+we	0	0
+be	2	0
+in	0	1
+accomplishing	0	0
+the	0	1
+necessary	0	0
+work	2	2
+?	NA	NA

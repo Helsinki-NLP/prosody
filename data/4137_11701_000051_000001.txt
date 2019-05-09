@@ -1,0 +1,7 @@
+There'll	1	0
+be	0	0
+much	2	1
+to	0	0
+see	0	0
+about	2	2
+.	NA	NA

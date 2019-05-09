@@ -1,0 +1,14 @@
+I	0	1
+placed	1	1
+my	0	0
+hand	1	1
+upon	0	0
+the	0	0
+heart	2	2
+and	0	0
+held	2	0
+it	0	1
+there	0	0
+many	1	0
+minutes	1	2
+.	NA	NA

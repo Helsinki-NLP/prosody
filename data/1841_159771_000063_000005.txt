@@ -1,0 +1,8 @@
+It	2	0
+was	0	1
+deep	1	0
+enough	0	1
+for	0	0
+a	0	1
+swim	2	2
+.	NA	NA

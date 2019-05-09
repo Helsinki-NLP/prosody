@@ -1,0 +1,6 @@
+The	0	0
+dam	2	0
+was	0	1
+there	0	1
+still	2	2
+.	NA	NA

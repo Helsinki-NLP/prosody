@@ -1,0 +1,13 @@
+The	0	0
+day	2	0
+passed	1	1
+pleasantly	0	0
+enough	1	1
+,	NA	NA
+however	0	0
+,	NA	NA
+in	0	0
+a	0	1
+quiet	2	0
+way	1	2
+.	NA	NA

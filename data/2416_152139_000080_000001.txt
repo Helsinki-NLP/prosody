@@ -1,0 +1,14 @@
+The	0	0
+automatic	2	2
+lifted	2	0
+until	0	0
+the	0	0
+muzzle	0	0
+was	1	2
+on	1	0
+a	0	0
+line	1	0
+with	0	1
+Carling's	1	1
+eyes	2	2
+.	NA	NA

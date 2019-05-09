@@ -1,0 +1,16 @@
+Let	2	0
+me	0	0
+give	1	0
+you	0	0
+a	0	1
+bit	1	0
+of	0	1
+fruit	2	1
+cake	0	1
+and	0	0
+some	1	0
+of	0	0
+the	0	1
+cherry	1	1
+preserves	2	2
+.	NA	NA

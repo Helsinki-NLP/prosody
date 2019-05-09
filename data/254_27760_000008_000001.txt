@@ -1,0 +1,11 @@
+The	0	0
+women	1	1
+take	0	0
+a	0	0
+pinch	1	0
+of	0	0
+snuff	1	2
+,	NA	NA
+and	2	0
+sneeze	1	2
+.	NA	NA

@@ -1,0 +1,4 @@
+Goodwin's	0	1
+Chiropody	2	1
+Corn	0	0
+Salve	1	2

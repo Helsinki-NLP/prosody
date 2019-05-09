@@ -1,0 +1,14 @@
+Out	2	0
+of	0	0
+the	0	1
+pea	0	0
+soup	0	1
+before	2	0
+he	0	0
+was	0	1
+quite	1	0
+dead	1	1
+,	NA	NA
+quite	1	0
+senseless	1	2
+.	NA	NA

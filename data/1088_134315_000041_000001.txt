@@ -1,0 +1,6 @@
+Get	2	0
+me	0	1
+my	0	0
+fur	0	1
+coat	1	2
+.	NA	NA

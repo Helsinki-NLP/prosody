@@ -1,0 +1,16 @@
+And	0	0
+,	NA	NA
+Graham	2	2
+,	NA	NA
+tell	2	0
+Buckham	1	1
+to	0	0
+do	1	0
+up	0	1
+a	0	0
+dozen	1	1
+dinner	1	0
+napkins	1	1
+in	0	0
+paper	2	2
+.	NA	NA

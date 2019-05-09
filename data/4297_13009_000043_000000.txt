@@ -1,0 +1,9 @@
+Go	0	0
+to	0	0
+Ireland	2	2
+!	NA	NA
+How	1	0
+do	0	0
+you	0	1
+mean	2	2
+?	NA	NA

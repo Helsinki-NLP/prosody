@@ -1,0 +1,8 @@
+He	1	0
+is	0	0
+what	1	0
+we	0	1
+call	2	0
+an	0	1
+adventurer	1	2
+.	NA	NA

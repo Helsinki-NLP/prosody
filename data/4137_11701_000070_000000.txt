@@ -1,0 +1,17 @@
+Udo	2	2
+,	NA	NA
+who	0	0
+was	0	0
+about	1	0
+to	0	0
+enter	0	0
+the	0	1
+Palace	2	2
+,	NA	NA
+turned	2	0
+round	1	0
+with	0	1
+a	0	0
+startled	1	1
+look	2	2
+.	NA	NA

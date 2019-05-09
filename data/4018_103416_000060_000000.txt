@@ -1,0 +1,7 @@
+You	0	0
+wouldn't	2	1
+go	1	0
+,	NA	NA
+would	0	1
+you	2	2
+?	NA	NA

@@ -1,0 +1,8 @@
+They	1	0
+were	0	1
+afraid	2	0
+of	0	2
+the	0	0
+romans	2	1
+too	2	2
+.	NA	NA

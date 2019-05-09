@@ -1,0 +1,4 @@
+I	0	0
+compliment	1	1
+you	2	2
+!	NA	NA

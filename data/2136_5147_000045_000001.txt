@@ -1,0 +1,12 @@
+Her	0	0
+last	2	0
+husband	0	2
+,	NA	NA
+the	0	0
+Russian	1	0
+merchant	1	2
+,	NA	NA
+left	1	0
+her	0	0
+everything	1	2
+.	NA	NA

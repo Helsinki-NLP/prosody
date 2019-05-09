@@ -1,0 +1,14 @@
+Are	0	0
+you	2	1
+Italian	0	0
+?	NA	NA
+asked	2	0
+Uncle	0	1
+john	1	0
+,	NA	NA
+regarding	1	0
+the	0	1
+young	0	0
+man	0	0
+critically	2	2
+.	NA	NA

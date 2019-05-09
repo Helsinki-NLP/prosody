@@ -1,0 +1,5 @@
+Right	2	1
+!	NA	NA
+cried	0	0
+Jerry	1	2
+.	NA	NA

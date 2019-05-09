@@ -1,0 +1,6 @@
+My	0	0
+father's	2	1
+clients	0	0
+deserted	1	0
+him	0	2
+.	NA	NA

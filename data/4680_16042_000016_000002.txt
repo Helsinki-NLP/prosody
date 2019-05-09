@@ -1,0 +1,7 @@
+Live	2	0
+without	0	0
+Cosette	1	0
+he	0	1
+could	0	0
+not	2	2
+.	NA	NA

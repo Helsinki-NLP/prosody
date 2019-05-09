@@ -1,0 +1,5 @@
+Martin	2	0
+,	NA	NA
+I	0	1
+cried	2	2
+.	NA	NA

@@ -1,0 +1,11 @@
+Well	2	2
+,	NA	NA
+what	0	0
+is	2	0
+it	0	1
+?	NA	NA
+demanded	1	0
+a	0	0
+voice	0	1
+brusquely	0	2
+.	NA	NA

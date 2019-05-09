@@ -1,0 +1,6 @@
+She	2	0
+shall	0	1
+hear	1	0
+my	0	1
+opinion	1	2
+.	NA	NA

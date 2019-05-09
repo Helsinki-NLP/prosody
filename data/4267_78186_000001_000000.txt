@@ -1,0 +1,3 @@
+BY	1	0
+SAM	0	0
+SLICK	2	2

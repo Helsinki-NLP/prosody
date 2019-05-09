@@ -1,0 +1,7 @@
+No	2	0
+sympathy	0	1
+may	0	0
+I	1	0
+ever	0	1
+find	2	2
+.	NA	NA

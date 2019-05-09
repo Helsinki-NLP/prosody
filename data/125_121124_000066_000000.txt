@@ -1,0 +1,7 @@
+Then	0	0
+I	1	0
+may	0	0
+keep	1	1
+this	1	1
+money	2	2
+?	NA	NA

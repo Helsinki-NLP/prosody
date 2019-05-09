@@ -1,0 +1,6 @@
+Those	0	0
+are	0	0
+my	1	1
+private	2	1
+marks	2	2
+.	NA	NA

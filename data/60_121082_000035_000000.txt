@@ -1,0 +1,9 @@
+How	2	1
+can	0	0
+I	0	0
+help	0	1
+that	1	1
+,	NA	NA
+my	0	1
+boy	1	2
+?	NA	NA

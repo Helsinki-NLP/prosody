@@ -1,0 +1,8 @@
+What	2	0
+is	0	1
+gay	1	0
+and	0	1
+innocent	0	0
+and	0	1
+heartless	2	2
+?	NA	NA

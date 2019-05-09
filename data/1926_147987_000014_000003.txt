@@ -1,0 +1,11 @@
+My	2	0
+lip	0	0
+was	0	1
+cut	2	0
+and	0	1
+stood	0	0
+out	1	0
+like	0	0
+a	0	1
+snout	2	2
+.	NA	NA

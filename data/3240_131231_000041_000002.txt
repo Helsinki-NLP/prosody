@@ -1,0 +1,12 @@
+I	0	0
+think	2	1
+,	NA	NA
+myself	2	2
+,	NA	NA
+that	0	0
+they	1	0
+were	0	0
+minnows	0	0
+and	0	1
+sticklebacks	1	2
+.	NA	NA

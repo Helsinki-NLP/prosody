@@ -1,0 +1,5 @@
+No	1	1
+,	NA	NA
+I	0	0
+don't	2	2
+!	NA	NA

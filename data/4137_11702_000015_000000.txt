@@ -1,0 +1,10 @@
+The	1	0
+cavalcade	2	2
+drew	2	0
+up	0	0
+in	0	1
+front	0	0
+of	0	0
+the	0	0
+castle	2	2
+.	NA	NA

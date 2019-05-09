@@ -1,0 +1,6 @@
+I	2	0
+will	0	0
+not	0	0
+ask	1	1
+you	2	2
+.	NA	NA

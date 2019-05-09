@@ -1,0 +1,4 @@
+You	1	0
+think	1	1
+so	2	2
+?	NA	NA

@@ -1,0 +1,7 @@
+Good	2	0
+bye	2	0
+,	NA	NA
+your	0	1
+Royal	0	0
+Highness	1	2
+.	NA	NA

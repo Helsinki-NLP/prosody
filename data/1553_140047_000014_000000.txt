@@ -1,0 +1,13 @@
+No	2	1
+,	NA	NA
+grumbled	0	0
+Emma	0	0
+Jane	1	2
+;	NA	NA
+infant	2	0
+is	0	1
+worse	1	0
+even	0	0
+than	0	1
+babe	1	2
+.	NA	NA

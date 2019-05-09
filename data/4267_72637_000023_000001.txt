@@ -1,0 +1,9 @@
+How	2	0
+did	0	0
+it	0	1
+happen	2	2
+to	0	0
+be	0	0
+election	1	1
+time	1	2
+?	NA	NA

@@ -1,0 +1,17 @@
+Two	1	0
+canoes	0	1
+full	2	0
+they	0	0
+had	0	1
+carried	1	0
+over	1	2
+;	NA	NA
+the	0	0
+next	2	0
+turn	0	0
+I	0	0
+myself	2	0
+was	0	1
+to	0	0
+go	2	2
+.	NA	NA

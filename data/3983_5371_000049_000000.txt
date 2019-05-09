@@ -1,0 +1,17 @@
+It	2	0
+wouldn't	1	0
+have	0	1
+done	2	0
+her	0	0
+harm	2	1
+had	0	0
+they	0	0
+ducked	1	1
+her	1	1
+too	2	2
+,	NA	NA
+was	1	0
+the	0	0
+angry	0	0
+response	1	2
+.	NA	NA

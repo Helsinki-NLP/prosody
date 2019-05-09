@@ -1,0 +1,4 @@
+My	1	0
+handsome	0	1
+self	2	2
+?	NA	NA

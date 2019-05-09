@@ -1,0 +1,7 @@
+Doesn't	1	0
+she	1	0
+perhaps	0	1
+care	1	0
+at	0	1
+all	2	2
+?	NA	NA

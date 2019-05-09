@@ -1,0 +1,16 @@
+Which	2	0
+group	1	1
+,	NA	NA
+we'd	0	0
+have	0	0
+wondered	2	2
+,	NA	NA
+would	2	1
+ever	2	1
+contrive	1	1
+to	0	0
+rule	1	0
+all	0	0
+the	0	0
+rest	1	2
+?	NA	NA

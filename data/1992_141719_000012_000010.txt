@@ -1,0 +1,14 @@
+The	0	0
+fourth	2	0
+Combatant	0	1
+catch'd	0	0
+hold	2	0
+of	0	1
+his	0	0
+Left	1	0
+Leg	1	2
+,	NA	NA
+and	1	0
+unhors'd	2	1
+again	2	2
+.	NA	NA

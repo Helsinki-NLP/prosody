@@ -1,0 +1,5 @@
+Were	0	0
+you	1	0
+going	1	0
+to	0	1
+say	2	2

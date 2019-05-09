@@ -1,0 +1,15 @@
+For	0	0
+while	2	0
+I	0	1
+destroyed	1	0
+his	0	1
+hopes	2	1
+,	NA	NA
+I	1	0
+did	0	0
+not	0	1
+satisfy	0	0
+my	0	0
+own	0	2
+desires	2	2
+.	NA	NA

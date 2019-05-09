@@ -1,0 +1,8 @@
+That's	2	0
+where	0	0
+you	0	0
+and	0	1
+me	0	0
+don't	0	1
+agree	2	2
+!	NA	NA

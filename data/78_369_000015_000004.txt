@@ -1,0 +1,11 @@
+One	1	0
+inscription	0	1
+that	0	0
+he	0	0
+left	1	1
+was	0	0
+in	0	0
+these	0	0
+words	1	1
+Prepare	2	2
+!	NA	NA

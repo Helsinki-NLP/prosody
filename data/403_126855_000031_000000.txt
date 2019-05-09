@@ -1,0 +1,8 @@
+Oh	2	0
+,	NA	NA
+dear	2	1
+!	NA	NA
+said	0	0
+Gub	0	0
+Gub	1	2
+.	NA	NA

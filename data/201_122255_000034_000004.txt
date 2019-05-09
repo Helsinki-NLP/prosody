@@ -1,0 +1,16 @@
+Then	2	1
+,	NA	NA
+raising	2	0
+his	0	0
+staff	2	2
+,	NA	NA
+stout	2	0
+Arthur	0	1
+dealt	1	0
+him	0	0
+another	0	0
+blow	1	0
+upon	0	1
+the	0	0
+ribs	2	2
+.	NA	NA

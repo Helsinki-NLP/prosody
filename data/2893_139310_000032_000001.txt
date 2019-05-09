@@ -1,0 +1,11 @@
+He	0	0
+met	2	1
+the	0	0
+wonder	2	0
+and	0	1
+expectation	2	0
+of	0	1
+the	0	0
+girl's	1	0
+eyes	1	2
+.	NA	NA

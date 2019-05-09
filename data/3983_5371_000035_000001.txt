@@ -1,0 +1,9 @@
+Did	0	0
+she	2	0
+come	1	0
+to	0	1
+repentance	1	1
+,	NA	NA
+think	1	0
+you	2	2
+?	NA	NA

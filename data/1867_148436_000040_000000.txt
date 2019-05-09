@@ -1,0 +1,16 @@
+The	0	0
+boy	1	0
+flushed	1	0
+so	0	0
+red	1	2
+that	0	0
+by	1	0
+contrast	2	1
+his	0	0
+straw	1	0
+coloured	0	0
+hair	2	2
+seemed	1	0
+positively	2	0
+white	2	2
+.	NA	NA

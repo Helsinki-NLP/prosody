@@ -1,0 +1,16 @@
+Look	2	0
+here	0	0
+,	NA	NA
+Pitt	1	2
+you	0	0
+know	2	1
+that	0	0
+I	0	0
+was	0	0
+to	0	1
+have	0	0
+had	1	0
+Miss	0	1
+Crawley's	1	0
+money	1	2
+.	NA	NA

@@ -1,0 +1,7 @@
+Used	2	1
+to	0	0
+know	0	0
+de	0	1
+Wowzer	2	1
+dere	1	2
+.	NA	NA

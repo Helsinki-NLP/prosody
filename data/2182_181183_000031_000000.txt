@@ -1,0 +1,7 @@
+mr	1	0
+Hobbs	2	1
+dropped	2	0
+into	0	1
+his	0	0
+seat	1	2
+.	NA	NA

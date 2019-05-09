@@ -1,0 +1,12 @@
+Yes	2	2
+,	NA	NA
+there's	2	0
+a	0	1
+way	0	0
+,	NA	NA
+Carling	1	1
+,	NA	NA
+he	0	0
+said	0	0
+grimly	1	2
+.	NA	NA

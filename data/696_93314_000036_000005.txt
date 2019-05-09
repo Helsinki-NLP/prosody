@@ -1,0 +1,6 @@
+You'll	1	0
+forgive	1	0
+me	0	2
+won't	1	0
+you	1	2
+?	NA	NA

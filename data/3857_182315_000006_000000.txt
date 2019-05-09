@@ -1,0 +1,5 @@
+w	2	0
+n	0	1
+p	0	0
+Barbellion	1	2
+.	NA	NA

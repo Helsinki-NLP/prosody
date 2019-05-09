@@ -1,0 +1,7 @@
+Here	1	0
+it	0	0
+is	2	2
+,	NA	NA
+continued	0	0
+Barbicane	1	2
+.	NA	NA

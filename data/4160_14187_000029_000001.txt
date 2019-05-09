@@ -1,0 +1,12 @@
+It	1	0
+might	1	1
+bear	1	0
+on	0	0
+the	0	1
+case	2	0
+in	0	1
+more	0	0
+ways	1	1
+than	0	0
+one	2	2
+.	NA	NA

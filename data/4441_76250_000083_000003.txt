@@ -1,0 +1,15 @@
+I	1	0
+guarantee	1	0
+such	0	1
+and	0	0
+such	0	0
+a	0	0
+sum	1	2
+;	NA	NA
+I	0	0
+must	1	0
+pay	2	0
+it	0	2
+that's	1	0
+clear	2	2
+!	NA	NA

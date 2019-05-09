@@ -1,0 +1,5 @@
+Is	0	0
+she	0	0
+easily	0	1
+hurt	2	2
+?	NA	NA

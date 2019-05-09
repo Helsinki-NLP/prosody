@@ -1,0 +1,14 @@
+But	0	0
+I	2	0
+would	0	1
+not	1	0
+wish	1	1
+that	0	0
+anything	1	0
+should	0	1
+be	0	0
+added	2	1
+to	0	0
+the	0	0
+memoir	1	2
+.	NA	NA

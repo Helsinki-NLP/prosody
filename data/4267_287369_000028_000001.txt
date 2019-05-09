@@ -1,0 +1,11 @@
+It	1	0
+will	0	0
+be	0	1
+here	1	0
+in	0	1
+less	2	1
+than	0	0
+half	1	1
+an	0	0
+hour	2	2
+.	NA	NA

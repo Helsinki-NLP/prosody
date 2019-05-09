@@ -1,0 +1,13 @@
+And	0	0
+this	2	0
+was	0	1
+the	1	0
+only	0	0
+reward	1	1
+that	0	0
+Ralph	1	1
+got	2	1
+for	0	1
+his	0	0
+compliment	1	2
+.	NA	NA

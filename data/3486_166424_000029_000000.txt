@@ -1,0 +1,11 @@
+Quick	2	0
+,	NA	NA
+Mart	1	1
+!	NA	NA
+I	0	0
+shouted	1	1
+up	1	1
+the	0	0
+shattered	1	1
+stairway	2	2
+.	NA	NA

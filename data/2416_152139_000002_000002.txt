@@ -1,0 +1,4 @@
+It's	1	1
+safe	2	0
+enough	1	2
+.	NA	NA

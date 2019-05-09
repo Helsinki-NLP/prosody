@@ -1,0 +1,17 @@
+Well	2	2
+,	NA	NA
+the	0	0
+officer	2	0
+being	0	1
+a	0	0
+pretty	1	0
+good	0	1
+pilot	2	2
+,	NA	NA
+we	1	0
+decided	1	1
+to	0	0
+have	0	0
+that	0	1
+machine	2	2
+.	NA	NA

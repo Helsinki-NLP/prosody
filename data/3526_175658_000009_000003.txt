@@ -1,0 +1,15 @@
+Yes	2	1
+,	NA	NA
+I	2	0
+thought	0	0
+so	1	2
+;	NA	NA
+but	0	0
+I	2	0
+could	0	1
+scarcely	2	1
+as	0	0
+yet	1	1
+be	0	0
+sure	1	2
+.	NA	NA

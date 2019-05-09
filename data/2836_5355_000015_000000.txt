@@ -1,0 +1,17 @@
+You	1	0
+are	0	0
+breaking	1	1
+faith	1	0
+already	2	2
+,	NA	NA
+she	0	0
+said	2	1
+,	NA	NA
+after	1	0
+hearing	1	0
+him	0	1
+calmly	1	1
+to	0	0
+the	0	0
+end	1	2
+.	NA	NA

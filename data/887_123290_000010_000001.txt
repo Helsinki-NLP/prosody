@@ -1,0 +1,15 @@
+One	2	0
+would	0	0
+have	0	1
+thought	2	0
+that	0	0
+this	0	2
+strange	2	0
+being	0	0
+was	0	1
+guessing	2	1
+at	0	0
+my	0	0
+uncle's	1	1
+intentions	1	2
+.	NA	NA

@@ -1,0 +1,13 @@
+I	0	0
+have	0	0
+no	1	0
+mamma	0	1
+or	1	0
+papa	1	2
+,	NA	NA
+you	2	2
+are	2	0
+all	0	0
+I	0	0
+have	1	2
+.	NA	NA

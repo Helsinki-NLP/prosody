@@ -1,0 +1,4 @@
+I	2	0
+know	0	1
+them	2	2
+!	NA	NA

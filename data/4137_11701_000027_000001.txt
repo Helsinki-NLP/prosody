@@ -1,0 +1,12 @@
+Let	2	0
+me	0	0
+present	1	0
+to	0	1
+you	0	0
+my	0	0
+friend	1	1
+,	NA	NA
+the	0	0
+Duke	1	1
+Coronel	2	2
+.	NA	NA

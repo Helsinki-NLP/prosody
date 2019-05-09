@@ -1,0 +1,12 @@
+They	0	0
+make	2	1
+their	1	0
+money	1	0
+and	0	1
+what	1	0
+do	0	0
+they	0	1
+do	2	0
+with	0	1
+it	0	2
+?	NA	NA

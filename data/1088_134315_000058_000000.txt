@@ -1,0 +1,15 @@
+Take	2	1
+these	1	1
+!	NA	NA
+he	0	0
+ordered	1	1
+peremptorily	1	1
+,	NA	NA
+pointing	2	1
+to	0	0
+the	0	0
+books	1	0
+under	0	0
+his	0	0
+arm	2	2
+.	NA	NA

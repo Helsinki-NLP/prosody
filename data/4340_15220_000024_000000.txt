@@ -1,0 +1,9 @@
+You	0	0
+never	1	0
+would	0	2
+,	NA	NA
+it's	1	0
+only	2	1
+a	0	0
+picture	1	2
+!	NA	NA

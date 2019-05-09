@@ -1,0 +1,12 @@
+Look	1	0
+at	0	1
+that	2	0
+,	NA	NA
+now	0	0
+!	NA	NA
+said	0	1
+the	0	0
+Major	0	0
+,	NA	NA
+wonderingly	2	2
+.	NA	NA

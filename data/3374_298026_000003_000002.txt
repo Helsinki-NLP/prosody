@@ -1,0 +1,17 @@
+A	0	0
+great	2	0
+future	1	0
+beckons	1	1
+me	0	0
+on	1	1
+into	0	0
+the	0	0
+immeasurable	2	2
+;	NA	NA
+each	2	0
+idea	0	0
+develops	1	1
+a	0	0
+countless	0	0
+progeny	2	2
+.	NA	NA

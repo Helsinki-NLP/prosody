@@ -1,0 +1,6 @@
+Directions	2	1
+come	1	0
+with	0	0
+each	0	1
+box	2	2
+.	NA	NA

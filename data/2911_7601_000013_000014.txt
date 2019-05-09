@@ -1,0 +1,6 @@
+He	0	0
+shrieked	0	0
+once	1	2
+once	1	0
+only	2	2
+.	NA	NA

@@ -1,0 +1,10 @@
+But	0	0
+at	1	0
+the	0	1
+very	2	1
+outset	1	2
+we	1	0
+encounter	1	0
+a	0	0
+difficulty	1	2
+.	NA	NA

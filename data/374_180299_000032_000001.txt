@@ -1,0 +1,11 @@
+My	0	0
+heart	2	0
+beat	0	1
+violently	2	1
+while	0	0
+I	0	0
+waited	0	1
+for	0	0
+her	0	1
+reply	2	2
+.	NA	NA

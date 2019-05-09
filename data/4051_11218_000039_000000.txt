@@ -1,0 +1,6 @@
+Make	1	0
+haste	2	2
+,	NA	NA
+Prince	0	0
+Jason	1	2
+!	NA	NA

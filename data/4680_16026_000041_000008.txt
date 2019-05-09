@@ -1,0 +1,4 @@
+So	1	0
+you're	0	1
+out	2	2
+?	NA	NA

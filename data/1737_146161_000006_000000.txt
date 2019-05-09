@@ -1,0 +1,10 @@
+Sixth	0	0
+row	1	2
+Seamed	2	1
+,	NA	NA
+making	1	0
+one	2	0
+at	0	0
+the	0	1
+beginning	1	2
+.	NA	NA

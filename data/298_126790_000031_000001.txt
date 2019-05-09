@@ -1,0 +1,6 @@
+Who	1	1
+administered	2	1
+to	0	0
+the	0	0
+case	2	2
+?	NA	NA

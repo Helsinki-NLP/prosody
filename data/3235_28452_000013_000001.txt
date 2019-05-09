@@ -1,0 +1,16 @@
+I	0	0
+wanted	2	0
+to	0	1
+take	0	1
+both	1	0
+with	2	1
+me	0	1
+,	NA	NA
+but	2	2
+,	NA	NA
+no	2	2
+,	NA	NA
+I	1	0
+could	0	0
+not	1	2
+.	NA	NA

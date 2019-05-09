@@ -1,0 +1,7 @@
+I	0	0
+know	2	0
+you	0	1
+don't	0	1
+like	1	1
+her	2	2
+.	NA	NA

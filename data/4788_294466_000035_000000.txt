@@ -1,0 +1,5 @@
+Yes	2	0
+,	0	1
+mr	NA	NA
+Harvey	1	2
+.	NA	NA

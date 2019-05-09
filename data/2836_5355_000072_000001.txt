@@ -1,0 +1,3 @@
+Count	1	1
+them	1	2
+.	NA	NA

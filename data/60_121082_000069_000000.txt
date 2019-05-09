@@ -1,0 +1,10 @@
+Why	1	0
+do	0	0
+you	0	0
+wish	0	0
+to	0	1
+know	2	2
+?	NA	NA
+asked	2	0
+Cavalcanti	1	2
+.	NA	NA

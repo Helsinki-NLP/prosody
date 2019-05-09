@@ -1,0 +1,7 @@
+Serve	1	0
+him	0	0
+right	2	2
+,	NA	NA
+Macmurdo	1	0
+said	1	2
+.	NA	NA

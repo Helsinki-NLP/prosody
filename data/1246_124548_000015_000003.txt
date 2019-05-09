@@ -1,0 +1,12 @@
+She	0	1
+hated	2	2
+the	0	0
+man	1	1
+,	NA	NA
+and	0	0
+she	0	0
+was	0	1
+afraid	1	0
+of	0	0
+him	1	2
+.	NA	NA

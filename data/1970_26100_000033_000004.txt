@@ -1,0 +1,8 @@
+He	1	0
+had	0	0
+absolutely	1	1
+everything	2	0
+in	0	0
+his	0	0
+favor	1	2
+.	NA	NA

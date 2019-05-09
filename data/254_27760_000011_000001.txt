@@ -1,0 +1,12 @@
+Kashtanka	0	0
+sneezes	1	2
+,	NA	NA
+twitches	1	0
+her	0	0
+nose	2	2
+,	NA	NA
+and	0	0
+walks	1	0
+away	0	0
+offended	1	2
+.	NA	NA

@@ -1,0 +1,5 @@
+A	0	1
+Perilous	2	1
+Night	0	1
+on	0	0
+Shasta's	1	0

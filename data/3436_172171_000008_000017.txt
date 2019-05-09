@@ -1,0 +1,10 @@
+So	1	0
+he	0	1
+turned	2	0
+his	0	1
+horse's	2	1
+head	1	2
+toward	1	0
+the	0	0
+meadow	1	2
+.	NA	NA

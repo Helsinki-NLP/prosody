@@ -1,0 +1,8 @@
+I	0	0
+don't	1	1
+care	1	2
+;	NA	NA
+I'm	2	0
+not	0	1
+refined	1	2
+.	NA	NA

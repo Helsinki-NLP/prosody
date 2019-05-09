@@ -1,0 +1,5 @@
+Oh	2	0
+,	NA	NA
+how	0	1
+extraordinary	1	2
+!	NA	NA

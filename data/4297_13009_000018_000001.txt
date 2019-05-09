@@ -1,0 +1,10 @@
+There	2	0
+ought	0	0
+to	0	1
+be	0	0
+something	0	0
+like	0	0
+a	0	1
+fair	2	1
+division	2	2
+.	NA	NA

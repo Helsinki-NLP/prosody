@@ -1,0 +1,9 @@
+Oh	0	0
+,	NA	NA
+Major	2	1
+!	NA	NA
+cried	1	0
+Patsy	0	0
+,	NA	NA
+suddenly	1	2
+.	NA	NA

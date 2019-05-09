@@ -1,0 +1,7 @@
+That	2	1
+was	0	0
+around	1	1
+five	2	1
+minutes	0	0
+ago	2	2
+.	NA	NA

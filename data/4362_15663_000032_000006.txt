@@ -1,0 +1,12 @@
+Are	2	0
+you	0	0
+suffering	1	0
+much	1	2
+?	NA	NA
+Jerome	2	0
+would	0	1
+inquire	1	0
+with	0	1
+pitiful	0	0
+faintness	1	2
+.	NA	NA

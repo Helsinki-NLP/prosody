@@ -1,0 +1,7 @@
+What	2	0
+can	0	1
+I	0	0
+do	1	1
+for	0	0
+you	2	2
+?	NA	NA

@@ -1,0 +1,6 @@
+It	0	0
+is	0	0
+understood	1	1
+,	NA	NA
+captain	2	2
+.	NA	NA

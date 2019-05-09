@@ -1,0 +1,10 @@
+Over	2	0
+us	0	1
+whined	1	1
+the	0	0
+bullets	1	2
+from	0	0
+the	0	0
+covering	1	0
+guns	2	2
+.	NA	NA

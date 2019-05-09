@@ -1,0 +1,7 @@
+You	0	1
+terrify	2	1
+me	0	0
+,	NA	NA
+said	0	0
+Sybil	1	2
+.	NA	NA

@@ -1,0 +1,12 @@
+But	0	0
+no	2	0
+persuasion	0	1
+could	0	0
+induce	1	0
+Outina	1	2
+to	0	0
+follow	2	0
+up	0	1
+his	0	0
+victory	1	2
+.	NA	NA

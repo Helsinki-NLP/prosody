@@ -1,0 +1,10 @@
+Please	2	0
+don't	0	1
+do	0	0
+that	2	1
+,	NA	NA
+said	0	0
+Jimmie	0	0
+Dale	1	0
+softly	2	2
+.	NA	NA

@@ -1,0 +1,17 @@
+On	0	0
+every	2	0
+point	1	0
+of	0	1
+general	1	0
+literature	0	0
+he	0	1
+displays	1	0
+unbounded	1	0
+knowledge	2	2
+and	0	0
+a	0	0
+quick	2	0
+and	0	1
+piercing	0	0
+apprehension	0	2
+.	NA	NA

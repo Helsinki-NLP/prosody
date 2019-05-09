@@ -1,0 +1,4 @@
+How	1	0
+they	0	1
+rode	2	2
+!	NA	NA

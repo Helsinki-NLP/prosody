@@ -1,0 +1,6 @@
+Or	2	0
+on	0	0
+the	0	1
+occupational	1	1
+hazards	2	1
+that	2	2

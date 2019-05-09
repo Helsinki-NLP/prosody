@@ -1,0 +1,9 @@
+Jermyn	1	0
+Hilliard	0	1
+,	NA	NA
+Junior	2	2
+?	NA	NA
+Priscilla	0	0
+asked	1	1
+breathlessly	2	2
+.	NA	NA

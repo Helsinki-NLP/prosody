@@ -1,0 +1,12 @@
+That	2	0
+Essence	0	1
+of	0	0
+Orient	2	1
+must	0	0
+sell	1	0
+for	0	1
+quite	1	0
+a	0	0
+large	1	1
+sum	2	2
+.	NA	NA

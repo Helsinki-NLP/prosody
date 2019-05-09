@@ -1,0 +1,3 @@
+Isabel	1	0
+waited	1	2
+.	NA	NA

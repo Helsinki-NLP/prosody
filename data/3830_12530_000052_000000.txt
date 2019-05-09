@@ -1,0 +1,9 @@
+Now	2	0
+I	0	0
+have	0	0
+a	0	1
+fish	2	0
+story	0	0
+to	0	1
+tell	1	2
+.	NA	NA

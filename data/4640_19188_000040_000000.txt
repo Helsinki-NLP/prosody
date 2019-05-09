@@ -1,0 +1,11 @@
+Well	2	1
+,	NA	NA
+began	1	0
+the	0	1
+five	1	2
+,	NA	NA
+one	2	0
+must	0	1
+stay	0	0
+behind	1	2
+.	NA	NA

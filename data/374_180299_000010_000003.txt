@@ -1,0 +1,4 @@
+I	2	1
+took	1	0
+it	0	2
+.	NA	NA

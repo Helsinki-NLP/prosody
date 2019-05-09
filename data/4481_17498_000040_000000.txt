@@ -1,0 +1,5 @@
+The	0	0
+Major	1	0
+smiled	0	1
+grimly	2	2
+.	NA	NA

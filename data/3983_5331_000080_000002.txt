@@ -1,0 +1,5 @@
+Richard	0	0
+Hare	2	1
+has	1	0
+returned	1	2
+.	NA	NA

@@ -1,0 +1,15 @@
+I	0	0
+proposed	2	1
+to	0	0
+go	0	0
+with	0	0
+her	1	1
+but	2	2
+two	2	0
+girls	0	0
+alone	1	2
+,	NA	NA
+you	1	0
+understand	1	0
+me	0	2
+.	NA	NA

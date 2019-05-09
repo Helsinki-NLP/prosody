@@ -1,0 +1,8 @@
+What	0	0
+he	0	0
+needs	2	1
+is	0	0
+training	1	0
+in	0	1
+firmness	2	2
+.	NA	NA

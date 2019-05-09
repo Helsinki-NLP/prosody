@@ -1,0 +1,6 @@
+That	2	0
+was	0	0
+not	1	1
+the	0	0
+way	1	2
+.	NA	NA

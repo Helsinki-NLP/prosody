@@ -1,0 +1,9 @@
+Buck	2	0
+and	1	0
+Dandy	2	2
+and	0	0
+I	1	0
+took	0	1
+the	0	0
+trail	0	2
+.	NA	NA

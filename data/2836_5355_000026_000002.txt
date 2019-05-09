@@ -1,0 +1,4 @@
+There	1	0
+he	0	1
+lies	2	2
+.	NA	NA

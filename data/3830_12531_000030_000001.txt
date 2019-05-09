@@ -1,0 +1,17 @@
+Like	0	0
+all	1	0
+the	0	0
+earlier	1	1
+pioneers	1	2
+,	NA	NA
+he	0	0
+took	2	0
+a	0	1
+pride	2	0
+in	0	1
+helping	0	0
+others	0	1
+who	0	0
+came	0	0
+later	1	2
+.	NA	NA

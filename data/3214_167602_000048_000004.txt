@@ -1,0 +1,5 @@
+Good	0	0
+bye	2	1
+,	NA	NA
+Princess	0	2
+.	NA	NA

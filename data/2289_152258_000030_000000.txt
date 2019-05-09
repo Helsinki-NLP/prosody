@@ -1,0 +1,13 @@
+On	0	0
+his	1	0
+arrival	0	1
+in	0	0
+Medina	1	2
+the	0	0
+people	2	0
+received	0	0
+Mohammed	1	0
+with	0	1
+great	1	0
+rejoicing	1	2
+.	NA	NA

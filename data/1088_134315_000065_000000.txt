@@ -1,0 +1,10 @@
+He	0	0
+gave	2	0
+a	0	1
+savage	1	0
+little	0	1
+tug	2	0
+at	0	1
+his	0	0
+beard	1	2
+.	NA	NA

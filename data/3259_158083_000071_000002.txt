@@ -1,0 +1,8 @@
+Admission	2	2
+was	1	0
+denied	1	1
+to	2	0
+all	0	0
+of	0	0
+them	0	2
+.	NA	NA

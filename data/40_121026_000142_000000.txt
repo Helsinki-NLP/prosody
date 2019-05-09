@@ -1,0 +1,4 @@
+By	2	0
+your	0	1
+misfortune	0	2
+?	NA	NA

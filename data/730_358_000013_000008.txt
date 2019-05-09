@@ -1,0 +1,7 @@
+She	1	0
+followed	2	0
+,	NA	NA
+and	0	1
+they	0	0
+disappeared	2	2
+.	NA	NA

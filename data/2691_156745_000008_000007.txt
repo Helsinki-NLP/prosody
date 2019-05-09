@@ -1,0 +1,12 @@
+He	0	1
+stated	1	0
+that	0	1
+he	0	0
+offered	2	0
+her	0	1
+food	2	2
+,	NA	NA
+which	1	1
+she	1	0
+refused	1	2
+.	NA	NA

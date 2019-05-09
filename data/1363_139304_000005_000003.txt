@@ -1,0 +1,13 @@
+Then	2	0
+came	0	0
+a	0	1
+panorama	2	2
+of	1	0
+dazzling	2	0
+unstable	0	0
+confluent	0	0
+scenes	1	2
+.	NA	NA
+.	NA	NA
+.	NA	NA
+.	NA	NA

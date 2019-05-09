@@ -1,0 +1,16 @@
+I'm	2	1
+I'm	2	1
+Coronel	2	1
+,	NA	NA
+here	0	0
+I	1	0
+am	0	2
+,	NA	NA
+said	1	0
+Udo	0	0
+pathetically	1	1
+and	1	0
+he	0	0
+stepped	0	0
+out	1	2
+.	NA	NA

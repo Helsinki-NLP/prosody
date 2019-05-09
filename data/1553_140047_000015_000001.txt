@@ -1,0 +1,12 @@
+Oh	2	1
+!	NA	NA
+won't	1	0
+it	0	0
+be	0	0
+the	0	2
+greatest	2	1
+fun	0	0
+,	NA	NA
+Emma	0	1
+Jane	1	2
+?	NA	NA

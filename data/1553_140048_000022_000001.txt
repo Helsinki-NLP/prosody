@@ -1,0 +1,6 @@
+What	2	0
+was	0	1
+your	1	0
+worst	0	1
+trouble	1	2
+?	NA	NA

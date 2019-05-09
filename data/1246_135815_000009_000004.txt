@@ -1,0 +1,11 @@
+He	1	0
+has	2	0
+a	0	1
+number	2	0
+of	0	1
+whiskers	0	0
+and	0	1
+they	1	0
+are	0	1
+black	2	2
+.	NA	NA

@@ -1,0 +1,5 @@
+matthew	2	0
+was	0	1
+so	2	0
+good	0	2
+.	NA	NA

@@ -1,0 +1,13 @@
+There	2	0
+are	0	1
+few	1	0
+people	0	1
+much	0	0
+about	1	0
+town	0	1
+that	0	0
+I	2	0
+do	0	1
+not	0	0
+know	1	2
+.	NA	NA

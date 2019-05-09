@@ -1,0 +1,13 @@
+I	0	0
+said	2	0
+I	0	0
+couldn't	0	0
+make	0	0
+it	0	1
+plain	2	2
+!	NA	NA
+he	0	0
+cried	1	1
+,	NA	NA
+despairingly	1	2
+.	NA	NA

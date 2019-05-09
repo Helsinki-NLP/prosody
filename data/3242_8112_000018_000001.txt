@@ -1,0 +1,10 @@
+There	2	0
+seem	0	0
+to	0	1
+be	0	0
+too	0	0
+many	0	0
+basic	2	1
+factors	2	1
+missing	1	2
+.	NA	NA

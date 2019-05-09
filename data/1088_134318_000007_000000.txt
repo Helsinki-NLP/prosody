@@ -1,0 +1,14 @@
+Kara	2	0
+breathed	0	1
+a	0	0
+sigh	1	0
+of	0	0
+relief	0	1
+and	0	0
+his	0	1
+face	2	1
+was	0	0
+wreathed	0	0
+in	0	1
+smiles	2	2
+.	NA	NA

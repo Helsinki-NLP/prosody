@@ -1,0 +1,3 @@
+Walter	1	0
+Shandy	1	2
+.	NA	NA

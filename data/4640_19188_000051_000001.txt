@@ -1,0 +1,9 @@
+Then	2	0
+his	0	1
+glance	1	1
+dropped	2	1
+to	0	0
+the	0	0
+four	1	0
+uniforms	1	2
+.	NA	NA

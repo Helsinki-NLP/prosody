@@ -1,0 +1,2 @@
+Owl	2	1
+Friends	0	2

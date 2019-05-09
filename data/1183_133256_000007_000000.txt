@@ -1,0 +1,7 @@
+A	0	1
+broad	2	1
+statement	0	0
+,	NA	NA
+yet	1	0
+true	1	2
+.	NA	NA

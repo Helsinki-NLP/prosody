@@ -1,0 +1,13 @@
+They're	1	1
+doing	2	1
+all	1	0
+they	0	0
+can	1	1
+.	NA	NA
+He	0	0
+told	2	0
+us	0	1
+what	0	0
+had	0	0
+happened	1	2
+.	NA	NA

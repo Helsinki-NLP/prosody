@@ -1,0 +1,8 @@
+And	0	0
+asking	1	1
+Diana	2	0
+if	0	1
+she	0	0
+takes	1	1
+sugar	2	2
+!	NA	NA

@@ -1,0 +1,17 @@
+'Poor	2	0
+little	0	1
+cock	2	0
+!	NA	NA
+'	NA	NA
+she	0	1
+said	1	2
+,	NA	NA
+'and	0	0
+how	2	0
+am	0	0
+I	1	0
+to	0	1
+deliver	1	0
+you	2	2
+?	NA	NA
+'	NA	NA

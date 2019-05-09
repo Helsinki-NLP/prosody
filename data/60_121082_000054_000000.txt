@@ -1,0 +1,9 @@
+I	2	0
+think	0	0
+that	0	0
+with	1	2
+a	2	0
+hundred	0	1
+francs	1	0
+a	0	0
+month	2	2

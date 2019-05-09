@@ -1,0 +1,11 @@
+The	0	0
+monster	1	1
+continued	0	1
+to	0	0
+utter	0	1
+wild	2	0
+and	0	1
+incoherent	1	1
+self	1	1
+reproaches	2	2
+.	NA	NA

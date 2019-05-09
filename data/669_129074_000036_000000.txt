@@ -1,0 +1,6 @@
+Thank	2	0
+you	1	1
+,	NA	NA
+said	0	0
+Amelia	1	2
+.	NA	NA

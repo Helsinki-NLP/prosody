@@ -1,0 +1,7 @@
+The	0	0
+wing	2	0
+was	0	1
+bleeding	1	0
+a	0	1
+little	1	2
+.	NA	NA

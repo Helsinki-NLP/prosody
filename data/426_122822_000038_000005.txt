@@ -1,0 +1,7 @@
+And	0	1
+how	0	0
+mr	1	1
+Harrison	1	1
+would	0	0
+chuckle	2	2
+!	NA	NA

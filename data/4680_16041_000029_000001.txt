@@ -1,0 +1,17 @@
+The	0	0
+Government	2	1
+understood	0	0
+this	0	0
+as	0	0
+well	1	0
+as	0	1
+the	0	0
+parties	2	2
+;	NA	NA
+the	0	0
+most	2	0
+insignificant	2	1
+bourgeois	2	0
+felt	1	0
+it	0	2
+.	NA	NA

@@ -1,0 +1,14 @@
+Nowhere	2	0
+was	0	1
+the	0	0
+moon	0	0
+shining	1	1
+quite	2	0
+so	0	0
+brightly	1	1
+as	1	0
+in	0	0
+mr	0	1
+Hoopdriver's	1	1
+skull	2	2
+.	NA	NA

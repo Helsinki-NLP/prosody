@@ -1,0 +1,5 @@
+We	0	0
+need	1	0
+not	1	1
+delay	2	2
+.	NA	NA

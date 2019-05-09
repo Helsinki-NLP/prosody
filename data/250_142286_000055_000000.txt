@@ -1,0 +1,16 @@
+'I	1	0
+dare	2	1
+say	2	1
+,	NA	NA
+papa	1	0
+would	0	0
+have	0	2
+taken	1	0
+me	0	1
+before	1	0
+now	0	1
+if	0	0
+I	0	0
+had	0	1
+cared	2	2
+.	NA	NA

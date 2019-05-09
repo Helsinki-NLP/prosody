@@ -1,0 +1,11 @@
+We	0	0
+left	2	0
+this	0	1
+grotto	1	1
+which	0	0
+lay	0	0
+open	2	1
+to	0	0
+every	1	0
+wind	1	2
+.	NA	NA

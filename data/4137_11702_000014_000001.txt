@@ -1,0 +1,10 @@
+Well	2	1
+,	NA	NA
+I'll	0	0
+be	0	0
+out	0	0
+of	0	2
+the	0	0
+way	1	1
+somewhere	1	2
+.	NA	NA

@@ -1,0 +1,5 @@
+She	2	0
+has	0	0
+not	0	1
+sailed	1	2
+?	NA	NA

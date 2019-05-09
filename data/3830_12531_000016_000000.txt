@@ -1,0 +1,8 @@
+Oh	2	0
+,	NA	NA
+almost	1	1
+everybody	0	0
+has	1	1
+to	0	0
+buy	2	2
+.	NA	NA

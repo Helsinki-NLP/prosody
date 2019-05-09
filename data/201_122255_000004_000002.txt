@@ -1,0 +1,8 @@
+Come	2	1
+,	NA	NA
+busk	2	1
+thee	0	0
+,	NA	NA
+Little	0	0
+john	2	2
+!	NA	NA

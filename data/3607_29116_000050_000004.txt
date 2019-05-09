@@ -1,0 +1,10 @@
+I	0	0
+have	2	0
+a	0	1
+much	1	1
+greater	1	0
+admiration	1	2
+for	0	0
+Senator	1	0
+Balloon	1	2
+.	NA	NA

@@ -1,0 +1,17 @@
+Among	1	0
+the	0	0
+number	0	0
+which	0	0
+I	0	0
+got	1	2
+,	NA	NA
+five	2	0
+were	0	0
+fresh	1	2
+and	0	0
+the	0	0
+rest	2	1
+stinking	1	1
+and	0	0
+headless	1	2
+.	NA	NA

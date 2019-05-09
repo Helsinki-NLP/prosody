@@ -1,0 +1,17 @@
+Oh	2	0
+,	NA	NA
+please	2	0
+,	NA	NA
+don't	0	1
+do	0	0
+that	2	2
+,	NA	NA
+I	0	0
+do	2	0
+so	0	0
+dislike	1	0
+it	0	1
+,	NA	NA
+she	0	1
+said	2	2
+.	NA	NA

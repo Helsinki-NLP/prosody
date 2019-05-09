@@ -1,0 +1,10 @@
+I	1	0
+think	0	0
+I	1	1
+see	0	0
+the	0	2
+door	2	1
+open	0	0
+,	NA	NA
+there	2	2
+.	NA	NA

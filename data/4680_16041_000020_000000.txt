@@ -1,0 +1,12 @@
+The	0	0
+whole	2	0
+of	0	0
+this	0	0
+itinerary	1	2
+resembled	2	0
+a	0	1
+descent	2	0
+of	0	1
+black	1	0
+steps	1	2
+.	NA	NA

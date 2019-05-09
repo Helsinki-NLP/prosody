@@ -1,0 +1,16 @@
+No	2	2
+,	NA	NA
+you	0	0
+are	2	0
+not	0	2
+,	NA	NA
+and	0	0
+you	0	0
+never	1	0
+will	0	0
+be	0	2
+,	NA	NA
+arbitrary	2	0
+or	1	1
+capricious	0	2
+.	NA	NA

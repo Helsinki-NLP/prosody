@@ -1,0 +1,7 @@
+Edward	2	0
+remained	1	0
+at	0	1
+court	1	0
+several	0	0
+days	1	2
+.	NA	NA

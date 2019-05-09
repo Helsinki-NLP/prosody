@@ -1,0 +1,6 @@
+Why	2	0
+of	0	1
+course	1	1
+,	NA	NA
+papa	1	2
+?	NA	NA

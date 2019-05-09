@@ -1,0 +1,11 @@
+Jim	2	1
+saw	1	0
+nothing	1	0
+but	0	1
+the	0	0
+disorder	2	0
+of	0	1
+his	0	0
+tossed	2	1
+cabin	2	2
+.	NA	NA

@@ -1,0 +1,13 @@
+And	0	0
+to	0	0
+what	1	0
+myriads	2	2
+,	NA	NA
+it	0	0
+might	1	1
+be	1	0
+,	NA	NA
+of	0	0
+their	0	1
+kind	2	2
+?	NA	NA

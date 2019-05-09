@@ -1,0 +1,11 @@
+Then	2	1
+came	1	0
+darkness	0	2
+,	NA	NA
+and	1	0
+the	0	1
+glorious	1	0
+day	1	1
+was	1	0
+done	0	2
+.	NA	NA

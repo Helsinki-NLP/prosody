@@ -1,0 +1,4 @@
+His	1	0
+face	1	1
+fell	2	2
+.	NA	NA

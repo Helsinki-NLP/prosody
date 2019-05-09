@@ -1,0 +1,7 @@
+Great	2	0
+old	0	1
+boy	1	0
+,	NA	NA
+isn't	0	0
+he	1	2
+?	NA	NA

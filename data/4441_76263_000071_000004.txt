@@ -1,0 +1,3 @@
+The	0	0
+amount	2	2
+!	NA	NA

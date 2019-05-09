@@ -1,0 +1,17 @@
+No	0	0
+more	2	0
+immigrants	0	1
+were	0	0
+met	1	2
+until	2	0
+I	0	0
+reached	0	1
+the	0	0
+main	0	0
+traveled	1	0
+route	0	1
+beyond	1	0
+the	0	0
+Columbia	0	0
+River	0	2
+.	NA	NA

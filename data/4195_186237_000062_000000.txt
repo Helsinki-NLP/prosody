@@ -1,0 +1,10 @@
+A	0	0
+very	2	0
+bad	0	1
+habit	2	1
+,	NA	NA
+sir	1	0
+,	NA	NA
+he	0	1
+said	2	2
+.	NA	NA

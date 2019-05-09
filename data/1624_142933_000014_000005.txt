@@ -1,0 +1,6 @@
+It	0	0
+was	0	0
+Rosebreast	2	2
+the	0	0
+Grosbeak	2	2
+.	NA	NA

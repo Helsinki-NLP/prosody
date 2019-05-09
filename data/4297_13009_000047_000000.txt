@@ -1,0 +1,11 @@
+But	0	0
+they	1	0
+said	2	0
+that	0	2
+Barrington	2	0
+Erle	1	0
+was	0	1
+going	0	1
+to	1	1
+Ireland	1	2
+.	NA	NA

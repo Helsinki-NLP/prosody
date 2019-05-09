@@ -1,0 +1,12 @@
+You	0	0
+see	0	0
+,	NA	NA
+Jefferson's	1	0
+forte	1	2
+,	NA	NA
+or	0	0
+specialty	2	2
+,	NA	NA
+was	0	0
+information	2	2
+.	NA	NA

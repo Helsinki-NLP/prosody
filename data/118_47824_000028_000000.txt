@@ -1,0 +1,6 @@
+Where's	0	0
+Robinson	1	1
+?	NA	NA
+Bobby	0	0
+asked	2	2
+.	NA	NA

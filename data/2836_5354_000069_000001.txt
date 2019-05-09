@@ -1,0 +1,9 @@
+It	2	0
+was	0	1
+too	0	0
+late	2	1
+by	0	0
+weeks	1	1
+and	0	0
+months	1	2
+.	NA	NA

@@ -1,0 +1,9 @@
+But	1	0
+what	2	0
+was	0	1
+the	0	0
+use	0	1
+of	0	0
+stopping	2	1
+here	1	2
+?	NA	NA

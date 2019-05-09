@@ -1,0 +1,14 @@
+Unwilling	2	1
+to	0	0
+pass	2	0
+the	0	0
+amendment	0	0
+,	NA	NA
+it	0	1
+continued	0	0
+to	0	0
+send	1	0
+women	1	1
+to	0	0
+prison	2	2
+.	NA	NA

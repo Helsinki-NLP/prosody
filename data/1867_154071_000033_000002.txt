@@ -1,0 +1,12 @@
+Why	2	1
+,	NA	NA
+Bill	2	2
+,	NA	NA
+look	1	0
+at	0	0
+the	0	0
+way	0	0
+things	0	0
+have	0	1
+gone	1	2
+!	NA	NA

@@ -1,0 +1,14 @@
+The	0	1
+Nautilus	2	0
+was	0	1
+traveling	2	0
+at	0	1
+the	0	0
+frightful	2	0
+speed	0	0
+of	0	1
+forty	2	0
+miles	1	1
+per	0	0
+hour	1	2
+.	NA	NA

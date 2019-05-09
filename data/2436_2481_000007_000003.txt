@@ -1,0 +1,5 @@
+Let	2	0
+me	0	0
+in	0	1
+first	2	2
+.	NA	NA

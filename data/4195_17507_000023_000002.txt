@@ -1,0 +1,5 @@
+Is	1	1
+it	0	0
+not	1	1
+so	2	2
+?	NA	NA

@@ -1,0 +1,7 @@
+But	2	1
+my	1	0
+uncle	0	0
+rapidly	0	0
+recovered	1	1
+himself	1	2
+.	NA	NA

@@ -1,0 +1,6 @@
+But	0	1
+be	1	0
+of	0	0
+good	1	1
+courage	2	2
+.	NA	NA

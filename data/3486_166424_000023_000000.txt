@@ -1,0 +1,6 @@
+They	1	0
+come	2	0
+!	NA	NA
+he	0	1
+gasped	2	2
+.	NA	NA

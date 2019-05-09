@@ -1,0 +1,14 @@
+But	0	1
+good	0	0
+day	2	0
+,	NA	NA
+good	0	1
+evening	0	0
+,	NA	NA
+sheer	0	0
+off	1	1
+!	NA	NA
+leave	0	0
+us	0	0
+alone	2	2
+!	NA	NA

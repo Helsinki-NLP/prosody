@@ -1,0 +1,6 @@
+Perhaps	2	1
+it	0	0
+was	0	1
+a	0	0
+symbol	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+The	0	0
+rest	2	0
+of	1	1
+the	1	0
+house	2	1
+was	1	0
+in	0	1
+darkness	1	2
+.	NA	NA

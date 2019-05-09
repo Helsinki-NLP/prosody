@@ -1,0 +1,10 @@
+One	1	0
+week	2	2
+was	0	0
+decided	2	1
+on	0	0
+as	0	1
+a	0	0
+fair	1	0
+test	2	2
+.	NA	NA

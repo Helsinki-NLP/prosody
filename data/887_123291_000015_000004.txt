@@ -1,0 +1,10 @@
+I	2	0
+stood	1	0
+mute	1	1
+before	0	1
+this	0	0
+apparition	1	1
+of	0	0
+remote	1	1
+antiquity	1	2
+.	NA	NA

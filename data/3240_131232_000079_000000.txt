@@ -1,0 +1,6 @@
+There's	0	0
+no	1	0
+escape	2	1
+from	1	0
+it	0	2
+.	NA	NA

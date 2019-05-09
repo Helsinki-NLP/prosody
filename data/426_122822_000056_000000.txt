@@ -1,0 +1,15 @@
+Well	2	0
+,	NA	NA
+Anne	1	2
+,	NA	NA
+I	0	0
+guess	2	0
+you've	0	1
+won	1	0
+over	0	1
+Anthony	0	0
+Pye	0	0
+,	NA	NA
+that's	1	1
+what	1	2
+.	NA	NA

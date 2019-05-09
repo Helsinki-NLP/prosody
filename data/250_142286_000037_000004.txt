@@ -1,0 +1,11 @@
+But	2	1
+one	1	0
+is	0	1
+sure	2	0
+to	0	1
+hear	0	0
+the	0	1
+newest	1	1
+music	1	0
+there	2	2
+.	NA	NA

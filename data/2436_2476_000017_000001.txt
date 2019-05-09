@@ -1,0 +1,15 @@
+We	0	0
+sat	2	0
+at	0	1
+the	1	0
+ends	0	2
+,	NA	NA
+with	2	0
+the	0	0
+passengers	1	1
+on	0	0
+each	0	0
+of	0	1
+the	0	0
+sides	1	2
+.	NA	NA

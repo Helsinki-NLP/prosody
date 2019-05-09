@@ -1,0 +1,16 @@
+Your	0	0
+sins	2	1
+and	0	0
+also	1	0
+your	0	1
+crimes	2	2
+,	NA	NA
+God	2	0
+will	0	0
+forgive	0	0
+them	0	0
+all	2	2
+,	NA	NA
+replied	2	0
+Savonarola	1	2
+.	NA	NA

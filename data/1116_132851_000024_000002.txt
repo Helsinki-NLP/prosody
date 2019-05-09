@@ -1,0 +1,15 @@
+Meanwhile	2	1
+you	0	0
+just	0	0
+eat	2	0
+and	0	1
+sleep	2	2
+,	NA	NA
+and	0	0
+don't	1	0
+worry	0	0
+yourself	1	1
+about	1	0
+anything	1	2
+.	NA	NA
+'	NA	NA

@@ -1,0 +1,12 @@
+He	1	0
+caught	1	0
+his	0	0
+cousin	1	1
+by	1	0
+his	0	1
+tail	2	2
+and	0	0
+held	2	0
+on	0	1
+firmly	2	2
+.	NA	NA

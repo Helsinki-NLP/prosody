@@ -1,0 +1,8 @@
+Red	2	0
+and	0	1
+yellow	2	1
+,	NA	NA
+catch	0	0
+a	0	0
+fellow	2	2
+.	NA	NA

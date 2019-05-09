@@ -1,0 +1,9 @@
+He	2	0
+must	0	1
+put	0	0
+up	2	1
+with	0	0
+that	1	0
+of	0	1
+course	1	2
+.	NA	NA

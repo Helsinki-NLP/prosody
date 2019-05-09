@@ -1,0 +1,5 @@
+I	2	0
+can't	0	0
+eat	0	1
+trees	1	2
+.	NA	NA

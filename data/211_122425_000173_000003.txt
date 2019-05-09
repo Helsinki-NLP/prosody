@@ -1,0 +1,12 @@
+In	0	0
+particular	2	2
+,	NA	NA
+there	2	0
+is	0	1
+one	1	0
+yonder	0	0
+of	0	1
+a	0	0
+Gascon	1	0
+look	0	2
+.	NA	NA

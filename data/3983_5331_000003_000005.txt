@@ -1,0 +1,8 @@
+She	0	0
+had	0	1
+died	1	1
+and	2	0
+left	0	1
+one	1	0
+child	2	2
+.	NA	NA

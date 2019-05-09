@@ -1,0 +1,13 @@
+Comstock	2	0
+and	0	1
+I	0	0
+dashed	2	1
+into	0	0
+a	0	0
+herd	1	1
+,	NA	NA
+followed	2	0
+by	0	1
+the	0	0
+referees	2	2
+.	NA	NA

@@ -1,0 +1,13 @@
+Ottigny	2	2
+set	0	0
+forth	2	0
+on	0	0
+this	0	1
+fool's	1	0
+errand	0	2
+with	0	0
+thrice	2	1
+the	0	0
+force	1	0
+demanded	1	2
+.	NA	NA

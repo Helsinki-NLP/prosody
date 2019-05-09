@@ -1,0 +1,10 @@
+Then	2	0
+,	NA	NA
+frankly	1	1
+,	NA	NA
+your	1	0
+Royal	0	0
+Highness	1	0
+looks	1	1
+funny	2	2
+.	NA	NA

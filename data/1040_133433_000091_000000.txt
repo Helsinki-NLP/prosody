@@ -1,0 +1,9 @@
+Or	0	0
+perhaps	2	0
+Wendy	0	0
+admits	1	1
+she	0	0
+does	2	0
+see	0	0
+something	0	2
+.	NA	NA

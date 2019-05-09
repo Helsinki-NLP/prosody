@@ -1,0 +1,12 @@
+It	0	0
+is	0	0
+so	1	0
+difficult	0	0
+so	1	2
+awfully	2	0
+unfair	2	2
+so	0	0
+hard	2	0
+to	0	1
+understand	1	2
+.	NA	NA

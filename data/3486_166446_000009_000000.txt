@@ -1,0 +1,16 @@
+From	2	0
+Norhala	0	0
+,	NA	NA
+of	1	1
+course	2	2
+,	NA	NA
+I	2	0
+looked	0	1
+for	0	0
+no	1	1
+perception	2	1
+of	0	0
+any	1	0
+of	0	1
+this	1	2
+.	NA	NA

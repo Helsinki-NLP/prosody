@@ -1,0 +1,6 @@
+Simple	2	0
+enough	0	1
+,	0	0
+mr	NA	NA
+Graham	2	2
+.	NA	NA

@@ -1,0 +1,13 @@
+We	2	0
+want	0	0
+you	0	0
+to	0	0
+accept	1	1
+a	0	0
+large	2	0
+sample	0	1
+bottle	2	0
+with	0	2
+our	2	0
+compliments	1	2
+.	NA	NA

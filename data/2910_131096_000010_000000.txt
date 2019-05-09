@@ -1,0 +1,16 @@
+Psyche	2	0
+,	NA	NA
+henceforth	2	2
+frowned	2	0
+upon	1	0
+by	0	1
+Venus	1	2
+,	NA	NA
+derived	2	0
+no	0	0
+benefit	1	1
+from	0	0
+all	0	0
+her	0	0
+charms	2	2
+.	NA	NA

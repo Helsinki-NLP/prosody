@@ -1,0 +1,13 @@
+In	0	0
+fact	2	2
+,	NA	NA
+it	1	0
+was	0	0
+a	0	0
+very	1	0
+business	0	1
+like	0	0
+sort	0	0
+of	0	1
+warning	2	2
+.	NA	NA

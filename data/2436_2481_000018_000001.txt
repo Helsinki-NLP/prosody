@@ -1,0 +1,4 @@
+It	0	0
+opened	2	1
+cautiously	2	2
+.	NA	NA

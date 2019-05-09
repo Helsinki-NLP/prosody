@@ -1,0 +1,12 @@
+I	2	1
+think	1	1
+I	0	0
+will	1	1
+go	2	0
+as	0	1
+I	0	0
+am	1	1
+,	NA	NA
+he	0	0
+said	2	2
+.	NA	NA

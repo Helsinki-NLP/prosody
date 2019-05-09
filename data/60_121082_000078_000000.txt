@@ -1,0 +1,8 @@
+And	2	0
+who	0	1
+found	2	0
+this	0	2
+father	2	1
+for	0	0
+you	2	2
+?	NA	NA

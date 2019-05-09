@@ -1,0 +1,7 @@
+These	2	0
+people	0	1
+will	0	0
+also	1	0
+be	0	1
+surprised	2	2
+.	NA	NA

@@ -1,0 +1,12 @@
+The	0	1
+report	2	0
+of	0	0
+the	0	1
+pistol	1	1
+brought	2	0
+a	0	1
+crowd	2	1
+into	0	0
+the	0	0
+room	1	2
+.	NA	NA

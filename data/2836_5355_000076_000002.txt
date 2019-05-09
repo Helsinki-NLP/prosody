@@ -1,0 +1,13 @@
+Remember	2	1
+,	NA	NA
+though	1	0
+,	NA	NA
+that	0	0
+it	0	1
+is	0	0
+your	2	1
+doing	0	1
+,	NA	NA
+not	1	0
+mine	1	2
+.	NA	NA

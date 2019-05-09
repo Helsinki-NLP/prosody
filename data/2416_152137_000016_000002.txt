@@ -1,0 +1,15 @@
+The	0	0
+next	2	1
+moment	0	0
+he	0	1
+was	0	0
+lost	2	2
+in	0	0
+a	0	0
+jam	1	0
+of	0	1
+people	0	0
+in	0	0
+the	1	2
+lobby	2	2
+.	NA	NA

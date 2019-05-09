@@ -1,0 +1,7 @@
+You	0	0
+got	2	0
+Hannah	1	0
+that	0	1
+good	0	0
+place	2	2
+.	NA	NA

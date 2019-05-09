@@ -1,0 +1,16 @@
+How	2	0
+could	0	0
+he	0	0
+get	1	0
+a	0	1
+fish	2	1
+out	2	1
+with	0	0
+that	2	0
+little	0	1
+switch	0	0
+,	NA	NA
+she	1	1
+thought	2	1
+contemptuously	2	2
+?	NA	NA

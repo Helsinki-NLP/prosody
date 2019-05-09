@@ -1,0 +1,6 @@
+It's	0	1
+wonderful	1	0
+,	NA	NA
+sighed	2	2
+peter	1	2
+.	NA	NA

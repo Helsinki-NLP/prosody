@@ -1,0 +1,9 @@
+I	1	0
+only	2	0
+ask	1	1
+to	0	0
+be	0	0
+allowed	2	1
+to	0	0
+pay	1	2
+.	NA	NA

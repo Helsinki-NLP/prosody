@@ -1,0 +1,7 @@
+It's	0	0
+all	1	0
+right	0	0
+,	NA	NA
+I	0	1
+shouted	1	2
+.	NA	NA

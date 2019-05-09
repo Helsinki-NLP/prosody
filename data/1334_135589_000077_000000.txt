@@ -1,0 +1,9 @@
+Much	2	0
+you	0	0
+know	0	0
+about	1	0
+women	1	2
+,	NA	NA
+replied	2	0
+Edith	1	2
+.	NA	NA

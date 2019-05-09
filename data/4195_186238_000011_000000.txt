@@ -1,0 +1,4 @@
+Another	1	0
+hour	0	1
+passed	1	2
+.	NA	NA

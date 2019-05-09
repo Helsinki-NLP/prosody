@@ -1,0 +1,11 @@
+Really	2	2
+,	NA	NA
+it's	1	0
+an	0	0
+ill	1	0
+wind	0	1
+that	0	0
+blows	1	1
+no	0	0
+good	2	2
+!	NA	NA

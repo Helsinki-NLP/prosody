@@ -1,0 +1,8 @@
+On	0	0
+hearing	2	1
+this	1	1
+Bellah	1	0
+began	0	0
+to	0	1
+laugh	2	2
+.	NA	NA

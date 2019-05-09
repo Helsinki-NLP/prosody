@@ -1,0 +1,17 @@
+What's	1	0
+that	2	2
+?	NA	NA
+laughed	1	0
+Agnes	1	1
+,	NA	NA
+opening	1	0
+the	0	0
+box	2	1
+and	0	0
+taking	1	0
+out	0	0
+a	0	0
+six	0	0
+barrelled	1	1
+revolver	1	2
+.	NA	NA

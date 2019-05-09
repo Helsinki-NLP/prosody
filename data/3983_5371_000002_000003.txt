@@ -1,0 +1,9 @@
+Let's	2	1
+give	0	0
+him	0	0
+a	0	1
+taste	2	0
+of	0	0
+his	0	1
+deservings	2	2
+!	NA	NA

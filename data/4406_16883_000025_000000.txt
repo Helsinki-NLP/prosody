@@ -1,0 +1,6 @@
+We	0	1
+went	2	0
+on	0	0
+our	0	1
+travel	2	2
+.	NA	NA

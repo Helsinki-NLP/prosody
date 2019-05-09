@@ -1,0 +1,12 @@
+I	2	0
+can	0	0
+be	0	1
+glad	2	0
+of	0	1
+one	1	0
+thing	1	2
+,	NA	NA
+though	2	0
+it's	0	1
+selfish	1	2
+.	NA	NA

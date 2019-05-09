@@ -1,0 +1,13 @@
+Thus	2	1
+,	NA	NA
+if	0	0
+nothing	1	0
+of	0	1
+importance	2	1
+occurs	2	2
+,	NA	NA
+nothing	1	0
+need	0	1
+be	0	0
+transmitted	2	2
+.	NA	NA

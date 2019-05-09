@@ -1,0 +1,5 @@
+Is	0	0
+he	0	0
+a	1	1
+deputy	2	2
+?	NA	NA

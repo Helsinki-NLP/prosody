@@ -1,0 +1,6 @@
+I	2	0
+would	0	1
+be	0	0
+dead	1	0
+first	0	2
+!	NA	NA

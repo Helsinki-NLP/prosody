@@ -1,0 +1,12 @@
+What	2	0
+it	0	1
+seems	1	1
+to	0	0
+boil	2	0
+down	1	1
+to	1	0
+is	1	0
+that	1	1
+they	1	0
+might	2	2
+.	NA	NA

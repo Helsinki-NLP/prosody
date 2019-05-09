@@ -1,0 +1,11 @@
+She	1	0
+was	0	0
+holding	2	0
+out	0	1
+both	2	1
+hands	1	0
+to	0	0
+him	0	2
+,	NA	NA
+piteously	2	2
+.	NA	NA

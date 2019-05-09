@@ -1,0 +1,9 @@
+The	0	0
+truth	2	0
+must	1	1
+be	0	0
+told	2	1
+at	0	0
+all	0	1
+costs	2	2
+.	NA	NA

@@ -1,0 +1,5 @@
+Do	1	1
+,	NA	NA
+pray	2	2
+.	NA	NA
+'	NA	NA

@@ -1,0 +1,14 @@
+Oh	0	0
+,	NA	NA
+yes	2	1
+he	0	0
+is	0	0
+old	0	0
+man	1	2
+,	NA	NA
+and	0	0
+so	1	1
+uncertain	2	1
+life	0	0
+is	1	2
+.	NA	NA

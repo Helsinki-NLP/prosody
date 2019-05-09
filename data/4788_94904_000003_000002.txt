@@ -1,0 +1,10 @@
+That	2	1
+the	0	0
+people	2	0
+should	0	1
+be	0	0
+willing	2	1
+to	0	0
+receive	1	0
+it	0	2
+.	NA	NA

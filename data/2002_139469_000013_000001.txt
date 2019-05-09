@@ -1,0 +1,5 @@
+England	2	0
+was	0	1
+still	1	1
+secure	1	2
+.	NA	NA

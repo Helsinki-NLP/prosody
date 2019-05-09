@@ -1,0 +1,10 @@
+We	0	0
+had	0	0
+not	2	1
+stopped	2	2
+to	0	0
+study	2	1
+the	0	0
+Indian	0	0
+character	1	2
+.	NA	NA

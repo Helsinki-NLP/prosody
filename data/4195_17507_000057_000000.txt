@@ -1,0 +1,10 @@
+Ferralti	2	1
+smiled	1	0
+,	NA	NA
+and	0	1
+his	0	0
+eyes	1	0
+rested	0	1
+upon	0	0
+Louise	1	2
+.	NA	NA

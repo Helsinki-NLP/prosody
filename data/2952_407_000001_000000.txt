@@ -1,0 +1,6 @@
+OF	0	0
+A	0	0
+MIRROR	2	2
+AND	1	0
+A	0	0
+BELL	2	2

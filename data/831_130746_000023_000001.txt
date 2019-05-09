@@ -1,0 +1,7 @@
+The	0	0
+ostler	2	1
+,	NA	NA
+sir	1	1
+,	NA	NA
+Jim	1	0
+Duke	2	2

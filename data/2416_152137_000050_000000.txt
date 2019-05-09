@@ -1,0 +1,8 @@
+Forget	2	0
+it	0	1
+!	NA	NA
+observed	0	1
+the	0	0
+barkeeper	1	0
+cordially	2	2
+.	NA	NA

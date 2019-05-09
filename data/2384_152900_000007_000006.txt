@@ -1,0 +1,10 @@
+There	1	0
+was	0	0
+no	1	1
+question	2	0
+of	0	1
+this	0	1
+with	0	0
+our	2	0
+tents	1	2
+.	NA	NA

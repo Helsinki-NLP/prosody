@@ -1,0 +1,16 @@
+They	2	0
+had	0	1
+simply	1	0
+rounded	2	0
+a	0	1
+curve	1	0
+in	0	1
+the	0	0
+road	1	2
+and	0	0
+found	2	0
+themselves	1	1
+in	0	0
+the	0	0
+Avenue	1	2
+.	NA	NA

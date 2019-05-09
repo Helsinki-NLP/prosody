@@ -1,0 +1,7 @@
+Speak	0	1
+to	0	0
+Lizzy	0	0
+about	2	0
+it	0	1
+yourself	2	2
+.	NA	NA

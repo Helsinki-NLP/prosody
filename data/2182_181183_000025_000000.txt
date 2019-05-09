@@ -1,0 +1,6 @@
+Dick	2	0
+actually	0	0
+forgot	0	1
+to	0	0
+grin	2	2
+.	NA	NA

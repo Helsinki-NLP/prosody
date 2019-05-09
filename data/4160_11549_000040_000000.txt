@@ -1,0 +1,7 @@
+Yes	2	1
+,	NA	NA
+she	1	0
+said	0	1
+to	0	0
+him	2	2
+.	NA	NA

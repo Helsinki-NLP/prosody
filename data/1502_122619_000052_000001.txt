@@ -1,0 +1,16 @@
+The	0	0
+news	1	0
+spread	1	0
+from	0	0
+mouth	1	1
+to	0	0
+mouth	1	2
+,	NA	NA
+until	1	0
+the	0	0
+whole	2	0
+encampment	1	1
+became	0	0
+powerfully	2	0
+agitated	1	2
+.	NA	NA

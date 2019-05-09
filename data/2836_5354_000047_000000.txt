@@ -1,0 +1,9 @@
+Then	1	0
+I	0	0
+must	0	1
+accompany	1	0
+you	1	2
+,	NA	NA
+she	0	0
+urged	1	2
+.	NA	NA

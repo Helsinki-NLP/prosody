@@ -1,0 +1,14 @@
+I	1	0
+hope	2	2
+,	NA	NA
+so	1	0
+far	2	0
+as	0	1
+concerns	1	1
+my	0	0
+brother	1	0
+,	NA	NA
+you	0	0
+are	0	1
+misinformed	2	2
+.	NA	NA

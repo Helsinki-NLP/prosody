@@ -1,0 +1,8 @@
+If	0	0
+you	0	0
+think	2	0
+I'm	0	1
+guilty	1	1
+say	2	0
+so	0	2
+.	NA	NA

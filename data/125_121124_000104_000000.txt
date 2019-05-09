@@ -1,0 +1,4 @@
+For	1	0
+what	0	1
+reason	2	2
+?	NA	NA

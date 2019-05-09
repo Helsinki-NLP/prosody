@@ -1,0 +1,10 @@
+It	0	0
+was	1	0
+a	0	0
+period	2	0
+of	0	1
+extravagance	2	1
+rather	1	0
+than	0	1
+pleasure	2	2
+.	NA	NA

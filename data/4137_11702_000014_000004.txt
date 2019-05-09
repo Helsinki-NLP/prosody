@@ -1,0 +1,11 @@
+Anyhow	2	1
+,	NA	NA
+I'll	0	0
+give	0	0
+you	1	1
+an	0	0
+hour	2	0
+alone	0	1
+together	1	0
+first	2	2
+.	NA	NA

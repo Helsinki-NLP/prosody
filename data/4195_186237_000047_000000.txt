@@ -1,0 +1,15 @@
+I	0	1
+haven't	2	0
+many	0	1
+,	NA	NA
+said	1	1
+Uncle	0	0
+john	1	0
+,	NA	NA
+looking	0	1
+thoughtfully	2	1
+at	0	0
+his	0	0
+red	1	0
+bundle	2	2
+.	NA	NA

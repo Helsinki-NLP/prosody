@@ -1,0 +1,4 @@
+A	1	0
+funereal	0	0
+day	2	2
+.	NA	NA

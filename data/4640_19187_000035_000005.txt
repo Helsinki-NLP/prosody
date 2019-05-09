@@ -1,0 +1,5 @@
+They	0	0
+reckoned	2	1
+on	0	0
+it	2	2
+.	NA	NA

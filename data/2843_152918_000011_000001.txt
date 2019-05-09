@@ -1,0 +1,11 @@
+Also	2	0
+fine	0	0
+falling	1	0
+snow	2	2
+,	NA	NA
+which	0	0
+makes	1	1
+the	0	0
+going	1	0
+impossible	1	2
+.	NA	NA

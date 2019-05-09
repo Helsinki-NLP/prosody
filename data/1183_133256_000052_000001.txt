@@ -1,0 +1,3 @@
+Price	1	1
+one	0	0
+dollar	2	2

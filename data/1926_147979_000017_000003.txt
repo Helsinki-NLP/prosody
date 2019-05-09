@@ -1,0 +1,10 @@
+They	1	0
+separated	1	0
+and	0	1
+fled	1	0
+toward	1	0
+the	0	1
+kitchen	1	2
+,	NA	NA
+giggling	2	2
+.	NA	NA

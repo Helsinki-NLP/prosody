@@ -1,0 +1,8 @@
+mr	1	0
+Gathercole	2	1
+,	NA	NA
+said	0	0
+the	0	0
+girl	2	0
+quickly	1	2
+.	NA	NA

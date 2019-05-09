@@ -1,0 +1,15 @@
+I	2	0
+hated	0	1
+everything	0	0
+earthly	2	0
+and	0	1
+was	0	0
+glad	2	1
+to	0	0
+see	0	0
+it	0	0
+all	2	2
+punished	2	1
+and	0	0
+destroyed	2	2
+.	NA	NA

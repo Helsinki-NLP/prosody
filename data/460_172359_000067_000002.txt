@@ -1,0 +1,10 @@
+Perhaps	2	0
+you've	0	1
+felt	2	1
+it	0	0
+about	2	0
+people	0	0
+that	0	1
+you	0	0
+know	2	2
+.	NA	NA

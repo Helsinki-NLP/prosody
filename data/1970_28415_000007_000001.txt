@@ -1,0 +1,13 @@
+They	0	0
+saw	1	0
+the	0	0
+donkey	2	2
+,	NA	NA
+and	1	0
+they	0	0
+remembered	2	0
+what	0	1
+the	0	0
+Scriptures	1	0
+said	1	2
+.	NA	NA

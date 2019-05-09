@@ -1,0 +1,10 @@
+But	0	0
+don't	0	0
+move	2	2
+;	NA	NA
+it	1	0
+may	0	0
+come	0	0
+again	2	2
+.	NA	NA
+'	NA	NA

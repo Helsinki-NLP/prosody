@@ -1,0 +1,7 @@
+No	2	2
+,	NA	NA
+I	1	0
+ventured	0	0
+to	0	0
+rejoin	1	2
+.	NA	NA

@@ -1,0 +1,9 @@
+Oh	2	0
+,	NA	NA
+I'm	0	1
+so	1	0
+glad	2	2
+,	NA	NA
+said	0	0
+Hyacinth	1	2
+.	NA	NA

@@ -1,0 +1,7 @@
+A	0	0
+little	1	0
+population	2	1
+occupied	1	0
+its	0	1
+halls	2	2
+.	NA	NA

@@ -1,0 +1,3 @@
+Anita	1	1
+hurt	2	2
+!	NA	NA

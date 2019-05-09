@@ -1,0 +1,8 @@
+As	0	1
+,	NA	NA
+in	0	0
+fact	2	1
+,	NA	NA
+he	0	0
+had	2	2
+.	NA	NA

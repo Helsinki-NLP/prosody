@@ -1,0 +1,7 @@
+With	0	1
+this	2	0
+new	1	1
+crown	2	1
+upon	1	0
+her	2	2
+!	NA	NA

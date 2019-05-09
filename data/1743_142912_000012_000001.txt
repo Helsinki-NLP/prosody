@@ -1,0 +1,9 @@
+There	1	0
+wouldn't	0	1
+be	1	0
+any	0	1
+honey	1	0
+if	0	0
+I	0	1
+did	2	2
+.	NA	NA

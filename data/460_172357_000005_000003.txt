@@ -1,0 +1,15 @@
+In	1	0
+this	1	1
+diligent	2	1
+pursuit	0	0
+of	0	1
+words	1	0
+I	0	1
+spent	0	0
+about	1	1
+sixteen	0	0
+hours	1	0
+of	0	1
+each	0	0
+day	2	2
+.	NA	NA

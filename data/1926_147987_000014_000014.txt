@@ -1,0 +1,10 @@
+She	2	0
+had	0	0
+let	0	0
+me	0	0
+in	0	1
+for	2	0
+all	0	0
+this	0	2
+disgustingness	2	2
+.	NA	NA

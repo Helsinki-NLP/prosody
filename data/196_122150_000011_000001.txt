@@ -1,0 +1,16 @@
+He	0	0
+walked	2	1
+slowly	2	0
+aboard	1	2
+,	NA	NA
+handsome	2	0
+and	0	1
+grave	2	0
+in	0	1
+his	0	0
+white	1	0
+gown	1	0
+and	0	1
+large	0	0
+turban	2	2
+.	NA	NA

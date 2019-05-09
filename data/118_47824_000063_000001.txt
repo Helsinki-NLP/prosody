@@ -1,0 +1,10 @@
+His	0	1
+eyes	2	1
+still	0	0
+smiled	2	2
+,	NA	NA
+but	0	0
+his	0	0
+voice	1	1
+was	0	0
+harder	2	2

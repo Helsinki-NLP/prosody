@@ -1,0 +1,7 @@
+I	2	0
+expect	1	1
+she	0	1
+is	0	0
+no	1	0
+more	2	2
+.	NA	NA

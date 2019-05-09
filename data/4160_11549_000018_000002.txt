@@ -1,0 +1,11 @@
+Quince	1	0
+preserve	2	1
+,	NA	NA
+my	1	0
+dear	1	0
+,	NA	NA
+and	0	1
+white	2	1
+currant	1	1
+jelly	2	2
+.	NA	NA

@@ -1,0 +1,14 @@
+Did	0	1
+you	0	0
+find	2	0
+any	0	0
+old	1	1
+clothes	2	0
+of	0	2
+the	0	0
+Snake	2	1
+family	1	0
+?	NA	NA
+she	0	1
+demanded	1	2
+.	NA	NA

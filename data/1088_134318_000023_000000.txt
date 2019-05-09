@@ -1,0 +1,10 @@
+Do	0	0
+you	1	1
+see	0	0
+those	1	1
+grey	1	0
+hairs	1	2
+in	0	0
+my	1	0
+beard	2	2
+?	NA	NA

@@ -1,0 +1,7 @@
+Can	0	0
+you	0	1
+speak	2	1
+now	1	1
+,	NA	NA
+Gregg	2	2
+?	NA	NA

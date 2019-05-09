@@ -1,0 +1,14 @@
+Something	2	0
+did	0	1
+stop	1	0
+me	0	1
+;	NA	NA
+it	2	0
+was	0	0
+your	0	0
+sister	0	0
+in	0	0
+law	0	1
+,	NA	NA
+Sibyl	2	2
+.	NA	NA

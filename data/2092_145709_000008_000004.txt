@@ -1,0 +1,13 @@
+She	1	0
+nearly	0	1
+died	2	0
+with	0	1
+fright	1	2
+,	NA	NA
+but	1	0
+she	0	0
+never	1	0
+uttered	0	0
+a	0	1
+sound	1	2
+.	NA	NA

@@ -1,0 +1,8 @@
+Do	0	0
+you	0	0
+designate	2	2
+who	2	0
+is	0	1
+to	0	0
+remain	1	2
+.	NA	NA

@@ -1,0 +1,13 @@
+Huge	1	0
+mounds	1	0
+of	1	1
+bony	2	0
+fragments	1	1
+rose	2	1
+stage	1	0
+after	0	0
+stage	2	1
+in	0	0
+the	0	0
+distance	0	2
+.	NA	NA

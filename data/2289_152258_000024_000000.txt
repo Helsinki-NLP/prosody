@@ -1,0 +1,12 @@
+After	2	0
+a	0	1
+time	2	2
+the	0	0
+number	1	0
+of	0	0
+his	0	0
+followers	1	1
+began	1	0
+to	0	1
+increase	2	2
+.	NA	NA

@@ -1,0 +1,13 @@
+At	1	0
+the	1	0
+worst	1	2
+,	NA	NA
+there	2	0
+was	0	0
+one	0	0
+mitigating	1	0
+factor	1	1
+in	0	0
+it	0	0
+all	1	2
+.	NA	NA

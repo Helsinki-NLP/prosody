@@ -1,0 +1,6 @@
+It	1	0
+was	2	0
+a	0	1
+fond	2	1
+mistake	1	2
+.	NA	NA

@@ -1,0 +1,12 @@
+Beneath	1	0
+his	0	0
+deference	1	0
+and	0	0
+humbleness	0	2
+was	1	0
+hid	2	1
+the	0	0
+most	1	1
+inquisitorial	2	0
+maliciousness	1	2
+.	NA	NA

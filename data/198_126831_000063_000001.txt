@@ -1,0 +1,16 @@
+As	2	0
+he	0	0
+did	2	1
+so	1	2
+,	NA	NA
+clear	2	0
+and	0	1
+sweet	0	0
+,	NA	NA
+rang	1	0
+out	1	2
+ten	2	1
+bell	1	0
+like	0	1
+chimes	2	2
+.	NA	NA

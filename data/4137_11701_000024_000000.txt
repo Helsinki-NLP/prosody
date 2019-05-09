@@ -1,0 +1,9 @@
+He	0	0
+stopped	2	0
+suddenly	1	0
+at	0	0
+the	0	1
+expression	2	0
+on	0	1
+Belvane's	1	1
+.	NA	NA

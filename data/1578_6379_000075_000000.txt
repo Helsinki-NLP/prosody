@@ -1,0 +1,7 @@
+I	0	0
+hope	2	0
+it	0	1
+looked	1	1
+all	0	0
+right	2	2
+?	NA	NA

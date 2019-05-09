@@ -1,0 +1,7 @@
+Who	2	0
+is	0	1
+this	1	2
+?	NA	NA
+they	0	0
+asked	1	2
+.	NA	NA

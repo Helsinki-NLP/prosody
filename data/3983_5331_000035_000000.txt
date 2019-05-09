@@ -1,0 +1,17 @@
+A	0	0
+farm	2	1
+laborer's	1	2
+,	NA	NA
+the	0	0
+best	2	0
+he	0	1
+could	0	0
+adopt	1	0
+about	0	0
+here	2	2
+,	NA	NA
+with	0	0
+large	2	1
+black	1	0
+whiskers	1	2
+.	NA	NA

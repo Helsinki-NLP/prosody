@@ -1,0 +1,6 @@
+Rebecca	2	0
+Rowena	0	0
+Randall	1	1
+,	NA	NA
+sir	1	2
+.	NA	NA

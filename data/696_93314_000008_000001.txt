@@ -1,0 +1,15 @@
+It's	1	0
+all	0	0
+right	1	2
+I	2	0
+was	0	0
+a	0	0
+fool	1	2
+.	NA	NA
+Pull	2	0
+yourself	0	0
+together	1	2
+there's	2	0
+someone	0	0
+coming	1	2
+.	NA	NA

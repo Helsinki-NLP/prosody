@@ -1,0 +1,16 @@
+Count	2	1
+Ferralti	2	1
+rode	2	0
+at	0	1
+the	0	0
+side	1	0
+of	0	1
+the	0	0
+carriage	1	1
+but	0	0
+did	0	0
+not	1	0
+attempt	0	0
+much	0	1
+conversation	1	2
+.	NA	NA

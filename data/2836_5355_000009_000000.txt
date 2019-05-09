@@ -1,0 +1,5 @@
+To	0	1
+speak	1	0
+and	0	0
+act	2	2
+.	NA	NA

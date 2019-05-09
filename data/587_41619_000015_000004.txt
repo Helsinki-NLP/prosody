@@ -1,0 +1,8 @@
+mr	1	0
+Southard	0	1
+is	0	0
+shaking	1	1
+hands	2	1
+with	0	0
+her	1	2
+.	NA	NA

@@ -1,0 +1,9 @@
+No	2	0
+use	0	1
+,	NA	NA
+Drake	1	1
+,	NA	NA
+he	0	0
+said	0	0
+dreamily	2	2
+.	NA	NA

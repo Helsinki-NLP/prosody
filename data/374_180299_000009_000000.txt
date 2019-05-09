@@ -1,0 +1,10 @@
+In	0	0
+the	0	0
+same	1	0
+house	1	2
+?	NA	NA
+asked	2	0
+Prudence	0	1
+,	NA	NA
+laughing	2	2
+.	NA	NA

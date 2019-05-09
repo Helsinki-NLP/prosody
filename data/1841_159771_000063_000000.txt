@@ -1,0 +1,11 @@
+IN	2	0
+one	1	0
+way	0	1
+peter	1	0
+Mink	0	2
+was	0	0
+like	1	1
+Master	1	0
+Meadow	0	1
+Mouse	2	2
+.	NA	NA

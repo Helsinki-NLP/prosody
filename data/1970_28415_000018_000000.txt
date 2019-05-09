@@ -1,0 +1,14 @@
+In	2	0
+the	0	0
+evening	0	1
+,	NA	NA
+Jesus	2	0
+and	0	2
+the	0	0
+disciples	2	1
+returned	2	1
+to	0	0
+Bethany	1	1
+to	0	0
+sleep	2	2
+.	NA	NA

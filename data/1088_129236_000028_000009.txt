@@ -1,0 +1,13 @@
+It	0	0
+makes	1	0
+covenants	2	2
+with	0	0
+Eternal	0	0
+Power	2	0
+in	0	1
+behalf	1	0
+of	0	0
+this	0	1
+dear	1	0
+mate	2	2
+.	NA	NA

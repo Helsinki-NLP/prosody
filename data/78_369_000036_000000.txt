@@ -1,0 +1,14 @@
+But	0	0
+you	0	0
+have	1	0
+a	0	1
+husband	1	1
+and	0	0
+lovely	1	0
+children	2	2
+;	NA	NA
+you	0	0
+may	2	0
+be	0	0
+happy	1	2
+.	NA	NA

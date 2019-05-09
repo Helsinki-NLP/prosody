@@ -1,0 +1,8 @@
+A	1	0
+first	2	0
+class	1	1
+barometer	1	1
+,	NA	NA
+my	0	0
+friend	1	2
+.	NA	NA

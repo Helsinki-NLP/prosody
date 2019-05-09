@@ -1,0 +1,10 @@
+But	1	0
+this	2	0
+would	0	0
+have	0	1
+run	0	0
+against	1	0
+their	0	1
+strongest	1	0
+instincts	1	2
+.	NA	NA

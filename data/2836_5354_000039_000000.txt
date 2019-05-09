@@ -1,0 +1,6 @@
+You	0	0
+can	1	1
+look	1	0
+and	1	1
+see	2	2
+.	NA	NA

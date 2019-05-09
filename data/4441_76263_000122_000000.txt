@@ -1,0 +1,7 @@
+Because	1	0
+it's	0	1
+rotten	2	2
+!	NA	NA
+answered	0	0
+Borg	2	2
+.	NA	NA

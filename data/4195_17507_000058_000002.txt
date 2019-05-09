@@ -1,0 +1,11 @@
+I	0	0
+felt	2	0
+something	0	0
+snap	1	2
+;	NA	NA
+a	0	0
+small	2	0
+bone	0	1
+,	NA	NA
+perhaps	2	2
+.	NA	NA

@@ -1,0 +1,10 @@
+If	1	0
+so	2	2
+,	NA	NA
+he	2	0
+was	0	0
+in	0	0
+for	0	0
+an	0	1
+explanation	1	2
+.	NA	NA

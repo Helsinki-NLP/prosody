@@ -1,0 +1,9 @@
+Let	1	0
+me	1	0
+in	0	0
+on	0	1
+the	0	0
+joke	2	1
+,	NA	NA
+son	1	2
+.	NA	NA

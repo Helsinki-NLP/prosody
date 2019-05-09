@@ -1,0 +1,17 @@
+Used	1	1
+to	0	0
+call	2	1
+by	1	0
+about	1	1
+twice	2	1
+a	0	0
+week	2	0
+to	0	1
+find	0	0
+out	1	0
+if	0	1
+anything	0	0
+had	0	1
+turned	0	0
+up	2	2
+.	NA	NA

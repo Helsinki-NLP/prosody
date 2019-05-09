@@ -1,0 +1,17 @@
+Had	2	1
+we	0	0
+risen	1	0
+to	0	1
+the	0	0
+surface	1	0
+of	0	1
+the	0	0
+waves	2	2
+?	NA	NA
+Had	2	0
+we	0	1
+cleared	2	0
+the	0	0
+Ice	0	0
+Bank	1	2
+?	NA	NA

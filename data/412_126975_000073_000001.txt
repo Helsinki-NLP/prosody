@@ -1,0 +1,10 @@
+Come	0	0
+on	2	2
+!	NA	NA
+he	0	0
+cried	2	0
+in	0	1
+quite	0	0
+unusual	0	0
+excitement	1	2
+.	NA	NA

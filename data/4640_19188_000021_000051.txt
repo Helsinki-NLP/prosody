@@ -1,0 +1,10 @@
+A	1	0
+sort	2	0
+of	0	1
+mud	2	0
+was	0	1
+found	2	1
+in	0	0
+his	0	1
+stomach	2	2
+.	NA	NA

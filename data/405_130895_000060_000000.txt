@@ -1,0 +1,4 @@
+I'll	2	1
+eat	1	0
+it	0	2
+.	NA	NA

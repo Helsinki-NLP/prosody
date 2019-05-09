@@ -1,0 +1,8 @@
+Where	2	0
+is	0	1
+Kara	2	1
+?	NA	NA
+growled	0	1
+the	0	0
+stranger	1	2
+.	NA	NA

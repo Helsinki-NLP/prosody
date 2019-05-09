@@ -1,0 +1,5 @@
+And	1	0
+he	0	0
+is	0	1
+clever	2	2
+.	NA	NA

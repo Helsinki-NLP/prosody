@@ -1,0 +1,4 @@
+We	1	0
+were	0	1
+safe	2	2
+.	NA	NA

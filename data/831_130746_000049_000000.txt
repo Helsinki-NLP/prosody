@@ -1,0 +1,14 @@
+The	0	0
+two	1	0
+black	1	1
+figures	1	2
+in	0	0
+the	0	0
+broken	1	0
+light	1	2
+were	0	0
+silent	2	1
+for	1	1
+a	0	0
+space	1	2
+.	NA	NA

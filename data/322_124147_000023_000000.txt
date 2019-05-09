@@ -1,0 +1,4 @@
+That	2	1
+is	0	0
+right	1	2
+.	NA	NA

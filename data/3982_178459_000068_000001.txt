@@ -1,0 +1,6 @@
+I	0	0
+can't	2	1
+,	NA	NA
+I	1	0
+can't	2	2
+!	NA	NA

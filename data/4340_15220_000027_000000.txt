@@ -1,0 +1,5 @@
+Foot	1	0
+it	0	0
+with	0	1
+Billy	2	2
+.	NA	NA

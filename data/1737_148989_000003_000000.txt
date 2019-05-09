@@ -1,0 +1,6 @@
+'Please	2	0
+tell	0	0
+it	0	0
+at	0	1
+once	2	2
+.	NA	NA

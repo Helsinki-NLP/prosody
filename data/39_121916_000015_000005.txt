@@ -1,0 +1,6 @@
+Ours	2	0
+are	0	1
+all	0	0
+apple	1	1
+tarts	1	2
+.	NA	NA

@@ -1,0 +1,11 @@
+Mailed	1	0
+on	0	0
+receipt	0	0
+of	0	1
+price	2	0
+,	NA	NA
+fifty	0	0
+cents	1	2
+.	NA	NA
+Geo	1	2
+.	NA	NA

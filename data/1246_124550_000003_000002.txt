@@ -1,0 +1,15 @@
+She	0	0
+filed	2	1
+correspondence	1	1
+all	1	0
+day	2	2
+;	NA	NA
+then	2	0
+she	0	0
+dictated	0	0
+answers	0	1
+to	0	0
+letters	0	0
+of	0	0
+inquiry	1	2
+.	NA	NA

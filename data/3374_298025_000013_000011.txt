@@ -1,0 +1,13 @@
+I	0	0
+not	1	0
+only	0	1
+enjoyed	2	2
+,	NA	NA
+but	2	0
+I	0	0
+felt	1	0
+and	0	1
+enjoyed	2	2
+the	0	0
+enjoyment	2	2
+.	NA	NA

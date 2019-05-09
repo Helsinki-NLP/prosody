@@ -1,0 +1,5 @@
+This	2	0
+was	0	1
+too	1	1
+dreadful	1	2
+.	NA	NA

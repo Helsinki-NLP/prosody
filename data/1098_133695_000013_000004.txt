@@ -1,0 +1,16 @@
+Lord	1	0
+Warburton	2	2
+had	1	0
+been	0	0
+right	1	0
+about	0	0
+her	1	2
+;	NA	NA
+she	1	0
+was	2	1
+a	0	0
+really	1	0
+interesting	0	0
+little	0	0
+figure	1	2
+.	NA	NA

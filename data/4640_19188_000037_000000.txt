@@ -1,0 +1,3 @@
+They	2	0
+obeyed	0	2
+.	NA	NA

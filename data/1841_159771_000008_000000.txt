@@ -1,0 +1,8 @@
+Don't	2	1
+do	2	0
+that	0	2
+!	NA	NA
+he	0	0
+said	0	0
+sharply	1	2
+.	NA	NA

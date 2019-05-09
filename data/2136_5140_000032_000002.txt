@@ -1,0 +1,7 @@
+All	2	0
+outside	0	0
+was	1	0
+and	0	1
+is	2	0
+darkness	1	2
+.	NA	NA

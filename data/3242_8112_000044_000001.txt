@@ -1,0 +1,6 @@
+One	2	0
+experiment	0	1
+was	0	0
+rather	0	0
+startling	1	2
+.	NA	NA

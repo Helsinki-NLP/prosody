@@ -1,0 +1,4 @@
+Get	1	0
+there	0	1
+first	2	2
+!	NA	NA

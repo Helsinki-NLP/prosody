@@ -1,0 +1,13 @@
+Do	0	0
+whatever	2	0
+you	0	1
+can	1	0
+to	0	2
+prevent	1	0
+him	0	0
+going	0	0
+away	1	1
+until	0	0
+I	0	1
+return	2	2
+.	NA	NA

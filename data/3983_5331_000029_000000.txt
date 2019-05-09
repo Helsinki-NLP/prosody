@@ -1,0 +1,12 @@
+I	0	0
+don't	1	0
+know	1	2
+;	NA	NA
+a	1	0
+friend	2	0
+of	0	1
+Afy's	1	1
+,	NA	NA
+he	0	0
+said	1	2
+.	NA	NA

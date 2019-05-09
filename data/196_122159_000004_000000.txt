@@ -1,0 +1,8 @@
+'	NA	NA
+It	1	1
+was	0	0
+not	2	1
+,	NA	NA
+I	2	0
+admitted	0	2
+.	NA	NA

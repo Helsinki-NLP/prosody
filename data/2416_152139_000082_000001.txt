@@ -1,0 +1,5 @@
+A	0	0
+minute	1	0
+passed	1	1
+another	2	2
+.	NA	NA

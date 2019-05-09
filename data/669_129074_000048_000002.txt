@@ -1,0 +1,8 @@
+It	2	0
+was	2	0
+that	0	1
+signal	1	1
+,	NA	NA
+sure	1	0
+enough	1	2
+.	NA	NA

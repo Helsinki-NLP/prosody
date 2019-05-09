@@ -1,0 +1,4 @@
+Waiting	2	1
+for	0	0
+him	1	2
+?	NA	NA

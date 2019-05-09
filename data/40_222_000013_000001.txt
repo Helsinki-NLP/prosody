@@ -1,0 +1,9 @@
+My	2	0
+letter	1	0
+was	0	1
+from	0	0
+my	0	1
+brother	2	1
+at	0	0
+Oxford	1	2
+.	NA	NA

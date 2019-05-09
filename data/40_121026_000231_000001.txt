@@ -1,0 +1,9 @@
+Did	0	0
+you	2	0
+really	1	1
+think	1	1
+me	0	0
+capable	2	0
+of	0	1
+that	2	2
+?	NA	NA

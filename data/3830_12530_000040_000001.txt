@@ -1,0 +1,3 @@
+Such	1	0
+timber	1	2
+!	NA	NA

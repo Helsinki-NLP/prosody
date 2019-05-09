@@ -1,0 +1,13 @@
+This	2	0
+was	0	0
+the	0	0
+daughter	1	0
+of	0	2
+mr	1	0
+Austen's	1	1
+only	0	0
+sister	1	1
+,	1	0
+mrs	NA	NA
+Hancock	2	2
+.	NA	NA

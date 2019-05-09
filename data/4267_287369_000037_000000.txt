@@ -1,0 +1,4 @@
+The	0	0
+ghost	2	1
+again	1	2
+!	NA	NA

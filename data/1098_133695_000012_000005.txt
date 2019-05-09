@@ -1,0 +1,15 @@
+If	1	0
+the	0	0
+manoeuvre	2	0
+should	1	1
+succeed	2	1
+there	0	0
+would	0	1
+be	0	0
+little	1	0
+hope	1	1
+of	0	0
+any	0	0
+great	2	1
+resistance	2	2
+.	NA	NA

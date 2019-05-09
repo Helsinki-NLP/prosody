@@ -1,0 +1,7 @@
+Nobody	2	1
+can	0	0
+tell	1	1
+what	0	0
+I	0	0
+suffer	2	2
+!	NA	NA

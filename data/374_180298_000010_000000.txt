@@ -1,0 +1,11 @@
+As	0	0
+I	2	0
+have	0	1
+told	2	1
+you	1	2
+,	NA	NA
+I	1	0
+had	0	0
+little	0	0
+money	1	2
+.	NA	NA

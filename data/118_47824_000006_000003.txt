@@ -1,0 +1,5 @@
+The	0	0
+minister's	1	0
+telephoned	1	1
+Katherine	2	2
+.	NA	NA

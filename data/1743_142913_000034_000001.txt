@@ -1,0 +1,17 @@
+mr	1	0
+Wren	0	0
+just	0	0
+has	2	0
+to	0	2
+be	0	0
+busy	2	0
+about	0	1
+something	1	1
+,	NA	NA
+bless	1	0
+his	0	0
+heart	2	2
+,	NA	NA
+said	1	0
+she	1	2
+.	NA	NA

@@ -1,0 +1,12 @@
+In	1	0
+liquid	0	1
+form	2	0
+so	0	0
+it	0	0
+can	0	2
+be	0	0
+quickly	1	0
+and	0	1
+easily	0	1
+applied	2	2
+.	NA	NA

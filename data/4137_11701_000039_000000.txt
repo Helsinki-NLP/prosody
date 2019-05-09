@@ -1,0 +1,12 @@
+And	2	0
+hearing	1	0
+that	0	0
+there	0	0
+was	0	0
+to	0	1
+be	0	0
+a	0	0
+wedding	2	2
+,	NA	NA
+added	2	0
+Coronel	1	2

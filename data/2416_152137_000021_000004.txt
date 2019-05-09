@@ -1,0 +1,14 @@
+The	0	0
+other	2	0
+had	1	1
+paused	2	0
+at	0	2
+the	0	0
+corner	1	0
+and	0	0
+was	0	1
+staring	1	0
+down	0	0
+the	0	1
+street	2	2
+.	NA	NA

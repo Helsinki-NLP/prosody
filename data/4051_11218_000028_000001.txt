@@ -1,0 +1,12 @@
+It	0	0
+has	0	0
+surely	2	0
+been	0	1
+dipped	2	0
+in	0	1
+the	0	0
+richest	2	1
+gold	1	0
+of	0	1
+sunset	1	2
+.	NA	NA

@@ -1,0 +1,17 @@
+If	1	0
+mr	1	0
+Copley	1	1
+can	0	0
+secure	0	0
+apartments	2	1
+for	2	0
+us	1	2
+,	NA	NA
+I	2	0
+shall	0	0
+be	0	1
+more	0	0
+than	0	0
+grateful	1	2
+.	NA	NA
+'	NA	NA

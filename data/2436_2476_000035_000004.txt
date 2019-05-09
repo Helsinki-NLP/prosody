@@ -1,0 +1,3 @@
+Rankin	1	1
+said	0	0
+calmly	2	2

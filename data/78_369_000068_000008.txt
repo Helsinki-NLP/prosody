@@ -1,0 +1,11 @@
+I	2	0
+was	2	1
+nourished	2	1
+with	0	0
+high	1	1
+thoughts	2	1
+of	0	0
+honour	1	0
+and	0	1
+devotion	2	2
+.	NA	NA

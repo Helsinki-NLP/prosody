@@ -1,0 +1,13 @@
+Sancho	1	0
+observed	0	0
+all	2	2
+,	NA	NA
+contemplated	1	0
+all	2	2
+,	NA	NA
+and	0	0
+everything	2	0
+won	0	1
+his	0	0
+heart	2	2
+.	NA	NA

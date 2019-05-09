@@ -1,0 +1,8 @@
+His	0	0
+face	2	0
+is	0	1
+eloquent	2	1
+of	0	0
+conflicting	1	1
+considerations	2	2
+.	NA	NA

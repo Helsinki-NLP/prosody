@@ -1,0 +1,5 @@
+It	1	0
+is	0	1
+painted	0	1
+blue	2	2
+.	NA	NA

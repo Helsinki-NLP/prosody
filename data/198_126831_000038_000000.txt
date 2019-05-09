@@ -1,0 +1,10 @@
+Perhaps	2	1
+it	0	1
+is	0	0
+Emily	2	1
+King's	1	0
+ghost	0	1
+,	NA	NA
+whispered	0	0
+Felix	1	2
+.	NA	NA

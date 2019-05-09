@@ -1,0 +1,9 @@
+He'll	1	0
+find	1	0
+you	0	1
+changed	2	2
+,	NA	NA
+the	0	0
+latter	2	1
+pursued	1	2
+.	NA	NA

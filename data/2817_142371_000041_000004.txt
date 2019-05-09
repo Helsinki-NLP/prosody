@@ -1,0 +1,13 @@
+But	2	2
+I	0	0
+don't	2	0
+want	0	0
+to	0	1
+part	2	1
+with	0	0
+an	0	0
+old	0	1
+tenant	0	0
+like	0	1
+you	2	2
+.	NA	NA

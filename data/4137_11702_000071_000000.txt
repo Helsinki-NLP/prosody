@@ -1,0 +1,14 @@
+But	2	0
+as	2	1
+you	0	0
+know	1	1
+so	0	0
+much	1	1
+,	NA	NA
+you	0	0
+may	1	0
+as	0	1
+well	1	1
+know	0	0
+all	2	2
+.	NA	NA

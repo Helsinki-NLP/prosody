@@ -1,0 +1,6 @@
+Still	2	1
+it	0	0
+has	2	0
+its	0	1
+beauties	0	2
+.	NA	NA

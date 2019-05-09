@@ -1,0 +1,5 @@
+Dick	2	1
+,	NA	NA
+was	0	0
+it	0	2
+?	NA	NA

@@ -1,0 +1,6 @@
+It	0	1
+didn't	0	0
+make	0	0
+much	0	1
+difference	2	2
+.	NA	NA

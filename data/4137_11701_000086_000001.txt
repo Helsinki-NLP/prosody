@@ -1,0 +1,9 @@
+I	2	0
+will	0	0
+announce	1	1
+your	0	0
+decision	2	1
+to	0	0
+the	0	1
+Princess	2	2
+.	NA	NA

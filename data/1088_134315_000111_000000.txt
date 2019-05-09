@@ -1,0 +1,13 @@
+In	1	0
+two	2	0
+seconds	1	0
+it	0	1
+was	0	0
+open	2	2
+and	1	0
+she	0	0
+was	0	0
+examining	1	0
+its	0	1
+contents	2	2
+.	NA	NA

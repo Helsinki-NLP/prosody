@@ -1,0 +1,14 @@
+On	0	0
+the	0	0
+mountain	1	1
+desert	2	2
+one	0	0
+does	0	0
+not	0	0
+draw	0	0
+out	2	0
+a	0	1
+narrator	0	0
+with	0	1
+questions	2	2
+.	NA	NA

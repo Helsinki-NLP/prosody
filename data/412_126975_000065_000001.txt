@@ -1,0 +1,7 @@
+This	2	0
+is	0	2
+the	0	0
+end	1	0
+of	0	0
+it	0	2
+.	NA	NA

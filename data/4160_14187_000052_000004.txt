@@ -1,0 +1,6 @@
+So	2	0
+there	0	0
+the	0	1
+matter	0	0
+rests	1	2
+.	NA	NA

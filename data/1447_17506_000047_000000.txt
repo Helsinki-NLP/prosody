@@ -1,0 +1,7 @@
+Are	2	0
+you	0	0
+sure	1	1
+,	NA	NA
+Uncle	0	0
+john	1	2
+?	NA	NA

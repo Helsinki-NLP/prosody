@@ -1,0 +1,7 @@
+Has	2	0
+she	0	1
+any	0	0
+faults	2	1
+,	NA	NA
+Dinsmore	2	2
+?	NA	NA

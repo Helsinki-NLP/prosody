@@ -1,0 +1,12 @@
+The	0	1
+student	2	0
+will	0	0
+note	1	0
+the	0	1
+essential	1	0
+difference	0	1
+between	0	0
+rhythm	2	2
+and	1	0
+measure	2	2
+.	NA	NA

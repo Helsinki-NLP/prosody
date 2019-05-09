@@ -1,0 +1,9 @@
+You	0	0
+had	1	0
+your	0	1
+portfolio	2	0
+with	1	1
+you	0	0
+,	NA	NA
+then	1	2
+?	NA	NA

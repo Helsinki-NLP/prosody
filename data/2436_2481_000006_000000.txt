@@ -1,0 +1,6 @@
+Was	1	0
+it	0	0
+from	1	0
+in	0	1
+there	2	2
+?	NA	NA

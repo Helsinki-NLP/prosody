@@ -1,0 +1,10 @@
+I	0	0
+was	2	0
+offered	0	2
+five	2	0
+cents	0	0
+a	0	1
+foot	0	1
+for	0	0
+piles	2	2
+.	NA	NA

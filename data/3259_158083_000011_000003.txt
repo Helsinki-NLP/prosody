@@ -1,0 +1,13 @@
+Lawrence	0	0
+Lewis	1	1
+,	NA	NA
+Miss	0	0
+Elizabeth	1	0
+McShane	1	2
+,	NA	NA
+Miss	0	0
+Katherine	0	0
+Lincoln	1	1
+,	NA	NA
+Philadelphia	2	2
+.	NA	NA

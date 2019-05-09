@@ -1,0 +1,14 @@
+Now	2	0
+we	0	0
+shall	0	0
+go	0	0
+by	0	0
+land	1	2
+,	NA	NA
+and	0	0
+really	2	0
+begin	0	1
+to	0	0
+go	1	0
+down	1	2
+!	NA	NA

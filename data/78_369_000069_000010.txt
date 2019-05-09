@@ -1,0 +1,12 @@
+Even	0	1
+now	2	0
+my	0	1
+blood	1	1
+boils	2	0
+at	0	1
+the	0	0
+recollection	2	1
+of	0	0
+this	0	0
+injustice	2	2
+.	NA	NA

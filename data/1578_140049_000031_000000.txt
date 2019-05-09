@@ -1,0 +1,14 @@
+Yes	2	0
+,	NA	NA
+but	0	1
+WHOSE	1	1
+horse	1	1
+was	1	0
+it	0	0
+that	0	0
+took	0	0
+us	1	1
+to	0	0
+North	1	1
+Riverboro	2	2
+?	NA	NA

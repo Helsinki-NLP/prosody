@@ -1,0 +1,6 @@
+And	0	1
+so	2	2
+to	0	0
+our	1	0
+revelation	1	2
+.	NA	NA

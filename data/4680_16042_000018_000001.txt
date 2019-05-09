@@ -1,0 +1,13 @@
+A	0	0
+sort	2	0
+of	0	1
+splendid	2	1
+rectification	2	1
+had	0	0
+just	1	1
+been	0	0
+effected	1	0
+in	0	1
+his	0	0
+mind	2	2
+.	NA	NA

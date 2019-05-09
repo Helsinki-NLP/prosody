@@ -1,0 +1,6 @@
+Let	0	0
+your	0	0
+men	1	1
+come	0	0
+on	2	2
+.	NA	NA

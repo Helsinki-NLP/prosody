@@ -1,0 +1,15 @@
+Did	0	1
+you	0	0
+take	1	0
+anybody	0	0
+with	1	1
+you	0	0
+when	0	1
+you	0	0
+put	2	0
+into	0	1
+the	0	0
+port	2	0
+of	0	1
+Elba	2	2
+?	NA	NA

@@ -1,0 +1,13 @@
+Bechamel	2	0
+stood	1	0
+with	0	1
+his	0	0
+eyes	2	1
+round	1	1
+and	0	0
+his	0	0
+knuckle	2	2
+on	1	0
+his	0	1
+hips	2	2
+.	NA	NA

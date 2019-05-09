@@ -1,0 +1,11 @@
+But	1	0
+in	0	0
+the	0	0
+dark	1	2
+his	0	0
+lamb's	1	0
+eyes	2	0
+were	0	1
+mysteriously	2	1
+bright	2	2
+.	NA	NA

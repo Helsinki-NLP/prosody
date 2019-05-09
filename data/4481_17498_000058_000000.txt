@@ -1,0 +1,6 @@
+I	2	0
+won't	1	1
+go	0	0
+,	NA	NA
+daddy	1	2
+.	NA	NA

@@ -1,0 +1,4 @@
+Bobby	2	0
+agreed	0	1
+indifferently	1	2
+.	NA	NA

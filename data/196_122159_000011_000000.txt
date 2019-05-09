@@ -1,0 +1,11 @@
+'	NA	NA
+I	2	0
+would	0	0
+have	0	1
+meant	2	0
+to	0	1
+be	1	2
+,	NA	NA
+he	0	0
+retorted	1	2
+.	NA	NA

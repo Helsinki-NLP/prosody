@@ -1,0 +1,14 @@
+Now	1	0
+that	0	1
+you're	1	0
+working	0	0
+on	0	0
+the	0	1
+Newcomb	0	0
+ranch	1	2
+you	2	0
+ought	0	0
+to	0	1
+be	1	0
+there	1	2
+.	NA	NA

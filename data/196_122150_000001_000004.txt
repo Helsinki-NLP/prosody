@@ -1,0 +1,7 @@
+Besides	2	1
+,	NA	NA
+his	0	0
+prospects	1	1
+were	0	0
+good	1	2
+.	NA	NA

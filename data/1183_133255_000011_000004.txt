@@ -1,0 +1,6 @@
+Boxes	2	1
+open	1	0
+with	0	0
+a	0	1
+key	1	2
+.	NA	NA

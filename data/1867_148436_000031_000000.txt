@@ -1,0 +1,8 @@
+No	2	2
+,	NA	NA
+you	0	0
+won't	1	0
+put	0	0
+him	0	0
+up	1	2
+.	NA	NA

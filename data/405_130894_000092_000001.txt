@@ -1,0 +1,4 @@
+Had	1	0
+he	0	1
+perished	2	2
+?	NA	NA

@@ -1,0 +1,6 @@
+Surely	2	2
+you	0	0
+will	0	0
+see	0	0
+that	2	2
+.	NA	NA

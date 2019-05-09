@@ -1,0 +1,13 @@
+Ah	2	2
+,	NA	NA
+well	0	0
+,	NA	NA
+there's	2	0
+a	0	1
+deal	0	0
+to	0	1
+say	2	0
+to	0	1
+number	0	0
+three	1	2
+.	NA	NA

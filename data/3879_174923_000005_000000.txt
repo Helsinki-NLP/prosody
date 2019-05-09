@@ -1,0 +1,7 @@
+Yes	2	1
+;	NA	NA
+at	2	0
+the	0	0
+old	0	1
+game	2	2
+.	NA	NA

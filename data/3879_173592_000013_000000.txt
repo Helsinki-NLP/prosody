@@ -1,0 +1,10 @@
+The	0	1
+spring	2	0
+wore	0	0
+away	1	2
+,	NA	NA
+and	0	0
+no	1	0
+relief	0	1
+appeared	1	2
+.	NA	NA

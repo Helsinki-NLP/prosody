@@ -1,0 +1,5 @@
+Wilt	2	0
+thou	0	0
+shame	0	1
+thyself	2	2
+?	NA	NA

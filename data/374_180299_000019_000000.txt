@@ -1,0 +1,15 @@
+Then	2	0
+began	2	0
+an	0	1
+existence	2	1
+which	0	0
+I	2	0
+shall	0	0
+have	0	0
+some	1	0
+difficulty	1	0
+in	0	1
+describing	2	1
+to	0	0
+you	1	2
+.	NA	NA

@@ -1,0 +1,5 @@
+Good	2	0
+by	0	1
+,	NA	NA
+darling	0	2
+.	NA	NA

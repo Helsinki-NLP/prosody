@@ -1,0 +1,4 @@
+Most	2	1
+sincerely	1	0
+yours	0	2
+,	NA	NA

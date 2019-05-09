@@ -1,0 +1,11 @@
+Their	1	0
+clothing	2	1
+is	0	0
+full	1	0
+of	0	1
+rosin	2	0
+and	0	2
+never	0	0
+wears	0	0
+out	1	2
+.	NA	NA

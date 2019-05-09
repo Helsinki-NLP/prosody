@@ -1,0 +1,13 @@
+They	1	0
+got	0	0
+up	2	2
+and	0	0
+wandered	1	1
+back	1	0
+along	1	0
+Wiggs's	0	0
+,	NA	NA
+hand	2	0
+in	0	0
+hand	1	2
+.	NA	NA

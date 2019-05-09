@@ -1,0 +1,6 @@
+I	0	0
+never	2	0
+could	0	1
+find	0	1
+out	2	2
+.	NA	NA

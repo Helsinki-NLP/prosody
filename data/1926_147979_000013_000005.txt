@@ -1,0 +1,13 @@
+He	0	0
+could	1	0
+always	0	1
+detect	2	2
+the	0	0
+presence	2	1
+of	0	0
+any	1	0
+one	0	0
+in	0	1
+a	0	0
+room	2	2
+.	NA	NA

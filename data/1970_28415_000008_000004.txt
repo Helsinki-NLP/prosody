@@ -1,0 +1,6 @@
+It	2	0
+was	0	0
+a	0	1
+royal	2	0
+welcome	1	2
+.	NA	NA

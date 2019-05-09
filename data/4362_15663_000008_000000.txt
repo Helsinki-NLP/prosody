@@ -1,0 +1,16 @@
+The	0	0
+frost	2	0
+was	0	1
+intense	1	1
+,	NA	NA
+and	0	0
+drifting	1	0
+snow	1	0
+dust	0	1
+made	0	0
+breathing	2	0
+at	0	1
+times	1	0
+rather	1	0
+difficult	1	2
+.	NA	NA

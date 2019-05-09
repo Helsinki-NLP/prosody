@@ -1,0 +1,13 @@
+Right	2	1
+.	NA	NA
+My	2	0
+own	0	0
+breathing	0	0
+was	0	1
+growing	1	0
+labored	1	2
+,	NA	NA
+WE'LL	2	1
+hold	1	0
+them	0	2
+.	NA	NA

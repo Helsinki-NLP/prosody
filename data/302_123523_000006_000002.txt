@@ -1,0 +1,14 @@
+These	1	0
+two	0	0
+stopped	1	0
+at	0	1
+the	0	0
+foot	2	0
+of	0	0
+the	0	1
+throne	1	2
+,	NA	NA
+facing	2	1
+Than	0	0
+Kosis	1	2
+.	NA	NA

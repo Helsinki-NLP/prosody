@@ -1,0 +1,11 @@
+Yes	1	1
+,	NA	NA
+there	0	0
+can	2	2
+;	NA	NA
+for	0	0
+mine	2	0
+is	0	1
+totally	0	0
+different	2	2
+.	NA	NA

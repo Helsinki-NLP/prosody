@@ -1,0 +1,5 @@
+Don't	2	1
+,	NA	NA
+Graham	0	0
+said	1	2
+.	NA	NA

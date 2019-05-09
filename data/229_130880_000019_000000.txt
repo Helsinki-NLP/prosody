@@ -1,0 +1,4 @@
+Hardly	2	1
+,	NA	NA
+professor	1	2
+.	NA	NA

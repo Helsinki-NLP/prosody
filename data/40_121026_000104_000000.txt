@@ -1,0 +1,7 @@
+Now	2	2
+as	2	0
+regards	0	1
+the	0	0
+second	1	0
+question	0	2
+.	NA	NA

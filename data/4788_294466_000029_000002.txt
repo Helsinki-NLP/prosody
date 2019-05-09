@@ -1,0 +1,12 @@
+On	1	0
+their	0	0
+right	2	0
+was	0	2
+the	0	0
+corner	1	0
+general	0	1
+store	1	0
+and	0	1
+post	1	0
+office	1	2
+.	NA	NA

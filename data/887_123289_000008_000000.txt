@@ -1,0 +1,17 @@
+What	1	0
+happened	2	0
+when	0	1
+the	0	0
+raft	1	0
+was	0	2
+dashed	2	0
+upon	0	1
+the	0	0
+rocks	0	1
+is	0	0
+more	2	0
+than	0	1
+I	0	0
+can	0	1
+tell	2	2
+.	NA	NA

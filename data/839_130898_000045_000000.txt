@@ -1,0 +1,17 @@
+If	1	0
+it	0	0
+was	0	0
+going	1	0
+to	0	0
+enter	0	0
+the	0	1
+English	0	0
+Channel	1	2
+,	NA	NA
+it	1	0
+clearly	2	0
+needed	0	1
+to	0	0
+head	0	0
+east	1	2
+.	NA	NA

@@ -1,0 +1,13 @@
+She	0	0
+is	0	1
+my	0	0
+governess	2	1
+a	0	0
+finishing	2	0
+governess	1	1
+,	1	0
+mrs	NA	NA
+Rusk	1	1
+says	2	2
+.	NA	NA
+'	NA	NA

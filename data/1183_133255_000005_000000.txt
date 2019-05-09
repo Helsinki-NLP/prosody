@@ -1,0 +1,4 @@
+GILT	2	1
+EDGE	2	0
+Oil	0	1
+Polish	1	2

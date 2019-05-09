@@ -1,0 +1,6 @@
+This	0	0
+speech	1	0
+frightened	2	1
+the	0	0
+woman	1	2
+.	NA	NA

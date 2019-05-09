@@ -1,0 +1,16 @@
+The	0	0
+fisherman	2	0
+looked	0	1
+around	2	0
+and	0	2
+was	0	0
+almost	0	0
+startled	2	1
+by	0	0
+the	0	1
+fierce	1	0
+gaze	2	0
+of	0	1
+his	0	0
+questioner	2	2
+.	NA	NA

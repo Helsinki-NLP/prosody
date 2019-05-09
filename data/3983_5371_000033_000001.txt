@@ -1,0 +1,9 @@
+Look	2	0
+at	0	0
+the	0	1
+two	1	0
+,	NA	NA
+and	0	1
+contrast	2	1
+them	1	2
+.	NA	NA

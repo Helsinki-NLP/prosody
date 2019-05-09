@@ -1,0 +1,16 @@
+OUR	2	1
+selling	1	1
+the	0	0
+three	0	0
+hundred	0	0
+cakes	1	1
+,	NA	NA
+corrected	0	0
+Rebecca	0	1
+;	NA	NA
+you	0	0
+did	2	0
+as	0	0
+much	0	1
+as	0	0
+i	2	2

@@ -1,0 +1,10 @@
+Oh	2	0
+,	NA	NA
+I	0	0
+have	0	1
+my	0	0
+ideas	2	2
+,	NA	NA
+said	0	0
+Coronel	1	2
+.	NA	NA

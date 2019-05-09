@@ -1,0 +1,13 @@
+Yes	2	0
+,	NA	NA
+gentlemen	1	2
+,	NA	NA
+I	0	0
+know	2	0
+all	0	0
+these	0	1
+things	0	1
+,	NA	NA
+and	0	0
+more	2	2
+.	NA	NA

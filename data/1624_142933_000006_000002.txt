@@ -1,0 +1,13 @@
+He	2	0
+and	1	0
+mrs	0	1
+Rosebreast	1	1
+have	0	0
+been	0	0
+here	1	1
+for	0	0
+quite	1	0
+a	0	0
+little	0	1
+while	2	2
+.	NA	NA

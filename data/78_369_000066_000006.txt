@@ -1,0 +1,8 @@
+Nay	2	1
+,	NA	NA
+then	0	0
+I	0	0
+was	0	0
+not	1	1
+miserable	2	2
+.	NA	NA

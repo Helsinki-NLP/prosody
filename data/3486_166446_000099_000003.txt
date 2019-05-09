@@ -1,0 +1,11 @@
+I	1	0
+shall	0	0
+leave	0	0
+these	1	1
+to	0	0
+guard	2	0
+you	1	2
+and	0	0
+obey	2	0
+you	1	2
+.	NA	NA

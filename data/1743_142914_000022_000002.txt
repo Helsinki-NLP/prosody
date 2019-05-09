@@ -1,0 +1,15 @@
+I	0	0
+don't	0	0
+see	2	0
+any	0	1
+nest	2	0
+or	0	2
+eggs	2	0
+or	0	0
+anything	1	0
+,	NA	NA
+said	1	0
+he	0	0
+rather	0	1
+testily	1	2
+.	NA	NA

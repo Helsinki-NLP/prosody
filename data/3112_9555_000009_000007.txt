@@ -1,0 +1,17 @@
+I	0	0
+do	0	0
+not	0	0
+doubt	2	1
+that	0	0
+I	0	0
+was	0	1
+dirty	1	2
+;	NA	NA
+but	2	0
+I	0	0
+think	0	0
+that	0	0
+he	0	0
+was	0	1
+cruel	2	2
+.	NA	NA

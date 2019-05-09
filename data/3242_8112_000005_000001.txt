@@ -1,0 +1,5 @@
+She	0	0
+looked	2	0
+into	0	1
+it	1	2
+.	NA	NA

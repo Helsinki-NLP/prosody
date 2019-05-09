@@ -1,0 +1,6 @@
+It	2	0
+was	0	1
+from	2	1
+the	0	0
+doctor	1	2
+.	NA	NA

@@ -1,0 +1,13 @@
+Conquest	2	1
+,	NA	NA
+gold	2	0
+,	NA	NA
+and	0	1
+military	1	1
+occupation	1	2
+had	0	0
+alone	2	0
+been	0	0
+their	0	0
+aims	0	2
+.	NA	NA

@@ -1,0 +1,8 @@
+Graham's	2	1
+Extract	1	2
+It	1	0
+Makes	0	0
+the	0	0
+Weak	1	1
+Strong	2	2
+.	NA	NA

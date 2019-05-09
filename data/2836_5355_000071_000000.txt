@@ -1,0 +1,4 @@
+I	0	0
+believe	0	1
+so	2	2
+.	NA	NA

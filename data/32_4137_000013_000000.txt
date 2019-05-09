@@ -1,0 +1,6 @@
+Geemes	2	2
+,	NA	NA
+answered	1	0
+the	0	0
+man	0	2
+.	NA	NA

@@ -1,0 +1,4 @@
+No	2	1
+,	NA	NA
+Bill	1	2
+.	NA	NA

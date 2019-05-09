@@ -1,0 +1,6 @@
+The	0	1
+weakness	0	0
+of	0	1
+a	0	0
+murderer	2	2
+!	NA	NA

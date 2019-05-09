@@ -1,0 +1,3 @@
+He	0	0
+pondered	2	2
+.	NA	NA

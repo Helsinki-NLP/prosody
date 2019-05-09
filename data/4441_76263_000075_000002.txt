@@ -1,0 +1,9 @@
+But	0	0
+how	2	0
+is	0	0
+it	0	1
+to	0	0
+be	0	0
+paid	1	1
+back	2	2
+?	NA	NA

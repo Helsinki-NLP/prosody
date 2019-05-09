@@ -1,0 +1,4 @@
+How	0	1
+much	0	0
+longer	2	2
+?	NA	NA

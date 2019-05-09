@@ -1,0 +1,7 @@
+I'm	2	0
+very	1	0
+glad	0	1
+to	0	0
+see	1	0
+you	0	2
+.	NA	NA

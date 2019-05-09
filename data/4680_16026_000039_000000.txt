@@ -1,0 +1,11 @@
+Ah	1	1
+,	NA	NA
+see	0	0
+here	1	2
+,	NA	NA
+what	1	0
+are	0	0
+you	0	0
+about	2	1
+there	0	2
+?	NA	NA

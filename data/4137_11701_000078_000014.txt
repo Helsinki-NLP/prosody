@@ -1,0 +1,14 @@
+The	0	0
+poor	2	0
+woman	0	1
+had	0	0
+misunderstood	1	0
+him	1	2
+,	NA	NA
+and	1	0
+she	0	0
+should	0	0
+not	2	0
+be	0	1
+disappointed	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+There	2	0
+was	0	1
+no	1	0
+one	0	0
+else	0	2
+to	0	0
+undertake	1	0
+it	0	2
+.	NA	NA

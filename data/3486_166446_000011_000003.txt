@@ -1,0 +1,7 @@
+It	1	0
+was	0	1
+the	0	0
+mark	2	2
+of	0	0
+torture	2	2
+!	NA	NA

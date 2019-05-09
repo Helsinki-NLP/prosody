@@ -1,0 +1,13 @@
+Of	0	0
+course	1	0
+men	0	1
+were	0	0
+always	0	0
+anxious	1	2
+for	0	0
+office	2	0
+as	0	1
+they	0	0
+are	1	1
+now	2	2
+.	NA	NA

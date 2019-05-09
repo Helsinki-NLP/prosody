@@ -1,0 +1,14 @@
+Their	0	0
+chief	1	0
+was	0	1
+Sir	0	0
+john	1	0
+Hawkins	0	2
+,	NA	NA
+father	2	1
+of	0	0
+the	1	0
+English	0	0
+slave	1	0
+trade	0	2
+.	NA	NA

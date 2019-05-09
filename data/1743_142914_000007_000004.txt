@@ -1,0 +1,12 @@
+You'll	1	1
+excuse	2	1
+me	0	0
+while	0	0
+I	0	1
+go	0	0
+on	0	1
+eating	1	0
+,	NA	NA
+I	1	1
+hope	2	2
+.	NA	NA

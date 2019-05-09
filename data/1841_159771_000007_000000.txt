@@ -1,0 +1,6 @@
+Solomon	2	0
+Owl	1	1
+stopped	1	0
+him	0	1
+quickly	2	2
+.	NA	NA

@@ -1,0 +1,15 @@
+He's	2	1
+building	2	0
+that	0	1
+nest	1	1
+to	0	0
+take	1	0
+up	0	0
+his	0	1
+time	1	0
+and	0	1
+keep	0	0
+out	0	0
+of	0	1
+mischief	2	2
+.	NA	NA

@@ -1,0 +1,17 @@
+He	0	0
+had	1	0
+given	1	0
+his	0	1
+heavier	1	0
+cannon	0	1
+to	0	0
+Hawkins	2	2
+,	NA	NA
+and	0	0
+only	1	1
+two	0	0
+field	1	0
+pieces	0	1
+were	0	0
+left	2	2
+.	NA	NA

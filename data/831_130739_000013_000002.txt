@@ -1,0 +1,14 @@
+To	0	0
+which	0	1
+initial	1	0
+fact	2	2
+among	2	0
+others	0	2
+we	0	0
+shall	1	0
+come	1	1
+again	2	0
+in	0	1
+the	0	0
+end	1	2
+.	NA	NA

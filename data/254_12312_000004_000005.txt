@@ -1,0 +1,15 @@
+The	0	0
+suborners	2	1
+of	0	0
+men	1	1
+are	0	0
+the	0	0
+makers	1	0
+of	0	0
+matches	1	2
+,	NA	NA
+which	2	1
+are	0	0
+commonly	1	0
+friends	1	2
+.	NA	NA

@@ -1,0 +1,14 @@
+And	1	0
+you	0	0
+tell	1	0
+me	0	0
+this	0	1
+magistrate	1	1
+expressed	1	1
+great	2	1
+sympathy	2	0
+and	0	1
+commiseration	2	1
+for	0	0
+you	2	2
+?	NA	NA

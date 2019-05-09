@@ -1,0 +1,3 @@
+Take	1	1
+care	1	2
+!	NA	NA

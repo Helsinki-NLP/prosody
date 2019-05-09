@@ -1,0 +1,4 @@
+He	0	0
+seemed	1	1
+thoughtful	2	2
+.	NA	NA

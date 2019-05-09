@@ -1,0 +1,17 @@
+That	2	0
+was	0	1
+one	1	0
+degree	0	0
+gained	2	2
+.	NA	NA
+Two	2	0
+hours	0	0
+later	0	0
+the	0	1
+thermometer	1	0
+gave	1	0
+only	0	0
+minus	1	0
+four	0	0
+degrees	1	2
+.	NA	NA

@@ -1,0 +1,16 @@
+But	0	0
+the	0	1
+stately	2	0
+minuet	1	1
+still	2	0
+reigned	0	1
+supreme	1	2
+;	NA	NA
+and	2	0
+every	0	0
+regular	0	0
+ball	0	1
+commenced	1	1
+with	0	0
+it	1	2
+.	NA	NA

@@ -1,0 +1,6 @@
+The	0	1
+dr	2	1
+d	0	0
+p	0	0
+Ordway	0	0
+Plasters	2	2

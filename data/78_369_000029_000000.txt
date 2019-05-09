@@ -1,0 +1,13 @@
+Our	1	0
+conversations	2	1
+are	0	0
+not	0	0
+always	1	1
+confined	2	2
+to	0	0
+his	0	0
+own	1	0
+history	0	0
+and	0	1
+misfortunes	1	2
+.	NA	NA

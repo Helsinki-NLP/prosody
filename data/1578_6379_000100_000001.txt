@@ -1,0 +1,6 @@
+He	0	0
+wears	1	1
+blue	1	0
+silk	1	1
+suspenders	2	2
+.	NA	NA

@@ -1,0 +1,10 @@
+But	1	0
+I	0	0
+tell	2	0
+you	0	2
+,	NA	NA
+you	0	0
+must	2	1
+not	1	1
+proceed	1	2
+.	NA	NA

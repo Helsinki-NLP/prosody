@@ -1,0 +1,7 @@
+Then	1	0
+what	0	0
+happened	0	1
+?	NA	NA
+Priscilla	0	0
+asked	2	2
+.	NA	NA

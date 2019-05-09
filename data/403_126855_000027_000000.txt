@@ -1,0 +1,4 @@
+It's	0	0
+all	0	0
+right	2	2
+!	NA	NA

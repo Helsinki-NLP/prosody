@@ -1,0 +1,10 @@
+I	0	0
+called	2	0
+at	0	1
+his	0	0
+anjitsu	2	1
+on	0	0
+the	0	0
+hill	2	0
+yonder	1	2
+.	NA	NA

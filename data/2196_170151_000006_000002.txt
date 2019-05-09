@@ -1,0 +1,7 @@
+In	0	1
+discovering	2	0
+America	0	1
+Columbus	1	0
+failed	0	0
+absolutely	1	2
+.	NA	NA

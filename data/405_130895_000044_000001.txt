@@ -1,0 +1,15 @@
+The	0	0
+Nautilus	2	0
+would	0	1
+do	0	0
+long	1	1
+,	NA	NA
+diagonal	1	0
+dives	1	2
+that	0	0
+took	0	0
+us	0	0
+to	0	1
+every	2	0
+level	1	2
+.	NA	NA

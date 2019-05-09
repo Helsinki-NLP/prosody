@@ -1,0 +1,5 @@
+Had	2	0
+they	0	0
+no	0	1
+shame	2	2
+?	NA	NA

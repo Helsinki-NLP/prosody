@@ -1,0 +1,10 @@
+I	2	0
+have	0	1
+heard	2	0
+of	0	1
+him	0	0
+,	NA	NA
+said	1	0
+the	0	1
+girl	1	2
+.	NA	NA

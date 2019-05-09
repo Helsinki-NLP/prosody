@@ -1,0 +1,6 @@
+He	2	1
+can	0	0
+not	1	1
+refuse	1	0
+it	1	2
+.	NA	NA

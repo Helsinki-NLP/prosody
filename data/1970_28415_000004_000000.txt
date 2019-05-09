@@ -1,0 +1,11 @@
+Jesus	2	1
+got	0	0
+on	0	0
+the	0	0
+donkey	1	0
+,	NA	NA
+and	0	1
+started	1	1
+for	0	0
+Jerusalem	2	2
+.	NA	NA

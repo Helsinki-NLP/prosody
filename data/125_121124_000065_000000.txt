@@ -1,0 +1,8 @@
+Pardon	2	0
+me	0	1
+,	NA	NA
+count	1	1
+,	NA	NA
+pardon	2	0
+me	1	2
+.	NA	NA

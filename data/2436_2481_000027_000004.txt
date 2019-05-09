@@ -1,0 +1,11 @@
+She	0	0
+might	2	1
+die	2	1
+.	NA	NA
+.	NA	NA
+.	NA	NA
+murdered	2	2
+.	NA	NA
+.	NA	NA
+.	NA	NA
+.	NA	NA

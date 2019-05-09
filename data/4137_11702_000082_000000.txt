@@ -1,0 +1,11 @@
+Merriwig	2	1
+,	NA	NA
+however	0	1
+,	NA	NA
+was	0	0
+not	1	0
+so	0	0
+sure	1	0
+of	0	1
+that	1	2
+.	NA	NA

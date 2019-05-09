@@ -1,0 +1,8 @@
+Blackwood	1	0
+and	0	1
+Sons	0	1
+in	1	0
+eighteen	1	0
+eighty	0	0
+four	2	2
+.	NA	NA

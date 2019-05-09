@@ -1,0 +1,12 @@
+I'll	2	0
+answer	0	0
+your	0	2
+question	1	0
+if	0	1
+you	1	0
+answer	0	1
+a	0	0
+question	1	0
+of	0	1
+mine	2	2
+.	NA	NA

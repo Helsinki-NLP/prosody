@@ -1,0 +1,11 @@
+A	0	0
+flush	2	1
+,	NA	NA
+deep	1	0
+and	0	0
+painful	1	0
+,	NA	NA
+dyed	1	0
+her	0	0
+cheeks	1	2
+.	NA	NA

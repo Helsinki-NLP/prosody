@@ -1,0 +1,11 @@
+He	0	0
+had	0	0
+a	0	0
+large	2	0
+heat	0	0
+ray	0	2
+projector	2	1
+in	0	0
+his	0	0
+hand	2	2
+.	NA	NA

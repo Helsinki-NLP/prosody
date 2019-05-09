@@ -1,0 +1,8 @@
+Despair	2	1
+,	NA	NA
+also	2	0
+,	NA	NA
+has	0	0
+its	0	0
+ecstasy	1	2
+.	NA	NA

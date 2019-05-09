@@ -1,0 +1,9 @@
+But	0	0
+I	0	0
+could	1	0
+not	0	1
+wait	2	1
+there	2	1
+for	0	0
+them	1	2
+.	NA	NA

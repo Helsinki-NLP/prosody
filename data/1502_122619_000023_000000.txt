@@ -1,0 +1,16 @@
+The	2	1
+Lenape	0	0
+are	0	1
+rulers	2	1
+of	0	0
+their	0	0
+own	1	1
+hills	1	2
+,	NA	NA
+returned	0	0
+the	0	0
+other	1	0
+a	0	0
+little	0	1
+haughtily	2	2
+.	NA	NA

@@ -1,0 +1,7 @@
+Weird	1	0
+beasties	0	1
+!	NA	NA
+But	2	1
+let's	2	0
+see	0	2
+.	NA	NA

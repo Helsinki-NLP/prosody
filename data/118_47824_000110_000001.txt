@@ -1,0 +1,6 @@
+I	0	0
+must	1	1
+consider	0	0
+every	0	2
+possibility	2	2
+.	NA	NA

@@ -1,0 +1,4 @@
+You've	1	0
+given	1	0
+up	2	2
+.	NA	NA

@@ -1,0 +1,17 @@
+The	0	0
+eggs	2	1
+were	0	0
+nearly	1	0
+uniform	0	0
+in	0	2
+size	2	2
+being	0	0
+about	2	1
+two	0	0
+and	0	1
+one	0	0
+half	1	0
+feet	0	1
+in	0	0
+diameter	2	2
+.	NA	NA

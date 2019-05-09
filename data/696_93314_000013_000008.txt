@@ -1,0 +1,9 @@
+And	0	0
+many	0	0
+of	0	1
+them	2	1
+well	0	0
+off	2	1
+,	NA	NA
+too	2	2
+.	NA	NA

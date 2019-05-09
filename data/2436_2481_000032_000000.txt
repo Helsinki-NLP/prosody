@@ -1,0 +1,4 @@
+Wasn't	1	0
+it	0	1
+sealed	2	2
+?	NA	NA

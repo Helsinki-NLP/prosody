@@ -1,0 +1,3 @@
+THE	1	0
+SIXTH	1	1
+REMOVE	2	2

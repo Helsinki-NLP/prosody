@@ -1,0 +1,8 @@
+On	0	0
+the	0	0
+fishing	1	1
+itself	2	1
+?	NA	NA
+I	0	0
+asked	1	2
+.	NA	NA

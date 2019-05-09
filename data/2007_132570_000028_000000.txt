@@ -1,0 +1,17 @@
+'Credit	1	0
+them	1	1
+,	NA	NA
+ma'amselle	2	2
+!	NA	NA
+why	2	1
+all	1	0
+the	0	1
+world	2	1
+could	0	0
+not	1	0
+persuade	1	1
+me	0	0
+out	1	0
+of	0	0
+them	2	2
+.	NA	NA

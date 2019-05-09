@@ -1,0 +1,5 @@
+But	0	0
+this	1	1
+moved	2	1
+him	1	2
+.	NA	NA

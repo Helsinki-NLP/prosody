@@ -1,0 +1,15 @@
+He	0	0
+didn't	1	0
+like	2	0
+to	0	1
+admit	2	1
+that	0	0
+he	0	0
+couldn't	1	1
+recall	2	0
+those	0	0
+two	0	1
+cousins	2	1
+of	0	0
+Chebec's	1	2
+.	NA	NA

@@ -1,0 +1,11 @@
+Your	2	1
+precious	1	1
+Countess	1	1
+,	NA	NA
+whom	0	0
+you	0	0
+expect	1	0
+me	0	1
+to	0	0
+marry	2	2
+.	NA	NA

@@ -1,0 +1,5 @@
+The	0	0
+Administration	1	1
+chose	1	1
+suppression	1	2
+.	NA	NA

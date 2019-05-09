@@ -1,0 +1,7 @@
+On	1	0
+the	0	1
+bicycle	1	1
+?	NA	NA
+she	0	0
+asked	2	2
+.	NA	NA

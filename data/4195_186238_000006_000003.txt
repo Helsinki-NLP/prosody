@@ -1,0 +1,16 @@
+Uncle	0	0
+john	1	0
+walked	0	0
+in	1	2
+,	NA	NA
+although	2	0
+the	0	0
+uniformed	0	0
+official	0	0
+at	0	1
+the	0	0
+door	1	0
+eyed	1	0
+him	0	1
+suspiciously	1	2
+.	NA	NA

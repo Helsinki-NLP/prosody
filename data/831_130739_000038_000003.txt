@@ -1,0 +1,9 @@
+You	0	0
+mind	1	0
+just	1	0
+a	0	2
+few	1	0
+little	0	1
+things	1	0
+like	0	1
+that	2	2

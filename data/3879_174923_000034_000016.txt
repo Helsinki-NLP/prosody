@@ -1,0 +1,6 @@
+I	0	1
+complain	2	0
+of	0	1
+no	2	0
+injustice	1	2
+.	NA	NA

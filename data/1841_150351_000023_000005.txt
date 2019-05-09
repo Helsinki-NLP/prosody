@@ -1,0 +1,17 @@
+It	1	0
+must	1	0
+require	2	0
+the	0	2
+united	1	0
+strength	1	0
+of	0	1
+many	0	0
+men	1	1
+to	0	0
+roll	1	0
+such	0	0
+a	0	0
+log	2	1
+into	0	0
+position	2	2
+.	NA	NA

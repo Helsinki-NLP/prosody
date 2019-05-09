@@ -1,0 +1,14 @@
+Tears	2	1
+filled	1	0
+her	0	0
+eyes	0	1
+,	NA	NA
+and	0	0
+even	1	0
+ran	0	0
+down	0	1
+her	0	0
+cheeks	2	1
+as	0	0
+she	0	0
+sat	2	2

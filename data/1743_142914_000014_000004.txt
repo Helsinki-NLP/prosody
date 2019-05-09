@@ -1,0 +1,10 @@
+That's	2	1
+the	0	0
+way	0	0
+I	1	1
+get	2	0
+them	0	1
+,	NA	NA
+said	0	1
+he	2	2
+.	NA	NA

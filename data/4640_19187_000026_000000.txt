@@ -1,0 +1,8 @@
+What	2	0
+is	0	1
+the	0	0
+cat	2	1
+?	NA	NA
+he	0	1
+exclaimed	1	2
+.	NA	NA

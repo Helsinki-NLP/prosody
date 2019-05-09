@@ -1,0 +1,11 @@
+As	0	0
+he	0	0
+walked	2	2
+he	0	0
+began	1	0
+to	0	1
+stamp	2	1
+with	0	0
+his	0	1
+heels	2	2
+.	NA	NA

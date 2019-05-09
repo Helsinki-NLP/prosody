@@ -36,15 +36,22 @@ def main():
 
     criterion = nn.CrossEntropyLoss(ignore_index=0)
 
+    # Print the model
+    print('Model:\n')
+    print(model)
+    print('\n')
+    params = sum([p.numel() for p in model.parameters()])
+    print('Parameters: {}'.format(params))
+
     train(model, train_iter, optimizer, criterion)
     evaluate(model, test_iter, tag_to_index, index_to_tag)
 
 
 def train(model, iterator, optimizer, criterion):
+    print('\nTraining started...\n')
     model.train()
     for i, batch in enumerate(iterator):
-        words, x, is_heads, tags, y, seqlens = batch
-        _y = y # for monitoring
+        words, x, tags, y, seqlens = batch
         optimizer.zero_grad()
         logits, y, _ = model(x, y) # logits: (N, T, VOCAB), y: (N, T)
 
@@ -56,22 +63,23 @@ def train(model, iterator, optimizer, criterion):
 
         optimizer.step()
 
-        if i%100==0: # monitoring
+        if i % 10 == 0:
             print("step: {}, loss: {}".format(i, loss.item()))
 
 
 def evaluate(model, iterator, tag_to_index, index_to_tag):
+    print('\nEvaluation started...\n')
+
     model.eval()
 
-    words, is_heads, Tags, Y, Y_hat = [], [], [], [], []
+    Words, Tags, Y, Y_hat = [], [], [], []
     with torch.no_grad():
         for i, batch in enumerate(iterator):
-            words, x, is_heads, tags, y, seqlens = batch
+            words, x, tags, y, seqlens = batch
 
             _, _, y_hat = model(x, y)  # y_hat: (N, T)
 
-            words.extend(words)
-            is_heads.extend(is_heads)
+            Words.extend(words)
             Tags.extend(tags)
             Y.extend(y.numpy().tolist())
             Y_hat.extend(y_hat.cpu().numpy().tolist())
@@ -79,10 +87,9 @@ def evaluate(model, iterator, tag_to_index, index_to_tag):
     # gets results and save
     with open("result.txt", 'w') as results:
         for words, tags, y_hat in zip(words, Tags, Y_hat):
-            #y_hat = [hat for head, hat in zip(is_heads, y_hat) if head == 1]
             preds = [index_to_tag[hat] for hat in y_hat]
             assert len(preds) == len(words.split()) == len(tags.split())
-            for w, t, p in zip(words.split(), tags.split(), preds):
+            for w, t, p in zip(words.split()[1:-1], tags.split()[1:-1], preds):
                 results.write("{} {} {}\n".format(w, t, p))
             results.write("\n")
 

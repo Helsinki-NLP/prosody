@@ -1,0 +1,7 @@
+Oh	0	0
+NO	2	1
+you	2	1
+you	0	0
+don't	2	0
+understand	1	2
+.	NA	NA

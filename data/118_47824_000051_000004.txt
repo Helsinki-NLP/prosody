@@ -1,0 +1,9 @@
+The	0	0
+words	2	0
+came	1	1
+,	NA	NA
+nevertheless	2	2
+,	NA	NA
+with	0	0
+some	1	0
+difficulty	1	2

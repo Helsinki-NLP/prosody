@@ -1,0 +1,12 @@
+And	0	1
+now	2	0
+I	0	1
+must	1	1
+part	2	0
+with	0	1
+that	1	0
+little	0	0
+company	1	1
+I	0	0
+had	2	2
+.	NA	NA

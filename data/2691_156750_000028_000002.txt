@@ -1,0 +1,13 @@
+I	2	0
+was	0	1
+satisfied	1	0
+just	0	1
+to	1	0
+look	1	0
+at	0	0
+them	0	0
+and	0	2
+hear	2	0
+them	0	1
+speak	2	2
+.	NA	NA

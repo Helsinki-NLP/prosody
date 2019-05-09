@@ -1,0 +1,17 @@
+Yes	2	1
+,	NA	NA
+I	0	0
+don't	1	0
+like	0	0
+a	0	1
+cow	2	0
+in	0	0
+a	0	1
+composition	1	0
+,	NA	NA
+said	1	0
+the	0	1
+difficult	1	0
+Miss	0	1
+Dearborn	2	2
+.	NA	NA

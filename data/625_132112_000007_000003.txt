@@ -1,0 +1,10 @@
+I	0	0
+don't	1	0
+know	1	2
+,	NA	NA
+what	2	0
+is	0	0
+it	0	1
+,	NA	NA
+Sam	1	2
+?	NA	NA

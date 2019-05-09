@@ -1,0 +1,6 @@
+Then	0	0
+she	0	0
+smiled	2	0
+at	0	2
+Quillan	2	2
+.	NA	NA

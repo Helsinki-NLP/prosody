@@ -1,0 +1,5 @@
+Bibbs	2	1
+!	NA	NA
+she	0	0
+cried	1	2
+.	NA	NA

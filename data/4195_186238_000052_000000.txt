@@ -1,0 +1,12 @@
+Uncle	0	0
+john	2	0
+did	0	1
+not	1	0
+seem	0	1
+to	0	0
+be	0	0
+worrying	1	0
+over	0	0
+his	0	1
+idleness	2	2
+.	NA	NA

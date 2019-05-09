@@ -1,0 +1,5 @@
+Check	0	2
+,	NA	NA
+old	1	0
+boy	1	2
+!	NA	NA

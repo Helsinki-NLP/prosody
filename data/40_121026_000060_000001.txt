@@ -1,0 +1,7 @@
+And	0	0
+what	2	0
+was	0	1
+this	1	0
+man's	0	0
+name	1	2
+?	NA	NA

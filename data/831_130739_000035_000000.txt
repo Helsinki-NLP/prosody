@@ -1,0 +1,11 @@
+Avoid	1	0
+running	0	0
+over	0	1
+dogs	2	1
+,	NA	NA
+Hoopdriver	2	1
+,	NA	NA
+whatever	2	0
+you	0	0
+do	2	2
+.	NA	NA

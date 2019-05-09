@@ -1,0 +1,6 @@
+So	2	1
+,	NA	NA
+answered	1	0
+the	0	0
+abbe	0	2
+.	NA	NA

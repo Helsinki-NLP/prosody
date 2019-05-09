@@ -1,0 +1,8 @@
+And	2	0
+he	0	0
+rushed	1	1
+headlong	2	1
+to	0	0
+the	0	0
+window	2	2
+.	NA	NA

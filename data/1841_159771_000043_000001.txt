@@ -1,0 +1,7 @@
+And	1	0
+then	2	0
+he	0	1
+hurried	0	0
+away	2	1
+again	1	2
+.	NA	NA

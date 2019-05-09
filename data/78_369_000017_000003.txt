@@ -1,0 +1,13 @@
+I	0	0
+inquired	2	0
+of	0	1
+the	0	0
+inhabitants	1	2
+concerning	1	1
+the	0	0
+fiend	1	0
+and	0	1
+gained	2	2
+accurate	2	1
+information	1	2
+.	NA	NA

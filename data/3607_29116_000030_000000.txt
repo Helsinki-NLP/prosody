@@ -1,0 +1,8 @@
+He	0	0
+will	1	0
+help	1	0
+us	0	0
+,	NA	NA
+I	1	1
+suppose	2	2
+?	NA	NA

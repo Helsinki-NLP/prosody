@@ -1,0 +1,14 @@
+Once	2	0
+they	0	0
+came	1	1
+and	0	0
+asked	1	2
+,	NA	NA
+Should	2	0
+we	0	0
+pay	0	0
+taxes	1	1
+to	1	0
+the	0	0
+romans	1	2
+?	NA	NA

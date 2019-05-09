@@ -1,0 +1,8 @@
+peter	1	0
+didn't	0	0
+wait	1	1
+for	0	0
+Scrapper	2	0
+to	0	1
+return	2	2
+.	NA	NA

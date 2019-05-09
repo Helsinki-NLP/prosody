@@ -1,0 +1,4 @@
+And	1	1
+did	0	1
+she	2	2
+?	NA	NA

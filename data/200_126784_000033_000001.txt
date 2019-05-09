@@ -1,0 +1,12 @@
+It	1	0
+was	0	0
+my	1	1
+mistake	2	2
+;	NA	NA
+you	0	0
+will	0	0
+please	1	1
+to	0	0
+pardon	2	1
+it	0	2
+.	NA	NA

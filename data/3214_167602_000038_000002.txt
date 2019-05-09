@@ -1,0 +1,5 @@
+It's	0	1
+wrong	2	1
+,	NA	NA
+lads	1	2
+!	NA	NA

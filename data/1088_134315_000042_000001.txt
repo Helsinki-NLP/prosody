@@ -1,0 +1,14 @@
+From	1	0
+thence	2	0
+onward	1	0
+his	0	1
+behaviour	1	0
+was	0	1
+somewhat	1	1
+extraordinary	2	1
+for	0	0
+a	0	0
+well	0	0
+bred	0	1
+servant	2	2
+.	NA	NA

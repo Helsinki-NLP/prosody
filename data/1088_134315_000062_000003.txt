@@ -1,0 +1,8 @@
+He's	0	0
+had	2	1
+three	1	1
+years	2	1
+to	0	0
+be	0	0
+out	2	2
+!	NA	NA

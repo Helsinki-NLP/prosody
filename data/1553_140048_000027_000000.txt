@@ -1,0 +1,14 @@
+Oh	2	0
+,	NA	NA
+I	0	0
+don't	0	0
+know	0	0
+about	1	1
+that	2	2
+;	NA	NA
+soap	2	0
+keeps	0	1
+,	NA	NA
+doesn't	0	0
+it	2	2
+?	NA	NA

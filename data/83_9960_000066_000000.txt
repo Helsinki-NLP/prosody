@@ -1,0 +1,10 @@
+It	2	0
+was	0	1
+the	0	0
+husband	2	1
+and	0	0
+wife	2	1
+taking	0	0
+counsel	2	1
+together	2	2
+.	NA	NA

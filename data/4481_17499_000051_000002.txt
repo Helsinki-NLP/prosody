@@ -1,0 +1,5 @@
+So	0	0
+she	0	0
+said	1	1
+,	NA	NA
+meekly	2	2

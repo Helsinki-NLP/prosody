@@ -1,0 +1,4 @@
+In	1	0
+the	0	1
+water	2	2
+?	NA	NA

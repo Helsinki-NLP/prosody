@@ -1,0 +1,8 @@
+It	1	0
+was	0	1
+now	2	1
+well	1	1
+into	0	0
+the	0	1
+afternoon	2	2
+.	NA	NA

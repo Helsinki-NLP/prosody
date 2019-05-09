@@ -1,0 +1,6 @@
+He	0	0
+exclaimed	1	2
+,	NA	NA
+My	1	0
+God	2	2
+!	NA	NA

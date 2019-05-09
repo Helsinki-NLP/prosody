@@ -1,0 +1,12 @@
+I	2	0
+was	0	1
+thirsty	2	1
+,	NA	NA
+and	0	1
+you	0	0
+gave	2	0
+me	0	1
+something	0	1
+to	0	0
+drink	2	2
+.	NA	NA

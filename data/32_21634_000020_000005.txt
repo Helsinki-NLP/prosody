@@ -1,0 +1,8 @@
+That's	1	1
+why	1	0
+he	0	0
+put	0	0
+up	0	0
+that	1	2
+sign	2	2
+.	NA	NA

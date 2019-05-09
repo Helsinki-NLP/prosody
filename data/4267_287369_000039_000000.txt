@@ -1,0 +1,15 @@
+They	0	0
+must	1	0
+have	0	1
+followed	2	0
+us	0	2
+,	NA	NA
+said	1	0
+mr	0	0
+Jenks	1	2
+,	NA	NA
+in	1	0
+a	0	0
+low	0	0
+voice	1	2
+.	NA	NA

@@ -1,0 +1,14 @@
+I	1	0
+breathed	2	1
+the	1	0
+spring	2	1
+and	0	0
+I	0	0
+saw	0	0
+clearly	2	1
+all	2	0
+about	1	0
+me	0	2
+everlasting	2	0
+youth	0	2
+.	NA	NA

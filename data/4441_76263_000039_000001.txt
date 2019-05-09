@@ -1,0 +1,4 @@
+It's	0	1
+beastly	0	0
+cold	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+All	2	0
+at	0	1
+once	1	2
+a	0	0
+shudder	2	0
+ran	0	1
+through	0	0
+him	1	2
+.	NA	NA

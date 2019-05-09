@@ -1,0 +1,7 @@
+He	0	0
+slammed	2	2
+the	0	0
+door	1	0
+upon	2	1
+me	0	2
+.	NA	NA

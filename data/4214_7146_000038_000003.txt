@@ -1,0 +1,17 @@
+Into	2	0
+the	0	0
+kitchen	1	1
+she	0	0
+dashed	2	2
+and	0	1
+flung	2	0
+herself	1	2
+face	2	1
+downward	2	0
+on	0	1
+the	0	0
+sofa	2	0
+in	0	0
+an	0	1
+agony	2	2
+.	NA	NA

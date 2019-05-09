@@ -1,0 +1,10 @@
+Failing	2	0
+of	0	1
+that	1	2
+they	1	0
+tried	1	1
+still	1	0
+another	0	0
+way	0	0
+out	0	2
+.	NA	NA

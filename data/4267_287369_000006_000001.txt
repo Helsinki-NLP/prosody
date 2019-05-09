@@ -1,0 +1,6 @@
+Black	1	0
+paper	2	0
+and	0	1
+white	2	0
+ink	0	2
+.	NA	NA

@@ -1,0 +1,7 @@
+So	1	0
+she	0	0
+watched	2	2
+Graham	2	0
+and	0	1
+listened	1	2
+.	NA	NA

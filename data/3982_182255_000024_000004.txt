@@ -1,0 +1,4 @@
+Think	2	0
+of	0	1
+it	0	2
+!	NA	NA

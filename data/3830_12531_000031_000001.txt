@@ -1,0 +1,8 @@
+Here	1	0
+a	0	0
+camp	2	2
+must	0	0
+be	0	0
+established	2	0
+again	0	2
+.	NA	NA

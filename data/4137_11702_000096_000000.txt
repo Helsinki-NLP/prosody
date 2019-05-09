@@ -1,0 +1,6 @@
+The	0	0
+King	0	0
+laughed	2	1
+good	0	0
+humouredly	1	2
+.	NA	NA

@@ -1,0 +1,5 @@
+Yes	2	1
+,	NA	NA
+responded	1	0
+Toby	1	2
+.	NA	NA

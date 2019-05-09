@@ -1,0 +1,14 @@
+The	0	0
+young	1	0
+man	1	0
+and	0	1
+his	0	0
+companion	1	0
+often	1	0
+went	0	1
+apart	2	1
+and	0	1
+appeared	2	1
+to	0	0
+weep	2	2
+.	NA	NA

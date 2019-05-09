@@ -1,0 +1,13 @@
+They	1	0
+never	2	1
+think	2	1
+of	1	0
+covering	1	1
+the	0	0
+feet	0	1
+under	0	0
+any	0	0
+change	1	1
+of	0	0
+climate	2	2
+.	NA	NA

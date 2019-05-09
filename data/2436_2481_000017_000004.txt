@@ -1,0 +1,4 @@
+Where	1	0
+is	0	1
+Carter	2	2
+?	NA	NA

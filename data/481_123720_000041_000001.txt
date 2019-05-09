@@ -1,0 +1,17 @@
+But	0	0
+I	0	0
+will	0	0
+talk	1	0
+about	1	0
+that	0	1
+fellow	1	2
+,	NA	NA
+about	2	0
+that	0	1
+plague	2	0
+of	0	1
+mine	1	0
+,	NA	NA
+another	0	0
+time	1	2
+.	NA	NA

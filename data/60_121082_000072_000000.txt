@@ -1,0 +1,6 @@
+What	2	2
+?	NA	NA
+a	0	0
+real	2	1
+father	1	2
+?	NA	NA

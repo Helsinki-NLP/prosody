@@ -1,0 +1,9 @@
+Oh	2	1
+?	NA	NA
+Trigger	1	0
+picked	0	0
+up	1	0
+the	0	1
+Puya	1	0
+glass	2	2
+.	NA	NA

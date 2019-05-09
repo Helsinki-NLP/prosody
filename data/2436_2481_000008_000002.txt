@@ -1,0 +1,8 @@
+I	0	0
+heard	0	0
+him	0	1
+gasp	1	2
+,	NA	NA
+Good	2	1
+God	2	2
+!	NA	NA

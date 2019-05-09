@@ -1,0 +1,4 @@
+Does	1	0
+he	0	1
+talk	2	2
+?	NA	NA

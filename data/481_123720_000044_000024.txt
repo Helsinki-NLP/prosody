@@ -1,0 +1,12 @@
+Oh	2	1
+,	NA	NA
+how	0	0
+I	1	1
+prayed	2	1
+for	0	0
+the	0	0
+day	1	0
+to	0	1
+pass	2	1
+quickly	1	2
+!	NA	NA

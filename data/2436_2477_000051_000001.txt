@@ -1,0 +1,12 @@
+The	0	0
+purser	1	0
+looked	0	1
+up	2	2
+,	NA	NA
+followed	2	0
+the	0	1
+sound	2	0
+with	0	1
+his	0	0
+gaze	1	2
+.	NA	NA

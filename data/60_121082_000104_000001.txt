@@ -1,0 +1,7 @@
+They	0	0
+passed	2	1
+the	0	0
+barrier	1	1
+without	0	0
+accident	1	2
+.	NA	NA

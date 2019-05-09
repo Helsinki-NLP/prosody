@@ -1,0 +1,17 @@
+Nothing	2	0
+could	0	1
+exceed	1	0
+the	0	0
+love	0	0
+and	0	1
+respect	2	1
+which	2	2
+the	1	0
+younger	0	0
+cottagers	1	2
+exhibited	2	0
+towards	0	0
+their	0	0
+venerable	0	0
+companion	2	2
+.	NA	NA

@@ -1,0 +1,7 @@
+I	2	0
+shall	0	1
+tell	0	0
+it	0	1
+,	NA	NA
+too	2	2
+.	NA	NA

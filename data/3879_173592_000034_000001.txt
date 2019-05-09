@@ -1,0 +1,12 @@
+Ribaut	2	0
+had	0	0
+been	0	1
+commissioned	2	1
+to	0	0
+sail	1	0
+with	0	1
+seven	1	0
+ships	0	1
+for	0	0
+Florida	1	2
+.	NA	NA

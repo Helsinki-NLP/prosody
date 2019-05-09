@@ -1,0 +1,11 @@
+Ask	2	1
+him	0	0
+if	0	1
+he	0	0
+minds	1	1
+seeing	1	0
+me	0	0
+in	0	1
+my	0	0
+room	2	2
+.	NA	NA

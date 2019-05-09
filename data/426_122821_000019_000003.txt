@@ -1,0 +1,15 @@
+It	2	0
+is	0	0
+just	2	1
+that	1	0
+he	0	0
+has	1	1
+not	2	0
+a	0	1
+great	1	1
+deal	1	0
+of	0	1
+tact	1	2
+or	2	0
+imagination	1	2
+.	NA	NA

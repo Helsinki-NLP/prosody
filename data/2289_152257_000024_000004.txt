@@ -1,0 +1,12 @@
+The	2	2
+collection	2	0
+which	1	0
+he	0	0
+made	0	1
+was	0	0
+called	1	0
+the	0	1
+CODE	1	0
+OF	0	0
+JUSTINIAN	0	2
+.	NA	NA

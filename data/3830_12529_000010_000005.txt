@@ -1,0 +1,10 @@
+My	0	1
+first	2	0
+camp	1	1
+on	1	0
+Puget	0	1
+Sound	2	1
+was	0	0
+not	2	0
+cheerful	0	2
+.	NA	NA

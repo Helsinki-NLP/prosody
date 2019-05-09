@@ -1,0 +1,7 @@
+That's	2	0
+what	0	0
+makes	0	1
+it	0	0
+so	0	0
+jolly	2	2
+.	NA	NA

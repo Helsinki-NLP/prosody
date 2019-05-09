@@ -1,0 +1,14 @@
+As	0	0
+Arlac's	2	0
+reached	1	1
+the	0	0
+spot	2	2
+,	NA	NA
+the	0	0
+whole	2	0
+pack	0	1
+gave	0	0
+tongue	1	0
+at	0	0
+once	0	2
+.	NA	NA

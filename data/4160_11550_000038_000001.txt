@@ -1,0 +1,7 @@
+To	0	0
+night	2	0
+I	0	1
+shall	0	0
+answer	0	1
+him	2	2
+.	NA	NA

@@ -1,0 +1,6 @@
+I	0	0
+returned	1	1
+to	0	0
+the	0	0
+lounge	2	2
+.	NA	NA

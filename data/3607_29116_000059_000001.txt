@@ -1,0 +1,6 @@
+That	1	0
+is	0	0
+what	1	1
+Dilworthy	2	1
+said	1	2
+.	NA	NA

@@ -1,0 +1,15 @@
+If	2	1
+you	0	0
+are	2	1
+I'll	1	1
+go	2	0
+and	0	1
+nurse	2	0
+you	0	2
+,	NA	NA
+you	0	0
+can	0	0
+depend	1	0
+on	0	0
+that	1	2
+.	NA	NA

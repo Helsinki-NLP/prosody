@@ -1,0 +1,8 @@
+It	1	0
+made	1	0
+me	0	1
+sick	2	2
+.	NA	NA
+.	NA	NA
+.	NA	NA
+.	NA	NA

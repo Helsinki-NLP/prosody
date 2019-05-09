@@ -1,0 +1,6 @@
+Miss	2	0
+Burns	2	1
+received	0	0
+six	0	0
+months	1	2
+.	NA	NA

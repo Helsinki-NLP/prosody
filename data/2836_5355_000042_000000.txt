@@ -1,0 +1,8 @@
+What	0	0
+do	0	0
+you	0	0
+mean	2	2
+?	NA	NA
+she	1	0
+gasped	1	2
+.	NA	NA

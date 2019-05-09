@@ -1,0 +1,12 @@
+'No	1	2
+,	NA	NA
+I	1	0
+do	0	0
+not	2	1
+,	NA	NA
+'	NA	NA
+answered	1	0
+the	0	0
+old	0	0
+man	1	2
+.	NA	NA

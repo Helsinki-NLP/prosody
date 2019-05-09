@@ -1,0 +1,11 @@
+I	2	0
+can't	1	1
+say	1	0
+whether	0	1
+there	0	0
+is	0	1
+a	0	0
+will	1	0
+or	0	1
+not	2	2
+.	NA	NA

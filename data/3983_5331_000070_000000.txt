@@ -1,0 +1,9 @@
+What's	1	0
+up	2	1
+,	NA	NA
+Archibald	1	1
+?	NA	NA
+interrupted	1	1
+Miss	0	0
+Carlyle	1	2
+.	NA	NA

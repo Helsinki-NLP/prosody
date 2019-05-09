@@ -1,0 +1,14 @@
+So	1	0
+,	NA	NA
+you	0	1
+must	2	1
+,	NA	NA
+he	0	0
+ought	2	0
+to	0	2
+be	0	0
+seen	0	0
+without	1	0
+any	0	1
+delay	2	2
+.	NA	NA

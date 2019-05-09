@@ -1,0 +1,14 @@
+Tiny	2	0
+looked	0	1
+alarmed	1	2
+.	1	0
+mrs	NA	NA
+Gardener	2	0
+would	0	1
+n't	0	0
+like	1	0
+it	0	2
+,	NA	NA
+she	1	0
+protested	1	2
+.	NA	NA

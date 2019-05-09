@@ -1,0 +1,10 @@
+A	0	0
+little	2	0
+like	0	1
+yourself	2	0
+,	NA	NA
+sir	1	2
+in	0	0
+the	0	0
+dark	2	2
+.	NA	NA

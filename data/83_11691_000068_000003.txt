@@ -1,0 +1,9 @@
+However	2	1
+,	NA	NA
+we'll	2	1
+soon	0	0
+get	0	0
+him	0	0
+all	0	0
+right	2	2
+.	NA	NA

@@ -1,0 +1,11 @@
+Grandpa	2	2
+,	NA	NA
+please	1	1
+give	1	0
+us	0	0
+a	0	0
+little	1	0
+piece	0	1
+of	0	0
+meat	2	2
+.	NA	NA

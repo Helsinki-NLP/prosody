@@ -1,0 +1,15 @@
+I	1	0
+see	0	0
+his	0	1
+face	1	0
+now	1	0
+,	NA	NA
+and	0	0
+his	0	1
+earnest	1	1
+absorbed	2	1
+look	2	1
+while	1	0
+I	0	0
+talked	2	2
+.	NA	NA

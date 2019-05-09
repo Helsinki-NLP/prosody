@@ -1,0 +1,12 @@
+Then	2	0
+he	0	0
+would	0	1
+tell	2	1
+what	0	0
+he	0	1
+had	0	0
+seen	2	2
+in	1	0
+his	0	0
+vision	2	2
+.	NA	NA

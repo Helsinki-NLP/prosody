@@ -1,0 +1,9 @@
+In	1	0
+a	0	0
+few	0	0
+days	2	0
+their	0	1
+preparations	2	1
+were	0	0
+made	1	2
+.	NA	NA

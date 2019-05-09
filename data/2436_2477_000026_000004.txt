@@ -1,0 +1,11 @@
+At	0	0
+our	2	0
+table	0	2
+a	1	0
+big	2	1
+,	NA	NA
+good	2	0
+looking	0	1
+blond	0	0
+American	1	2
+.	NA	NA

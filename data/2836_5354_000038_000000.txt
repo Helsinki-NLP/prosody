@@ -1,0 +1,5 @@
+What	0	0
+one	1	1
+,	NA	NA
+pray	2	2
+?	NA	NA

@@ -1,0 +1,16 @@
+Stay	2	2
+,	NA	NA
+interrupted	1	0
+Lady	0	1
+Isabel	2	2
+,	NA	NA
+you	0	0
+need	2	0
+not	0	1
+trouble	0	0
+yourself	0	1
+to	0	0
+find	1	0
+needless	0	0
+excuses	2	2
+.	NA	NA

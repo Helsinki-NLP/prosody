@@ -1,0 +1,8 @@
+We	0	0
+stood	2	0
+it	0	0
+up	1	1
+against	1	1
+a	0	0
+rock	2	2
+.	NA	NA

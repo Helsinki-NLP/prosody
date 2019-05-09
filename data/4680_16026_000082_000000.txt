@@ -1,0 +1,5 @@
+They	0	0
+halted	2	1
+in	0	0
+amazement	2	2
+.	NA	NA

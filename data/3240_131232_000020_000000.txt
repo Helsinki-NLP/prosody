@@ -1,0 +1,11 @@
+That	0	0
+never	1	0
+has	0	0
+a	0	1
+fall	2	0
+of	0	1
+full	0	0
+grown	0	1
+frogs	2	1
+been	0	0
+reported	1	2

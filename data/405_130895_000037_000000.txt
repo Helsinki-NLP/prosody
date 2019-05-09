@@ -1,0 +1,13 @@
+The	0	0
+Nautilus	2	0
+passed	1	1
+over	1	0
+these	0	2
+lush	2	0
+,	NA	NA
+luxuriant	1	0
+depths	1	1
+with	0	0
+tremendous	1	0
+speed	0	2
+.	NA	NA

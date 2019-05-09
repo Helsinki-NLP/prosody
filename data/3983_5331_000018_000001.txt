@@ -1,0 +1,8 @@
+It	2	0
+would	0	0
+be	1	2
+it	1	0
+might	1	0
+be	0	1
+death	2	2
+!	NA	NA

@@ -1,0 +1,8 @@
+I	1	0
+will	0	0
+do	0	0
+anything	1	2
+,	NA	NA
+said	1	0
+Hoopdriver	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+Are	1	0
+you	0	1
+hurt	1	1
+,	NA	NA
+sir	2	2
+?	NA	NA
+he	0	0
+asked	2	2
+.	NA	NA

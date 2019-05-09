@@ -1,0 +1,4 @@
+They	0	1
+both	2	1
+started	2	2
+.	NA	NA

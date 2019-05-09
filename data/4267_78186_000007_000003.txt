@@ -1,0 +1,6 @@
+What	2	1
+,	NA	NA
+not	1	0
+abed	0	0
+yet	1	2
+?	NA	NA

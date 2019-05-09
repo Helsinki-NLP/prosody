@@ -1,0 +1,5 @@
+Ronicky	2	0
+set	0	0
+his	0	1
+teeth	2	2
+.	NA	NA

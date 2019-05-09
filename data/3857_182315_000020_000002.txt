@@ -1,0 +1,6 @@
+Certain	2	0
+groups	1	1
+sought	1	1
+the	0	0
+headship	1	2
+.	NA	NA

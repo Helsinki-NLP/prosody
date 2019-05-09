@@ -1,0 +1,8 @@
+It	1	0
+was	0	0
+clear	1	0
+that	0	1
+it	0	0
+was	2	1
+she	1	2
+.	NA	NA

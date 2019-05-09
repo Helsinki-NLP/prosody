@@ -1,0 +1,8 @@
+From	0	0
+what	2	0
+then	1	2
+?	NA	NA
+asked	2	1
+mr	0	0
+Jenks	1	2
+.	NA	NA

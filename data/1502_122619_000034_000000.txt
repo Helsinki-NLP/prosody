@@ -1,0 +1,7 @@
+My	2	1
+brother	1	0
+is	0	1
+a	0	0
+wise	0	1
+chief	2	2
+.	NA	NA

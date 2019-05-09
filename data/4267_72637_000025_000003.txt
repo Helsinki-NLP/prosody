@@ -1,0 +1,11 @@
+We	0	0
+chanced	1	1
+to	0	0
+be	0	0
+near	0	0
+a	0	2
+pair	1	0
+of	0	1
+low	1	1
+bars	1	2
+.	NA	NA

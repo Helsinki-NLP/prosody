@@ -1,0 +1,17 @@
+From	0	1
+right	2	0
+under	0	0
+his	0	1
+very	1	0
+nose	2	0
+something	0	1
+shot	1	0
+up	0	1
+into	0	0
+the	0	0
+air	2	0
+with	0	2
+a	0	0
+whistling	2	1
+sound	1	2
+.	NA	NA

@@ -1,0 +1,15 @@
+And	0	0
+those	1	1
+thoughts	2	2
+,	NA	NA
+though	0	0
+now	0	0
+vague	2	0
+and	0	1
+indefinite	1	1
+,	NA	NA
+again	2	0
+possessed	1	0
+his	0	0
+soul	0	2
+.	NA	NA

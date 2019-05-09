@@ -1,0 +1,6 @@
+Why	1	0
+is	0	1
+he	0	0
+not	1	0
+here	2	2
+?	NA	NA

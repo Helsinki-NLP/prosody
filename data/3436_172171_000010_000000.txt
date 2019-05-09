@@ -1,0 +1,5 @@
+And	0	0
+Perceval	1	0
+rode	1	1
+forward	1	2
+.	NA	NA

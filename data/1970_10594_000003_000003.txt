@@ -1,0 +1,11 @@
+I	2	0
+quarreled	2	0
+with	0	1
+the	0	0
+circumstances	1	1
+but	0	0
+felt	2	1
+forced	2	1
+to	0	0
+submit	2	2
+.	NA	NA

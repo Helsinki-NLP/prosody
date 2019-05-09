@@ -1,0 +1,17 @@
+Their	0	0
+habits	2	1
+of	0	0
+agriculture	0	0
+would	0	0
+have	0	0
+been	0	0
+developed	2	2
+,	NA	NA
+and	2	0
+their	0	0
+instincts	0	1
+of	0	0
+mutual	1	0
+slaughter	2	1
+repressed	2	2
+.	NA	NA

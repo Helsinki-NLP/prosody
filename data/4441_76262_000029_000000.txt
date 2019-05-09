@@ -1,0 +1,9 @@
+A	0	0
+spider	1	0
+on	0	0
+the	0	0
+morrow	2	2
+grief	2	1
+and	0	0
+sorrow	1	2
+.	NA	NA

@@ -1,0 +1,16 @@
+Her	1	0
+big	2	0
+face	1	1
+,	NA	NA
+dotted	2	0
+with	0	1
+red	1	0
+blotches	1	2
+,	NA	NA
+presented	2	0
+the	0	0
+appearance	1	0
+of	0	0
+a	0	1
+skimmer	2	2
+.	NA	NA

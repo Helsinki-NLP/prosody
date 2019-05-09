@@ -1,0 +1,7 @@
+And	0	0
+I'll	2	0
+not	0	2
+be	0	0
+a	0	0
+criminal	1	2
+.	NA	NA

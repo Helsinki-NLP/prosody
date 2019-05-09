@@ -1,0 +1,8 @@
+All	2	1
+other	1	1
+pleasures	1	2
+are	1	0
+not	0	0
+worth	2	0
+its	0	1
+pains	1	2

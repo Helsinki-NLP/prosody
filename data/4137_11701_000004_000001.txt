@@ -1,0 +1,17 @@
+We	1	0
+can	0	1
+do	0	0
+what	0	0
+we	0	0
+like	2	2
+,	NA	NA
+and	0	0
+it	0	0
+doesn't	1	1
+matter	2	0
+if	0	1
+it	0	0
+doesn't	2	1
+come	0	0
+off	2	2
+.	NA	NA

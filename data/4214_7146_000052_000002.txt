@@ -1,0 +1,11 @@
+The	0	1
+stars	2	0
+in	0	1
+their	0	0
+courses	2	1
+fight	1	0
+against	1	1
+me	0	0
+,	NA	NA
+Marilla	1	2
+.	NA	NA

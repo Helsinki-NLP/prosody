@@ -1,0 +1,8 @@
+After	1	0
+all	0	0
+,	NA	NA
+that	0	0
+was	0	2
+their	2	0
+business	1	2
+.	NA	NA

@@ -1,0 +1,11 @@
+In	0	0
+time	2	0
+they	0	0
+could	0	1
+not	2	0
+even	0	1
+fly	2	1
+after	0	0
+their	0	0
+hats	1	2
+.	NA	NA

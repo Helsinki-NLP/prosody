@@ -1,0 +1,6 @@
+It's	0	1
+time	2	1
+,	NA	NA
+that's	0	0
+sure	2	2
+.	NA	NA

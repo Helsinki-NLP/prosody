@@ -1,0 +1,11 @@
+All	2	0
+that	0	0
+I	0	0
+should	0	1
+express	2	1
+would	0	0
+be	0	0
+inadequate	1	0
+and	0	1
+feeble	0	2
+.	NA	NA

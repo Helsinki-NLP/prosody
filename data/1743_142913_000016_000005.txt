@@ -1,0 +1,9 @@
+Perhaps	2	1
+they	1	0
+think	0	0
+it	0	0
+will	0	1
+scare	0	0
+robbers	1	0
+away	1	2
+.	NA	NA

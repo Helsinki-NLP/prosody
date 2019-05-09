@@ -1,0 +1,3 @@
+Another	0	1
+day	2	2
+?	NA	NA

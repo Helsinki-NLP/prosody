@@ -1,0 +1,6 @@
+He	0	1
+had	2	1
+better	1	1
+go	0	0
+away	2	2
+.	NA	NA

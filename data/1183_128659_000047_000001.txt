@@ -1,0 +1,12 @@
+The	0	0
+ideas	2	0
+of	0	1
+children	0	0
+about	2	0
+the	0	2
+significance	0	0
+of	0	1
+color	1	0
+are	0	0
+mixed	2	2
+.	NA	NA

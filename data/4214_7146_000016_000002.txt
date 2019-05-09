@@ -1,0 +1,9 @@
+I	2	0
+hope	0	0
+your	0	1
+father's	2	1
+crop	1	1
+is	0	0
+good	2	0
+too	2	2
+.	NA	NA

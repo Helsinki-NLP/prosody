@@ -1,0 +1,7 @@
+He	0	0
+looked	2	0
+up	1	0
+at	0	1
+her	1	1
+admiringly	1	2
+.	NA	NA

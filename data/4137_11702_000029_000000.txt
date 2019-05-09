@@ -1,0 +1,12 @@
+I	2	0
+don't	1	1
+think	0	0
+it	0	0
+hurt	1	0
+him	0	1
+very	1	0
+much	2	1
+,	NA	NA
+my	1	1
+dear	2	2
+.	NA	NA

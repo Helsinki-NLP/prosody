@@ -1,0 +1,7 @@
+He	0	0
+could	2	1
+get	2	0
+one	0	1
+easy	1	0
+enough	1	2
+.	NA	NA

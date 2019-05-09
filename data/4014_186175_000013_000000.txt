@@ -1,0 +1,6 @@
+Who	0	1
+are	1	0
+you	0	2
+and	0	1
+where	2	2
+?	NA	NA

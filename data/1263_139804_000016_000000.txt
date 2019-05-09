@@ -1,0 +1,3 @@
+THEIR	0	0
+RAIMENT	1	2
+.	NA	NA

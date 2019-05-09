@@ -1,0 +1,16 @@
+It	1	0
+was	0	0
+just	2	0
+like	1	1
+putting	1	0
+green	1	0
+things	0	1
+into	0	0
+a	0	1
+refrigerator	2	2
+,	NA	NA
+so	0	0
+they	2	0
+will	0	1
+keep	1	2
+.	NA	NA

@@ -1,0 +1,5 @@
+I	2	0
+knew	1	0
+at	0	1
+seventeen	1	2
+.	NA	NA

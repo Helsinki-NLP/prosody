@@ -1,0 +1,4 @@
+What	0	1
+the	0	0
+devil	2	2
+!	NA	NA

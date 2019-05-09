@@ -1,0 +1,10 @@
+Who	1	1
+am	1	0
+I	0	2
+?	NA	NA
+You	0	0
+know	1	0
+me	0	1
+well	0	0
+enough	1	2
+.	NA	NA

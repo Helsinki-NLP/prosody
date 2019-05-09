@@ -1,0 +1,15 @@
+Would	0	0
+he	0	0
+be	0	0
+able	1	0
+to	0	0
+insert	1	0
+the	0	1
+point	0	0
+again	2	2
+between	0	0
+those	2	1
+two	0	0
+difficult	1	0
+shells	1	2
+?	NA	NA

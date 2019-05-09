@@ -1,0 +1,8 @@
+Women	2	1
+could	0	0
+not	1	1
+advance	2	1
+on	0	0
+drawn	0	0
+bayonets	1	2
+.	NA	NA

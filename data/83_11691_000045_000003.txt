@@ -1,0 +1,7 @@
+Coronel	2	0
+,	NA	NA
+what	0	1
+shall	0	0
+we	0	0
+do	1	2
+?	NA	NA

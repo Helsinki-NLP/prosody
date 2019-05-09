@@ -1,0 +1,6 @@
+You	0	1
+quite	2	0
+mistook	1	1
+mr	0	0
+Darcy	2	2
+.	NA	NA

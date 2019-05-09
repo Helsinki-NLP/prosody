@@ -1,0 +1,3 @@
+Probably	1	1
+not	2	2
+.	NA	NA

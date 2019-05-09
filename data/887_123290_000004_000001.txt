@@ -1,0 +1,8 @@
+Will	0	0
+the	0	0
+elements	1	1
+lay	1	1
+plots	1	0
+against	0	0
+me	2	2
+?	NA	NA

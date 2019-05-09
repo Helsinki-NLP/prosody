@@ -1,0 +1,10 @@
+Neither	2	0
+would	0	0
+home	1	1
+be	0	0
+agreeable	1	1
+to	0	0
+you	1	0
+yet	0	0
+awhile	1	2
+.	NA	NA

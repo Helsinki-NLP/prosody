@@ -1,0 +1,4 @@
+UNCLE	0	0
+john	2	0
+MAKES	0	1
+PLANS	1	2

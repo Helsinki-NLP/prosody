@@ -1,0 +1,8 @@
+The	0	0
+drumming	2	0
+died	1	0
+as	0	1
+I	0	0
+listened	1	2
+fearfully	2	2
+.	NA	NA

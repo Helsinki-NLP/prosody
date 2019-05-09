@@ -1,0 +1,11 @@
+Yonder	2	2
+,	NA	NA
+and	1	0
+Marguerite	0	0
+pointed	1	1
+to	0	0
+the	0	0
+house	1	0
+in	0	1
+question	1	2
+.	NA	NA

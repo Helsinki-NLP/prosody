@@ -1,0 +1,3 @@
+She	1	0
+nodded	2	2
+.	NA	NA

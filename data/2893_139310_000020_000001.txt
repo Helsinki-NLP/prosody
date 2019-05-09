@@ -1,0 +1,10 @@
+I	0	0
+am	1	0
+his	0	1
+brother	2	1
+his	0	0
+half	2	1
+brother	0	0
+,	NA	NA
+Lincoln	1	2
+.	NA	NA

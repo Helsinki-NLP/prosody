@@ -1,0 +1,10 @@
+This	1	0
+one	2	0
+was	0	1
+populous	1	1
+,	NA	NA
+noisy	2	1
+,	NA	NA
+and	0	0
+lighted	1	2
+.	NA	NA

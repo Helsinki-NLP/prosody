@@ -1,0 +1,14 @@
+I	0	0
+never	1	0
+said	0	0
+I	1	0
+was	0	2
+a	0	0
+pauper	2	1
+,	NA	NA
+returned	1	0
+Uncle	0	1
+john	2	1
+,	NA	NA
+complacently	2	2
+.	NA	NA

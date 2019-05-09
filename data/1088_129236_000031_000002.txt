@@ -1,0 +1,6 @@
+That	2	0
+is	0	0
+our	0	1
+permanent	0	1
+state	1	2
+.	NA	NA

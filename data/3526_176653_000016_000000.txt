@@ -1,0 +1,5 @@
+He	2	0
+looked	0	0
+up	0	1
+again	1	2
+.	NA	NA

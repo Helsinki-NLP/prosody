@@ -1,0 +1,17 @@
+Deary	2	0
+me	1	2
+,	NA	NA
+and	0	0
+isn't	1	0
+it	0	0
+a	0	0
+thing	0	0
+for	0	1
+sore	2	0
+eyes	0	2
+to	0	0
+have	0	0
+you	0	0
+back	2	1
+again	1	2
+!	NA	NA

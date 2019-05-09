@@ -1,0 +1,9 @@
+Sit	2	1
+down	1	2
+!	NA	NA
+he	0	0
+gritted	1	0
+between	0	0
+his	0	0
+teeth	1	2
+.	NA	NA

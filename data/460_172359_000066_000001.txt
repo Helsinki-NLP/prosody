@@ -1,0 +1,7 @@
+He	0	0
+went	1	0
+on	0	0
+just	0	2
+the	0	0
+same	2	2
+.	NA	NA

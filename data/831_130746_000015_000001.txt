@@ -1,0 +1,9 @@
+Gone	2	2
+!	NA	NA
+he	0	0
+said	2	1
+with	0	0
+a	0	0
+half	1	1
+laugh	1	2
+.	NA	NA

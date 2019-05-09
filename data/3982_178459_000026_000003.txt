@@ -1,0 +1,6 @@
+What	2	0
+is	0	0
+it	0	1
+that's	0	0
+happened	2	2
+?	NA	NA

@@ -1,0 +1,13 @@
+Yes	2	0
+,	NA	NA
+and	0	1
+the	0	0
+little	0	0
+girl	1	0
+in	0	0
+the	0	1
+bed	2	0
+is	0	1
+my	0	0
+baby	1	2
+.	NA	NA

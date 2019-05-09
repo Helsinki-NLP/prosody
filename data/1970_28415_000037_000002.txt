@@ -1,0 +1,8 @@
+Jesus	2	0
+said	1	2
+,	NA	NA
+Whose	2	0
+picture	0	0
+is	0	1
+that	1	2
+?	NA	NA

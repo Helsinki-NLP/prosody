@@ -1,0 +1,15 @@
+And	0	0
+for	0	0
+whom	0	0
+else	1	1
+should	0	0
+I	1	0
+bury	1	0
+myself	0	1
+here	1	2
+,	NA	NA
+if	1	0
+not	2	1
+for	0	0
+you	2	2
+?	NA	NA

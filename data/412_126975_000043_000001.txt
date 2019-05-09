@@ -1,0 +1,11 @@
+It's	0	0
+a	0	0
+better	1	0
+definition	0	1
+of	0	0
+Socialism	2	2
+than	1	0
+some	2	1
+recently	0	0
+given	1	2
+.	NA	NA

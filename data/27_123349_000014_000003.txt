@@ -1,0 +1,8 @@
+Some	2	1
+were	1	0
+for	0	0
+an	0	1
+attack	1	0
+on	0	0
+Kirkwall	1	2
+.	NA	NA

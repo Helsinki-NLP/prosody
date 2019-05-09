@@ -1,0 +1,16 @@
+Naked	1	0
+truth	1	2
+,	2	0
+unglossed	NA	NA
+over	1	2
+,	NA	NA
+she	0	0
+pursued	2	1
+,	NA	NA
+bending	1	0
+her	0	0
+eyes	1	1
+determinately	1	0
+upon	0	0
+him	1	2
+.	NA	NA

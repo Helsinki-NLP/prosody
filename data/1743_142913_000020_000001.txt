@@ -1,0 +1,7 @@
+Where	2	0
+are	0	0
+your	0	1
+eyes	1	1
+,	NA	NA
+peter	2	2
+?	NA	NA

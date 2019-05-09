@@ -1,0 +1,4 @@
+peter	0	0
+was	0	1
+puzzled	2	2
+.	NA	NA

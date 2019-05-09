@@ -1,0 +1,10 @@
+But	1	0
+it	0	0
+isn't	1	2
+it's	0	1
+firmly	2	0
+fastened	1	1
+at	0	0
+one	1	0
+end	0	2
+.	NA	NA

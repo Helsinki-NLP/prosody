@@ -1,0 +1,9 @@
+'But	0	1
+where	1	0
+are	0	0
+you	1	2
+?	NA	NA
+'	NA	NA
+inquired	0	0
+Jegu	1	2
+.	NA	NA

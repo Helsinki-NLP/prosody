@@ -1,0 +1,7 @@
+Would	1	0
+you	0	0
+rather	1	0
+I	0	0
+didn't	0	1
+talk	2	2
+?	NA	NA

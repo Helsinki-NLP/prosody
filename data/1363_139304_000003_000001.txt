@@ -1,0 +1,4 @@
+An	0	0
+awakening	1	1
+came	2	2
+.	NA	NA

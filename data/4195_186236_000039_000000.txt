@@ -1,0 +1,6 @@
+Yes	2	2
+,	NA	NA
+he	1	0
+said	0	0
+slowly	1	2
+.	NA	NA

@@ -1,0 +1,14 @@
+Graham	2	1
+became	0	0
+aware	1	0
+that	0	1
+his	0	0
+eyes	0	0
+were	0	0
+open	2	2
+and	0	0
+regarding	2	0
+some	0	1
+unfamiliar	0	0
+thing	2	2
+.	NA	NA

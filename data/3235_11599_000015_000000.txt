@@ -1,0 +1,3 @@
+one	0	1
+hundred	2	2
+.	NA	NA

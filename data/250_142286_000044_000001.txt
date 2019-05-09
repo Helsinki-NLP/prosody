@@ -1,0 +1,13 @@
+But	2	1
+surely	2	2
+,	NA	NA
+it	2	0
+is	0	0
+a	0	0
+very	1	0
+easy	1	0
+journey	0	1
+to	0	0
+London	1	2
+.	NA	NA
+'	NA	NA

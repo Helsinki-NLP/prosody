@@ -1,0 +1,10 @@
+That	2	0
+is	0	0
+a	0	1
+strange	1	0
+question	1	1
+,	NA	NA
+Miss	0	0
+Elizabeth	1	0
+interposed	2	2
+.	NA	NA

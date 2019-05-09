@@ -1,0 +1,9 @@
+We	0	0
+were	0	0
+roped	2	2
+,	NA	NA
+and	0	0
+therefore	1	0
+safe	0	0
+enough	1	2
+.	NA	NA

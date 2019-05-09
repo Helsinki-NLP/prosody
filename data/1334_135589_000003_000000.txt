@@ -1,0 +1,12 @@
+Which	1	0
+would	0	0
+your	0	0
+majesty	1	0
+recommend	1	0
+me	0	1
+to	0	0
+follow	2	2
+?	NA	NA
+inquired	2	0
+Edward	0	2
+.	NA	NA

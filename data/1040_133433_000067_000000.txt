@@ -1,0 +1,8 @@
+Perhaps	2	0
+he	0	0
+is	0	1
+ill	2	1
+,	NA	NA
+Michael	0	0
+said	0	2
+.	NA	NA

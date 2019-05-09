@@ -1,0 +1,10 @@
+Now	0	0
+don't	2	0
+put	0	1
+yourself	0	0
+in	1	0
+a	0	2
+fever	1	0
+,	NA	NA
+Isabel	2	2
+.	NA	NA

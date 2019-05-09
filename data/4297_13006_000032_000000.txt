@@ -1,0 +1,6 @@
+I	2	0
+should	0	1
+,	NA	NA
+my	0	0
+dear	2	2
+.	NA	NA

@@ -1,0 +1,5 @@
+He	0	1
+asked	2	1
+nothing	1	0
+better	1	2
+.	NA	NA

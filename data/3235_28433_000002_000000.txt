@@ -1,0 +1,4 @@
+GOING	2	1
+TO	0	0
+NOME	1	2
+.	NA	NA

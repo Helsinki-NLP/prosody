@@ -1,0 +1,7 @@
+This	0	0
+was	0	0
+brave	2	2
+,	NA	NA
+that	1	0
+generous	2	2
+.	NA	NA

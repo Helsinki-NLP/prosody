@@ -1,0 +1,7 @@
+No	2	0
+,	NA	NA
+it	0	1
+isn't	0	1
+Peg	1	1
+Bowen	2	2
+.	NA	NA

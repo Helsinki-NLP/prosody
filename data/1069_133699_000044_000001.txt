@@ -1,0 +1,10 @@
+I	2	0
+shall	0	0
+say	0	1
+it	0	0
+better	2	1
+to	0	0
+mr	0	1
+Goodwood	1	1
+himself	2	2
+.	NA	NA

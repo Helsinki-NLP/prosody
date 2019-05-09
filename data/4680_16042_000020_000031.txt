@@ -1,0 +1,11 @@
+When	0	0
+the	0	0
+master	2	0
+falls	2	0
+in	0	1
+France	1	1
+,	NA	NA
+he	0	0
+falls	1	1
+everywhere	2	2
+.	NA	NA

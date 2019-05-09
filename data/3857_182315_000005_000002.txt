@@ -1,0 +1,10 @@
+I	0	0
+take	1	0
+a	0	1
+jealous	2	1
+pride	2	2
+in	0	0
+my	0	0
+Simian	0	0
+ancestry	1	2
+.	NA	NA

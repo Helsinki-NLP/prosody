@@ -1,0 +1,7 @@
+All	2	0
+we	0	1
+make	2	2
+,	NA	NA
+answered	0	0
+Sam	1	2
+.	NA	NA

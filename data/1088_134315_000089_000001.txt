@@ -1,0 +1,7 @@
+You	2	0
+had	0	1
+better	1	0
+take	0	0
+it	0	1
+yourself	2	2
+.	NA	NA

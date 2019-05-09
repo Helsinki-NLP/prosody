@@ -1,0 +1,7 @@
+And	0	0
+if	0	0
+they	0	1
+did	2	2
+.	NA	NA
+.	NA	NA
+.	NA	NA

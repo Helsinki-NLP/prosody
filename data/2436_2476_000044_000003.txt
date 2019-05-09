@@ -1,0 +1,7 @@
+Explain	2	0
+it	0	1
+to	0	0
+them	0	1
+,	NA	NA
+Gregg	2	2
+.	NA	NA

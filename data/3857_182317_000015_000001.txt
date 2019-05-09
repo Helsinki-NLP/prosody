@@ -1,0 +1,4 @@
+Isn't	1	0
+it	0	1
+strange	2	2
+?	NA	NA

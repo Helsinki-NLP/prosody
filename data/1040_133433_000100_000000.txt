@@ -1,0 +1,10 @@
+Yes	2	1
+!	NA	NA
+which	1	0
+did	0	0
+you	0	0
+like	2	0
+best	0	0
+of	0	1
+all	1	2
+?	NA	NA

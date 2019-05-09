@@ -1,0 +1,5 @@
+THAT	2	1
+was	0	0
+the	0	0
+chance	0	2
+!	NA	NA

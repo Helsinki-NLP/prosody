@@ -1,0 +1,7 @@
+For	0	0
+your	0	0
+life	2	2
+,	NA	NA
+make	2	0
+haste	0	2
+!	NA	NA

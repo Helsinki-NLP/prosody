@@ -1,0 +1,10 @@
+And	0	0
+so	1	0
+Phineas	2	0
+is	0	2
+to	0	0
+be	0	0
+Secretary	1	1
+for	0	0
+Ireland	2	2
+!	NA	NA

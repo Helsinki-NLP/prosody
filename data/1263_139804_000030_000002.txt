@@ -1,0 +1,15 @@
+The	0	0
+most	1	0
+faithful	1	0
+translation	1	0
+of	0	1
+this	0	0
+word	1	1
+into	0	0
+our	2	0
+language	0	0
+would	0	0
+be	0	2
+God	2	1
+affluence	2	2
+.	NA	NA

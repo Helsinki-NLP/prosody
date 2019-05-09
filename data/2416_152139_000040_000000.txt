@@ -1,0 +1,7 @@
+I	0	0
+didn't	2	1
+,	NA	NA
+said	0	0
+Jimmie	0	0
+Dale	1	2
+.	NA	NA

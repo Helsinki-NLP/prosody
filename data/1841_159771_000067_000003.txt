@@ -1,0 +1,7 @@
+He	0	0
+even	2	1
+stared	2	1
+into	0	0
+the	0	0
+water	2	2
+.	NA	NA

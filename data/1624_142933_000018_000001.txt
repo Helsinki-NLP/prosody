@@ -1,0 +1,10 @@
+There	2	0
+was	0	0
+no	2	1
+beautiful	0	0
+rose	1	1
+color	0	0
+about	1	0
+mrs	1	1
+Grosbeak	1	2
+.	NA	NA

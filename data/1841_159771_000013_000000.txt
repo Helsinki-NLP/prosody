@@ -1,0 +1,10 @@
+At	1	0
+that	2	0
+moment	1	2
+his	2	0
+cousin	1	1
+began	1	0
+to	0	0
+whistle	0	0
+again	1	2
+.	NA	NA

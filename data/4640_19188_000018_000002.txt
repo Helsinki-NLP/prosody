@@ -1,0 +1,11 @@
+Combeferre	2	0
+followed	1	1
+,	NA	NA
+carrying	1	1
+the	0	0
+shoulder	1	0
+belts	0	1
+and	0	0
+the	0	0
+shakos	1	2
+.	NA	NA

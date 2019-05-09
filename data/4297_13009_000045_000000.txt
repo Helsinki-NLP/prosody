@@ -1,0 +1,7 @@
+You	0	0
+don't	2	0
+mean	0	0
+as	0	1
+Chief	1	1
+Secretary	2	2
+?	NA	NA

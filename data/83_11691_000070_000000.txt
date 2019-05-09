@@ -1,0 +1,11 @@
+Left	2	0
+to	0	1
+himself	2	2
+Udo	2	0
+very	0	0
+soon	0	0
+made	0	0
+up	0	1
+his	0	0
+mind	2	2
+.	NA	NA

@@ -1,0 +1,17 @@
+From	0	0
+the	0	1
+discharges	2	0
+of	0	0
+lightning	2	1
+among	0	0
+these	0	0
+mountain	0	0
+peaks	2	2
+,	NA	NA
+which	2	0
+contain	1	0
+so	0	0
+much	0	1
+iron	1	1
+ore	2	2
+.	NA	NA

@@ -1,0 +1,8 @@
+Snap	2	0
+and	0	2
+speed	1	0
+are	0	0
+his	0	1
+middle	0	0
+name	1	2
+!	NA	NA

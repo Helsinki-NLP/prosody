@@ -1,0 +1,10 @@
+Then	2	1
+,	NA	NA
+once	0	0
+more	2	2
+,	NA	NA
+came	1	0
+a	0	0
+terrific	0	0
+clap	2	2
+!	NA	NA

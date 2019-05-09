@@ -1,0 +1,11 @@
+India	1	0
+is	0	1
+far	0	0
+away	2	2
+about	2	0
+eighteen	0	0
+thirty	2	1
+was	0	0
+long	0	0
+ago	1	2
+.	NA	NA

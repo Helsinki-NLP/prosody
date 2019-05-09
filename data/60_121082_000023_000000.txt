@@ -1,0 +1,16 @@
+It	0	0
+does	0	0
+not	2	1
+;	NA	NA
+on	0	0
+the	0	0
+contrary	1	2
+,	NA	NA
+I	2	1
+think	0	1
+it	0	0
+will	0	0
+answer	0	0
+my	1	1
+purpose	1	2
+.	NA	NA

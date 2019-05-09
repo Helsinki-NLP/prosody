@@ -1,0 +1,9 @@
+Yes	2	1
+,	NA	NA
+yes	2	1
+,	NA	NA
+you	0	0
+may	2	0
+leave	0	1
+me	0	2
+.	NA	NA

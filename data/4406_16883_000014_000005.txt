@@ -1,0 +1,8 @@
+Which	0	0
+stilled	2	0
+my	0	1
+spirit	1	0
+for	0	1
+the	0	0
+present	2	2
+.	NA	NA

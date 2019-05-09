@@ -1,0 +1,13 @@
+Have	1	0
+You	0	1
+Piles	2	2
+?	NA	NA
+Why	2	0
+Suffer	0	0
+Longer	0	0
+When	0	1
+ROSSMAN'S	2	1
+CURE	1	0
+IS	0	0
+AT	1	1
+HAND	2	2

@@ -1,0 +1,9 @@
+That	2	0
+passed	2	0
+,	NA	NA
+he	0	1
+went	0	0
+on	2	1
+,	NA	NA
+unnoticing	1	2
+.	NA	NA

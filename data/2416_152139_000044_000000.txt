@@ -1,0 +1,9 @@
+Just	2	0
+a	0	0
+minute	0	1
+,	NA	NA
+interposed	1	1
+Jimmie	0	0
+Dale	1	0
+gravely	2	2
+.	NA	NA

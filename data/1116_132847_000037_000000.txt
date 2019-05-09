@@ -1,0 +1,12 @@
+'A	0	1
+man	2	0
+would	0	1
+be	0	0
+mad	2	0
+indeed	1	0
+to	1	1
+refuse	1	1
+such	1	0
+an	0	1
+offer	2	2
+.	NA	NA

@@ -1,0 +1,10 @@
+She	0	0
+was	0	0
+a	0	1
+girl	2	0
+with	0	1
+any	0	0
+amount	1	0
+of	0	2
+talent	2	2
+.	NA	NA

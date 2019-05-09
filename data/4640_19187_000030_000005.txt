@@ -1,0 +1,17 @@
+Cicero	1	0
+is	0	1
+an	0	0
+arbiter	1	0
+in	0	0
+thought	1	2
+,	NA	NA
+just	2	0
+as	1	1
+Brutus	2	1
+is	0	0
+an	0	0
+arbiter	0	0
+by	0	0
+the	0	1
+sword	2	2
+.	NA	NA

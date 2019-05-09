@@ -1,0 +1,3 @@
+Time	1	0
+passed	2	2
+.	NA	NA

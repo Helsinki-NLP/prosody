@@ -1,0 +1,12 @@
+Carling	2	0
+shivered	1	2
+,	NA	NA
+and	0	0
+passed	2	1
+a	0	0
+shaking	1	1
+hand	0	0
+across	1	0
+his	0	1
+face	1	2
+.	NA	NA

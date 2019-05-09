@@ -1,0 +1,9 @@
+Don't	2	0
+worry	2	0
+about	2	1
+me	1	1
+,	NA	NA
+he	0	0
+said	1	0
+lightly	2	2
+.	NA	NA

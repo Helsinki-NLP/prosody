@@ -1,0 +1,8 @@
+I	2	0
+thought	2	0
+it	0	1
+was	0	0
+only	0	0
+raspberry	1	1
+cordial	1	2
+.	NA	NA

@@ -1,0 +1,5 @@
+And	1	0
+New	0	0
+York	1	1
+harbour	2	2
+!	NA	NA

@@ -1,0 +1,11 @@
+Was	2	0
+it	0	0
+a	0	1
+positively	2	1
+ascertained	0	0
+fact	1	1
+that	0	0
+Lady	0	0
+Isabel	0	0
+died	2	2
+?	NA	NA

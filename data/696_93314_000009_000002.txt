@@ -1,0 +1,11 @@
+Oh	1	0
+,	NA	NA
+how	2	0
+could	0	0
+you	0	2
+be	0	0
+so	2	0
+silly	1	0
+and	0	1
+horrid	2	2
+?	NA	NA

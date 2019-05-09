@@ -1,0 +1,15 @@
+Take	2	0
+her	0	0
+by	1	0
+and	0	1
+large	1	1
+,	NA	NA
+she	0	0
+was	0	0
+a	0	0
+pretty	0	1
+cool	1	1
+,	NA	NA
+calm	1	1
+cucumber	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+Which	2	0
+they	0	1
+proceeded	2	1
+to	0	0
+do	2	0
+,	NA	NA
+quite	1	0
+amiably	2	2
+.	NA	NA

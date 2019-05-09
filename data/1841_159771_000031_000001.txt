@@ -1,0 +1,8 @@
+I	1	0
+wish	2	0
+I'd	0	1
+gone	0	1
+South	1	1
+last	0	1
+fall	1	2
+.	NA	NA

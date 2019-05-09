@@ -1,0 +1,9 @@
+Bobby	2	0
+tried	2	1
+to	0	0
+account	1	2
+for	0	0
+Paredes's	2	1
+friendly	0	0
+manner	1	2
+.	NA	NA

@@ -1,0 +1,6 @@
+He	1	0
+took	0	0
+a	1	0
+few	0	1
+steps	1	2
+.	NA	NA

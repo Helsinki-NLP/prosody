@@ -1,0 +1,7 @@
+The	0	0
+crowds	2	2
+would	0	0
+never	0	0
+let	1	1
+them	1	2
+.	NA	NA

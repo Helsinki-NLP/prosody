@@ -1,0 +1,8 @@
+Alec	2	0
+had	0	0
+a	0	2
+coarse	2	0
+taste	0	0
+in	0	1
+women	0	2
+.	NA	NA

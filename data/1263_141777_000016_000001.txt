@@ -1,0 +1,13 @@
+Having	0	0
+made	0	0
+that	2	0
+fast	2	2
+he	0	0
+picked	1	0
+up	0	0
+a	0	0
+needler	1	1
+by	1	0
+its	0	1
+sling	1	2
+.	NA	NA

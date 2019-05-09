@@ -1,0 +1,8 @@
+We	1	0
+would	0	0
+soon	1	0
+settle	1	1
+this	0	0
+important	2	1
+point	2	2
+.	NA	NA

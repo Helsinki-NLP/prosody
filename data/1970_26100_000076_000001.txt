@@ -1,0 +1,14 @@
+I	0	0
+remember	1	0
+mr	0	0
+Farnsworth	1	1
+and	0	0
+mr	0	0
+Brown	1	2
+.	NA	NA
+There	2	0
+were	0	1
+probably	1	1
+some	0	0
+others	1	2
+.	NA	NA

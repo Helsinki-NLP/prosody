@@ -1,0 +1,17 @@
+Although	2	0
+not	0	1
+one	1	0
+of	0	0
+them	0	1
+was	0	0
+walking	2	2
+,	NA	NA
+a	1	0
+dull	2	0
+trampling	1	1
+was	0	0
+audible	2	1
+in	0	0
+the	0	0
+mire	1	2
+.	NA	NA

@@ -1,0 +1,4 @@
+Without	1	0
+ill	0	1
+effect	2	2
+.	NA	NA

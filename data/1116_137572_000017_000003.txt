@@ -1,0 +1,10 @@
+Compromise	2	2
+,	NA	NA
+not	1	0
+submission	2	1
+,	NA	NA
+should	1	0
+be	0	0
+the	0	0
+rule	1	2
+.	NA	NA

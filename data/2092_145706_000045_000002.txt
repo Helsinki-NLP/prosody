@@ -1,0 +1,15 @@
+No	0	0
+matter	1	0
+how	1	1
+impossible	1	0
+it	0	0
+is	2	2
+,	NA	NA
+he	0	0
+must	1	1
+do	1	0
+it	0	0
+or	0	1
+die	2	2
+.	NA	NA
+'	NA	NA

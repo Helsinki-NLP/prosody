@@ -1,0 +1,14 @@
+The	0	0
+countess	2	2
+,	NA	NA
+Madame	1	0
+Schoss	2	1
+,	NA	NA
+and	0	0
+Sonya	1	2
+undressed	2	0
+hastily	0	0
+and	0	0
+lay	0	0
+down	1	2
+.	NA	NA

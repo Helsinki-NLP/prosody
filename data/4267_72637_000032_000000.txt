@@ -1,0 +1,11 @@
+'Yes	2	1
+,	NA	NA
+he	0	0
+is	0	0
+gone	2	1
+she	2	0
+is	0	0
+gone	0	1
+,	NA	NA
+darling	2	2
+.	NA	NA

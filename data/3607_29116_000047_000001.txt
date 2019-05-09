@@ -1,0 +1,14 @@
+The	0	1
+Colonel	0	0
+wanted	2	2
+to	0	0
+know	1	0
+all	0	1
+about	1	0
+it	0	1
+,	NA	NA
+and	0	0
+Hicks	1	1
+told	2	0
+him	0	2
+.	NA	NA

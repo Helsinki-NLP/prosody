@@ -1,0 +1,12 @@
+If	0	0
+he	2	0
+is	0	1
+poor	2	2
+,	NA	NA
+King	0	0
+George	2	0
+is	0	1
+a	0	0
+bad	1	1
+paymaster	1	2
+.	NA	NA

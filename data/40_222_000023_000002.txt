@@ -1,0 +1,8 @@
+His	1	0
+marrying	2	1
+Miss	0	0
+Thorpe	2	1
+is	0	0
+not	1	0
+probable	2	2
+.	NA	NA

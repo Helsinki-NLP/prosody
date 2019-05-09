@@ -1,0 +1,13 @@
+It	2	1
+brought	2	1
+tears	1	0
+to	0	1
+my	0	0
+eyes	1	1
+to	0	0
+hear	1	0
+him	0	0
+say	1	0
+these	0	1
+words	1	2
+.	NA	NA

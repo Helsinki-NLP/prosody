@@ -1,0 +1,6 @@
+It	0	0
+is	0	0
+nearly	2	0
+ninety	0	1
+degrees	1	2
+.	NA	NA

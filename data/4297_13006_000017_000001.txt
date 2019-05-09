@@ -1,0 +1,4 @@
+It	0	0
+is	0	0
+about	2	1
+mr	1	2

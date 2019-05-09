@@ -1,0 +1,10 @@
+Because	1	0
+they	0	0
+would	0	0
+not	1	1
+spend	0	0
+money	2	0
+so	0	1
+guiltily	0	0
+acquired	2	2
+.	NA	NA

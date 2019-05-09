@@ -1,0 +1,11 @@
+Which	0	0
+I'll	2	0
+take	0	1
+advantage	1	0
+of	1	2
+,	NA	NA
+the	0	0
+Canadian	1	0
+shot	1	1
+back	2	2
+.	NA	NA

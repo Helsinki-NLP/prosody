@@ -1,0 +1,10 @@
+It	0	0
+is	0	0
+remarkable	2	1
+that	0	0
+Eponine	1	0
+did	0	1
+not	1	0
+talk	0	1
+slang	2	2
+.	NA	NA

@@ -1,0 +1,4 @@
+No	0	0
+white	2	1
+dust	1	2
+.	NA	NA

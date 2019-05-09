@@ -1,0 +1,16 @@
+And	0	0
+instead	2	0
+of	0	1
+merely	1	0
+struggling	2	1
+with	0	0
+Nature	2	0
+for	0	0
+it	0	2
+,	NA	NA
+they	2	0
+also	0	0
+fight	0	0
+other	0	0
+ants	1	2
+.	NA	NA

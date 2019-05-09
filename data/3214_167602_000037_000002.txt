@@ -1,0 +1,6 @@
+It's	0	0
+all	2	0
+nonsense	0	2
+.	NA	NA
+.	NA	NA
+.	NA	NA

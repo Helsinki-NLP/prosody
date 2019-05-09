@@ -1,0 +1,16 @@
+The	0	1
+curtain	2	1
+has	0	0
+gone	1	0
+up	0	0
+and	0	1
+down	2	1
+six	1	1
+times	2	1
+;	NA	NA
+he	2	0
+is	0	0
+still	0	0
+lying	0	0
+there	1	2
+.	NA	NA

@@ -1,0 +1,7 @@
+What	2	0
+shall	0	0
+I	0	1
+do	1	1
+,	NA	NA
+peter	1	2
+?	NA	NA

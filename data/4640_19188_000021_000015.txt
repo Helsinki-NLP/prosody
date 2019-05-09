@@ -1,0 +1,6 @@
+That	2	0
+is	0	1
+deserting	1	0
+one's	0	1
+family	2	2
+.	NA	NA

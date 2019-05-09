@@ -1,0 +1,16 @@
+There	2	2
+,	NA	NA
+an	1	0
+opening	2	1
+made	0	0
+for	0	0
+the	0	0
+purpose	2	1
+gave	1	0
+them	0	1
+access	2	1
+to	0	0
+the	0	0
+aluminum	0	1
+car	2	2
+.	NA	NA

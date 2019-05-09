@@ -1,0 +1,8 @@
+The	0	0
+Princess	1	1
+Hyacinth	2	1
+had	1	0
+called	2	0
+for	0	1
+him	1	2
+.	NA	NA

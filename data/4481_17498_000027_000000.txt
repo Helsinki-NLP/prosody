@@ -1,0 +1,16 @@
+The	0	0
+Major	2	0
+gave	0	0
+an	0	1
+involuntary	2	1
+start	2	2
+,	NA	NA
+and	1	0
+then	0	0
+turned	0	0
+to	0	0
+look	0	0
+at	0	0
+him	0	1
+curiously	2	2
+.	NA	NA

@@ -1,0 +1,11 @@
+No	2	0
+,	NA	NA
+my	0	1
+dear	0	0
+,	NA	NA
+answered	0	2
+the	0	0
+lawyer	1	0
+,	NA	NA
+gently	2	2
+.	NA	NA

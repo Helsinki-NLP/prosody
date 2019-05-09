@@ -1,0 +1,12 @@
+I	2	0
+remember	0	1
+two	0	0
+such	2	0
+elegant	0	1
+little	0	0
+wheels	0	1
+in	0	0
+our	0	0
+own	1	1
+family	1	2
+.	NA	NA

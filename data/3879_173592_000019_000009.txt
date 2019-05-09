@@ -1,0 +1,8 @@
+The	0	0
+village	2	1
+without	1	0
+was	0	1
+full	2	0
+of	0	1
+them	1	2
+.	NA	NA

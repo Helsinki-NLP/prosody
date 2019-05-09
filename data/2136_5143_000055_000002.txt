@@ -1,0 +1,8 @@
+Let	2	0
+us	0	1
+talk	1	0
+of	0	1
+something	0	1
+else	1	2
+.	NA	NA
+'	NA	NA

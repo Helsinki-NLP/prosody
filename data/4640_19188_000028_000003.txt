@@ -1,0 +1,6 @@
+Let	1	0
+such	2	1
+leave	1	0
+the	0	0
+ranks	0	2
+.	NA	NA

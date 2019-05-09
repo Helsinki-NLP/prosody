@@ -1,0 +1,17 @@
+However	2	0
+,	NA	NA
+it	0	1
+was	0	0
+hardly	1	0
+morning	1	2
+,	NA	NA
+and	0	0
+I	0	0
+might	1	0
+reasonably	1	0
+hope	1	1
+to	0	0
+arrive	1	1
+by	0	0
+night	1	2
+.	NA	NA

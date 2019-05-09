@@ -1,0 +1,11 @@
+I	1	0
+sat	2	0
+up	0	2
+,	NA	NA
+with	0	0
+dr	0	0
+Frank	1	1
+vigorously	1	0
+rubbing	2	1
+me	0	2
+.	NA	NA

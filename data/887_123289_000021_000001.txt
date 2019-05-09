@@ -1,0 +1,5 @@
+We	0	0
+have	1	1
+got	2	1
+there	1	2
+.	NA	NA

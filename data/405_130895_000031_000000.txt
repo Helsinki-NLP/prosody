@@ -1,0 +1,11 @@
+Especially	2	1
+once	0	0
+we've	0	0
+left	2	0
+him	0	2
+,	NA	NA
+Ned	1	0
+Land	0	0
+shot	0	1
+back	1	2
+.	NA	NA

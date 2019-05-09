@@ -1,0 +1,4 @@
+Tush	0	1
+,	NA	NA
+tush	2	2
+!	NA	NA

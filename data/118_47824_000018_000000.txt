@@ -1,0 +1,3 @@
+Graham	1	0
+frowned	1	2
+.	NA	NA

@@ -1,0 +1,10 @@
+NEW	0	0
+KIND	1	1
+SALTED	1	1
+PEANUTS	1	2
+Did	0	0
+you	0	0
+ever	0	0
+try	0	0
+them	2	2
+?	NA	NA

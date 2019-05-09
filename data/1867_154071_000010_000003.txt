@@ -1,0 +1,9 @@
+It's	0	0
+just	1	1
+about	2	0
+our	0	1
+last	0	0
+chance	2	1
+,	NA	NA
+Bill	2	2
+.	NA	NA

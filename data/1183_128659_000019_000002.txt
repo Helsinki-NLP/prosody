@@ -1,0 +1,12 @@
+Once	2	0
+in	0	1
+Ohio	2	1
+several	0	0
+lads	1	1
+were	0	0
+collected	0	1
+together	1	0
+about	0	0
+a	0	1
+spring	2	2
+.	NA	NA

@@ -1,0 +1,8 @@
+He's	1	0
+what	0	0
+you	0	1
+call	2	0
+an	0	1
+eddicated	1	1
+bucker	2	2
+.	NA	NA

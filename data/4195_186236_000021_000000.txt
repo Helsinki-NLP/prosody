@@ -1,0 +1,10 @@
+We'll	0	0
+all	2	1
+go	0	0
+home	0	1
+,	NA	NA
+said	0	0
+Patsy	2	1
+,	NA	NA
+cheerfully	2	2
+.	NA	NA

@@ -1,0 +1,11 @@
+In	0	0
+the	0	0
+afternoon	1	2
+we	2	0
+reached	0	1
+Strawberry	1	0
+Valley	0	1
+and	1	0
+fell	0	0
+asleep	1	2
+.	NA	NA

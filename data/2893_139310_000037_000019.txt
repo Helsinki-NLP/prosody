@@ -1,0 +1,16 @@
+Heads	2	0
+,	NA	NA
+shoulders	1	2
+,	NA	NA
+hands	2	0
+clutching	0	0
+weapons	0	1
+,	NA	NA
+all	2	0
+were	0	1
+swinging	0	0
+with	0	1
+those	1	0
+marching	0	0
+cadences	1	2
+.	NA	NA

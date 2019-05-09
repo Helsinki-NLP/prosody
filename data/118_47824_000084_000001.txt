@@ -1,0 +1,9 @@
+Its	0	1
+brevity	2	1
+pointed	2	1
+the	0	0
+previous	0	0
+dumbness	2	0
+of	0	1
+the	0	0
+speaker	2	2

@@ -1,0 +1,6 @@
+It	2	0
+is	0	0
+an	0	1
+extraordinary	2	1
+likeness	0	2
+.	NA	NA

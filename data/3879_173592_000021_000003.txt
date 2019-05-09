@@ -1,0 +1,10 @@
+Here	2	0
+Ottigny	0	1
+halted	2	2
+and	0	0
+formed	2	0
+his	0	0
+line	0	0
+of	0	1
+march	0	2
+.	NA	NA

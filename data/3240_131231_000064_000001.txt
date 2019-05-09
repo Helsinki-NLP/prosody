@@ -1,0 +1,17 @@
+Another	2	1
+peculiarity	2	0
+of	0	1
+this	0	1
+fall	2	0
+is	0	1
+that	1	0
+some	1	0
+of	0	0
+the	0	1
+fishes	1	1
+were	0	0
+much	1	0
+larger	2	1
+than	0	0
+others	1	2
+.	NA	NA

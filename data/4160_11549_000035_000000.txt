@@ -1,0 +1,11 @@
+She	0	0
+bent	2	0
+her	0	0
+head	1	1
+with	0	0
+an	0	1
+unpleasantly	2	1
+quickened	1	1
+heart	2	0
+beat	1	2
+.	NA	NA

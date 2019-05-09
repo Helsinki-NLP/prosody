@@ -1,0 +1,6 @@
+What	1	0
+is	0	0
+it	2	1
+,	NA	NA
+Redcoat	1	2
+?	NA	NA

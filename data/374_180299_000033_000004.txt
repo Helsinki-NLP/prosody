@@ -1,0 +1,12 @@
+Let	2	0
+him	0	0
+keep	0	0
+his	0	1
+money	1	2
+;	NA	NA
+I	2	0
+will	0	0
+do	0	0
+without	2	0
+it	0	2
+.	NA	NA

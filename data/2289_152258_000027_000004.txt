@@ -1,0 +1,12 @@
+With	0	0
+a	0	0
+few	1	0
+faithful	2	1
+companions	2	1
+he	0	0
+made	1	1
+his	0	0
+escape	1	1
+to	0	0
+Medina	1	2
+.	NA	NA

@@ -1,0 +1,17 @@
+It	0	0
+is	0	1
+well	2	0
+that	0	2
+you	0	0
+come	1	0
+here	0	0
+to	0	1
+whine	2	1
+over	0	0
+the	0	0
+desolation	1	0
+that	0	0
+you	0	0
+have	0	1
+made	2	2
+.	NA	NA

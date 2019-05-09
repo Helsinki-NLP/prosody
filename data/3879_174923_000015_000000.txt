@@ -1,0 +1,10 @@
+But	0	0
+we	0	0
+don't	2	1
+pay	0	0
+the	0	0
+bishops	0	1
+,	0	0
+mr	NA	NA
+Bunce	2	2
+.	NA	NA

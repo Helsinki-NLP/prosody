@@ -1,0 +1,15 @@
+In	0	0
+the	0	0
+darkness	2	2
+,	NA	NA
+cylinder	2	0
+in	0	0
+hand	1	2
+,	NA	NA
+I	0	0
+crept	1	1
+softly	1	1
+from	0	0
+the	0	0
+bunk	1	2
+.	NA	NA

@@ -1,0 +1,5 @@
+But	0	0
+why	2	0
+this	0	1
+question	2	2
+?	NA	NA

@@ -1,0 +1,14 @@
+So	2	0
+saying	1	2
+,	NA	NA
+she	1	0
+seated	0	0
+herself	1	1
+on	0	0
+the	0	0
+underpinning	0	1
+of	0	0
+the	0	0
+fence	2	0
+and	0	1
+hummed	2	2

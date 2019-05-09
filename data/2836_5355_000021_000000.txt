@@ -1,0 +1,12 @@
+Her	0	0
+heart	2	1
+beat	0	0
+a	0	1
+little	1	0
+quicker	1	0
+;	NA	NA
+but	0	0
+she	0	1
+stilled	2	0
+it	1	2
+.	NA	NA

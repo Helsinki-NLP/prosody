@@ -1,0 +1,11 @@
+What	1	0
+are	0	0
+you	0	0
+going	2	0
+to	0	1
+do	0	0
+next	2	2
+?	NA	NA
+he	0	0
+asked	1	2
+.	NA	NA

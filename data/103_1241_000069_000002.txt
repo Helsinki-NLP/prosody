@@ -1,0 +1,6 @@
+I'm	0	0
+sure	2	0
+I'll	0	1
+guess	0	0
+right	1	2
+.	NA	NA

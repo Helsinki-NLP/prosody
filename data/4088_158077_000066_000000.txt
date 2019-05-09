@@ -1,0 +1,7 @@
+It	0	0
+decided	2	2
+to	0	0
+remove	1	0
+the	0	1
+pickets	1	2
+.	NA	NA

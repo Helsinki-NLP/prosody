@@ -1,0 +1,12 @@
+Well	2	0
+,	NA	NA
+then	0	0
+,	NA	NA
+Marguerite	1	2
+,	NA	NA
+let	2	0
+me	0	0
+take	0	0
+it	0	1
+myself	2	2
+.	NA	NA

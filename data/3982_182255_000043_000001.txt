@@ -1,0 +1,13 @@
+There	1	0
+ought	0	0
+to	0	1
+be	0	0
+a	0	0
+criminal	0	0
+law	2	2
+for	0	0
+that	0	0
+sort	0	0
+of	0	1
+thing	1	2
+.	NA	NA

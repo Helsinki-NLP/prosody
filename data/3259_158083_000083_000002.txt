@@ -1,0 +1,7 @@
+Went	1	0
+there	2	2
+and	0	0
+found	0	0
+our	0	1
+clothes	2	2
+.	NA	NA

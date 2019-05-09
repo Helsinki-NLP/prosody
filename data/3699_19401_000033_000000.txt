@@ -1,0 +1,7 @@
+A	0	0
+just	1	0
+medium	1	2
+prevents	1	0
+all	2	0
+conclusions	1	2
+.	NA	NA

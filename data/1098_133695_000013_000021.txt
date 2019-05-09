@@ -1,0 +1,16 @@
+Isabel's	2	0
+originality	1	2
+was	2	0
+that	0	0
+she	0	0
+gave	1	1
+one	1	0
+an	0	0
+impression	1	1
+of	0	0
+having	0	0
+intentions	0	1
+of	0	0
+her	0	0
+own	2	2
+.	NA	NA

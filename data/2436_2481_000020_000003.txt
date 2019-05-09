@@ -1,0 +1,5 @@
+Tell	0	1
+Blackstone	1	1
+what's	0	0
+happened	2	2
+.	NA	NA

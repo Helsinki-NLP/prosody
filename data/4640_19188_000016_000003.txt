@@ -1,0 +1,7 @@
+You	0	0
+smell	1	0
+of	0	1
+powder	1	1
+.	NA	NA
+Shot	2	2
+.	NA	NA

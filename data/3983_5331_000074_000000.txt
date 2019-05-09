@@ -1,0 +1,8 @@
+They	2	0
+shan't	0	1
+come	2	2
+!	NA	NA
+screamed	1	0
+Miss	0	1
+Carlyle	1	2
+.	NA	NA

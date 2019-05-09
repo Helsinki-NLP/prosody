@@ -1,0 +1,6 @@
+But	0	0
+cannot	2	0
+one	0	0
+learn	0	1
+philosophy	1	2
+?	NA	NA

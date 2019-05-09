@@ -1,0 +1,15 @@
+I	0	0
+had	2	0
+not	0	0
+only	0	0
+no	1	1
+friends	2	2
+,	NA	NA
+but	2	0
+was	0	1
+despised	2	1
+by	1	0
+all	0	0
+my	0	0
+companions	0	2
+.	NA	NA

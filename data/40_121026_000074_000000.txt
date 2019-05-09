@@ -1,0 +1,9 @@
+And	2	0
+what	1	2
+did	0	0
+you	0	0
+do	2	0
+with	1	1
+that	1	0
+letter	1	2
+?	NA	NA

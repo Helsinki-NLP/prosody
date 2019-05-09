@@ -1,0 +1,16 @@
+If	2	1
+the	0	0
+solitude	2	1
+these	0	0
+mountains	1	1
+promise	2	1
+deceives	0	1
+me	0	0
+not	2	1
+,	NA	NA
+it	0	0
+is	1	0
+so	2	2
+;	NA	NA
+ah	2	2
+!	NA	NA

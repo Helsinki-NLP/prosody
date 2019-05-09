@@ -1,0 +1,4 @@
+Then	1	0
+said	0	2
+the	0	0
+elder	2	2

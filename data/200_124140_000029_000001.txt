@@ -1,0 +1,10 @@
+I	2	1
+fancy	1	1
+she	0	0
+was	0	0
+wanted	0	0
+about	2	1
+the	0	0
+mince	0	1
+pies	2	2
+.	NA	NA

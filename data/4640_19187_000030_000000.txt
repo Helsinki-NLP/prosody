@@ -1,0 +1,8 @@
+Caesar	2	0
+,	NA	NA
+said	0	1
+Combeferre	1	0
+,	NA	NA
+fell	0	1
+justly	1	2
+.	NA	NA

@@ -1,0 +1,16 @@
+Each	1	0
+lightning	1	1
+flash	0	1
+was	0	0
+followed	2	0
+in	0	1
+a	0	0
+second	0	0
+or	0	0
+two	2	2
+,	NA	NA
+by	2	0
+a	0	0
+terrific	0	1
+clap	2	2
+.	NA	NA

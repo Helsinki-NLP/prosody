@@ -1,0 +1,5 @@
+Good	0	0
+morning	1	1
+,	NA	NA
+Martha	2	2
+.	NA	NA

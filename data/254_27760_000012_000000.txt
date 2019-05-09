@@ -1,0 +1,14 @@
+Vanka	1	1
+sighs	2	2
+,	NA	NA
+dips	1	0
+his	0	0
+pen	1	0
+in	0	0
+the	0	0
+ink	1	2
+,	NA	NA
+and	1	0
+continues	0	1
+to	0	0
+write	2	2

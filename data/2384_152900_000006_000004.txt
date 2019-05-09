@@ -1,0 +1,8 @@
+We	0	0
+also	2	0
+had	0	1
+quantities	1	0
+of	0	1
+loose	1	0
+straps	2	2
+.	NA	NA

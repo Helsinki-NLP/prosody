@@ -1,0 +1,15 @@
+The	0	0
+campfire	2	0
+burned	0	1
+steadily	2	2
+,	NA	NA
+and	0	0
+there	1	0
+was	0	0
+a	0	0
+certain	0	0
+oppressiveness	2	1
+in	0	0
+the	0	0
+atmosphere	1	2
+.	NA	NA

@@ -1,0 +1,5 @@
+He	0	0
+paused	2	1
+,	NA	NA
+listening	0	2
+.	NA	NA

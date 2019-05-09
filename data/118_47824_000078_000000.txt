@@ -1,0 +1,8 @@
+I've	2	0
+been	0	0
+watching	1	0
+the	0	1
+preparations	2	1
+out	0	0
+there	2	2
+.	NA	NA

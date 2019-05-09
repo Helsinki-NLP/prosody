@@ -1,0 +1,12 @@
+Did	0	1
+you	2	0
+ever	0	0
+have	0	1
+an	0	0
+ache	0	0
+like	0	0
+that	1	1
+,	1	1
+mr	NA	NA
+Cuthbert	2	2
+?	NA	NA

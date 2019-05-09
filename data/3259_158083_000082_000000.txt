@@ -1,0 +1,12 @@
+Of	0	0
+this	1	0
+experience	1	2
+,	NA	NA
+Miss	1	0
+Burns	2	0
+wrote	1	0
+on	0	1
+tiny	0	0
+scraps	0	0
+of	0	1
+paper	1	2

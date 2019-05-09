@@ -1,0 +1,5 @@
+Happy	2	1
+,	NA	NA
+happy	0	0
+earth	1	2
+!	NA	NA

@@ -1,0 +1,6 @@
+Could	2	0
+we	0	1
+break	1	1
+through	1	0
+it	0	2
+?	NA	NA

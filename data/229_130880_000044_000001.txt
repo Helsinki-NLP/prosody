@@ -1,0 +1,9 @@
+You	0	0
+will	2	0
+be	0	1
+going	2	0
+with	0	1
+us	0	1
+,	NA	NA
+right	2	2
+?	NA	NA

@@ -1,0 +1,14 @@
+Your	0	0
+tilbury	1	1
+,	NA	NA
+your	0	0
+groom	2	1
+,	NA	NA
+your	0	0
+clothes	1	2
+,	NA	NA
+are	0	0
+not	1	0
+then	0	0
+hired	2	2
+?	NA	NA

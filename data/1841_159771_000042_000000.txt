@@ -1,0 +1,13 @@
+You	2	0
+advised	1	0
+me	0	1
+to	0	0
+get	1	0
+more	0	1
+food	2	2
+,	NA	NA
+said	1	0
+Master	0	0
+Meadow	0	1
+Mouse	1	2
+.	NA	NA

@@ -1,0 +1,13 @@
+And	0	0
+the	0	0
+feet	2	0
+of	0	1
+the	0	0
+people	1	0
+were	0	0
+beating	0	0
+time	1	1
+tramp	2	1
+,	NA	NA
+tramp	2	2
+.	NA	NA

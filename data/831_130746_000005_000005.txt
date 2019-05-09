@@ -1,0 +1,3 @@
+Stopped	1	1
+again	2	2
+.	NA	NA

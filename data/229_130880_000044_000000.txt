@@ -1,0 +1,7 @@
+Not	0	0
+a	0	0
+one	2	0
+,	0	1
+mr	NA	NA
+Naturalist	2	2
+.	NA	NA

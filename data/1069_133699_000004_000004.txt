@@ -1,0 +1,3 @@
+Middling	2	1
+indeed	1	2
+!	NA	NA

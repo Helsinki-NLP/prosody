@@ -1,0 +1,7 @@
+And	2	0
+how	0	0
+did	0	1
+he	0	0
+treat	2	1
+you	1	2
+?	NA	NA

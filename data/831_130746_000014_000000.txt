@@ -1,0 +1,3 @@
+Has	0	1
+gone	2	2
+.	NA	NA

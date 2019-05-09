@@ -1,0 +1,13 @@
+Yes	2	2
+yes	2	2
+,	NA	NA
+she	1	0
+answered	0	0
+,	NA	NA
+in	0	0
+a	0	0
+low	0	0
+,	NA	NA
+sweet	0	1
+voice	2	2
+.	NA	NA

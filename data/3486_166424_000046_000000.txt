@@ -1,0 +1,8 @@
+Timed	2	1
+to	1	0
+a	0	2
+second	2	1
+!	NA	NA
+cried	1	0
+Ventnor	2	2
+.	NA	NA

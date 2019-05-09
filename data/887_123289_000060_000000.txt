@@ -1,0 +1,13 @@
+That	1	0
+is	0	0
+right	2	2
+;	NA	NA
+and	0	0
+this	1	0
+would	0	0
+make	0	1
+three	0	0
+hundred	0	0
+leagues	0	1
+more	1	2
+.	NA	NA

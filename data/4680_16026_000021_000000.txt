@@ -1,0 +1,10 @@
+This	0	0
+is	1	0
+the	0	1
+place	2	1
+,	NA	NA
+said	2	0
+one	0	0
+of	0	0
+them	1	2
+.	NA	NA

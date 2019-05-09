@@ -1,0 +1,14 @@
+Mills	2	0
+and	0	1
+factories	1	0
+took	0	0
+on	0	1
+new	0	0
+life	2	2
+.	NA	NA
+Labor	2	1
+was	0	0
+scarce	1	0
+and	0	1
+high	1	2
+.	NA	NA

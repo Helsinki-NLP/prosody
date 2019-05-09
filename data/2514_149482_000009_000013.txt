@@ -1,0 +1,15 @@
+You	0	0
+know	1	0
+nothing	0	1
+,	NA	NA
+sir	2	2
+but	0	0
+not	1	0
+the	0	0
+least	0	1
+little	0	0
+bit	2	2
+about	2	1
+my	0	0
+friend	1	2
+.	NA	NA

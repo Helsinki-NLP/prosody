@@ -1,0 +1,6 @@
+It	0	0
+is	1	0
+what	1	0
+everybody	1	1
+says	2	2
+.	NA	NA

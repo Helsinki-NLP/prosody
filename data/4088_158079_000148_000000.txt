@@ -1,0 +1,12 @@
+President	1	0
+Wilson's	2	1
+word	2	2
+would	0	0
+carry	1	0
+the	0	0
+question	1	0
+into	0	1
+Congress	2	2
+.	NA	NA
+.	NA	NA
+.	NA	NA

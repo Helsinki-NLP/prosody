@@ -1,0 +1,16 @@
+Only	2	0
+one	1	0
+penny	1	0
+to	0	1
+those	0	1
+poor	2	0
+people	0	1
+who	0	0
+make	0	0
+their	0	1
+employers	1	1
+rich	2	2
+!	NA	NA
+That's	0	0
+atrocious	2	2
+!	NA	NA

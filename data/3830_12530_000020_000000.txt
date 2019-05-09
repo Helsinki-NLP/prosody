@@ -1,0 +1,9 @@
+We	0	0
+were	0	0
+wide	2	0
+awake	0	1
+now	2	0
+and	0	1
+gave	1	0
+chase	1	2
+.	NA	NA

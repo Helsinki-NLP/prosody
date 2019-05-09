@@ -1,0 +1,14 @@
+Bide	2	1
+thou	1	0
+here	0	1
+till	0	0
+I	1	0
+bring	0	1
+thee	0	0
+money	0	0
+to	0	2
+pay	2	0
+our	0	0
+good	0	0
+Hugh	1	2
+.	NA	NA

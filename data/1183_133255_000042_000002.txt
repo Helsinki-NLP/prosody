@@ -1,0 +1,5 @@
+IT	2	0
+HAS	2	1
+NO	0	0
+EQUAL	1	1
+for	0	2

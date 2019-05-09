@@ -1,0 +1,9 @@
+It	2	0
+would	0	1
+be	0	0
+interesting	1	1
+to	0	0
+know	2	0
+for	0	1
+certain	2	2
+.	NA	NA

@@ -1,0 +1,3 @@
+FRIED	1	0
+PERCH	0	1
+three	2	2

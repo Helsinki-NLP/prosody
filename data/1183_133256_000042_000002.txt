@@ -1,0 +1,4 @@
+Testimonials	1	0
+SENT	1	1
+FREE	1	2
+.	NA	NA

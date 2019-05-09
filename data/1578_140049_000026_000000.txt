@@ -1,0 +1,9 @@
+Something	0	0
+awful	2	0
+has	0	1
+happened	1	0
+,	NA	NA
+panted	0	1
+Emma	0	0
+Jane	2	2
+.	NA	NA

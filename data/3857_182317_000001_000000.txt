@@ -1,0 +1,15 @@
+There	2	0
+are	0	1
+many	1	0
+other	1	1
+beasts	0	1
+that	0	0
+one	1	0
+might	2	1
+once	1	0
+have	0	1
+thought	2	0
+had	0	1
+a	0	0
+chance	2	2
+.	NA	NA

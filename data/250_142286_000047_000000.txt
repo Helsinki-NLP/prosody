@@ -1,0 +1,10 @@
+'What	2	0
+are	0	0
+you	0	1
+saying	2	0
+about	1	1
+me	0	0
+,	NA	NA
+Miss	0	1
+Hale	2	2
+?	NA	NA

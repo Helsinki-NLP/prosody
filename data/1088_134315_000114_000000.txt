@@ -1,0 +1,11 @@
+It	0	0
+was	2	0
+a	0	1
+square	2	1
+case	1	1
+covered	0	0
+in	0	0
+red	0	1
+morocco	2	0
+leather	0	2
+.	NA	NA

@@ -1,0 +1,12 @@
+Luckily	2	0
+it	0	1
+seems	1	1
+that	0	0
+nothing	1	0
+has	0	1
+been	0	0
+said	2	0
+on	0	0
+either	0	1
+side	2	2
+.	NA	NA

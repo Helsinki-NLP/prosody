@@ -1,0 +1,16 @@
+Vanka	1	0
+ran	0	0
+to	0	1
+the	0	0
+first	2	1
+post	1	1
+box	1	2
+and	0	0
+slipped	2	0
+his	0	1
+precious	0	0
+letter	1	2
+into	1	0
+the	0	0
+slit	2	2
+.	NA	NA

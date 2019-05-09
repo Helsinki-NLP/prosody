@@ -1,0 +1,16 @@
+And	0	1
+then	2	1
+I	0	0
+now	2	0
+know	0	2
+that	1	0
+death	2	1
+can	0	0
+also	1	0
+be	0	0
+felt	1	0
+as	0	1
+beautiful	1	0
+and	0	0
+sweet	1	2
+.	NA	NA

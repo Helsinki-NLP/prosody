@@ -1,0 +1,9 @@
+'School	1	0
+is	1	0
+done	1	1
+,	NA	NA
+Now	1	0
+we'll	0	0
+have	0	1
+fun	2	2
+,	NA	NA

@@ -1,0 +1,7 @@
+I	2	0
+could	0	0
+hardly	2	0
+keep	0	1
+my	1	0
+countenance	2	2
+.	NA	NA

@@ -1,0 +1,11 @@
+We	2	0
+are	0	1
+headquarters	1	0
+for	0	2
+a	2	0
+p	0	0
+w	1	1
+Brand	0	0
+Toilet	1	0
+Paper	0	2
+.	NA	NA

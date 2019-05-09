@@ -1,0 +1,17 @@
+It	0	0
+is	1	0
+the	0	1
+cat	2	2
+,	NA	NA
+the	0	0
+chips	2	1
+,	NA	NA
+and	1	0
+the	0	0
+milk	1	1
+pail	1	1
+that	0	0
+I	0	0
+don't	0	0
+like	1	2
+.	NA	NA

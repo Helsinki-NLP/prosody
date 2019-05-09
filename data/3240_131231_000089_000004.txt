@@ -1,0 +1,15 @@
+Or	2	0
+Science	1	0
+and	0	0
+its	0	1
+continuity	1	0
+with	0	1
+Presbyterianism	2	2
+data	2	0
+like	0	0
+this	0	0
+are	0	0
+damned	0	0
+at	0	0
+birth	1	2
+.	NA	NA

@@ -1,0 +1,12 @@
+May	0	0
+God	2	0
+watch	0	0
+over	1	0
+you	0	0
+and	0	1
+protect	1	0
+you	0	1
+from	0	0
+all	2	0
+harm	0	2
+.	NA	NA

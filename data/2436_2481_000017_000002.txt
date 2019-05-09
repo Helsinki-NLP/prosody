@@ -1,0 +1,4 @@
+Balch	2	1
+dashed	2	0
+up	0	2
+.	NA	NA

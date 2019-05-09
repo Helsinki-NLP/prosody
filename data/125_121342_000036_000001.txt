@@ -1,0 +1,4 @@
+I'm	0	0
+not	2	1
+sure	0	2
+.	NA	NA

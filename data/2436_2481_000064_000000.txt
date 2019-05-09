@@ -1,0 +1,11 @@
+I'm	0	0
+all	1	0
+right	2	1
+.	NA	NA
+I	0	0
+told	2	0
+them	0	1
+what	0	0
+had	0	0
+happened	1	2
+.	NA	NA

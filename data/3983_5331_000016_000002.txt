@@ -1,0 +1,8 @@
+mr	1	0
+Dill	2	0
+shut	0	1
+me	0	0
+into	0	1
+his	0	0
+room	2	2
+.	NA	NA

@@ -1,0 +1,12 @@
+Oh	2	0
+,	NA	NA
+any	0	1
+good	0	0
+office	1	2
+the	0	0
+Influential	2	0
+,	NA	NA
+if	0	1
+you	0	0
+like	1	2
+.	NA	NA

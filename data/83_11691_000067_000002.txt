@@ -1,0 +1,6 @@
+Spasm	2	0
+after	0	1
+spasm	2	1
+shook	1	0
+him	0	2
+.	NA	NA

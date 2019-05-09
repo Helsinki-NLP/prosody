@@ -1,0 +1,13 @@
+Her	1	0
+face	2	0
+was	0	1
+more	1	0
+flushed	2	1
+than	0	0
+it	0	0
+had	0	1
+been	2	1
+throughout	2	1
+the	0	0
+interview	2	2
+.	NA	NA

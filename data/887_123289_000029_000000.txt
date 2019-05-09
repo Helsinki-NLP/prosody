@@ -1,0 +1,6 @@
+In	1	0
+the	0	1
+simplest	1	1
+way	0	0
+possible	2	2
+.	NA	NA

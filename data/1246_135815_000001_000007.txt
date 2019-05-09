@@ -1,0 +1,13 @@
+He	2	0
+knew	1	1
+that	0	0
+Johnny	2	0
+Chuck	1	1
+would	0	0
+not	1	1
+dare	2	1
+disobey	1	1
+Old	0	1
+Mother	0	0
+Nature	1	2
+.	NA	NA

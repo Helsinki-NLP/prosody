@@ -1,0 +1,6 @@
+Entirely	2	2
+,	NA	NA
+replied	0	0
+the	0	0
+captain	0	2
+.	NA	NA

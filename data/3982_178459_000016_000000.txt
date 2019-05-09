@@ -1,0 +1,12 @@
+What	1	0
+did	0	0
+you	0	0
+say	0	0
+,	NA	NA
+Bibbs	1	2
+?	NA	NA
+she	0	0
+asked	2	2
+,	NA	NA
+quietly	2	2
+.	NA	NA

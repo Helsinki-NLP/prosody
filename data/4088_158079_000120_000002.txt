@@ -1,0 +1,8 @@
+The	0	1
+law	2	0
+gives	0	1
+you	0	0
+no	0	0
+such	0	1
+power	2	2
+.	NA	NA

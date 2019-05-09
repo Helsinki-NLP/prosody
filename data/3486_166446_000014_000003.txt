@@ -1,0 +1,15 @@
+And	0	0
+they	0	1
+promised	1	1
+him	0	0
+other	1	0
+agonies	0	1
+that	0	0
+would	0	0
+make	0	0
+him	0	1
+pray	1	0
+long	0	1
+for	0	0
+death	2	2
+.	NA	NA

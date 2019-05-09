@@ -1,0 +1,6 @@
+Is	1	0
+that	2	1
+to	0	0
+be	0	0
+it	2	2
+?	NA	NA

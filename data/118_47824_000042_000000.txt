@@ -1,0 +1,6 @@
+How	2	0
+did	0	0
+you	0	1
+get	0	0
+away	2	2
+?	NA	NA

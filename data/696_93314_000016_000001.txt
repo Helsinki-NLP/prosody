@@ -1,0 +1,7 @@
+I'm	1	0
+a	0	0
+director	2	0
+,	NA	NA
+you	0	1
+know	2	2
+.	NA	NA

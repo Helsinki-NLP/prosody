@@ -1,0 +1,16 @@
+That	2	0
+there	0	0
+is	0	1
+not	1	0
+one	1	0
+report	1	1
+findable	1	0
+of	0	0
+a	0	1
+fall	2	2
+of	2	1
+tadpoles	2	1
+from	1	1
+the	1	1
+sky	2	2
+.	NA	NA

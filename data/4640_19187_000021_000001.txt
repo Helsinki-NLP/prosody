@@ -1,0 +1,8 @@
+There	2	0
+were	0	1
+still	2	0
+thirty	0	0
+seven	1	0
+of	0	1
+them	1	2
+.	NA	NA

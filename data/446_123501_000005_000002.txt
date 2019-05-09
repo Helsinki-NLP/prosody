@@ -1,0 +1,15 @@
+Now	2	0
+commenced	0	1
+a	0	0
+series	1	0
+of	0	0
+evolutions	1	1
+which	1	1
+even	1	0
+then	2	0
+seemed	1	1
+ludicrous	2	2
+in	1	0
+the	0	0
+extreme	0	2
+.	NA	NA

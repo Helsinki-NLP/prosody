@@ -1,0 +1,7 @@
+And	0	0
+he's	0	1
+pretty	1	1
+cute	1	1
+,	NA	NA
+too	2	2
+.	NA	NA

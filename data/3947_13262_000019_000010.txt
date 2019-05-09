@@ -1,0 +1,7 @@
+One	2	0
+thing	1	0
+I	0	0
+have	0	1
+found	0	0
+out	1	2
+.	NA	NA

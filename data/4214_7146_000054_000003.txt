@@ -1,0 +1,10 @@
+Likely	2	1
+she'd	0	0
+listen	1	1
+to	0	0
+you	2	0
+quicker	1	0
+than	0	1
+to	0	0
+me	2	2
+.	NA	NA

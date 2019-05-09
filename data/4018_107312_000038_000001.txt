@@ -1,0 +1,10 @@
+I	0	0
+can't	2	1
+stand	2	0
+a	0	1
+country	0	0
+life	2	1
+,	0	0
+Mrs	NA	NA
+Carey	2	2
+.	NA	NA

@@ -1,0 +1,3 @@
+The	0	1
+major	2	2
+.	NA	NA

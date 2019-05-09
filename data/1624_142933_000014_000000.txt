@@ -1,0 +1,14 @@
+peter	1	0
+looked	0	1
+up	1	1
+to	0	0
+see	0	0
+a	0	1
+bird	2	1
+a	0	0
+little	1	1
+smaller	2	1
+than	0	0
+Welcome	1	0
+Robin	1	2
+.	NA	NA

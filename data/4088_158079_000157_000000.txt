@@ -1,0 +1,11 @@
+The	0	0
+Avenue	1	0
+was	0	1
+roped	1	1
+off	2	0
+on	0	1
+account	1	0
+of	0	0
+the	0	2
+parade	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+This	1	0
+multitude	2	1
+undulated	1	0
+confusedly	1	0
+in	0	2
+the	0	0
+nocturnal	0	0
+gloom	2	2
+.	NA	NA

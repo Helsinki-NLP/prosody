@@ -1,0 +1,8 @@
+I've	1	0
+talked	2	1
+quite	2	0
+enough	1	1
+for	0	0
+one	0	1
+morning	2	2
+.	NA	NA

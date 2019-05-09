@@ -1,0 +1,8 @@
+But	2	0
+whom	0	0
+are	1	0
+you	0	1
+seeking	0	1
+,	NA	NA
+Debray	2	2
+?	NA	NA

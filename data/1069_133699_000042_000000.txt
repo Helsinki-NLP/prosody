@@ -1,0 +1,13 @@
+It's	1	0
+not	2	0
+a	0	1
+grand	0	0
+passion	1	2
+;	NA	NA
+I'm	2	0
+very	0	0
+sure	1	0
+it's	0	1
+not	1	0
+that	2	2
+.	NA	NA

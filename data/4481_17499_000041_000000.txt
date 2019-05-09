@@ -1,0 +1,6 @@
+Quite	2	1
+well	0	0
+,	NA	NA
+thank	1	0
+you	1	2
+.	NA	NA

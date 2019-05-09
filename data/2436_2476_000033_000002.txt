@@ -1,0 +1,4 @@
+A	0	0
+theatrical	2	1
+entertainer	0	2
+.	NA	NA

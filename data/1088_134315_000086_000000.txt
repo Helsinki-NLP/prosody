@@ -1,0 +1,10 @@
+At	2	0
+six	0	0
+o'clock	1	0
+,	NA	NA
+miss	0	2
+,	NA	NA
+the	0	0
+man	1	1
+replied	2	2
+.	NA	NA

@@ -1,0 +1,8 @@
+It	0	1
+depends	2	1
+on	0	0
+the	0	0
+way	0	0
+you	0	1
+count	2	2
+.	NA	NA

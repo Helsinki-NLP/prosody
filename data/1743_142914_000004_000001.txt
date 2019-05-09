@@ -1,0 +1,4 @@
+You	0	1
+scared	0	1
+him	2	2
+.	NA	NA

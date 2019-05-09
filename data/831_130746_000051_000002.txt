@@ -1,0 +1,15 @@
+But	1	0
+compared	0	0
+with	0	0
+Bechamel	1	2
+!	NA	NA
+We	0	0
+take	2	0
+each	0	0
+other	0	0
+on	0	1
+trust	1	1
+,	NA	NA
+she	0	0
+said	2	2
+.	NA	NA

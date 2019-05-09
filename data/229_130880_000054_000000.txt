@@ -1,0 +1,17 @@
+Ned	2	0
+and	0	1
+Conseil	0	0
+took	0	0
+seats	0	0
+on	0	1
+a	0	0
+couch	2	2
+,	NA	NA
+and	0	0
+right	2	0
+off	0	1
+the	0	0
+Canadian	1	0
+said	0	0
+to	0	0
+me	1	2

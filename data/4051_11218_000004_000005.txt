@@ -1,0 +1,10 @@
+Death	2	0
+or	0	0
+victory	1	2
+!	NA	NA
+Come	0	0
+on	2	0
+,	NA	NA
+brave	0	1
+comrades	1	2
+!	NA	NA

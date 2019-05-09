@@ -1,0 +1,6 @@
+You	0	1
+haven't	1	0
+got	1	1
+any	0	0
+money	2	2
+.	NA	NA

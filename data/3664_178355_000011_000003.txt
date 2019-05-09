@@ -1,0 +1,14 @@
+The	0	0
+score	2	0
+now	0	0
+stood	1	1
+fifty	1	0
+six	1	2
+to	0	0
+thirty	1	0
+seven	2	2
+,	NA	NA
+in	0	0
+my	0	0
+favor	1	2
+.	NA	NA

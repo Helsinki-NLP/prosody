@@ -1,0 +1,14 @@
+Again	2	0
+they	0	0
+moved	0	0
+forward	1	2
+,	NA	NA
+and	1	0
+soon	1	0
+encountered	0	1
+Potanou	1	1
+with	0	0
+all	1	0
+his	0	1
+host	2	2
+.	NA	NA

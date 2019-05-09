@@ -1,0 +1,14 @@
+Shall	1	1
+fire	2	2
+,	NA	NA
+air	2	0
+,	NA	NA
+and	0	1
+water	1	0
+make	0	0
+a	0	2
+combined	1	0
+attack	0	0
+against	0	0
+me	1	2
+?	NA	NA

@@ -1,0 +1,9 @@
+At	1	0
+that	2	1
+moment	2	2
+a	2	0
+hand	1	1
+touched	0	0
+his	0	0
+shoulder	1	2
+.	NA	NA

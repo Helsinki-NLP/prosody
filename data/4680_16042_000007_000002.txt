@@ -1,0 +1,8 @@
+It	0	0
+was	1	0
+the	0	1
+interior	2	1
+of	0	0
+the	0	0
+barricade	2	2
+.	NA	NA

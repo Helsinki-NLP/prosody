@@ -1,0 +1,6 @@
+A	0	0
+felon's	2	0
+death	1	2
+the	0	0
+chair	2	2
+!	NA	NA

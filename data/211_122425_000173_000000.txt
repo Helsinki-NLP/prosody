@@ -1,0 +1,5 @@
+Quite	2	0
+contrite	1	0
+and	0	1
+repentant	1	2
+!	NA	NA

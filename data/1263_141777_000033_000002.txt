@@ -1,0 +1,16 @@
+Clumps	1	0
+of	0	1
+small	1	0
+trees	0	1
+and	0	0
+high	2	0
+growing	0	0
+bushes	0	1
+dotted	2	0
+that	0	0
+expanse	1	2
+,	NA	NA
+an	0	0
+ideal	2	0
+cover	1	2
+.	NA	NA

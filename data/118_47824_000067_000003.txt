@@ -1,0 +1,6 @@
+Clearly	2	0
+he	0	1
+had	0	0
+slept	1	0
+little	2	2
+.	NA	NA

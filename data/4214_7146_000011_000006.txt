@@ -1,0 +1,8 @@
+And	2	0
+then	0	0
+into	0	0
+the	0	1
+parlor	2	0
+to	0	1
+sit	2	2
+?	NA	NA

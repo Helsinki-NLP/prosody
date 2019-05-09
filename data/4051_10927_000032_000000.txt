@@ -1,0 +1,15 @@
+Alexey	2	0
+Alexandrovitch	1	1
+sighed	2	2
+,	NA	NA
+and	0	0
+,	NA	NA
+without	2	0
+saying	0	0
+more	0	1
+,	NA	NA
+went	1	0
+into	0	0
+the	0	0
+bedroom	1	2
+.	NA	NA

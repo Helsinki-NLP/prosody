@@ -1,0 +1,11 @@
+I	1	0
+told	2	0
+you	0	1
+to	0	0
+put	0	0
+it	0	0
+up	2	1
+,	NA	NA
+said	0	1
+Priscilla	2	2
+.	NA	NA

@@ -1,0 +1,6 @@
+Said	1	0
+it	0	0
+was	0	1
+too	0	0
+long	2	2
+!	NA	NA

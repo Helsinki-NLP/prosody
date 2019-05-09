@@ -1,0 +1,7 @@
+It's	0	1
+heavy	2	0
+,	NA	NA
+lads	1	1
+solid	2	0
+books	1	2
+.	NA	NA

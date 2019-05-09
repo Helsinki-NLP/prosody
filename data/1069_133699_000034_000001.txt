@@ -1,0 +1,14 @@
+At	1	0
+the	0	0
+mention	0	0
+of	0	1
+mr	1	0
+Goodwood's	1	1
+name	1	2
+she	2	0
+had	0	1
+turned	0	0
+a	0	0
+little	0	1
+pale	2	2
+.	NA	NA

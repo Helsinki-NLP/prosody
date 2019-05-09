@@ -1,0 +1,5 @@
+It	0	0
+is	2	0
+only	0	1
+natural	1	2
+.	NA	NA

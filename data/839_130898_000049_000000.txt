@@ -1,0 +1,8 @@
+I	2	0
+was	0	0
+on	0	0
+the	0	1
+platform	2	1
+just	0	1
+then	1	2
+.	NA	NA

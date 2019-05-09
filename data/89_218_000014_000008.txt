@@ -1,0 +1,7 @@
+Human	0	0
+nature	2	1
+could	0	0
+support	2	1
+no	0	0
+more	1	2
+.	NA	NA

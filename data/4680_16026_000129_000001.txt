@@ -1,0 +1,6 @@
+I	0	0
+don't	2	0
+hit	1	1
+a	0	0
+lady	1	2
+.	NA	NA

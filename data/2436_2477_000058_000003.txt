@@ -1,0 +1,7 @@
+A	0	0
+crooked	2	0
+game	0	1
+,	NA	NA
+of	0	0
+course	2	2
+.	NA	NA

@@ -1,0 +1,7 @@
+Impossible	1	1
+,	NA	NA
+impossible	2	1
+!	NA	NA
+murmured	1	0
+Lorenzo	0	2
+.	NA	NA

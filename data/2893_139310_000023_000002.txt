@@ -1,0 +1,7 @@
+No	2	0
+one	0	1
+expected	2	1
+you	0	0
+to	0	0
+wake	2	2
+.	NA	NA

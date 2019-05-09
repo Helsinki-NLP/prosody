@@ -1,0 +1,6 @@
+Was	0	0
+it	0	0
+sagacity	2	1
+?	NA	NA
+sense	2	2
+?	NA	NA

@@ -1,0 +1,15 @@
+'But	0	0
+where	2	0
+am	0	0
+I	0	0
+to	0	1
+find	1	1
+a	0	0
+young	1	0
+man's	1	2
+clothes	2	1
+?	NA	NA
+'	NA	NA
+asked	0	1
+she	2	2
+.	NA	NA

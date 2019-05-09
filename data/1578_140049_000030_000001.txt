@@ -1,0 +1,11 @@
+I	1	0
+just	0	2
+sat	2	0
+at	0	0
+the	0	0
+gate	2	1
+and	0	0
+held	2	0
+the	0	1
+horse	1	2
+.	NA	NA

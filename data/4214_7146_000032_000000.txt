@@ -1,0 +1,12 @@
+I	0	0
+must	2	1
+go	0	0
+home	2	2
+,	NA	NA
+repeated	1	0
+Diana	0	1
+,	NA	NA
+stupidly	2	1
+but	0	0
+determinedly	1	2
+.	NA	NA

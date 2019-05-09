@@ -1,0 +1,11 @@
+Stay	2	0
+at	0	0
+Elmhurst	1	2
+,	NA	NA
+and	0	0
+you	0	0
+shall	0	0
+always	2	1
+be	0	0
+welcome	2	2
+.	NA	NA

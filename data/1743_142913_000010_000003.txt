@@ -1,0 +1,8 @@
+mrs	2	0
+Pewee	0	1
+and	0	0
+I	0	0
+are	0	1
+very	2	1
+retiring	2	2
+.	NA	NA

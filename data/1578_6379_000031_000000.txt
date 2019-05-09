@@ -1,0 +1,10 @@
+Where	2	0
+on	0	1
+earth	1	1
+did	1	0
+you	0	1
+get	1	0
+it	0	1
+,	NA	NA
+Patty	2	2
+?	NA	NA

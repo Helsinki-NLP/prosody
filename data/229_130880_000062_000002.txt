@@ -1,0 +1,15 @@
+On	1	1
+the	0	0
+valves	2	1
+a	0	0
+pearl	1	0
+sticks	0	1
+fast	2	1
+;	NA	NA
+on	1	0
+the	0	0
+flesh	2	1
+it	1	0
+lies	0	0
+loose	0	2
+.	NA	NA

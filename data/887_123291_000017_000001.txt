@@ -1,0 +1,15 @@
+Eminent	1	0
+geologists	1	1
+have	0	0
+denied	1	0
+his	0	0
+existence	0	2
+,	NA	NA
+others	2	0
+no	0	0
+less	0	0
+eminent	0	1
+have	0	0
+affirmed	1	0
+it	0	2
+.	NA	NA

@@ -1,0 +1,12 @@
+My	0	0
+uncle	2	2
+,	NA	NA
+usually	1	0
+so	0	1
+garrulous	2	2
+,	NA	NA
+was	1	0
+struck	0	0
+dumb	0	0
+likewise	1	2
+.	NA	NA

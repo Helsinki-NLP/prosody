@@ -1,0 +1,13 @@
+No	2	2
+,	NA	NA
+I	0	0
+replied	1	0
+quickly	1	2
+,	NA	NA
+especially	2	0
+if	0	0
+one	0	0
+takes	0	0
+certain	0	1
+precautions	2	2
+.	NA	NA

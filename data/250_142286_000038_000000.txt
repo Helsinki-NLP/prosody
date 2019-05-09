@@ -1,0 +1,13 @@
+'Do	2	0
+you	0	0
+like	1	0
+new	0	1
+music	1	0
+simply	1	0
+for	1	0
+its	0	1
+newness	1	1
+,	NA	NA
+then	2	2
+?	NA	NA
+'	NA	NA

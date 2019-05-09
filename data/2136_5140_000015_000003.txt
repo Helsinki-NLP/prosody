@@ -1,0 +1,13 @@
+There	0	0
+was	2	0
+a	0	1
+stone	2	1
+bench	1	0
+some	0	1
+ten	0	0
+steps	2	1
+away	2	0
+from	0	1
+the	0	0
+tomb	2	2
+.	NA	NA

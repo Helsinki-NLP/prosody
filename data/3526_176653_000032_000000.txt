@@ -1,0 +1,5 @@
+Who's	0	0
+that	2	2
+your	0	0
+Mammy	1	2
+?	NA	NA

@@ -1,0 +1,13 @@
+And	0	0
+you	0	0
+conclude	0	0
+,	NA	NA
+then	1	0
+,	NA	NA
+you	0	0
+everlasting	0	1
+talker	2	2
+?	NA	NA
+asked	1	0
+Barbicane	1	2
+.	NA	NA

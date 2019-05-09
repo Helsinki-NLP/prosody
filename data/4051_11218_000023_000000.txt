@@ -1,0 +1,6 @@
+Look	1	0
+yonder	1	0
+,	NA	NA
+she	0	1
+whispered	2	2
+.	NA	NA

@@ -1,0 +1,11 @@
+The	0	0
+other	1	0
+girls	2	1
+exchanged	1	0
+glances	1	1
+,	NA	NA
+but	0	0
+made	1	0
+no	0	1
+remark	2	2
+.	NA	NA

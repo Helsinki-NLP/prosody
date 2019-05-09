@@ -1,0 +1,15 @@
+Senator	1	0
+Dilworthy	1	1
+was	0	0
+alone	1	2
+with	0	0
+an	0	0
+open	1	0
+Bible	2	0
+in	0	0
+his	0	1
+hand	1	2
+,	NA	NA
+upside	2	0
+down	1	2
+.	NA	NA

@@ -1,0 +1,9 @@
+Famine	2	0
+and	0	1
+desperation	1	1
+now	0	0
+reigned	2	0
+at	0	1
+Fort	0	0
+Caroline	1	2
+.	NA	NA

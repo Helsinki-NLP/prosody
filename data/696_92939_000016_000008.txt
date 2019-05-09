@@ -1,0 +1,16 @@
+And	0	0
+when	0	0
+they	1	1
+sought	2	0
+him	0	0
+for	0	0
+an	0	1
+explanation	2	0
+and	0	1
+for	0	0
+assistance	2	2
+,	NA	NA
+he	2	0
+had	0	1
+disappeared	2	2
+.	NA	NA

@@ -1,0 +1,10 @@
+And	0	0
+I	2	0
+answer	0	0
+in	0	1
+the	0	0
+negative	1	2
+,	NA	NA
+continued	0	0
+Barbicane	1	2
+.	NA	NA

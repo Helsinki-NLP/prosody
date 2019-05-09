@@ -1,0 +1,8 @@
+I	0	0
+pressed	2	0
+on	2	1
+,	NA	NA
+but	0	0
+in	0	1
+vain	1	2
+.	NA	NA

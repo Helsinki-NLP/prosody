@@ -1,0 +1,14 @@
+I	1	0
+didn't	0	0
+make	0	1
+a	0	0
+bad	1	1
+guess	2	2
+;	NA	NA
+and	0	0
+she	0	0
+laughed	1	1
+softly	1	0
+to	0	0
+herself	1	2
+.	NA	NA

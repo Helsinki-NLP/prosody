@@ -1,0 +1,13 @@
+Monday	2	0
+afternoon	1	1
+Marilla	2	0
+sent	0	2
+her	0	0
+down	1	0
+to	0	1
+mrs	0	0
+Lynde's	2	1
+on	0	0
+an	0	0
+errand	1	2
+.	NA	NA

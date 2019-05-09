@@ -1,0 +1,11 @@
+Do	0	0
+you	0	0
+want	2	1
+to	0	0
+know	2	2
+how	1	1
+things	1	0
+are	1	0
+with	0	1
+me	1	2
+?	NA	NA

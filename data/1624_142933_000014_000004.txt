@@ -1,0 +1,8 @@
+The	0	0
+rest	2	0
+of	0	1
+him	0	0
+underneath	1	1
+was	0	0
+white	2	2
+.	NA	NA

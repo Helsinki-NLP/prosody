@@ -1,0 +1,6 @@
+You	0	0
+don't	1	0
+mind	1	1
+,	NA	NA
+Bobby	2	2
+?	NA	NA

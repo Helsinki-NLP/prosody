@@ -1,0 +1,3 @@
+But	1	0
+where	1	2
+?	NA	NA

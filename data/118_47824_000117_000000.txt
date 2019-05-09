@@ -1,0 +1,11 @@
+He	0	1
+glanced	2	1
+away	1	0
+while	0	1
+the	0	0
+angry	1	1
+colour	2	0
+left	0	1
+his	0	0
+face	1	2
+.	NA	NA

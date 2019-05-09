@@ -1,0 +1,7 @@
+I	2	0
+had	0	0
+reason	0	1
+to	0	0
+think	1	1
+so	2	2
+.	NA	NA

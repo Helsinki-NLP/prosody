@@ -1,0 +1,14 @@
+The	0	0
+clerk	2	1
+glanced	2	1
+round	2	2
+,	NA	NA
+evidently	2	0
+hoping	0	1
+that	0	0
+his	0	0
+joke	2	0
+would	0	1
+be	0	0
+appreciated	2	2
+.	NA	NA

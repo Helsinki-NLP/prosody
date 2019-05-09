@@ -1,0 +1,7 @@
+That's	2	0
+true	0	1
+enough	2	1
+,	NA	NA
+isn't	0	0
+it	2	2
+?	NA	NA

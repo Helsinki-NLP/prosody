@@ -1,0 +1,11 @@
+The	0	0
+surface	2	0
+remained	0	0
+about	1	0
+the	0	0
+same	1	2
+possibly	2	0
+rather	0	0
+more	0	0
+undulating	1	2
+.	NA	NA

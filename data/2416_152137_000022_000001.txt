@@ -1,0 +1,11 @@
+I	1	0
+wonder	0	0
+if	1	0
+it's	0	1
+just	1	0
+a	0	0
+fluke	1	2
+or	2	0
+something	0	0
+else	2	2
+?	NA	NA

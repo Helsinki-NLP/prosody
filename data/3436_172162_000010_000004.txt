@@ -1,0 +1,14 @@
+Then	1	0
+they	0	0
+lashed	2	1
+together	1	0
+with	0	1
+swords	2	2
+till	0	0
+several	2	0
+were	0	1
+smitten	2	1
+to	0	0
+the	0	0
+earth	1	2
+.	NA	NA

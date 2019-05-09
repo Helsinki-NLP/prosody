@@ -1,0 +1,17 @@
+The	2	0
+lovers	0	0
+delight	1	0
+in	0	1
+endearments	2	2
+,	NA	NA
+in	0	0
+avowals	2	1
+of	0	0
+love	2	2
+,	NA	NA
+in	0	0
+comparisons	2	1
+of	0	0
+their	0	0
+regards	2	2
+.	NA	NA

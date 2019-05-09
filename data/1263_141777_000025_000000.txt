@@ -1,0 +1,8 @@
+Again	2	1
+those	0	0
+fingers	0	0
+moved	1	0
+on	0	1
+the	0	0
+panel	2	2
+.	NA	NA

@@ -1,0 +1,8 @@
+Or	1	0
+his	0	1
+mother	2	2
+,	NA	NA
+or	2	0
+his	0	0
+family	2	2
+?	NA	NA

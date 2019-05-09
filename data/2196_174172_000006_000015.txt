@@ -1,0 +1,9 @@
+Good	0	0
+cheer	1	0
+attracts	1	2
+good	0	0
+luck	2	2
+.	NA	NA
+Cheer	2	0
+up	0	2
+.	NA	NA

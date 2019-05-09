@@ -1,0 +1,17 @@
+There	1	0
+are	0	1
+so	2	0
+many	0	1
+responsibilities	2	0
+on	0	1
+a	0	0
+person's	1	0
+mind	2	1
+when	0	0
+they're	0	1
+keeping	0	0
+house	1	1
+,	NA	NA
+isn't	2	0
+there	1	2
+?	NA	NA

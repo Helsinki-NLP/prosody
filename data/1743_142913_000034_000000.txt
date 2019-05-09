@@ -1,0 +1,10 @@
+Jenny	1	0
+Wren's	0	0
+eyes	1	1
+twinkled	1	2
+,	NA	NA
+and	0	0
+she	0	0
+laughed	2	1
+softly	2	2
+.	NA	NA

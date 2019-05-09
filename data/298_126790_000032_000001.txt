@@ -1,0 +1,11 @@
+I	1	1
+expect	2	1
+he	0	0
+has	0	1
+made	2	0
+his	0	1
+last	1	0
+will	1	0
+and	0	1
+testament	2	2
+.	NA	NA

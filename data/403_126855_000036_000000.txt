@@ -1,0 +1,12 @@
+And	0	1
+the	0	0
+big	1	0
+one	0	0
+shouted	1	0
+to	0	1
+the	0	0
+Doctor	1	2
+,	NA	NA
+Walk	2	0
+over	1	2
+!	NA	NA

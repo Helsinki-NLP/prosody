@@ -1,0 +1,15 @@
+Ten	0	0
+minutes	1	0
+later	1	0
+,	NA	NA
+the	0	2
+stabbed	2	1
+man	1	0
+was	0	1
+reeling	2	1
+from	0	0
+the	0	0
+Onlooker's	2	0
+consulting	2	0
+room	1	2
+.	NA	NA

@@ -1,0 +1,3 @@
+Poor	2	1
+Priscilla	1	2
+!	NA	NA

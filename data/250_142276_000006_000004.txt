@@ -1,0 +1,8 @@
+Her	1	0
+out	0	0
+of	0	1
+doors	1	0
+life	1	2
+was	2	1
+perfect	1	2
+.	NA	NA

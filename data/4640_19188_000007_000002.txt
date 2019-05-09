@@ -1,0 +1,4 @@
+Why	0	1
+sacrifice	0	0
+forty	2	2
+?	NA	NA

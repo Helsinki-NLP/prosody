@@ -1,0 +1,12 @@
+Sometimes	2	1
+he	0	0
+lingered	0	0
+for	0	0
+days	2	0
+in	0	0
+the	0	2
+neighborhood	1	0
+of	0	1
+Black	2	1
+Creek	2	2
+.	NA	NA

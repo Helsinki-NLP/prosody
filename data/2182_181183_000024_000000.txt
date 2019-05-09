@@ -1,0 +1,11 @@
+Where	1	0
+did	0	1
+you	0	0
+meet	2	0
+her	0	1
+,	NA	NA
+Dick	2	2
+?	NA	NA
+he	0	0
+said	1	2
+.	NA	NA

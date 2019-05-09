@@ -1,0 +1,16 @@
+It	0	0
+is	0	0
+not	1	0
+that	0	0
+we	0	0
+have	0	1
+planned	1	0
+this	0	1
+deliberately	2	1
+but	0	0
+they	1	0
+know	0	0
+what	0	1
+we're	0	0
+like	1	2
+.	NA	NA

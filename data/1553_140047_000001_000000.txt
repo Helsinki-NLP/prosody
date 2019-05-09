@@ -1,0 +1,5 @@
+SNOW	0	0
+WHITE	1	2
+;	NA	NA
+ROSE	2	0
+RED	0	2

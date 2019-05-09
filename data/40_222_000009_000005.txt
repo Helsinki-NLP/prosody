@@ -1,0 +1,13 @@
+I	2	0
+am	0	1
+undeceived	1	1
+in	0	0
+time	1	1
+!	NA	NA
+But	2	0
+it	0	0
+is	0	0
+a	0	1
+heavy	0	0
+blow	2	2
+!	NA	NA

@@ -1,0 +1,4 @@
+mr	2	0
+Carlyle	0	1
+smiled	1	2
+.	NA	NA

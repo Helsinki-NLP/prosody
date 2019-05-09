@@ -1,0 +1,11 @@
+And	1	0
+so	1	0
+it	0	0
+went	0	2
+like	2	0
+a	0	1
+great	2	1
+game	0	0
+of	0	1
+chess	1	2
+.	NA	NA

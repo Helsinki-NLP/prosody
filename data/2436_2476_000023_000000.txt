@@ -1,0 +1,10 @@
+A	0	0
+smile	1	0
+plucked	2	0
+at	0	1
+his	0	0
+thin	2	1
+,	NA	NA
+gray	1	0
+lips	0	2
+.	NA	NA

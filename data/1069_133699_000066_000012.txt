@@ -1,0 +1,10 @@
+This	1	0
+document	0	0
+proved	0	0
+short	2	2
+and	2	0
+may	0	0
+be	0	0
+given	1	2
+entire	2	2
+.	NA	NA

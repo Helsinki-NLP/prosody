@@ -1,0 +1,12 @@
+Now	2	0
+it	0	0
+was	0	1
+a	0	0
+tremendous	1	0
+rhythmic	1	1
+cannonading	1	2
+.	NA	NA
+The	1	0
+Thing	2	0
+halted	1	2
+.	NA	NA

@@ -1,0 +1,4 @@
+Perhaps	1	1
+a	0	0
+raid	2	2
+!	NA	NA

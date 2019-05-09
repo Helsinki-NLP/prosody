@@ -1,0 +1,17 @@
+Fatty	1	1
+Coon	2	2
+mr	1	0
+Crow	0	0
+said	1	2
+Fatty	2	0
+Coon	1	0
+was	0	1
+confined	2	1
+to	0	0
+his	0	0
+house	1	1
+by	0	0
+illness	1	1
+Tuesday	0	0
+night	2	2
+.	NA	NA

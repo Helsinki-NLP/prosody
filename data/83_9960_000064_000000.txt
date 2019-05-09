@@ -1,0 +1,4 @@
+Cut	1	0
+his	0	1
+throat	2	2
+.	NA	NA

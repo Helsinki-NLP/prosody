@@ -1,0 +1,4 @@
+GOING	2	1
+TO	0	0
+THE	0	0
+SOUTH	2	2

@@ -1,0 +1,14 @@
+There	2	0
+the	0	1
+uniformed	1	1
+vetturio	2	2
+stood	2	1
+beside	1	1
+the	0	0
+one	0	0
+modern	0	0
+carriage	0	0
+in	0	0
+the	0	0
+group	1	2
+.	NA	NA

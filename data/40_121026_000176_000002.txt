@@ -1,0 +1,3 @@
+his	1	1
+father	2	2
+!	NA	NA

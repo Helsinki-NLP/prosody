@@ -1,0 +1,6 @@
+Such	2	1
+was	0	0
+his	0	0
+only	0	0
+reply	1	2
+.	NA	NA

@@ -1,0 +1,4 @@
+Graham	1	0
+summoned	0	1
+Katherine	2	2
+.	NA	NA

@@ -1,0 +1,7 @@
+Such	0	1
+a	0	0
+countenance	2	1
+,	NA	NA
+such	0	0
+manners	2	2
+!	NA	NA

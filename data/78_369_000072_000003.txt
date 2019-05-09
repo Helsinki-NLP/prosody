@@ -1,0 +1,13 @@
+Do	0	0
+not	2	1
+think	2	2
+that	0	0
+I	2	0
+shall	0	0
+be	0	1
+slow	2	0
+to	0	1
+perform	1	0
+this	0	0
+sacrifice	2	2
+.	NA	NA

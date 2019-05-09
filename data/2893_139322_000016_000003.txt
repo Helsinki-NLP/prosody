@@ -1,0 +1,10 @@
+He	0	0
+made	2	1
+no	1	0
+further	1	0
+effort	0	2
+to	0	0
+stop	2	1
+the	0	0
+singing	0	2
+.	NA	NA

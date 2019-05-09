@@ -1,0 +1,8 @@
+What	2	0
+rank	1	0
+did	0	1
+he	0	0
+hold	1	0
+on	0	1
+board	2	2
+?	NA	NA

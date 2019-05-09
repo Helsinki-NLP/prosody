@@ -1,0 +1,11 @@
+The	0	0
+coroner	2	1
+thought	1	0
+a	0	1
+moment	0	1
+,	NA	NA
+then	1	0
+turned	1	0
+to	0	1
+me	2	2
+.	NA	NA

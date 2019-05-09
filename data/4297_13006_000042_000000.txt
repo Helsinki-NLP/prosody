@@ -1,0 +1,8 @@
+I	2	0
+wish	1	0
+he	0	0
+had	0	1
+never	0	0
+seen	0	0
+you	0	2
+.	NA	NA

@@ -1,0 +1,9 @@
+I	2	1
+fear	0	0
+my	0	0
+verdict	1	1
+was	0	0
+a	0	0
+great	1	1
+blow	2	2
+.	NA	NA

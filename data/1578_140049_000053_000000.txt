@@ -1,0 +1,13 @@
+Adam	1	0
+Ladd	2	1
+!	NA	NA
+then	0	0
+he's	1	1
+a	0	0
+Ladd	1	1
+,	NA	NA
+too	1	0
+;	NA	NA
+what	0	1
+fun	2	2
+!	NA	NA

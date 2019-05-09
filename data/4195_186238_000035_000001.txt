@@ -1,0 +1,8 @@
+Do	1	0
+you	0	0
+know	0	0
+you're	1	1
+ten	0	0
+minutes	1	2
+late	2	2
+?	NA	NA

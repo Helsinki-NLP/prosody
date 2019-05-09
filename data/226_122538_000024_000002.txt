@@ -1,0 +1,11 @@
+Not	2	0
+of	0	1
+half	0	1
+crowns	2	2
+;	NA	NA
+of	1	0
+those	2	0
+she	0	0
+had	0	1
+plenty	1	2
+.	NA	NA

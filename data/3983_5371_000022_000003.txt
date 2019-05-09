@@ -1,0 +1,3 @@
+What's	1	1
+this	2	2
+?	NA	NA

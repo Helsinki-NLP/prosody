@@ -1,0 +1,13 @@
+He	1	0
+could	0	0
+never	2	0
+learn	0	1
+like	0	0
+other	1	0
+people	2	2
+,	NA	NA
+never	2	0
+acquired	2	0
+any	0	1
+finish	0	2
+.	NA	NA

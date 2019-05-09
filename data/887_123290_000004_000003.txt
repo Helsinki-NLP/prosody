@@ -1,0 +1,12 @@
+Well	2	2
+,	NA	NA
+they	2	0
+shall	0	0
+know	0	0
+what	0	0
+a	0	1
+determined	1	0
+man	0	0
+can	0	0
+do	1	2
+.	NA	NA

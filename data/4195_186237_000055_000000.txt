@@ -1,0 +1,15 @@
+Meantime	2	1
+,	NA	NA
+said	0	0
+Uncle	0	0
+john	1	1
+,	NA	NA
+smiling	1	0
+at	0	1
+them	1	2
+,	NA	NA
+I'll	2	0
+look	0	0
+around	0	0
+myself	2	2
+.	NA	NA

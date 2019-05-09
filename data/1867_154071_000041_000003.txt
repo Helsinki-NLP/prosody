@@ -1,0 +1,10 @@
+He's	2	1
+the	0	0
+one	0	1
+who's	0	0
+kept	1	1
+her	0	0
+in	0	0
+that	0	1
+house	2	2
+.	NA	NA

@@ -1,0 +1,6 @@
+Oh	2	0
+,	NA	NA
+yes	0	1
+,	NA	NA
+much	2	2
+!	NA	NA

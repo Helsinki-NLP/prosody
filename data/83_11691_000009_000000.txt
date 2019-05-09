@@ -1,0 +1,7 @@
+My	1	0
+poor	0	0
+Udo	0	0
+,	NA	NA
+what's	0	1
+happened	2	2
+?	NA	NA

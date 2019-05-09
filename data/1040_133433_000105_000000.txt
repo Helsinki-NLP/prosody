@@ -1,0 +1,17 @@
+But	1	0
+,	NA	NA
+alas	1	2
+,	NA	NA
+he	0	0
+forgot	1	1
+all	0	0
+about	0	0
+me	1	1
+,	NA	NA
+Wendy	1	0
+said	2	0
+it	0	0
+with	0	1
+a	0	0
+smile	2	2
+.	NA	NA

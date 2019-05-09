@@ -1,0 +1,15 @@
+For	0	0
+information	2	1
+on	0	0
+these	1	0
+matters	1	2
+they	0	0
+must	1	0
+go	1	1
+to	0	0
+larger	2	0
+and	0	0
+more	0	1
+technical	0	0
+works	1	2
+.	NA	NA

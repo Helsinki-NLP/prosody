@@ -1,0 +1,11 @@
+And	1	0
+what's	1	1
+that	2	2
+?	NA	NA
+asked	1	1
+Mrs	0	1
+Carey	1	0
+with	0	1
+a	0	0
+sneer	2	2
+.	NA	NA

@@ -1,0 +1,7 @@
+Was	1	0
+there	2	0
+no	0	1
+injustice	2	1
+in	0	0
+this	1	2
+?	NA	NA

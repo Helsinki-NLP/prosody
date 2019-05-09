@@ -1,0 +1,11 @@
+Patsy	1	1
+ran	2	0
+up	0	0
+and	0	2
+put	0	0
+her	0	0
+arm	1	0
+around	1	1
+his	0	0
+neck	1	2
+.	NA	NA

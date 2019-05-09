@@ -1,0 +1,15 @@
+As	2	0
+a	0	0
+rule	2	0
+this	0	1
+sort	1	0
+of	0	1
+thing	1	0
+struck	2	0
+me	0	1
+as	0	0
+the	0	0
+most	0	1
+pitiful	2	1
+tomfoolery	2	2
+.	NA	NA

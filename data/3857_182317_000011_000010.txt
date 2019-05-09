@@ -1,0 +1,8 @@
+Race	1	0
+by	0	0
+race	1	2
+they	0	0
+have	0	0
+been	0	0
+slaughtered	2	2
+.	NA	NA

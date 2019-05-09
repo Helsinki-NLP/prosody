@@ -1,0 +1,12 @@
+So	1	1
+that's	1	1
+the	0	0
+toon	1	0
+,	NA	NA
+is	0	0
+it	0	1
+?	NA	NA
+cried	2	0
+the	0	1
+cook	1	2
+.	NA	NA

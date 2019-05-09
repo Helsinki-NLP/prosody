@@ -1,0 +1,12 @@
+And	0	0
+we	0	0
+have	2	1
+betrayed	2	0
+them	0	2
+by	0	0
+making	1	0
+under	0	0
+simians	1	1
+of	0	1
+them	0	2
+.	NA	NA

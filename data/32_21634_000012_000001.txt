@@ -1,0 +1,7 @@
+And	2	1
+mr	1	0
+Crow	1	1
+began	1	1
+to	0	0
+laugh	2	2
+.	NA	NA

@@ -1,0 +1,12 @@
+It	1	0
+will	0	0
+never	1	0
+do	1	2
+,	NA	NA
+said	0	0
+mr	0	0
+Rattler	1	1
+to	0	0
+mr	1	0
+Roby	0	2
+.	NA	NA

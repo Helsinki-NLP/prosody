@@ -1,0 +1,9 @@
+Oh	2	0
+,	NA	NA
+I	0	0
+can	0	1
+see	0	0
+myself	1	1
+enjoying	1	1
+this	2	2
+.	NA	NA

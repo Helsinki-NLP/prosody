@@ -1,0 +1,9 @@
+He	0	0
+perceived	2	1
+what	0	0
+had	0	0
+happened	2	1
+to	0	0
+the	2	0
+uproar	1	2
+.	NA	NA

@@ -1,0 +1,5 @@
+What	2	0
+could	0	0
+I	0	1
+do	2	2
+?	NA	NA

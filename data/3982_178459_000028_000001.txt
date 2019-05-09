@@ -1,0 +1,4 @@
+Let	2	0
+me	0	0
+think	1	2
+.	NA	NA

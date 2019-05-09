@@ -1,0 +1,13 @@
+Marilla	2	2
+,	NA	NA
+I	1	0
+do	0	0
+NOT	2	0
+think	0	1
+she	0	0
+is	0	0
+a	0	1
+well	2	0
+bred	0	1
+woman	2	2
+.	NA	NA

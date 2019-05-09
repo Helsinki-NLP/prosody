@@ -1,0 +1,17 @@
+I	2	0
+was	0	0
+born	1	0
+at	0	1
+Swanmoor	2	2
+,	NA	NA
+Hants	1	1
+,	NA	NA
+England	1	1
+,	NA	NA
+on	0	0
+december	1	0
+thirtieth	0	1
+eighteen	0	0
+sixty	0	0
+nine	1	2
+.	NA	NA

@@ -1,0 +1,12 @@
+It	1	0
+will	0	0
+annoy	1	0
+your	0	1
+father	2	1
+,	NA	NA
+but	1	1
+one	2	0
+can't	0	1
+please	0	0
+everybody	2	2
+.	NA	NA

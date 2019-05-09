@@ -1,0 +1,8 @@
+Oh	2	2
+,	NA	NA
+is	0	0
+that	2	0
+you	0	0
+,	NA	NA
+Balch	0	2
+?	NA	NA

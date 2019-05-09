@@ -1,0 +1,9 @@
+Under	1	0
+the	0	1
+bed	2	1
+,	NA	NA
+are	0	0
+you	0	1
+,	NA	NA
+hussy	2	2
+?	NA	NA

@@ -1,0 +1,11 @@
+Never	2	0
+before	1	0
+in	0	0
+his	0	1
+life	1	0
+had	0	1
+Amory	1	0
+considered	0	1
+poor	2	1
+people	2	2
+.	NA	NA

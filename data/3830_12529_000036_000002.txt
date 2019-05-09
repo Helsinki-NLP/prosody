@@ -1,0 +1,15 @@
+They	1	0
+were	0	1
+covered	2	0
+with	0	1
+fine	2	0
+twigs	0	2
+,	NA	NA
+and	1	0
+upon	0	0
+the	0	0
+twigs	0	1
+earth	2	0
+was	0	1
+placed	1	2
+.	NA	NA

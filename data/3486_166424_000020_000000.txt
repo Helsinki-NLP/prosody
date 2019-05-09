@@ -1,0 +1,9 @@
+I	0	0
+stumbled	2	0
+up	0	1
+the	0	0
+side	2	2
+;	NA	NA
+joined	2	0
+them	0	2
+.	NA	NA

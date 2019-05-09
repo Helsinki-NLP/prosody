@@ -1,0 +1,7 @@
+None	2	1
+could	0	0
+be	0	0
+reached	0	0
+by	0	0
+telephone	1	2
+.	NA	NA

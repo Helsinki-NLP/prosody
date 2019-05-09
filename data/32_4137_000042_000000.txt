@@ -1,0 +1,12 @@
+Here	2	0
+she	0	0
+is	1	0
+,	NA	NA
+and	0	1
+no	1	0
+mistake	2	2
+,	NA	NA
+replied	1	0
+the	0	1
+trader	2	2
+.	NA	NA

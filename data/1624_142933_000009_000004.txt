@@ -1,0 +1,4 @@
+He	0	1
+was	1	0
+puzzled	2	2
+.	NA	NA

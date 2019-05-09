@@ -1,0 +1,8 @@
+Anything	2	0
+your	0	0
+Majesty	0	0
+sets	1	0
+me	0	1
+to	0	0
+do	2	2
+.	NA	NA

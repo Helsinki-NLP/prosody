@@ -1,0 +1,6 @@
+But	0	0
+this	2	0
+is	0	1
+too	0	0
+hard	2	2
+.	NA	NA

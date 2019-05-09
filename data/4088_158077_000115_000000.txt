@@ -1,0 +1,11 @@
+Meanwhile	2	1
+the	0	0
+President	1	0
+could	0	0
+proclaim	1	1
+through	0	0
+official	0	0
+channels	1	2
+his	1	0
+disinterestedness	2	2
+.	NA	NA

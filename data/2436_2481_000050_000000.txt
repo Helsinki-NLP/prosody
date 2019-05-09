@@ -1,0 +1,8 @@
+His	0	1
+electronized	2	1
+metallic	1	0
+robe	1	1
+burned	2	1
+my	0	0
+hands	0	2
+.	NA	NA

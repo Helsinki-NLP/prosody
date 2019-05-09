@@ -1,0 +1,5 @@
+Presently	2	1
+,	NA	NA
+Miss	0	0
+Barbara	1	2
+.	NA	NA

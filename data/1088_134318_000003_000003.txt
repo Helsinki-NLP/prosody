@@ -1,0 +1,10 @@
+He	2	0
+had	0	1
+satisfied	1	1
+t	0	0
+x	1	1
+and	0	0
+allayed	2	0
+his	0	1
+suspicions	2	2
+.	NA	NA

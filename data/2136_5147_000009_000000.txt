@@ -1,0 +1,5 @@
+'Ill	2	1
+!	NA	NA
+is	0	0
+she	1	2
+?	NA	NA

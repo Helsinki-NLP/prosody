@@ -1,0 +1,10 @@
+Do	0	1
+you	0	0
+think	2	0
+he	1	0
+was	0	2
+really	1	1
+very	0	0
+much	0	1
+scared	2	2
+?	NA	NA

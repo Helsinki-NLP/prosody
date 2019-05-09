@@ -1,0 +1,6 @@
+His	0	1
+smile	2	1
+struck	0	0
+her	0	0
+dumb	2	2
+.	NA	NA

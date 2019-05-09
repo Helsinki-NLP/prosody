@@ -1,0 +1,16 @@
+Well	2	1
+,	NA	NA
+replied	1	0
+my	0	0
+uncle	1	2
+,	NA	NA
+we	1	0
+may	0	0
+easily	0	0
+ascertain	1	0
+this	0	1
+by	0	0
+consulting	1	0
+the	0	0
+compass	0	2
+.	NA	NA

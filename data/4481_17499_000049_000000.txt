@@ -1,0 +1,5 @@
+But	1	0
+the	0	1
+requirements	2	0
+of	0	1
+society	2	2

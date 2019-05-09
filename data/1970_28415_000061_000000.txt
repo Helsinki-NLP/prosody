@@ -1,0 +1,15 @@
+They	2	0
+were	0	0
+at	0	0
+their	0	0
+wits'	2	1
+end	2	2
+to	0	0
+know	1	0
+how	0	1
+to	0	0
+get	0	0
+rid	1	0
+of	0	1
+Jesus	1	2
+.	NA	NA

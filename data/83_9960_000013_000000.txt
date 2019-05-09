@@ -1,0 +1,7 @@
+The	0	0
+prisoner	2	0
+uttered	0	1
+not	2	0
+a	0	1
+syllable	1	2
+.	NA	NA

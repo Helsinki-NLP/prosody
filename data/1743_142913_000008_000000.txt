@@ -1,0 +1,3 @@
+Pewee	0	0
+nodded	2	2
+.	NA	NA

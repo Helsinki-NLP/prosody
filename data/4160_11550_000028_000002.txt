@@ -1,0 +1,11 @@
+I	0	0
+remember	1	0
+hearing	0	0
+mr	0	0
+Oglethorpe	1	1
+say	1	0
+once	0	2
+you	0	0
+would	2	0
+be	1	2
+.	NA	NA

@@ -1,0 +1,11 @@
+Then	2	0
+,	NA	NA
+cried	0	1
+Boniface	1	2
+,	NA	NA
+I	1	0
+will	0	0
+drive	2	0
+you	0	1
+back	1	2
+.	NA	NA

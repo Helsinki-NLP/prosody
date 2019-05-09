@@ -1,0 +1,7 @@
+Had	1	1
+Coligny	1	0
+left	1	0
+them	0	1
+to	0	0
+perish	2	2
+?	NA	NA

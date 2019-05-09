@@ -1,0 +1,8 @@
+Why	2	0
+this	0	1
+mysterious	2	0
+week	1	1
+?	NA	NA
+we	0	0
+asked	1	2
+.	NA	NA

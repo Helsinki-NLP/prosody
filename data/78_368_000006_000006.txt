@@ -1,0 +1,7 @@
+Why	2	0
+did	0	1
+I	0	0
+not	0	0
+then	0	1
+expire	2	2
+!	NA	NA

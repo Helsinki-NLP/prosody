@@ -1,0 +1,10 @@
+For	0	0
+the	0	0
+rest	2	2
+,	NA	NA
+chance	2	1
+was	0	0
+on	0	0
+my	0	0
+side	2	2
+.	NA	NA

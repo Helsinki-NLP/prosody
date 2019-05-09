@@ -1,0 +1,16 @@
+I	2	0
+had	0	0
+lost	1	1
+all	1	0
+sense	0	0
+of	0	1
+time	2	2
+.	NA	NA
+My	2	0
+muscles	1	1
+had	0	0
+no	0	0
+power	2	0
+to	0	1
+contract	1	2
+.	NA	NA

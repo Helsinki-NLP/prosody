@@ -1,0 +1,11 @@
+I	2	0
+will	0	0
+go	1	0
+with	0	1
+pleasure	2	0
+,	NA	NA
+miss	0	1
+,	NA	NA
+he	0	0
+said	1	2
+.	NA	NA

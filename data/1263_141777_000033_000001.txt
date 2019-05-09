@@ -1,0 +1,6 @@
+Rynch	2	0
+surveyed	1	0
+the	0	2
+nearer	1	0
+bank	0	2
+.	NA	NA

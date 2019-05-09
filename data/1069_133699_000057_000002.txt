@@ -1,0 +1,10 @@
+He	0	0
+is	1	0
+a	0	0
+man	1	0
+of	0	1
+high	1	1
+,	NA	NA
+bold	1	1
+action	1	2
+.	NA	NA

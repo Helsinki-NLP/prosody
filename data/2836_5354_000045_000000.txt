@@ -1,0 +1,10 @@
+Moss	2	0
+and	0	1
+Grab	2	1
+say	1	0
+they	0	0
+will	0	0
+act	1	2
+for	0	0
+you	2	2
+.	NA	NA

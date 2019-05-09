@@ -1,0 +1,14 @@
+I	0	0
+believe	2	0
+the	0	0
+whole	1	0
+of	0	1
+Moscow	2	0
+will	0	1
+burn	1	2
+,	NA	NA
+there's	1	0
+an	0	0
+awful	2	0
+glow	1	2
+!	NA	NA

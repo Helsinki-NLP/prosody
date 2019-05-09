@@ -1,0 +1,17 @@
+She	1	0
+was	0	1
+young	2	1
+,	NA	NA
+and	0	0
+of	0	0
+a	0	0
+light	2	0
+and	0	1
+fragile	2	1
+form	1	0
+,	NA	NA
+but	1	0
+of	0	1
+exquisite	2	0
+proportions	1	2
+.	NA	NA

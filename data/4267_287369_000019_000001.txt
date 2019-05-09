@@ -1,0 +1,9 @@
+Supper	2	0
+was	0	1
+nearly	0	0
+ready	1	0
+when	0	1
+mr	0	0
+Parker	1	1
+returned	2	2
+.	NA	NA

@@ -1,0 +1,7 @@
+Tell	1	0
+him	0	0
+john	1	1
+Merrick	1	0
+is	0	1
+here	2	2
+.	NA	NA

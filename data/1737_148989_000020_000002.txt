@@ -1,0 +1,7 @@
+I	2	0
+must	0	1
+get	0	0
+over	2	1
+this	0	0
+first	2	2
+.	NA	NA

@@ -1,0 +1,14 @@
+Then	0	0
+the	0	0
+sheriff	1	1
+came	1	0
+and	0	1
+took	1	0
+my	0	0
+mule	1	2
+and	0	0
+corn	2	2
+and	0	0
+furniture	2	1
+Furniture	2	2
+?	NA	NA

@@ -1,0 +1,8 @@
+The	0	0
+doctor	2	0
+came	1	0
+and	0	1
+gave	0	0
+him	0	0
+opium	1	2
+.	NA	NA

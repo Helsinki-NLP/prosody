@@ -1,0 +1,12 @@
+Mohammed	2	2
+then	1	0
+told	0	0
+the	0	0
+story	1	0
+to	1	2
+other	2	0
+members	0	0
+of	0	1
+his	0	0
+family	1	2
+.	NA	NA

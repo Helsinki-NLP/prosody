@@ -1,0 +1,10 @@
+There	1	0
+was	0	0
+a	0	0
+great	2	1
+straining	2	0
+and	0	1
+creaking	1	0
+and	0	1
+confusion	2	2
+.	NA	NA

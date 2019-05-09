@@ -1,0 +1,7 @@
+Never	0	0
+mind	1	0
+that	1	1
+,	NA	NA
+said	0	0
+he	1	2
+.	NA	NA

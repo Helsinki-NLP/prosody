@@ -1,0 +1,7 @@
+What	1	0
+did	0	1
+Mam'selle	2	0
+think	0	1
+of	0	0
+that	2	2
+?	NA	NA

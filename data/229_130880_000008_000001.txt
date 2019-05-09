@@ -1,0 +1,4 @@
+It's	0	1
+easily	1	1
+done	1	2
+.	NA	NA

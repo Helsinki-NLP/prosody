@@ -1,0 +1,11 @@
+You're	0	0
+going	1	0
+to	0	1
+buck	2	0
+up	1	2
+and	0	0
+go	1	0
+ahead	1	1
+full	0	0
+steam	2	2
+.	NA	NA

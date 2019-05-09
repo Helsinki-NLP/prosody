@@ -1,0 +1,16 @@
+It	0	0
+was	0	0
+long	2	0
+in	0	1
+coming	2	2
+,	NA	NA
+and	1	0
+meanwhile	0	0
+their	0	1
+troubled	2	1
+fortunes	0	0
+assumed	0	0
+a	0	0
+new	1	0
+phase	1	2
+.	NA	NA

@@ -1,0 +1,15 @@
+It	0	0
+was	1	0
+long	2	0
+legs	0	1
+,	NA	NA
+sure	0	0
+enough	1	2
+,	NA	NA
+but	0	0
+shorn	2	0
+of	0	1
+his	0	0
+beautiful	1	1
+regalia	2	2
+.	NA	NA

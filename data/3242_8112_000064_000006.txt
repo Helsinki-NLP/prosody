@@ -1,0 +1,11 @@
+Most	2	0
+of	0	1
+them	0	0
+didn't	1	0
+know	1	0
+a	0	1
+thing	2	0
+we	0	1
+could	0	0
+use	1	2
+.	NA	NA

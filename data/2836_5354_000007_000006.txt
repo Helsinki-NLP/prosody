@@ -1,0 +1,11 @@
+She	0	0
+was	1	0
+looking	0	0
+like	1	2
+the	0	0
+ghost	2	1
+of	0	0
+her	0	0
+former	0	0
+self	2	2
+.	NA	NA

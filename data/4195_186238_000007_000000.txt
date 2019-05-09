@@ -1,0 +1,9 @@
+mr	0	0
+Marvin	1	1
+in	2	2
+?	NA	NA
+he	0	0
+inquired	1	1
+,	NA	NA
+pleasantly	2	2
+.	NA	NA

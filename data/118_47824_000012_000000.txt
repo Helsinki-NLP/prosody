@@ -1,0 +1,13 @@
+Time	2	1
+,	NA	NA
+Graham	0	0
+said	2	2
+,	NA	NA
+lessens	2	0
+such	0	0
+facts	1	1
+even	2	0
+for	0	0
+the	0	0
+police	1	2
+.	NA	NA

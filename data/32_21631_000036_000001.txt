@@ -1,0 +1,10 @@
+You've	2	1
+done	2	0
+just	1	2
+as	0	0
+I	2	0
+told	1	1
+you	0	0
+not	2	1
+to	1	2
+.	NA	NA

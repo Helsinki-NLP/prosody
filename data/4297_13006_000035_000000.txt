@@ -1,0 +1,8 @@
+I	0	0
+don't	0	1
+know	0	0
+that	0	0
+I	1	0
+ever	0	1
+did	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+Go	2	0
+,	NA	NA
+Monsieur	0	0
+Duke	0	1
+,	NA	NA
+and	0	0
+return	0	0
+often	2	2
+.	NA	NA

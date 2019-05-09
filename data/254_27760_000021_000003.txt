@@ -1,0 +1,13 @@
+My	0	0
+life	2	2
+is	0	0
+a	0	0
+misfortune	1	2
+,	NA	NA
+worse	2	0
+than	0	1
+any	0	0
+dog's	1	2
+.	NA	NA
+.	NA	NA
+.	NA	NA

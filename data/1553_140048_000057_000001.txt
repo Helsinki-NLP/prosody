@@ -1,0 +1,7 @@
+Oh	1	0
+!	NA	NA
+isn't	0	0
+he	0	1
+perfectly	1	1
+elergant	2	2
+?	NA	NA

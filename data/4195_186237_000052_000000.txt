@@ -1,0 +1,12 @@
+That's	0	0
+as	0	0
+he	0	0
+may	0	0
+choose	2	2
+,	NA	NA
+said	1	0
+the	0	0
+Major	0	0
+,	NA	NA
+courteously	2	2
+.	NA	NA

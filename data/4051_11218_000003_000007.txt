@@ -1,0 +1,15 @@
+Wherever	2	0
+a	0	0
+dragon's	1	1
+tooth	0	0
+had	0	0
+fallen	1	2
+,	NA	NA
+there	2	0
+stood	0	0
+a	0	0
+man	1	1
+armed	2	1
+for	0	0
+battle	2	2
+.	NA	NA

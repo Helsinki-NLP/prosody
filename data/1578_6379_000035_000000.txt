@@ -1,0 +1,13 @@
+Oh	2	0
+,	NA	NA
+a	0	0
+dress	1	1
+suit	0	0
+,	NA	NA
+and	0	0
+collars	0	0
+,	NA	NA
+and	1	2
+and	1	1
+things	1	2
+.	NA	NA

@@ -1,0 +1,6 @@
+And	0	1
+the	0	0
+purser	2	1
+acting	0	0
+innocent	2	2
+?	NA	NA

@@ -1,0 +1,11 @@
+No	2	0
+,	NA	NA
+no	0	2
+!	NA	NA
+say	0	0
+nothing	2	1
+at	0	0
+all	2	1
+,	NA	NA
+sir	1	2
+!	NA	NA

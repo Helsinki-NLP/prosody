@@ -1,0 +1,13 @@
+Sometimes	2	1
+I	1	0
+met	0	0
+with	0	1
+favor	2	2
+,	NA	NA
+and	0	0
+sometimes	2	1
+with	0	0
+nothing	0	0
+but	0	0
+frowns	1	2
+.	NA	NA

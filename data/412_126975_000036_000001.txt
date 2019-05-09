@@ -1,0 +1,8 @@
+No	2	0
+doubt	1	0
+he	0	1
+will	0	0
+prove	2	0
+an	0	1
+acquisition	2	2
+.	NA	NA

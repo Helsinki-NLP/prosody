@@ -1,0 +1,12 @@
+I	2	0
+can	0	0
+see	1	0
+that	0	1
+you	0	0
+like	2	2
+the	1	1
+idea	2	0
+,	0	1
+mr	NA	NA
+Land	1	2
+.	NA	NA

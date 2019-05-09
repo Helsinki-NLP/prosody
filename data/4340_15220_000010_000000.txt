@@ -1,0 +1,8 @@
+It's	2	0
+the	0	0
+meanest	0	1
+Fourth	1	0
+I	1	1
+ever	2	0
+saw	0	2
+.	NA	NA

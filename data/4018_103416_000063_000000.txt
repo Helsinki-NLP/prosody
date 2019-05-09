@@ -1,0 +1,13 @@
+He	0	0
+needs	2	0
+me	0	0
+the	0	1
+hell	1	0
+of	0	0
+a	0	0
+lot	2	2
+,	NA	NA
+the	0	0
+boy	2	0
+muttered	1	2
+.	NA	NA

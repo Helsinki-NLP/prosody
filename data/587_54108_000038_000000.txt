@@ -1,0 +1,9 @@
+And	1	0
+disgust	2	1
+the	0	0
+night	1	1
+with	0	0
+lack	1	0
+of	0	2
+appreciation	1	2
+?	NA	NA

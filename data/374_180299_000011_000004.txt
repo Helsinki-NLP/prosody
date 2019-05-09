@@ -1,0 +1,14 @@
+I	1	0
+told	1	0
+him	0	0
+that	0	0
+I	1	0
+was	0	1
+ill	2	2
+,	NA	NA
+and	0	0
+that	1	0
+I	1	0
+wanted	0	1
+rest	2	2
+.	NA	NA

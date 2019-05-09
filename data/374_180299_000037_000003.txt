@@ -1,0 +1,16 @@
+No	1	0
+more	0	0
+barriers	1	1
+,	NA	NA
+my	0	0
+Marguerite	1	2
+;	NA	NA
+we	0	0
+love	2	2
+;	NA	NA
+what	2	0
+matters	0	0
+all	0	0
+the	0	0
+rest	1	2
+?	NA	NA

@@ -1,0 +1,9 @@
+Had	2	0
+his	0	1
+exclamation	1	1
+been	0	0
+drawn	1	0
+by	0	0
+an	0	1
+accuser	2	2
+?	NA	NA

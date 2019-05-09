@@ -1,0 +1,15 @@
+I	1	0
+think	2	2
+not	2	1
+,	NA	NA
+said	0	0
+the	0	0
+Lover	2	2
+and	0	0
+he	0	0
+went	0	0
+out	2	1
+from	0	0
+the	0	0
+presence	1	2
+.	NA	NA

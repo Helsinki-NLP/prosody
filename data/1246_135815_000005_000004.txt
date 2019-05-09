@@ -1,0 +1,11 @@
+It	2	0
+was	0	0
+for	0	0
+the	0	1
+benefit	2	1
+of	1	0
+your	0	1
+friends	2	0
+and	0	1
+neighbors	1	2
+.	NA	NA

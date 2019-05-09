@@ -1,0 +1,7 @@
+The	0	0
+snow	2	0
+is	0	1
+three	1	0
+feet	1	1
+deep	1	2
+.	NA	NA

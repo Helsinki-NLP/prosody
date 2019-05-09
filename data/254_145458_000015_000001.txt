@@ -1,0 +1,11 @@
+Like	1	0
+every	1	0
+artist	0	1
+worth	0	0
+consideration	2	2
+,	NA	NA
+he	0	0
+had	2	1
+no	0	0
+recipe	1	2
+.	NA	NA

@@ -1,0 +1,4 @@
+The	0	0
+man	0	1
+nodded	2	2
+.	NA	NA

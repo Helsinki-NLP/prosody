@@ -1,0 +1,11 @@
+The	0	1
+sky	2	1
+and	0	0
+the	0	0
+sea	1	1
+had	0	0
+sunk	1	1
+into	0	0
+sudden	1	0
+repose	1	2
+.	NA	NA

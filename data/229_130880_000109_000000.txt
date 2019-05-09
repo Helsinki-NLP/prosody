@@ -1,0 +1,9 @@
+So	2	0
+it's	0	1
+an	0	0
+issue	0	0
+of	1	2
+.	NA	NA
+.	NA	NA
+.	NA	NA
+?	NA	NA

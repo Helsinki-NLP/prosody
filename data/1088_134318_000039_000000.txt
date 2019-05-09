@@ -1,0 +1,15 @@
+Never	2	1
+trust	0	0
+a	0	0
+Greek	0	0
+,	NA	NA
+he	0	0
+said	2	2
+,	NA	NA
+always	2	0
+get	0	0
+your	0	0
+money	1	1
+in	0	0
+advance	1	2
+.	NA	NA

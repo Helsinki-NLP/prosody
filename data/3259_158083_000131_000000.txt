@@ -1,0 +1,9 @@
+We	1	0
+began	1	0
+at	0	1
+once	2	1
+to	0	0
+serve	1	1
+the	0	0
+writ	2	2
+.	NA	NA

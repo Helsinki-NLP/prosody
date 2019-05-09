@@ -1,0 +1,14 @@
+No	2	0
+desire	0	1
+to	0	0
+sleep	0	1
+with	0	0
+Jill	1	2
+,	NA	NA
+what	1	0
+could	0	0
+Alec	1	0
+see	0	0
+in	0	1
+her	1	2
+?	NA	NA

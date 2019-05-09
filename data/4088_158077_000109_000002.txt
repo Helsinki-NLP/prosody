@@ -1,0 +1,14 @@
+It	2	0
+would	0	0
+have	0	0
+been	0	1
+exceedingly	1	1
+droll	1	0
+if	0	1
+it	0	0
+had	0	0
+not	2	1
+been	0	0
+so	0	1
+tragic	2	2
+.	NA	NA

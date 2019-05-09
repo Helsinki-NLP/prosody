@@ -1,0 +1,10 @@
+No	2	2
+,	NA	NA
+I	0	0
+don't	1	0
+think	0	0
+that	0	0
+would	0	1
+be	0	0
+advisable	1	2
+.	NA	NA

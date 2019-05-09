@@ -1,0 +1,14 @@
+That	2	0
+is	0	1
+exactly	2	1
+what	0	0
+I	0	0
+should	0	0
+have	0	1
+supposed	2	1
+of	0	0
+you	2	2
+,	NA	NA
+said	0	0
+Elizabeth	1	2
+.	NA	NA

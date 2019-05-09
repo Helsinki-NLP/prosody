@@ -1,0 +1,13 @@
+But	2	0
+the	0	0
+first	2	1
+essential	1	0
+of	0	1
+a	0	0
+quiet	2	1
+funeral	1	0
+is	0	1
+a	0	0
+willing	0	1
+corpse	2	2
+.	NA	NA

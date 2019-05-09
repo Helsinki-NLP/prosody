@@ -1,0 +1,10 @@
+I	2	0
+could	0	0
+ride	1	0
+him	0	2
+;	NA	NA
+anybody	2	1
+could	0	0
+ride	1	0
+him	0	2
+.	NA	NA

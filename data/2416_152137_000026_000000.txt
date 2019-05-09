@@ -1,0 +1,6 @@
+The	0	1
+sentence	2	1
+was	0	0
+never	0	1
+finished	2	2
+.	NA	NA

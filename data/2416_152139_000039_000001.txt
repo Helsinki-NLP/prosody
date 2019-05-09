@@ -1,0 +1,6 @@
+That	1	0
+accounts	2	1
+for	0	0
+the	0	0
+mask	1	2
+.	NA	NA

@@ -1,0 +1,9 @@
+But	2	0
+that	0	0
+is	0	1
+not	0	0
+all	2	2
+,	NA	NA
+continued	0	0
+Marguerite	1	2
+.	NA	NA

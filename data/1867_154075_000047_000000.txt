@@ -1,0 +1,8 @@
+Certainly	2	0
+,	NA	NA
+said	0	1
+the	0	0
+other	1	2
+,	NA	NA
+bowing	2	2
+.	NA	NA

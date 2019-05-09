@@ -1,0 +1,8 @@
+She	1	0
+was	0	0
+as	0	1
+grown	0	0
+up	2	1
+as	0	0
+that	2	2
+.	NA	NA

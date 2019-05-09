@@ -1,0 +1,6 @@
+Grown	2	0
+grey	1	0
+in	0	1
+his	0	0
+service	2	2
+!	NA	NA

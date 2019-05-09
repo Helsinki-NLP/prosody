@@ -1,0 +1,8 @@
+This	2	0
+is	0	0
+what	0	1
+they	1	0
+must	0	1
+guard	1	1
+against	2	2
+.	NA	NA

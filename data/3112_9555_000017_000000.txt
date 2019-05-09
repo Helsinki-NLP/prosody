@@ -1,0 +1,14 @@
+After	2	0
+a	0	0
+while	0	0
+my	0	1
+brother	0	0
+left	2	2
+Winchester	1	0
+and	0	1
+accompanied	0	0
+my	0	0
+father	2	0
+to	0	0
+America	1	2
+.	NA	NA

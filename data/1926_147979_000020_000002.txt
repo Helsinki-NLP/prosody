@@ -1,0 +1,7 @@
+Have	0	0
+I	0	0
+got	2	1
+you	0	0
+all	0	1
+straight	2	2
+?	NA	NA

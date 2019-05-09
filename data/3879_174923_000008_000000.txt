@@ -1,0 +1,11 @@
+mr	1	0
+Slide	2	0
+is	0	2
+pretty	1	0
+wide	1	1
+awake	2	1
+whatever	1	0
+side	0	1
+he's	0	0
+on	2	2
+.	NA	NA

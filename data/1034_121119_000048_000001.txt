@@ -1,0 +1,11 @@
+At	2	0
+least	0	1
+keep	0	0
+him	1	0
+there	1	0
+till	0	1
+my	0	0
+daughter	2	1
+be	0	0
+married	2	2
+.	NA	NA

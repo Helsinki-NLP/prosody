@@ -1,0 +1,8 @@
+But	1	0
+at	0	0
+least	2	1
+their	0	0
+position	2	2
+is	0	0
+understandable	1	2
+.	NA	NA

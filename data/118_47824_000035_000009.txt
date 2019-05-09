@@ -1,0 +1,10 @@
+He	0	0
+appeared	2	1
+,	NA	NA
+moreover	1	0
+,	NA	NA
+to	0	1
+have	0	0
+slept	1	0
+pleasantly	1	2
+.	NA	NA

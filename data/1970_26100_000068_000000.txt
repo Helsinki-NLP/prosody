@@ -1,0 +1,11 @@
+Then	1	0
+mr	2	0
+Woods	1	1
+wasn't	1	0
+here	1	0
+all	0	1
+through	0	0
+dinner	1	0
+,	NA	NA
+Jackson	1	2
+?	NA	NA

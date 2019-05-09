@@ -1,0 +1,12 @@
+She	0	0
+made	2	0
+it	0	1
+indeed	0	0
+effective	2	1
+for	0	0
+him	0	0
+by	1	0
+suddenly	0	1
+addressing	2	0
+him	0	2
+.	NA	NA

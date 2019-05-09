@@ -1,0 +1,10 @@
+Glad	2	0
+to	0	1
+know	2	0
+youse	0	2
+,	NA	NA
+cull	2	0
+!	NA	NA
+he	0	1
+exclaimed	2	2
+.	NA	NA

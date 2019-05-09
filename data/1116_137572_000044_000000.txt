@@ -1,0 +1,7 @@
+Frankness	2	0
+must	0	1
+go	0	0
+clothed	2	1
+in	0	0
+tact	2	2
+.	NA	NA

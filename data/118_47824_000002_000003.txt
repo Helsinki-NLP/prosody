@@ -1,0 +1,7 @@
+I	0	0
+must	2	1
+decide	2	0
+what	0	1
+to	0	0
+do	1	2
+.	NA	NA

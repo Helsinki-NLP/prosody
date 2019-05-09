@@ -1,0 +1,7 @@
+john	2	0
+Thorpe	2	1
+had	0	0
+first	1	0
+misled	1	1
+him	0	2
+.	NA	NA

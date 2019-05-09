@@ -1,0 +1,6 @@
+Not	2	1
+yet	1	0
+,	NA	NA
+he	0	1
+said	2	2
+.	NA	NA

@@ -1,0 +1,14 @@
+I	1	0
+intend	0	0
+increasing	0	0
+that	0	2
+to	0	0
+five	2	0
+pounds	0	2
+because	2	0
+you	0	1
+suit	2	0
+me	0	1
+most	0	0
+admirably	1	2
+.	NA	NA

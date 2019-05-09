@@ -1,0 +1,11 @@
+'No	1	1
+,	NA	NA
+on	0	0
+the	0	0
+contrary	1	2
+,	NA	NA
+sit	2	0
+here	0	0
+by	1	0
+me	0	2
+.	NA	NA

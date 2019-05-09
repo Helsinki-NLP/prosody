@@ -1,0 +1,8 @@
+The	0	0
+old	1	1
+cove	2	0
+must	0	1
+be	0	0
+a	0	0
+Jew	2	2
+.	NA	NA

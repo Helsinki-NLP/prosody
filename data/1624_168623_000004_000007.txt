@@ -1,0 +1,14 @@
+He	0	0
+wore	1	0
+a	0	1
+blouse	2	2
+,	NA	NA
+and	0	0
+under	1	0
+his	0	1
+blouse	1	1
+an	0	0
+old	2	1
+black	0	1
+coat	1	2
+.	NA	NA

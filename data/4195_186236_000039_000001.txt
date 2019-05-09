@@ -1,0 +1,6 @@
+I'll	1	0
+be	0	0
+ready	2	1
+,	NA	NA
+Patsy	1	2
+.	NA	NA

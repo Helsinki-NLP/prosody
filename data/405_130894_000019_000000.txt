@@ -1,0 +1,5 @@
+Captain	2	1
+Nemo	0	0
+went	0	1
+out	1	2
+.	NA	NA

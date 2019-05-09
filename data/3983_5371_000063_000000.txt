@@ -1,0 +1,8 @@
+It	1	0
+was	0	1
+my	1	0
+duty	0	1
+to	0	0
+do	2	1
+so	2	2
+.	NA	NA

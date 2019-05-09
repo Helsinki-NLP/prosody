@@ -1,0 +1,11 @@
+I	2	0
+believe	0	0
+it's	0	1
+something	2	2
+the	0	0
+same	2	0
+in	0	0
+other	0	1
+places	1	1
+too	2	2
+.	NA	NA

@@ -1,0 +1,10 @@
+Indeed	0	0
+I	0	1
+have	2	1
+,	NA	NA
+sir	1	2
+,	NA	NA
+was	1	0
+her	0	0
+answer	1	2
+.	NA	NA

@@ -1,0 +1,9 @@
+What	2	0
+have	0	0
+you	0	0
+named	1	0
+that	0	1
+young	1	0
+article	1	1
+there	2	2
+?	NA	NA

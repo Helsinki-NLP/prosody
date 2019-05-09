@@ -1,0 +1,8 @@
+We	0	0
+hear	2	0
+them	0	1
+outside	1	1
+now	1	0
+cracking	0	1
+eggs	2	2
+.	NA	NA

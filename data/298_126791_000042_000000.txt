@@ -1,0 +1,9 @@
+The	0	0
+lady	2	1
+burst	2	0
+into	0	0
+a	0	1
+flood	2	0
+of	0	1
+tears	2	2
+.	NA	NA

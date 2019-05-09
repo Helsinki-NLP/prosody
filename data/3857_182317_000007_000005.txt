@@ -1,0 +1,6 @@
+He	0	0
+was	0	1
+plastic	2	1
+,	NA	NA
+too	2	2
+.	NA	NA

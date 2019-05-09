@@ -1,0 +1,17 @@
+Why	2	1
+,	NA	NA
+they	1	0
+answered	2	2
+,	NA	NA
+that	2	0
+is	0	0
+a	0	1
+picture	0	0
+of	0	0
+Caesar	1	2
+,	NA	NA
+the	1	0
+emperor	0	0
+of	0	0
+Rome	2	2
+.	NA	NA

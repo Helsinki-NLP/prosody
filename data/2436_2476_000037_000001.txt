@@ -1,0 +1,5 @@
+It	2	1
+was	0	0
+good	1	1
+news	2	2
+.	NA	NA

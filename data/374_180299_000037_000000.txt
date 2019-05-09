@@ -1,0 +1,14 @@
+My	0	0
+life	2	0
+is	0	1
+yours	1	0
+,	NA	NA
+Marguerite	1	2
+;	NA	NA
+you	1	0
+need	0	0
+this	0	0
+man	0	0
+no	0	0
+longer	1	2
+.	NA	NA

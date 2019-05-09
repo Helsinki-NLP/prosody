@@ -1,0 +1,6 @@
+what	1	0
+are	0	0
+you	0	2
+thinking	2	0
+of	0	2
+?	NA	NA

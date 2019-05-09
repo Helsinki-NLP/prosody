@@ -1,0 +1,6 @@
+I	2	0
+promise	1	0
+on	0	1
+my	1	0
+honor	0	2
+.	NA	NA

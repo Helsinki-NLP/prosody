@@ -1,0 +1,11 @@
+It	0	1
+merely	2	1
+insisted	1	0
+that	0	2
+the	0	0
+case	2	0
+against	1	0
+him	0	0
+was	0	1
+proved	2	2
+.	NA	NA

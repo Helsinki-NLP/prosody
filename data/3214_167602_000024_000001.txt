@@ -1,0 +1,8 @@
+Where's	1	0
+the	0	0
+Elder	2	1
+?	NA	NA
+he	0	0
+cried	1	1
+furiously	2	2
+.	NA	NA

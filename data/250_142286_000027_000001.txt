@@ -1,0 +1,13 @@
+Who	2	0
+are	0	0
+these	0	1
+Hales	2	0
+that	0	1
+he	0	0
+makes	0	0
+such	0	0
+a	1	1
+fuss	1	0
+about	1	2
+?	NA	NA
+'	NA	NA

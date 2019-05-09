@@ -1,0 +1,7 @@
+What	0	0
+else	2	1
+could	0	0
+I	0	0
+have	0	1
+done	1	2
+?	NA	NA

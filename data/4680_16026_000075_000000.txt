@@ -1,0 +1,6 @@
+Thenardier	2	1
+resumed	1	1
+in	0	0
+his	0	1
+decided	2	0
+tone	0	2

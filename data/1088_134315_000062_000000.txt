@@ -1,0 +1,9 @@
+Out	2	1
+,	NA	NA
+is	0	0
+he	0	0
+?	NA	NA
+boomed	0	1
+the	0	0
+visitor	2	2
+.	NA	NA

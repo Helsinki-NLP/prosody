@@ -1,0 +1,11 @@
+Are	1	0
+you	0	0
+staying	2	1
+long	1	0
+in	0	1
+the	0	0
+East	1	2
+,	NA	NA
+my	1	0
+friend	2	2
+?	NA	NA

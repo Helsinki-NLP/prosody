@@ -1,0 +1,10 @@
+What	1	0
+do	0	0
+you	0	0
+want	1	0
+of	0	1
+me	1	2
+?	NA	NA
+he	0	0
+asked	2	2
+.	NA	NA

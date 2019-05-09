@@ -1,0 +1,11 @@
+Some	1	0
+other	0	0
+way	1	2
+some	2	0
+other	0	0
+way	1	2
+!	NA	NA
+Carling	1	0
+was	0	1
+babbling	1	2
+.	NA	NA

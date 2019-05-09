@@ -1,0 +1,15 @@
+When	1	0
+I'm	1	0
+in	0	1
+the	0	0
+Army	0	0
+,	NA	NA
+won't	1	0
+I	0	0
+hate	1	1
+the	0	0
+French	2	2
+?	NA	NA
+that's	2	1
+all	2	2
+.	NA	NA

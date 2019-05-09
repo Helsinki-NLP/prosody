@@ -1,0 +1,4 @@
+He	1	0
+was	0	1
+supercargo	2	2
+.	NA	NA

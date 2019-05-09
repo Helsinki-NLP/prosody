@@ -1,0 +1,8 @@
+And	2	0
+I	0	0
+was	0	0
+taken	1	1
+there	0	0
+with	1	1
+him	0	2
+.	NA	NA

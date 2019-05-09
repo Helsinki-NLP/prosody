@@ -1,0 +1,16 @@
+I	0	0
+turned	0	1
+aside	2	2
+,	NA	NA
+crept	2	0
+through	0	0
+the	0	0
+shattered	0	1
+portal	1	2
+and	0	0
+looked	1	0
+over	2	0
+the	0	0
+haunted	0	1
+hollow	1	2
+.	NA	NA

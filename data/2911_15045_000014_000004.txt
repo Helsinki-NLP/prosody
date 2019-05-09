@@ -1,0 +1,5 @@
+Here	2	0
+all	0	1
+was	0	0
+changed	1	2
+.	NA	NA

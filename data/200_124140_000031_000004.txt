@@ -1,0 +1,8 @@
+I	0	0
+do	0	0
+not	1	0
+trust	2	1
+my	1	0
+own	0	1
+partiality	2	2
+.	NA	NA

@@ -1,0 +1,7 @@
+Don't	1	0
+look	0	1
+back	2	1
+,	NA	NA
+grunted	0	0
+Ventnor	2	2
+.	NA	NA

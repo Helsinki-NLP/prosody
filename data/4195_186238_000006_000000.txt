@@ -1,0 +1,12 @@
+Another	2	0
+hour	1	0
+was	0	2
+spent	1	0
+in	0	1
+looking	0	0
+in	0	0
+at	0	1
+the	0	0
+shop	1	1
+windows	1	2
+.	NA	NA

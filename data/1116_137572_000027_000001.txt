@@ -1,0 +1,16 @@
+The	0	1
+general	2	0
+level	0	0
+of	0	1
+emotion	1	1
+is	0	0
+what	0	0
+counts	2	2
+,	NA	NA
+not	1	0
+the	0	0
+spectacular	1	0
+scaling	1	1
+of	0	0
+peaks	1	2
+.	NA	NA

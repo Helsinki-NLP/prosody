@@ -1,0 +1,6 @@
+Stop	2	0
+that	1	0
+,	NA	NA
+you	0	1
+fools	1	2
+!	NA	NA

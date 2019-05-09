@@ -1,0 +1,9 @@
+Nothing	2	1
+I	0	0
+dreaded	1	1
+more	2	0
+than	0	1
+a	0	0
+step	2	0
+mother	2	2
+.	NA	NA

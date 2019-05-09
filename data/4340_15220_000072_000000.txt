@@ -1,0 +1,8 @@
+I	0	0
+wish	2	0
+you'd	0	1
+hurry	0	0
+up	0	1
+,	NA	NA
+Sam	1	2
+.	NA	NA

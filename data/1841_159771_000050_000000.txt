@@ -1,0 +1,15 @@
+The	0	0
+fourth	2	0
+time	1	1
+that	0	0
+Master	1	0
+Meadow	0	0
+Mouse	0	0
+found	1	0
+his	0	1
+cousin	1	1
+he	1	0
+took	2	1
+no	0	0
+chances	1	2
+.	NA	NA

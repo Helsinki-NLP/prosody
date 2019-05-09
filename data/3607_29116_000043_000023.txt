@@ -1,0 +1,6 @@
+Very	2	0
+strange	0	2
+.	NA	NA
+.	NA	NA
+.	NA	NA
+.	NA	NA

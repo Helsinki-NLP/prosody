@@ -1,0 +1,12 @@
+I	2	0
+answered	0	0
+her	0	1
+greeting	1	2
+,	NA	NA
+and	0	0
+met	1	0
+George	2	0
+Prince's	0	1
+casual	1	0
+gaze	1	2
+.	NA	NA

@@ -1,0 +1,6 @@
+There	2	0
+are	0	1
+ten	1	0
+thousand	1	1
+here	1	2
+.	NA	NA

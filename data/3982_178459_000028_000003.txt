@@ -1,0 +1,17 @@
+Something	2	0
+happened	0	0
+that	1	2
+She	0	0
+stopped	0	0
+abruptly	1	2
+,	NA	NA
+with	0	0
+a	0	0
+tremulous	2	1
+murmur	0	0
+of	0	0
+amazement	1	1
+and	0	0
+dawning	1	0
+comprehension	0	2
+.	NA	NA

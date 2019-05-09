@@ -1,0 +1,11 @@
+He	0	0
+threw	1	0
+his	0	0
+arm	1	1
+free	0	0
+of	0	1
+this	2	0
+and	0	2
+followed	2	0
+Lincoln	0	2
+.	NA	NA

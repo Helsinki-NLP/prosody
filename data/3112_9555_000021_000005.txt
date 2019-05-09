@@ -1,0 +1,7 @@
+The	0	0
+furniture	2	0
+was	0	1
+mean	0	0
+and	0	1
+scanty	2	2
+.	NA	NA

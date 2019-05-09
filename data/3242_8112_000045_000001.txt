@@ -1,0 +1,4 @@
+Good	2	0
+for	0	1
+Repulsive	1	2
+!	NA	NA

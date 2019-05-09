@@ -1,0 +1,6 @@
+Fine	2	0
+,	NA	NA
+said	0	1
+the	0	0
+Major	2	2
+.	NA	NA

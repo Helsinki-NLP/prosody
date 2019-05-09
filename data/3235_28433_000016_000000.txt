@@ -1,0 +1,5 @@
+We	0	0
+were	0	0
+not	1	1
+mistaken	2	2
+.	NA	NA

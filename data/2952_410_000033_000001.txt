@@ -1,0 +1,8 @@
+And	0	0
+I	1	0
+have	0	1
+not	2	1
+committed	2	0
+any	0	1
+crime	2	2
+.	NA	NA

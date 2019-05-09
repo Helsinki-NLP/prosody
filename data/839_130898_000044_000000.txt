@@ -1,0 +1,7 @@
+But	0	0
+the	0	0
+Nautilus	2	2
+kept	1	0
+gravitating	1	0
+southward	1	2
+.	NA	NA

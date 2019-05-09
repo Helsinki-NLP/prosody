@@ -1,0 +1,16 @@
+This	2	0
+time	0	1
+he	0	0
+reeled	2	0
+like	0	1
+a	0	0
+man	2	2
+too	1	0
+drunk	2	2
+to	0	0
+care	2	0
+how	0	0
+drunk	1	1
+he	0	0
+looks	2	2
+.	NA	NA

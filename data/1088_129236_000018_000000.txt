@@ -1,0 +1,11 @@
+The	2	0
+like	0	1
+force	2	0
+has	0	2
+the	0	0
+passion	2	0
+over	0	0
+all	0	0
+his	0	1
+nature	1	2
+.	NA	NA

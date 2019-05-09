@@ -1,0 +1,5 @@
+Why	2	0
+should	0	1
+they	0	0
+not	1	2
+?	NA	NA

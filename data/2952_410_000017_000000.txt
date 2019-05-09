@@ -1,0 +1,7 @@
+Sir	2	0
+,	NA	NA
+you	0	0
+are	0	1
+not	1	1
+mistaken	1	2
+.	NA	NA

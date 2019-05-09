@@ -1,0 +1,9 @@
+Is	1	0
+your	0	0
+husband	2	1
+at	0	0
+home	0	0
+,	0	1
+mrs	NA	NA
+Poyser	2	2
+?	NA	NA

@@ -1,0 +1,9 @@
+I	1	0
+suppose	2	0
+you	0	1
+won't	0	0
+take	0	0
+anything	1	2
+,	NA	NA
+Jessie	2	2
+?	NA	NA

@@ -1,0 +1,3 @@
+Forty	0	0
+pounds	2	2
+.	NA	NA

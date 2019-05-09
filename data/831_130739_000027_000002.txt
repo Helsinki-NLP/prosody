@@ -1,0 +1,5 @@
+Along	1	0
+the	0	1
+South	2	1
+Coast	2	2
+.	NA	NA

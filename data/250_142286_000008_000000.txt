@@ -1,0 +1,5 @@
+'Not	1	1
+quite	1	1
+,	NA	NA
+yet	2	2
+.	NA	NA

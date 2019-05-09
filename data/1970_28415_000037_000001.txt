@@ -1,0 +1,12 @@
+There	2	0
+was	0	0
+a	0	0
+man's	1	1
+picture	1	1
+stamped	2	2
+on	0	0
+one	0	0
+side	1	0
+of	0	0
+it	1	2
+.	NA	NA

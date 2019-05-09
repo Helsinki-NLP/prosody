@@ -1,0 +1,4 @@
+MOSS	2	0
+and	0	1
+GRAB	1	2
+.	NA	NA

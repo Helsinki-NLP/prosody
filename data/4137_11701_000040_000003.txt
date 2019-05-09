@@ -1,0 +1,11 @@
+But	2	0
+to	0	1
+be	0	0
+Queen	0	0
+of	0	1
+Araby	2	1
+was	0	0
+no	1	0
+mean	0	1
+thing	2	2
+.	NA	NA

@@ -1,0 +1,7 @@
+I	0	0
+must	2	1
+cry	2	1
+,	NA	NA
+said	0	0
+Anne	1	2
+.	NA	NA

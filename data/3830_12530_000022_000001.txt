@@ -1,0 +1,11 @@
+It	0	0
+was	0	0
+our	0	1
+first	2	0
+introduction	0	2
+to	0	0
+a	0	0
+genuine	1	1
+tide	2	0
+rip	0	2
+.	NA	NA

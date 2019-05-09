@@ -1,0 +1,6 @@
+Had	1	0
+it	0	1
+petticoats	1	1
+,	NA	NA
+George	1	2
+?	NA	NA

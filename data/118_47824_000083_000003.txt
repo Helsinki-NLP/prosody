@@ -1,0 +1,12 @@
+He	0	1
+put	2	0
+on	0	0
+his	0	1
+coat	2	2
+and	0	0
+hat	2	1
+and	0	0
+left	1	1
+the	0	0
+house	1	2
+.	NA	NA

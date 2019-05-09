@@ -1,0 +1,4 @@
+He	0	1
+recoiled	2	0
+and	0	1
+stammered	2	2

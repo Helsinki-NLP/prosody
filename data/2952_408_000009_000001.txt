@@ -1,0 +1,16 @@
+By	2	0
+the	0	1
+rule	2	0
+of	0	0
+our	1	1
+village	2	1
+,	NA	NA
+none	2	0
+of	0	0
+us	0	0
+can	0	1
+stay	2	1
+here	0	0
+after	1	1
+midnight	2	2
+.	NA	NA

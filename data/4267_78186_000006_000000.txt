@@ -1,0 +1,9 @@
+Good	0	0
+evening	1	2
+,	NA	NA
+marm	2	2
+,	NA	NA
+said	1	0
+mr	0	0
+Slick	1	2
+.	NA	NA

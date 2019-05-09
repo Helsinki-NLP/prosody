@@ -1,0 +1,10 @@
+The	0	0
+count	1	0
+returned	0	1
+and	0	0
+lay	1	1
+down	2	2
+behind	2	0
+the	0	1
+partition	1	2
+.	NA	NA

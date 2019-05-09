@@ -1,0 +1,13 @@
+Not	2	1
+much	1	1
+,	NA	NA
+come	2	0
+now	0	0
+,	NA	NA
+you	0	0
+old	0	1
+dog	0	0
+,	NA	NA
+after	2	0
+us	1	2
+!	NA	NA

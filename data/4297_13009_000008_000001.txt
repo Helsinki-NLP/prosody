@@ -1,0 +1,9 @@
+One	2	0
+must	0	0
+be	0	1
+Patronage	1	0
+Secretary	1	1
+,	NA	NA
+no	0	0
+doubt	2	2
+.	NA	NA

@@ -1,0 +1,16 @@
+Had	1	0
+there	0	0
+been	1	0
+a	0	1
+necessity	1	1
+for	0	0
+your	0	1
+going	2	2
+,	NA	NA
+they	1	0
+would	0	0
+not	0	0
+have	0	0
+offered	1	0
+that	1	2
+.	NA	NA

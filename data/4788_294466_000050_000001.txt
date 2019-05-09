@@ -1,0 +1,5 @@
+Not	1	0
+tonight	2	1
+,	NA	NA
+please	0	2
+.	NA	NA

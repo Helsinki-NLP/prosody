@@ -1,0 +1,10 @@
+My	1	0
+unfortunate	2	1
+guest	2	1
+regards	2	1
+me	0	0
+with	0	0
+the	0	1
+tenderest	1	1
+compassion	2	2
+.	NA	NA

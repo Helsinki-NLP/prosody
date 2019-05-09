@@ -1,0 +1,6 @@
+Hold	2	2
+!	NA	NA
+roared	1	0
+Little	0	0
+john	1	2
+.	NA	NA

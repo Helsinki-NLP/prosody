@@ -1,0 +1,15 @@
+Frankenstein	2	0
+,	NA	NA
+who	0	1
+was	0	0
+dozing	2	2
+,	NA	NA
+awoke	2	1
+and	0	0
+asked	1	1
+the	0	0
+cause	2	0
+of	0	1
+the	0	0
+tumult	1	2
+.	NA	NA

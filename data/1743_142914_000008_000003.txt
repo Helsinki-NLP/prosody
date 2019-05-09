@@ -1,0 +1,12 @@
+Longbill	2	0
+took	0	1
+two	1	0
+or	0	1
+three	0	0
+steps	1	0
+in	0	1
+rather	1	2
+a	0	0
+stately	1	1
+fashion	2	2
+.	NA	NA

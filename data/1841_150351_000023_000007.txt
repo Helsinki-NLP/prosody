@@ -1,0 +1,12 @@
+Such	2	0
+a	0	0
+house	1	1
+is	0	0
+usually	0	0
+occupied	2	1
+by	0	0
+a	0	0
+number	1	0
+of	0	1
+families	2	2
+.	NA	NA

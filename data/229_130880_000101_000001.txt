@@ -1,0 +1,4 @@
+Land	1	0
+is	0	1
+right	2	2
+.	NA	NA

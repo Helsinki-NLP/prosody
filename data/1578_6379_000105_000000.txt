@@ -1,0 +1,13 @@
+Young	2	2
+!	NA	NA
+Wait	2	0
+till	0	0
+you	0	1
+see	0	0
+me	0	0
+with	0	1
+my	0	0
+hair	1	0
+done	0	0
+up	0	2
+.	NA	NA

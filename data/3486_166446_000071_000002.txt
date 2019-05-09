@@ -1,0 +1,11 @@
+A	0	0
+hope	2	2
+a	0	0
+PROMISE	2	1
+,	NA	NA
+that	0	0
+they	0	0
+would	0	0
+NOT	0	1
+conquer	2	2
+.	NA	NA

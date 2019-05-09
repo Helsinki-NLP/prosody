@@ -1,0 +1,16 @@
+The	0	0
+pilgrimage	2	0
+towards	1	1
+a	0	0
+personal	1	0
+being	0	0
+seemed	0	0
+to	0	1
+traverse	1	0
+vast	1	0
+gulfs	2	2
+,	NA	NA
+to	0	0
+occupy	1	0
+epochs	2	2
+.	NA	NA

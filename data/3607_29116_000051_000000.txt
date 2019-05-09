@@ -1,0 +1,14 @@
+Yes	2	1
+,	NA	NA
+Balloon	1	0
+is	0	1
+a	0	0
+man	2	0
+of	0	1
+parts	2	2
+,	NA	NA
+there	0	0
+is	0	0
+no	1	0
+denying	1	0
+it	0	2

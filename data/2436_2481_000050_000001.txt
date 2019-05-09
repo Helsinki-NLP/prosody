@@ -1,0 +1,12 @@
+I	0	0
+lunged	2	0
+against	0	0
+him	0	2
+I	1	0
+was	0	0
+almost	0	0
+as	0	1
+surprised	2	1
+as	0	0
+he	1	2
+.	NA	NA

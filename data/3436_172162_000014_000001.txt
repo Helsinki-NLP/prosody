@@ -1,0 +1,15 @@
+Sir	2	0
+Gawain	1	0
+thought	0	0
+it	0	0
+might	0	1
+be	0	0
+so	2	0
+,	NA	NA
+and	0	1
+became	1	1
+equally	2	0
+eager	0	0
+to	0	1
+depart	1	2
+.	NA	NA

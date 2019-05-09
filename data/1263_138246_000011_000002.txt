@@ -1,0 +1,13 @@
+Thus	2	2
+we	0	0
+still	2	0
+have	0	2
+twenty	1	0
+seven	2	0
+minutes	0	1
+to	0	0
+remain	1	1
+on	1	0
+the	0	0
+earth	1	2
+.	NA	NA

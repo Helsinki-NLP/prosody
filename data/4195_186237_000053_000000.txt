@@ -1,0 +1,12 @@
+Couldn't	0	0
+we	0	0
+get	1	0
+him	0	0
+a	0	1
+job	2	2
+?	NA	NA
+asked	2	0
+Patsy	1	1
+,	NA	NA
+wistfully	2	2
+.	NA	NA

@@ -1,0 +1,12 @@
+mrs	2	0
+Teeter	1	1
+slipped	2	2
+back	2	0
+on	0	0
+the	0	0
+eggs	1	1
+and	0	0
+settled	1	0
+herself	0	1
+comfortably	1	2
+.	NA	NA

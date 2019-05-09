@@ -1,0 +1,9 @@
+I	0	1
+love	2	1
+bright	0	0
+red	0	0
+drinks	0	1
+,	NA	NA
+don't	2	0
+you	1	2
+?	NA	NA

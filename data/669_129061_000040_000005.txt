@@ -1,0 +1,10 @@
+His	0	1
+adviser	2	1
+caught	1	0
+at	0	1
+some	0	0
+stray	1	0
+hints	1	1
+in	0	0
+it	0	2
+.	NA	NA

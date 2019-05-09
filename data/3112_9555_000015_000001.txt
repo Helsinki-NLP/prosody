@@ -1,0 +1,17 @@
+There	2	0
+have	0	0
+been	0	0
+hot	0	0
+words	1	1
+between	0	0
+us	0	2
+,	NA	NA
+for	0	0
+perfect	1	0
+friendship	1	1
+bears	1	1
+and	0	0
+allows	2	1
+hot	0	0
+words	0	2
+.	NA	NA

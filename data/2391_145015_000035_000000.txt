@@ -1,0 +1,15 @@
+I	2	2
+remember	0	0
+to	0	0
+have	0	0
+heard	0	0
+of	0	1
+only	2	1
+two	0	0
+little	1	0
+things	1	1
+different	1	1
+from	0	0
+modern	0	0
+customs	1	2
+.	NA	NA

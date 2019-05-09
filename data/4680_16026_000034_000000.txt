@@ -1,0 +1,5 @@
+What	0	1
+jade	2	0
+is	0	1
+this	2	2
+?	NA	NA

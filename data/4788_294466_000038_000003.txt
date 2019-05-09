@@ -1,0 +1,3 @@
+Bustin'	1	1
+broncs	2	2
+?	NA	NA

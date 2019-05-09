@@ -1,0 +1,9 @@
+Certainly	2	1
+the	0	0
+choice	2	1
+of	0	0
+Nash	1	1
+was	0	0
+well	0	0
+made	1	2
+.	NA	NA

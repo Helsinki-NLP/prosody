@@ -1,0 +1,16 @@
+They	2	0
+two	2	0
+,	NA	NA
+and	0	1
+nobody	2	0
+else	0	1
+,	NA	NA
+can	0	0
+make	1	1
+the	0	0
+decision	2	2
+to	0	0
+fit	2	1
+their	0	0
+marriage	1	2
+.	NA	NA

@@ -1,0 +1,3 @@
+Let's	1	1
+quit	2	2
+.	NA	NA

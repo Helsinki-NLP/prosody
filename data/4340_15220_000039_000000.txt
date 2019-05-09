@@ -1,0 +1,10 @@
+No	0	0
+,	NA	NA
+I	0	0
+won't	2	2
+;	NA	NA
+I	2	0
+don't	0	0
+like	1	1
+him	0	2
+.	NA	NA

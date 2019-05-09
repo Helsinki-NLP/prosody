@@ -1,0 +1,7 @@
+Round	2	0
+it	0	2
+all	2	0
+the	0	1
+Muses	0	0
+sing	1	2
+.	NA	NA

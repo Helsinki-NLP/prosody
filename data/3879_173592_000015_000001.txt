@@ -1,0 +1,7 @@
+The	1	0
+commandant	2	2
+was	0	0
+forced	2	1
+to	0	0
+comply	1	2
+.	NA	NA

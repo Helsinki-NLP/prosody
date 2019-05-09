@@ -1,0 +1,14 @@
+No	1	0
+,	NA	NA
+said	0	0
+Danglars	1	2
+,	NA	NA
+no	1	0
+,	NA	NA
+decidedly	2	0
+no	1	2
+;	NA	NA
+keep	2	0
+my	0	0
+signatures	1	2
+.	NA	NA

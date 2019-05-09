@@ -1,0 +1,10 @@
+Stout	2	1
+,	NA	NA
+active	2	1
+looks	1	0
+as	0	0
+young	1	0
+as	0	0
+his	0	1
+son	2	2
+.	NA	NA

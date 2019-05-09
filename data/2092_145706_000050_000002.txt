@@ -1,0 +1,15 @@
+Keep	1	0
+your	0	1
+spirits	1	0
+up	0	1
+.	NA	NA
+'	NA	NA
+And	1	0
+with	0	0
+these	1	0
+words	2	2
+he	0	0
+trotted	1	1
+quickly	0	0
+away	1	2
+.	NA	NA

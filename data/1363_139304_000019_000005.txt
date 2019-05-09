@@ -1,0 +1,15 @@
+He	0	0
+heard	2	0
+some	0	0
+indistinct	0	1
+shrill	1	0
+cry	2	2
+,	NA	NA
+and	0	0
+abruptly	2	2
+these	1	0
+three	1	0
+men	0	0
+began	0	0
+laughing	1	2
+.	NA	NA

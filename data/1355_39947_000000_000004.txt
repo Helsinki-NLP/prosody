@@ -1,0 +1,8 @@
+Often	2	1
+this	0	0
+is	0	0
+coupled	2	0
+with	0	2
+telepathic	2	1
+fancies	1	2
+.	NA	NA

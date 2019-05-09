@@ -1,0 +1,6 @@
+Go	1	0
+on	0	1
+,	NA	NA
+said	0	0
+Bechamel	2	2
+.	NA	NA

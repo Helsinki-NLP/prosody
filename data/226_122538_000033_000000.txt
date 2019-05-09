@@ -1,0 +1,14 @@
+Jane	2	0
+gave	0	1
+a	0	0
+sudden	0	0
+sob	2	2
+;	NA	NA
+then	1	0
+turned	2	0
+to	0	1
+him	0	0
+,	NA	NA
+dry	1	0
+eyed	0	2
+.	NA	NA

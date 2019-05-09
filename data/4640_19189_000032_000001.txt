@@ -1,0 +1,14 @@
+You	1	0
+are	0	0
+not	2	2
+tender	1	1
+to	0	0
+have	0	0
+left	1	0
+me	0	1
+to	0	0
+pass	2	1
+the	0	0
+night	1	1
+here	2	2
+.	NA	NA

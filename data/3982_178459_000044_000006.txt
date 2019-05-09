@@ -1,0 +1,10 @@
+We	0	0
+always	2	1
+talked	1	1
+of	0	0
+me	1	2
+,	NA	NA
+not	0	0
+of	0	1
+you	2	2
+.	NA	NA

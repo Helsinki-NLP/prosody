@@ -1,0 +1,5 @@
+There	1	1
+was	0	0
+no	1	1
+pulsation	2	2
+.	NA	NA

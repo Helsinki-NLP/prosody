@@ -1,0 +1,9 @@
+How	2	0
+did	0	0
+that	2	0
+old	0	1
+man	0	0
+know	0	0
+his	0	1
+name	2	2
+?	NA	NA

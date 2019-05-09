@@ -1,0 +1,10 @@
+Yes	2	2
+,	NA	NA
+or	2	0
+I	2	0
+will	0	1
+never	1	1
+see	0	0
+her	0	0
+again	1	2
+.	NA	NA

@@ -1,0 +1,7 @@
+Go	0	0
+ahead	2	2
+,	NA	NA
+said	1	0
+the	0	1
+leader	1	2
+.	NA	NA

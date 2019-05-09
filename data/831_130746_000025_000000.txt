@@ -1,0 +1,5 @@
+I	0	0
+might	2	0
+have	0	1
+thought	2	2
+!	NA	NA

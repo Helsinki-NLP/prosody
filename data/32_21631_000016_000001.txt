@@ -1,0 +1,11 @@
+An	0	0
+enjoyable	1	1
+time	2	0
+was	0	1
+had	0	0
+by	1	0
+all	1	2
+except	2	1
+the	0	0
+pig	2	2
+.	NA	NA

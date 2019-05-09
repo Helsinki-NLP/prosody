@@ -1,0 +1,7 @@
+We	0	0
+want	1	0
+order	1	0
+here	0	1
+keep	2	2
+back	2	2
+!	NA	NA

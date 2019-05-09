@@ -1,0 +1,9 @@
+Ah	2	1
+,	NA	NA
+Poyser	1	1
+,	NA	NA
+how	0	0
+do	0	0
+you	0	0
+do	1	2
+?	NA	NA

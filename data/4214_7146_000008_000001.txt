@@ -1,0 +1,10 @@
+But	2	0
+you	0	0
+keep	1	1
+your	1	0
+wits	1	1
+about	2	2
+you	0	0
+this	0	1
+time	2	2
+.	NA	NA

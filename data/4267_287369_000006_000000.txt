@@ -1,0 +1,7 @@
+Rather	1	0
+odd	2	2
+,	NA	NA
+commented	1	0
+mr	0	0
+Jenks	1	2
+.	NA	NA

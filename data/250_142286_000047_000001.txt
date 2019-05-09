@@ -1,0 +1,5 @@
+May	2	0
+I	0	1
+inquire	1	2
+?	NA	NA
+'	NA	NA

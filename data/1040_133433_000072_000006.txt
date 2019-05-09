@@ -1,0 +1,16 @@
+The	0	1
+bearded	1	0
+man	2	1
+who	0	0
+doesn't	0	0
+know	1	0
+any	0	0
+story	2	2
+to	0	0
+tell	1	0
+his	0	1
+children	2	1
+was	1	0
+once	0	1
+john	1	2
+.	NA	NA

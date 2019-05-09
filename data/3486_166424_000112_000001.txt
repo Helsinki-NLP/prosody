@@ -1,0 +1,11 @@
+It	0	1
+swept	2	1
+through	0	0
+them	1	0
+like	0	0
+a	0	1
+scythe	2	2
+through	0	0
+ripe	2	1
+grain	1	2
+.	NA	NA

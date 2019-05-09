@@ -1,0 +1,4 @@
+He's	0	1
+busy	2	1
+mornings	1	2
+.	NA	NA

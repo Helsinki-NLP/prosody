@@ -1,0 +1,16 @@
+There	0	0
+was	0	0
+nothing	0	0
+to	0	0
+wash	0	0
+out	1	2
+no	1	0
+stain	1	0
+of	0	0
+any	0	0
+kind	0	2
+no	2	0
+blood	1	1
+spot	0	1
+whatever	2	2
+.	NA	NA

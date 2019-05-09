@@ -1,0 +1,14 @@
+That's	2	1
+good	0	0
+news	2	1
+,	NA	NA
+the	0	0
+Canadian	0	0
+replied	1	2
+,	NA	NA
+but	0	0
+where's	2	0
+the	0	1
+Nautilus	0	0
+going	2	2
+?	NA	NA

@@ -1,0 +1,3 @@
+Hit	0	0
+hain't	1	2
+!	NA	NA

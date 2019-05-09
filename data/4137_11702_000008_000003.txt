@@ -1,0 +1,5 @@
+Should	1	1
+he	0	1
+risk	0	0
+it	2	2
+?	NA	NA

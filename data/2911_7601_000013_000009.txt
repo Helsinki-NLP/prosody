@@ -1,0 +1,8 @@
+But	0	1
+the	0	0
+beating	0	0
+grew	0	0
+louder	1	2
+,	NA	NA
+louder	2	2
+!	NA	NA

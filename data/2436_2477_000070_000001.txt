@@ -1,0 +1,5 @@
+Venza	2	1
+caught	2	1
+my	0	0
+look	1	2
+.	NA	NA

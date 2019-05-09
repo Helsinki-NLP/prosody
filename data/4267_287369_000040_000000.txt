@@ -1,0 +1,17 @@
+Slowly	2	0
+the	0	1
+figure	0	0
+advanced	1	2
+,	NA	NA
+It	0	0
+waved	2	1
+the	0	0
+long	0	0
+white	0	0
+arms	1	2
+,	NA	NA
+as	1	0
+if	0	0
+in	0	0
+warning	0	2
+.	NA	NA

@@ -1,0 +1,15 @@
+And	0	0
+now	2	2
+,	NA	NA
+by	1	0
+the	0	0
+way	1	1
+,	NA	NA
+you	0	0
+might	2	0
+give	0	0
+me	0	1
+back	1	1
+those	0	0
+diamonds	1	2
+.	NA	NA

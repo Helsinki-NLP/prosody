@@ -1,0 +1,7 @@
+You	0	1
+had	1	0
+supper	2	0
+with	0	1
+the	0	0
+manager	1	2
+!	NA	NA

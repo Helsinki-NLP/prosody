@@ -1,0 +1,11 @@
+BABE	2	1
+,	NA	NA
+not	2	0
+baby	0	1
+,	NA	NA
+corrected	1	0
+Rebecca	0	0
+from	0	0
+the	0	1
+circular	1	2
+.	NA	NA

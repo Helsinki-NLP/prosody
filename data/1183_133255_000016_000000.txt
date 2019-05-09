@@ -1,0 +1,14 @@
+Leslie	2	0
+Safety	0	0
+Razors	0	1
+AND	0	0
+SPIRAL	2	1
+STROPPER	2	2
+LESLIE	1	0
+STANDARD	2	1
+The	0	0
+Shaving	1	0
+Outfit	0	1
+of	0	0
+the	0	0
+World	1	2

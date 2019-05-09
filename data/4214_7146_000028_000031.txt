@@ -1,0 +1,14 @@
+After	2	0
+mrs	0	1
+Chester	0	0
+Ross	2	0
+went	0	1
+away	1	1
+,	NA	NA
+Marilla	2	0
+gave	0	0
+me	0	0
+a	0	2
+dreadful	2	1
+scolding	1	2
+.	NA	NA

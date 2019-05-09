@@ -1,0 +1,15 @@
+When	0	0
+I	2	0
+was	0	1
+returned	1	1
+,	NA	NA
+I	0	0
+found	2	0
+myself	0	1
+as	0	0
+unsatisfied	2	1
+as	0	0
+I	0	0
+was	0	1
+before	2	2
+.	NA	NA

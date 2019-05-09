@@ -1,0 +1,13 @@
+But	2	0
+I	0	0
+don't	0	0
+mind	1	0
+what	0	0
+we	0	1
+do	0	0
+now	2	2
+,	NA	NA
+said	1	0
+Hyacinth	0	1
+happily	1	2
+.	NA	NA

@@ -1,0 +1,8 @@
+'Did	1	0
+you	0	1
+pay	2	1
+attention	1	1
+to	0	0
+everything	1	2
+?	NA	NA
+'	NA	NA

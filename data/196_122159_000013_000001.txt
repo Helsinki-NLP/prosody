@@ -1,0 +1,13 @@
+Don't	2	0
+you	0	0
+see	0	0
+what	0	0
+I	1	1
+mean	0	1
+by	1	0
+the	0	1
+solidarity	2	0
+of	0	0
+the	0	1
+craft	2	2
+?	NA	NA

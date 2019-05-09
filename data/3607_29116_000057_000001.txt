@@ -1,0 +1,13 @@
+I	0	0
+honor	2	0
+my	0	0
+country's	0	1
+public	0	0
+servants	1	2
+as	0	0
+much	2	0
+as	0	0
+any	1	0
+one	0	1
+can	2	2
+.	NA	NA

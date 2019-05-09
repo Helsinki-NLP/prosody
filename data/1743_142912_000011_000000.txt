@@ -1,0 +1,10 @@
+Do	0	0
+you	0	0
+live	0	0
+on	2	1
+bees	0	0
+altogether	2	1
+?	NA	NA
+asked	1	1
+peter	1	2
+.	NA	NA

@@ -1,0 +1,3 @@
+Your	1	1
+daughter	1	2
+.	NA	NA

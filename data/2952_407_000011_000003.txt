@@ -1,0 +1,13 @@
+That	2	0
+is	0	0
+another	0	0
+kind	0	0
+of	0	1
+mimetic	1	0
+magic	1	1
+expressed	2	1
+by	0	0
+the	0	0
+term	2	2
+nazoraeru	2	2
+.	NA	NA

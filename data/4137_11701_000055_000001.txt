@@ -1,0 +1,11 @@
+My	2	0
+dear	0	0
+Udo	0	0
+,	NA	NA
+she's	0	1
+charming	2	2
+;	NA	NA
+I	1	0
+congratulate	2	0
+you	0	2
+.	NA	NA

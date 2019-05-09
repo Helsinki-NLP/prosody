@@ -1,0 +1,12 @@
+They	0	0
+found	2	1
+he	0	0
+had	0	0
+absolute	2	1
+pitch	2	2
+,	NA	NA
+and	1	0
+a	0	0
+remarkable	0	0
+memory	1	2
+.	NA	NA

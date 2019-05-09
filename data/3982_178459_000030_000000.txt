@@ -1,0 +1,11 @@
+She	1	0
+looked	0	1
+at	0	0
+him	0	0
+,	NA	NA
+and	0	2
+slowly	2	0
+shook	0	1
+her	0	0
+head	1	2
+.	NA	NA

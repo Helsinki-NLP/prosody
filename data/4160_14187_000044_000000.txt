@@ -1,0 +1,5 @@
+Perfectly	2	0
+,	NA	NA
+he	0	1
+replied	1	2
+.	NA	NA

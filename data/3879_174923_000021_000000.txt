@@ -1,0 +1,16 @@
+You	0	0
+don't	2	0
+mean	0	1
+that	0	0
+I	2	0
+am	0	1
+guilty	1	0
+of	0	1
+throwing	2	1
+the	0	0
+first	1	1
+stone	2	2
+?	NA	NA
+said	0	0
+Phineas	0	2
+.	NA	NA

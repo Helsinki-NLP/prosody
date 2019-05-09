@@ -1,0 +1,15 @@
+This	2	0
+Convention	2	2
+,	NA	NA
+as	0	0
+you	0	0
+well	2	0
+know	1	0
+,	NA	NA
+was	0	1
+never	1	0
+much	1	1
+to	0	0
+my	1	0
+taste	2	2
+.	NA	NA

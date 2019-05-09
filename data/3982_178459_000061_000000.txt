@@ -1,0 +1,7 @@
+You	0	1
+could	2	0
+forgive	1	1
+me	0	0
+,	NA	NA
+Mary	2	2
+?	NA	NA

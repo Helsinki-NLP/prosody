@@ -1,0 +1,10 @@
+It	1	0
+was	0	0
+her	0	0
+last	1	1
+chance	2	2
+,	NA	NA
+her	2	0
+last	0	0
+hope	2	2
+.	NA	NA

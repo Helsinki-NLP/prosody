@@ -1,0 +1,6 @@
+Oh	1	0
+,	NA	NA
+how	1	1
+could	2	1
+you	1	2
+?	NA	NA

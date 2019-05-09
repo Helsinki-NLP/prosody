@@ -1,0 +1,6 @@
+And	0	0
+who	0	0
+sent	1	1
+for	0	0
+her	2	2
+?	NA	NA

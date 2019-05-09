@@ -1,0 +1,5 @@
+Give	0	0
+it	0	0
+a	0	1
+Trial	2	2
+.	NA	NA

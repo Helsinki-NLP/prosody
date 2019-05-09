@@ -1,0 +1,5 @@
+Yes	2	1
+!	NA	NA
+I	2	0
+said	1	2
+.	NA	NA

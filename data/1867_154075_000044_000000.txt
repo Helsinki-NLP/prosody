@@ -1,0 +1,5 @@
+Ronicky	1	0
+Doone	2	1
+smiled	0	0
+again	2	2
+.	NA	NA

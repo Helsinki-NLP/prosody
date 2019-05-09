@@ -1,0 +1,5 @@
+Isn't	0	0
+she	1	0
+worth	0	1
+knowing	2	2
+?	NA	NA

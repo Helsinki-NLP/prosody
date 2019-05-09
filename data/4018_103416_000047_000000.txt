@@ -1,0 +1,8 @@
+He	0	0
+was	1	0
+divided	2	1
+between	0	0
+gratitude	1	0
+and	0	1
+indignation	1	2
+.	NA	NA

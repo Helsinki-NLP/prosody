@@ -1,0 +1,11 @@
+Sometimes	2	1
+,	NA	NA
+we	0	0
+played	2	0
+on	0	1
+the	0	0
+way	1	0
+and	0	1
+made	1	1
+mistakes	2	2
+.	NA	NA

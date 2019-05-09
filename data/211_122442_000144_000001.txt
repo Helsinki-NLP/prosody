@@ -1,0 +1,7 @@
+Not	2	1
+the	0	0
+least	0	0
+in	0	1
+the	0	0
+world	2	2
+.	NA	NA

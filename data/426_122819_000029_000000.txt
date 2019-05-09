@@ -1,0 +1,11 @@
+There	2	0
+must	0	0
+be	0	1
+some	0	0
+mistake	2	2
+.	NA	NA
+.	NA	NA
+.	NA	NA
+there	1	0
+must	2	2
+.	NA	NA

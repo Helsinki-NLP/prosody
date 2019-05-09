@@ -1,0 +1,13 @@
+So	0	0
+I	2	0
+threw	1	0
+in	0	1
+half	1	1
+a	0	0
+dozen	1	0
+cows	2	0
+to	0	1
+provide	2	0
+the	0	1
+refreshments	2	2
+.	NA	NA

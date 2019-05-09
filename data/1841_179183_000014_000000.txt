@@ -1,0 +1,13 @@
+In	0	0
+all	2	0
+my	0	1
+experiences	1	0
+and	0	1
+thoughts	1	1
+I	1	0
+am	0	1
+conscious	2	1
+of	0	0
+a	0	0
+hand	2	2
+.	NA	NA

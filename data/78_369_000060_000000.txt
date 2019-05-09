@@ -1,0 +1,4 @@
+I	0	0
+am	0	1
+interrupted	2	2
+.	NA	NA

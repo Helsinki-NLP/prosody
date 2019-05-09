@@ -1,0 +1,15 @@
+I	0	0
+believe	0	1
+so	2	2
+;	NA	NA
+but	1	0
+there	2	0
+is	0	0
+the	0	1
+supper	0	0
+,	NA	NA
+afterward	1	1
+,	NA	NA
+you	0	0
+know	2	2
+.	NA	NA

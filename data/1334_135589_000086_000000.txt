@@ -1,0 +1,6 @@
+You	1	0
+are	0	0
+right	1	2
+I	1	0
+will	1	2
+.	NA	NA

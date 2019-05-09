@@ -1,0 +1,14 @@
+Carling	2	0
+shrank	0	1
+back	2	0
+into	0	1
+his	0	0
+chair	2	2
+,	NA	NA
+his	0	0
+head	2	0
+huddling	1	1
+into	0	0
+his	0	0
+shoulders	1	2
+.	NA	NA

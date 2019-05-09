@@ -1,0 +1,17 @@
+And	1	0
+so	2	2
+the	0	0
+forty	0	0
+one	1	0
+women	0	1
+returned	1	1
+to	0	0
+the	0	0
+White	1	0
+House	0	0
+gates	1	2
+to	0	0
+resume'	2	1
+their	0	0
+picketing	1	2
+.	NA	NA

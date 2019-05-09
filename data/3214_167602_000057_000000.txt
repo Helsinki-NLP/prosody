@@ -1,0 +1,3 @@
+But	0	0
+Sonya	2	2
+?	NA	NA

@@ -1,0 +1,14 @@
+Besides	2	0
+the	0	1
+pemmican	2	1
+,	NA	NA
+we	0	0
+had	0	0
+biscuits	1	1
+,	NA	NA
+milk	1	0
+powder	1	1
+,	NA	NA
+and	0	0
+chocolate	2	2
+.	NA	NA

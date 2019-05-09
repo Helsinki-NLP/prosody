@@ -1,0 +1,15 @@
+Chichester	2	0
+Harbour	1	2
+.	NA	NA
+He	0	0
+waved	2	0
+his	0	0
+arm	0	0
+seaward	1	1
+as	1	0
+though	1	0
+it	0	0
+was	0	1
+a	0	0
+goal	2	2
+.	NA	NA

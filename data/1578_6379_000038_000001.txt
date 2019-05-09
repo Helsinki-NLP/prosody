@@ -1,0 +1,5 @@
+I	2	0
+think	0	0
+you're	0	1
+beastly	1	2
+!	NA	NA

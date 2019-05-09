@@ -1,0 +1,7 @@
+It	0	0
+looks	2	0
+like	1	1
+President	1	0
+Wilson's	0	1
+move	2	2
+.	NA	NA

@@ -1,0 +1,5 @@
+Did	1	0
+you	0	0
+sleep	0	1
+well	2	2
+?	NA	NA

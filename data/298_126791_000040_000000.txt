@@ -1,0 +1,7 @@
+Frances	1	1
+continued	1	1
+her	0	0
+walk	1	0
+in	0	1
+silence	2	2
+.	NA	NA

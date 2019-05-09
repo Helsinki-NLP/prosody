@@ -1,0 +1,17 @@
+That	2	0
+ten	0	0
+minutes	0	0
+later	2	2
+another	1	0
+fall	2	0
+of	0	0
+fishes	0	1
+occurred	1	0
+upon	0	1
+this	0	0
+same	1	1
+narrow	2	0
+strip	0	1
+of	0	0
+land	2	2
+.	NA	NA

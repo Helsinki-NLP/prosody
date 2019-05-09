@@ -1,0 +1,14 @@
+Alexey	1	0
+Alexandrovitch	1	0
+shivered	1	2
+,	NA	NA
+and	0	0
+bent	1	0
+his	0	0
+hands	1	1
+to	0	0
+make	0	1
+the	0	0
+joints	1	1
+crack	2	2
+.	NA	NA

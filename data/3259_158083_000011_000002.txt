@@ -1,0 +1,7 @@
+George	1	0
+Scott	0	0
+,	NA	NA
+Montclair	1	1
+.	NA	NA
+Pennsylvania	2	1
+mrs	0	2

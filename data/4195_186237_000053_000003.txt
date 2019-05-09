@@ -1,0 +1,13 @@
+He	0	1
+can't	1	0
+hang	0	0
+around	0	0
+all	0	0
+day	1	2
+and	1	0
+be	0	0
+happy	1	0
+,	NA	NA
+I	0	1
+suppose	2	2
+.	NA	NA

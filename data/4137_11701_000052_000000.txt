@@ -1,0 +1,12 @@
+Coronel	2	1
+was	0	0
+left	0	0
+alone	2	2
+with	0	0
+the	0	0
+most	1	0
+desperate	2	1
+lover	1	1
+in	0	0
+Araby	1	2
+.	NA	NA

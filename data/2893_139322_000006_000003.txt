@@ -1,0 +1,16 @@
+To	0	0
+be	0	0
+steadfast	2	1
+against	0	0
+such	1	0
+inducements	2	1
+was	0	0
+scarcely	2	0
+to	0	1
+be	0	0
+expected	2	1
+of	1	0
+meanly	0	0
+nourished	1	1
+souls	2	2
+.	NA	NA

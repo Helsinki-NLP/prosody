@@ -1,0 +1,10 @@
+Mary	2	2
+,	NA	NA
+not	2	0
+heeding	0	1
+the	0	0
+interruption	1	1
+,	NA	NA
+kept	1	0
+on	1	2
+.	NA	NA
