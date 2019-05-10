@@ -59,3 +59,13 @@ Atlas 2 2
 | ---               | ---           | ---      | ---          | ---    | ---      |
 | BERT-base uncased | 26437         | 3305     | 3305         | 2      | 73.38%   |
 | BERT-base cased   | 26437         | 3305     | 3305         | 2      | 72.48%   |
+
+## Experiments
+
+* Words embeddings + LSTM (Aarne)
+* BERT + LSTM (Aarne)
+* Majority for each word (Hande)
+* Context model (neighbours) (Hande)
+* CRF (Hande)
+* BERT + position encoding
+* Other pre-trained models (GPT, ELMo etc)
