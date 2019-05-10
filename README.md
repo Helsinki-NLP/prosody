@@ -62,6 +62,7 @@ Atlas 2 2
 
 ## Experiments
 
+* BERT (DONE)
 * Words embeddings + LSTM (Aarne)
 * BERT + LSTM (Aarne)
 * Majority for each word (Hande)
