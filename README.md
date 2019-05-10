@@ -13,6 +13,7 @@ Run training by executing:
 
 ```console
 python3 main.py \
+    --model BertUncased \
     --batch_size 16 \
     --epochs 5 \
     --save_path results.txt \
@@ -34,7 +35,7 @@ Output of the system is a text file with the following structure:
 <word> tab <label> tab <prediction>
 ```
 
-Example output
+Example output:
 ```
 And 0 0
 those 2 2

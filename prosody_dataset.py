@@ -4,11 +4,12 @@ from pytorch_pretrained_bert import BertTokenizer
 from sklearn.model_selection import train_test_split
 import torch
 import numpy as np
+import nltk
 
 DATADIR = "data/"
 
 
-class ProsodyDataset(data.Dataset):
+class Dataset(data.Dataset):
     def __init__(self, tagged_sents, tag_to_index):
         sents, tags_li = [], [] # list of lists
         for sent in tagged_sents:
@@ -51,9 +52,10 @@ class ProsodyDataset(data.Dataset):
         return words, x, is_main_piece, tags, y, seqlen
 
 
-def load_data(config):
+def load_dataset(config):
     directory = os.fsencode(DATADIR)
     tagged_sents = []
+    vocab = []
     files = 0
     for file in os.listdir(directory):
         files += 1
@@ -65,12 +67,15 @@ def load_data(config):
                 for line in lines:
                     split_line = line.split('\t')
                     sent.append((split_line[0], split_line[1]))
+                    vocab.append(split_line[0])
             tagged_sents.append(sent)
         else:
             break
         if files >= config.number_of_sents:
             break
 
+    vocab = set(vocab)
+    vocab_size = len(vocab)
     tags = list(set(word_tag[1] for sent in tagged_sents for word_tag in sent))
     tags = ["<pad>"] + tags
 
@@ -85,7 +90,7 @@ def load_data(config):
     print('Dev data: {}'.format(len(dev_data)))
     print('Test data: {}'.format(len(test_data)))
 
-    return train_data, test_data, dev_data, tag_to_index, index_to_tag
+    return train_data, test_data, dev_data, tag_to_index, index_to_tag, vocab_size
 
 
 def pad(batch):

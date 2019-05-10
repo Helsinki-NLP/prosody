@@ -1,3 +1,6 @@
+import os
+import sys
+import errno
 import numpy as np
 import random
 import torch
@@ -5,8 +8,8 @@ import torch.nn as nn
 from torch.utils import data
 import torch.optim as optim
 import prosody_dataset
-from prosody_dataset import ProsodyDataset
-from model import Net
+from prosody_dataset import Dataset
+from model import Bert, LSTM
 from argparse import ArgumentParser
 
 parser = ArgumentParser(description='Prosody prediction')
@@ -17,6 +20,25 @@ parser.add_argument('--batch_size',
 parser.add_argument('--epochs',
                     type=int,
                     default=3)
+parser.add_argument('--model',
+                    type=str,
+                    choices=['BertUncased',
+                             'BertCased',
+                             'LSTM',
+                             'BiLSTM'],
+                    default='BertUncased')
+parser.add_argument('--embed_dim',
+                    type=int,
+                    default=300)
+parser.add_argument('--hidden_dim',
+                    type=int,
+                    default=600)
+parser.add_argument('--word_embedding',
+                    type=str,
+                    default=None)
+parser.add_argument('--layers',
+                    type=int,
+                    default=1)
 parser.add_argument('--save_path',
                     type=str,
                     default='results.txt')
@@ -52,6 +74,18 @@ parser.add_argument("--optimizer",
 parser.add_argument('--seed',
                     type=int,
                     default=1234)
+
+
+def make_dirs(name):
+    try:
+        os.makedirs(name)
+    except OSError as ex:
+        if ex.errno == errno.EEXIST and os.path.isdir(name):
+            # ignore existing directory
+            pass
+        else:
+            # a different error happened
+            raise
 
 
 def main():
@@ -91,15 +125,21 @@ def main():
     else:
         raise Exception('Unknown optimization optimizer: "%s"' % config.optimizer)
 
-    train_data, test_data, dev_data, tag_to_index, index_to_tag = prosody_dataset.load_data(config)
+    train_data, test_data, dev_data, tag_to_index, index_to_tag, vocab_size = prosody_dataset.load_dataset(config)
 
-    model = Net(device, vocab_size=len(tag_to_index))
+    if config.model == "BertUncased" or config.model == "BertCased":
+        model = Bert(device, config, vocab_size=len(tag_to_index))
+    elif config.model == "LSTM" or config.model == "BiLSTM":
+        model = LSTM(device, config, vocab_size=vocab_size)
+    else:
+        raise NotImplementedError("Only BERT models are supported at this moment. Use BertCased or BertUncased.")
+
     model.to(device)
     model = nn.DataParallel(model)
 
-    train_dataset = ProsodyDataset(train_data, tag_to_index)
-    eval_dataset = ProsodyDataset(dev_data, tag_to_index)
-    test_dataset = ProsodyDataset(test_data, tag_to_index)
+    train_dataset = Dataset(train_data, tag_to_index)
+    eval_dataset = Dataset(dev_data, tag_to_index)
+    test_dataset = Dataset(test_data, tag_to_index)
 
     train_iter = data.DataLoader(dataset=train_dataset,
                                  batch_size=config.batch_size,
@@ -125,6 +165,22 @@ def main():
 
     params = sum([p.numel() for p in model.parameters()])
     print('Parameters: {}'.format(params))
+
+    if config.word_embedding:
+        pretrained_embedding = os.path.join(os.getcwd(),
+                                            '.vector_cache/' + config.corpus + '_' + config.word_embedding + '.pt')
+        if os.path.isfile(pretrained_embedding):
+            inputs.vocab.vectors = torch.load(pretrained_embedding, map_location=device)
+        else:
+            print('Downloading pretrained {} word embeddings\n'.format(config.word_embedding))
+            inputs.vocab.load_vectors(config.word_embedding)
+            make_dirs(os.path.dirname(pretrained_embedding))
+            torch.save(inputs.vocab.vectors, pretrained_embedding)
+
+    config.cells = config.layers
+
+    if config.model == 'BiLSMT':
+        config.cells *= 2
 
     print('\nTraining started...\n')
     for epoch in range(config.epochs):
