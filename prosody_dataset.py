@@ -17,7 +17,7 @@ class ProsodyDataset(data.Dataset):
             sents.append(["[CLS]"] + words + ["[SEP]"])
             tags_li.append(["<pad>"] + tags + ["<pad>"])
         self.sents, self.tags_li = sents, tags_li
-        self.tokenizer = BertTokenizer.from_pretrained('bert-base-cased', do_lower_case=False)
+        self.tokenizer = BertTokenizer.from_pretrained('bert-base-uncased', do_lower_case=True)
         self.tag_to_index = tag_to_index
 
     def __len__(self):
@@ -77,7 +77,7 @@ def load_data(config):
     tag_to_index = {tag: index for index, tag in enumerate(tags)}
     index_to_tag = {index: tag for index, tag in enumerate(tags)}
 
-    # Let's split the data into train and test (or eval)
+    # Split the data into train, dev and test
     train_data, validation_data = train_test_split(tagged_sents, test_size=2*config.test_and_dev_split)
     dev_data, test_data = train_test_split(validation_data, test_size=.5)
 
@@ -100,7 +100,6 @@ def pad(batch):
     f = lambda x, seqlen: [sample[x] + [0] * (seqlen - len(sample[x])) for sample in batch] # 0: <pad>
     x = f(1, maxlen)
     y = f(-2, maxlen)
-
 
     f = torch.LongTensor
 

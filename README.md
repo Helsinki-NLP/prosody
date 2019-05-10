@@ -17,7 +17,7 @@ python3 main.py \
     --epochs 5 \
     --save_path results.txt \
     --log_every 50 \
-    --learning_rate 0.0001 \
+    --learning_rate 0.00005 \
     --weight_decay 0 \
     --gpu 0 \
     --number_of_sents 33047 \ # Use this to select only a subset of examples

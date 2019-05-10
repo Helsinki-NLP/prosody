@@ -16,16 +16,16 @@ parser.add_argument('--batch_size',
                     default=16)
 parser.add_argument('--epochs',
                     type=int,
-                    default=5)
+                    default=3)
 parser.add_argument('--save_path',
                     type=str,
                     default='results.txt')
 parser.add_argument('--log_every',
                     type=int,
-                    default=50)
+                    default=10)
 parser.add_argument('--learning_rate',
                     type=float,
-                    default=0.0001)
+                    default=0.00005)
 parser.add_argument('--weight_decay',
                     type=float,
                     default=0)
@@ -34,7 +34,7 @@ parser.add_argument('--gpu',
                     default=0)
 parser.add_argument('--number_of_sents',
                     type=int,
-                    default=1000)
+                    default=500)
 parser.add_argument('--test_and_dev_split',
                     type=float,
                     default=.1)
@@ -130,9 +130,9 @@ def main():
     for epoch in range(config.epochs):
         print("Epoch: {}".format(epoch+1))
         train(model, train_iter, optimizer, criterion, config)
-        valid(model, dev_iter, tag_to_index, index_to_tag)
+        valid(model, dev_iter, criterion, tag_to_index, index_to_tag)
 
-    test(model, test_iter, tag_to_index, index_to_tag, config)
+    test(model, test_iter, criterion, tag_to_index, index_to_tag, config)
 
 
 def train(model, iterator, optimizer, criterion, config):
@@ -154,16 +154,21 @@ def train(model, iterator, optimizer, criterion, config):
             print("Training step: {}/{}, loss: {:<.4f}".format(i+1, len(iterator), loss.item()))
 
 
-def valid(model, iterator, tag_to_index, index_to_tag):
+def valid(model, iterator, criterion, tag_to_index, index_to_tag):
 
     model.eval()
-
+    dev_losses = []
     Words, Is_main_piece, Tags, Y, Y_hat = [], [], [], [], []
     with torch.no_grad():
         for i, batch in enumerate(iterator):
             words, x, is_main_piece, tags, y, seqlens = batch
 
-            _, _, y_hat = model(x, y)  # y_hat: (N, T)
+            logits, labels, y_hat = model(x, y)  # y_hat: (N, T)
+            logits = logits.view(-1, logits.shape[-1])  # (N*T, VOCAB)
+            labels = labels.view(-1)  # (N*T,)
+
+            loss = criterion(logits, labels)
+            dev_losses.append(loss.item())
 
             Words.extend(words)
             Is_main_piece.extend(is_main_piece)
@@ -186,21 +191,27 @@ def valid(model, iterator, tag_to_index, index_to_tag):
     y_pred = np.array(predictions)
     acc = 100. * (y_true == y_pred).astype(np.int32).sum() / len(y_true)
 
-    print('Validation accuracy: {:<5.2f}%\n'.format(round(acc, 2)))
+    print('Validation accuracy: {:<5.2f}%, Validation loss: {:<.4f}\n'.format(round(acc, 2), np.mean(dev_losses)))
 
 
-def test(model, iterator, tag_to_index, index_to_tag, config):
+def test(model, iterator, criterion, tag_to_index, index_to_tag, config):
     print('Calculating test accuracy and printing predictions to file {}'.format(config.save_path))
     print("Output file structure: <word>\t <tag>\t <prediction>\n")
 
     model.eval()
+    test_losses = []
 
     Words, Is_main_piece, Tags, Y, Y_hat = [], [], [], [], []
     with torch.no_grad():
         for i, batch in enumerate(iterator):
             words, x, is_main_piece, tags, y, seqlens = batch
 
-            _, _, y_hat = model(x, y)  # y_hat: (N, T)
+            logits, labels, y_hat = model(x, y)  # y_hat: (N, T)
+            logits = logits.view(-1, logits.shape[-1])  # (N*T, VOCAB)
+            labels = labels.view(-1)  # (N*T,)
+
+            loss = criterion(logits, labels)
+            test_losses.append(loss.item())
 
             Words.extend(words)
             Is_main_piece.extend(is_main_piece)
@@ -226,7 +237,7 @@ def test(model, iterator, tag_to_index, index_to_tag, config):
     y_true = np.array(true)
     y_pred = np.array(predictions)
     acc = 100. * (y_true == y_pred).astype(np.int32).sum() / len(y_true)
-    print('Test accuracy: {:<5.2f}% after {} epochs.\n'.format(round(acc, 2), config.epochs))
+    print('Test accuracy: {:<5.2f}%, Test loss: {:<.4f} after {} epochs.\n'.format(round(acc, 2), np.mean(test_losses), config.epochs))
 
 
 if __name__ == "__main__":
