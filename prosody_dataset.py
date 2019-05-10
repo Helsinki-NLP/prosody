@@ -6,9 +6,6 @@ import torch
 import numpy as np
 import nltk
 
-DATADIR = "data/"
-
-
 class Dataset(data.Dataset):
     def __init__(self, tagged_sents, tag_to_index):
         sents, tags_li = [], [] # list of lists
@@ -53,7 +50,7 @@ class Dataset(data.Dataset):
 
 
 def load_dataset(config):
-    directory = os.fsencode(DATADIR)
+    directory = os.fsencode(config.datadir)
     tagged_sents = []
     vocab = []
     files = 0
@@ -61,7 +58,7 @@ def load_dataset(config):
         files += 1
         filename = os.fsdecode(file)
         if filename.endswith(".txt"):
-            with open(DATADIR+filename) as f:
+            with open(config.datadir+'/'+filename) as f:
                 lines = f.read().splitlines()
                 sent = []
                 for line in lines:

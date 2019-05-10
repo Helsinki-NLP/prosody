@@ -10,10 +10,14 @@ import torch.optim as optim
 import prosody_dataset
 from prosody_dataset import Dataset
 from model import Bert, LSTM
+from regression_model import RegressionModel
 from argparse import ArgumentParser
 
 parser = ArgumentParser(description='Prosody prediction')
 
+parser.add_argument('--datadir',
+                    type=str,
+                    default='./data')
 parser.add_argument('--batch_size',
                     type=int,
                     default=16)
@@ -25,7 +29,8 @@ parser.add_argument('--model',
                     choices=['BertUncased',
                              'BertCased',
                              'LSTM',
-                             'BiLSTM'],
+                             'BiLSTM',
+			     'Regression'],
                     default='BertUncased')
 parser.add_argument('--embed_dim',
                     type=int,
@@ -131,6 +136,8 @@ def main():
         model = Bert(device, config, vocab_size=len(tag_to_index))
     elif config.model == "LSTM" or config.model == "BiLSTM":
         model = LSTM(device, config, vocab_size=vocab_size)
+    elif config.model == "Regression":
+        model = RegressionModel(device, config)
     else:
         raise NotImplementedError("Only BERT models are supported at this moment. Use BertCased or BertUncased.")
 
@@ -161,7 +168,10 @@ def main():
                                 lr=config.learning_rate,
                                 weight_decay=config.weight_decay)
 
-    criterion = nn.CrossEntropyLoss(ignore_index=0)
+    if config.model == 'Regression':
+        criterion = nn.MSELoss()
+    else:
+    	criterion = nn.CrossEntropyLoss(ignore_index=0)
 
     params = sum([p.numel() for p in model.parameters()])
     print('Parameters: {}'.format(params))
@@ -198,10 +208,13 @@ def train(model, iterator, optimizer, criterion, config):
         optimizer.zero_grad()
         logits, y, _ = model(x, y) # logits: (N, T, VOCAB), y: (N, T)
 
-        logits = logits.view(-1, logits.shape[-1]) # (N*T, VOCAB)
-        y = y.view(-1)  # (N*T,)
+        if config.model == 'Regression':
+            loss = criterion(logits, y)
+        else:
+            logits = logits.view(-1, logits.shape[-1]) # (N*T, VOCAB)
+            y = y.view(-1)  # (N*T,)
+            loss = criterion(logits, y)
 
-        loss = criterion(logits, y)
         loss.backward()
 
         optimizer.step()
@@ -236,7 +249,10 @@ def valid(model, iterator, criterion, tag_to_index, index_to_tag):
     predictions = []
     for words, is_main_piece, tags, y_hat in zip(Words, Is_main_piece, Tags, Y_hat):
         y_hat = [hat for head, hat in zip(is_main_piece, y_hat) if head == 1]
-        preds = [index_to_tag[hat] for hat in y_hat]
+        if config.model=='Regression':
+            preds = [index_to_tag[max(min(int(hat), 4), 0)] for hat in y_hat]
+        else:
+            preds = [index_to_tag[hat] for hat in y_hat]
         assert len(preds) == len(words.split()) == len(tags.split())
         for t, p in zip(tags.split()[1:-1], preds[1:-1]):
             true.append(tag_to_index[t])
@@ -281,7 +297,10 @@ def test(model, iterator, criterion, tag_to_index, index_to_tag, config):
     with open(config.save_path, 'w') as results:
         for words, is_main_piece, tags, y_hat in zip(Words, Is_main_piece, Tags, Y_hat):
             y_hat = [hat for head, hat in zip(is_main_piece, y_hat) if head == 1]
-            preds = [index_to_tag[hat] for hat in y_hat]
+            if config.model=='Regression':
+                preds = [index_to_tag[max(min(int(hat), 4), 0)] for hat in y_hat]
+            else:
+                preds = [index_to_tag[hat] for hat in y_hat]
             assert len(preds) == len(words.split()) == len(tags.split())
             for w, t, p in zip(words.split()[1:-1], tags.split()[1:-1], preds[1:-1]):
                 results.write("{} {} {}\n".format(w, t, p))
