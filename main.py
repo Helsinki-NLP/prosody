@@ -196,7 +196,7 @@ def main():
     for epoch in range(config.epochs):
         print("Epoch: {}".format(epoch+1))
         train(model, train_iter, optimizer, criterion, config)
-        valid(model, dev_iter, criterion, tag_to_index, index_to_tag)
+        valid(model, dev_iter, criterion, tag_to_index, index_to_tag, config)
 
     test(model, test_iter, criterion, tag_to_index, index_to_tag, config)
 
@@ -223,7 +223,7 @@ def train(model, iterator, optimizer, criterion, config):
             print("Training step: {}/{}, loss: {:<.4f}".format(i+1, len(iterator), loss.item()))
 
 
-def valid(model, iterator, criterion, tag_to_index, index_to_tag):
+def valid(model, iterator, criterion, tag_to_index, index_to_tag, config):
 
     model.eval()
     dev_losses = []

@@ -65,7 +65,9 @@ Atlas 2 2
 * BERT (DONE)
 * Words embeddings + LSTM (Aarne)
 * BERT + LSTM (Aarne)
+* Regression (Ongoing)
 * Majority for each word (Hande)
+* Class-encodings for ordinal class labels (Hande)
 * Context model (neighbours) (Hande)
 * CRF (Hande)
 * BERT + position encoding
