@@ -1,7 +1,7 @@
 # BERT-prosody
 Prosody prediction using BERT
 
-## Instructions
+## Usage
 
 To install the requirements run:
 
@@ -25,3 +25,36 @@ python3 main.py \
     --optimizer adam \
     --seed 1234
 ```
+
+## Output
+
+Output of the system is a text file with the following structure:
+
+```
+<word> tab <label> tab <prediction>
+```
+
+Example output
+```
+And 0 0
+those 2 2
+who 0 0
+meet 1 2
+in 0 0
+the 0 0
+great 1 1
+hall 1 1
+with 0 0
+the 0 0
+white 2 1
+Atlas 2 2
+? NA NA
+```
+
+## Results
+
+
+| Model             | Training data | Dev data | Test data    | Epochs | Test acc |
+| ---               | ---           | ---      | ---          | ---    | ---      |
+| BERT-base uncased | 26437         | 3305     | 3305         | 2      | 73.38%   |
+| BERT-base cased   | 26437         | 3305     | 3305         | 2      | 72.48%   |
