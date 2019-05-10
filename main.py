@@ -37,13 +37,13 @@ parser.add_argument('--embed_dim',
                     default=300)
 parser.add_argument('--hidden_dim',
                     type=int,
-                    default=600)
+                    default=1200)
 parser.add_argument('--word_embedding',
                     type=str,
                     default=None)
 parser.add_argument('--layers',
                     type=int,
-                    default=1)
+                    default=3)
 parser.add_argument('--save_path',
                     type=str,
                     default='results.txt')
@@ -104,7 +104,7 @@ def main():
         torch.cuda.set_device(config.gpu)
         device = torch.device('cuda:{}'.format(config.gpu))
         torch.cuda.manual_seed(config.seed)
-        print("Training on GPU[{}]".format(config.gpu))
+        print("\nTraining on GPU[{}]".format(config.gpu))
     else:
         print("GPU not available. Training on CPU.")
         device = 'cpu'
@@ -133,9 +133,9 @@ def main():
     train_data, test_data, dev_data, tag_to_index, index_to_tag, vocab_size = prosody_dataset.load_dataset(config)
 
     if config.model == "BertUncased" or config.model == "BertCased":
-        model = Bert(device, config, vocab_size=len(tag_to_index))
+        model = Bert(device, config, labels=len(tag_to_index))
     elif config.model == "LSTM" or config.model == "BiLSTM":
-        model = LSTM(device, config, vocab_size=vocab_size)
+        model = LSTM(device, config, vocab_size=vocab_size, labels=len(tag_to_index))
     elif config.model == "Regression":
         model = RegressionModel(device, config)
     else:
