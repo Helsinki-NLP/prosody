@@ -62,7 +62,7 @@ Atlas 2 2
 
 | Model             |  Test acc (incl punctuation) |Test acc (no punctuation) |
 | ---               |  ---                         | ---                      |
-| BERT-base uncased | 72.49%                       |                          |
+| BERT-base uncased | 72.49%                       | 68.69%                   |
 | BERT-base cased   |                              |                          |
 | Minitagger (SVM)  | 69.80%                       | 65.60%                   |
 
