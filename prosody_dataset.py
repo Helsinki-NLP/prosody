@@ -64,7 +64,7 @@ def load_dataset(config):
                     sent.append((split_line[0], split_line[1]))
                     vocab.append(split_line[0])
                 tagged_sents.append(sent)
-        slice = len(tagged_sents) * config.percentage_of_sents
+        slice = len(tagged_sents) * config.fraction_of_sents
         tagged_sents = tagged_sents[0:int(slice)]
         splits[split] = tagged_sents
         all_sents = all_sents + tagged_sents
