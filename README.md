@@ -60,11 +60,11 @@ Atlas 2 2
 ## Results
 
 
-| Model             | Epochs  | Test acc (incl punctuation) |Test acc (no punctuation) |
-| ---               | ---     | ---                         | ---                      |
-| BERT-base uncased | 2       | 72.49%                      |                          |
-| BERT-base cased   | 2       |                             |                          |
-| Minitagger        |         | 69.80%                      | 65.60%                   |
+| Model             |  Test acc (incl punctuation) |Test acc (no punctuation) |
+| ---               |  ---                         | ---                      |
+| BERT-base uncased | 72.49%                       |                          |
+| BERT-base cased   |                              |                          |
+| Minitagger        | 69.80%                       | 65.60%                   |
 
 ## Experiments
 
