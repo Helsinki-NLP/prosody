@@ -64,7 +64,7 @@ Atlas 2 2
 | ---               |  ---                         | ---                      |
 | BERT-base uncased | 72.49%                       |                          |
 | BERT-base cased   |                              |                          |
-| Minitagger        | 69.80%                       | 65.60%                   |
+| Minitagger (SVM)  | 69.80%                       | 65.60%                   |
 
 ## Experiments
 
