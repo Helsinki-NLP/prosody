@@ -52,7 +52,6 @@ def load_dataset(config):
     vocab = []
     all_sents = []
     for split in ['train', 'dev', 'test']:
-        directory = os.fsencode(config.datadir+'/'+split)
         tagged_sents = []
         with open(config.datadir+'/'+split+'.txt') as f:
             sentences = f.read().split("\n\n")
