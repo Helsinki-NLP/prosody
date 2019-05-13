@@ -1,5 +1,0 @@
-I	2	0
-am	0	1
-mistress	0	0
-here	2	2
-.	NA	NA

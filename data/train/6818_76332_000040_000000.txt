@@ -1,7 +1,0 @@
-Arthur	2	1
-Arthur	1	0
-Calthorpe	2	1
-!	NA	NA
-he	0	0
-faltered	0	2
-.	NA	NA

@@ -1,8 +1,0 @@
-And	0	0
-what	2	1
-book	1	0
-would	0	1
-be	0	0
-your	0	0
-choice	1	2
-?	NA	NA

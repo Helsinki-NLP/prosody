@@ -1,7 +1,0 @@
-Joyce	1	1
-,	NA	NA
-is	2	0
-it	0	0
-too	0	0
-late	1	2
-?	NA	NA

@@ -1,8 +1,0 @@
-It	0	0
-hurts	2	1
-their	2	1
-feelings	1	0
-if	0	1
-you	0	0
-don't	2	2
-.	NA	NA

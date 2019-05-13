@@ -1,5 +1,0 @@
-His	0	0
-voice	0	0
-actually	1	2
-trembled	1	2
-.	NA	NA

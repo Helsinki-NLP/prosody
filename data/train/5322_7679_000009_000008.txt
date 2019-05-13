@@ -1,6 +1,0 @@
-Then	2	0
-they	0	1
-approached	1	1
-the	0	0
-body	2	2
-.	NA	NA

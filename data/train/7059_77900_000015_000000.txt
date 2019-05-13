@@ -1,8 +1,0 @@
-Well	2	2
-,	NA	NA
-he's	1	0
-really	1	0
-at	0	1
-home	1	0
-now	2	2
-.	NA	NA

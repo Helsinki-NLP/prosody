@@ -1,7 +1,0 @@
-Julius	1	0
-looked	1	1
-at	1	0
-him	0	0
-with	0	1
-satisfaction	2	2
-.	NA	NA

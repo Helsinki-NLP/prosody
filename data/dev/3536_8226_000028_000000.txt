@@ -1,4 +1,0 @@
-They	1	0
-haven't	0	1
-met	2	2
-?	NA	NA

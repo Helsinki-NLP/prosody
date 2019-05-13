@@ -1,5 +1,0 @@
-Isn't	2	0
-it	1	1
-a	1	1
-beauty	1	2
-?	NA	NA

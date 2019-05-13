@@ -1,6 +1,0 @@
-Notice	2	0
-what's	0	0
-in	0	0
-the	0	1
-corners	2	2
-?	NA	NA

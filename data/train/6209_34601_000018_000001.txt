@@ -1,9 +1,0 @@
-Who	2	0
-are	0	0
-you	0	2
-?	NA	NA
-whence	2	0
-do	0	0
-you	0	1
-come	2	2
-?	NA	NA

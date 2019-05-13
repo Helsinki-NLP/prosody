@@ -1,6 +1,0 @@
-Axel	2	2
-!	NA	NA
-a	1	0
-human	0	0
-head	2	2
-!	NA	NA

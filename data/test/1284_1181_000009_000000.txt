@@ -1,8 +1,0 @@
-Has	1	0
-she	0	0
-any	0	1
-brains	2	2
-?	NA	NA
-asked	1	0
-Ojo	2	2
-.	NA	NA

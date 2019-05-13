@@ -1,8 +1,0 @@
-It's	0	0
-ended	2	2
-,	NA	NA
-said	1	0
-Bill	0	0
-Gregg	1	0
-faintly	1	2
-.	NA	NA

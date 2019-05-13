@@ -1,4 +1,0 @@
-Ingenuity	1	1
-,	NA	NA
-Amiability	1	2
-,	NA	NA

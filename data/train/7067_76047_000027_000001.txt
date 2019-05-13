@@ -1,9 +1,0 @@
-They	2	0
-would	0	1
-travel	1	0
-about	1	1
-together	0	0
-as	1	0
-they	0	1
-chose	2	2
-?	NA	NA

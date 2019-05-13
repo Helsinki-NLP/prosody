@@ -1,8 +1,0 @@
-Property	2	0
-is	0	0
-eternal	2	2
-,	NA	NA
-like	1	0
-every	0	1
-negation	2	2
-,	NA	NA

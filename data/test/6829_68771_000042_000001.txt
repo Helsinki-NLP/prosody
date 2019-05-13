@@ -1,4 +1,0 @@
-I	0	1
-abhor	1	0
-crowds	1	2
-.	NA	NA

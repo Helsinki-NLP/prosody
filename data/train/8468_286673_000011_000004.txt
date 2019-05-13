@@ -1,5 +1,0 @@
-It	0	0
-is	0	0
-too	0	1
-bad	2	2
-.	NA	NA

@@ -1,7 +1,0 @@
-The	0	0
-ocean	2	0
-is	0	1
-a	0	0
-rough	0	0
-Alcestis	1	2
-.	NA	NA

@@ -1,4 +1,0 @@
-Let	2	0
-me	0	0
-alone	1	2
-.	NA	NA

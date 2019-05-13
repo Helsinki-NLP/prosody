@@ -1,7 +1,0 @@
-Pop	2	1
-moves	0	0
-out	0	0
-of	0	0
-the	0	2
-doorway	2	2
-.	NA	NA

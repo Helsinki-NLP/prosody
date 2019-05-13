@@ -1,6 +1,0 @@
-Our	2	0
-first	1	1
-president	2	1
-is	1	1
-Rev	1	2
-.	NA	NA

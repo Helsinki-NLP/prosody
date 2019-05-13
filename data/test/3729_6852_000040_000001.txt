@@ -1,5 +1,0 @@
-I	2	0
-never	0	1
-drink	0	0
-any	1	2
-.	NA	NA

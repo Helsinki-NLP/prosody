@@ -1,7 +1,0 @@
-I	0	1
-could	0	0
-never	2	1
-agree	0	0
-to	1	1
-it	0	2
-.	NA	NA

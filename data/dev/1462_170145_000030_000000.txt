@@ -1,9 +1,0 @@
-Alexander	2	0
-started	0	1
-to	0	0
-speak	1	2
-,	NA	NA
-but	0	0
-caught	2	0
-himself	0	2
-.	NA	NA

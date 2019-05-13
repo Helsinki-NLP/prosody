@@ -1,6 +1,0 @@
-She	0	0
-searched	2	1
-us	0	0
-out	1	1
-,	NA	NA
-saying	2	2

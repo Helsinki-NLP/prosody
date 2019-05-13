@@ -1,7 +1,0 @@
-But	1	0
-Monica	1	1
-did	0	0
-not	1	1
-know	0	0
-Carthage	2	2
-.	NA	NA

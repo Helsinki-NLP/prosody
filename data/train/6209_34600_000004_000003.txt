@@ -1,8 +1,0 @@
-These	0	0
-honours	1	1
-,	NA	NA
-however	1	1
-,	NA	NA
-were	2	0
-deserved	2	2
-.	NA	NA

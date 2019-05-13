@@ -1,6 +1,0 @@
-Neb	2	1
-!	NA	NA
-Go	1	1
-,	NA	NA
-go	2	2
-!	NA	NA

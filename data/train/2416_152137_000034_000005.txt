@@ -1,7 +1,0 @@
-As	2	0
-for	0	1
-himself	2	2
-that	2	0
-was	0	0
-different	0	2
-.	NA	NA

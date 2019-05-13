@@ -1,5 +1,0 @@
-But	1	0
-was	0	0
-it	0	1
-nature	2	2
-?	NA	NA

@@ -1,8 +1,0 @@
-There	1	0
-is	0	0
-silence	2	1
-even	1	0
-among	0	0
-the	0	1
-cicadas	2	2
-.	NA	NA

@@ -1,5 +1,0 @@
-All	2	0
-the	0	0
-rest	0	2
-weeps	2	2
-.	NA	NA

@@ -1,9 +1,0 @@
-All	2	0
-this	0	1
-time	1	2
-I	0	0
-longed	1	0
-to	0	1
-get	0	0
-away	1	2
-.	NA	NA

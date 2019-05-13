@@ -1,6 +1,0 @@
-After	1	0
-a	0	0
-pause	2	2
-,	2	0
-Thenardier	NA	NA
-continued	1	2

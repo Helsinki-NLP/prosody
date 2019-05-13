@@ -1,8 +1,0 @@
-I'm	0	0
-sorry	2	0
-you	0	1
-can't	1	0
-take	0	1
-him	0	0
-in	1	2
-.	NA	NA

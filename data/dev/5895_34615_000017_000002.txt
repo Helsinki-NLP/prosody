@@ -1,9 +1,0 @@
-No	2	0
-such	0	0
-effect	1	2
-had	0	0
-ever	2	1
-before	1	0
-been	0	0
-produced	1	2
-.	NA	NA

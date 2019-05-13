@@ -1,7 +1,0 @@
-Then	2	1
-,	NA	NA
-suddenly	1	0
-noting	1	1
-the	0	0
-time	1	2
-.	NA	NA

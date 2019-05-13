@@ -1,7 +1,0 @@
-It	1	0
-was	0	0
-fortunate	2	1
-they	0	0
-did	1	0
-so	2	2
-.	NA	NA

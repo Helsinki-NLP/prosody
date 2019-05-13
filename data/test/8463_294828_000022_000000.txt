@@ -1,6 +1,0 @@
-But	0	0
-Conseil	2	0
-had	0	1
-one	1	0
-flaw	1	2
-.	NA	NA

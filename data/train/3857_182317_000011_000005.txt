@@ -1,6 +1,0 @@
-Some	0	0
-might	0	1
-be	1	0
-our	0	1
-friends	2	2
-.	NA	NA

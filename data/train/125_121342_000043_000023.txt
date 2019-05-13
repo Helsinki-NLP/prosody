@@ -1,4 +1,0 @@
-Where's	2	0
-the	0	1
-darned	1	1
-bell	1	2

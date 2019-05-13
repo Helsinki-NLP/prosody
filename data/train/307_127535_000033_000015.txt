@@ -1,4 +1,0 @@
-Kill	0	0
-that	1	1
-boy	2	2
-?	NA	NA

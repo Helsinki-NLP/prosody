@@ -1,9 +1,0 @@
-The	2	0
-Englishman	0	1
-is	0	0
-hoping	2	1
-to	0	0
-reach	0	0
-that	0	1
-creek	2	2
-.	NA	NA

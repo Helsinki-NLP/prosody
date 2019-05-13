@@ -1,6 +1,0 @@
-It's	1	0
-nearly	2	1
-two	0	0
-weeks	0	1
-now	2	2
-.	NA	NA

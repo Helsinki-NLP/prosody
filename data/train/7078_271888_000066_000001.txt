@@ -1,9 +1,0 @@
-I	2	0
-was	0	0
-sorry	2	0
-that	0	1
-he	0	0
-was	0	0
-so	0	1
-infatuated	2	2
-.	NA	NA

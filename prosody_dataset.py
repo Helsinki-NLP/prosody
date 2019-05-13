@@ -54,21 +54,16 @@ def load_dataset(config):
     for split in ['train', 'dev', 'test']:
         directory = os.fsencode(config.datadir+'/'+split)
         tagged_sents = []
-        files = 0
-        for file in os.listdir(directory):
-            files += 1
-            filename = os.fsdecode(file)
-            if filename.endswith(".txt"):
-                with open(config.datadir+'/'+split+'/'+filename) as f:
-                    lines = f.read().splitlines()
-                    sent = []
-                    for line in lines:
-                        split_line = line.split('\t')
-                        sent.append((split_line[0], split_line[1]))
-                        vocab.append(split_line[0])
+        with open(config.datadir+'/'+split+'.txt') as f:
+            sentences = f.read().split("\n\n")
+            for sentence in sentences:
+                lines = sentence.splitlines()
+                sent = []
+                for line in lines:
+                    split_line = line.split('\t')
+                    sent.append((split_line[0], split_line[1]))
+                    vocab.append(split_line[0])
                 tagged_sents.append(sent)
-            else:
-                break
         slice = len(tagged_sents) * config.percentage_of_sents
         tagged_sents = tagged_sents[0:int(slice)]
         splits[split] = tagged_sents

@@ -1,8 +1,0 @@
-And	0	0
-they	0	0
-all	1	0
-promised	1	2
-that	0	0
-they	0	0
-would	2	2
-.	NA	NA

@@ -1,4 +1,0 @@
-Barkilphedro	2	0
-managed	0	1
-everything	1	2
-.	NA	NA

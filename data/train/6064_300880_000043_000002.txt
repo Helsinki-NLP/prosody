@@ -1,5 +1,0 @@
-It's	0	1
-a	0	0
-double	1	0
-wedding	1	2
-.	NA	NA

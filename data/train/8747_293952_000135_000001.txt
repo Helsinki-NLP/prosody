@@ -1,6 +1,0 @@
-But	1	0
-he	0	0
-talks	2	1
-too	0	0
-much	2	2
-.	NA	NA

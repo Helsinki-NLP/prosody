@@ -1,6 +1,0 @@
-How	1	0
-dark	2	0
-is	0	1
-this	0	0
-place	1	2
-!	NA	NA

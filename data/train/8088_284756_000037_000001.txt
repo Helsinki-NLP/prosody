@@ -1,5 +1,0 @@
-The	0	0
-figure	2	1
-was	0	0
-moving	1	2
-.	NA	NA

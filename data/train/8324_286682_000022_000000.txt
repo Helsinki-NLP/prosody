@@ -1,9 +1,0 @@
-Never	0	0
-mind	2	1
-the	0	0
-fur	2	0
-,	NA	NA
-answered	0	1
-the	0	0
-Bachelor	1	2
-.	NA	NA

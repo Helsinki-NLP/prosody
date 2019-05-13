@@ -1,6 +1,0 @@
-How	1	0
-on	0	1
-the	0	0
-wrong	0	1
-scent	2	2
-?	NA	NA

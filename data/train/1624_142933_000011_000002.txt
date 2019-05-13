@@ -1,7 +1,0 @@
-Don't	2	0
-you	0	1
-dare	2	0
-laugh	1	1
-at	0	0
-me	2	2
-!	NA	NA

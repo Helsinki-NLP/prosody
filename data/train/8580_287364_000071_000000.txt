@@ -1,9 +1,0 @@
-But	1	0
-not	1	1
-from	0	0
-you	2	2
-!	NA	NA
-exclaimed	1	0
-mr	0	0
-Jenks	1	2
-.	NA	NA

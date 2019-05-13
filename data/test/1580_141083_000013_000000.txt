@@ -1,5 +1,0 @@
-Exactly	2	1
-,	0	0
-mr	NA	NA
-Holmes	0	2
-.	NA	NA

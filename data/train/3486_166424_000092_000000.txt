@@ -1,5 +1,0 @@
-And	0	0
-then	2	0
-it	0	1
-struck	1	2
-!	NA	NA

@@ -1,7 +1,0 @@
-Places	2	1
-with	0	0
-white	2	1
-frogs	2	0
-in	0	0
-them	0	2
-.	NA	NA

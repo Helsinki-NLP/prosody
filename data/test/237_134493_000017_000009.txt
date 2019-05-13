@@ -1,7 +1,0 @@
-Maybe	2	1
-the	0	0
-supper	2	1
-will	0	0
-tempt	1	0
-him	0	2
-.	NA	NA

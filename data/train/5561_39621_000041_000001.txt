@@ -1,8 +1,0 @@
-Sit	0	0
-down	0	0
-in	0	0
-your	0	1
-presence	2	2
-?	NA	NA
-never	2	2
-!	NA	NA

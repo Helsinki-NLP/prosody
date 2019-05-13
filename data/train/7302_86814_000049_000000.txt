@@ -1,6 +1,0 @@
-The	1	0
-Count	2	1
-of	0	0
-Monte	0	1
-Cristo	2	2
-?	NA	NA

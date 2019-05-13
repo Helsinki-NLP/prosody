@@ -1,6 +1,0 @@
-Father	2	1
-,	NA	NA
-are	0	0
-you	2	0
-satisfied	1	2
-?	NA	NA

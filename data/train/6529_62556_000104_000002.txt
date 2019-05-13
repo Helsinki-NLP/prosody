@@ -1,4 +1,0 @@
-Poor	2	0
-mr	0	1
-Herbert	1	2
-!	NA	NA

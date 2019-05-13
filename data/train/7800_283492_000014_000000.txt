@@ -1,8 +1,0 @@
-That's	1	0
-what	1	0
-we	0	1
-did	2	1
-,	NA	NA
-asserted	0	0
-Will	1	2
-.	NA	NA

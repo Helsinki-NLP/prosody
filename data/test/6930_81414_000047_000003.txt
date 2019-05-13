@@ -1,9 +1,0 @@
-Then	1	0
-I	0	0
-fell	1	0
-down	2	2
-at	1	0
-Tom	1	0
-Temple's	1	1
-feet	2	2
-.	NA	NA

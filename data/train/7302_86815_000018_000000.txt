@@ -1,9 +1,0 @@
-What	1	0
-are	0	0
-you	0	1
-bringing	2	0
-me	0	2
-?	NA	NA
-said	1	0
-he	0	2
-.	NA	NA

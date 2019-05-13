@@ -1,4 +1,0 @@
-Hard	1	0
-and	0	1
-fast	1	2
-.	NA	NA

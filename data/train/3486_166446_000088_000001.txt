@@ -1,7 +1,0 @@
-Steadily	2	0
-we	0	0
-gained	1	0
-upon	1	1
-the	0	0
-pyramid	1	2
-.	NA	NA

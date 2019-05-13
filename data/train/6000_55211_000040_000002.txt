@@ -1,9 +1,0 @@
-I	0	0
-can't	2	1
-do	0	0
-much	1	0
-at	0	1
-work	2	0
-that	0	2
-pays	2	2
-.	NA	NA

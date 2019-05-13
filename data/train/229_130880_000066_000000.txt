@@ -1,9 +1,0 @@
-Did	0	0
-I	1	0
-say	0	0
-sharks	2	2
-?	NA	NA
-I	2	0
-exclaimed	0	0
-hastily	1	2
-.	NA	NA

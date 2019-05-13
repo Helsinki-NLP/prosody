@@ -1,6 +1,0 @@
-They	2	0
-were	0	1
-not	2	1
-in	0	0
-uniform	1	2
-.	NA	NA

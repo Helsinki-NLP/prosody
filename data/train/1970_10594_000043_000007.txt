@@ -1,6 +1,0 @@
-You	0	0
-will	1	0
-go	1	0
-with	0	1
-me	2	2
-?	NA	NA

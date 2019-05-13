@@ -1,5 +1,0 @@
-And	0	1
-such	2	0
-a	0	1
-road	2	2
-!	NA	NA

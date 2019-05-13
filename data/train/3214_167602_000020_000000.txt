@@ -1,8 +1,0 @@
-The	0	1
-two	0	0
-tall	2	1
-peasants	1	1
-had	1	0
-their	0	0
-say	2	2
-.	NA	NA

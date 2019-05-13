@@ -1,9 +1,0 @@
-Let's	1	0
-all	0	0
-take	0	0
-a	0	0
-look	1	2
-,	NA	NA
-he	1	0
-suggested	1	2
-.	NA	NA

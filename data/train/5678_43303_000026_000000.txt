@@ -1,7 +1,0 @@
-And	0	0
-is	0	1
-there	2	0
-any	0	0
-other	0	1
-news	2	2
-?	NA	NA

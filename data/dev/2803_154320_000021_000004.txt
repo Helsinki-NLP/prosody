@@ -1,8 +1,0 @@
-But	0	0
-as	2	0
-to	0	1
-getting	0	0
-alongside	1	2
-the	0	0
-DUNCAN	2	2
-!	NA	NA

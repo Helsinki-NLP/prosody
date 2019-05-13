@@ -1,5 +1,0 @@
-Laudonniere	2	0
-was	0	0
-almost	0	1
-defenceless	2	2
-.	NA	NA

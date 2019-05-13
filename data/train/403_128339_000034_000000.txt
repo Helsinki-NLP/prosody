@@ -1,6 +1,0 @@
-Doctor	1	0
-Manette	2	2
-was	0	0
-next	0	0
-questioned	1	2
-.	NA	NA

@@ -1,8 +1,0 @@
-By	1	0
-all	0	0
-means	2	2
-,	NA	NA
-said	0	0
-Lady	1	0
-ruth	1	2
-.	NA	NA

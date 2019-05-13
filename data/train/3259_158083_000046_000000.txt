@@ -1,7 +1,0 @@
-I	2	1
-saw	2	1
-Dorothy	1	1
-Day	1	0
-brought	1	0
-in	0	2
-.	NA	NA

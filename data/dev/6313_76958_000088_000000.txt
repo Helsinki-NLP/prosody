@@ -1,9 +1,0 @@
-What	1	0
-do	0	0
-you	0	0
-mean	2	2
-?	NA	NA
-asked	2	1
-Ned	1	0
-Rector	2	2
-.	NA	NA

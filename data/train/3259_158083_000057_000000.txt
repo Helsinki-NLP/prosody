@@ -1,4 +1,0 @@
-I	1	1
-said	2	1
-,	NA	NA
-no	1	2

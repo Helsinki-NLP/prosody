@@ -1,3 +1,0 @@
-I	0	0
-suspect	2	2
-.	NA	NA

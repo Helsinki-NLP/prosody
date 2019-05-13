@@ -1,6 +1,0 @@
-Where	1	0
-do	0	0
-you	0	1
-feel	0	0
-bad	2	2
-?	NA	NA

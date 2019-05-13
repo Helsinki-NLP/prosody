@@ -1,8 +1,0 @@
-It's	2	0
-certain	2	1
-I'll	0	0
-never	1	1
-be	0	0
-angelically	0	0
-good	2	2
-.	NA	NA

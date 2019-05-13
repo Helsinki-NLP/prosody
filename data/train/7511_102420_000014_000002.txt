@@ -1,4 +1,0 @@
-Are	0	1
-you	0	0
-hurt	2	2
-?	NA	NA

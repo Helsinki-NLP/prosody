@@ -1,7 +1,0 @@
-At	0	0
-last	2	2
-Alexander	2	1
-brought	0	0
-out	0	0
-one	0	0
-word	2	2

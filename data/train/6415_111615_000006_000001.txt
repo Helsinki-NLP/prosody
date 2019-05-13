@@ -1,4 +1,0 @@
-Address	2	0
-HUMORIST	1	1
-,	NA	NA
-etc	2	2

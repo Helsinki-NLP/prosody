@@ -1,5 +1,0 @@
-Both	2	0
-were	0	0
-equally	0	1
-ferocious	1	2
-.	NA	NA

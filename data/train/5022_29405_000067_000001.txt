@@ -1,7 +1,0 @@
-Once	1	0
-more	1	1
-,	NA	NA
-it	1	1
-won't	2	1
-do	2	2
-!	NA	NA

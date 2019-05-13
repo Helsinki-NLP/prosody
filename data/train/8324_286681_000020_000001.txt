@@ -1,5 +1,0 @@
-That's	0	0
-all	2	0
-you	0	1
-know	1	2
-!	NA	NA

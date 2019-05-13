@@ -1,9 +1,0 @@
-Anyhow	2	2
-,	NA	NA
-that	2	0
-letter	0	0
-just	0	1
-filled	0	0
-the	0	0
-bill	2	2
-.	NA	NA

@@ -1,9 +1,0 @@
-On	0	0
-the	0	0
-other	2	0
-hand	0	1
-,	2	0
-Josiana	NA	NA
-had	0	1
-dreams	0	2
-.	NA	NA

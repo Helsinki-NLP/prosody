@@ -1,4 +1,0 @@
-In	0	0
-they	1	0
-go	2	2
-.	NA	NA

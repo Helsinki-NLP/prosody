@@ -1,6 +1,0 @@
-I	2	0
-know	1	0
-what	0	0
-it	0	1
-contains	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-Male	2	0
-or	0	1
-female	1	2
-?	NA	NA
-Human	1	0
-or	0	0
-animal	1	2
-?	NA	NA

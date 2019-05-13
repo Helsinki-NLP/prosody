@@ -1,6 +1,0 @@
-They	1	0
-fell	2	0
-in	0	0
-a	0	1
-hailstorm	1	2
-.	NA	NA

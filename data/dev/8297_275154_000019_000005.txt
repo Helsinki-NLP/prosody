@@ -1,5 +1,0 @@
-Try	1	0
-to	0	1
-understand	2	0
-them	1	2
-.	NA	NA

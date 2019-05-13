@@ -1,7 +1,0 @@
-They	1	0
-looked	0	0
-about	0	2
-for	2	0
-m	0	1
-Fauchelevent	2	2
-.	NA	NA

@@ -1,6 +1,0 @@
-The	0	0
-first	2	0
-was	0	0
-in	0	1
-Kensington	1	2
-.	NA	NA

@@ -1,5 +1,0 @@
-It	0	0
-was	0	0
-also	2	1
-closed	1	2
-.	NA	NA

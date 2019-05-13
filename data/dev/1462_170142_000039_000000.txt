@@ -1,7 +1,0 @@
-I	2	0
-can't	0	1
-,	NA	NA
-he	0	0
-said	1	0
-heavily	1	2
-.	NA	NA

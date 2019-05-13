@@ -1,4 +1,0 @@
-Let's	2	1
-go	1	0
-in	0	2
-.	NA	NA

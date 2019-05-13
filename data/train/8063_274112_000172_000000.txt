@@ -1,6 +1,0 @@
-Do	0	1
-you	0	0
-like	2	0
-the	0	2
-country	2	2
-?	NA	NA

@@ -1,9 +1,0 @@
-What	2	0
-is	0	0
-a	0	1
-patchwork	0	1
-quilt	2	2
-?	NA	NA
-asked	2	0
-Ojo	1	2
-.	NA	NA

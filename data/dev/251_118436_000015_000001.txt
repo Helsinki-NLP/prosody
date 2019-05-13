@@ -1,9 +1,0 @@
-A	0	0
-long	2	1
-drawn	1	0
-wailing	1	1
-rose	1	0
-from	0	0
-the	0	0
-multitude	0	2
-.	NA	NA

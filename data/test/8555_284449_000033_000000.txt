@@ -1,9 +1,0 @@
-You	0	0
-are	2	1
-,	NA	NA
-mate	1	2
-,	NA	NA
-replied	1	0
-the	0	1
-sailor	1	2
-.	NA	NA

@@ -1,9 +1,0 @@
-Oh	2	1
-,	NA	NA
-she	1	0
-is	0	0
-lovely	1	2
-,	NA	NA
-added	1	0
-Edith	1	2
-.	NA	NA

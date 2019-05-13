@@ -1,5 +1,0 @@
-Excuse	2	0
-me	0	1
-,	NA	NA
-please	0	2
-.	NA	NA

@@ -1,9 +1,0 @@
-Soap	2	0
-was	0	0
-used	0	1
-both	2	0
-in	0	1
-bathing	1	0
-and	0	1
-washing	2	2
-.	NA	NA

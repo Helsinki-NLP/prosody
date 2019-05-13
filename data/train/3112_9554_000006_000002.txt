@@ -1,9 +1,0 @@
-But	0	0
-he	2	0
-never	0	1
-spoke	1	0
-willingly	1	2
-on	0	0
-hunting	0	0
-matters	1	2
-.	NA	NA

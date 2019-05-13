@@ -1,9 +1,0 @@
-It	0	0
-has	2	0
-the	0	1
-same	1	0
-passion	2	1
-for	0	0
-coast	2	0
-line	1	2
-.	NA	NA

@@ -1,7 +1,0 @@
-She	1	0
-is	0	1
-quite	2	1
-a	0	0
-manageable	1	1
-person	2	2
-.	NA	NA

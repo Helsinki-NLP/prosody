@@ -1,2 +1,0 @@
-thirty	2	1
-one	1	2

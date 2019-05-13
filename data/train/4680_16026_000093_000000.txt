@@ -1,8 +1,0 @@
-She	0	0
-began	1	1
-to	0	0
-laugh	2	0
-in	0	0
-a	0	2
-terrible	2	0
-way	1	2

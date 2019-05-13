@@ -1,7 +1,0 @@
-The	0	0
-lost	2	1
-temper	2	2
-had	1	0
-finished	1	0
-him	0	2
-.	NA	NA

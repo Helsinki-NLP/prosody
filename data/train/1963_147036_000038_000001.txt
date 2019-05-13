@@ -1,6 +1,0 @@
-Won't	2	0
-you	0	1
-please	1	1
-tell	2	0
-me	1	2
-?	NA	NA

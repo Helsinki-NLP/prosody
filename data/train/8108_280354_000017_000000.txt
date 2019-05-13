@@ -1,8 +1,0 @@
-But	0	0
-he	0	0
-was	0	1
-not	2	2
-to	0	0
-die	1	0
-unwept	1	2
-.	NA	NA

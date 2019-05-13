@@ -1,9 +1,0 @@
-But	0	0
-I	2	0
-do	0	0
-not	0	1
-possess	2	0
-that	1	1
-valuable	0	0
-solvent	1	2
-.	NA	NA

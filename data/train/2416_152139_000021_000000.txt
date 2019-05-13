@@ -1,5 +1,0 @@
-Jimmie	0	0
-Dale	2	1
-smiled	1	1
-indulgently	1	2
-.	NA	NA

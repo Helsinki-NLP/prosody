@@ -1,6 +1,0 @@
-mrs	1	1
-Barry	2	0
-won't	1	1
-forgive	1	0
-me	2	2
-?	NA	NA

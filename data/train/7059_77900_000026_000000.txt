@@ -1,4 +1,0 @@
-Lyra	2	1
-interrupted	1	1
-them	0	2
-.	NA	NA

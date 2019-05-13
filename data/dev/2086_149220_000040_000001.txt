@@ -1,9 +1,0 @@
-These	0	0
-matches	2	0
-just	0	1
-glimmer	2	0
-,	NA	NA
-and	0	1
-go	0	0
-out	2	2
-.	NA	NA

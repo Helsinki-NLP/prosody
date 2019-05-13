@@ -1,6 +1,0 @@
-Men	1	0
-also	0	0
-relate	1	2
-the	0	0
-tale	2	0
-of	0	2

@@ -1,7 +1,0 @@
-She	0	0
-paused	2	2
-,	NA	NA
-hesitating	2	1
-to	0	0
-enter	1	2
-.	NA	NA

@@ -1,9 +1,0 @@
-The	0	0
-flying	1	0
-Cranes	0	0
-trumpeted	0	0
-back	1	2
-,	NA	NA
-We	0	0
-will	2	2
-!	NA	NA

@@ -1,6 +1,0 @@
-Why	1	1
-,	NA	NA
-argot	1	0
-is	0	1
-horrible	2	2
-!	NA	NA

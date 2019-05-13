@@ -1,7 +1,0 @@
-Impertinent	2	1
-young	0	0
-beggar	1	0
-!	NA	NA
-said	0	0
-Burgess	1	2
-.	NA	NA

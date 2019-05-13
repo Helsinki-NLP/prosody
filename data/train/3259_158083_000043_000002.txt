@@ -1,6 +1,0 @@
-I	0	0
-guess	1	1
-that	1	1
-saved	2	1
-me	0	2
-.	NA	NA

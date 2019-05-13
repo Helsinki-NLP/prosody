@@ -1,7 +1,0 @@
-He	0	0
-loved	2	0
-me	1	1
-,	NA	NA
-she	0	0
-said	1	2
-.	NA	NA

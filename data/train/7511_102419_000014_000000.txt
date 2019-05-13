@@ -1,8 +1,0 @@
-I	2	0
-just	0	1
-didn't	1	0
-have	1	0
-the	0	1
-courage	1	0
-to	1	2
-.	NA	NA

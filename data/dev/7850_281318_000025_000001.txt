@@ -1,6 +1,0 @@
-You	2	0
-are	0	2
-spoiling	2	1
-your	0	0
-nest	1	2
-.	NA	NA

@@ -1,8 +1,0 @@
-But	2	0
-now	2	0
-the	0	1
-man	0	0
-made	0	1
-no	1	1
-answer	2	2
-.	NA	NA

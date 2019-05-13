@@ -1,8 +1,0 @@
-The	0	0
-Woods	2	1
-I'm	0	0
-sending	0	1
-to	0	0
-the	0	0
-Island	2	2
-.	NA	NA

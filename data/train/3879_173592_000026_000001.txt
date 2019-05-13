@@ -1,5 +1,0 @@
-Who	2	0
-were	0	0
-the	0	1
-strangers	2	2
-?	NA	NA

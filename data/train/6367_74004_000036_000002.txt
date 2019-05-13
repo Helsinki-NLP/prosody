@@ -1,4 +1,0 @@
-It	0	0
-passes	1	1
-comprehension	1	2
-.	NA	NA

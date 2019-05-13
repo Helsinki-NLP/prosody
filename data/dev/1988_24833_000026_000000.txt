@@ -1,5 +1,0 @@
-It's	0	1
-funny	2	0
-about	1	1
-fights	2	2
-.	NA	NA

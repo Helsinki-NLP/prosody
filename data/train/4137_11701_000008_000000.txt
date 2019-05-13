@@ -1,5 +1,0 @@
-That's	2	0
-a	0	1
-splendid	2	0
-idea	1	2
-.	NA	NA

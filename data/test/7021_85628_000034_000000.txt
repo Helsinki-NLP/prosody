@@ -1,5 +1,0 @@
-Anders	2	1
-did	0	0
-not	1	0
-answer	1	2
-.	NA	NA

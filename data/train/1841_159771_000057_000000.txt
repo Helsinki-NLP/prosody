@@ -1,8 +1,0 @@
-But	2	0
-Farmer	1	0
-Green	1	1
-didn't	1	0
-agree	2	0
-with	0	1
-him	1	2
-.	NA	NA

@@ -1,7 +1,0 @@
-He	0	0
-would	1	0
-make	1	0
-a	0	1
-famous	2	1
-scoundrel	2	2
-.	NA	NA

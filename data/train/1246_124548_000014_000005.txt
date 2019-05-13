@@ -1,7 +1,0 @@
-He	0	0
-was	1	1
-attentive	2	2
-to	0	0
-all	1	0
-women	1	2
-.	NA	NA

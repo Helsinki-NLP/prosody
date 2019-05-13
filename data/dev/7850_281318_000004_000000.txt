@@ -1,9 +1,0 @@
-What	2	1
-silly	1	0
-birds	2	1
-they	0	0
-are	1	0
-!	NA	NA
-she	0	1
-croaked	1	2
-.	NA	NA

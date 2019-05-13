@@ -1,8 +1,0 @@
-I	2	0
-have	0	0
-worked	1	1
-far	2	0
-into	0	1
-the	0	0
-night	1	2
-.	NA	NA

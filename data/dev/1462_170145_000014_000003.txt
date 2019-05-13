@@ -1,8 +1,0 @@
-I've	1	0
-jumped	1	0
-up	1	0
-if	0	2
-the	0	0
-fire	2	1
-crackled	1	2
-.	NA	NA

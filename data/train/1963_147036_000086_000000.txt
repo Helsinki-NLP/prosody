@@ -1,6 +1,0 @@
-Milburgh	2	0
-had	0	1
-gone	1	0
-too	0	1
-far	2	2
-.	NA	NA

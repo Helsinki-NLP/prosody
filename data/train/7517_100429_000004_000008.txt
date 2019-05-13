@@ -1,3 +1,0 @@
-Or	0	0
-golf	2	2
-?	NA	NA

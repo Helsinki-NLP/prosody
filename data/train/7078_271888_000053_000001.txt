@@ -1,7 +1,0 @@
-You	2	0
-are	0	0
-too	0	1
-honourable	1	1
-for	0	0
-that	2	2
-.	NA	NA

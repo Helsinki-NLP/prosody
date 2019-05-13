@@ -1,7 +1,0 @@
-Who	0	0
-could	0	0
-have	1	0
-hoped	2	1
-for	0	0
-this	2	2
-?	NA	NA

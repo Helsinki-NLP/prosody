@@ -1,6 +1,0 @@
-Her	1	0
-Poldie	2	0
-on	0	0
-the	0	1
-scaffold	2	2
-!	NA	NA

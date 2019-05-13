@@ -1,4 +1,0 @@
-A	1	1
-Bill	0	0
-Poster	2	2
-.	NA	NA

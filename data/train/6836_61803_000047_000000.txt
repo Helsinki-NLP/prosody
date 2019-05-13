@@ -1,5 +1,0 @@
-You	0	0
-wonder	1	1
-at	0	0
-that	2	2
-.	NA	NA

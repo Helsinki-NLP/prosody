@@ -1,8 +1,0 @@
-You	0	0
-don't	2	0
-understand	1	1
-,	NA	NA
-cried	1	1
-peter	0	0
-hurriedly	2	2
-.	NA	NA

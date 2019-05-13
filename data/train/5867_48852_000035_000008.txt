@@ -1,6 +1,0 @@
-Nobody	2	0
-dared	0	1
-to	0	0
-oppose	2	0
-Hopkins	1	2
-.	NA	NA

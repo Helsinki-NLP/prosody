@@ -1,8 +1,0 @@
-It	2	0
-was	0	0
-a	0	1
-unique	2	0
-and	0	1
-picturesque	2	1
-procession	1	2
-.	NA	NA

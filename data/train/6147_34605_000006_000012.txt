@@ -1,7 +1,0 @@
-Josiana	2	1
-felt	0	0
-herself	1	0
-majestic	1	0
-and	0	1
-material	2	2
-.	NA	NA

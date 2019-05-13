@@ -1,8 +1,0 @@
-Pray	2	2
-,	NA	NA
-was	0	0
-Danglars	1	0
-acquainted	0	1
-with	0	0
-Fernand	1	2
-?	NA	NA

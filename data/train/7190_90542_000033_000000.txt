@@ -1,8 +1,0 @@
-Why	1	0
-carrying	0	0
-a	0	0
-bag	2	2
-?	NA	NA
-asked	0	0
-Quarles	1	2
-.	NA	NA

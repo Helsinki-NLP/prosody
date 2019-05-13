@@ -1,5 +1,0 @@
-one	1	1
-Death	2	1
-Strikes	1	0
-a	0	0
-King	1	2

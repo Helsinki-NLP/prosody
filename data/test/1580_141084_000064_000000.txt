@@ -1,8 +1,0 @@
-The	0	0
-man's	2	0
-face	1	1
-set	2	1
-in	0	0
-sullen	2	1
-defiance	2	2
-.	NA	NA

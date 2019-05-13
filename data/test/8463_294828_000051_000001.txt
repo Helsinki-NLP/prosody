@@ -1,3 +1,0 @@
-Commander	0	1
-Farragut	2	2
-?	NA	NA

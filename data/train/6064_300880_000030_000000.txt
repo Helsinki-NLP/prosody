@@ -1,4 +1,0 @@
-I	2	0
-get	0	1
-you	0	2
-.	NA	NA

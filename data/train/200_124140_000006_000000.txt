@@ -1,8 +1,0 @@
-mrs	2	1
-Bennet	2	0
-was	0	1
-profuse	2	0
-in	0	1
-her	0	0
-acknowledgments	1	2
-.	NA	NA

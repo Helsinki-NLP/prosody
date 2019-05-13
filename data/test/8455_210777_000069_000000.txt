@@ -1,6 +1,0 @@
-To	0	1
-day	2	2
-!	NA	NA
-I	0	0
-shouted	1	2
-.	NA	NA

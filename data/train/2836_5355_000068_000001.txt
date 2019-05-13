@@ -1,5 +1,0 @@
-They	0	0
-came	1	0
-by	1	1
-post	1	2
-.	NA	NA

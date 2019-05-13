@@ -1,8 +1,0 @@
-Here	2	0
-I've	0	1
-been	0	1
-to	0	0
-town	2	0
-and	0	1
-back	1	2
-.	NA	NA

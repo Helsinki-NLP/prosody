@@ -1,9 +1,0 @@
-Her	0	0
-voice	2	0
-had	0	1
-sunk	0	0
-almost	0	1
-to	0	0
-a	0	0
-groan	1	2
-.	NA	NA

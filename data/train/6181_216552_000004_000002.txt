@@ -1,8 +1,0 @@
-Are	0	0
-fathers	2	0
-unnatural	0	1
-,	NA	NA
-and	0	0
-children	1	1
-prodigal	2	2
-?	NA	NA

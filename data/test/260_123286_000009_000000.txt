@@ -1,4 +1,0 @@
-Impatient	1	1
-,	NA	NA
-then	1	2
-?	NA	NA

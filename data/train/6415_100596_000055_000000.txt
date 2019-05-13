@@ -1,8 +1,0 @@
-Don't	2	0
-do	0	0
-anything	0	0
-reckless	1	2
-,	NA	NA
-Georgie	2	0
-pleaded	1	2
-.	NA	NA

@@ -1,8 +1,0 @@
-May	2	0
-I	0	1
-hope	1	1
-that	0	0
-you	0	1
-forgive	2	0
-me	0	2
-?	NA	NA

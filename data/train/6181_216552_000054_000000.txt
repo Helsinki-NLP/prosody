@@ -1,9 +1,0 @@
-The	0	0
-original	1	0
-cause	2	0
-of	0	2
-man's	1	1
-prosperity	1	1
-upon	0	0
-earth	1	2
-.	NA	NA

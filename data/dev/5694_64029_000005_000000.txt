@@ -1,6 +1,0 @@
-Our	2	1
-army	0	0
-stopped	1	1
-at	0	1
-Murfreesboro	2	2
-.	NA	NA

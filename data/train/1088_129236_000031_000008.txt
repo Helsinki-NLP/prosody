@@ -1,9 +1,0 @@
-The	2	1
-soul	2	0
-may	0	0
-be	0	1
-trusted	2	1
-to	0	0
-the	0	0
-end	1	2
-.	NA	NA

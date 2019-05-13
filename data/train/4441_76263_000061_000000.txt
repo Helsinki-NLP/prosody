@@ -1,7 +1,0 @@
-I	2	0
-don't	0	1
-care	0	0
-who's	2	1
-done	1	0
-it	0	2
-!	NA	NA

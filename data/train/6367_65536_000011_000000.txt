@@ -1,5 +1,0 @@
-Many	1	0
-things	0	0
-,	NA	NA
-laddie	1	2
-.	NA	NA

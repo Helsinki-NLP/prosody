@@ -1,5 +1,0 @@
-My	0	0
-dear	1	0
-Charlotte	0	2
-impossible	2	2
-!	NA	NA

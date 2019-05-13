@@ -1,9 +1,0 @@
-Let	1	0
-us	0	0
-approach	1	1
-the	0	0
-business	1	0
-with	0	1
-dispassionate	2	1
-explicitness	2	2
-.	NA	NA

@@ -1,5 +1,0 @@
-To	0	1
-this	2	0
-all	1	1
-agreed	0	2
-.	NA	NA

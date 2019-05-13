@@ -1,8 +1,0 @@
-Matter	0	0
-enough	1	2
-,	NA	NA
-said	2	0
-the	0	0
-Tree	0	0
-Frog	1	2
-.	NA	NA

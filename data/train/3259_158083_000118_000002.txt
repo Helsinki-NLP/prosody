@@ -1,8 +1,0 @@
-Telephone	2	1
-wires	0	0
-at	0	1
-our	0	0
-headquarters	1	1
-were	0	0
-tapped	2	2
-.	NA	NA

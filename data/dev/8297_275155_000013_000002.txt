@@ -1,9 +1,0 @@
-The	0	0
-report	2	0
-is	0	1
-premature	2	2
-,	NA	NA
-my	1	0
-good	0	0
-friend	2	2
-.	NA	NA

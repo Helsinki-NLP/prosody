@@ -1,5 +1,0 @@
-But	1	1
-,	NA	NA
-come	1	1
-,	NA	NA
-since	1	2

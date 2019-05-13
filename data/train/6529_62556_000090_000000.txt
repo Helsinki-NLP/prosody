@@ -1,4 +1,0 @@
-Neb	2	1
-,	NA	NA
-Top	0	2
-!	NA	NA

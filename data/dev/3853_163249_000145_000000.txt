@@ -1,4 +1,0 @@
-Then	1	0
-I'm	0	1
-satisfied	2	2
-.	NA	NA

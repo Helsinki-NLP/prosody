@@ -1,9 +1,0 @@
-Yes	2	1
-,	NA	NA
-my	0	0
-love	1	1
-!	NA	NA
-Miss	0	0
-Elizabeth	1	1
-proceeded	1	2
-.	NA	NA

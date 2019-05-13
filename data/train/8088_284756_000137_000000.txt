@@ -1,9 +1,0 @@
-A	0	0
-great	2	1
-cloud	1	0
-of	0	1
-blood	2	1
-dyed	1	0
-the	0	1
-water	2	2
-.	NA	NA

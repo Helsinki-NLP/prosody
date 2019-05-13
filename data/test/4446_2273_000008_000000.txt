@@ -1,3 +1,0 @@
-Hilda	0	1
-curtsied	2	2
-.	NA	NA

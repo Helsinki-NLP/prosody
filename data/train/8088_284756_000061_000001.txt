@@ -1,8 +1,0 @@
-I	2	0
-phoned	1	1
-,	NA	NA
-and	0	1
-here	0	0
-we	0	0
-are	2	2
-!	NA	NA

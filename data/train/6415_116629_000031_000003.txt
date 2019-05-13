@@ -1,8 +1,0 @@
-She	1	0
-had	0	0
-grown	0	0
-very	0	1
-quiet	2	1
-and	0	0
-silent	2	2
-.	NA	NA

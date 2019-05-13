@@ -1,2 +1,0 @@
-Gavroche	1	0
-sang	2	2

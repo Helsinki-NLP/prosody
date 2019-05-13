@@ -1,6 +1,0 @@
-You	1	1
-scamp	2	2
-!	NA	NA
-she	0	0
-began	1	2
-.	NA	NA

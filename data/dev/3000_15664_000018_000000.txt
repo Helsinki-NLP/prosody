@@ -1,8 +1,0 @@
-The	0	0
-mule	2	1
-deer	0	1
-are	0	0
-nearly	1	0
-as	0	1
-heavy	2	2
-.	NA	NA

@@ -1,4 +1,0 @@
-Thenardier	1	1
-stepped	1	0
-nearer	1	2
-.	NA	NA

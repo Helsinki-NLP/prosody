@@ -1,7 +1,0 @@
-How	2	0
-fared	1	0
-it	0	1
-with	0	0
-Lady	0	1
-Isabel	2	2
-?	NA	NA

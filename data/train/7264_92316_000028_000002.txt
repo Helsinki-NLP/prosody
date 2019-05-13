@@ -1,8 +1,0 @@
-It	2	0
-had	0	1
-disappeared	2	1
-by	1	0
-the	0	0
-nineteen	0	0
-hundreds	1	2
-.	NA	NA

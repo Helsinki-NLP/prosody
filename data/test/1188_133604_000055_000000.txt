@@ -1,9 +1,0 @@
-in	0	0
-a	0	1
-few	0	0
-moments	2	1
-to	0	0
-lose	0	0
-her	0	1
-forever	2	2
-.	NA	NA

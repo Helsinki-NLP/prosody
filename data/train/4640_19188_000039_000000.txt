@@ -1,6 +1,0 @@
-There	0	0
-were	0	0
-only	1	1
-four	2	1
-uniforms	1	2
-.	NA	NA

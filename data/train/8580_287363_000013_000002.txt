@@ -1,8 +1,0 @@
-Tom	2	0
-wanted	0	0
-it	0	1
-to	0	0
-warm	2	0
-up	1	1
-first	2	2
-.	NA	NA

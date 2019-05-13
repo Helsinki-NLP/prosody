@@ -1,9 +1,0 @@
-Yet	1	0
-the	0	0
-wilful	2	1
-obliteration	1	1
-had	0	0
-utterly	1	1
-spoiled	2	0
-it	0	2
-.	NA	NA

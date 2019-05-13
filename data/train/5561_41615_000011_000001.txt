@@ -1,3 +1,0 @@
-It	0	0
-isn't	2	2
-.	NA	NA

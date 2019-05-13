@@ -1,9 +1,0 @@
-There	0	0
-is	0	0
-no	1	0
-fear	0	2
-of	0	0
-that	2	1
-,	NA	NA
-sir	2	2
-.	NA	NA

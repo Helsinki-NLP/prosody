@@ -1,5 +1,0 @@
-His	0	0
-manner	2	0
-was	0	1
-curious	1	2
-.	NA	NA

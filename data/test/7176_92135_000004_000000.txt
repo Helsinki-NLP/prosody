@@ -1,9 +1,0 @@
-But	0	0
-even	2	0
-the	0	1
-unsuccessful	0	0
-dramatist	1	1
-has	1	0
-his	0	1
-moments	2	2
-.	NA	NA

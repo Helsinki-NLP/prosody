@@ -1,7 +1,0 @@
-Right	2	0
-you	0	1
-are	0	0
-,	NA	NA
-young	0	1
-man	2	2
-.	NA	NA

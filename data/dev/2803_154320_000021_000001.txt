@@ -1,8 +1,0 @@
-We	0	0
-must	0	1
-not	2	0
-look	0	0
-out	1	0
-for	0	1
-troubles	2	2
-.	NA	NA

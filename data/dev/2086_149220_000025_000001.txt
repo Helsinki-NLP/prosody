@@ -1,8 +1,0 @@
-Is	0	0
-there	1	0
-nothing	0	1
-dark	2	0
-or	0	1
-sinister	0	0
-anywhere	2	2
-?	NA	NA

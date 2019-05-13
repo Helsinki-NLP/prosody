@@ -1,8 +1,0 @@
-A	0	0
-little	2	0
-attack	1	0
-of	0	1
-nerves	2	1
-,	NA	NA
-possibly	1	2
-.	NA	NA

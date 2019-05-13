@@ -1,8 +1,0 @@
-I	1	0
-bet	1	0
-that	0	0
-we	0	0
-shall	0	1
-find	2	1
-chickens	0	2
-.	NA	NA

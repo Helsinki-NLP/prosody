@@ -1,5 +1,0 @@
-Well	1	2
-?	NA	NA
-responded	2	0
-Caroline	1	2
-.	NA	NA

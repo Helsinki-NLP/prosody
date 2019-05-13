@@ -1,7 +1,0 @@
-What	2	0
-would	0	0
-she	0	1
-do	0	0
-about	1	1
-that	2	2
-?	NA	NA

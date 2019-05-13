@@ -1,6 +1,0 @@
-I	0	2
-wish	2	0
-you	0	1
-good	2	0
-night	1	2
-.	NA	NA

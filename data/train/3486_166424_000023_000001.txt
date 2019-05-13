@@ -1,3 +1,0 @@
-They	0	1
-come	2	2
-!	NA	NA

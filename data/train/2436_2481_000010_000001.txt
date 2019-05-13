@@ -1,5 +1,0 @@
-Get	0	0
-back	1	1
-,	NA	NA
-Gregg	2	2
-!	NA	NA

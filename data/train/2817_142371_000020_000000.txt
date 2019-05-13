@@ -1,9 +1,0 @@
-Not	2	1
-yet	1	2
-;	NA	NA
-I	0	0
-must	2	1
-see	0	0
-your	0	0
-dairy	1	2
-.	NA	NA

@@ -1,9 +1,0 @@
-Above	2	0
-all	1	0
-was	0	1
-the	0	0
-sense	1	0
-of	0	1
-hearing	1	0
-acute	2	2
-.	NA	NA

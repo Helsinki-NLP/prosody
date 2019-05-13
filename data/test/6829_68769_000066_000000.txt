@@ -1,5 +1,0 @@
-No	2	0
-,	0	0
-mr	NA	NA
-Markham	1	2
-.	NA	NA

@@ -1,5 +1,0 @@
-Here	2	0
-is	0	0
-his	0	1
-receipt	2	2
-.	NA	NA

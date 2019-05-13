@@ -1,9 +1,0 @@
-Like	1	0
-Natalie	1	0
-Spencer's	0	0
-stupid	1	1
-party	2	0
-the	0	1
-night	0	0
-before	2	2
-.	NA	NA

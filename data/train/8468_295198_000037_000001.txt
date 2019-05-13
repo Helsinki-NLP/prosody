@@ -1,9 +1,0 @@
-It's	0	0
-all	1	0
-practice	1	2
-;	NA	NA
-Tommy	2	0
-Oriole	0	0
-says	0	0
-so	1	2
-.	NA	NA

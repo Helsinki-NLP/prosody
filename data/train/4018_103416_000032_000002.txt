@@ -1,7 +1,0 @@
-She	1	0
-was	1	1
-enormously	2	1
-popular	1	1
-at	0	0
-dances	1	2
-.	NA	NA

@@ -1,4 +1,0 @@
-Kitty	2	0
-cat	1	1
-pleasant	1	2
-!	NA	NA

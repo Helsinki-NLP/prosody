@@ -1,8 +1,0 @@
-But	1	0
-you're	2	1
-away	1	0
-off	0	1
-in	0	0
-your	0	0
-guess	1	2
-.	NA	NA

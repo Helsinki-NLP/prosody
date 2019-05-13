@@ -1,7 +1,0 @@
-Beryl	2	0
-did	0	0
-not	1	1
-deny	1	0
-the	0	1
-charge	1	2
-.	NA	NA

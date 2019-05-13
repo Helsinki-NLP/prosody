@@ -1,5 +1,0 @@
-These	2	0
-were	0	1
-remarkable	1	0
-talents	1	2
-.	NA	NA

@@ -1,9 +1,0 @@
-Here's	2	1
-to	0	0
-you	2	2
-a	0	0
-long	2	1
-,	NA	NA
-happy	0	0
-life	1	2
-!	NA	NA

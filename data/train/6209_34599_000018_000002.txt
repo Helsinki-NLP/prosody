@@ -1,4 +1,0 @@
-Roofs	1	1
-dwellings	1	1
-shelter	2	2
-!	NA	NA

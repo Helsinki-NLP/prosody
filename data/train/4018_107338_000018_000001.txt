@@ -1,7 +1,0 @@
-There	0	0
-is	0	0
-no	2	0
-wisdom	1	1
-like	1	0
-frankness	2	2
-.	NA	NA

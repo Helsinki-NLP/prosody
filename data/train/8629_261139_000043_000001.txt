@@ -1,8 +1,0 @@
-But	2	0
-I	0	0
-shall	0	1
-speak	1	0
-of	0	1
-her	0	1
-again	2	2
-.	NA	NA

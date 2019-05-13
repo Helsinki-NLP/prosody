@@ -1,9 +1,0 @@
-This	2	0
-is	0	1
-a	0	0
-point	2	0
-of	0	1
-the	0	0
-greatest	2	1
-importance	2	2
-.	NA	NA

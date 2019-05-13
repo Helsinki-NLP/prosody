@@ -1,7 +1,0 @@
-I	0	0
-can	0	2
-hardly	0	0
-wait	2	1
-for	0	0
-Saturday	2	2
-.	NA	NA

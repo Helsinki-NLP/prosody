@@ -1,5 +1,0 @@
-So	1	0
-they	1	1
-need	2	0
-it	0	2
-.	NA	NA

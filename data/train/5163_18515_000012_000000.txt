@@ -1,3 +1,0 @@
-Dear	1	0
-me	2	2
-!	NA	NA

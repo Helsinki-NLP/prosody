@@ -1,5 +1,0 @@
-Caroline	1	0
-burst	1	1
-into	0	0
-tears	2	2
-.	NA	NA

@@ -1,6 +1,0 @@
-Now	2	1
-let	2	0
-us	0	0
-to	0	1
-business	1	2
-.	NA	NA

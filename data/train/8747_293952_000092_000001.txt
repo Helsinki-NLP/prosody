@@ -1,7 +1,0 @@
-I	2	0
-am	0	0
-not	0	1
-afraid	1	0
-of	0	2
-Durham	2	2
-.	NA	NA

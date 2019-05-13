@@ -1,9 +1,0 @@
-Then	2	0
-they	0	0
-saw	0	0
-the	0	1
-grapes	2	2
-and	0	0
-tasted	1	1
-them	2	2
-.	NA	NA

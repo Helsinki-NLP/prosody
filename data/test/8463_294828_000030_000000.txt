@@ -1,7 +1,0 @@
-We	0	0
-haven't	2	1
-a	0	0
-moment	1	1
-to	0	0
-lose	1	2
-.	NA	NA

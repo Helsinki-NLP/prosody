@@ -1,5 +1,0 @@
-But	0	0
-you	2	0
-are	0	1
-free	2	2
-.	NA	NA

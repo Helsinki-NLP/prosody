@@ -1,5 +1,0 @@
-Meanwhile	1	2
-he	1	0
-was	0	0
-happy	0	2
-.	NA	NA

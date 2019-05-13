@@ -1,8 +1,0 @@
-Hence	0	0
-arise	1	1
-surprise	1	1
-,	NA	NA
-expostulation	2	1
-and	0	0
-pain	1	2
-.	NA	NA

@@ -1,4 +1,0 @@
-THE	0	0
-FIRST	1	1
-ANARCHY	1	2
-.	NA	NA

@@ -1,7 +1,0 @@
-The	0	0
-street	2	1
-began	1	0
-by	0	1
-two	0	0
-houses	2	2
-.	NA	NA

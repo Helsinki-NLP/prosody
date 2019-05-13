@@ -1,6 +1,0 @@
-And	0	1
-perhaps	1	1
-that	0	0
-was	0	0
-so	2	2
-.	NA	NA

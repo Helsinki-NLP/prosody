@@ -1,9 +1,0 @@
-Ruggles	2	0
-was	0	1
-mad	1	0
-because	0	0
-he's	0	1
-gone	0	0
-on	0	1
-Em	2	2
-.	NA	NA

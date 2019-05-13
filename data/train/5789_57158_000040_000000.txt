@@ -1,8 +1,0 @@
-It	1	0
-does	2	0
-not	1	1
-signify	0	0
-in	0	1
-the	0	0
-least	1	2
-.	NA	NA

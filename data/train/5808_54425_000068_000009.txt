@@ -1,9 +1,0 @@
-She	0	1
-fell	1	0
-back	2	1
-upon	1	0
-her	0	0
-pillow	1	0
-in	0	1
-silence	2	2
-.	NA	NA

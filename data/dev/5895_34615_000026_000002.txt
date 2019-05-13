@@ -1,8 +1,0 @@
-Women	2	1
-especially	1	0
-shrank	1	1
-from	0	0
-him	0	0
-with	0	1
-horror	2	2
-.	NA	NA

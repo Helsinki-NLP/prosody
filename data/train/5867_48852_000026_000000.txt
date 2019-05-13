@@ -1,9 +1,0 @@
-Is	2	0
-it	0	1
-to	0	0
-be	0	1
-soon	2	1
-?	NA	NA
-he	0	0
-asked	0	2
-.	NA	NA

@@ -1,6 +1,0 @@
-Had	0	0
-I	1	2
-?	NA	NA
-Had	1	0
-I	2	2
-?	NA	NA

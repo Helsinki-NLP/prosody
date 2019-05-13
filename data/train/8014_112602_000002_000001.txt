@@ -1,9 +1,0 @@
-The	0	0
-hair	2	0
-was	0	1
-combed	0	1
-daily	1	0
-after	0	1
-a	0	0
-bath	2	2
-.	NA	NA

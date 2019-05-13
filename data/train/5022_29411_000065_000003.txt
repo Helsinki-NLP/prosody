@@ -1,8 +1,0 @@
-I	2	0
-invited	1	1
-myself	2	2
-the	0	0
-deaf	2	0
-gentleman	0	1
-submitted	1	2
-.	NA	NA

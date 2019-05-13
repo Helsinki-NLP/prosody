@@ -1,8 +1,0 @@
-Marie	2	1
-turned	0	0
-away	0	2
-,	NA	NA
-wringing	2	1
-her	0	0
-hands	1	2
-.	NA	NA

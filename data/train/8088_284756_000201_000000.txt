@@ -1,8 +1,0 @@
-You	0	0
-saw	1	0
-why	2	1
-,	NA	NA
-interrupted	1	1
-Mercer	1	0
-grimly	2	2
-.	NA	NA

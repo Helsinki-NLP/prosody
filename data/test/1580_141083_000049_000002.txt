@@ -1,7 +1,0 @@
-Let	2	0
-me	0	0
-see	1	0
-the	0	1
-three	1	0
-strips	1	2
-.	NA	NA

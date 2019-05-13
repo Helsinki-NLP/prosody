@@ -1,7 +1,0 @@
-Be	1	1
-quiet	2	2
-!	NA	NA
-Solomon	1	0
-Owl	0	0
-thundered	1	2
-.	NA	NA

@@ -1,9 +1,0 @@
-The	0	0
-Church	1	0
-helps	2	0
-people	0	1
-,	NA	NA
-indeed	1	0
-it	0	1
-does	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-He	0	1
-would	1	0
-soon	2	0
-be	0	0
-amidst	0	1
-living	0	0
-creatures	1	2
-.	NA	NA

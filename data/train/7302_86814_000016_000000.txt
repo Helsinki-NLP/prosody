@@ -1,8 +1,0 @@
-Ah	2	2
-,	NA	NA
-said	1	0
-Andrea	1	1
-,	NA	NA
-deeply	0	0
-affected	0	2
-.	NA	NA

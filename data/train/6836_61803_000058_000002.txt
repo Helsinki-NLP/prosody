@@ -1,6 +1,0 @@
-I	2	1
-don't	2	1
-,	NA	NA
-by	0	0
-God	1	2
-!	NA	NA

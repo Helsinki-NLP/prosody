@@ -1,6 +1,0 @@
-What	0	0
-did	0	0
-their	1	1
-tears	1	1
-imply	2	2
-?	NA	NA

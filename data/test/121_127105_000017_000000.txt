@@ -1,6 +1,0 @@
-And	2	1
-is	1	0
-the	0	0
-record	0	0
-yours	1	2
-?	NA	NA

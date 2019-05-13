@@ -1,9 +1,0 @@
-August	2	0
-Belmont	1	2
-,	NA	NA
-the	0	0
-banker	1	1
-,	NA	NA
-being	1	0
-near	0	0
-said	1	2

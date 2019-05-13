@@ -1,6 +1,0 @@
-This	1	0
-was	0	0
-enough	2	1
-for	0	1
-Antonia	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-You	0	1
-don't	2	1
-think	1	0
-that	1	1
-,	0	0
-mr	NA	NA
-Morton	2	2
-.	NA	NA

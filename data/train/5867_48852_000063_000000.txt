@@ -1,7 +1,0 @@
-Nay	2	1
-;	NA	NA
-do	0	0
-not	1	0
-say	0	1
-so	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-But	1	0
-it	0	0
-may	0	0
-be	0	0
-expected	0	1
-hourly	1	1
-now	1	2
-.	NA	NA

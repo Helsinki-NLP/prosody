@@ -1,6 +1,0 @@
-That's	1	0
-it	2	2
-not	0	0
-against	2	0
-it	0	2
-!	NA	NA

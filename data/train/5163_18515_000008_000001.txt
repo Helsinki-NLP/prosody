@@ -1,9 +1,0 @@
-Oh	2	1
-,	NA	NA
-see	0	0
-,	NA	NA
-Jasper	2	0
-is	0	1
-calling	1	0
-us	0	2
-.	NA	NA

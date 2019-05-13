@@ -1,4 +1,0 @@
-seventeen	2	1
-twenty	0	0
-five	1	2
-.	NA	NA

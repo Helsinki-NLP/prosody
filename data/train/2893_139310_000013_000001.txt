@@ -1,5 +1,0 @@
-To	0	1
-prevent	1	0
-your	0	1
-interference	2	2
-.	NA	NA

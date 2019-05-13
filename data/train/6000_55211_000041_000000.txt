@@ -1,5 +1,0 @@
-Billy	2	0
-turned	0	0
-away	0	0
-sharply	2	2
-.	NA	NA

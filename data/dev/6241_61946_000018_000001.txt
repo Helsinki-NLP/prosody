@@ -1,4 +1,0 @@
-Look	1	0
-at	0	1
-Hans	2	2
-.	NA	NA

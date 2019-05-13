@@ -1,9 +1,0 @@
-In	0	0
-all	2	0
-these	0	1
-disputes	1	1
-he	0	0
-never	0	0
-quite	2	1
-yielded	1	2
-.	NA	NA

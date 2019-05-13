@@ -1,8 +1,0 @@
-Are	0	0
-you	0	0
-hurt	2	1
-?	NA	NA
-asked	1	0
-Tad	0	0
-apprehensively	2	2
-.	NA	NA

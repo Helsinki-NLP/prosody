@@ -1,8 +1,0 @@
-They	1	0
-gazed	2	1
-at	0	0
-each	0	0
-other	0	0
-in	0	1
-perplexity	1	2
-.	NA	NA

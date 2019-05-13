@@ -1,7 +1,0 @@
-Don't	2	0
-cry	0	0
-any	0	1
-more	1	0
-,	NA	NA
-Anne	0	2
-.	NA	NA

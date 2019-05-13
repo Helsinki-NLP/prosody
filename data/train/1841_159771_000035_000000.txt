@@ -1,3 +1,0 @@
-Eating	2	0
-a	0	1
-Tree	1	2

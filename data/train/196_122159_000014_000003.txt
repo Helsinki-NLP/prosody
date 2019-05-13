@@ -1,7 +1,0 @@
-Perhaps	2	1
-I	1	0
-could	0	0
-not	0	1
-see	2	1
-then	1	2
-.	NA	NA

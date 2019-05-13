@@ -1,3 +1,0 @@
-That's	2	1
-it	0	2
-.	NA	NA

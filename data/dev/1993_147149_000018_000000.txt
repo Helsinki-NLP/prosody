@@ -1,9 +1,0 @@
-We	0	0
-mun	0	0
-get	1	0
-him	0	0
-away	1	0
-from	0	0
-his	0	2
-mother	2	2
-.	NA	NA

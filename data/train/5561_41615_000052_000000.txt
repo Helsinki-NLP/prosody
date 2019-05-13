@@ -1,6 +1,0 @@
-Very	2	0
-likely	0	1
-,	NA	NA
-agreed	0	0
-Grace	2	2
-.	NA	NA

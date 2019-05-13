@@ -1,9 +1,0 @@
-Great	2	0
-murmurs	1	0
-and	0	1
-discontents	2	1
-still	1	0
-prevailed	2	1
-in	0	0
-parliament	1	2
-.	NA	NA

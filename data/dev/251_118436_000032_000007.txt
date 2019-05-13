@@ -1,7 +1,0 @@
-Their	1	1
-fingers	1	0
-sear	0	0
-me	0	0
-like	1	1
-fire	2	2
-!	NA	NA

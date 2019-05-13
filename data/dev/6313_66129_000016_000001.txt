@@ -1,8 +1,0 @@
-I	2	0
-don't	0	1
-need	0	0
-guns	2	1
-to	0	0
-hunt	0	0
-with	2	2
-.	NA	NA

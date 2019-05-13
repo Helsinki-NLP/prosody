@@ -1,4 +1,0 @@
-Not	1	1
-at	0	0
-all	2	2
-.	NA	NA

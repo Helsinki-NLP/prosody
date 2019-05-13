@@ -1,7 +1,0 @@
-'And	0	0
-where	1	0
-is	0	0
-he	0	1
-staying	2	2
-?	NA	NA
-'	NA	NA

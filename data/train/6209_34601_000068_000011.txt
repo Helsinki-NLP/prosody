@@ -1,8 +1,0 @@
-Well	2	0
-,	NA	NA
-to	0	1
-day	2	0
-I've	0	1
-made	1	1
-nothing	1	2
-.	NA	NA

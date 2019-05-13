@@ -1,8 +1,0 @@
-A	0	0
-long	2	1
-distance	1	0
-;	NA	NA
-I'm	1	2
-dead	2	0
-beat	1	2
-.	NA	NA

@@ -1,5 +1,0 @@
-Yes	2	1
-,	NA	NA
-by	0	0
-heavens	1	2
-!	NA	NA

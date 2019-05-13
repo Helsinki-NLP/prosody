@@ -1,3 +1,0 @@
-Lower	2	1
-preferred	1	2
-.	NA	NA

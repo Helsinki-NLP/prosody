@@ -1,7 +1,0 @@
-Americanism	1	1
-,	NA	NA
-and	1	2
-Pointing	2	0
-with	0	1
-Pride	1	2
-.	NA	NA

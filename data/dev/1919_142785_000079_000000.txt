@@ -1,3 +1,0 @@
-FISH	1	0
-SAUCE	1	2
-.	NA	NA

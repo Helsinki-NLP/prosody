@@ -1,3 +1,0 @@
-It's	1	0
-free	1	2
-.	NA	NA

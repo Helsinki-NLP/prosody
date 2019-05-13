@@ -1,6 +1,0 @@
-Did	1	1
-Eradicate	1	1
-see	0	0
-the	0	0
-man	2	2
-?	NA	NA

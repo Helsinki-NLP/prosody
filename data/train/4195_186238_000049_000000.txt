@@ -1,6 +1,0 @@
-Uncle	1	0
-john	1	0
-shook	0	1
-his	0	0
-head	2	2
-.	NA	NA

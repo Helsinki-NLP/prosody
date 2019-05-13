@@ -1,6 +1,0 @@
-But	1	1
-misfortune	1	1
-still	0	0
-pursued	2	0
-him	1	2
-.	NA	NA

@@ -1,8 +1,0 @@
-Uncle	1	0
-john	2	0
-gave	0	1
-a	0	0
-snort	1	0
-of	0	1
-contempt	2	2
-.	NA	NA

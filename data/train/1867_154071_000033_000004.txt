@@ -1,5 +1,0 @@
-Ain't	0	1
-that	1	0
-something	0	1
-done	2	2
-?	NA	NA

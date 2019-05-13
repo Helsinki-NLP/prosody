@@ -1,5 +1,0 @@
-Take	2	0
-it	0	0
-and	0	1
-go	1	2
-.	NA	NA

@@ -1,6 +1,0 @@
-How	2	0
-long	0	0
-did	0	1
-you	0	0
-stay	2	2
-?	NA	NA

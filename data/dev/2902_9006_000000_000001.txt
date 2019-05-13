@@ -1,9 +1,0 @@
-All	2	0
-LibriVox	2	2
-recordings	2	1
-are	2	0
-in	0	0
-the	0	0
-public	0	1
-domain	1	2
-.	NA	NA

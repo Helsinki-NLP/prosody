@@ -1,7 +1,0 @@
-Her	1	0
-existence	2	0
-makes	0	1
-the	0	0
-world	2	0
-rich	1	2
-.	NA	NA

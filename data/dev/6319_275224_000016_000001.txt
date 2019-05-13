@@ -1,7 +1,0 @@
-He	1	1
-really	2	1
-grieved	1	1
-to	0	0
-see	2	0
-it	0	2
-!	NA	NA

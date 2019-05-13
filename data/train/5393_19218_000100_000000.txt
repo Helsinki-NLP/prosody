@@ -1,3 +1,0 @@
-What	0	1
-then	2	2
-?	NA	NA

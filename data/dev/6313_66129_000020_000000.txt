@@ -1,7 +1,0 @@
-Hooray	2	1
-,	NA	NA
-fellows	1	1
-!	NA	NA
-he	0	0
-shouted	1	2
-.	NA	NA

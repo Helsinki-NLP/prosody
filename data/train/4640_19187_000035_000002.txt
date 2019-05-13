@@ -1,8 +1,0 @@
-They	1	0
-waited	1	1
-for	1	0
-it	0	0
-with	0	0
-a	0	2
-smile	2	2
-.	NA	NA

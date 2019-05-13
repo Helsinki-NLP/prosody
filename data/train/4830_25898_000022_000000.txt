@@ -1,9 +1,0 @@
-'Where	2	0
-is	0	1
-Peep	2	1
-?	NA	NA
-'	NA	NA
-asked	1	1
-mrs	0	0
-Cluck	2	2
-.	NA	NA

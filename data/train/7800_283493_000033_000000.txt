@@ -1,9 +1,0 @@
-Bluff	2	1
-got	1	0
-up	0	1
-again	0	0
-,	NA	NA
-shaking	1	1
-his	0	0
-head	1	2
-.	NA	NA

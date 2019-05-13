@@ -1,6 +1,0 @@
-You'll	0	0
-see	2	2
-,	NA	NA
-you'll	0	0
-see	1	2
-!	NA	NA

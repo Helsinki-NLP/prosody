@@ -1,7 +1,0 @@
-What	2	0
-men	1	0
-those	0	1
-barbarians	2	1
-do	0	0
-breed	1	2
-!	NA	NA

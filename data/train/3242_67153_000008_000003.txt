@@ -1,9 +1,0 @@
-The	0	0
-old	2	1
-man	0	0
-was	0	1
-mighty	1	1
-proud	2	0
-of	0	1
-Jim	2	2
-.	NA	NA

@@ -1,5 +1,0 @@
-Isn't	0	0
-that	1	1
-very	1	0
-hopeful	2	2
-?	NA	NA

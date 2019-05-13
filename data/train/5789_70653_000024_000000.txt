@@ -1,8 +1,0 @@
-But	2	1
-it	0	0
-was	0	0
-not	2	1
-to	0	0
-be	0	0
-yet	2	2
-.	NA	NA

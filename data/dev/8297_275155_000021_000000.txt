@@ -1,7 +1,0 @@
-Sit	2	1
-down	2	1
-,	NA	NA
-said	1	0
-mrs	0	0
-Presty	2	2
-.	NA	NA

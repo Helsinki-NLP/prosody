@@ -1,7 +1,0 @@
-Besides	2	1
-,	NA	NA
-what	0	0
-could	0	0
-it	0	0
-matter	2	2
-?	NA	NA

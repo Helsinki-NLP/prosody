@@ -1,6 +1,0 @@
-Think	1	1
-no	1	1
-more	0	0
-of	1	1
-me	2	2
-.	NA	NA

@@ -1,6 +1,0 @@
-Well	2	2
-began	2	0
-the	0	1
-man	0	0
-dubiously	1	2
-.	NA	NA

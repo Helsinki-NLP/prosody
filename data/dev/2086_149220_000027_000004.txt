@@ -1,8 +1,0 @@
-I	1	0
-have	1	0
-a	0	1
-proposition	2	1
-to	0	0
-make	2	0
-you	0	2
-.	NA	NA

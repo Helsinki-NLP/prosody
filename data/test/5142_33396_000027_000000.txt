@@ -1,7 +1,0 @@
-'I	2	0
-call	0	0
-,	NA	NA
-'	NA	NA
-I	0	1
-answered	1	2
-.	NA	NA

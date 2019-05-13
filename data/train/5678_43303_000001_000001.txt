@@ -1,8 +1,0 @@
-But	0	0
-there	2	0
-was	0	1
-nothing	1	1
-that	0	0
-alarmed	2	0
-her	1	2
-.	NA	NA

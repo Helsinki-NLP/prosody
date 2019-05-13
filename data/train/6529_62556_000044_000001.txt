@@ -1,6 +1,0 @@
-I	0	0
-am	2	0
-in	0	1
-terrible	2	1
-perplexity	1	2
-.	NA	NA

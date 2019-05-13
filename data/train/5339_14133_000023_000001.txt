@@ -1,3 +1,0 @@
-Then	2	0
-he	0	1
-said	1	2

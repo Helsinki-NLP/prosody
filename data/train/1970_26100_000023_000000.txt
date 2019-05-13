@@ -1,6 +1,0 @@
-What	0	0
-else	2	1
-did	0	0
-she	0	1
-say	2	2
-?	NA	NA

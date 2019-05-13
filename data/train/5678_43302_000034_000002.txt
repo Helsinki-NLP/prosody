@@ -1,7 +1,0 @@
-It	2	0
-was	0	1
-time	2	0
-that	0	1
-something	0	0
-happened	2	2
-.	NA	NA

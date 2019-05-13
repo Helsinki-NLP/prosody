@@ -1,4 +1,0 @@
-You	0	0
-must	2	1
-stay	2	2
-.	NA	NA

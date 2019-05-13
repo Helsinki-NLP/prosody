@@ -1,4 +1,0 @@
-Poor	1	0
-young	0	1
-chap	2	2
-!	NA	NA

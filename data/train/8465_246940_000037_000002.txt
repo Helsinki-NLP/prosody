@@ -1,6 +1,0 @@
-I	2	0
-fear	2	0
-for	0	0
-his	0	1
-brain	1	2
-.	NA	NA

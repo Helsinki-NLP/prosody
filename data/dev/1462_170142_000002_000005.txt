@@ -1,6 +1,0 @@
-Alexander	2	1
-did	0	0
-not	1	1
-sit	0	0
-down	2	2
-.	NA	NA

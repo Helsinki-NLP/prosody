@@ -1,7 +1,0 @@
-It	2	0
-can	0	1
-be	0	0
-nothing	2	0
-but	0	1
-good	2	2
-.	NA	NA

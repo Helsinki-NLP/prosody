@@ -1,5 +1,0 @@
-My	1	0
-theory	1	0
-seems	0	1
-absurd	2	2
-.	NA	NA

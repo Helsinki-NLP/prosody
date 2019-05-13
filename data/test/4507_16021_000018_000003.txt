@@ -1,5 +1,0 @@
-Slang	2	0
-makes	0	1
-one	0	0
-shudder	1	2
-!	NA	NA

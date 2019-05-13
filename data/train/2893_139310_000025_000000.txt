@@ -1,9 +1,0 @@
-Ostrog	2	0
-is	0	0
-at	0	1
-the	0	0
-wind	0	0
-vane	0	0
-offices	1	2
-ready	2	2
-.	NA	NA

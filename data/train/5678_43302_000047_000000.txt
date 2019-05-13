@@ -1,4 +1,0 @@
-Oliver	2	0
-stirred	1	0
-presently	1	2
-.	NA	NA

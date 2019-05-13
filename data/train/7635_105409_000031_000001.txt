@@ -1,3 +1,0 @@
-We	0	1
-waited	2	2
-.	NA	NA

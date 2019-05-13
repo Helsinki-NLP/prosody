@@ -1,5 +1,0 @@
-Silence	2	1
-!	NA	NA
-cried	0	0
-Troke	1	2
-.	NA	NA

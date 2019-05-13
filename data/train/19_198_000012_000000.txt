@@ -1,9 +1,0 @@
-From	0	0
-Pope	2	2
-,	NA	NA
-she	0	0
-learnt	2	2
-to	0	0
-censure	1	0
-those	1	0
-who	1	2

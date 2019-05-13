@@ -1,7 +1,0 @@
-He	1	0
-did	0	0
-not	1	0
-answer	0	0
-my	0	1
-question	2	2
-.	NA	NA

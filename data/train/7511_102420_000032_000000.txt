@@ -1,9 +1,0 @@
-Our	2	0
-tent	2	0
-is	0	0
-as	0	2
-comfortable	1	0
-as	0	1
-can	0	0
-be	1	2
-.	NA	NA

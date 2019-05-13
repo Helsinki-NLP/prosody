@@ -1,9 +1,0 @@
-Most	2	0
-of	0	1
-the	0	0
-Cads	1	1
-like	1	1
-the	0	0
-Old	0	1
-Fellow	2	2
-.	NA	NA

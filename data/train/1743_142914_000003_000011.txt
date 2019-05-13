@@ -1,7 +1,0 @@
-He	0	1
-scared	2	0
-me	0	1
-for	0	0
-a	0	0
-second	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-To	0	1
-bury	1	0
-somewhere	0	0
-else	2	2
-?	NA	NA
-asked	1	0
-Quarles	1	2
-.	NA	NA

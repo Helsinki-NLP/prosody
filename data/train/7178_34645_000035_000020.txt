@@ -1,8 +1,0 @@
-When	0	0
-reality	1	0
-likes	2	2
-,	NA	NA
-it	0	0
-works	0	0
-masterpieces	1	2
-.	NA	NA

@@ -1,7 +1,0 @@
-The	0	1
-very	2	0
-purest	1	1
-,	NA	NA
-corroborated	0	1
-Rebecca	2	2
-.	NA	NA

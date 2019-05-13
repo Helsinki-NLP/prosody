@@ -1,8 +1,0 @@
-It's	2	0
-Master	0	0
-Walt	1	1
-,	NA	NA
-snapped	1	1
-the	0	0
-guide	2	2
-.	NA	NA

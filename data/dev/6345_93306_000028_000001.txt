@@ -1,7 +1,0 @@
-Her	0	0
-eyes	2	1
-filled	0	0
-again	0	0
-with	0	2
-tears	2	2
-.	NA	NA

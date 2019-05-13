@@ -1,6 +1,0 @@
-But	0	0
-he	0	0
-doesn't	2	1
-answer	2	0
-me	1	2
-.	NA	NA

@@ -1,9 +1,0 @@
-The	0	0
-rapids	2	0
-would	1	1
-presently	2	1
-come	1	0
-to	0	1
-an	0	0
-end	2	2
-.	NA	NA

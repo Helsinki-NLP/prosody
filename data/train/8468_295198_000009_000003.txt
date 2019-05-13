@@ -1,5 +1,0 @@
-Ask	2	0
-old	0	1
-dr	1	0
-Kite	2	2
-.	NA	NA

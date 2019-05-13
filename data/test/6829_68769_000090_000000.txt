@@ -1,9 +1,0 @@
-I	2	0
-have	1	0
-my	1	0
-own	0	0
-reasons	0	2
-,	0	0
-mr	NA	NA
-Marshall	2	2
-.	NA	NA

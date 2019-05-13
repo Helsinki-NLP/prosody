@@ -1,6 +1,0 @@
-They	0	1
-cried	1	1
-afresh	1	0
-in	0	1
-company	2	2
-.	NA	NA

@@ -1,9 +1,0 @@
-I	0	0
-had	2	0
-the	0	2
-tea	2	0
-tray	0	0
-in	0	1
-my	0	0
-hand	1	2
-.	NA	NA

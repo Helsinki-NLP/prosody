@@ -1,9 +1,0 @@
-I	0	0
-shouted	1	2
-,	NA	NA
-Go	1	0
-back	2	1
-to	0	0
-your	0	0
-rooms	2	2
-!	NA	NA

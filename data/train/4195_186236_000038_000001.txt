@@ -1,5 +1,0 @@
-Bah	2	0
-!	NA	NA
-she	0	1
-said	2	2
-.	NA	NA

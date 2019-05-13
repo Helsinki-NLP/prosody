@@ -1,8 +1,0 @@
-Why	0	0
-yes	2	1
-,	NA	NA
-certainly	2	1
-,	NA	NA
-of	0	0
-course	2	2
-!	NA	NA

@@ -1,6 +1,0 @@
-He	0	0
-chose	2	0
-the	0	2
-former	1	1
-course	1	2
-.	NA	NA

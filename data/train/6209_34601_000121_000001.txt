@@ -1,4 +1,0 @@
-what's	1	0
-your	0	1
-name	2	2
-?	NA	NA

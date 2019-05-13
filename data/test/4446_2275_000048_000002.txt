@@ -1,8 +1,0 @@
-Forget	0	0
-everything	2	1
-except	1	1
-that	0	0
-I	2	0
-am	0	1
-here	1	2
-.	NA	NA

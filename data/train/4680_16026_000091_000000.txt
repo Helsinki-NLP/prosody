@@ -1,3 +1,0 @@
-And	0	1
-he	0	0
-added	2	2

@@ -1,6 +1,0 @@
-It	1	0
-was	0	1
-soon	1	1
-full	0	0
-day	1	2
-.	NA	NA

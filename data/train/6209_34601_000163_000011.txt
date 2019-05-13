@@ -1,4 +1,0 @@
-They	2	0
-were	0	0
-warm	1	2
-.	NA	NA

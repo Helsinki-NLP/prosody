@@ -1,7 +1,0 @@
-I	1	1
-am	0	0
-called	2	2
-,	NA	NA
-said	0	0
-Andrea	1	2
-.	NA	NA

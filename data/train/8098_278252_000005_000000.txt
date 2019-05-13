@@ -1,7 +1,0 @@
-From	0	0
-Willoughby	2	1
-we	0	0
-went	0	2
-to	0	0
-Cleveland	1	2
-.	NA	NA

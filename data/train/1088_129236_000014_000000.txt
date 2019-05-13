@@ -1,9 +1,0 @@
-The	1	0
-passion	0	0
-rebuilds	2	2
-the	0	0
-world	2	1
-for	0	0
-the	0	0
-youth	0	2
-.	NA	NA

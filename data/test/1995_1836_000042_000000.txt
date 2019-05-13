@@ -1,9 +1,0 @@
-mrs	1	0
-Grey	1	0
-looked	0	1
-shocked	2	1
-and	0	0
-mrs	0	0
-Vanderpool	1	1
-smiled	2	2
-.	NA	NA

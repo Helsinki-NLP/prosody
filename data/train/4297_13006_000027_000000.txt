@@ -1,4 +1,0 @@
-But	0	0
-is	2	1
-he	1	2
-?	NA	NA

@@ -1,7 +1,0 @@
-Don't	2	0
-be	0	1
-mysterious	2	1
-,	NA	NA
-my	0	0
-dear	2	2
-.	NA	NA

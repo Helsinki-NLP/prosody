@@ -1,7 +1,0 @@
-His	0	0
-plans	2	0
-were	0	0
-already	1	1
-quite	1	0
-clear	2	2
-.	NA	NA

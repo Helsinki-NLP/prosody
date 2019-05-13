@@ -1,8 +1,0 @@
-Hilda	2	1
-hid	0	0
-her	0	0
-face	2	0
-in	0	1
-her	0	0
-hands	1	2
-.	NA	NA

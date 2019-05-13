@@ -1,5 +1,0 @@
-He	0	0
-can't	2	1
-stand	2	0
-it	0	2
-.	NA	NA

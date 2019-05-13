@@ -1,7 +1,0 @@
-Perhaps	2	2
-you	0	0
-can	0	0
-let	1	1
-me	0	0
-know	1	2
-.	NA	NA

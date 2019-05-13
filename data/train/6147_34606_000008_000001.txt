@@ -1,7 +1,0 @@
-This	2	0
-club	1	0
-was	0	1
-dedicated	1	0
-to	0	1
-deformity	2	2
-.	NA	NA

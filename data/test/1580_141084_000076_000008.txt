@@ -1,5 +1,0 @@
-How	0	0
-did	0	1
-he	0	0
-know	2	2
-?	NA	NA

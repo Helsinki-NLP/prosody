@@ -1,8 +1,0 @@
-He	0	0
-would	0	0
-rather	2	0
-be	0	1
-punished	1	0
-than	0	1
-consoled	2	2
-.	NA	NA

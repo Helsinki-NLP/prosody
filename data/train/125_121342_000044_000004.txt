@@ -1,8 +1,0 @@
-A	0	0
-man	2	1
-approached	2	2
-through	0	0
-the	0	0
-heavy	0	0
-gloom	1	2
-.	NA	NA

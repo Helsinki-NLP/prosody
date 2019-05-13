@@ -1,5 +1,0 @@
-Dick	2	1
-!	NA	NA
-she	1	0
-gasped	2	2
-.	NA	NA

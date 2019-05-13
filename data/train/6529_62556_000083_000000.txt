@@ -1,5 +1,0 @@
-Quick	2	1
-!	NA	NA
-said	0	0
-Harding	0	2
-.	NA	NA

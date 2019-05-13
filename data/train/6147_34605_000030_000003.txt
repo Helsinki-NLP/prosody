@@ -1,5 +1,0 @@
-That	2	0
-is	0	0
-the	0	1
-climax	1	2
-.	NA	NA

@@ -1,5 +1,0 @@
-Bartley	1	1
-,	NA	NA
-you're	0	0
-cowardly	2	2
-!	NA	NA

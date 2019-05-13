@@ -1,7 +1,0 @@
-Randal	1	1
-passed	2	1
-this	1	0
-over	0	1
-without	1	0
-notice	2	2
-.	NA	NA

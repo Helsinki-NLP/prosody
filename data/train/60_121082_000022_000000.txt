@@ -1,6 +1,0 @@
-How	0	0
-does	2	1
-that	0	1
-annoy	0	0
-you	2	2
-?	NA	NA

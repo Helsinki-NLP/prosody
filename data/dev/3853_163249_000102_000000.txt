@@ -1,8 +1,0 @@
-Now	2	0
-,	NA	NA
-Cynthy	0	1
-,	NA	NA
-be	0	0
-you	0	1
-satisfied	2	2
-?	NA	NA

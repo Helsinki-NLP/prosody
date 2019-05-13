@@ -1,5 +1,0 @@
-We	0	0
-will	0	0
-hunt	2	1
-wolves	1	2
-.	NA	NA

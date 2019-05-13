@@ -1,7 +1,0 @@
-We'll	1	0
-use	0	0
-what	0	1
-cover	1	0
-we	0	1
-can	2	2
-.	NA	NA

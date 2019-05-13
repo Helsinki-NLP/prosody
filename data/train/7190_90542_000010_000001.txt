@@ -1,9 +1,0 @@
-There	0	0
-were	1	0
-many	2	1
-fantastic	1	1
-answers	1	0
-to	0	2
-the	0	0
-question	1	2
-.	NA	NA

@@ -1,9 +1,0 @@
-Bless	2	0
-my	1	1
-powder	2	0
-horn	1	1
-!	NA	NA
-exploded	1	0
-mr	0	0
-Damon	0	2
-.	NA	NA

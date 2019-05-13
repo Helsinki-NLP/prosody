@@ -1,9 +1,0 @@
-Two	0	0
-hours	0	0
-afterwards	1	2
-a	0	0
-terrible	1	0
-shock	1	0
-awoke	2	0
-me	0	2
-.	NA	NA

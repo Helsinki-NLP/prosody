@@ -1,7 +1,0 @@
-The	0	1
-courtesan	2	1
-disappeared	1	1
-little	0	0
-by	0	0
-little	1	2
-.	NA	NA

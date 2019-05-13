@@ -1,7 +1,0 @@
-I	2	0
-remember	0	0
-it	0	1
-touched	1	1
-me	0	0
-so	2	2
-.	NA	NA

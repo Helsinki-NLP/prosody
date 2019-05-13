@@ -1,9 +1,0 @@
-Yes	2	0
-,	NA	NA
-says	0	1
-Ill	0	0
-Luck	0	0
-,	NA	NA
-it	0	0
-is	2	2
-.	NA	NA

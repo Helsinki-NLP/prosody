@@ -1,5 +1,0 @@
-But	2	0
-he	0	0
-doesn't	1	1
-bite	2	2
-.	NA	NA

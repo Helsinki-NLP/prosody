@@ -1,6 +1,0 @@
-But	0	1
-I	2	0
-could	0	0
-not	0	1
-play	1	2
-.	NA	NA

@@ -1,7 +1,0 @@
-Yes	1	0
-,	NA	NA
-I	0	0
-know	1	1
-,	NA	NA
-but	1	0
-still	2	2

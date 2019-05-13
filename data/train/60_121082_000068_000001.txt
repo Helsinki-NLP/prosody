@@ -1,7 +1,0 @@
-But	0	0
-tell	2	1
-me	0	0
-all	0	1
-about	2	1
-it	0	2
-?	NA	NA

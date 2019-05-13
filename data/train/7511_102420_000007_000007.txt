@@ -1,7 +1,0 @@
-They	2	1
-,	NA	NA
-too	0	1
-,	NA	NA
-were	0	0
-up	1	2
-.	NA	NA

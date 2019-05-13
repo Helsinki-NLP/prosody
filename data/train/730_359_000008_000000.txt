@@ -1,8 +1,0 @@
-This	1	0
-trait	2	0
-of	0	1
-kindness	2	1
-moved	0	0
-me	0	0
-sensibly	2	2
-.	NA	NA

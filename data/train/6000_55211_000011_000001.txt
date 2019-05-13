@@ -1,5 +1,0 @@
-Well	2	0
-,	NA	NA
-I'll	0	1
-come	1	2
-.	NA	NA

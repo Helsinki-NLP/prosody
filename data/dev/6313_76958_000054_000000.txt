@@ -1,6 +1,0 @@
-Does	1	0
-it	0	1
-make	2	0
-any	0	1
-difference	2	2
-?	NA	NA

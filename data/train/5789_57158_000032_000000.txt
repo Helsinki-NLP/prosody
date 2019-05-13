@@ -1,7 +1,0 @@
-Of	1	0
-course	2	0
-I	0	1
-shall	0	0
-answer	1	1
-her	1	2
-.	NA	NA

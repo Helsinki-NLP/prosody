@@ -1,5 +1,0 @@
-As	1	0
-soon	0	0
-as	0	1
-possible	2	2
-?	NA	NA

@@ -1,9 +1,0 @@
-Of	0	0
-course	2	1
-,	NA	NA
-they	0	0
-cannot	1	0
-be	0	1
-universally	1	0
-applicable	2	2
-.	NA	NA

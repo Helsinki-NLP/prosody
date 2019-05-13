@@ -1,4 +1,0 @@
-Far	2	1
-from	1	0
-it	0	2
-.	NA	NA

@@ -1,9 +1,0 @@
-And	1	0
-in	0	0
-the	0	0
-Munchkin	0	0
-Country	2	2
-?	NA	NA
-she	1	0
-exclaimed	1	2
-.	NA	NA

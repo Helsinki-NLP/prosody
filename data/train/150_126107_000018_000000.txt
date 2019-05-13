@@ -1,5 +1,0 @@
-Put	0	0
-me	1	0
-up	0	1
-directly	2	2
-.	NA	NA

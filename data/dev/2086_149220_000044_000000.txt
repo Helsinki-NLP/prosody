@@ -1,7 +1,0 @@
-No	2	0
-,	NA	NA
-child	1	1
-!	NA	NA
-replied	0	0
-Hepzibah	2	2
-.	NA	NA

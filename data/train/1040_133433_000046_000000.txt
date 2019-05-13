@@ -1,8 +1,0 @@
-O	2	0
-peter	0	1
-,	NA	NA
-you	0	0
-know	2	0
-it	0	1
-matters	1	2
-.	NA	NA

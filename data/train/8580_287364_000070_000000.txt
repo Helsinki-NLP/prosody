@@ -1,8 +1,0 @@
-Then	2	0
-you'll	0	0
-have	1	1
-to	0	0
-take	1	0
-what	1	1
-comes	2	2
-!	NA	NA

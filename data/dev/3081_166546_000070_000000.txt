@@ -1,5 +1,0 @@
-So	1	0
-they	0	1
-tell	2	0
-me	1	2
-.	NA	NA

@@ -1,7 +1,0 @@
-A	0	0
-foolish	2	0
-wish	1	2
-,	NA	NA
-cried	1	0
-Bryan	1	2
-.	NA	NA

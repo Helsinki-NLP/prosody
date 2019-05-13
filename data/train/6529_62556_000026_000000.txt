@@ -1,7 +1,0 @@
-But	1	0
-the	0	1
-heart	0	0
-?	NA	NA
-asked	1	1
-Harding	2	2
-.	NA	NA

@@ -1,5 +1,0 @@
-Hello	2	0
-,	NA	NA
-down	0	1
-there	0	2
-!	NA	NA

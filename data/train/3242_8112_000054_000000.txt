@@ -1,6 +1,0 @@
-The	0	1
-Commissioner	2	1
-looked	1	0
-at	0	1
-her	2	2
-.	NA	NA

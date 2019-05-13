@@ -1,5 +1,0 @@
-So	0	0
-Captain	2	1
-Frere	1	0
-thinks	1	2
-.	NA	NA

@@ -1,5 +1,0 @@
-A	0	0
-guaranteed	1	1
-circulation	1	0
-getter	1	2
-.	NA	NA

@@ -1,9 +1,0 @@
-Does	1	0
-Julia	1	0
-wear	0	1
-glasses	1	1
-,	NA	NA
-or	0	0
-look	0	1
-green	1	2
-?	NA	NA

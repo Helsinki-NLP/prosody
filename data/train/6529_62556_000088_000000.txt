@@ -1,6 +1,0 @@
-Top	2	0
-bounded	1	0
-at	0	1
-these	0	0
-words	1	2
-.	NA	NA

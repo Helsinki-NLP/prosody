@@ -1,4 +1,0 @@
-Mine	1	1
-,	NA	NA
-sir	1	2
-?	NA	NA

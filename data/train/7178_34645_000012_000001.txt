@@ -1,9 +1,0 @@
-Thus	2	1
-,	NA	NA
-under	0	0
-another	0	0
-form	2	1
-,	NA	NA
-Providence	2	1
-,	NA	NA
-etc	2	2

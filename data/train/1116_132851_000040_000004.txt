@@ -1,6 +1,0 @@
-Her	0	1
-horse	2	0
-had	0	1
-no	0	0
-tail	2	2
-!	NA	NA

@@ -1,9 +1,0 @@
-Are	1	0
-the	0	0
-boys	1	1
-big	2	2
-?	NA	NA
-queried	1	0
-esther	0	0
-anxiously	0	2
-.	NA	NA

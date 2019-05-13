@@ -1,7 +1,0 @@
-As	0	0
-far	2	0
-as	0	1
-possible	2	1
-you	0	0
-must	1	2
-.	NA	NA

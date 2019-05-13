@@ -1,9 +1,0 @@
-Many	1	0
-things	0	0
-must	0	1
-consent	2	1
-,	NA	NA
-as	2	0
-will	0	1
-appear	2	2
-.	NA	NA

@@ -1,6 +1,0 @@
-Sure	2	0
-ly	0	1
-,	0	0
-mr	NA	NA
-Forbes	2	2
-.	NA	NA

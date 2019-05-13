@@ -1,8 +1,0 @@
-No	1	2
-,	NA	NA
-he	2	0
-would	0	0
-not	0	1
-go	0	0
-down	1	2
-.	NA	NA

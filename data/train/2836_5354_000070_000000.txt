@@ -1,4 +1,0 @@
-December	2	1
-came	1	0
-in	1	2
-.	NA	NA

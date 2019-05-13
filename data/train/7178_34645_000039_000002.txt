@@ -1,9 +1,0 @@
-He	0	0
-had	1	1
-not	1	0
-lain	1	0
-in	0	0
-ambush	1	2
-in	0	0
-vain	2	2
-.	NA	NA

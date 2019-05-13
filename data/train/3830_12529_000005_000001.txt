@@ -1,9 +1,0 @@
-Its	0	1
-capital	2	1
-was	0	0
-to	0	1
-be	0	0
-on	1	1
-Puget	0	0
-Sound	2	2
-.	NA	NA

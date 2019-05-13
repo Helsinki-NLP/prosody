@@ -1,9 +1,0 @@
-It	0	0
-swelled	2	0
-to	0	0
-a	0	1
-crescendo	1	1
-;	NA	NA
-abruptly	2	0
-ceased	1	2
-.	NA	NA

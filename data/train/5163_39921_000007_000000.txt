@@ -1,4 +1,0 @@
-mr	2	0
-Baxter	0	1
-nodded	1	2
-.	NA	NA

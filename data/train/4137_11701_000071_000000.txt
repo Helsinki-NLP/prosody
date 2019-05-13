@@ -1,5 +1,0 @@
-What	2	1
-do	0	0
-you	0	0
-mean	1	2
-?	NA	NA

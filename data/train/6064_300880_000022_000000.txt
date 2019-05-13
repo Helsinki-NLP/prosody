@@ -1,3 +1,0 @@
-Just	2	1
-this	1	2
-.	NA	NA

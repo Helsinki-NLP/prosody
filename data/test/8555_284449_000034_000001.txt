@@ -1,7 +1,0 @@
-It	2	0
-will	0	0
-be	0	1
-such	2	0
-a	0	1
-satisfaction	2	2
-.	NA	NA

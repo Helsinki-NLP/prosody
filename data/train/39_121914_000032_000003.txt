@@ -1,4 +1,0 @@
-Who	1	0
-cried	1	1
-most	2	2
-?	NA	NA

@@ -1,8 +1,0 @@
-I	2	0
-have	0	1
-told	0	1
-you	0	0
-everything	2	1
-,	NA	NA
-sir	2	2
-.	NA	NA

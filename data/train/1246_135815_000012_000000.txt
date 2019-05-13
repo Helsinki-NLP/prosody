@@ -1,6 +1,0 @@
-Climb	2	1
-!	NA	NA
-exclaimed	1	1
-peter	0	0
-Rabbit	1	2
-.	NA	NA

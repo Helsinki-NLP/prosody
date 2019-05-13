@@ -1,8 +1,0 @@
-Methusalem	2	2
-is	1	0
-a	0	0
-street	0	0
-arab	1	1
-beside	1	0
-Cupid	1	2
-.	NA	NA

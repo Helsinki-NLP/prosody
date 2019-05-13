@@ -1,6 +1,0 @@
-Because	1	0
-it	0	0
-is	0	0
-a	0	2
-gewgaw	1	2
-.	NA	NA

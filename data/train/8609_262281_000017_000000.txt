@@ -1,9 +1,0 @@
-Who	1	0
-told	0	0
-you	0	0
-they	1	0
-were	2	2
-?	NA	NA
-asked	1	0
-Caroline	1	2
-.	NA	NA

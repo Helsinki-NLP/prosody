@@ -1,8 +1,0 @@
-Had	1	0
-we	0	0
-any	2	1
-proof	1	1
-to	0	1
-justify	1	0
-us	0	2
-?	NA	NA

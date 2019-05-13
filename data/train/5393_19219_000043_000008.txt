@@ -1,6 +1,0 @@
-This	2	0
-armchair	0	0
-is	0	0
-for	0	1
-you	2	2
-.	NA	NA

@@ -1,9 +1,0 @@
-I	0	0
-am	2	0
-not	0	1
-hard	1	1
-hearted	1	1
-,	NA	NA
-snapped	0	1
-Beryl	2	2
-.	NA	NA

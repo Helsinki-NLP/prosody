@@ -1,8 +1,0 @@
-The	0	0
-whole	2	0
-thing	0	0
-was	0	0
-a	0	2
-trifle	1	0
-odd	1	2
-.	NA	NA

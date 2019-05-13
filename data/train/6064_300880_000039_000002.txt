@@ -1,5 +1,0 @@
-Refuges	2	0
-furnished	0	1
-to	0	0
-order	2	2
-.	NA	NA

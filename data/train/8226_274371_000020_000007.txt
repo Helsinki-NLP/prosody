@@ -1,7 +1,0 @@
-Charles	2	0
-had	0	1
-here	0	0
-a	0	0
-double	1	1
-advantage	1	2
-.	NA	NA

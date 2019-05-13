@@ -1,4 +1,0 @@
-What	1	0
-a	0	1
-rabble	2	2
-!	NA	NA

@@ -1,9 +1,0 @@
-To	0	0
-each	2	1
-discharge	1	1
-he	0	0
-retorted	2	0
-with	0	0
-a	0	1
-couplet	2	2
-.	NA	NA

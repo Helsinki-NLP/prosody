@@ -1,8 +1,0 @@
-As	2	0
-if	0	1
-he	0	0
-were	1	0
-the	0	0
-only	0	2
-father	2	2
-.	NA	NA

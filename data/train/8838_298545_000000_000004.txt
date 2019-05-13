@@ -1,8 +1,0 @@
-His	1	0
-trouble	2	0
-was	0	2
-deeper	1	0
-and	0	0
-more	1	0
-personal	1	2
-.	NA	NA

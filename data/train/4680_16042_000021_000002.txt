@@ -1,8 +1,0 @@
-This	1	0
-was	0	0
-the	0	1
-situation	2	2
-of	0	0
-Marius'	0	0
-mind	0	2
-.	NA	NA

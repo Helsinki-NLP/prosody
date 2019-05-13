@@ -1,5 +1,0 @@
-It's	0	0
-a	0	0
-good	2	1
-horse	1	2
-.	NA	NA

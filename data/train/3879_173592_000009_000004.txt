@@ -1,8 +1,0 @@
-The	0	0
-Indians	1	1
-,	NA	NA
-too	2	0
-,	NA	NA
-were	0	0
-hostile	1	2
-.	NA	NA

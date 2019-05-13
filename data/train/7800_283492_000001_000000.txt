@@ -1,4 +1,0 @@
-DID	1	1
-TEDDY	1	1
-KNOW	2	2
-?	NA	NA

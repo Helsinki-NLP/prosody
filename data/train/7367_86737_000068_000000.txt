@@ -1,8 +1,0 @@
-On	2	0
-account	0	0
-of	0	1
-the	0	0
-famous	1	1
-Luigi	0	0
-Vampa	2	2
-.	NA	NA

@@ -1,6 +1,0 @@
-Dangerous	2	1
-?	NA	NA
-Ned	1	0
-Land	0	0
-replied	1	2
-.	NA	NA

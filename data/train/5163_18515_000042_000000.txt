@@ -1,5 +1,0 @@
-Oh	2	1
-,	NA	NA
-one	1	0
-more	0	2
-!	NA	NA

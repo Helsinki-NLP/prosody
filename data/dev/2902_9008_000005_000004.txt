@@ -1,5 +1,0 @@
-The	0	1
-oracles	2	1
-are	0	0
-dumb	1	2
-.	NA	NA

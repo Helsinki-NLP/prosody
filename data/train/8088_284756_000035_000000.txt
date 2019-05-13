@@ -1,4 +1,0 @@
-He	0	0
-laughed	0	1
-wildly	2	2
-.	NA	NA

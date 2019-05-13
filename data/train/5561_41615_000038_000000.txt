@@ -1,8 +1,0 @@
-Stop	2	0
-,	NA	NA
-Miss	0	1
-Savell	1	1
-,	NA	NA
-she	0	0
-commanded	1	2
-.	NA	NA

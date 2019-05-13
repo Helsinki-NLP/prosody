@@ -1,4 +1,0 @@
-I	0	0
-stood	1	1
-alone	2	2
-.	NA	NA

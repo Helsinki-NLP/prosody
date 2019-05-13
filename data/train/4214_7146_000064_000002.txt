@@ -1,7 +1,0 @@
-So	1	0
-she	0	0
-said	2	1
-,	NA	NA
-coldly	2	1
-and	0	0
-cruelly	2	2

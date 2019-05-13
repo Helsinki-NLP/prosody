@@ -1,5 +1,0 @@
-I'm	1	0
-afraid	1	0
-he	0	1
-did	2	2
-.	NA	NA

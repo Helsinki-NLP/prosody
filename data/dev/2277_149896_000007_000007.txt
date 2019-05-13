@@ -1,8 +1,0 @@
-How	0	0
-much	2	1
-more	0	1
-pleasant	2	1
-it	0	0
-would	1	0
-be	1	2
-.	NA	NA

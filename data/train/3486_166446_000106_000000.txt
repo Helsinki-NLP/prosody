@@ -1,5 +1,0 @@
-The	0	0
-drums	2	0
-of	0	1
-Doom	2	2
-!	NA	NA

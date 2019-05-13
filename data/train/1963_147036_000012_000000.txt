@@ -1,7 +1,0 @@
-I	2	0
-hope	0	0
-I	0	0
-didn't	0	1
-hurt	2	1
-you	0	2
-?	NA	NA

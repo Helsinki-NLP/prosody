@@ -1,8 +1,0 @@
-And	0	1
-you	0	0
-are	0	0
-right	2	2
-,	NA	NA
-he	0	0
-snapped	2	2
-.	NA	NA

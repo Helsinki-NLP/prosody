@@ -1,6 +1,0 @@
-A	0	0
-stout	2	1
-club	2	1
-for	0	0
-mine	1	2
-.	NA	NA

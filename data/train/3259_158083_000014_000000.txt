@@ -1,2 +1,0 @@
-Fourth	2	1
-Group	0	2

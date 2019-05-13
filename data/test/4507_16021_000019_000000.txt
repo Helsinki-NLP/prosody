@@ -1,4 +1,0 @@
-Who	0	0
-denies	1	1
-that	1	2
-?	NA	NA

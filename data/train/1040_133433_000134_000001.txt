@@ -1,9 +1,0 @@
-What	0	0
-is	2	0
-it	0	1
-?	NA	NA
-he	0	0
-cried	1	0
-,	NA	NA
-shrinking	1	2
-.	NA	NA

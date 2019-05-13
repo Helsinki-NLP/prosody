@@ -1,8 +1,0 @@
-Her	0	0
-intelligence	2	1
-is	0	0
-better	2	1
-than	0	0
-her	0	0
-character	2	2
-.	NA	NA

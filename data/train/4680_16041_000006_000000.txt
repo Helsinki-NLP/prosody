@@ -1,7 +1,0 @@
-He	0	0
-set	2	0
-out	0	0
-at	0	1
-rapid	2	1
-pace	1	2
-.	NA	NA

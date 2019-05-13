@@ -1,7 +1,0 @@
-She	0	0
-looked	0	0
-astonished	2	2
-,	NA	NA
-then	2	0
-reflective	1	2
-.	NA	NA

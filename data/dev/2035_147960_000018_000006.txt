@@ -1,5 +1,0 @@
-Did	0	0
-he	0	0
-fight	2	1
-hard	2	2
-?	NA	NA

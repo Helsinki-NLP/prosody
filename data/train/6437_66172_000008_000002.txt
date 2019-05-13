@@ -1,8 +1,0 @@
-I	2	0
-took	1	1
-ten	2	0
-steps	1	1
-,	NA	NA
-and	0	0
-halted	2	2
-.	NA	NA

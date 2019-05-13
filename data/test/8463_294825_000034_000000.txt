@@ -1,9 +1,0 @@
-CABLE	1	0
-LENGTH	2	0
-In	0	1
-Verne's	0	0
-context	2	1
-,	NA	NA
-six	0	0
-hundred	0	0
-feet	1	2

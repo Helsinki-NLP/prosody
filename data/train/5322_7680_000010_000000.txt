@@ -1,7 +1,0 @@
-'Do	0	0
-you	0	0
-think	0	0
-I	1	0
-am	0	1
-afraid	2	2
-?	NA	NA

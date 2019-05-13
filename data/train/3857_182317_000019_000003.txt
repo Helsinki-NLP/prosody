@@ -1,7 +1,0 @@
-We	2	0
-are	0	1
-trying	0	0
-to	0	0
-use	0	1
-both	2	2
-.	NA	NA

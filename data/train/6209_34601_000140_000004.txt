@@ -1,4 +1,0 @@
-In	1	0
-which	0	1
-direction	1	2
-?	NA	NA

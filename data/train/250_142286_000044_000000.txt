@@ -1,6 +1,0 @@
-'I	1	1
-don't	2	0
-think	0	0
-I	0	1
-do	2	2
-.	NA	NA

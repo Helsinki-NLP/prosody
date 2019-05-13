@@ -1,5 +1,0 @@
-Whom	2	1
-do	0	0
-you	0	0
-suspect	1	2
-?	NA	NA

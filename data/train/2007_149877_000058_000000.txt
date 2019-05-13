@@ -1,9 +1,0 @@
-Oh	2	0
-,	NA	NA
-never	0	0
-mind	0	1
-her	1	1
-,	0	0
-Hurstwood	NA	NA
-remarked	1	2
-.	NA	NA

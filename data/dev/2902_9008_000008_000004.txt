@@ -1,9 +1,0 @@
-Foolish	1	2
-!	NA	NA
-foolish	2	0
-of	0	0
-me	1	0
-,	NA	NA
-a	0	1
-philosopher	2	2
-.	NA	NA

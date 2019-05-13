@@ -1,5 +1,0 @@
-He	0	0
-stood	2	0
-up	0	1
-suddenly	1	2
-.	NA	NA

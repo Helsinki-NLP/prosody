@@ -1,4 +1,0 @@
-Illustration	2	1
-MAIZE	2	0
-PLANT	0	2
-.	NA	NA

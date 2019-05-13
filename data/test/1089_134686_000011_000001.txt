@@ -1,9 +1,0 @@
-Towards	2	0
-others	0	2
-he	0	0
-felt	2	0
-neither	1	1
-shame	1	1
-nor	1	0
-fear	2	2
-.	NA	NA

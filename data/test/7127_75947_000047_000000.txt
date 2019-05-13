@@ -1,6 +1,0 @@
-But	0	0
-surely	2	1
-the	0	0
-enchanting	1	1
-spectacle	2	2
-?	NA	NA

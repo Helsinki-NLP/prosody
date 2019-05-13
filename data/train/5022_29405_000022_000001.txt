@@ -1,5 +1,0 @@
-Charming	2	1
-;	NA	NA
-perfectly	2	0
-charming	0	2
-.	NA	NA

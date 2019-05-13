@@ -1,8 +1,0 @@
-It's	0	1
-going	2	1
-famously	2	1
-to	0	0
-night	0	0
-,	NA	NA
-Mac	2	2
-.	NA	NA

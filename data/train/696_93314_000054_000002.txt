@@ -1,8 +1,0 @@
-Why	2	0
-don't	0	0
-you	0	1
-try	1	0
-a	0	0
-complete	0	1
-change	2	2
-?	NA	NA

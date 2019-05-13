@@ -1,8 +1,0 @@
-At	2	0
-least	0	1
-two	1	0
-are	0	0
-superintendents	1	1
-of	0	0
-schools	2	2
-.	NA	NA

@@ -1,7 +1,0 @@
-Or	2	0
-with	0	1
-me	1	0
-,	NA	NA
-laughed	0	1
-Rebecca	2	2
-.	NA	NA

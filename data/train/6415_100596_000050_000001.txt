@@ -1,7 +1,0 @@
-I	2	0
-didn't	0	2
-see	0	0
-her	0	0
-,	NA	NA
-either	1	2
-.	NA	NA

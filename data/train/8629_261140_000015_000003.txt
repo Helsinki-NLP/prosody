@@ -1,7 +1,0 @@
-But	2	0
-I	0	0
-did	0	1
-not	2	1
-turn	0	0
-away	2	2
-.	NA	NA

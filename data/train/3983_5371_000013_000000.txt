@@ -1,6 +1,0 @@
-Miss	1	0
-Carlyle	1	1
-followed	1	1
-her	0	0
-in	2	2
-.	NA	NA

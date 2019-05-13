@@ -1,8 +1,0 @@
-Twice	2	1
-I	0	0
-was	0	0
-caught	2	0
-and	0	1
-put	0	0
-back	2	2
-.	NA	NA

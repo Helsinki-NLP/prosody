@@ -1,9 +1,0 @@
-But	1	1
-the	0	0
-essence	2	0
-of	0	1
-Luther's	1	0
-lectures	0	0
-is	0	0
-there	2	2
-.	NA	NA

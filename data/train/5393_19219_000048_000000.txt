@@ -1,9 +1,0 @@
-The	1	0
-evening	0	0
-was	2	1
-gay	1	2
-,	NA	NA
-lively	2	0
-and	0	1
-agreeable	1	2
-.	NA	NA

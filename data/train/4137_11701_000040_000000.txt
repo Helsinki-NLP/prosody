@@ -1,6 +1,0 @@
-Belvane	2	1
-made	0	0
-up	0	1
-her	0	0
-mind	1	2
-.	NA	NA

@@ -1,4 +1,0 @@
-Isn't	1	1
-that	1	0
-so	1	2
-?	NA	NA

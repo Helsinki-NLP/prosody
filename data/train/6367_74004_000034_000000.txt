@@ -1,9 +1,0 @@
-Well	2	2
-,	NA	NA
-did	1	0
-you	2	0
-ever	0	1
-?	NA	NA
-said	0	0
-Ruggles	1	2
-.	NA	NA

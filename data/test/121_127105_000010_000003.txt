@@ -1,9 +1,0 @@
-Nothing	2	0
-at	0	1
-all	2	1
-that	0	0
-I	1	0
-know	0	1
-touches	1	1
-it	0	2
-.	NA	NA

@@ -1,7 +1,0 @@
-While	1	0
-they	0	1
-looked	2	1
-they	0	0
-were	1	0
-seen	1	2
-.	NA	NA

@@ -1,8 +1,0 @@
-I	1	0
-have	0	1
-perused	1	0
-a	0	0
-writing	2	2
-,	NA	NA
-entitled	1	1
-Gigan	1	2

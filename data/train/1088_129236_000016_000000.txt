@@ -1,9 +1,0 @@
-Behold	2	1
-there	0	0
-in	0	0
-the	0	0
-wood	2	2
-the	0	0
-fine	1	0
-madman	1	2
-!	NA	NA

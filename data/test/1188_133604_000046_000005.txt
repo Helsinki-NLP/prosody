@@ -1,5 +1,0 @@
-He	0	0
-knows	2	0
-them	0	1
-both	2	2
-.	NA	NA

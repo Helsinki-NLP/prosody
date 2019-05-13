@@ -1,5 +1,0 @@
-They	0	0
-wrote	2	1
-most	1	1
-handsomely	1	2
-.	NA	NA

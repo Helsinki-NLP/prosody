@@ -1,7 +1,0 @@
-The	1	0
-time	1	0
-should	0	0
-have	0	1
-been	1	0
-May	1	2
-.	NA	NA

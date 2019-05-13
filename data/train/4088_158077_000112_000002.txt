@@ -1,8 +1,0 @@
-This	0	0
-tiny	2	0
-flame	0	0
-would	0	1
-scarcely	2	1
-be	0	0
-visible	2	2
-.	NA	NA

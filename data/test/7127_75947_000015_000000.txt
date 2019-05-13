@@ -1,6 +1,0 @@
-You	0	0
-mean	2	2
-Pomona	2	0
-,	NA	NA
-comte	1	2
-?	NA	NA

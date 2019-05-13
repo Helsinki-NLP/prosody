@@ -1,6 +1,0 @@
-Hurried	2	0
-conferences	1	1
-behind	0	0
-closed	1	1
-doors	2	2
-!	NA	NA

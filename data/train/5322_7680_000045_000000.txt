@@ -1,4 +1,0 @@
-Lukashka	2	0
-became	0	1
-confused	1	2
-.	NA	NA

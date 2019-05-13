@@ -1,4 +1,0 @@
-Illustration	2	2
-THE	0	0
-CUCUMBER	2	2
-.	NA	NA

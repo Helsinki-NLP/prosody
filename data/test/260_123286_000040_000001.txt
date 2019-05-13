@@ -1,4 +1,0 @@
-I	1	0
-looked	2	1
-and	0	0
-cried	1	2

@@ -1,5 +1,0 @@
-Oh	2	0
-,	0	1
-mr	NA	NA
-North	2	2
-!	NA	NA

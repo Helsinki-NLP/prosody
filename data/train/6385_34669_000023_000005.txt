@@ -1,9 +1,0 @@
-These	2	0
-vessels	0	1
-had	0	0
-a	0	0
-mast	2	1
-on	1	0
-each	0	0
-deck	2	2
-.	NA	NA

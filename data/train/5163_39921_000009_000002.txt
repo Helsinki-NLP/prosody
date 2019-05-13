@@ -1,9 +1,0 @@
-mr	1	0
-Cropper	2	1
-was	0	0
-opposed	2	1
-to	0	0
-our	0	0
-hiring	1	1
-you	1	2
-.	NA	NA

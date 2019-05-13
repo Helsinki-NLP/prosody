@@ -1,7 +1,0 @@
-Today	2	2
-it	0	0
-was	1	0
-the	0	0
-same	1	0
-affair	1	2
-.	NA	NA

@@ -1,9 +1,0 @@
-Then	2	0
-we	0	0
-will	0	1
-see	0	0
-what	2	0
-can	0	0
-be	0	2
-done	2	2
-.	NA	NA

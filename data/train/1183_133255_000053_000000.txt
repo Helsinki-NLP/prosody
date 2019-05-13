@@ -1,9 +1,0 @@
-AbilenA	2	0
-is	0	1
-America's	0	1
-Only	0	0
-Bottled	2	2
-Natural	2	1
-Cathartic	1	0
-Water	2	2
-.	NA	NA

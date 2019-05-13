@@ -1,4 +1,0 @@
-What	1	0
-was	0	1
-afoot	2	2
-?	NA	NA

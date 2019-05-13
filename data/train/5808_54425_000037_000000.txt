@@ -1,8 +1,0 @@
-I	0	0
-would	2	0
-n't	0	1
-if	0	0
-I	2	0
-were	0	1
-you	1	2
-.	NA	NA

@@ -1,5 +1,0 @@
-Give	1	0
-me	0	0
-her	0	1
-address	2	2
-.	NA	NA

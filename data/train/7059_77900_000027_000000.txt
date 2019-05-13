@@ -1,4 +1,0 @@
-Oh	2	1
-oh	1	0
-decidedly	2	2
-!	NA	NA

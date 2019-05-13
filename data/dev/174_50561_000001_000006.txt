@@ -1,6 +1,0 @@
-But	2	0
-this	0	2
-is	0	0
-a	0	0
-fallacy	2	2
-.	NA	NA

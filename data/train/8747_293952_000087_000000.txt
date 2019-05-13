@@ -1,9 +1,0 @@
-By	0	1
-blackmailing	1	0
-Bernard	2	2
-,	NA	NA
-said	0	0
-Lucy	0	0
-,	NA	NA
-indignantly	1	2
-.	NA	NA

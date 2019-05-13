@@ -1,9 +1,0 @@
-Or	2	0
-whither	0	0
-does	0	1
-your	0	0
-senseless	0	1
-curiosity	2	1
-lead	1	0
-you	0	2
-?	NA	NA

@@ -1,8 +1,0 @@
-He	0	0
-nodded	2	1
-cheerfully	0	1
-,	NA	NA
-then	2	1
-,	NA	NA
-and	0	0
-said	2	2

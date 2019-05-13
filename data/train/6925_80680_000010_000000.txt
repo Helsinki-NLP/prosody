@@ -1,7 +1,0 @@
-'Nonsense	2	1
-!	NA	NA
-'	NA	NA
-snapped	1	1
-the	0	0
-queen	1	2
-.	NA	NA

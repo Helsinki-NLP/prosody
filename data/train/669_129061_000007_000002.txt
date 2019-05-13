@@ -1,4 +1,0 @@
-I'm	2	0
-not	0	1
-drunk	2	2
-.	NA	NA

@@ -1,5 +1,0 @@
-mr	0	0
-North	2	1
-sighed	1	0
-again	2	2
-.	NA	NA

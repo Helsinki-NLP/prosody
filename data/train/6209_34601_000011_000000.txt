@@ -1,5 +1,0 @@
-The	0	0
-mouth	2	0
-was	0	1
-silent	2	2
-.	NA	NA

@@ -1,9 +1,0 @@
-Are	0	0
-you	0	0
-all	1	0
-right	2	2
-?	NA	NA
-Tom	1	0
-asked	0	1
-fearfully	2	2
-.	NA	NA

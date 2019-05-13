@@ -1,4 +1,0 @@
-Perhaps	2	1
-you	0	0
-can	1	2
-.	NA	NA

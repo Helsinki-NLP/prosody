@@ -1,7 +1,0 @@
-But	0	0
-come	0	0
-in	2	2
-,	NA	NA
-come	0	0
-in	2	2
-!	NA	NA

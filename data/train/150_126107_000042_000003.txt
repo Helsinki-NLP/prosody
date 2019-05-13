@@ -1,5 +1,0 @@
-But	2	0
-I	0	0
-don't	0	1
-care	1	2
-.	NA	NA

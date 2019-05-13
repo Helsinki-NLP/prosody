@@ -1,9 +1,0 @@
-Here	2	2
-,	NA	NA
-put	0	0
-my	1	0
-gun	1	0
-in	0	1
-your	0	0
-pocket	2	2
-.	NA	NA

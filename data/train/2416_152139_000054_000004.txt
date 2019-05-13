@@ -1,7 +1,0 @@
-I	0	1
-tell	2	0
-you	0	1
-,	NA	NA
-you	0	0
-lie	2	2
-!	NA	NA

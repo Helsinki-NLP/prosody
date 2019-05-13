@@ -1,7 +1,0 @@
-Maybe	2	0
-you	0	0
-think	1	1
-that	1	0
-interests	1	0
-me	2	2
-.	NA	NA

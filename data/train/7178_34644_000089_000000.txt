@@ -1,9 +1,0 @@
-'tis	2	0
-of	0	0
-little	0	0
-consequence	1	2
-,	NA	NA
-said	1	0
-the	0	0
-sheriff	2	2
-.	NA	NA

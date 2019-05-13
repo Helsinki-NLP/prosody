@@ -1,8 +1,0 @@
-You	1	0
-are	0	0
-not	2	1
-that	1	1
-kind	1	0
-of	0	1
-woman	1	2
-.	NA	NA

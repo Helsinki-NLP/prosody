@@ -1,7 +1,0 @@
-After	1	1
-all	1	1
-why	1	0
-should	0	1
-he	1	0
-care	2	2
-?	NA	NA

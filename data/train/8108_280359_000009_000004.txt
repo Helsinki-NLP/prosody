@@ -1,8 +1,0 @@
-Loki	2	0
-swam	1	0
-backwards	1	0
-and	0	1
-forwards	2	0
-between	0	0
-them	0	2
-.	NA	NA

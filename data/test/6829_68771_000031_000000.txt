@@ -1,5 +1,0 @@
-No	2	0
-,	NA	NA
-Miss	0	1
-Beth	1	2
-.	NA	NA

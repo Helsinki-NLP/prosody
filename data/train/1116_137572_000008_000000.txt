@@ -1,6 +1,0 @@
-What	0	0
-makes	2	0
-a	0	1
-successful	0	0
-marriage	1	2
-?	NA	NA

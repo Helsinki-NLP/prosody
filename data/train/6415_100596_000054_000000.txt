@@ -1,7 +1,0 @@
-It's	0	1
-positively	0	0
-uncanny	2	2
-!	NA	NA
-Priscilla	1	0
-declared	0	2
-.	NA	NA

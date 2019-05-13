@@ -1,3 +1,0 @@
-Very	1	0
-good	2	2
-.	NA	NA

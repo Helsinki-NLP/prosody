@@ -1,7 +1,0 @@
-It	1	0
-was	2	1
-about	1	0
-half	1	1
-past	1	1
-four	1	2
-.	NA	NA

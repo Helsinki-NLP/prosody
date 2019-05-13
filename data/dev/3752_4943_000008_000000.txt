@@ -1,4 +1,0 @@
-But	1	0
-,	0	1
-mr	2	2
-Troke	NA	NA

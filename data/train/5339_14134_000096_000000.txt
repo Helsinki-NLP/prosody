@@ -1,6 +1,0 @@
-'Good	0	0
-by	2	1
-,	NA	NA
-Philip	1	2
-!	NA	NA
-'	NA	NA

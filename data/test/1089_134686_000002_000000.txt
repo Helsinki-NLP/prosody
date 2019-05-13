@@ -1,8 +1,0 @@
-It	1	0
-would	0	0
-be	0	1
-a	0	0
-gloomy	2	1
-secret	2	1
-night	2	2
-.	NA	NA

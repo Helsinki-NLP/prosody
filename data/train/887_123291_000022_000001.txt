@@ -1,8 +1,0 @@
-The	0	1
-unlucky	1	0
-word	2	1
-would	0	0
-not	1	1
-come	0	0
-out	1	2
-.	NA	NA

@@ -1,6 +1,0 @@
-And	2	0
-one	1	0
-more	1	1
-this	0	0
-morning	1	2
-.	NA	NA

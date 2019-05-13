@@ -1,8 +1,0 @@
-You	0	0
-do	0	0
-not	1	1
-mean	0	0
-what	0	0
-you	0	2
-say	2	2
-?	NA	NA

@@ -1,9 +1,0 @@
-Certainly	2	0
-,	NA	NA
-of	0	1
-course	2	1
-,	NA	NA
-screamed	0	0
-the	0	0
-Jackdaw	1	2
-.	NA	NA

@@ -1,4 +1,0 @@
-I	0	0
-looked	0	1
-down	2	2
-.	NA	NA

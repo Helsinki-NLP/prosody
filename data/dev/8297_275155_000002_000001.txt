@@ -1,4 +1,0 @@
-Keep	0	1
-Your	1	0
-Temper	2	2
-.	NA	NA

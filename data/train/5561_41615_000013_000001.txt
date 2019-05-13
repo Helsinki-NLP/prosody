@@ -1,8 +1,0 @@
-It	0	0
-was	2	2
-she	0	0
-stopped	2	1
-,	NA	NA
-then	0	0
-flushed	1	2
-.	NA	NA

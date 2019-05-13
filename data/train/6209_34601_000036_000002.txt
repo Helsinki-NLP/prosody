@@ -1,5 +1,0 @@
-The	0	1
-gaping	1	1
-jaws	1	1
-appeared	2	2
-.	NA	NA

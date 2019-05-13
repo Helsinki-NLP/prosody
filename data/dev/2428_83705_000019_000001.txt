@@ -1,8 +1,0 @@
-I	2	0
-shall	0	1
-do	0	0
-nothing	2	0
-of	0	1
-the	0	0
-kind	2	2
-.	NA	NA

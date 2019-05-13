@@ -1,7 +1,0 @@
-I	1	0
-thought	2	0
-you	0	1
-were	0	0
-Count	0	1
-Ferralti	2	2
-.	NA	NA

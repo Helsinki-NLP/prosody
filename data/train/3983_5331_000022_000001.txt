@@ -1,4 +1,0 @@
-At	1	0
-West	0	1
-Lynne	1	2
-!	NA	NA

@@ -1,6 +1,0 @@
-Not	2	1
-that	0	0
-I	2	1
-know	0	0
-of	2	2
-.	NA	NA

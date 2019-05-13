@@ -1,8 +1,0 @@
-I	2	0
-didn't	0	0
-expect	1	1
-to	0	0
-find	2	0
-him	0	1
-yet	2	2
-.	NA	NA

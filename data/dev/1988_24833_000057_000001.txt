@@ -1,5 +1,0 @@
-Congratulations	1	1
-!	NA	NA
-he	0	0
-says	2	2
-.	NA	NA

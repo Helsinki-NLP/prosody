@@ -1,8 +1,0 @@
-Billy	2	0
-lifted	0	1
-her	0	0
-chin	1	0
-the	0	0
-least	0	1
-bit	2	2
-.	NA	NA

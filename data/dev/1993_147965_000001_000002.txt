@@ -1,7 +1,0 @@
-Morning	2	1
-prayers	1	1
-were	0	0
-longer	0	1
-than	0	0
-usual	2	2
-.	NA	NA

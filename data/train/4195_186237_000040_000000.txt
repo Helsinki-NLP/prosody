@@ -1,6 +1,0 @@
-Uncle	0	0
-john	2	0
-looked	0	1
-around	0	1
-curiously	2	2
-.	NA	NA

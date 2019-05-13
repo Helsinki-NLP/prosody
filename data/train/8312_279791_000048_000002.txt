@@ -1,9 +1,0 @@
-Next	2	0
-day	1	2
-,	NA	NA
-Florina	2	0
-was	0	0
-in	0	1
-great	1	0
-disquietude	2	2
-.	NA	NA

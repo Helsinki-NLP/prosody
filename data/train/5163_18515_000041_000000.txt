@@ -1,4 +1,0 @@
-Jasper	2	1
-looked	0	0
-up	0	2
-.	NA	NA

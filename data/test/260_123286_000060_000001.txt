@@ -1,7 +1,0 @@
-The	0	0
-struggle	1	0
-continues	0	2
-with	0	0
-unabated	1	0
-ferocity	1	2
-.	NA	NA

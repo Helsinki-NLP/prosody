@@ -1,6 +1,0 @@
-'No	2	1
-,	NA	NA
-no	1	0
-,	NA	NA
-Frederick	0	2
-!	NA	NA

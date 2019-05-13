@@ -1,6 +1,0 @@
-I	0	0
-wanted	2	1
-to	0	0
-see	1	0
-you	0	2
-.	NA	NA

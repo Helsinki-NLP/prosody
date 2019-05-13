@@ -1,5 +1,0 @@
-It	0	0
-shows	2	1
-too	0	0
-much	1	2
-!	NA	NA

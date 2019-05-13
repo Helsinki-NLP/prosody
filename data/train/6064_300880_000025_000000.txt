@@ -1,9 +1,0 @@
-Then	0	0
-why	0	0
-not	2	1
-fool	1	0
-him	0	1
-by	1	0
-coming	0	0
-in	1	2
-?	NA	NA

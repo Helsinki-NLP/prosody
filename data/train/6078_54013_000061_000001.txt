@@ -1,6 +1,0 @@
-Rap	2	1
-!	NA	NA
-tap	1	0
-!	NA	NA
-tap	1	2
-!	NA	NA

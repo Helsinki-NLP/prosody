@@ -1,9 +1,0 @@
-Go	0	0
-ahead	2	0
-,	NA	NA
-then	1	1
-!	NA	NA
-Commander	0	0
-Farragut	1	1
-called	2	2
-.	NA	NA

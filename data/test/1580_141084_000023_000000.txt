@@ -1,9 +1,0 @@
-He	0	0
-looked	2	1
-at	0	0
-us	0	0
-in	0	1
-a	0	0
-queer	0	0
-way	1	2
-.	NA	NA

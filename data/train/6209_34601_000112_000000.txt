@@ -1,9 +1,0 @@
-He	0	0
-swallowed	2	1
-some	0	1
-mouthfuls	1	2
-and	0	0
-made	1	0
-a	0	1
-grimace	1	2
-.	NA	NA

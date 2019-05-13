@@ -1,4 +1,0 @@
-The	0	0
-lesser	2	1
-portion	1	2
-.	NA	NA

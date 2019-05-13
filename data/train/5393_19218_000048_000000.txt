@@ -1,4 +1,0 @@
-Here	2	0
-is	0	1
-their	0	0
-dialogue	0	2

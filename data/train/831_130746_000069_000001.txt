@@ -1,4 +1,0 @@
-MY	1	0
-Christian	1	1
-name	2	2
-.	NA	NA

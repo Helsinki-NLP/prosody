@@ -1,7 +1,0 @@
-mrs	1	0
-Presty	0	1
-recovered	1	1
-all	2	0
-her	0	0
-audacity	1	2
-.	NA	NA

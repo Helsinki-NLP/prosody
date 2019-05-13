@@ -1,8 +1,0 @@
-Just	2	0
-see	1	0
-the	0	1
-way	1	0
-you	0	1
-treat	1	1
-Julia	1	2
-.	NA	NA

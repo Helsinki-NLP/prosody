@@ -1,8 +1,0 @@
-That	2	2
-being	2	0
-over	0	0
-there	1	1
-abuses	2	0
-my	0	1
-hospitality	2	2
-.	NA	NA

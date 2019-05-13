@@ -1,7 +1,0 @@
-Bill	1	0
-Conway	2	1
-we	0	0
-hated	1	1
-for	0	0
-himself	2	2
-.	NA	NA

@@ -1,6 +1,0 @@
-Why	1	0
-not	2	1
-?	NA	NA
-bristled	0	0
-Patty	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-Neither	0	0
-moon	1	1
-nor	0	0
-stars	2	2
-pierced	2	1
-the	0	0
-gloom	2	2
-.	NA	NA

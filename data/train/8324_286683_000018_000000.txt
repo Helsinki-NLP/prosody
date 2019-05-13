@@ -1,4 +1,0 @@
-Oh	1	0
-,	NA	NA
-yes	2	2
-.	NA	NA

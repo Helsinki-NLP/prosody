@@ -1,9 +1,0 @@
-Protect	1	1
-,	NA	NA
-guard	2	1
-,	NA	NA
-cherish	2	2
-.	NA	NA
-.	NA	NA
-.	NA	NA
-.	NA	NA

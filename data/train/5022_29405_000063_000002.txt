@@ -1,9 +1,0 @@
-mr	2	0
-Toller	2	0
-went	0	1
-on	2	0
-with	0	0
-his	0	2
-questions	0	0
-immediately	2	2
-.	NA	NA

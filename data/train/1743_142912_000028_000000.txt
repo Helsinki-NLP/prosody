@@ -1,6 +1,0 @@
-Snake	1	0
-skins	1	1
-,	NA	NA
-replied	1	0
-peter	1	2
-.	NA	NA

@@ -1,7 +1,0 @@
-She	2	0
-has	0	0
-made	1	0
-me	0	1
-miserable	1	0
-forever	1	2
-!	NA	NA

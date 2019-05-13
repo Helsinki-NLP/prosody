@@ -1,8 +1,0 @@
-The	0	0
-lad	2	0
-did	0	1
-not	1	0
-answer	0	0
-at	0	1
-once	1	2
-.	NA	NA

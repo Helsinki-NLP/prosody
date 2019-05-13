@@ -1,6 +1,0 @@
-This	2	0
-repairs	1	1
-the	0	0
-wounded	0	0
-affection	1	2
-.	NA	NA

@@ -1,8 +1,0 @@
-I	0	0
-shared	2	1
-the	0	0
-same	1	1
-fate	1	1
-at	0	0
-Aquapendente	2	2
-.	NA	NA

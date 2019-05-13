@@ -1,5 +1,0 @@
-Everybody	0	1
-is	0	0
-against	2	0
-me	1	2
-!	NA	NA

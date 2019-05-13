@@ -1,4 +1,0 @@
-To	1	1
-fly	0	0
-with	1	2
-?	NA	NA

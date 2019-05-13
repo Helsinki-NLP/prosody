@@ -1,5 +1,0 @@
-Three	1	0
-o'clock	2	1
-then	0	0
-sounded	2	2
-.	NA	NA

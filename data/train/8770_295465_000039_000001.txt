@@ -1,7 +1,0 @@
-I'm	1	0
-tired	2	2
-tired	2	0
-of	0	1
-playing	0	0
-alone	1	2
-.	NA	NA

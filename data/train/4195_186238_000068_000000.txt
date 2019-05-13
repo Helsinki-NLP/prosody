@@ -1,5 +1,0 @@
-No	0	0
-,	NA	NA
-my	0	1
-dear	2	2
-.	NA	NA

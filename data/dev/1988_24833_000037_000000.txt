@@ -1,4 +1,0 @@
-It's	0	1
-your	1	1
-fault	2	2
-!	NA	NA

@@ -1,6 +1,0 @@
-Lovely	2	1
-flowers	1	0
-,	NA	NA
-aren't	0	1
-they	2	2
-?	NA	NA

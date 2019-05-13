@@ -1,8 +1,0 @@
-Shall	1	0
-I	0	0
-ring	0	0
-up	0	1
-for	1	0
-a	0	1
-messenger	2	2
-?	NA	NA

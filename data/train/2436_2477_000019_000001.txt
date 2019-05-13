@@ -1,7 +1,0 @@
-By	1	0
-the	0	1
-stars	2	1
-,	NA	NA
-what	0	0
-else	2	2
-?	NA	NA

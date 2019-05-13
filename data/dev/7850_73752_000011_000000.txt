@@ -1,9 +1,0 @@
-'Is	0	0
-papa	0	0
-alone	2	2
-?	NA	NA
-'	NA	NA
-enquired	1	0
-Miss	0	1
-Temple	1	2
-.	NA	NA

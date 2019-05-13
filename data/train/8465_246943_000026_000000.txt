@@ -1,7 +1,0 @@
-Let	2	0
-her	0	0
-come	2	0
-then	0	1
-,	NA	NA
-Poldie	2	2
-!	NA	NA

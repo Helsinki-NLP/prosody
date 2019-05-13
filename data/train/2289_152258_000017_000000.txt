@@ -1,7 +1,0 @@
-Mohammed	2	0
-was	0	1
-very	2	0
-earnest	0	1
-and	0	0
-serious	1	2
-.	NA	NA

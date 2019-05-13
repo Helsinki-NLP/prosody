@@ -1,9 +1,0 @@
-I	2	0
-remember	0	0
-now	1	2
-,	NA	NA
-and	1	0
-I	0	0
-congratulate	1	0
-myself	2	2
-.	NA	NA

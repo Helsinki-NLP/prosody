@@ -1,7 +1,0 @@
-Others	2	0
-were	0	1
-selling	1	0
-doves	0	1
-for	0	0
-sacrifice	1	2
-.	NA	NA

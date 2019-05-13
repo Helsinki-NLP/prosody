@@ -1,5 +1,0 @@
-It	1	0
-would	0	0
-not	2	1
-do	2	2
-.	NA	NA

@@ -1,4 +1,0 @@
-That	1	0
-of	0	1
-Time	2	2
-.	NA	NA

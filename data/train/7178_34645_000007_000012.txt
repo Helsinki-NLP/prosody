@@ -1,4 +1,0 @@
-Observe	2	0
-the	0	1
-design	1	2
-!	NA	NA

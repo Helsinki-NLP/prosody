@@ -1,6 +1,0 @@
-A	0	0
-balance	2	0
-with	0	1
-false	1	0
-weights	2	2
-.	NA	NA

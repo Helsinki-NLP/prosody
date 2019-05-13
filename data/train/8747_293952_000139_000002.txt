@@ -1,4 +1,0 @@
-Don't	1	1
-forget	2	0
-me	1	2
-.	NA	NA

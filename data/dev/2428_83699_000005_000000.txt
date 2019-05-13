@@ -1,3 +1,0 @@
-THE	0	0
-PROMISE	2	2
-.	NA	NA

@@ -1,9 +1,0 @@
-mount	1	1
-Rainier	2	2
-looked	0	1
-bigger	2	0
-and	0	1
-taller	1	0
-than	0	0
-ever	0	2
-.	NA	NA

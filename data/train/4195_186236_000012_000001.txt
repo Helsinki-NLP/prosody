@@ -1,5 +1,0 @@
-She	0	1
-felt	0	0
-wonderfully	1	0
-relieved	1	2
-.	NA	NA

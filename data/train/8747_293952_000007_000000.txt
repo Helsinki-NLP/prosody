@@ -1,8 +1,0 @@
-Is	1	0
-she	0	1
-cheerful	2	2
-?	NA	NA
-asked	1	0
-Lucy	0	0
-languidly	1	2
-.	NA	NA

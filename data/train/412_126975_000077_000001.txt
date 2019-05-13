@@ -1,7 +1,0 @@
-I	0	0
-must	2	1
-run	2	0
-after	0	1
-the	0	0
-criminal	2	2
-.	NA	NA

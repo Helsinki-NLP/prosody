@@ -1,6 +1,0 @@
-They	0	0
-were	0	0
-always	2	2
-slow	2	0
-children	0	2
-.	NA	NA

@@ -1,9 +1,0 @@
-For	0	0
-the	0	0
-first	2	0
-time	1	2
-mrs	2	0
-Presty	0	1
-became	1	1
-serious	2	2
-.	NA	NA

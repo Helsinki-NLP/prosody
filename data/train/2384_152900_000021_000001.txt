@@ -1,8 +1,0 @@
-I	1	0
-have	0	0
-already	1	0
-spoken	2	0
-of	0	1
-the	0	0
-pemmican	2	2
-.	NA	NA

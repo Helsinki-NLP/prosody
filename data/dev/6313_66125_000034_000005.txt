@@ -1,7 +1,0 @@
-I	2	0
-don't	0	1
-dare	1	0
-try	0	0
-any	0	1
-experiments	2	2
-.	NA	NA

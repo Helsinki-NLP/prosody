@@ -1,3 +1,0 @@
-Mabel	2	0
-leaned	0	1
-forward	2	2

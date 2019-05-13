@@ -1,9 +1,0 @@
-They	1	0
-are	0	1
-confused	2	2
-they	2	0
-are	0	0
-triumphant	1	0
-at	0	1
-present	2	2
-.	NA	NA

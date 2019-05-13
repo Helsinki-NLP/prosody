@@ -1,5 +1,0 @@
-I	2	0
-will	0	1
-tell	1	1
-him	0	2
-.	NA	NA

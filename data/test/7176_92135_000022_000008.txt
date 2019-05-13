@@ -1,3 +1,0 @@
-Hamlet	1	1
-speaking	1	2
-.	NA	NA

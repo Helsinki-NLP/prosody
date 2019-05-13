@@ -1,7 +1,0 @@
-Do	0	0
-you	0	1
-call	0	0
-yourself	1	0
-a	0	2
-Christian	2	2
-?	NA	NA

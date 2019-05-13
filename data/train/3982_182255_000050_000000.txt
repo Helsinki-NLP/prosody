@@ -1,6 +1,0 @@
-Outrageous	2	1
-!	NA	NA
-said	0	0
-mr	0	0
-Furlong	1	2
-.	NA	NA

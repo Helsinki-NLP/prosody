@@ -1,7 +1,0 @@
-They	2	0
-had	0	0
-assumed	1	1
-an	1	1
-untenable	2	1
-position	1	2
-.	NA	NA

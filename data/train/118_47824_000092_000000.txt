@@ -1,3 +1,0 @@
-Doctor	1	1
-Groom	1	2
-?	NA	NA

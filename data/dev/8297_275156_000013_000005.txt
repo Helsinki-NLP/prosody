@@ -1,6 +1,0 @@
-No	2	0
-more	1	1
-of	0	1
-it	0	0
-now	2	2
-.	NA	NA

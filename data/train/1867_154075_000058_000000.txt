@@ -1,8 +1,0 @@
-Only	0	0
-one	1	2
-I'm	2	0
-acting	0	0
-as	0	1
-his	0	0
-agent	1	2
-.	NA	NA

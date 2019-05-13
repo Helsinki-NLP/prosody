@@ -1,6 +1,0 @@
-It	0	0
-is	0	0
-almost	1	0
-two	0	1
-now	2	2
-.	NA	NA

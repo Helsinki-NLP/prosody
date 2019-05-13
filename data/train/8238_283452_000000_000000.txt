@@ -1,6 +1,0 @@
-This	2	0
-is	0	1
-a	0	0
-LibriVox	2	1
-recording	2	2
-.	NA	NA

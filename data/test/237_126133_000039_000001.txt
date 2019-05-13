@@ -1,3 +1,0 @@
-Bark	2	2
-!	NA	NA
-'	NA	NA

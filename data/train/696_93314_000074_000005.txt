@@ -1,7 +1,0 @@
-He	0	0
-wanted	2	0
-you	0	1
-to	0	0
-get	1	1
-killed	2	2
-.	NA	NA

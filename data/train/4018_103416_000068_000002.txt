@@ -1,9 +1,0 @@
-But	0	0
-you're	1	1
-worrying	1	0
-yourself	1	2
-for	0	0
-nothing	2	0
-,	NA	NA
-mother	1	2
-.	NA	NA

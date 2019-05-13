@@ -1,9 +1,0 @@
-Immediately	2	0
-the	0	1
-Boolooroo	1	1
-flew	1	1
-into	0	0
-another	1	1
-towering	1	0
-rage	2	2
-.	NA	NA

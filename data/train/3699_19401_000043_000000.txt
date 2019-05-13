@@ -1,6 +1,0 @@
-I	0	0
-rest	2	2
-thy	1	0
-affectionate	0	0
-brother	1	2
-,	NA	NA

@@ -1,6 +1,0 @@
-A	0	0
-handsome	2	0
-price	1	0
-it	0	1
-was	2	2
-.	NA	NA

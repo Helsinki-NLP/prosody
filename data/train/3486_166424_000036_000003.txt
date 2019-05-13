@@ -1,9 +1,0 @@
-Hope	1	0
-to	0	1
-God	2	0
-I	0	1
-judged	2	2
-the	0	0
-time	2	1
-right	1	2
-.	NA	NA

@@ -1,6 +1,0 @@
-I	2	0
-believe	1	0
-it	0	0
-is	0	1
-loaded	2	2
-.	NA	NA

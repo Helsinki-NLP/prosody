@@ -1,4 +1,0 @@
-matthew	2	0
-Cuthbert	1	1
-is	0	0
-surprised	1	2

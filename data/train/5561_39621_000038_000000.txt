@@ -1,6 +1,0 @@
-The	2	0
-window	0	0
-was	0	0
-instantly	0	1
-closed	2	2
-.	NA	NA

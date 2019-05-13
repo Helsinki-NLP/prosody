@@ -1,4 +1,0 @@
-Come	0	1
-back	2	0
-here	1	2
-!	NA	NA

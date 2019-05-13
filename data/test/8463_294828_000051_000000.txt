@@ -1,6 +1,0 @@
-The	0	0
-same	2	0
-,	NA	NA
-I	0	1
-replied	2	2
-.	NA	NA

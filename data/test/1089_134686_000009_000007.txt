@@ -1,7 +1,0 @@
-Devotion	2	1
-had	0	0
-gone	1	0
-by	0	0
-the	0	1
-board	2	2
-.	NA	NA

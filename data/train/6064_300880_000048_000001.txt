@@ -1,8 +1,0 @@
-Butt	2	0
-in	0	0
-on	1	0
-a	0	1
-double	1	0
-bridal	0	1
-tour	0	2
-?	NA	NA

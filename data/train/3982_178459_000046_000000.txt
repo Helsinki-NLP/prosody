@@ -1,7 +1,0 @@
-No	2	0
-!	NA	NA
-he	0	1
-said	0	0
-,	NA	NA
-quickly	0	2
-.	NA	NA

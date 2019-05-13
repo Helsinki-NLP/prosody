@@ -1,5 +1,0 @@
-Vive	0	0
-le	0	1
-Roi	2	2
-!	NA	NA
-'	NA	NA

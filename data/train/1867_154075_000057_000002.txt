@@ -1,5 +1,0 @@
-Now	1	0
-what	0	0
-about	1	1
-Caroline	2	2
-?	NA	NA

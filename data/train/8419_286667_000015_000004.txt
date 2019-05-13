@@ -1,6 +1,0 @@
-He	0	1
-pitied	2	0
-short	1	0
-necked	1	1
-people	2	2
-.	NA	NA

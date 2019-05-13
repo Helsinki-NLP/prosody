@@ -1,9 +1,0 @@
-Joyce	2	1
-!	NA	NA
-he	0	0
-said	0	0
-,	NA	NA
-stupidly	1	1
-,	NA	NA
-unbelievingly	1	2
-.	NA	NA

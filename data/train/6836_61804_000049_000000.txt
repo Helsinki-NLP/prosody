@@ -1,7 +1,0 @@
-You	0	1
-may	1	0
-not	0	0
-often	2	1
-see	2	0
-him	0	2
-.	NA	NA

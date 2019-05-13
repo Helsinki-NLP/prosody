@@ -1,6 +1,0 @@
-Shall	1	0
-you	0	2
-wear	1	0
-yellow	0	0
-gowns	2	2
-?	NA	NA

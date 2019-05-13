@@ -1,5 +1,0 @@
-So	2	0
-that	0	1
-day	0	0
-passed	1	2
-.	NA	NA

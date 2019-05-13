@@ -1,7 +1,0 @@
-One	2	1
-is	0	0
-sufficient	1	1
-for	1	0
-a	0	0
-queen	2	2
-.	NA	NA

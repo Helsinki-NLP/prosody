@@ -1,7 +1,0 @@
-This	2	0
-was	0	1
-too	0	0
-much	2	1
-for	0	0
-her	1	2
-.	NA	NA

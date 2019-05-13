@@ -1,9 +1,0 @@
-By	2	0
-the	0	1
-by	0	0
-,	NA	NA
-how	2	2
-did	2	0
-that	0	0
-happen	1	2
-?	NA	NA

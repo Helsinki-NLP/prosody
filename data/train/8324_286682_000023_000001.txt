@@ -1,7 +1,0 @@
-Now	2	0
-try	0	0
-it	0	1
-,	NA	NA
-said	0	0
-he	1	2
-.	NA	NA

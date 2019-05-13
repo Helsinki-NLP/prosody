@@ -1,7 +1,0 @@
-Udo	1	0
-dropped	1	1
-undecidedly	2	1
-into	0	0
-a	0	0
-seat	1	2
-.	NA	NA

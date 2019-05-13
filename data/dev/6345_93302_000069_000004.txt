@@ -1,8 +1,0 @@
-Go	2	0
-home	0	0
-and	0	2
-gloat	2	1
-over	0	0
-it	0	0
-all	2	2
-!	NA	NA

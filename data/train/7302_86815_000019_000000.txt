@@ -1,5 +1,0 @@
-A	1	0
-cup	0	0
-of	0	1
-chocolate	2	2
-.	NA	NA

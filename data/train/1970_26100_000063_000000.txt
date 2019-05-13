@@ -1,8 +1,0 @@
-Are	2	0
-you	0	0
-sure	0	0
-of	1	2
-that	1	1
-,	NA	NA
-George	1	2
-?	NA	NA

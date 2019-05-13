@@ -1,7 +1,0 @@
-Give	2	0
-me	0	0
-a	0	1
-glass	2	1
-of	0	0
-wine	2	2
-.	NA	NA

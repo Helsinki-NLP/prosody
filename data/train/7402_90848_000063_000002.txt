@@ -1,8 +1,0 @@
-The	0	0
-blade	1	1
-broke	2	0
-upon	0	0
-his	0	1
-steely	0	0
-scales	1	2
-.	NA	NA

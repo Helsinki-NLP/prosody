@@ -1,9 +1,0 @@
-It	0	0
-had	0	0
-a	0	0
-roof	1	2
-it	0	0
-was	1	0
-a	0	1
-dwelling	1	2
-.	NA	NA

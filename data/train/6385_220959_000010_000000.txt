@@ -1,5 +1,0 @@
-seventeen	2	2
-THE	0	0
-BIRTH	2	0
-OF	0	1
-CHRIST	1	2

@@ -1,6 +1,0 @@
-So	1	0
-it	0	1
-seems	0	0
-to	0	1
-me	2	2
-.	NA	NA

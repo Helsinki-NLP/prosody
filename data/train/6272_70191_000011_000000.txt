@@ -1,5 +1,0 @@
-Because	1	0
-I	0	0
-have	0	1
-tried	1	2
-.	NA	NA

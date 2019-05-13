@@ -1,6 +1,0 @@
-I	1	0
-know	2	2
-!	NA	NA
-he	0	0
-panted	0	2
-.	NA	NA

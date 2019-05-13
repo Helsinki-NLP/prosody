@@ -1,7 +1,0 @@
-I	0	1
-dare	2	0
-you	0	1
-!	NA	NA
-he	0	0
-said	1	2
-.	NA	NA

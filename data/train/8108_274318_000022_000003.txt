@@ -1,8 +1,0 @@
-And	0	1
-all	2	0
-the	0	0
-while	1	0
-Smoke	0	1
-meowed	1	1
-piteously	2	2
-.	NA	NA

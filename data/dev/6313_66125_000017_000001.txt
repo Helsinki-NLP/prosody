@@ -1,9 +1,0 @@
-All	2	0
-I	0	0
-can	0	1
-see	0	0
-is	0	0
-rocks	2	1
-and	0	0
-shadows	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-The	0	0
-ones	2	0
-who	0	1
-have	0	0
-any	0	1
-imagination	1	1
-do	2	2
-.	NA	NA

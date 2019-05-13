@@ -1,6 +1,0 @@
-Hilda	0	0
-shivered	1	2
-and	0	0
-sat	1	0
-still	2	2
-.	NA	NA

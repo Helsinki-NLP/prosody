@@ -1,9 +1,0 @@
-Grandmother	1	0
-noticed	2	2
-that	0	0
-she	1	1
-seemed	0	0
-troubled	2	0
-and	0	1
-distracted	1	2
-.	NA	NA

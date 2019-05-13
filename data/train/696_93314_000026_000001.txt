@@ -1,9 +1,0 @@
-No	2	0
-office	0	1
-in	0	0
-the	0	0
-world	2	1
-would	0	0
-insure	1	0
-you	0	2
-.	NA	NA

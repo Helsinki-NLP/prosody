@@ -1,8 +1,0 @@
-The	0	0
-pony	2	0
-carriage	0	1
-is	0	0
-wretched	2	1
-for	0	0
-three	1	2
-.	NA	NA

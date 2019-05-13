@@ -1,6 +1,0 @@
-Folks	2	0
-are	0	1
-going	0	0
-in	0	0
-now	0	2
-.	NA	NA

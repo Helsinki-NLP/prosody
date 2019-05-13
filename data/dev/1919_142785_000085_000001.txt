@@ -1,9 +1,0 @@
-Continue	0	0
-pounding	2	2
-till	1	0
-the	0	0
-whole	2	0
-is	0	1
-nicely	1	0
-amalgamated	1	2
-.	NA	NA

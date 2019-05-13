@@ -1,7 +1,0 @@
-A	0	0
-handsome	2	1
-likeness	2	0
-!	NA	NA
-said	0	1
-Pittrino	2	2
-.	NA	NA

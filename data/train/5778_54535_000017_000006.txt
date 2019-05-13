@@ -1,5 +1,0 @@
-Whistler	2	0
-won	1	0
-the	0	1
-case	1	2
-.	NA	NA

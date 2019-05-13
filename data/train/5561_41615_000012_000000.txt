@@ -1,9 +1,0 @@
-And	1	0
-did	0	0
-you	0	1
-sign	2	1
-it	0	0
-?	NA	NA
-asked	1	1
-Jessica	2	2
-.	NA	NA

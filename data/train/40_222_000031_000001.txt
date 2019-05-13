@@ -1,5 +1,0 @@
-They	2	0
-live	0	0
-at	0	1
-Putney	2	2
-.	NA	NA

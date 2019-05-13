@@ -1,4 +1,0 @@
-January	2	0
-the	0	1
-seventeenth	2	2
-.	NA	NA

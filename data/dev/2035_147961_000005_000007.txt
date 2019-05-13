@@ -1,8 +1,0 @@
-Up	2	0
-there	2	0
-the	0	1
-stars	1	1
-grew	0	0
-magnificently	0	0
-bright	1	2
-.	NA	NA

@@ -1,8 +1,0 @@
-How	2	0
-high	1	1
-up	1	1
-are	1	0
-we	0	1
-,	NA	NA
-Tom	2	2
-?	NA	NA

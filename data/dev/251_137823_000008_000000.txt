@@ -1,6 +1,0 @@
-Good	1	0
-grief	2	1
-!	NA	NA
-Bud	1	0
-exclaimed	1	2
-.	NA	NA

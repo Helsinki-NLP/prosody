@@ -1,7 +1,0 @@
-Always	2	1
-frogs	2	0
-a	0	1
-few	0	0
-months	0	0
-old	1	2
-.	NA	NA

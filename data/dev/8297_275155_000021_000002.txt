@@ -1,7 +1,0 @@
-I	2	0
-am	0	1
-put	0	0
-on	0	0
-my	1	1
-defense	2	2
-.	NA	NA

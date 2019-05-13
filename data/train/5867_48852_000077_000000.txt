@@ -1,9 +1,0 @@
-Good	0	0
-by	2	0
-,	0	1
-mrs	NA	NA
-Dale	2	1
-,	NA	NA
-he	0	0
-said	2	2
-.	NA	NA

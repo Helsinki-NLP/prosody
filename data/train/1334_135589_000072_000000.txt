@@ -1,9 +1,0 @@
-But	1	1
-why	2	0
-should	0	1
-you	0	0
-say	2	0
-so	0	1
-,	NA	NA
-Humphrey	1	2
-?	NA	NA

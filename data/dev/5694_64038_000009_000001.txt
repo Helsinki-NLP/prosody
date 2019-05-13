@@ -1,8 +1,0 @@
-But	0	0
-we	2	0
-always	0	1
-flanked	2	2
-these	0	0
-little	0	1
-affairs	1	2
-.	NA	NA

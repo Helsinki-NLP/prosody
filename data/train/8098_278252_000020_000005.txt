@@ -1,9 +1,0 @@
-I	0	0
-shouted	2	1
-several	0	0
-times	2	1
-before	0	0
-the	0	0
-rig	0	0
-stopped	2	2
-.	NA	NA

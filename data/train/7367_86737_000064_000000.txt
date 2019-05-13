@@ -1,7 +1,0 @@
-Well	2	2
-,	NA	NA
-this	1	0
-route	0	0
-is	0	1
-impossible	2	2
-.	NA	NA

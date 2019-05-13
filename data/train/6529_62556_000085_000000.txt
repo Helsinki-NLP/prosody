@@ -1,3 +1,0 @@
-Herbert	1	0
-wounded	1	2
-.	NA	NA

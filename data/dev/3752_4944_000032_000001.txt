@@ -1,5 +1,0 @@
-I	2	0
-wouldn't	0	1
-trust	1	0
-him	0	2
-.	NA	NA

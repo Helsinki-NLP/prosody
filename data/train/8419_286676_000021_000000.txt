@@ -1,8 +1,0 @@
-Most	2	0
-of	0	0
-them	1	2
-,	NA	NA
-remarked	2	1
-the	0	0
-Turtles	2	2
-.	NA	NA

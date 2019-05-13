@@ -1,6 +1,0 @@
-It	0	0
-was	2	0
-an	0	1
-admirable	2	1
-plan	1	2
-.	NA	NA

@@ -1,8 +1,0 @@
-Ah	1	0
-,	NA	NA
-that	2	0
-would	0	1
-indeed	2	0
-be	0	1
-infamous	1	2
-.	NA	NA

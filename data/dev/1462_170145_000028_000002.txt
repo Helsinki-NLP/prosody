@@ -1,7 +1,0 @@
-Aren't	1	0
-you	0	1
-trying	1	0
-to	0	1
-frighten	1	0
-me	2	2
-?	NA	NA

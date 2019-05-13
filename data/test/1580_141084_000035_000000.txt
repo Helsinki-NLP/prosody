@@ -1,8 +1,0 @@
-Have	0	0
-you	0	0
-anything	1	1
-positive	2	2
-to	0	0
-tell	2	0
-him	1	2
-?	NA	NA

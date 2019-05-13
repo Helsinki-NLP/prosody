@@ -1,6 +1,0 @@
-You	0	0
-are	0	0
-hungry	1	2
-;	NA	NA
-eat	2	2
-!	NA	NA

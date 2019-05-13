@@ -1,9 +1,0 @@
-They	0	0
-shall	0	0
-provide	1	0
-me	1	1
-with	0	2
-bride	2	0
-maidens	0	1
-too	2	2
-.	NA	NA

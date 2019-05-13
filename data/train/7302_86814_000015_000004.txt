@@ -1,8 +1,0 @@
-Andrea	1	0
-felt	1	0
-his	0	2
-heart	1	0
-leap	2	0
-with	0	1
-joy	2	2
-.	NA	NA

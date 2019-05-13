@@ -1,6 +1,0 @@
-The	0	0
-half	0	0
-hour	2	1
-lies	1	1
-inside	2	2
-.	NA	NA

@@ -1,3 +1,0 @@
-Something	0	0
-up	2	2
-!	NA	NA

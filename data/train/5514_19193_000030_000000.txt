@@ -1,4 +1,0 @@
-CHAPTER	1	0
-fifteen	0	1
-GAVROCHE	2	0
-OUTSIDE	1	2

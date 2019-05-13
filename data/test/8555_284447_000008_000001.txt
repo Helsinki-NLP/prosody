@@ -1,5 +1,0 @@
-But	1	0
-you	0	0
-were	1	1
-mistaken	2	2
-.	NA	NA

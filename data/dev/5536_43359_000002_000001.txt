@@ -1,4 +1,0 @@
-Early	2	0
-Religious	0	1
-Teaching	1	2
-.	NA	NA

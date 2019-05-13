@@ -1,4 +1,0 @@
-A	1	0
-lonelier	1	1
-place	1	2
-!	NA	NA

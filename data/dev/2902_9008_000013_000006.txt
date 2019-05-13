@@ -1,6 +1,0 @@
-We	0	1
-shall	2	0
-conquer	0	1
-yet	2	2
-!	NA	NA
-'	NA	NA

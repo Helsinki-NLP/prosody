@@ -1,9 +1,0 @@
-'Indeed	2	0
-!	NA	NA
-three	0	2
-soldiers	1	1
-!	NA	NA
-'	NA	NA
-said	0	0
-she	1	2
-.	NA	NA

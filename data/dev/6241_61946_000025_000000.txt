@@ -1,7 +1,0 @@
-Hans	2	1
-stopped	1	2
-here	0	0
-one	0	0
-half	0	0
-hour	2	2
-.	NA	NA

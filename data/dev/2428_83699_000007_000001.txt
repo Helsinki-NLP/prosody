@@ -1,5 +1,0 @@
-It	0	0
-had	2	0
-its	0	1
-points	2	2
-.	NA	NA

@@ -1,6 +1,0 @@
-A	0	1
-conquering	2	1
-hero	1	1
-,	NA	NA
-indeed	2	2
-!	NA	NA

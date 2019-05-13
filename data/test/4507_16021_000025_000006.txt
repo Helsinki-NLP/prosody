@@ -1,8 +1,0 @@
-What	2	0
-is	0	1
-the	0	0
-use	1	0
-of	1	1
-preserving	2	1
-slang	1	2
-?	NA	NA

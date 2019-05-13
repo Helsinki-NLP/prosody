@@ -1,6 +1,0 @@
-v	1	0
-v	0	0
-could	0	2
-stand	0	0
-alone	1	2
-.	NA	NA

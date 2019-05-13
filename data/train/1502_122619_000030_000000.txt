@@ -1,8 +1,0 @@
-They	1	0
-will	0	0
-not	2	0
-find	1	0
-the	0	0
-Lenape	0	1
-asleep	1	2
-.	NA	NA

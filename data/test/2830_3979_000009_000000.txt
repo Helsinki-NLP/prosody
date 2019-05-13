@@ -1,9 +1,0 @@
-Luther	2	0
-is	0	2
-still	2	0
-the	0	1
-greatest	2	0
-name	1	0
-in	0	1
-Protestantism	2	2
-.	NA	NA

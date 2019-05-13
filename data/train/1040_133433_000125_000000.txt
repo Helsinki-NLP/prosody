@@ -1,4 +1,0 @@
-Boy	2	0
-or	0	1
-girl	1	2
-?	NA	NA

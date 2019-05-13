@@ -1,6 +1,0 @@
-He	2	0
-was	0	1
-coming	0	0
-down	1	0
-now	1	2
-.	NA	NA

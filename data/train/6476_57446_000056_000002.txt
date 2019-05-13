@@ -1,7 +1,0 @@
-Pray	2	2
-,	NA	NA
-stop	1	0
-and	0	0
-listen	0	1
-quietly	1	2
-.	NA	NA

@@ -1,8 +1,0 @@
-The	0	0
-municipal	2	0
-guardsmen	1	1
-were	1	0
-attended	0	1
-to	0	0
-first	2	2
-.	NA	NA

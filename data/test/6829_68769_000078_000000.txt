@@ -1,4 +1,0 @@
-I	2	1
-admit	1	1
-that	1	2
-.	NA	NA

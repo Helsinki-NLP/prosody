@@ -1,6 +1,0 @@
-Why	2	0
-cannot	0	1
-you	0	0
-answer	2	0
-it	0	2
-?	NA	NA

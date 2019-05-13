@@ -1,9 +1,0 @@
-Are	0	0
-you	0	0
-all	1	1
-safe	1	1
-down	0	0
-there	0	1
-,	NA	NA
-Tad	2	2
-?	NA	NA

@@ -1,6 +1,0 @@
-I	0	0
-took	1	0
-up	0	1
-my	0	0
-rifle	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-Then	2	0
-he	0	0
-went	0	1
-straight	1	1
-to	0	0
-the	0	1
-emperor	2	2
-.	NA	NA

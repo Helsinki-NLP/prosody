@@ -1,9 +1,0 @@
-No	2	1
-,	NA	NA
-indeed	2	1
-,	NA	NA
-he	0	0
-replied	1	0
-,	NA	NA
-frankly	2	2
-.	NA	NA

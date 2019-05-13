@@ -1,9 +1,0 @@
-I'll	1	0
-go	0	0
-with	2	1
-you	0	0
-,	NA	NA
-with	0	0
-great	2	1
-pleasure	2	2
-.	NA	NA

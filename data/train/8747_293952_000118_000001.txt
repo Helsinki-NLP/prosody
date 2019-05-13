@@ -1,8 +1,0 @@
-I	0	0
-lived	2	0
-with	0	1
-grandmother	1	0
-at	0	1
-Cove	1	0
-Castle	2	2
-.	NA	NA

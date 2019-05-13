@@ -1,4 +1,0 @@
-I	2	0
-can	0	1
-guess	2	2
-.	NA	NA

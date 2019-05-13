@@ -1,8 +1,0 @@
-He	1	0
-was	0	1
-wise	2	0
-in	0	1
-his	0	0
-own	1	1
-conceit	1	2
-.	NA	NA

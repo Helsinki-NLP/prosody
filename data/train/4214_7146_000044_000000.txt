@@ -1,6 +1,0 @@
-Marilla	2	1
-stared	1	1
-in	0	0
-blank	1	1
-amazement	1	2
-.	NA	NA

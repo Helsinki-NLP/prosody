@@ -1,7 +1,0 @@
-And	0	0
-not	2	1
-strange	2	0
-that	0	1
-he	0	0
-should	2	2
-.	NA	NA

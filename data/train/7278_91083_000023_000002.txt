@@ -1,9 +1,0 @@
-The	0	0
-farm	2	1
-adjoining	1	1
-is	0	0
-a	0	0
-delight	1	1
-to	0	0
-see	2	2
-.	NA	NA

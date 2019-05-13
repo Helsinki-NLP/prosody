@@ -1,6 +1,0 @@
-It	0	0
-was	2	0
-his	0	1
-chosen	1	1
-comrade	2	2
-.	NA	NA

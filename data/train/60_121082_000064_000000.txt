@@ -1,8 +1,0 @@
-There	2	0
-now	1	1
-,	NA	NA
-again	2	1
-you	0	0
-degrade	2	0
-me	0	2
-.	NA	NA

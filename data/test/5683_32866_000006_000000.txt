@@ -1,8 +1,0 @@
-And	0	0
-he	0	0
-added	2	1
-something	1	1
-still	0	0
-less	2	1
-complimentary	1	2
-.	NA	NA

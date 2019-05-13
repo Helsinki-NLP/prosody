@@ -1,3 +1,0 @@
-I'm	1	0
-alone	1	2
-.	NA	NA

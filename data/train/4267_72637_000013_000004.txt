@@ -1,9 +1,0 @@
-I	2	0
-think	1	1
-we	0	0
-might	2	0
-be	0	1
-fairly	0	0
-comfortable	1	2
-.	NA	NA
-'	NA	NA

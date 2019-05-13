@@ -1,6 +1,0 @@
-It	0	0
-is	1	1
-time	2	0
-to	0	1
-awake	2	2
-.	NA	NA

@@ -1,7 +1,0 @@
-Their	0	0
-arrows	1	1
-had	0	0
-ceased	1	1
-to	0	0
-fly	2	2
-.	NA	NA

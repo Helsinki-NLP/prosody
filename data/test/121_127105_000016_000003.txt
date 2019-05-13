@@ -1,4 +1,0 @@
-The	0	0
-story's	1	1
-written	2	2
-.	NA	NA

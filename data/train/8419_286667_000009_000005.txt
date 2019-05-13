@@ -1,6 +1,0 @@
-How	1	0
-you	0	2
-did	1	0
-frighten	2	1
-me	1	2
-!	NA	NA

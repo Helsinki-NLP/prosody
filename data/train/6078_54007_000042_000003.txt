@@ -1,9 +1,0 @@
-At	1	0
-last	2	0
-he	0	2
-could	0	0
-stand	2	0
-it	0	1
-no	0	0
-longer	1	2
-.	NA	NA

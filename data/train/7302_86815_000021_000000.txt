@@ -1,5 +1,0 @@
-My	2	0
-mistress	0	1
-,	NA	NA
-sir	1	2
-.	NA	NA

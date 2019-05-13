@@ -1,8 +1,0 @@
-Stuff	2	0
-and	0	0
-nonsense	2	2
-!	NA	NA
-said	0	0
-the	0	0
-Beeches	1	2
-.	NA	NA

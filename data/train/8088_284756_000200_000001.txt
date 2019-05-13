@@ -1,3 +1,0 @@
-I	0	0
-would	0	1
-think	2	2

@@ -1,5 +1,0 @@
-Your	2	0
-mother	0	0
-was	1	1
-generous	1	2
-.	NA	NA

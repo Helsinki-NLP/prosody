@@ -1,9 +1,0 @@
-I	0	0
-must	2	0
-take	1	0
-some	0	1
-definite	1	0
-action	0	1
-to	0	0
-night	2	2
-.	NA	NA

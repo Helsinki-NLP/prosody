@@ -1,7 +1,0 @@
-The	0	0
-wapentake	1	1
-acquiesced	2	1
-by	0	0
-a	0	0
-nod	2	2
-.	NA	NA

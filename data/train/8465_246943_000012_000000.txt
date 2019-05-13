@@ -1,6 +1,0 @@
-Helen	2	0
-felt	1	0
-herself	0	1
-grow	0	0
-white	2	2
-.	NA	NA

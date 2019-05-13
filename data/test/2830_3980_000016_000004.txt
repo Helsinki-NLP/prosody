@@ -1,5 +1,0 @@
-We	0	0
-heard	2	0
-Him	0	1
-preach	2	2
-.	NA	NA

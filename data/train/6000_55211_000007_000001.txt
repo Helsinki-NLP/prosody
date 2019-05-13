@@ -1,6 +1,0 @@
-She's	0	0
-at	2	1
-the	0	0
-West	2	1
-End	2	2
-.	NA	NA

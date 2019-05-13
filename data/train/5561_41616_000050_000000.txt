@@ -1,8 +1,0 @@
-Glad	2	0
-to	0	1
-know	1	0
-that	0	0
-,	NA	NA
-said	0	1
-Grace	2	2
-.	NA	NA

@@ -1,9 +1,0 @@
-I'll	2	0
-tell	0	1
-you	0	0
-all	0	0
-the	0	0
-news	0	0
-I've	1	2
-brought	2	2
-.	NA	NA

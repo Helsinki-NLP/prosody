@@ -1,5 +1,0 @@
-Then	1	0
-Tela	2	0
-was	0	1
-attacked	2	2
-.	NA	NA

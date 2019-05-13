@@ -1,5 +1,0 @@
-How	1	0
-bitter	1	0
-the	0	1
-humiliation	2	2
-!	NA	NA

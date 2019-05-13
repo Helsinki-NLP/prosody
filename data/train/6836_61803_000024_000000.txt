@@ -1,6 +1,0 @@
-There	2	0
-is	0	1
-not	1	0
-even	0	1
-pity	2	2
-.	NA	NA

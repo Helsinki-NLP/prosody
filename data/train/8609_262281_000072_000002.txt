@@ -1,7 +1,0 @@
-Renewed	0	0
-health	2	1
-,	NA	NA
-exertion	2	1
-,	NA	NA
-happiness	1	2
-!	NA	NA

@@ -1,9 +1,0 @@
-She	0	0
-was	0	1
-transformed	2	1
-into	0	0
-a	0	0
-great	2	0
-gaping	1	1
-reptile	1	2
-.	NA	NA

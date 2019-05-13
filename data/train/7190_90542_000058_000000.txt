@@ -1,9 +1,0 @@
-You	0	0
-need	0	0
-not	1	0
-wait	0	1
-for	1	0
-us	0	1
-,	NA	NA
-driver	2	2
-.	NA	NA

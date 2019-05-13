@@ -1,5 +1,0 @@
-The	0	1
-matter	2	0
-was	0	1
-settled	1	2
-.	NA	NA

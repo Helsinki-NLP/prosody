@@ -1,5 +1,0 @@
-This	2	0
-was	0	0
-a	0	1
-facer	1	2
-.	NA	NA

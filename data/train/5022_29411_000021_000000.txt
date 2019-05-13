@@ -1,3 +1,0 @@
-Not	1	0
-she	1	2
-!	NA	NA

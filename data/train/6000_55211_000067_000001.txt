@@ -1,7 +1,0 @@
-Her	1	0
-face	2	0
-had	0	1
-grown	0	0
-white	1	0
-again	1	2
-.	NA	NA

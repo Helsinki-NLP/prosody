@@ -1,8 +1,0 @@
-Ancient	2	0
-ghosts	1	2
-were	1	0
-a	0	0
-long	0	0
-faced	1	1
-lot	1	2
-.	NA	NA

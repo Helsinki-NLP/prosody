@@ -1,4 +1,0 @@
-Look	2	0
-at	0	1
-me	1	2
-!	NA	NA

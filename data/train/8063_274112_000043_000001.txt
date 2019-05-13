@@ -1,5 +1,0 @@
-La	0	1
-Fontaine's	0	0
-hare	2	1
-thinks	2	2
-.	NA	NA

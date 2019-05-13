@@ -1,5 +1,0 @@
-Thought	2	1
-is	0	0
-one	1	0
-matter	0	2
-.	NA	NA

@@ -1,9 +1,0 @@
-You'll	0	0
-have	1	0
-your	0	1
-hands	1	1
-full	0	0
-,	NA	NA
-I'm	0	1
-afraid	2	2
-.	NA	NA

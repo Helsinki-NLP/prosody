@@ -1,4 +1,0 @@
-I	2	0
-respect	1	0
-wolves	0	2
-.	NA	NA

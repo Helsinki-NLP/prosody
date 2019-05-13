@@ -1,5 +1,0 @@
-Kenneth	0	1
-hesitated	0	0
-a	0	0
-moment	2	2
-.	NA	NA

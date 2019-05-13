@@ -1,9 +1,0 @@
-I	0	0
-get	1	0
-nothing	2	0
-but	1	1
-misery	1	0
-out	0	0
-of	0	2
-either	2	2
-.	NA	NA

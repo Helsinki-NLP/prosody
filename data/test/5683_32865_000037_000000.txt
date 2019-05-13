@@ -1,6 +1,0 @@
-'Why	2	0
-should	0	0
-you	0	1
-,	NA	NA
-though	2	2
-?	NA	NA

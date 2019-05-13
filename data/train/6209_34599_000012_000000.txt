@@ -1,8 +1,0 @@
-He	0	0
-felt	2	0
-the	0	0
-approach	2	1
-of	0	0
-another	1	0
-danger	1	2
-.	NA	NA

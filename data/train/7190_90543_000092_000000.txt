@@ -1,5 +1,0 @@
-Back	2	1
-for	0	0
-your	0	0
-life	2	2
-!	NA	NA

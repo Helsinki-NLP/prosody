@@ -1,7 +1,0 @@
-Was	2	0
-it	0	1
-possible	1	1
-they	0	0
-heard	0	1
-not	2	2
-?	NA	NA

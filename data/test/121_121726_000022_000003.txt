@@ -1,6 +1,0 @@
-The	1	0
-song	1	2
-of	0	0
-the	0	0
-wretched	1	2
-.	NA	NA

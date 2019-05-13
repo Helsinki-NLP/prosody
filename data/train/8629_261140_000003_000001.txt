@@ -1,6 +1,0 @@
-But	0	1
-there	1	0
-was	0	1
-no	1	1
-outburst	2	2
-.	NA	NA

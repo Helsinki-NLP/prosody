@@ -1,8 +1,0 @@
-Of	1	1
-course	1	0
-it	0	0
-is	1	2
-,	NA	NA
-retorted	1	0
-Jenny	1	2
-.	NA	NA

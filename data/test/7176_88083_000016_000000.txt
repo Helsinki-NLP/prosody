@@ -1,6 +1,0 @@
-The	0	1
-drake	2	1
-sank	0	0
-again	0	0
-instantly	1	2
-.	NA	NA

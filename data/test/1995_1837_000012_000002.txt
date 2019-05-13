@@ -1,5 +1,0 @@
-He	0	0
-hurried	2	0
-forth	1	1
-sadly	2	2
-.	NA	NA

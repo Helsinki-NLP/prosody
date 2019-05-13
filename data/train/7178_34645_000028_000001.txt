@@ -1,9 +1,0 @@
-That	2	0
-co	0	0
-operation	0	0
-had	0	1
-continued	1	0
-for	0	1
-fifteen	1	0
-years	1	2
-.	NA	NA

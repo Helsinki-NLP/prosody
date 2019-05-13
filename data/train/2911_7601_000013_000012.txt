@@ -1,7 +1,0 @@
-The	0	0
-old	2	0
-man's	0	1
-hour	2	0
-had	0	1
-come	2	2
-!	NA	NA

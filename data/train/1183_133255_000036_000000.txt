@@ -1,5 +1,0 @@
-Look	1	1
-for	0	0
-our	2	1
-Trade	1	0
-Mark	0	2

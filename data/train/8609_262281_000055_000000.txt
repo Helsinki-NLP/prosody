@@ -1,6 +1,0 @@
-Alas	2	0
-for	0	2
-poor	0	0
-Caroline's	2	0
-resolution	1	2
-!	NA	NA

@@ -1,3 +1,0 @@
-Nothing	1	0
-happened	2	2
-.	NA	NA

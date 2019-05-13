@@ -1,7 +1,0 @@
-Let	0	0
-me	0	1
-think	2	0
-,	NA	NA
-he	0	1
-said	2	2
-.	NA	NA

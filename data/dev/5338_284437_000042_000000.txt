@@ -1,7 +1,0 @@
-declared	2	0
-the	0	1
-parrot	0	0
-,	NA	NA
-in	1	1
-conclusion	2	2
-.	NA	NA

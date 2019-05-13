@@ -1,8 +1,0 @@
-What	2	0
-am	0	0
-I	0	1
-to	0	0
-do	2	1
-,	NA	NA
-Hilda	1	2
-?	NA	NA

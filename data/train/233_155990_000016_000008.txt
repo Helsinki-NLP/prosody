@@ -1,8 +1,0 @@
-The	0	0
-treaty	1	0
-of	0	0
-peace	1	2
-was	1	0
-finally	2	0
-signed	1	2
-.	NA	NA

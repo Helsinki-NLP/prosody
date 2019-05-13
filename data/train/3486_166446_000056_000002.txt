@@ -1,8 +1,0 @@
-They	0	0
-were	2	2
-,	NA	NA
-in	0	0
-untold	1	0
-numbers	0	1
-These	2	2
-!	NA	NA

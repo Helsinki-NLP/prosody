@@ -1,4 +1,0 @@
-Tom	1	0
-nodded	1	1
-unhappily	1	2
-.	NA	NA

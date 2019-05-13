@@ -1,9 +1,0 @@
-MILLIGRAM	2	1
-Roughly	1	0
-one	0	0
-twenty	0	0
-eight	1	1
-thousandth	2	1
-of	0	0
-an	0	0
-ounce	1	2

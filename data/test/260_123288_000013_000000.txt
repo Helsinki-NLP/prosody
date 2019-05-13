@@ -1,8 +1,0 @@
-A	0	0
-deep	0	0
-silence	2	1
-falls	2	2
-on	0	0
-all	0	0
-around	1	2
-.	NA	NA

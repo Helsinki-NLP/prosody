@@ -1,8 +1,0 @@
-Ah	2	2
-!	NA	NA
-you	1	0
-are	0	0
-the	0	0
-nineteenth	0	1
-century	1	2
-?	NA	NA

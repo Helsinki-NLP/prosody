@@ -1,9 +1,0 @@
-Perhaps	2	1
-he	0	0
-has	0	0
-a	0	0
-life	2	0
-to	0	1
-be	0	0
-renewed	1	2
-.	NA	NA

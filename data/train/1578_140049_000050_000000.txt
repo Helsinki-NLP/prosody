@@ -1,7 +1,0 @@
-mr	0	0
-Ladd	2	0
-,	NA	NA
-in	0	1
-North	0	0
-Riverboro	1	2
-.	NA	NA

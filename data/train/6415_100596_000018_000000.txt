@@ -1,7 +1,0 @@
-Possibly	1	1
-a	0	0
-special	2	2
-,	NA	NA
-Patty	1	0
-suggested	1	2
-.	NA	NA

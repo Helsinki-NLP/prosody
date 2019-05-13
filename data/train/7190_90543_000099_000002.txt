@@ -1,9 +1,0 @@
-We	0	0
-might	2	0
-have	0	1
-missed	0	0
-much	2	1
-that	0	0
-was	1	1
-interesting	1	2
-.	NA	NA

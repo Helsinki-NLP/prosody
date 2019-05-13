@@ -1,5 +1,0 @@
-No	1	1
-!	NA	NA
-no	2	0
-indeed	1	2
-!	NA	NA

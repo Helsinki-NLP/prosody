@@ -1,8 +1,0 @@
-I'll	2	0
-leave	0	1
-that	1	1
-to	0	0
-you	0	0
-,	NA	NA
-Polly	1	2
-.	NA	NA

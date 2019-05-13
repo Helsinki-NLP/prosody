@@ -1,8 +1,0 @@
-They	0	0
-all	1	0
-wrapped	1	1
-their	0	0
-cloaks	2	1
-about	0	0
-them	0	2
-.	NA	NA

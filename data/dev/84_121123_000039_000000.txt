@@ -1,3 +1,0 @@
-The	0	1
-doctor	2	2
-?	NA	NA

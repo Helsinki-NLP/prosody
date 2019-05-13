@@ -1,6 +1,0 @@
-Immediately	2	1
-the	0	0
-king's	0	0
-figure	1	0
-changed	2	2
-.	NA	NA

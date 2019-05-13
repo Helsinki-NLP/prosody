@@ -1,8 +1,0 @@
-He	0	0
-divined	2	1
-my	0	0
-motive	1	0
-,	NA	NA
-and	0	2
-fired	2	2
-.	NA	NA

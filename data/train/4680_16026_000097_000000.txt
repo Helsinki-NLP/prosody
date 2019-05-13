@@ -1,9 +1,0 @@
-She	0	0
-fastened	1	0
-her	0	1
-intent	1	1
-gaze	2	1
-upon	1	1
-Thenardier	2	0
-and	0	1
-said	2	2

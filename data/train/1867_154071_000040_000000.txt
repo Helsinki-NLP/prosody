@@ -1,8 +1,0 @@
-Just	2	1
-for	0	0
-the	0	0
-reason	0	0
-I	0	1
-told	2	1
-you	0	2
-.	NA	NA

@@ -1,6 +1,0 @@
-But	2	0
-in	0	1
-Mariposa	1	1
-it's	0	0
-different	2	2
-.	NA	NA

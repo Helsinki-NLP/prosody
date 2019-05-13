@@ -1,3 +1,0 @@
-Gold	2	1
-Plated	1	2
-.	NA	NA

@@ -1,9 +1,0 @@
-Look	2	2
-!	NA	NA
-Tom	2	0
-pointed	1	0
-to	0	1
-a	0	0
-huge	0	0
-crevasse	1	2
-.	NA	NA

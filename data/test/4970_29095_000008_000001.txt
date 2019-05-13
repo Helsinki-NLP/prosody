@@ -1,6 +1,0 @@
-Why	2	0
-is	0	1
-thee	0	0
-so	0	1
-discontented	2	2
-?	NA	NA

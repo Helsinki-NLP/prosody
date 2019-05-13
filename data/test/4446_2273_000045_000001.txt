@@ -1,5 +1,0 @@
-Don't	2	0
-you	0	1
-feel	1	0
-it	1	2
-?	NA	NA

@@ -1,9 +1,0 @@
-Perhaps	2	0
-that's	0	1
-so	2	1
-,	NA	NA
-admitted	0	0
-Joyce	1	0
-,	NA	NA
-thoughtfully	1	2
-.	NA	NA

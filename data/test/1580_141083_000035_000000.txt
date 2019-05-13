@@ -1,6 +1,0 @@
-You	0	0
-left	2	0
-your	0	1
-door	0	1
-open	2	2
-?	NA	NA

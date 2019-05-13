@@ -1,8 +1,0 @@
-'His	0	0
-nephew	2	2
-,	NA	NA
-'	NA	NA
-replied	2	0
-the	0	1
-corporal	1	2
-.	NA	NA

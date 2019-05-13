@@ -1,5 +1,0 @@
-Leaves	2	1
-me	0	0
-to	0	0
-guess	1	2
-.	NA	NA

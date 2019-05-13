@@ -1,9 +1,0 @@
-Pop	2	0
-doesn't	1	0
-look	0	0
-as	0	2
-surprised	2	1
-as	0	0
-I	1	0
-do	0	2
-.	NA	NA

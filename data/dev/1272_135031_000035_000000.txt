@@ -1,4 +1,0 @@
-The	0	1
-Ugly	2	0
-One	1	2
-?	NA	NA

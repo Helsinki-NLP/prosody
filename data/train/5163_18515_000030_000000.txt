@@ -1,9 +1,0 @@
-Dear	1	0
-me	1	1
-,	NA	NA
-did	0	0
-I	2	2
-?	NA	NA
-said	1	0
-Polly	2	2
-.	NA	NA

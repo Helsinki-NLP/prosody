@@ -1,8 +1,0 @@
-He	1	0
-dropped	2	1
-a	0	0
-handful	0	1
-into	1	1
-her	0	0
-lap	2	2
-.	NA	NA

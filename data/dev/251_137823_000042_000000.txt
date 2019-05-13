@@ -1,9 +1,0 @@
-mr	0	0
-Faber	2	0
-is	0	1
-badly	2	0
-injured	0	2
-,	NA	NA
-Tom	1	0
-said	1	2
-.	NA	NA

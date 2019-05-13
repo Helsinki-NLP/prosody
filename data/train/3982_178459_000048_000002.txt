@@ -1,9 +1,0 @@
-Tell	1	0
-me	0	0
-,	NA	NA
-though	1	2
-,	NA	NA
-isn't	2	0
-it	0	1
-true	1	2
-?	NA	NA

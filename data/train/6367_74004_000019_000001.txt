@@ -1,4 +1,0 @@
-Sylvia	2	0
-looked	0	1
-stunning	2	2
-.	NA	NA

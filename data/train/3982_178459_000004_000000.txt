@@ -1,7 +1,0 @@
-The	0	0
-wife	2	1
-stared	1	1
-curiously	0	1
-at	0	0
-Bibbs	1	2
-.	NA	NA

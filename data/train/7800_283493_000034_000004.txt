@@ -1,8 +1,0 @@
-It's	2	1
-cruel	2	0
-,	NA	NA
-that's	1	0
-what	0	1
-it	0	0
-is	1	2
-!	NA	NA

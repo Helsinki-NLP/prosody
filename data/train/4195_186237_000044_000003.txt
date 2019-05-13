@@ -1,4 +1,0 @@
-Where	1	1
-,	NA	NA
-indeed	2	2
-!	NA	NA

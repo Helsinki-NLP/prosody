@@ -1,7 +1,0 @@
-She	1	0
-can	0	1
-spout	1	1
-poetry	2	1
-without	1	0
-trying	2	2
-.	NA	NA

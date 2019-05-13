@@ -1,9 +1,0 @@
-And	0	0
-the	0	0
-little	0	0
-boat	2	1
-bumped	2	0
-against	0	1
-the	0	0
-stone	2	2
-.	NA	NA

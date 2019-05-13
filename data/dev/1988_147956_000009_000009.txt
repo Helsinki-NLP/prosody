@@ -1,6 +1,0 @@
-She	0	0
-shook	2	1
-grandmother's	0	0
-hand	0	1
-energetically	2	2
-.	NA	NA

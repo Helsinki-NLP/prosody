@@ -1,4 +1,0 @@
-Simplicity	2	1
-of	0	0
-mankind	2	2
-!	NA	NA

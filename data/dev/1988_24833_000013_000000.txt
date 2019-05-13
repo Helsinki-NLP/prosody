@@ -1,6 +1,0 @@
-They	0	0
-might	2	1
-,	NA	NA
-he	0	0
-grunts	1	2
-.	NA	NA

@@ -1,5 +1,0 @@
-I	0	0
-have	0	0
-a	0	1
-headache	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-Again	2	1
-the	0	0
-fort	1	1
-was	0	0
-wild	2	0
-with	0	1
-excitement	2	2
-.	NA	NA

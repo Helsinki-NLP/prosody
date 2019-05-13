@@ -1,7 +1,0 @@
-The	0	0
-philosophers	2	1
-talk	1	0
-stuff	1	0
-and	0	0
-nonsense	1	2
-.	NA	NA

@@ -1,9 +1,0 @@
-Oh	2	1
-,	NA	NA
-how	2	1
-can	0	0
-people	0	0
-be	0	1
-so	0	0
-cruel	2	2
-!	NA	NA

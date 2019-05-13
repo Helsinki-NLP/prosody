@@ -1,9 +1,0 @@
-Hearts	2	1
-,	NA	NA
-repeated	0	1
-Katy	0	0
-,	NA	NA
-catching	0	1
-her	0	0
-breath	0	2
-.	NA	NA

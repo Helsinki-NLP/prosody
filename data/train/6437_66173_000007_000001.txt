@@ -1,4 +1,0 @@
-Here's	0	1
-young	1	0
-Bailey	2	2
-!	NA	NA

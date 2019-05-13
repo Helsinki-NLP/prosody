@@ -1,3 +1,0 @@
-Five	1	0
-fathoms	2	2
-!	NA	NA

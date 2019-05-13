@@ -1,8 +1,0 @@
-I	2	0
-don't	1	1
-treat	1	0
-her	1	2
-,	NA	NA
-interrupted	1	0
-Brenda	1	2
-.	NA	NA

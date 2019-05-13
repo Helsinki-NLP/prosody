@@ -1,4 +1,0 @@
-It	1	0
-was	0	1
-locked	2	2
-.	NA	NA

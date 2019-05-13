@@ -1,6 +1,0 @@
-This	1	0
-lasts	2	1
-about	1	0
-a	0	0
-week	1	2
-.	NA	NA

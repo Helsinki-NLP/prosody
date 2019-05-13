@@ -1,4 +1,0 @@
-It	0	0
-is	2	1
-miraculous	0	2
-.	NA	NA

@@ -1,5 +1,0 @@
-She	0	0
-was	0	1
-too	1	1
-good	2	2
-!	NA	NA

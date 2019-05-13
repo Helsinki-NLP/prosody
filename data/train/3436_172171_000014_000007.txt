@@ -1,9 +1,0 @@
-Gladly	2	0
-will	0	0
-I	0	1
-do	0	0
-so	0	0
-,	NA	NA
-answered	0	1
-Perceval	2	2
-.	NA	NA

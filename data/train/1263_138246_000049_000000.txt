@@ -1,6 +1,0 @@
-And	0	1
-why	2	1
-?	NA	NA
-asked	2	0
-Nicholl	0	2
-.	NA	NA

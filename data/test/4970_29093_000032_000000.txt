@@ -1,7 +1,0 @@
-Oh	2	0
-,	NA	NA
-it's	0	0
-a	0	2
-big	1	0
-operation	1	2
-.	NA	NA

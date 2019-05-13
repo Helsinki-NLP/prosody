@@ -1,8 +1,0 @@
-There's	1	0
-that	0	1
-squeak	0	0
-again	2	2
-!	NA	NA
-he	0	0
-whispered	1	2
-.	NA	NA

@@ -1,8 +1,0 @@
-You	2	2
-?	NA	NA
-we	0	0
-both	2	0
-cried	0	0
-in	0	1
-amazement	0	2
-.	NA	NA

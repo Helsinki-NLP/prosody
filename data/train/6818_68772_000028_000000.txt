@@ -1,7 +1,0 @@
-The	0	0
-campaign	2	0
-was	0	2
-now	2	0
-getting	0	0
-hot	1	2
-.	NA	NA

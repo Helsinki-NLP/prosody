@@ -1,8 +1,0 @@
-Well	1	0
-,	NA	NA
-how's	0	1
-Forrest	2	1
-?	NA	NA
-cried	0	0
-Burgess	2	2
-.	NA	NA

@@ -1,5 +1,0 @@
-Where	2	0
-was	0	1
-Captain	0	0
-Nemo	1	2
-?	NA	NA

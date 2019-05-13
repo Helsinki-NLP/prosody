@@ -1,9 +1,0 @@
-There	2	0
-apparently	1	1
-she	0	0
-had	0	0
-really	0	0
-done	1	1
-responsible	1	1
-work	2	2
-.	NA	NA

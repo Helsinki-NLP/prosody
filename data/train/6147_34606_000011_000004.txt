@@ -1,4 +1,0 @@
-This	0	0
-looked	0	1
-serious	2	2
-.	NA	NA

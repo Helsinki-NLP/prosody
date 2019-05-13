@@ -1,7 +1,0 @@
-He	0	0
-will	2	1
-,	NA	NA
-will	1	0
-he	0	1
-not	2	2
-?	NA	NA

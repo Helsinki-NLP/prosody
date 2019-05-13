@@ -1,7 +1,0 @@
-It	0	0
-is	2	1
-unintelligible	2	1
-in	0	0
-the	0	0
-dark	1	2
-.	NA	NA

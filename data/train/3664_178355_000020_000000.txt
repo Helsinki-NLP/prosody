@@ -1,8 +1,0 @@
-Old	2	1
-Brigham	1	1
-was	0	0
-won	0	0
-by	1	0
-a	0	1
-gentleman	1	2
-mr	2	2

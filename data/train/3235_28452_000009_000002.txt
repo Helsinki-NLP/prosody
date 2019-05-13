@@ -1,7 +1,0 @@
-A	1	1
-few	1	0
-remained	0	1
-for	0	0
-the	0	1
-summer	2	2
-.	NA	NA

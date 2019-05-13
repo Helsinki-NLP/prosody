@@ -1,8 +1,0 @@
-That's	2	0
-what	0	1
-she	0	0
-was	1	2
-,	NA	NA
-a	0	0
-companion	2	2
-.	NA	NA

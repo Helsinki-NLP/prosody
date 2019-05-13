@@ -1,5 +1,0 @@
-Have	0	0
-we	0	0
-struck	1	1
-land	2	2
-?	NA	NA

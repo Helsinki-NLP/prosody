@@ -1,9 +1,0 @@
-Better	0	0
-hurry	2	0
-up	0	2
-,	NA	NA
-kid	2	1
-,	NA	NA
-they	0	0
-chuckled	2	2
-.	NA	NA

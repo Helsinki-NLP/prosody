@@ -1,4 +1,0 @@
-You	0	0
-know	0	1
-that	2	2
-.	NA	NA

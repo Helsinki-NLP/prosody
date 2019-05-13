@@ -1,9 +1,0 @@
-The	0	0
-latter	2	0
-answered	0	1
-something	0	0
-and	0	1
-pointed	2	0
-to	0	1
-Lukashka	2	2
-.	NA	NA

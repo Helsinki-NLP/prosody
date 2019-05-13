@@ -1,4 +1,0 @@
-Whose	1	0
-the	0	1
-glory	2	2
-?	NA	NA

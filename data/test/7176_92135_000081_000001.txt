@@ -1,9 +1,0 @@
-Good	2	0
-bye	0	1
-;	NA	NA
-so	2	0
-glad	0	0
-you	0	1
-could	0	0
-come	2	2
-.	NA	NA

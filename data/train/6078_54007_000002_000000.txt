@@ -1,9 +1,0 @@
-Good	0	1
-morning	2	1
-,	NA	NA
-Ill	0	0
-Luck	0	1
-,	NA	NA
-says	1	0
-he	2	2
-.	NA	NA

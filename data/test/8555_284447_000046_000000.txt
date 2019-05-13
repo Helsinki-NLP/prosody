@@ -1,9 +1,0 @@
-Huh	2	1
-!	NA	NA
-exclaimed	1	0
-the	0	0
-Boolooroo	1	1
-;	NA	NA
-that's	2	0
-queer	2	2
-.	NA	NA

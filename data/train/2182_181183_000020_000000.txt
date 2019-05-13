@@ -1,6 +1,0 @@
-Mother	2	0
-of	0	0
-Claimant	1	2
-Lady	2	0
-Fauntleroy	0	2
-.	NA	NA

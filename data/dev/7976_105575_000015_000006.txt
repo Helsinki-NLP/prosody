@@ -1,8 +1,0 @@
-Another	2	0
-had	0	1
-taken	1	0
-his	0	1
-fine	1	0
-gold	0	0
-watch	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-'Oh	2	0
-,	NA	NA
-yes	0	1
-,	NA	NA
-'	NA	NA
-said	0	0
-she	2	2
-.	NA	NA

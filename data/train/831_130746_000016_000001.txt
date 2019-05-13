@@ -1,4 +1,0 @@
-On	0	0
-her	0	1
-bicycle	2	2
-.	NA	NA

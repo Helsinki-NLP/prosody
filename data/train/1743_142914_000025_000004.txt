@@ -1,6 +1,0 @@
-But	0	0
-that	2	0
-doesn't	0	1
-happen	1	1
-often	2	2
-.	NA	NA

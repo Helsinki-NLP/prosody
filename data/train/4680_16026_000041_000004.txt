@@ -1,5 +1,0 @@
-I	0	0
-told	2	1
-Magnon	1	1
-so	1	2
-.	NA	NA

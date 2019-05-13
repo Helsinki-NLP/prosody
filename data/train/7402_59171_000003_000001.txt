@@ -1,2 +1,0 @@
-BERNARD	1	1
-SHAW	2	2

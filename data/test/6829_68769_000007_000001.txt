@@ -1,9 +1,0 @@
-Indeed	2	2
-there	1	0
-is	0	0
-never	1	0
-an	0	0
-excuse	0	1
-for	0	0
-crime	2	2
-.	NA	NA

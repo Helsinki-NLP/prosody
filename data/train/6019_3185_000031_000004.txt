@@ -1,9 +1,0 @@
-That	0	0
-argument	2	1
-certainly	1	0
-weighed	1	0
-much	2	0
-in	0	0
-his	0	1
-favor	2	2
-.	NA	NA

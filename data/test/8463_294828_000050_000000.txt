@@ -1,9 +1,0 @@
-Professor	1	1
-Pierre	1	1
-Aronnax	2	2
-?	NA	NA
-he	0	0
-said	1	0
-to	0	0
-me	2	2
-.	NA	NA

@@ -1,7 +1,0 @@
-He	0	0
-now	2	0
-busied	0	1
-himself	1	0
-in	0	1
-thought	2	2
-.	NA	NA

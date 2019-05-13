@@ -1,6 +1,0 @@
-Had	2	0
-she	0	0
-not	1	1
-done	0	1
-enough	2	2
-?	NA	NA

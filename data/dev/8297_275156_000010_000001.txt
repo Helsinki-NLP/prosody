@@ -1,7 +1,0 @@
-Supposing	2	0
-the	0	1
-report	1	0
-had	0	0
-been	1	2
-true	2	2
-?	NA	NA

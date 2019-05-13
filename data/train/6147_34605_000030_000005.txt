@@ -1,9 +1,0 @@
-She	0	0
-shuts	2	1
-herself	1	0
-up	1	0
-in	0	1
-Eden	0	1
-with	0	0
-Satan	2	2
-.	NA	NA

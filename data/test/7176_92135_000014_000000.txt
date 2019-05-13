@@ -1,9 +1,0 @@
-What	2	1
-,	NA	NA
-then	0	0
-,	NA	NA
-is	0	1
-to	0	0
-be	0	0
-done	2	2
-?	NA	NA

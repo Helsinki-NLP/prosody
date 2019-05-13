@@ -1,4 +1,0 @@
-Aren't	1	0
-you	0	1
-splashed	2	2
-!	NA	NA

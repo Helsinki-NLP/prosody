@@ -1,7 +1,0 @@
-Here	2	0
-comes	0	0
-Mabel	2	1
-,	NA	NA
-said	0	0
-Jessica	2	2
-.	NA	NA

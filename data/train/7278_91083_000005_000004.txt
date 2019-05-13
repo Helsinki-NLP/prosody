@@ -1,6 +1,0 @@
-This	1	0
-is	0	0
-indeed	2	2
-practical	2	0
-Christianity	0	2
-.	NA	NA

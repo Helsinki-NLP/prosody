@@ -1,6 +1,0 @@
-I	2	0
-came	0	1
-to	0	0
-tell	1	0
-you	0	2
-.	NA	NA

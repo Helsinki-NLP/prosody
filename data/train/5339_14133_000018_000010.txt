@@ -1,5 +1,0 @@
-But	1	0
-all	0	0
-she	1	0
-said	2	1
-was	1	2

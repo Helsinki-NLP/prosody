@@ -1,9 +1,0 @@
-Let	1	0
-us	0	0
-have	2	0
-the	0	1
-facts	2	2
-,	NA	NA
-said	0	0
-Graham	1	2
-.	NA	NA

@@ -1,9 +1,0 @@
-Have	1	0
-you	0	1
-picked	1	1
-many	1	0
-of	0	1
-your	0	0
-apples	2	0
-yet	1	2
-?	NA	NA

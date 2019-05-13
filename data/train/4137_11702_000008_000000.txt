@@ -1,7 +1,0 @@
-How	2	0
-good	1	0
-to	0	1
-see	0	0
-Hyacinth	2	1
-again	2	2
-!	NA	NA

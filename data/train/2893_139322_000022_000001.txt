@@ -1,4 +1,0 @@
-Stop	1	0
-all	0	0
-work	1	2
-.	NA	NA

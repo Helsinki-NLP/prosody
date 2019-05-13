@@ -1,8 +1,0 @@
-Is	0	0
-there	1	0
-any	0	1
-news	2	2
-?	NA	NA
-she	1	0
-asked	0	2
-.	NA	NA

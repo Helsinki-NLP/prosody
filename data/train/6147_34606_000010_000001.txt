@@ -1,7 +1,0 @@
-It	1	0
-was	0	0
-a	0	0
-joust	2	0
-of	0	1
-sacrilege	2	2
-.	NA	NA

@@ -1,7 +1,0 @@
-Stay	2	0
-with	0	1
-us	0	0
-,	NA	NA
-old	0	1
-fellow	2	2
-.	NA	NA

@@ -1,6 +1,0 @@
-So	0	0
-also	2	0
-of	0	1
-the	0	0
-will	2	2
-.	NA	NA

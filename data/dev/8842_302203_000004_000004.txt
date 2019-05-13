@@ -1,5 +1,0 @@
-Whereof	2	1
-I	0	0
-wrote	1	0
-this	0	0
-poem	1	2

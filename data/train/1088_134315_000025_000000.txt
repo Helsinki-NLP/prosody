@@ -1,5 +1,0 @@
-He	2	0
-shrugged	0	1
-his	0	0
-shoulders	2	2
-.	NA	NA

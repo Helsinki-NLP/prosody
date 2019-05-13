@@ -1,8 +1,0 @@
-I	2	0
-should	0	1
-think	0	0
-not	2	1
-,	NA	NA
-Thorndyke	0	1
-agreed	1	2
-.	NA	NA

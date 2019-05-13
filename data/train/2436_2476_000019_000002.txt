@@ -1,9 +1,0 @@
-And	2	0
-as	0	2
-pleasant	2	1
-as	1	0
-he	0	0
-is	1	1
-good	0	0
-looking	2	2
-.	NA	NA

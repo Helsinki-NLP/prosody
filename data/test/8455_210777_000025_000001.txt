@@ -1,9 +1,0 @@
-Therefore	2	2
-we	0	0
-can	0	0
-be	0	0
-courteous	2	1
-while	2	0
-we	0	0
-submit	1	2
-.	NA	NA

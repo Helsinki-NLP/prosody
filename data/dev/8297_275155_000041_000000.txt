@@ -1,5 +1,0 @@
-mrs	2	0
-Presty	0	0
-smiled	1	1
-significantly	1	2
-.	NA	NA

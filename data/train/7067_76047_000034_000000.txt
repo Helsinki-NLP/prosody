@@ -1,7 +1,0 @@
-She	0	0
-has	2	1
-told	2	0
-me	0	0
-as	0	1
-much	2	2
-.	NA	NA

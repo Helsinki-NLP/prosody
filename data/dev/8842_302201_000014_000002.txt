@@ -1,8 +1,0 @@
-The	0	0
-second	2	2
-is	1	0
-the	0	0
-matter	0	0
-treated	0	0
-of	1	2
-.	NA	NA

@@ -1,7 +1,0 @@
-He	2	0
-is	0	0
-Major	1	0
-George	1	1
-Washington	0	0
-Whistler	1	2
-.	NA	NA

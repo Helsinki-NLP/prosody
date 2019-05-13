@@ -1,5 +1,0 @@
-All	2	0
-right	0	1
-,	NA	NA
-now	0	2
-.	NA	NA

@@ -1,8 +1,0 @@
-He's	1	0
-simply	1	0
-ripping	1	2
-!	NA	NA
-said	0	0
-the	0	0
-undergraduate	2	2
-.	NA	NA

@@ -1,6 +1,0 @@
-Chapter	2	0
-two	0	1
-.	NA	NA
-twenty	0	0
-six	1	2
-.	NA	NA

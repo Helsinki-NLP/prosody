@@ -1,8 +1,0 @@
-I	1	0
-can't	2	2
-plant	1	0
-them	0	0
-in	0	0
-the	0	1
-garden	2	2
-.	NA	NA

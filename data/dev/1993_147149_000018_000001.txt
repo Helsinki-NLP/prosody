@@ -1,8 +1,0 @@
-He	0	1
-cannot	1	0
-die	1	0
-while	0	1
-she's	0	1
-wishing	2	0
-him	0	2
-.	NA	NA

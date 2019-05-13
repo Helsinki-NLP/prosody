@@ -1,8 +1,0 @@
-The	0	0
-guarantee	2	2
-and	2	0
-the	0	1
-morality	2	1
-of	0	0
-labor	1	2
-.	NA	NA

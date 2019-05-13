@@ -1,8 +1,0 @@
-Such	0	0
-perfect	0	0
-completeness	1	1
-is	0	0
-not	2	0
-in	0	1
-nature	2	2
-.	NA	NA

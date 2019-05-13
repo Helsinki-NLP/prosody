@@ -1,7 +1,0 @@
-Ah	2	2
-,	NA	NA
-I	0	0
-was	1	0
-afraid	0	0
-so	1	2
-.	NA	NA

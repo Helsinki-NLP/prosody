@@ -1,5 +1,0 @@
-In	0	0
-nineteen	1	1
-twenty	1	1
-three	2	2
-?	NA	NA

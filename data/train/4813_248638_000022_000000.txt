@@ -1,8 +1,0 @@
-All	2	0
-ground	0	1
-is	0	0
-historic	2	0
-ground	0	1
-in	0	0
-Milton	1	2
-.	NA	NA

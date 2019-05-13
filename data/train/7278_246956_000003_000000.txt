@@ -1,4 +1,0 @@
-AFTER	2	1
-THE	0	0
-SERMON	2	2
-.	NA	NA

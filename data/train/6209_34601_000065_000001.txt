@@ -1,6 +1,0 @@
-Isn't	1	1
-he	2	0
-a	0	0
-greedy	0	1
-scoundrel	2	2
-?	NA	NA

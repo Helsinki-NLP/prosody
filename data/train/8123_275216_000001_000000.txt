@@ -1,5 +1,0 @@
-THE	0	0
-BEECH	2	2
-AND	1	0
-THE	0	0
-OAK	0	2

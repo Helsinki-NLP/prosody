@@ -1,6 +1,0 @@
-Have	0	0
-a	0	1
-drop	1	0
-of	0	1
-water	2	2
-!	NA	NA

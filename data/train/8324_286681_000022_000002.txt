@@ -1,4 +1,0 @@
-Guess	2	1
-I	1	0
-know	1	2
-!	NA	NA

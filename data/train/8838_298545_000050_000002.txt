@@ -1,9 +1,0 @@
-Have	0	0
-you	0	0
-been	2	0
-weighed	0	0
-lately	1	0
-,	0	1
-mr	NA	NA
-Montgomery	2	2
-?	NA	NA

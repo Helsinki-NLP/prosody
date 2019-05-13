@@ -1,9 +1,0 @@
-I	2	0
-heard	2	0
-him	0	1
-moving	0	0
-about	2	0
-for	0	1
-some	0	1
-time	2	2
-.	NA	NA

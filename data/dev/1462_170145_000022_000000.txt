@@ -1,4 +1,0 @@
-Indeed	1	0
-I'm	0	1
-not	2	2
-.	NA	NA

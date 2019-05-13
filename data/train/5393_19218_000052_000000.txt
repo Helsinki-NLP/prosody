@@ -1,4 +1,0 @@
-What	2	0
-old	0	1
-cove	1	2
-?	NA	NA

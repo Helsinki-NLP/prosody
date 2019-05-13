@@ -1,9 +1,0 @@
-We	0	0
-owned	2	0
-a	0	1
-flock	1	0
-of	0	2
-thirty	1	0
-one	0	1
-turkeys	1	2
-.	NA	NA

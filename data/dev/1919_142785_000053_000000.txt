@@ -1,6 +1,0 @@
-EGG	1	0
-SAUCE	2	1
-FOR	0	0
-SALT	1	1
-FISH	2	2
-.	NA	NA

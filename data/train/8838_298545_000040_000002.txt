@@ -1,6 +1,0 @@
-I	2	0
-don't	0	1
-hedge	0	0
-a	0	1
-penny	2	2
-.	NA	NA

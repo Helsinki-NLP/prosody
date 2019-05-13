@@ -1,9 +1,0 @@
-The	0	0
-storm	2	0
-had	0	1
-become	0	0
-shapeless	1	0
-from	0	1
-its	0	0
-violence	2	2
-.	NA	NA

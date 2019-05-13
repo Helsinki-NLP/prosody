@@ -1,8 +1,0 @@
-I	1	0
-will	0	1
-not	1	1
-receive	0	0
-it	0	1
-from	1	0
-you	2	2
-.	NA	NA

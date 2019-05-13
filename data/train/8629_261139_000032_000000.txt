@@ -1,8 +1,0 @@
-You	0	0
-are	2	2
-,	NA	NA
-was	1	0
-the	0	0
-firm	1	0
-response	1	2
-.	NA	NA

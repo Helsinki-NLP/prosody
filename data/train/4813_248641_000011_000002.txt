@@ -1,8 +1,0 @@
-There	0	0
-is	0	1
-no	2	0
-idle	0	1
-talk	1	0
-or	0	1
-play	2	2
-.	NA	NA

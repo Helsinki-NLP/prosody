@@ -1,7 +1,0 @@
-Why	2	0
-,	NA	NA
-john	1	1
-?	NA	NA
-replied	2	0
-Glenarvan	0	2
-.	NA	NA

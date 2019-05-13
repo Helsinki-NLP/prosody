@@ -1,6 +1,0 @@
-Pop	2	1
-looks	0	0
-at	0	0
-me	0	1
-prissily	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-Eric	2	1
-killed	1	1
-the	0	0
-men	0	0
-in	0	1
-fair	1	0
-fight	2	2
-.	NA	NA

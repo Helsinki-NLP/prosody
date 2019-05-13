@@ -1,7 +1,0 @@
-That	2	0
-road	1	1
-goes	1	0
-down	1	0
-and	0	1
-down	2	2
-.	NA	NA

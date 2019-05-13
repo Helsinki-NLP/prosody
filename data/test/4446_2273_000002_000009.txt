@@ -1,9 +1,0 @@
-American	2	0
-tours	1	0
-have	0	1
-spoiled	2	0
-them	0	0
-,	NA	NA
-I'm	0	1
-afraid	2	2
-.	NA	NA

@@ -1,7 +1,0 @@
-Nash	2	0
-sipped	0	1
-his	0	0
-coffee	2	1
-and	0	0
-waited	2	2
-.	NA	NA

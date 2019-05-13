@@ -1,8 +1,0 @@
-Too	1	0
-great	2	1
-concentration	1	0
-is	0	1
-to	0	0
-be	0	0
-avoided	2	2
-.	NA	NA

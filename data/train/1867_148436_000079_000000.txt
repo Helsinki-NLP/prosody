@@ -1,8 +1,0 @@
-Never	0	0
-mind	1	2
-;	NA	NA
-I	2	0
-wake	0	0
-up	0	1
-automatic	1	2
-.	NA	NA

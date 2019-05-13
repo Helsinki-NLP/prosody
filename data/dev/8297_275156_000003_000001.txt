@@ -1,4 +1,0 @@
-Herbert	1	1
-was	0	0
-satisfied	2	2
-.	NA	NA

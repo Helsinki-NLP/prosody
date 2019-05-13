@@ -1,8 +1,0 @@
-Shut	2	0
-him	0	0
-out	1	0
-and	0	0
-make	0	0
-him	0	1
-pay	2	2
-.	NA	NA

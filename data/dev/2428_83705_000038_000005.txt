@@ -1,6 +1,0 @@
-Which	1	0
-is	0	1
-just	2	1
-as	0	0
-well	2	2
-.	NA	NA

@@ -1,7 +1,0 @@
-Your	2	0
-strength	1	0
-is	0	1
-there	2	2
-with	1	0
-them	2	2
-.	NA	NA

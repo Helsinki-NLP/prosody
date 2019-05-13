@@ -1,6 +1,0 @@
-Now	2	0
-for	1	0
-it	0	1
-,	NA	NA
-Billy	1	2
-.	NA	NA

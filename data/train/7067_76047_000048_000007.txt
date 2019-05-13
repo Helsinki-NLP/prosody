@@ -1,9 +1,0 @@
-And	0	0
-there	2	0
-is	0	0
-something	1	1
-more	2	0
-to	0	1
-be	0	0
-said	2	2
-.	NA	NA

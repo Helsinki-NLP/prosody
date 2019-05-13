@@ -1,9 +1,0 @@
-The	0	0
-early	1	0
-days	1	1
-passed	1	2
-in	0	0
-this	0	0
-dazzled	2	1
-state	2	2
-.	NA	NA

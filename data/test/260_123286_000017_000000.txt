@@ -1,6 +1,0 @@
-That	2	0
-is	0	1
-just	1	1
-the	0	0
-question	2	2
-.	NA	NA

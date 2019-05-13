@@ -1,7 +1,0 @@
-Yes	2	1
-,	NA	NA
-and	0	0
-it	0	0
-set	1	0
-badly	1	2
-.	NA	NA

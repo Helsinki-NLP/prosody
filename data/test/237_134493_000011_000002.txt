@@ -1,9 +1,0 @@
-They	1	0
-still	2	0
-jaw	0	1
-about	1	0
-it	0	0
-in	0	1
-history	0	0
-classes	2	2
-.	NA	NA

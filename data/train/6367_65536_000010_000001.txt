@@ -1,8 +1,0 @@
-With	2	0
-a	0	1
-smile	2	1
-she	0	0
-had	0	1
-made	1	0
-answer	2	2
-,	NA	NA

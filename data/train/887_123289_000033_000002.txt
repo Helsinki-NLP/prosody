@@ -1,9 +1,0 @@
-But	1	1
-still	2	2
-let	2	0
-us	0	1
-go	1	0
-and	0	1
-make	0	0
-sure	1	2
-.	NA	NA

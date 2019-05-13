@@ -1,5 +1,0 @@
-Right	2	0
-to	0	1
-this	0	0
-room	2	2
-!	NA	NA

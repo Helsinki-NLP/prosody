@@ -1,5 +1,0 @@
-Tears	1	1
-choked	2	1
-my	0	0
-voice	2	2
-.	NA	NA

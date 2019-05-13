@@ -1,7 +1,0 @@
-What	2	0
-could	0	1
-this	0	0
-n	0	0
-n	0	1
-be	1	2
-?	NA	NA

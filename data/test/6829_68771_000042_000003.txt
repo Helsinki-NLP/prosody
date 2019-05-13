@@ -1,5 +1,0 @@
-You	0	0
-must	2	1
-excuse	1	0
-me	1	2
-.	NA	NA

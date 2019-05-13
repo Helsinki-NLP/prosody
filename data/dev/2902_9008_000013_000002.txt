@@ -1,7 +1,0 @@
-Stay	2	2
-,	NA	NA
-did	0	0
-I	1	0
-tell	0	0
-you	0	2
-?	NA	NA

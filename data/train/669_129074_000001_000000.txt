@@ -1,8 +1,0 @@
-Which	0	0
-Contains	1	0
-Births	1	1
-,	NA	NA
-Marriages	2	1
-,	NA	NA
-and	2	0
-Deaths	1	2

@@ -1,8 +1,0 @@
-You	0	0
-must	2	1
-remember	1	0
-that	1	2
-.	NA	NA
-.	NA	NA
-.	NA	NA
-.	NA	NA

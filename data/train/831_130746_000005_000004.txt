@@ -1,7 +1,0 @@
-Down	1	0
-the	0	1
-passage	2	1
-to	0	0
-the	0	0
-bedroom	2	2
-.	NA	NA

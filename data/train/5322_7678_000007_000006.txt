@@ -1,6 +1,0 @@
-Altogether	2	2
-his	0	0
-spirits	2	1
-became	0	0
-gloomy	1	2
-.	NA	NA

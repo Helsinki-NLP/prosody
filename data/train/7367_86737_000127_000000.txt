@@ -1,5 +1,0 @@
-'I	1	0
-thought	2	1
-that	0	0
-my	1	1
-entreaties'	1	2

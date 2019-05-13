@@ -1,8 +1,0 @@
-If	1	0
-you	0	1
-please	2	0
-,	NA	NA
-said	0	1
-Meekin	0	0
-gravely	2	2
-.	NA	NA

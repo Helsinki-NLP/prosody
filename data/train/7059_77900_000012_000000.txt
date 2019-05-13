@@ -1,9 +1,0 @@
-Well	2	2
-,	NA	NA
-I	2	0
-don't	0	0
-know	1	1
-;	NA	NA
-they're	1	0
-opposites	1	2
-.	NA	NA

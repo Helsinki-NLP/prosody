@@ -1,6 +1,0 @@
-Don't	0	0
-worry	2	2
-,	NA	NA
-replied	1	0
-Quox	2	2
-.	NA	NA

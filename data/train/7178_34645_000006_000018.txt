@@ -1,8 +1,0 @@
-The	0	0
-facts	2	1
-were	0	0
-found	2	0
-to	0	1
-be	0	0
-correct	2	2
-.	NA	NA

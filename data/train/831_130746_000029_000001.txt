@@ -1,4 +1,0 @@
-Let	2	0
-'em	0	1
-GO	1	2
-.	NA	NA

@@ -1,6 +1,0 @@
-All	2	1
-three	0	0
-men	0	0
-listened	0	1
-attentively	2	2
-.	NA	NA

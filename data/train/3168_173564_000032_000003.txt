@@ -1,6 +1,0 @@
-It	0	0
-was	1	1
-dark	2	0
-in	0	1
-there	1	2
-.	NA	NA

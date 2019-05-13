@@ -1,9 +1,0 @@
-As	2	1
-strangers	2	1
-I	2	0
-was	0	2
-determined	2	0
-we	0	0
-should	0	0
-remain	0	2
-.	NA	NA

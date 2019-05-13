@@ -1,9 +1,0 @@
-Meanwhile	2	1
-,	NA	NA
-he	0	0
-would	1	0
-have	0	1
-time	1	0
-to	0	1
-think	2	2
-.	NA	NA

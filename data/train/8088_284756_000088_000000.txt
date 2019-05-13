@@ -1,5 +1,0 @@
-It's	0	1
-wizardry	1	1
-,	NA	NA
-Mercer	2	2
-!	NA	NA

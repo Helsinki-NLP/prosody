@@ -1,6 +1,0 @@
-'Then	0	0
-come	2	0
-in	0	1
-with	0	0
-me	1	2
-.	NA	NA

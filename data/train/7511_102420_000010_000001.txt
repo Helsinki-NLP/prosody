@@ -1,8 +1,0 @@
-Then	2	0
-came	0	0
-a	0	1
-long	2	0
-,	NA	NA
-hard	1	1
-climb	1	2
-.	NA	NA

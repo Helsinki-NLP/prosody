@@ -1,7 +1,0 @@
-I	2	0
-am	0	1
-sorry	0	2
-,	NA	NA
-he	0	0
-said	2	2
-.	NA	NA

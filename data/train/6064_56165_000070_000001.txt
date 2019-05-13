@@ -1,7 +1,0 @@
-How	2	0
-can	0	0
-you	0	1
-criticise	1	0
-Edith's	0	1
-brother	2	2
-?	NA	NA

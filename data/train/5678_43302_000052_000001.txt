@@ -1,8 +1,0 @@
-Of	2	1
-course	2	1
-she	0	0
-looks	0	1
-back	2	1
-a	0	0
-little	2	2
-.	NA	NA

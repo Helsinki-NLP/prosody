@@ -1,7 +1,0 @@
-I	0	0
-know	2	1
-Priscilla	2	0
-would	0	2
-be	0	0
-gratified	1	2
-.	NA	NA

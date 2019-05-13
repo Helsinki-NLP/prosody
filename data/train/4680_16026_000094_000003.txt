@@ -1,4 +1,0 @@
-You	0	0
-are	1	1
-men	1	2
-.	NA	NA

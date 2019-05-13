@@ -1,9 +1,0 @@
-Was	0	0
-there	2	0
-a	0	1
-chuckle	1	0
-in	0	0
-the	0	1
-fellow's	1	1
-voice	2	2
-?	NA	NA

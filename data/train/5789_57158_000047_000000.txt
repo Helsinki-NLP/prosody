@@ -1,7 +1,0 @@
-I	2	0
-didn't	0	1
-say	1	0
-so	0	0
-at	0	1
-all	2	2
-.	NA	NA

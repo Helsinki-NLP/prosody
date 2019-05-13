@@ -1,5 +1,0 @@
-All	2	1
-to	0	0
-no	1	0
-purpose	0	2
-.	NA	NA

@@ -1,9 +1,0 @@
-Yes	2	0
-,	NA	NA
-my	0	1
-lord	1	2
-;	NA	NA
-that	1	0
-is	0	0
-all	2	2
-.	NA	NA

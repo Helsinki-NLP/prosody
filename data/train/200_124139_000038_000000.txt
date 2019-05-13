@@ -1,8 +1,0 @@
-I	1	0
-am	0	0
-talking	2	0
-of	0	2
-possibilities	2	1
-,	NA	NA
-Charles	2	2
-.	NA	NA

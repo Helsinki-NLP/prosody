@@ -1,9 +1,0 @@
-Even	1	0
-his	0	1
-bitterness	2	2
-is	0	0
-never	0	0
-venomous	1	0
-,	NA	NA
-however	1	2
-.	NA	NA

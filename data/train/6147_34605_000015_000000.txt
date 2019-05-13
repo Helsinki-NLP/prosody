@@ -1,5 +1,0 @@
-It	1	0
-was	0	0
-the	0	1
-fashion	2	2
-.	NA	NA

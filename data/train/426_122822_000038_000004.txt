@@ -1,5 +1,0 @@
-How	2	0
-Jane	1	0
-would	1	1
-triumph	1	2
-!	NA	NA

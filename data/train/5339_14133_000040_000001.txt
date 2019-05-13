@@ -1,9 +1,0 @@
-I'm	0	0
-noan	2	1
-comin'	0	0
-down	1	0
-again	0	0
-to	0	1
-night	2	2
-.	NA	NA
-'	NA	NA

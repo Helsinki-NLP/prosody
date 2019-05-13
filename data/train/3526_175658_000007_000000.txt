@@ -1,5 +1,0 @@
-I	2	0
-approved	1	1
-her	0	0
-judgment	1	2
-.	NA	NA

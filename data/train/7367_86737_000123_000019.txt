@@ -1,5 +1,0 @@
-Rita	2	0
-lay	1	1
-between	1	0
-them	0	2
-.	NA	NA

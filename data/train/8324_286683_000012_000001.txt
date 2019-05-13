@@ -1,9 +1,0 @@
-Their	0	0
-father	2	1
-sometimes	0	1
-slapped	2	0
-them	0	0
-with	0	1
-his	0	0
-tail	2	2
-.	NA	NA

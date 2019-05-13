@@ -1,8 +1,0 @@
-I	1	0
-suppose	2	0
-the	0	1
-forest	2	1
-makes	0	1
-it	0	0
-so	2	2
-.	NA	NA

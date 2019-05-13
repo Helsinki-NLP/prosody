@@ -1,6 +1,0 @@
-Won't	2	1
-you	0	0
-catch	0	0
-it	0	1
-though	2	2
-!	NA	NA

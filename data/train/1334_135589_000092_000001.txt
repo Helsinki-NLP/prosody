@@ -1,7 +1,0 @@
-Humphrey	2	0
-must	0	1
-take	2	1
-the	0	0
-first	1	1
-place	2	2
-.	NA	NA

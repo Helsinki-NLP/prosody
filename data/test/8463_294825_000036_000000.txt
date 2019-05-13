@@ -1,8 +1,0 @@
-thirty	2	0
-seven	1	0
-degrees	0	1
-centigrade	2	0
-equals	0	1
-human	0	0
-body	1	1
-temperature	2	2

@@ -1,7 +1,0 @@
-'You	0	0
-would	0	0
-not	2	0
-eat	0	1
-with	0	0
-us	1	2
-.	NA	NA

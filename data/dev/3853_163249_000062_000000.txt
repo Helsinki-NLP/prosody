@@ -1,7 +1,0 @@
-O	2	0
-David	1	1
-,	NA	NA
-you	0	0
-are	1	1
-splendid	1	2
-!	NA	NA

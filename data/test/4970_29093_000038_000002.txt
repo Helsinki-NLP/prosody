@@ -1,5 +1,0 @@
-We	0	0
-wouldn't	2	1
-engineer	0	0
-long	1	2
-.	NA	NA

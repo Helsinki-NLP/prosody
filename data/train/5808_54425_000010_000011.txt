@@ -1,8 +1,0 @@
-It	0	0
-was	0	0
-only	1	1
-for	2	0
-a	0	1
-few	0	1
-months	2	2
-.	NA	NA

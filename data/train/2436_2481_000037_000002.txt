@@ -1,4 +1,0 @@
-Nor	1	0
-did	0	1
-Prince	2	2
-.	NA	NA

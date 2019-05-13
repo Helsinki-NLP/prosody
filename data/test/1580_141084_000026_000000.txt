@@ -1,7 +1,0 @@
-Why	1	0
-,	NA	NA
-Bannister	1	1
-,	NA	NA
-the	0	0
-servant	2	2
-.	NA	NA

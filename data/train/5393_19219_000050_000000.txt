@@ -1,5 +1,0 @@
-The	0	0
-married	2	1
-pair	0	1
-disappeared	2	2
-.	NA	NA

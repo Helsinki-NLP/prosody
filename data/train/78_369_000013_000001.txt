@@ -1,4 +1,0 @@
-O	2	1
-blessed	1	1
-sleep	0	2
-!	NA	NA

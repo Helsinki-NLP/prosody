@@ -1,8 +1,0 @@
-We	0	0
-must	2	1
-be	0	0
-on	1	0
-the	0	1
-look	0	0
-out	1	2
-.	NA	NA

@@ -1,4 +1,0 @@
-Well	2	1
-;	NA	NA
-yes	1	2
-.	NA	NA

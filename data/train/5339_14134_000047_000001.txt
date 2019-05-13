@@ -1,9 +1,0 @@
-'Liking	2	1
-has	0	0
-nought	1	2
-to	0	0
-do	2	0
-with	0	0
-it	1	2
-.	NA	NA
-'	NA	NA

@@ -1,9 +1,0 @@
-Neither	1	0
-any	0	1
-bad	2	2
-,	NA	NA
-nor	1	0
-any	0	0
-good	0	0
-odor	0	2
-.	NA	NA

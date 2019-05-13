@@ -1,5 +1,0 @@
-Not	1	1
-girls	2	1
-we	0	0
-know	1	2
-.	NA	NA

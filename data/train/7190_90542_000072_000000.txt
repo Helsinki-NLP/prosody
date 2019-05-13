@@ -1,6 +1,0 @@
-He	0	1
-was	0	0
-going	2	1
-forward	1	1
-again	2	2
-.	NA	NA

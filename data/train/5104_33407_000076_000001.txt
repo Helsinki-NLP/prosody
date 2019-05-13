@@ -1,6 +1,0 @@
-They	2	0
-landed	0	1
-here	0	0
-this	0	1
-spring	2	2
-.	NA	NA

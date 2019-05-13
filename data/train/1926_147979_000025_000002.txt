@@ -1,7 +1,0 @@
-Get	1	0
-your	0	1
-back	1	0
-up	0	2
-,	NA	NA
-Johnnie	2	2
-.	NA	NA

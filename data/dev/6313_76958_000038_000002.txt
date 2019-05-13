@@ -1,7 +1,0 @@
-There's	2	0
-the	0	2
-pony	2	0
-ready	1	1
-for	0	0
-you	1	2
-.	NA	NA

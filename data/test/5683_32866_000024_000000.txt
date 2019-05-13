@@ -1,7 +1,0 @@
-'Why	2	1
-what	1	0
-has	0	1
-Sir	0	0
-Harry	1	1
-done	1	2
-?	NA	NA

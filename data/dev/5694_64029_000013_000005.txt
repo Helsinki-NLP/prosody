@@ -1,6 +1,0 @@
-The	0	1
-ball	2	0
-missed	0	0
-its	0	1
-aim	1	2
-.	NA	NA

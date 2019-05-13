@@ -1,6 +1,0 @@
-You	1	1
-accuse	2	1
-him	0	0
-,	NA	NA
-then	1	2
-?	NA	NA

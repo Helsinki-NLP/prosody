@@ -1,6 +1,0 @@
-He	0	0
-must	2	1
-be	0	0
-very	2	1
-hungry	1	2
-.	NA	NA

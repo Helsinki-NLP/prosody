@@ -1,9 +1,0 @@
-Madame	2	1
-de	0	0
-Villefort	1	1
-fell	2	0
-at	0	1
-her	0	0
-husband's	0	0
-feet	2	2
-.	NA	NA

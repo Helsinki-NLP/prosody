@@ -1,8 +1,0 @@
-There	2	0
-is	0	1
-my	0	0
-news	0	0
-,	NA	NA
-he	0	1
-said	1	2
-.	NA	NA

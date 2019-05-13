@@ -1,5 +1,0 @@
-Gwynplaine	2	0
-was	1	0
-a	0	1
-mountebank	1	2
-.	NA	NA

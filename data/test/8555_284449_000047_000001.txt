@@ -1,9 +1,0 @@
-Am	0	0
-I	1	0
-to	0	0
-be	0	1
-patched	2	1
-,	NA	NA
-or	0	0
-what	2	2
-?	NA	NA

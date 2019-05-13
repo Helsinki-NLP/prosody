@@ -1,6 +1,0 @@
-You	0	0
-smell	2	0
-nothing	1	0
-of	0	1
-life	2	2
-.	NA	NA

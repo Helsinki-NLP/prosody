@@ -1,5 +1,0 @@
-It	0	0
-isn't	1	1
-very	0	1
-far	2	2
-.	NA	NA

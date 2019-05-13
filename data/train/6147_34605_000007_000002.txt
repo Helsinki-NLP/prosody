@@ -1,6 +1,0 @@
-Not	2	0
-that	0	1
-she	0	0
-was	0	1
-unfeeling	2	2
-.	NA	NA

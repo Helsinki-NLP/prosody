@@ -1,7 +1,0 @@
-Johnson	2	1
-is	0	0
-all	1	0
-right	2	1
-,	NA	NA
-Gregg	1	2
-.	NA	NA

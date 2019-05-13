@@ -1,6 +1,0 @@
-He	0	0
-must	2	1
-not	0	0
-see	0	0
-me	2	2
-.	NA	NA

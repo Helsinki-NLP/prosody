@@ -1,3 +1,0 @@
-Shouldn't	0	1
-wonder	2	2
-.	NA	NA

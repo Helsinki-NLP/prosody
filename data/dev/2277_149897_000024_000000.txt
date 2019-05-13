@@ -1,6 +1,0 @@
-I	1	0
-gave	2	0
-it	0	1
-to	0	0
-her	1	2
-.	NA	NA

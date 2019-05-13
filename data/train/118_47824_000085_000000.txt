@@ -1,3 +1,0 @@
-Deep	0	1
-enough	2	2
-!	NA	NA

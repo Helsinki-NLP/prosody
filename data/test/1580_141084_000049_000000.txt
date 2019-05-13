@@ -1,4 +1,0 @@
-You	0	1
-know	2	0
-him	0	2
-?	NA	NA

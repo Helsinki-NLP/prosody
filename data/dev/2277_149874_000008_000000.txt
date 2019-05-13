@@ -1,8 +1,0 @@
-It's	1	0
-a	0	0
-big	2	1
-place	2	1
-,	NA	NA
-he	0	0
-said	2	2
-.	NA	NA

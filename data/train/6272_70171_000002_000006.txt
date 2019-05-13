@@ -1,8 +1,0 @@
-Rosville	2	1
-was	0	0
-larger	1	1
-and	0	0
-handsomer	1	1
-than	0	0
-Surrey	1	2
-.	NA	NA

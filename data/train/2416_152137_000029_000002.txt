@@ -1,7 +1,0 @@
-The	0	0
-Wowzer	2	1
-!	NA	NA
-That	2	0
-was	0	0
-it	2	2
-!	NA	NA

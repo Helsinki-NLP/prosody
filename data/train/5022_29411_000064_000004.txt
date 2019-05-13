@@ -1,4 +1,0 @@
-are	0	0
-you	0	1
-angry	2	2
-?	NA	NA

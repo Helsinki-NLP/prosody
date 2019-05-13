@@ -1,5 +1,0 @@
-Again	1	0
-Jenny	0	0
-Wren	0	1
-nodded	2	2
-.	NA	NA

@@ -1,7 +1,0 @@
-These	2	0
-two	1	0
-groups	1	2
-are	0	0
-very	1	0
-similar	1	2
-.	NA	NA

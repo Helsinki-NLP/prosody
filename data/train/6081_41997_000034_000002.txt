@@ -1,8 +1,0 @@
-That's	2	1
-the	0	0
-house	2	1
-the	0	0
-hussies	1	1
-went	0	0
-into	1	2
-.	NA	NA

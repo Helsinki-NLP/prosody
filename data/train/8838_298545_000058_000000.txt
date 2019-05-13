@@ -1,6 +1,0 @@
-Feel	2	0
-that	0	1
-!	NA	NA
-said	1	0
-he	0	2
-.	NA	NA

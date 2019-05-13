@@ -1,5 +1,0 @@
-And	0	0
-the	0	0
-sheriff	1	1
-added	2	2
-,	NA	NA

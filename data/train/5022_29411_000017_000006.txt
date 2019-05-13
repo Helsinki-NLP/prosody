@@ -1,6 +1,0 @@
-I'll	2	1
-be	0	0
-even	1	0
-with	0	1
-him	2	2
-.	NA	NA

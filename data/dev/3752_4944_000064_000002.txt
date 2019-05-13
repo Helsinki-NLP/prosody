@@ -1,5 +1,0 @@
-I	2	0
-can't	1	1
-help	0	0
-it	1	2
-.	NA	NA

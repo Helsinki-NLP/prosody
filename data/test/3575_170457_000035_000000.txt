@@ -1,3 +1,0 @@
-ROBERT	1	1
-SOUTHEY	1	2
-.	NA	NA

@@ -1,8 +1,0 @@
-That	2	0
-has	0	0
-a	0	1
-dandy	0	0
-swing	0	1
-to	0	0
-it	2	2
-.	NA	NA

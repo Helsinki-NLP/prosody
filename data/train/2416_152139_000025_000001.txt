@@ -1,9 +1,0 @@
-It's	0	1
-rather	2	0
-a	0	1
-good	0	0
-make	2	1
-,	NA	NA
-that	0	0
-safe	1	2
-.	NA	NA

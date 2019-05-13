@@ -1,8 +1,0 @@
-Is	0	0
-he	0	0
-a	0	1
-bad	2	1
-man	1	1
-,	NA	NA
-papa	2	2
-?	NA	NA

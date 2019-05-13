@@ -1,4 +1,0 @@
-The	0	0
-Bachelor	1	0
-smiled	1	2
-.	NA	NA

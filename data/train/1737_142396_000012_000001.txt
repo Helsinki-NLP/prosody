@@ -1,7 +1,0 @@
-Then	2	1
-brute	0	0
-force	1	0
-was	0	2
-pitilessly	2	0
-applied	1	2
-.	NA	NA

@@ -1,8 +1,0 @@
-Did	0	0
-you	2	0
-ever	0	1
-kill	1	0
-a	0	2
-subpoena	1	0
-server	1	2
-?	NA	NA

@@ -1,5 +1,0 @@
-Imprudent	1	1
-,	NA	NA
-thrice	2	0
-imprudent	0	2
-!	NA	NA

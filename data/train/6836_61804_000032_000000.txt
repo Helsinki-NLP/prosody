@@ -1,9 +1,0 @@
-Beautiful	2	1
-,	NA	NA
-even	0	0
-in	0	0
-death	2	2
-,	NA	NA
-was	0	0
-Isidora	2	2
-.	NA	NA

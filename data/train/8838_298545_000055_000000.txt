@@ -1,6 +1,0 @@
-I	1	0
-am	0	0
-always	0	0
-in	0	1
-training	2	2
-.	NA	NA

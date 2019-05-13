@@ -1,7 +1,0 @@
-That	1	0
-being	0	1
-understood	2	0
-then	0	2
-,	NA	NA
-proceed	2	2
-.	NA	NA

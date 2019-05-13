@@ -1,7 +1,0 @@
-He	0	1
-never	2	0
-make	0	1
-music	1	1
-any	0	0
-more	1	2
-.	NA	NA

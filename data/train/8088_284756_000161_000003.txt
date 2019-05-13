@@ -1,7 +1,0 @@
-The	0	0
-scene	1	0
-swirled	1	0
-and	0	1
-cleared	2	0
-again	0	2
-.	NA	NA

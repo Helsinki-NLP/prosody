@@ -1,7 +1,0 @@
-I	2	0
-read	0	0
-it	0	0
-in	0	2
-her	0	0
-face	1	2
-.	NA	NA

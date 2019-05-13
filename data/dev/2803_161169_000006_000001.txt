@@ -1,9 +1,0 @@
-It	0	1
-is	2	0
-this	0	1
-earth	2	1
-on	0	0
-which	0	0
-we	0	0
-live	1	2
-.	NA	NA

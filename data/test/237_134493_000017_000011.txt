@@ -1,7 +1,0 @@
-There	1	0
-will	0	0
-be	0	1
-barrels	2	0
-of	0	2
-beer	1	2
-.	NA	NA

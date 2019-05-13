@@ -1,8 +1,0 @@
-No	2	1
-,	NA	NA
-indeed	1	0
-,	NA	NA
-was	0	0
-the	0	1
-reply	2	2
-.	NA	NA

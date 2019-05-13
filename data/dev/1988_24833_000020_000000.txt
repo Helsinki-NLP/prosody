@@ -1,4 +1,0 @@
-So	2	1
-he	0	0
-cares	2	2
-.	NA	NA

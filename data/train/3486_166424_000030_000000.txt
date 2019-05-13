@@ -1,3 +1,0 @@
-All	0	0
-right	2	2
-.	NA	NA

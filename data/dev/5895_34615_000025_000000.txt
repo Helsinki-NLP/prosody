@@ -1,8 +1,0 @@
-With	0	0
-this	0	0
-exception	2	2
-,	NA	NA
-Gwynplaine's	2	1
-was	0	1
-everlasting	1	2
-.	NA	NA

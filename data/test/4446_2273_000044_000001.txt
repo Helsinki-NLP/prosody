@@ -1,9 +1,0 @@
-All	1	0
-the	0	2
-same	0	1
-,	NA	NA
-sing	2	0
-it	0	1
-,	NA	NA
-Hilda	2	2
-.	NA	NA

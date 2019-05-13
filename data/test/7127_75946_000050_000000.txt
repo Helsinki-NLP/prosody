@@ -1,3 +1,0 @@
-But	1	0
-what	2	2
-?	NA	NA

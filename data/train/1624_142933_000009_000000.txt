@@ -1,3 +1,0 @@
-peter	0	0
-listened	1	2
-.	NA	NA

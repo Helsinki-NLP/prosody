@@ -1,8 +1,0 @@
-The	0	1
-top	2	1
-floor	0	0
-belongs	1	1
-to	0	0
-Miles	1	1
-McLaren	2	2
-.	NA	NA

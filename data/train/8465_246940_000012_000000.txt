@@ -1,5 +1,0 @@
-He	0	0
-wouldn't	2	1
-heed	1	0
-you	0	2
-.	NA	NA

@@ -1,5 +1,0 @@
-Wait	2	1
-!	NA	NA
-exclaimed	0	0
-Drake	1	2
-.	NA	NA

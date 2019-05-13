@@ -1,5 +1,0 @@
-Are	1	0
-they	0	0
-worth	0	0
-reckoning	1	2
-?	NA	NA

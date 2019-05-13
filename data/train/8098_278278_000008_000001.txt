@@ -1,7 +1,0 @@
-Ordinary	2	0
-wood	0	1
-burns	1	0
-up	2	0
-too	0	1
-fast	2	2
-.	NA	NA

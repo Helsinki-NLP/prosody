@@ -1,7 +1,0 @@
-Well	1	1
-,	NA	NA
-of	1	1
-course	2	0
-they're	0	1
-dead	2	2
-.	NA	NA

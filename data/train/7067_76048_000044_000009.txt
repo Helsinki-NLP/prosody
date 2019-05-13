@@ -1,8 +1,0 @@
-I	0	0
-want	2	0
-it	0	0
-as	0	1
-my	0	0
-culminating	1	1
-want	2	2
-.	NA	NA

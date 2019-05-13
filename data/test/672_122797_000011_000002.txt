@@ -1,5 +1,0 @@
-What	2	1
-is	0	0
-it	0	0
-like	2	2
-?	NA	NA

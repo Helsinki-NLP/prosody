@@ -1,4 +1,0 @@
-As	2	0
-master	0	1
-wishes	1	2
-.	NA	NA

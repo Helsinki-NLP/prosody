@@ -1,5 +1,0 @@
-As	0	1
-are	0	0
-her	0	1
-feet	2	2
-.	NA	NA

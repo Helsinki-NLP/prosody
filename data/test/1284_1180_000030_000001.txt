@@ -1,7 +1,0 @@
-I	2	0
-would	0	1
-like	1	2
-to	0	0
-do	1	0
-that	1	2
-.	NA	NA

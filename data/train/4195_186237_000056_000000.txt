@@ -1,8 +1,0 @@
-To	0	0
-be	0	0
-sure	2	2
-,	NA	NA
-agreed	1	1
-the	0	0
-Major	2	2
-.	NA	NA

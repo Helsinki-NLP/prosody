@@ -1,9 +1,0 @@
-In	0	0
-fact	2	2
-,	NA	NA
-how	2	0
-could	0	0
-it	0	0
-be	0	0
-otherwise	0	2
-?	NA	NA

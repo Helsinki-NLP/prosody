@@ -1,7 +1,0 @@
-Your	0	0
-pose	2	0
-is	0	1
-perfect	1	1
-,	NA	NA
-dear	1	2
-.	NA	NA

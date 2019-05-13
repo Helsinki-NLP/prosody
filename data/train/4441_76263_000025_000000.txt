@@ -1,4 +1,0 @@
-A	1	0
-good	0	1
-subject	2	2
-!	NA	NA

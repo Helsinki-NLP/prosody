@@ -1,8 +1,0 @@
-Of	0	1
-coarse	2	1
-Farmer	0	1
-Brown's	1	1
-boy	1	0
-saw	0	0
-Redcoat	1	2
-.	NA	NA

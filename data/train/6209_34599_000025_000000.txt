@@ -1,6 +1,0 @@
-The	0	1
-boy	2	0
-did	0	1
-not	1	0
-hesitate	1	2
-.	NA	NA

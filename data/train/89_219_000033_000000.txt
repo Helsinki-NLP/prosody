@@ -1,8 +1,0 @@
-A	0	0
-mother	2	0
-would	0	1
-have	0	0
-been	1	0
-always	0	1
-present	2	2
-.	NA	NA

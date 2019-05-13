@@ -1,5 +1,0 @@
-I've	2	0
-only	0	0
-been	0	1
-thinking	2	2
-.	NA	NA

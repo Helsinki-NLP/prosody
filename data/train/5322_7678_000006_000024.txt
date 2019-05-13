@@ -1,4 +1,0 @@
-He	0	0
-grew	0	0
-frightened	2	2
-.	NA	NA

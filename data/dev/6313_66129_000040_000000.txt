@@ -1,9 +1,0 @@
-Yes	2	1
-,	NA	NA
-the	0	0
-country	0	0
-is	0	1
-full	1	0
-of	0	1
-caves	2	2
-.	NA	NA

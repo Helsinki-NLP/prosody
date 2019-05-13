@@ -1,8 +1,0 @@
-Her	0	0
-heart	2	0
-was	0	1
-broken	1	0
-with	0	2
-cruel	2	0
-anguish	1	2
-.	NA	NA

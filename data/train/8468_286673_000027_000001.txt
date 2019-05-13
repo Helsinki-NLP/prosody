@@ -1,9 +1,0 @@
-I	2	0
-wish	0	0
-I	0	0
-might	1	1
-help	2	1
-you	1	0
-some	0	1
-time	2	2
-.	NA	NA

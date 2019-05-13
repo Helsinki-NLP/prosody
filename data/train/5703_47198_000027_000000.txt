@@ -1,5 +1,0 @@
-Hullo	2	1
-,	NA	NA
-what's	1	0
-this	2	2
-?	NA	NA

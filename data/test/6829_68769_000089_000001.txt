@@ -1,7 +1,0 @@
-Why	2	1
-should	0	1
-you	0	0
-do	1	0
-all	0	1
-this	2	2
-?	NA	NA

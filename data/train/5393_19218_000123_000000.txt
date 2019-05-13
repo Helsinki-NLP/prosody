@@ -1,4 +1,0 @@
-That	2	0
-don't	0	1
-matter	1	2
-.	NA	NA

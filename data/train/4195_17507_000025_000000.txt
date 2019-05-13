@@ -1,7 +1,0 @@
-Where's	2	0
-your	0	1
-uniform	1	2
-?	NA	NA
-he	0	0
-asked	2	2
-.	NA	NA

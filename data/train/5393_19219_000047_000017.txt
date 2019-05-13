@@ -1,5 +1,0 @@
-Down	2	0
-with	0	1
-the	0	0
-philosophers	1	2
-!	NA	NA

@@ -1,8 +1,0 @@
-Let	2	0
-us	0	0
-take	2	0
-the	0	1
-little	0	0
-table	2	1
-first	1	2
-.	NA	NA

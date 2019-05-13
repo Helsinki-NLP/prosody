@@ -1,4 +1,0 @@
-She'll	0	0
-just	0	1
-laugh	2	2
-.	NA	NA

@@ -1,6 +1,0 @@
-Strike	2	2
-,	NA	NA
-I	1	0
-command	1	0
-you	0	2
-!	NA	NA

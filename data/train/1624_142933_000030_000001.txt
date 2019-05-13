@@ -1,8 +1,0 @@
-Whatever	1	0
-shall	0	0
-I	0	1
-do	2	2
-?	NA	NA
-sobbed	1	0
-Redcoat	0	2
-.	NA	NA

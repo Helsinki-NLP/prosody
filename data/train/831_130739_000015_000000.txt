@@ -1,6 +1,0 @@
-But	0	0
-enough	2	0
-of	0	1
-these	0	0
-revelations	1	2
-.	NA	NA

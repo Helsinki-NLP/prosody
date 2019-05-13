@@ -1,9 +1,0 @@
-On	0	0
-consecutive	1	0
-nights	2	1
-two	0	0
-doctors'	2	1
-houses	1	1
-were	0	0
-burgled	2	2
-.	NA	NA

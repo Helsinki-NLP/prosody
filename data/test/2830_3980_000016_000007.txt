@@ -1,4 +1,0 @@
-Paul	2	0
-stands	1	0
-alone	1	2
-.	NA	NA

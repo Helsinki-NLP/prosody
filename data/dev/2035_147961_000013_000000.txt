@@ -1,9 +1,0 @@
-The	0	1
-sick	2	0
-man	0	0
-raged	0	2
-and	0	0
-shook	1	0
-his	1	1
-fist	2	2
-.	NA	NA

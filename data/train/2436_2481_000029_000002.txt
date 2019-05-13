@@ -1,6 +1,0 @@
-You	0	0
-look	1	0
-like	0	0
-a	0	2
-ghost	2	2
-.	NA	NA

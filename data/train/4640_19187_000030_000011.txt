@@ -1,9 +1,0 @@
-One	1	1
-feels	2	1
-the	0	0
-God	0	2
-through	1	0
-the	0	0
-greater	1	0
-outrage	0	2
-.	NA	NA

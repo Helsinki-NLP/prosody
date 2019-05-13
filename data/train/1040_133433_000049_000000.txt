@@ -1,3 +1,0 @@
-Certainly	2	1
-not	1	2
-.	NA	NA

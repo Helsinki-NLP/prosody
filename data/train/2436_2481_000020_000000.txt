@@ -1,7 +1,0 @@
-Gregg	2	2
-,	NA	NA
-keep	0	0
-the	0	0
-passengers	1	0
-quieted	1	2
-.	NA	NA

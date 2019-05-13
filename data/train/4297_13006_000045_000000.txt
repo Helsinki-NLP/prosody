@@ -1,6 +1,0 @@
-Did	0	0
-you	0	1
-tell	2	0
-him	0	1
-so	1	2
-?	NA	NA

@@ -1,7 +1,0 @@
-You're	2	0
-a	0	1
-partner	2	1
-,	NA	NA
-aren't	0	1
-you	2	2
-?	NA	NA

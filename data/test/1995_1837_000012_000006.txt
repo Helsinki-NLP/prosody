@@ -1,5 +1,0 @@
-The	0	0
-lagoon	1	0
-was	0	1
-dry	2	2
-.	NA	NA

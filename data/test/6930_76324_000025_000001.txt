@@ -1,5 +1,0 @@
-I'm	0	0
-just	0	1
-dog	1	1
-tired	2	2
-!	NA	NA

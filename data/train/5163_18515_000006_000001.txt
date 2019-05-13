@@ -1,6 +1,0 @@
-And	0	0
-he	0	0
-looks	2	1
-hungry	0	1
-enough	0	2
-.	NA	NA

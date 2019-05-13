@@ -1,8 +1,0 @@
-I	0	0
-don't	2	1
-pass	0	0
-my	0	0
-life	0	0
-in	0	2
-thinking	2	2
-.	NA	NA

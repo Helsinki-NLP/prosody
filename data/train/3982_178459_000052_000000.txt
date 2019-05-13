@@ -1,6 +1,0 @@
-I	1	0
-believe	2	0
-it	0	1
-,	NA	NA
-Bibbs	1	2
-.	NA	NA

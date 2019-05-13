@@ -1,8 +1,0 @@
-Your	0	0
-aunt	1	1
-owned	0	0
-nothing	1	2
-to	0	0
-give	2	0
-you	0	2
-.	NA	NA

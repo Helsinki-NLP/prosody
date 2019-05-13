@@ -1,9 +1,0 @@
-He	0	0
-has	1	1
-been	1	0
-my	0	0
-favourite	1	1
-author	2	1
-for	0	0
-years	2	2
-!	NA	NA

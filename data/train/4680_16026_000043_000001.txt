@@ -1,4 +1,0 @@
-You've	0	0
-embraced	2	1
-me	1	2
-.	NA	NA

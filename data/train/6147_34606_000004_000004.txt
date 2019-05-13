@@ -1,8 +1,0 @@
-The	0	1
-reaction	2	0
-against	0	1
-the	0	0
-wig	1	0
-was	0	1
-beginning	2	2
-.	NA	NA

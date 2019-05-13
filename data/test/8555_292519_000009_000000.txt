@@ -1,6 +1,0 @@
-You	0	0
-thought	2	0
-I	0	1
-had	0	1
-forgotten	2	2
-.	NA	NA

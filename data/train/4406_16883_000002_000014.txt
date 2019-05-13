@@ -1,9 +1,0 @@
-I	1	0
-could	0	1
-scarce	2	1
-discern	1	1
-one	0	0
-wigwam	0	1
-from	0	0
-another	2	2
-.	NA	NA

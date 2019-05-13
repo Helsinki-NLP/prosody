@@ -1,6 +1,0 @@
-He	0	0
-really	1	0
-isn't	0	1
-very	0	1
-particular	1	2
-.	NA	NA

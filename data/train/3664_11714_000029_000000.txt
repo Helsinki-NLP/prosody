@@ -1,9 +1,0 @@
-What	1	0
-are	1	0
-they	0	0
-?	NA	NA
-asked	1	2
-the	0	0
-dying	1	1
-man	2	2
-.	NA	NA

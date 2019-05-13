@@ -1,5 +1,0 @@
-On	0	1
-the	0	0
-bench	1	1
-yesterday	2	2
-.	NA	NA

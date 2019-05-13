@@ -1,9 +1,0 @@
-It	1	0
-will	0	1
-be	1	1
-only	0	1
-right	2	1
-to	0	0
-do	0	0
-so	2	2
-.	NA	NA

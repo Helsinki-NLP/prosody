@@ -1,4 +1,0 @@
-Bobby	2	0
-looked	0	1
-up	1	2
-.	NA	NA

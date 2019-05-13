@@ -1,7 +1,0 @@
-Hilda	1	1
-sprang	2	0
-up	0	0
-like	0	0
-a	0	1
-flame	2	2
-.	NA	NA

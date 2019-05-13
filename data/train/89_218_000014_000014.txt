@@ -1,5 +1,0 @@
-What	0	0
-could	1	0
-it	0	1
-contain	2	2
-?	NA	NA

@@ -1,8 +1,0 @@
-Everything	2	0
-can	0	1
-be	0	0
-parodied	2	2
-,	NA	NA
-even	1	0
-parody	2	2
-.	NA	NA

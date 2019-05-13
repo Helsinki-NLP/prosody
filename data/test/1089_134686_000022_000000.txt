@@ -1,6 +1,0 @@
-Shut	2	0
-up	0	1
-,	NA	NA
-will	1	0
-you	0	2
-.	NA	NA

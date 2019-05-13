@@ -1,9 +1,0 @@
-I	0	0
-was	0	0
-sure	1	0
-of	0	0
-it	0	2
-the	0	0
-cursed	2	1
-letter	2	2
-!	NA	NA

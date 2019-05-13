@@ -1,4 +1,0 @@
-Constance	2	1
-kissed	1	1
-her	0	2
-.	NA	NA

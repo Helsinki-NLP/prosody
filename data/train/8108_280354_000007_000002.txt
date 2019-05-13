@@ -1,7 +1,0 @@
-It	0	0
-is	1	0
-my	0	1
-wife	2	0
-I	0	1
-seek	1	2
-.	NA	NA

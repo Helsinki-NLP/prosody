@@ -1,7 +1,0 @@
-I	2	0
-do	0	0
-not	1	1
-advise	2	1
-the	0	0
-custard	1	2
-.	NA	NA

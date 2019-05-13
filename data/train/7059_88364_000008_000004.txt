@@ -1,8 +1,0 @@
-But	0	0
-even	0	0
-these	2	0
-things	1	0
-make	1	2
-for	0	0
-coincidence	1	2
-.	NA	NA

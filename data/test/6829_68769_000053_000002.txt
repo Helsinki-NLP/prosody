@@ -1,8 +1,0 @@
-That's	1	1
-how	2	1
-all	1	0
-the	0	0
-trouble	1	1
-came	0	0
-about	2	2
-.	NA	NA

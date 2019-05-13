@@ -1,6 +1,0 @@
-She	0	0
-leaned	1	2
-closer	2	0
-toward	0	0
-me	0	2
-.	NA	NA

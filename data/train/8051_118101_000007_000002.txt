@@ -1,9 +1,0 @@
-Their	1	0
-attachment	2	2
-to	0	0
-each	0	0
-other	1	0
-was	0	0
-evidently	0	1
-true	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-We	0	0
-did	2	0
-it	0	1
-just	0	0
-out	1	0
-of	0	1
-foolishness	2	2
-.	NA	NA

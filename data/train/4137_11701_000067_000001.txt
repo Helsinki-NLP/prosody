@@ -1,4 +1,0 @@
-Poor	2	0
-innocent	0	1
-girl	2	2
-.	NA	NA

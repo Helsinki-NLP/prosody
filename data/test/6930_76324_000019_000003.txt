@@ -1,6 +1,0 @@
-But	2	1
-they'll	1	0
-have	0	1
-to	0	0
-do	1	2
-.	NA	NA

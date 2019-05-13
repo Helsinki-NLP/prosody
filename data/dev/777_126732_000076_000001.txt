@@ -1,9 +1,0 @@
-He	0	0
-gets	2	0
-a	0	0
-red	2	1
-face	2	1
-poring	1	0
-over	0	0
-them	0	2
-.	NA	NA

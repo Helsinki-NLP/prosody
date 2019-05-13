@@ -1,5 +1,0 @@
-He	0	1
-needed	1	1
-little	0	0
-urging	2	2
-.	NA	NA

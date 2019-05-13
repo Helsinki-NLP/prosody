@@ -1,7 +1,0 @@
-Most	2	0
-of	0	0
-its	0	1
-population	1	1
-were	0	0
-massacred	1	2
-.	NA	NA

@@ -1,9 +1,0 @@
-I	2	0
-am	0	0
-ever	0	0
-so	0	0
-much	1	2
-more	2	0
-than	0	1
-twenty	1	2
-.	NA	NA

@@ -1,5 +1,0 @@
-In	0	0
-the	0	1
-bride's	2	1
-trap	2	2
-.	NA	NA

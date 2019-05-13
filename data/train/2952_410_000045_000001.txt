@@ -1,5 +1,0 @@
-I	1	0
-was	0	1
-not	2	1
-joking	1	2
-.	NA	NA

@@ -1,7 +1,0 @@
-Then	1	0
-suddenly	2	1
-a	0	0
-panic	2	1
-seized	1	0
-her	1	2
-.	NA	NA

@@ -1,4 +1,0 @@
-If	1	2
-people	0	0
-dare	2	2
-.	NA	NA

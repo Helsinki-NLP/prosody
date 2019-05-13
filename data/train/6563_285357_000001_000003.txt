@@ -1,7 +1,0 @@
-Accidents	2	1
-were	0	0
-of	0	0
-almost	1	1
-daily	1	0
-occurrence	2	2
-.	NA	NA

@@ -1,6 +1,0 @@
-These	2	0
-were	0	0
-his	0	1
-first	1	1
-thoughts	2	2
-.	NA	NA

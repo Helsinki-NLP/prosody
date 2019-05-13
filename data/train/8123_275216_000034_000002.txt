@@ -1,9 +1,0 @@
-The	0	0
-Little	2	0
-Oak	0	0
-had	0	2
-grown	0	0
-ever	0	1
-so	0	0
-much	1	2
-.	NA	NA

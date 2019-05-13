@@ -1,8 +1,0 @@
-In	0	0
-three	0	0
-hours	2	1
-my	0	0
-tour	1	0
-was	0	1
-complete	1	2
-.	NA	NA

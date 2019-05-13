@@ -1,6 +1,0 @@
-Doubting	2	1
-,	NA	NA
-he	0	0
-yet	1	1
-persevered	0	2
-.	NA	NA

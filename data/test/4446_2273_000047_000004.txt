@@ -1,8 +1,0 @@
-Isn't	0	0
-London	1	0
-a	0	2
-tomb	2	0
-on	0	1
-Sunday	1	0
-night	2	2
-?	NA	NA

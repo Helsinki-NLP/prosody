@@ -1,6 +1,0 @@
-It	2	0
-creeps	1	1
-into	0	0
-my	0	1
-brain	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-They	0	0
-look	1	0
-like	0	1
-skeletons	2	1
-covered	1	0
-with	0	1
-leather	2	2
-.	NA	NA

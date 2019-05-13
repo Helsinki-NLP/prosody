@@ -1,6 +1,0 @@
-It	1	0
-must	2	1
-be	0	0
-nearly	0	1
-full	2	2
-.	NA	NA

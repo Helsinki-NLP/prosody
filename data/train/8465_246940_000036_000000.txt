@@ -1,7 +1,0 @@
-Then	2	1
-to	0	0
-forgive	0	0
-and	0	1
-console	1	0
-me	0	2
-.	NA	NA

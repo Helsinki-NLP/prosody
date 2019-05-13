@@ -1,9 +1,0 @@
-There	2	0
-could	1	0
-be	0	1
-no	1	0
-better	0	1
-recommendation	2	1
-than	0	0
-this	1	2
-.	NA	NA

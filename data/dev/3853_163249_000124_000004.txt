@@ -1,7 +1,0 @@
-Can	0	0
-you	0	1
-bear	2	0
-it	0	1
-,	NA	NA
-love	2	2
-?	NA	NA

@@ -1,8 +1,0 @@
-What	1	0
-do	0	0
-you	0	0
-mean	2	1
-?	NA	NA
-inquired	2	0
-Louis	1	2
-.	NA	NA

@@ -1,3 +1,0 @@
-Any	0	1
-answer	2	2
-?	NA	NA

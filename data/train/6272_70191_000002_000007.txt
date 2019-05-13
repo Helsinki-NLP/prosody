@@ -1,6 +1,0 @@
-Veronica	1	1
-knew	0	0
-nothing	0	0
-of	0	1
-this	2	2
-.	NA	NA

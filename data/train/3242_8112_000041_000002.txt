@@ -1,7 +1,0 @@
-He	0	0
-does	1	0
-feel	1	0
-pleasant	2	1
-to	0	0
-touch	2	2
-.	NA	NA

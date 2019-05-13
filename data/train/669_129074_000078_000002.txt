@@ -1,5 +1,0 @@
-He	0	0
-must	1	1
-go	0	0
-now	2	2
-.	NA	NA

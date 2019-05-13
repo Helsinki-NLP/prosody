@@ -1,6 +1,0 @@
-But	0	0
-that	2	0
-is	0	1
-impossible	2	1
-now	1	2
-!	NA	NA

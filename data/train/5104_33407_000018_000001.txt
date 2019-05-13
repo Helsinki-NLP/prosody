@@ -1,6 +1,0 @@
-He	1	0
-is	0	1
-surely	1	0
-worth	0	1
-knowing	2	2
-.	NA	NA

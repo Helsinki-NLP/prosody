@@ -1,9 +1,0 @@
-Now	0	0
-,	NA	NA
-Anne	2	1
-,	NA	NA
-get	1	0
-busy	2	0
-at	0	1
-once	1	2
-.	NA	NA

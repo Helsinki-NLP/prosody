@@ -1,8 +1,0 @@
-Glenarvan's	2	0
-,	NA	NA
-firm	2	0
-till	0	0
-now	0	1
-,	NA	NA
-faltered	2	2
-.	NA	NA

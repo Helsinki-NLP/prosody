@@ -1,5 +1,0 @@
-Parishes	1	0
-infected	1	1
-,	NA	NA
-one	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-The	0	0
-bogus	2	0
-Legislature	0	0
-numbered	0	2
-thirty	1	0
-six	0	0
-members	1	2
-.	NA	NA

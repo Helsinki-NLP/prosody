@@ -1,6 +1,0 @@
-A	1	0
-lawyer	2	0
-,	NA	NA
-I	0	1
-believe	1	2
-.	NA	NA

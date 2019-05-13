@@ -1,9 +1,0 @@
-It	1	0
-is	0	0
-much	0	0
-used	1	1
-also	2	0
-by	0	1
-the	0	0
-whites	2	2
-.	NA	NA

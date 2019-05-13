@@ -1,4 +1,0 @@
-What	1	0
-,	NA	NA
-daddy	1	2
-?	NA	NA

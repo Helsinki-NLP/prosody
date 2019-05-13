@@ -1,8 +1,0 @@
-It	0	0
-isn't	2	2
-,	NA	NA
-said	2	0
-the	0	0
-Adder	0	1
-decidedly	1	2
-.	NA	NA

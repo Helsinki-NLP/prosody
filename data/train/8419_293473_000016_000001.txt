@@ -1,4 +1,0 @@
-How	0	0
-very	1	1
-common	2	2
-!	NA	NA

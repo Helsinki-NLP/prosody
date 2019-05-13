@@ -1,9 +1,0 @@
-Others	1	0
-hurled	1	2
-cheap	1	0
-and	0	1
-childish	1	0
-epithets	0	0
-at	1	0
-them	0	2
-.	NA	NA

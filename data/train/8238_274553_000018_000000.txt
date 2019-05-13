@@ -1,5 +1,0 @@
-Your	0	0
-most	2	0
-humble	0	1
-servant	1	2
-,	NA	NA

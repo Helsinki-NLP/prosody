@@ -1,8 +1,0 @@
-Would	1	1
-they	2	0
-be	0	1
-right	2	0
-in	0	0
-the	0	1
-future	2	2
-?	NA	NA

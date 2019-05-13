@@ -1,7 +1,0 @@
-I	1	0
-predicted	0	0
-it	2	2
-from	0	0
-the	0	0
-first	2	2
-!	NA	NA

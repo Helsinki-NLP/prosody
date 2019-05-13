@@ -1,8 +1,0 @@
-Are	1	0
-you	0	1
-sure	1	0
-you	0	1
-can	0	1
-afford	0	0
-it	2	2
-?	NA	NA

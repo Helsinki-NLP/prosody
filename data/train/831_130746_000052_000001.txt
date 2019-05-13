@@ -1,9 +1,0 @@
-I	0	0
-was	2	0
-unhappy	1	0
-at	0	1
-home	1	2
-never	2	0
-mind	0	1
-why	2	2
-.	NA	NA

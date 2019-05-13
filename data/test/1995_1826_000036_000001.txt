@@ -1,8 +1,0 @@
-But	2	1
-what	0	0
-did	0	0
-I	1	1
-say	1	0
-so	1	1
-funny	2	2
-?	NA	NA

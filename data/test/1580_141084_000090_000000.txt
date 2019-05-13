@@ -1,8 +1,0 @@
-Come	2	0
-now	1	0
-,	NA	NA
-Bannister	0	1
-,	NA	NA
-said	0	0
-Holmes	2	2
-.	NA	NA

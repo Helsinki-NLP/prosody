@@ -1,4 +1,0 @@
-Here	1	0
-he	0	0
-is	1	2
-!	NA	NA

@@ -1,8 +1,0 @@
-She	2	0
-made	0	0
-a	0	1
-vague	1	1
-gesture	1	0
-of	0	1
-denial	2	2
-.	NA	NA

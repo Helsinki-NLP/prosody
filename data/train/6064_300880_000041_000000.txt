@@ -1,6 +1,0 @@
-Boulder	2	0
-Brook	0	1
-on	0	0
-Lake	1	1
-Quam	1	2
-.	NA	NA

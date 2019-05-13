@@ -1,6 +1,0 @@
-They	1	0
-do	0	0
-not	2	1
-really	0	1
-criticize	2	2
-.	NA	NA

@@ -1,3 +1,0 @@
-That's	0	1
-evident	1	2
-.	NA	NA

@@ -1,9 +1,0 @@
-What	2	0
-is	0	1
-behind	2	0
-that	0	1
-door	2	0
-?	NA	NA
-said	0	1
-he	1	2
-.	NA	NA

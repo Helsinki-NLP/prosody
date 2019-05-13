@@ -1,5 +1,0 @@
-Object	2	1
-there	1	0
-was	0	0
-none	1	2
-.	NA	NA

@@ -1,7 +1,0 @@
-Did	1	0
-her	0	1
-boy	2	0
-ever	0	1
-pray	0	0
-now	2	2
-?	NA	NA

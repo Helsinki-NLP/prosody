@@ -1,4 +1,0 @@
-Look	1	0
-over	0	1
-there	2	2
-!	NA	NA

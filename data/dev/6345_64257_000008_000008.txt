@@ -1,5 +1,0 @@
-It	0	0
-was	0	0
-all	2	1
-deadness	2	2
-.	NA	NA

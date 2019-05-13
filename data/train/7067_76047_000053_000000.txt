@@ -1,9 +1,0 @@
-dr	2	1
-Martineau	2	1
-rolled	2	1
-his	0	0
-face	2	1
-towards	1	0
-Sir	0	1
-Richmond	0	2
-.	NA	NA

@@ -1,7 +1,0 @@
-Go	2	0
-dear	0	1
-,	NA	NA
-I'll	0	0
-come	0	0
-directly	1	2
-.	NA	NA

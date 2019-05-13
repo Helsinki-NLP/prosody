@@ -1,7 +1,0 @@
-He	0	0
-moved	2	0
-a	0	1
-step	1	1
-nearer	0	0
-her	2	2
-.	NA	NA

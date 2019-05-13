@@ -1,7 +1,0 @@
-To	0	0
-this	0	0
-question	2	2
-,	NA	NA
-I	0	0
-replied	2	2
-.	NA	NA

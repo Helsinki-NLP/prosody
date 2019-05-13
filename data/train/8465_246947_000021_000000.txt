@@ -1,9 +1,0 @@
-I	0	0
-did	2	0
-not	0	1
-hear	2	0
-you	0	2
-,	NA	NA
-he	0	0
-returned	1	2
-.	NA	NA

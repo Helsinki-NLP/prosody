@@ -1,4 +1,0 @@
-He	0	1
-possessed	1	0
-others	1	2
-.	NA	NA

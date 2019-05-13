@@ -1,9 +1,0 @@
-Or	2	0
-like	0	1
-Sancho	0	0
-Panza's	0	1
-island	2	1
-,	NA	NA
-said	0	0
-North	1	2
-.	NA	NA

@@ -1,4 +1,0 @@
-It	0	0
-is	0	1
-love	2	2
-.	NA	NA

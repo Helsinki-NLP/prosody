@@ -1,8 +1,0 @@
-I	2	1
-am	1	1
-patient	1	2
-,	NA	NA
-but	0	0
-go	0	0
-on	1	2
-.	NA	NA

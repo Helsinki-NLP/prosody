@@ -1,9 +1,0 @@
-He	1	0
-requested	2	1
-a	0	0
-personal	1	0
-treaty	0	0
-with	0	2
-the	0	0
-parliament	2	2
-.	NA	NA

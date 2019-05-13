@@ -1,9 +1,0 @@
-The	0	0
-city	1	0
-of	0	1
-Damdamusa	1	2
-was	1	0
-set	1	0
-on	0	1
-fire	2	2
-.	NA	NA

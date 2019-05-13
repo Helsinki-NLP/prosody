@@ -1,9 +1,0 @@
-Forgive	2	0
-me	0	2
-!	NA	NA
-cried	2	0
-Edmond	0	1
-,	NA	NA
-blushing	1	0
-deeply	1	2
-.	NA	NA

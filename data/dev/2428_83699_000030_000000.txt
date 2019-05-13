@@ -1,8 +1,0 @@
-Better	2	0
-ring	0	1
-again	2	0
-,	NA	NA
-suggested	1	2
-the	0	0
-driver	2	2
-.	NA	NA

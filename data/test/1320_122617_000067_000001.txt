@@ -1,5 +1,0 @@
-'twas	1	0
-nothing	1	1
-but	0	0
-wonderment	2	2
-.	NA	NA

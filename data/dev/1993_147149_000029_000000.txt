@@ -1,7 +1,0 @@
-Where	1	0
-is	0	0
-he	1	2
-?	NA	NA
-asked	2	1
-Mary	1	2
-.	NA	NA

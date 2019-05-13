@@ -1,8 +1,0 @@
-Show	2	0
-me	0	0
-a	0	0
-penny	1	2
-,	NA	NA
-Jesus	2	0
-replied	1	2
-.	NA	NA

@@ -1,8 +1,0 @@
-And	0	0
-I	0	0
-wasn't	2	1
-afraid	1	0
-to	0	1
-think	2	0
-either	2	2
-.	NA	NA

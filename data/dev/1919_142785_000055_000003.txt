@@ -1,8 +1,0 @@
-Lemon	2	0
-juice	0	1
-may	0	0
-be	0	0
-added	1	0
-at	1	1
-pleasure	2	2
-.	NA	NA

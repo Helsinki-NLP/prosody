@@ -1,7 +1,0 @@
-No	2	0
-,	NA	NA
-I	0	1
-haven't	1	1
-,	NA	NA
-Lyra	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-Now	1	0
-leave	2	1
-the	0	0
-house	1	2
-,	0	1
-mr	NA	NA
-Beryl	2	2
-.	NA	NA

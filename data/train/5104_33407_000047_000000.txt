@@ -1,8 +1,0 @@
-What	0	0
-is	2	0
-it	0	2
-?	NA	NA
-cried	2	1
-the	0	0
-men	1	2
-.	NA	NA

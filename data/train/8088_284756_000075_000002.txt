@@ -1,4 +1,0 @@
-Let's	1	0
-get	1	1
-busy	1	2
-.	NA	NA

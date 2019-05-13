@@ -1,7 +1,0 @@
-Their	0	0
-masters	2	1
-,	NA	NA
-said	1	0
-Mrs	0	1
-Neverbend	1	2
-.	NA	NA

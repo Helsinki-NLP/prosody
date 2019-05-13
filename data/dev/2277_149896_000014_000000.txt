@@ -1,6 +1,0 @@
-Hurstwood	2	0
-recognised	0	1
-his	0	0
-wife's	1	0
-writing	2	2
-.	NA	NA

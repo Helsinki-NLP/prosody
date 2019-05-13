@@ -1,8 +1,0 @@
-They	2	0
-say	1	1
-Felsenburgh's	2	2
-the	0	1
-whole	2	0
-thing	0	0
-now	1	2
-.	NA	NA

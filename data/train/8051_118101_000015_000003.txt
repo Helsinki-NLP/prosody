@@ -1,5 +1,0 @@
-His	0	0
-master	1	0
-he	0	1
-describes	2	1
-thus	2	2

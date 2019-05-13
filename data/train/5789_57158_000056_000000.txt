@@ -1,7 +1,0 @@
-I	2	0
-will	0	0
-leave	0	1
-a	0	0
-card	2	0
-then	0	2
-.	NA	NA

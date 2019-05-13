@@ -1,6 +1,0 @@
-Marguerite's	2	1
-aching	0	0
-heart	0	1
-stood	0	0
-still	2	2
-.	NA	NA

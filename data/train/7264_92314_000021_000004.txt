@@ -1,5 +1,0 @@
-Their	0	0
-number	2	0
-will	0	1
-increase	1	2
-.	NA	NA

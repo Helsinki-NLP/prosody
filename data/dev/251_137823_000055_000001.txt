@@ -1,8 +1,0 @@
-We're	2	0
-not	1	1
-stretcher	1	0
-cases	1	2
-,	NA	NA
-he	0	0
-said	2	2
-.	NA	NA

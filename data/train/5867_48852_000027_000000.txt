@@ -1,8 +1,0 @@
-Well	2	0
-,	NA	NA
-yes	1	1
-;	NA	NA
-we	0	0
-think	1	0
-so	2	2
-.	NA	NA

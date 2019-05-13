@@ -1,5 +1,0 @@
-March	2	1
-,	NA	NA
-I	0	0
-say	1	2
-.	NA	NA

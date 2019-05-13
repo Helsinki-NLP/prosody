@@ -1,7 +1,0 @@
-How	2	0
-shall	0	0
-this	0	1
-success	2	1
-be	0	0
-achieved	2	2
-?	NA	NA

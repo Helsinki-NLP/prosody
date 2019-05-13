@@ -1,7 +1,0 @@
-I	0	1
-want	2	1
-you	1	0
-to	0	1
-tell	2	0
-me	1	2
-.	NA	NA

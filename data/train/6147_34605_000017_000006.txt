@@ -1,4 +1,0 @@
-An	0	0
-uneven	0	1
-match	2	2
-.	NA	NA

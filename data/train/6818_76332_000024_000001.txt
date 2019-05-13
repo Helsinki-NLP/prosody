@@ -1,8 +1,0 @@
-Yes	2	1
-,	NA	NA
-I	1	0
-knew	0	0
-them	0	2
-quite	2	0
-intimately	0	2
-.	NA	NA

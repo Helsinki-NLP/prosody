@@ -1,7 +1,0 @@
-Here	2	0
-the	0	0
-French	1	1
-made	1	0
-their	0	0
-abode	1	2
-.	NA	NA

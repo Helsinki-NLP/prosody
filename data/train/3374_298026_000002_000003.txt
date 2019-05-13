@@ -1,9 +1,0 @@
-Only	1	0
-here	0	0
-I	0	0
-see	0	0
-myself	1	2
-in	0	0
-harmonious	2	2
-completeness	2	2
-.	NA	NA

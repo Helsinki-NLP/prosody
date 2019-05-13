@@ -1,9 +1,0 @@
-The	0	0
-audacity	2	1
-of	0	0
-the	0	0
-thing	0	0
-took	1	0
-his	0	1
-breath	1	2
-.	NA	NA

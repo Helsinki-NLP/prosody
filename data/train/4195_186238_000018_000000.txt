@@ -1,5 +1,0 @@
-Your	0	1
-card	2	1
-,	NA	NA
-sir	1	2
-.	NA	NA

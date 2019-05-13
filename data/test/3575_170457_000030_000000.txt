@@ -1,3 +1,0 @@
-Dear	0	0
-Madam	1	2
-,	NA	NA

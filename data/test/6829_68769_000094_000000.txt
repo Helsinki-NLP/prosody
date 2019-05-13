@@ -1,8 +1,0 @@
-Pay	1	0
-it	0	1
-,	NA	NA
-Ken	1	2
-,	NA	NA
-she	2	0
-whispered	2	2
-.	NA	NA

@@ -1,7 +1,0 @@
-Perhaps	2	1
-I	0	0
-may	0	0
-tell	0	0
-you	0	1
-later	2	2
-.	NA	NA

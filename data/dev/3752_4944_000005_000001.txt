@@ -1,9 +1,0 @@
-How	2	0
-sweet	1	1
-the	0	0
-moonlight	1	1
-sleeps	1	0
-upon	0	0
-that	0	0
-bank	2	2
-!	NA	NA

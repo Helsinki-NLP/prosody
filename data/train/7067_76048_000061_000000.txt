@@ -1,9 +1,0 @@
-She	0	0
-considered	2	2
-and	0	0
-turned	2	0
-on	0	0
-Sir	0	0
-Richmond	0	0
-gravely	1	2
-.	NA	NA

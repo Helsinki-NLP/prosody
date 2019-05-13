@@ -1,5 +1,0 @@
-I	0	1
-sincerely	2	0
-trust	0	1
-not	2	2
-.	NA	NA

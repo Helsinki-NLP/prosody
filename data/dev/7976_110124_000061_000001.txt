@@ -1,8 +1,0 @@
-All	2	0
-my	0	1
-worries	1	0
-about	0	1
-you	0	0
-were	1	1
-foolish	2	2
-.	NA	NA

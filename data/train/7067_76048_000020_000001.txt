@@ -1,5 +1,0 @@
-dr	0	0
-Martineau	1	1
-was	0	0
-forgotten	1	2
-.	NA	NA

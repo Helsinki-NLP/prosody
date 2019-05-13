@@ -1,8 +1,0 @@
-All	2	0
-the	0	1
-furniture	0	0
-belonged	2	0
-to	0	1
-other	0	0
-times	1	2
-.	NA	NA

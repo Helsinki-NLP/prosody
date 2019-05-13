@@ -1,3 +1,0 @@
-Units	2	1
-of	0	0
-Measure	1	2

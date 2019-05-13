@@ -1,5 +1,0 @@
-The	0	0
-girl	1	0
-he	0	1
-loved	2	2
-!	NA	NA

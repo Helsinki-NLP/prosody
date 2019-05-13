@@ -1,2 +1,0 @@
-CHAPTER	1	1
-twelve	1	2

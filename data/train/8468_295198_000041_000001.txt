@@ -1,9 +1,0 @@
-Here	0	0
-,	NA	NA
-here	1	1
-,	NA	NA
-Wasp	2	1
-,	NA	NA
-my	0	0
-boy	2	2
-.	NA	NA

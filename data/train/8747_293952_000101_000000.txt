@@ -1,9 +1,0 @@
-Jerry	2	0
-tossed	1	2
-his	0	0
-fair	1	0
-curls	1	0
-and	0	1
-looked	1	0
-roguish	2	2
-.	NA	NA

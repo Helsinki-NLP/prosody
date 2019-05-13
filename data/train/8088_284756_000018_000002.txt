@@ -1,5 +1,0 @@
-I	0	0
-don't	0	1
-blame	2	1
-you	0	2
-.	NA	NA

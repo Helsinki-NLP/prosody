@@ -1,7 +1,0 @@
-Behold	2	0
-it	0	1
-,	NA	NA
-said	1	0
-the	0	0
-sheriff	1	2
-.	NA	NA

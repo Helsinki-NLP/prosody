@@ -1,8 +1,0 @@
-It	0	0
-is	0	1
-thou	2	0
-that	0	1
-must	0	0
-tell	1	0
-me	0	2
-!	NA	NA

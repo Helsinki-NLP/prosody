@@ -1,7 +1,0 @@
-And	1	0
-for	0	1
-small	2	1
-cops	2	1
-,	NA	NA
-too	2	2
-!	NA	NA

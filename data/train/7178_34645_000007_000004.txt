@@ -1,8 +1,0 @@
-The	0	0
-answer	0	0
-is	1	1
-,	NA	NA
-cynicism	2	2
-haughty	2	0
-indifference	0	2
-.	NA	NA

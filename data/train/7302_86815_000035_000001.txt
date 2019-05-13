@@ -1,7 +1,0 @@
-Have	1	0
-you	0	0
-been	2	0
-working	1	0
-all	0	1
-night	1	2
-?	NA	NA

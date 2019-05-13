@@ -1,6 +1,0 @@
-It	0	0
-is	0	0
-not	1	0
-your	0	1
-sister	2	2
-?	NA	NA

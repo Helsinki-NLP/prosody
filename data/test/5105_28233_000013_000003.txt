@@ -1,4 +1,0 @@
-The	0	0
-men	1	0
-hesitated	2	2
-.	NA	NA

@@ -1,4 +1,0 @@
-In	0	0
-these	1	1
-matters	2	2
-.	NA	NA

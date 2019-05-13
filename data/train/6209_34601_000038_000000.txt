@@ -1,8 +1,0 @@
-The	0	0
-jaws	2	1
-retreated	1	2
-,	NA	NA
-the	0	0
-growling	2	1
-ceased	1	2
-.	NA	NA

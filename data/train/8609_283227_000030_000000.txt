@@ -1,6 +1,0 @@
-I	0	0
-turned	1	0
-to	0	1
-Mr	0	1
-Brownrigg	2	2
-.	NA	NA

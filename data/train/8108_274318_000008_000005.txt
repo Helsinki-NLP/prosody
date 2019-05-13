@@ -1,5 +1,0 @@
-Far	2	0
-away	1	0
-it	0	1
-sounded	1	2
-.	NA	NA

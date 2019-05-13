@@ -1,8 +1,0 @@
-Senator	0	0
-Owen	2	1
-of	0	0
-Oklahoma	2	0
-is	0	1
-part	0	0
-Cherokee	2	2
-.	NA	NA

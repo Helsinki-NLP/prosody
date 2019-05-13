@@ -1,3 +1,0 @@
-To	0	1
-morrow	2	2
-?	NA	NA

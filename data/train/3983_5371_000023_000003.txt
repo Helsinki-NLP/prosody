@@ -1,6 +1,0 @@
-Quite	2	0
-a	0	1
-collection	2	1
-of	0	0
-gentlemen	1	1
-mr	1	2

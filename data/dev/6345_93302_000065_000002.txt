@@ -1,9 +1,0 @@
-You've	0	1
-deceived	1	0
-me	0	0
-once	2	2
-you'd	0	0
-do	1	0
-it	0	0
-again	2	2
-!	NA	NA

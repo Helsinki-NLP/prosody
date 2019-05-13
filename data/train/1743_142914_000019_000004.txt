@@ -1,6 +1,0 @@
-Don't	2	0
-move	1	0
-!	NA	NA
-he	0	1
-cried	2	2
-.	NA	NA

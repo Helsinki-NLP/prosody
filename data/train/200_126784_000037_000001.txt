@@ -1,9 +1,0 @@
-But	2	1
-he	0	0
-is	0	0
-gone	2	1
-how	2	1
-when	2	1
-and	0	0
-whither	2	2
-?	NA	NA

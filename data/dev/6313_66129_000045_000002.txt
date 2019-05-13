@@ -1,6 +1,0 @@
-We	0	0
-shall	1	0
-need	0	0
-a	0	2
-dog	2	2
-.	NA	NA

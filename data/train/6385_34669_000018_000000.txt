@@ -1,5 +1,0 @@
-What	1	0
-was	2	1
-this	0	0
-animal	1	2
-?	NA	NA

@@ -1,6 +1,0 @@
-Randal	2	1
-drew	0	0
-back	2	0
-a	0	0
-step	1	2
-.	NA	NA

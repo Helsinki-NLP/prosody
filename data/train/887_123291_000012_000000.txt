@@ -1,5 +1,0 @@
-Nor	2	0
-was	0	1
-this	0	0
-all	2	2
-.	NA	NA

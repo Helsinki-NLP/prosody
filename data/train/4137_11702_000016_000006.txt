@@ -1,5 +1,0 @@
-My	1	0
-own	1	0
-little	0	1
-girl	2	2
-!	NA	NA

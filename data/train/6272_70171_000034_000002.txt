@@ -1,6 +1,0 @@
-dr	1	1
-Price	2	0
-was	0	1
-behind	2	0
-them	0	2
-.	NA	NA

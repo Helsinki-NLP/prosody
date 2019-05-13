@@ -1,8 +1,0 @@
-I'm	2	1
-glad	2	1
-girls	0	0
-don't	0	0
-go	0	0
-to	0	1
-College	1	2
-.	NA	NA

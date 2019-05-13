@@ -1,5 +1,0 @@
-The	0	1
-door	2	0
-opened	0	1
-softly	2	2
-.	NA	NA

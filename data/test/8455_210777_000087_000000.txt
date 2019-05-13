@@ -1,9 +1,0 @@
-With	2	1
-this	2	2
-the	0	0
-two	1	0
-gentlemen	1	0
-left	1	1
-the	0	0
-room	0	2
-.	NA	NA

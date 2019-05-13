@@ -1,5 +1,0 @@
-Louder	2	1
-the	0	0
-roaring	0	1
-grew	2	2
-.	NA	NA

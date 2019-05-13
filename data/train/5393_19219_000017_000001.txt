@@ -1,6 +1,0 @@
-One	1	0
-possesses	1	2
-and	2	0
-one	0	1
-supposes	2	2
-.	NA	NA

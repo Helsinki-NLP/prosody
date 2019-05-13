@@ -1,7 +1,0 @@
-Nor	2	0
-by	1	0
-division	1	0
-was	0	1
-vermilion	2	1
-made	1	2
-.	NA	NA

@@ -1,7 +1,0 @@
-Our	1	0
-lives	2	0
-would	0	2
-be	0	0
-worth	1	0
-little	1	2
-.	NA	NA

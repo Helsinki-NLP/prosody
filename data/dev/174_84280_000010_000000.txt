@@ -1,9 +1,0 @@
-We	0	0
-tore	2	0
-her	0	1
-to	0	0
-pieces	1	2
-,	NA	NA
-he	0	0
-repeated	2	2
-.	NA	NA

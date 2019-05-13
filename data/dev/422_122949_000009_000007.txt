@@ -1,3 +1,0 @@
-Be	0	0
-natural	1	2
-!	NA	NA

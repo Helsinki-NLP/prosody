@@ -1,7 +1,0 @@
-Because	0	0
-she	1	1
-looks	0	1
-back	2	1
-at	1	0
-you	1	2
-.	NA	NA

@@ -1,5 +1,0 @@
-The	0	1
-plain	0	0
-was	0	1
-unequal	2	2
-.	NA	NA

@@ -1,9 +1,0 @@
-He	0	0
-protected	0	0
-her	2	2
-,	NA	NA
-and	0	0
-she	1	0
-strengthened	2	0
-him	1	2
-.	NA	NA

@@ -1,6 +1,0 @@
-It	0	0
-now	2	0
-contained	0	1
-two	0	0
-beds	1	2
-.	NA	NA

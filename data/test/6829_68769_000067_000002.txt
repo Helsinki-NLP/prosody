@@ -1,7 +1,0 @@
-And	2	0
-it	0	0
-ruins	1	1
-a	0	0
-man's	1	1
-disposition	1	2
-.	NA	NA

@@ -1,9 +1,0 @@
-You'll	0	0
-be	1	0
-at	0	0
-the	0	1
-grave	2	2
-as	2	1
-chief	1	0
-mourner	2	2
-?	NA	NA

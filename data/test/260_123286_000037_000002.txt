@@ -1,6 +1,0 @@
-Hans	2	0
-was	0	0
-at	0	1
-the	0	0
-helm	1	2
-.	NA	NA

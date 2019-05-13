@@ -1,7 +1,0 @@
-Besides	2	1
-,	NA	NA
-the	0	0
-troops	1	0
-don't	0	1
-disperse	2	2
-.	NA	NA

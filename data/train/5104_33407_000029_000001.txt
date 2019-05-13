@@ -1,8 +1,0 @@
-As	2	0
-they	0	0
-came	0	1
-near	2	0
-,	NA	NA
-the	0	1
-men	0	1
-said	2	2

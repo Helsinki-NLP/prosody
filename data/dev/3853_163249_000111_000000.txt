@@ -1,5 +1,0 @@
-Ready	2	1
-,	NA	NA
-my	0	0
-General	2	2
-.	NA	NA

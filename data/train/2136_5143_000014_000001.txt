@@ -1,6 +1,0 @@
-Madame	2	0
-was	0	0
-in	0	1
-high	1	1
-spirits	2	2
-.	NA	NA

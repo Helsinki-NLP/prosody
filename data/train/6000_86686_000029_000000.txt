@@ -1,7 +1,0 @@
-I	1	0
-will	2	2
-,	NA	NA
-says	1	0
-the	0	1
-king	2	2
-.	NA	NA

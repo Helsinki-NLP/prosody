@@ -1,9 +1,0 @@
-How	0	0
-many	0	0
-acres	1	0
-of	0	2
-park	2	0
-have	0	1
-you	0	0
-got	2	2
-?	NA	NA

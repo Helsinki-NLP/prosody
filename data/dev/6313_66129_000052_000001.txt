@@ -1,7 +1,0 @@
-A	0	0
-temporary	2	1
-camp	1	2
-was	0	0
-quickly	0	0
-pitched	2	2
-.	NA	NA

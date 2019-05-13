@@ -1,8 +1,0 @@
-So	0	0
-no	2	0
-wonder	0	0
-the	0	1
-town	1	0
-went	0	1
-wild	1	2
-!	NA	NA

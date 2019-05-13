@@ -1,7 +1,0 @@
-Wasn't	2	0
-it	0	1
-awful	2	1
-!	NA	NA
-choked	1	0
-Billy	1	2
-.	NA	NA

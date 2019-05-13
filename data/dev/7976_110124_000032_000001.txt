@@ -1,6 +1,0 @@
-The	0	0
-beggar	2	0
-entered	0	1
-the	0	0
-room	1	2
-.	NA	NA

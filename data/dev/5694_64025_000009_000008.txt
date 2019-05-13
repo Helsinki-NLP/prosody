@@ -1,6 +1,0 @@
-They	1	0
-retreat	2	1
-in	0	0
-wild	2	1
-confusion	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-This	1	0
-position	1	0
-I	0	1
-achieved	1	0
-by	0	2
-gravitation	2	0
-upwards	0	2
-.	NA	NA

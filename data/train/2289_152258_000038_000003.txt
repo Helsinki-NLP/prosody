@@ -1,5 +1,0 @@
-I	1	0
-praise	1	0
-his	0	1
-perfection	2	2
-.	NA	NA

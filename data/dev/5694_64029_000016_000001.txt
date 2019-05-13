@@ -1,7 +1,0 @@
-john	2	1
-Barleycorn	2	0
-was	0	1
-general	1	0
-in	0	0
-chief	0	2
-.	NA	NA

@@ -1,6 +1,0 @@
-Hilda	2	0
-watched	0	0
-him	0	1
-with	0	0
-perplexity	1	2
-.	NA	NA

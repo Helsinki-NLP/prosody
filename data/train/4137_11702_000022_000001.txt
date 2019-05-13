@@ -1,8 +1,0 @@
-I	0	1
-can	0	0
-hardly	2	0
-believe	0	0
-it's	0	1
-really	0	0
-over	2	2
-.	NA	NA

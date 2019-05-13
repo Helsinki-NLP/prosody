@@ -1,6 +1,0 @@
-He	1	0
-says	2	1
-he	0	0
-is	0	0
-innocent	2	2
-.	NA	NA

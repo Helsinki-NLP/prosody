@@ -1,5 +1,0 @@
-Is	1	0
-it	0	0
-a	0	2
-bargain	1	2
-?	NA	NA

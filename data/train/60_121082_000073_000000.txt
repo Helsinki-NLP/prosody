@@ -1,8 +1,0 @@
-Yes	2	1
-,	NA	NA
-so	1	0
-long	0	0
-as	0	0
-he	0	0
-pays	1	0
-me	0	2

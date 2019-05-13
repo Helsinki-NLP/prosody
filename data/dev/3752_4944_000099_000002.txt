@@ -1,7 +1,0 @@
-Sleep	2	1
-would	0	0
-not	1	0
-come	1	0
-to	0	1
-him	1	2
-.	NA	NA

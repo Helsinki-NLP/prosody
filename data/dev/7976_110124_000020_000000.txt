@@ -1,5 +1,0 @@
-The	0	0
-eldest	2	1
-daughter	0	1
-frowned	2	2
-.	NA	NA

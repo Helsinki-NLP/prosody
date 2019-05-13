@@ -1,8 +1,0 @@
-You	0	0
-let	1	1
-your	0	0
-aunty	2	1
-speak	1	0
-for	0	1
-herself	2	2
-.	NA	NA

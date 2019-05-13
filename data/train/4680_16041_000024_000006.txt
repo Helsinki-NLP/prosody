@@ -1,5 +1,0 @@
-Hence	2	1
-nothing	2	0
-was	0	1
-stirring	2	2
-.	NA	NA

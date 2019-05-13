@@ -1,3 +1,0 @@
-THE	0	1
-BIG	2	0
-MOOSE	0	2

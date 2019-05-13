@@ -1,8 +1,0 @@
-The	0	0
-lad	2	0
-has	0	0
-been	0	1
-cruelly	2	1
-punished	0	0
-already	2	2
-.	NA	NA

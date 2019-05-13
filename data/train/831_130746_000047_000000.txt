@@ -1,7 +1,0 @@
-Are	1	0
-you	0	1
-tired	2	2
-?	NA	NA
-he	0	0
-asked	2	2
-.	NA	NA

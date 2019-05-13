@@ -1,3 +1,0 @@
-She	0	0
-rose	1	2
-.	NA	NA

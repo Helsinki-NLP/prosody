@@ -1,6 +1,0 @@
-I	0	0
-went	2	0
-to	0	1
-my	0	0
-cabin	2	2
-.	NA	NA

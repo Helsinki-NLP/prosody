@@ -1,7 +1,0 @@
-'You're	0	0
-mad	2	1
-!	NA	NA
-'	NA	NA
-she	0	0
-says	2	2
-.	NA	NA

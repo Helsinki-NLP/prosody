@@ -1,8 +1,0 @@
-Oh	2	0
-,	NA	NA
-here	1	0
-is	0	0
-a	0	2
-splendid	2	1
-group	1	2
-!	NA	NA

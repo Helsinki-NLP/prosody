@@ -1,3 +1,0 @@
-THE	0	1
-FIRST	2	1
-DAY	1	2

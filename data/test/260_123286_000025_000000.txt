@@ -1,6 +1,0 @@
-I	1	0
-looked	2	1
-at	1	0
-the	0	0
-hunter	1	2
-.	NA	NA

@@ -1,6 +1,0 @@
-Listen	2	1
-,	NA	NA
-says	1	0
-Ill	0	0
-Luck	2	2
-.	NA	NA

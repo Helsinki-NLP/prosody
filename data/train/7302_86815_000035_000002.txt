@@ -1,9 +1,0 @@
-Why	2	0
-did	0	0
-you	0	0
-not	0	1
-come	0	0
-down	0	1
-to	0	0
-breakfast	2	2
-?	NA	NA

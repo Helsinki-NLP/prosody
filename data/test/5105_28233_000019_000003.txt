@@ -1,9 +1,0 @@
-Side	2	0
-by	0	0
-side	1	1
-they	0	0
-fought	2	0
-in	0	1
-two	1	0
-campaigns	1	2
-.	NA	NA

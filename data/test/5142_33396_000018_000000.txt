@@ -1,8 +1,0 @@
-'What	1	0
-of	0	0
-the	0	1
-farm	2	1
-,	NA	NA
-Olaf	2	2
-?	NA	NA
-'	NA	NA

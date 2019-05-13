@@ -1,8 +1,0 @@
-So	2	0
-we	0	0
-gave	0	0
-them	0	1
-an	0	0
-object	2	1
-lesson	1	2
-.	NA	NA

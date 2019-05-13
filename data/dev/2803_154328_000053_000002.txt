@@ -1,7 +1,0 @@
-Did	0	1
-you	0	0
-not	2	0
-get	0	2
-away	1	1
-together	2	2
-?	NA	NA

@@ -1,9 +1,0 @@
-Did	0	0
-you	2	0
-notice	0	1
-how	1	0
-little	0	0
-the	0	1
-Morgesons	2	1
-ate	2	2
-?	NA	NA

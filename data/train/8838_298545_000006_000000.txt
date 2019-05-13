@@ -1,9 +1,0 @@
-It	1	0
-is	0	1
-very	2	0
-important	1	0
-to	0	2
-me	0	0
-,	NA	NA
-sir	2	2
-.	NA	NA

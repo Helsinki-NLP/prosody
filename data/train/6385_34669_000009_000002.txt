@@ -1,7 +1,0 @@
-He	1	0
-was	0	0
-looking	1	0
-earnestly	1	1
-at	0	0
-Gwynplaine	2	2
-.	NA	NA

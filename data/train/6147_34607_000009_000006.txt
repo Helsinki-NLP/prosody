@@ -1,8 +1,0 @@
-Six	0	0
-farthings	2	2
-were	0	0
-struck	1	0
-during	0	1
-her	0	0
-reign	2	2
-.	NA	NA

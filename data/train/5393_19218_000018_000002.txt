@@ -1,8 +1,0 @@
-Do	0	0
-you	0	0
-want	1	1
-to	0	0
-delay	0	1
-,	NA	NA
-Marius	2	2
-?	NA	NA

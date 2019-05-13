@@ -1,4 +1,0 @@
-Certainly	2	1
-she	0	0
-died	1	2
-.	NA	NA

@@ -1,7 +1,0 @@
-Fatten	1	0
-at	0	1
-my	2	1
-expense	0	0
-,	NA	NA
-parasite	2	2
-!	NA	NA

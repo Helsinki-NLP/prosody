@@ -1,8 +1,0 @@
-We'll	0	0
-talk	2	0
-when	0	1
-we	0	0
-get	0	1
-outside	2	1
-school	2	2
-.	NA	NA

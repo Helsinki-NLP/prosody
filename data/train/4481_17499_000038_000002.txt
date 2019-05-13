@@ -1,5 +1,0 @@
-Singular	2	0
-,	NA	NA
-isn't	0	1
-it	1	2
-?	NA	NA

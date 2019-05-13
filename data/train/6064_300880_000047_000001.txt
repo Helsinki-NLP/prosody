@@ -1,4 +1,0 @@
-Want	2	0
-to	0	1
-join	1	2
-?	NA	NA

@@ -1,8 +1,0 @@
-They	0	0
-were	0	0
-glancing	1	0
-about	1	2
-with	0	0
-eager	0	0
-eyes	1	2
-.	NA	NA

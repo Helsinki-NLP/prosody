@@ -1,7 +1,0 @@
-What	1	0
-will	1	0
-it	0	2
-be	0	0
-in	0	0
-winter	2	2
-?	NA	NA

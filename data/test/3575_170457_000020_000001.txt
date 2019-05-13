@@ -1,6 +1,0 @@
-She	0	0
-said	2	1
-to	0	0
-me	1	2
-,	1	2
-mr	NA	NA

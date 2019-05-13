@@ -1,5 +1,0 @@
-They	2	0
-had	0	1
-done	1	1
-enough	1	2
-.	NA	NA

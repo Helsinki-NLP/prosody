@@ -1,8 +1,0 @@
-She	0	0
-had	0	1
-been	2	0
-a	0	1
-daughter	2	1
-to	0	0
-him	2	2
-.	NA	NA

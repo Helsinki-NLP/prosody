@@ -1,6 +1,0 @@
-They'll	2	0
-be	0	0
-a	0	1
-mile	1	1
-apart	2	2
-.	NA	NA

@@ -1,3 +1,0 @@
-NED	1	0
-KNOWLES	1	2
-.	NA	NA

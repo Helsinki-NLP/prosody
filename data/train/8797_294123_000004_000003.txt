@@ -1,8 +1,0 @@
-Little	1	0
-or	0	0
-nothing	1	0
-was	0	1
-to	0	0
-be	0	0
-purchased	2	2
-.	NA	NA

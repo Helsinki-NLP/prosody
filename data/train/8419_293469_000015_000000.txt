@@ -1,8 +1,0 @@
-You	0	0
-don't	0	0
-say	2	2
-!	NA	NA
-exclaimed	1	0
-a	0	0
-Grasshopper	1	2
-.	NA	NA

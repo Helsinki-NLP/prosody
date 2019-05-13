@@ -1,7 +1,0 @@
-She	1	0
-was	0	0
-well	1	0
-read	1	0
-and	0	1
-accomplished	1	2
-.	NA	NA

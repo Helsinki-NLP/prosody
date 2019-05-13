@@ -1,6 +1,0 @@
-Do	2	0
-come	0	0
-if	0	1
-you	0	0
-can	2	2
-.	NA	NA

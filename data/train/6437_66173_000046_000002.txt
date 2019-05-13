@@ -1,8 +1,0 @@
-I	2	1
-believe	0	0
-it	1	1
-runs	0	1
-in	0	0
-the	0	0
-family	1	2
-.	NA	NA

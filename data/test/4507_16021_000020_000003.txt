@@ -1,8 +1,0 @@
-Why	2	0
-should	0	0
-one	0	1
-halt	1	1
-on	1	0
-the	0	1
-way	2	2
-?	NA	NA

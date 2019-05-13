@@ -1,8 +1,0 @@
-or	0	0
-hath	2	1
-he	1	2
-given	0	0
-us	1	1
-any	1	0
-gift	2	2
-?	NA	NA

@@ -1,9 +1,0 @@
-Lukashka	2	1
-sat	2	0
-down	0	0
-and	0	1
-took	0	0
-the	0	0
-wine	1	0
-bowl	1	2
-.	NA	NA

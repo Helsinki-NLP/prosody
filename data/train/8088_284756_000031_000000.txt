@@ -1,6 +1,0 @@
-The	0	0
-pool	2	2
-and	1	0
-its	0	0
-occupant	1	2
-.	NA	NA

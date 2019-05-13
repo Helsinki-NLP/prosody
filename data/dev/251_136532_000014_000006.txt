@@ -1,7 +1,0 @@
-Sid	2	2
-,	NA	NA
-don't	2	0
-you	0	1
-get	0	0
-it	2	2
-?	NA	NA

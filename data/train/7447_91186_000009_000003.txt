@@ -1,7 +1,0 @@
-His	0	0
-suggestions	2	0
-deserve	0	1
-consideration	2	1
-to	0	0
-day	2	2
-.	NA	NA

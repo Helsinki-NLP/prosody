@@ -1,7 +1,0 @@
-You're	1	0
-a	0	1
-sweet	1	0
-little	0	1
-rosebud	1	1
-yourself	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-The	0	1
-poor	2	0
-boy	1	1
-devoured	2	1
-rather	0	0
-than	0	0
-ate	1	2
-.	NA	NA

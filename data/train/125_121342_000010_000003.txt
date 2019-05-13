@@ -1,8 +1,0 @@
-It's	0	1
-the	0	0
-ugliest	1	1
-thing	0	0
-in	0	0
-the	0	1
-world	2	2
-.	NA	NA

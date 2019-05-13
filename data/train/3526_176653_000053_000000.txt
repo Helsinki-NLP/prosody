@@ -1,4 +1,0 @@
-You	1	0
-heerd	0	1
-me	2	2
-!	NA	NA

@@ -1,5 +1,0 @@
-She	1	0
-could	0	1
-begin	2	1
-now	1	2
-.	NA	NA

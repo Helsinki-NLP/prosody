@@ -1,4 +1,0 @@
-What	1	1
-!	NA	NA
-Scare	2	2
-?	NA	NA

@@ -1,9 +1,0 @@
-My	0	0
-gaze	2	1
-fell	1	0
-again	0	2
-upon	1	0
-the	0	0
-red	1	1
-brand	2	2
-.	NA	NA

@@ -1,7 +1,0 @@
-She	2	0
-had	0	1
-begun	2	1
-her	0	0
-open	0	1
-battle	2	2
-.	NA	NA

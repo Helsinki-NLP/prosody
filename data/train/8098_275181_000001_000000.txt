@@ -1,4 +1,0 @@
-A	0	1
-DROLL	2	0
-FOX	0	1
-TRAP	1	2

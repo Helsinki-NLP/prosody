@@ -1,4 +1,0 @@
-Must	0	0
-stop	2	1
-that	1	2
-.	NA	NA

@@ -1,6 +1,0 @@
-Look	0	0
-here	2	1
-,	NA	NA
-read	2	0
-it	0	2
-!	NA	NA

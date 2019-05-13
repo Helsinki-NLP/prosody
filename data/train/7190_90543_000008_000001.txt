@@ -1,8 +1,0 @@
-I	1	0
-questioned	2	0
-Sir	0	1
-Joseph	2	2
-about	1	0
-his	0	1
-papers	2	2
-.	NA	NA

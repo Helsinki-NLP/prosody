@@ -1,6 +1,0 @@
-I	0	0
-grew	1	0
-up	0	1
-long	0	1
-ago	2	2
-.	NA	NA

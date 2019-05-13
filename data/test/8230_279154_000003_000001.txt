@@ -1,9 +1,0 @@
-I	0	0
-shall	2	0
-discuss	2	0
-this	0	1
-question	0	1
-in	0	0
-later	1	0
-lectures	1	2
-.	NA	NA

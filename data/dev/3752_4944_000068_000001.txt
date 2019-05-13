@@ -1,6 +1,0 @@
-Macklewain	2	1
-shook	1	0
-his	0	0
-head	0	1
-seriously	2	2
-.	NA	NA

@@ -1,9 +1,0 @@
-Then	2	0
-you'll	0	0
-hurt	0	0
-her	0	1
-feelings	1	2
-,	NA	NA
-said	0	0
-Georgie	1	2
-.	NA	NA

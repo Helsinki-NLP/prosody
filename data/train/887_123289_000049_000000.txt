@@ -1,9 +1,0 @@
-An	1	1
-idea	1	0
-of	0	1
-my	2	0
-own	0	1
-,	NA	NA
-my	0	0
-lad	2	2
-.	NA	NA

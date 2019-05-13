@@ -1,9 +1,0 @@
-They	2	0
-are	0	1
-killing	1	1
-my	0	0
-dead	1	1
-men	0	1
-for	2	0
-me	0	2
-.	NA	NA

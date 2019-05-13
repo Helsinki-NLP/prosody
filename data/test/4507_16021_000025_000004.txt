@@ -1,7 +1,0 @@
-Even	0	0
-dialect	1	1
-,	NA	NA
-let	1	1
-that	2	1
-pass	2	2
-!	NA	NA

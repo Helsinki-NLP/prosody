@@ -1,7 +1,0 @@
-He	2	0
-has	2	0
-invented	1	1
-the	0	0
-new	0	1
-printing	2	2
-.	NA	NA

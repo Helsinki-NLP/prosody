@@ -1,5 +1,0 @@
-Someone	2	0
-spoke	0	0
-his	0	1
-name	2	2
-.	NA	NA

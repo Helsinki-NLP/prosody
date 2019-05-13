@@ -1,9 +1,0 @@
-They	2	0
-didn't	0	1
-know	0	0
-how	1	0
-to	0	1
-play	1	0
-at	0	1
-all	1	2
-.	NA	NA

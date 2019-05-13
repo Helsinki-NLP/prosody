@@ -1,9 +1,0 @@
-The	0	0
-buzzer's	2	0
-triggered	2	0
-his	0	0
-muscles	0	0
-into	0	1
-complete	1	0
-relaxation	2	2
-.	NA	NA

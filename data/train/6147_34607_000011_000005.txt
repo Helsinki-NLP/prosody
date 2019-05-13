@@ -1,6 +1,0 @@
-Perhaps	2	1
-there	0	0
-is	0	1
-no	0	0
-other	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-Our	2	1
-castle	1	0
-was	0	1
-built	1	0
-upon	0	0
-the	0	1
-sand	2	2
-.	NA	NA

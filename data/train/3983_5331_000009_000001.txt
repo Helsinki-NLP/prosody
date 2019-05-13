@@ -1,6 +1,0 @@
-He	1	0
-is	0	0
-engaged	2	0
-just	0	1
-now	2	2
-.	NA	NA

@@ -1,4 +1,0 @@
-This	2	1
-was	0	0
-Sunday	1	2
-.	NA	NA

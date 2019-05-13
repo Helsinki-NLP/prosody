@@ -1,8 +1,0 @@
-I	2	0
-meant	2	0
-to	0	1
-be	0	0
-so	2	1
-so	1	1
-hospitable	1	2
-.	NA	NA

@@ -1,8 +1,0 @@
-Let	2	0
-us	0	0
-have	2	1
-compassion	2	0
-on	0	0
-the	0	1
-chastised	1	2
-.	NA	NA

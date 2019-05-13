@@ -1,6 +1,0 @@
-Marilla	2	0
-is	0	0
-a	0	2
-famous	2	1
-cook	1	2
-.	NA	NA

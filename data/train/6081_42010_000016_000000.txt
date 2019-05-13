@@ -1,5 +1,0 @@
-I	2	0
-didn't	0	1
-repulse	1	0
-her	2	2
-.	NA	NA

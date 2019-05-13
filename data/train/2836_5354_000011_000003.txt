@@ -1,7 +1,0 @@
-You	1	0
-will	0	1
-speedily	1	1
-gather	1	0
-his	0	1
-motive	2	2
-.	NA	NA

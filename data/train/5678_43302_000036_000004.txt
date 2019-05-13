@@ -1,5 +1,0 @@
-People	1	0
-won't	0	1
-forget	2	0
-it	0	2
-.	NA	NA

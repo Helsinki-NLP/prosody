@@ -1,9 +1,0 @@
-He	0	0
-found	2	0
-a	0	1
-young	0	0
-shepherd	1	1
-watching	2	1
-his	0	0
-flock	2	2
-.	NA	NA

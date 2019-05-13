@@ -1,9 +1,0 @@
-Old	2	1
-dotard	2	1
-!	NA	NA
-.	NA	NA
-.	NA	NA
-.	NA	NA
-cried	1	0
-he	1	2
-.	NA	NA

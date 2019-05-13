@@ -1,9 +1,0 @@
-Beyond	2	0
-these	0	1
-the	0	0
-critical	1	0
-art	2	1
-can	0	0
-but	0	1
-suggest	1	2
-.	NA	NA

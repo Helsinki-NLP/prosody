@@ -1,7 +1,0 @@
-Old	2	0
-women	0	1
-always	1	1
-like	0	0
-rascals	2	2
-.	NA	NA
-'	NA	NA

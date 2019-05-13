@@ -1,9 +1,0 @@
-Mainhall	2	0
-liked	1	1
-Alexander	0	0
-because	1	0
-he	0	0
-was	0	0
-an	0	1
-engineer	2	2
-.	NA	NA

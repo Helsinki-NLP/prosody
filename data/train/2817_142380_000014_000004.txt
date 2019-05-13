@@ -1,8 +1,0 @@
-She	2	0
-is	0	1
-very	1	0
-much	0	1
-changed	1	2
-.	NA	NA
-.	NA	NA
-.	NA	NA

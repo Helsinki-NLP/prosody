@@ -1,7 +1,0 @@
-I	0	0
-am	2	2
-,	NA	NA
-says	1	0
-Saint	0	1
-Kavin	1	2
-.	NA	NA

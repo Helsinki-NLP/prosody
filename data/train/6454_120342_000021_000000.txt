@@ -1,9 +1,0 @@
-Carol	2	0
-,	NA	NA
-carol	0	1
-,	NA	NA
-Christians	0	0
-,	NA	NA
-Carol	1	0
-joyfully	1	2
-.	NA	NA

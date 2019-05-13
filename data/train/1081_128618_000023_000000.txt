@@ -1,5 +1,0 @@
-PERCH	2	1
-A	0	0
-l	1	0
-a	0	1
-SICILY	1	2

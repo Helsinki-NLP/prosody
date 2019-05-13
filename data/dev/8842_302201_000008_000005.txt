@@ -1,4 +1,0 @@
-The	0	1
-poem	2	0
-begins	0	1
-here	2	2

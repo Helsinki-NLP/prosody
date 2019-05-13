@@ -1,5 +1,0 @@
-But	0	0
-she	0	0
-did	2	1
-not	1	2
-.	NA	NA

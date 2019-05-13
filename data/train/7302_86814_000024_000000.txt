@@ -1,5 +1,0 @@
-Read	2	1
-?	NA	NA
-he	0	0
-said	2	2
-.	NA	NA

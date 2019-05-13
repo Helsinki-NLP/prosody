@@ -1,5 +1,0 @@
-Occult	2	0
-and	0	0
-Psychic	0	1
-Powers	2	2
-.	NA	NA

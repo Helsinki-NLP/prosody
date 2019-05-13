@@ -1,8 +1,0 @@
-declare	1	0
-that	0	1
-Bernard	1	0
-Shaw	0	0
-does	2	0
-depict	0	1
-characters	1	2
-.	NA	NA

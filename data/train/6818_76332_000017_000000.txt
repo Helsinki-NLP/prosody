@@ -1,9 +1,0 @@
-I	0	0
-guess	0	0
-I'd	0	1
-better	0	0
-go	2	1
-,	NA	NA
-said	0	0
-Joyce	1	2
-.	NA	NA

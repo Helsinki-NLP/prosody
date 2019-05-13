@@ -1,7 +1,0 @@
-But	2	0
-she	0	0
-did	0	0
-not	2	1
-betray	2	0
-herself	0	2
-.	NA	NA

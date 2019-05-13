@@ -1,6 +1,0 @@
-No	2	0
-one	0	0
-save	1	1
-the	0	0
-printer	1	2
-.	NA	NA

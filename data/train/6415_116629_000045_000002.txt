@@ -1,8 +1,0 @@
-Some	1	0
-one	0	1
-stole	2	0
-the	0	1
-cattle	2	1
-dealer's	0	1
-money	2	0
-bag	2	2

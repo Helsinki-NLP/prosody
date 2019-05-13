@@ -1,8 +1,0 @@
-Let	1	1
-you	0	0
-out	2	2
-?	NA	NA
-says	0	0
-the	0	0
-Fiddler	1	2
-.	NA	NA

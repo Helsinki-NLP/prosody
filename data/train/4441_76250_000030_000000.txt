@@ -1,4 +1,0 @@
-Wouldn't	1	0
-she	0	1
-really	2	2
-?	NA	NA

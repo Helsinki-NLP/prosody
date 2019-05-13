@@ -1,4 +1,0 @@
-And	0	0
-confidences	2	1
-too	1	2
-?	NA	NA

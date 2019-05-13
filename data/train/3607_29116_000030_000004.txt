@@ -1,7 +1,0 @@
-He	0	0
-did	0	0
-not	2	0
-make	0	1
-any	0	1
-objections	1	2
-?	NA	NA

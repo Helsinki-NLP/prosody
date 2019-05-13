@@ -1,8 +1,0 @@
-Glass	2	0
-was	0	1
-plentiful	1	0
-in	0	0
-the	0	1
-better	0	0
-houses	2	2
-.	NA	NA

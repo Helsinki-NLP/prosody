@@ -1,4 +1,0 @@
-GEORGE	2	1
-w	1	0
-CHILDS	1	2
-.	NA	NA

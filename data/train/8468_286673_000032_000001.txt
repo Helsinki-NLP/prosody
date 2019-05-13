@@ -1,9 +1,0 @@
-And	2	0
-he	0	0
-was	0	0
-as	0	2
-good	2	0
-as	0	0
-his	0	1
-word	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-Her	0	0
-eyes	2	1
-wandered	1	1
-to	0	0
-the	0	0
-maid's	1	1
-hands	2	2
-.	NA	NA

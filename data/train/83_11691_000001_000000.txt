@@ -1,6 +1,0 @@
-Let	2	0
-us	2	1
-describe	1	0
-it	0	1
-calmly	2	2
-.	NA	NA

@@ -1,6 +1,0 @@
-Of	0	0
-a	0	1
-surety	1	1
-I	0	1
-did	2	2
-.	NA	NA

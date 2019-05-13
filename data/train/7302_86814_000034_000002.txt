@@ -1,6 +1,0 @@
-I	1	0
-know	2	0
-all	0	0
-these	0	1
-things	1	2
-.	NA	NA

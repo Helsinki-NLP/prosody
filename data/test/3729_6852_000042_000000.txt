@@ -1,7 +1,0 @@
-Yes	2	1
-,	NA	NA
-give	0	0
-me	0	0
-the	0	0
-orgeat	1	2
-.	NA	NA

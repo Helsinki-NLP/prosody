@@ -1,9 +1,0 @@
-Whither	2	0
-away	1	0
-,	NA	NA
-comrade	0	0
-,	NA	NA
-asked	1	1
-the	0	0
-traveller	1	2
-.	NA	NA

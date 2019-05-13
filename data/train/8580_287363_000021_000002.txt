@@ -1,9 +1,0 @@
-It	0	0
-doesn't	1	0
-seem	1	0
-as	0	0
-if	0	1
-anything	0	1
-could	0	0
-happen	2	2
-.	NA	NA

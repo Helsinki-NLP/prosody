@@ -1,4 +1,0 @@
-And	0	0
-if	2	0
-we	0	1
-have	2	2

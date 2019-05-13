@@ -1,8 +1,0 @@
-The	0	1
-procession	2	0
-moved	0	1
-down	1	0
-the	0	1
-path	0	0
-again	2	2
-.	NA	NA

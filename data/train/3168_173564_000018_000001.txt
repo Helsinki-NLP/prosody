@@ -1,5 +1,0 @@
-Come	1	1
-,	NA	NA
-lie	0	0
-down	2	2
-.	NA	NA

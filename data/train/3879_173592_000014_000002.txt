@@ -1,5 +1,0 @@
-The	0	0
-offer	2	0
-was	0	1
-accepted	1	2
-.	NA	NA

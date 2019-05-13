@@ -1,6 +1,0 @@
-California	2	0
-is	0	1
-a	0	0
-gilded	1	1
-state	2	2
-.	NA	NA

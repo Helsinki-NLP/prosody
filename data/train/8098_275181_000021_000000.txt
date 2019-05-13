@@ -1,8 +1,0 @@
-D'ye	0	0
-see	0	0
-,	NA	NA
-now	2	0
-!	NA	NA
-he	0	1
-demanded	1	2
-.	NA	NA

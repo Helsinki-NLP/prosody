@@ -1,5 +1,0 @@
-The	0	0
-thing	1	0
-was	0	1
-monstrous	2	2
-.	NA	NA

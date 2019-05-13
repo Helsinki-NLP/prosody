@@ -1,9 +1,0 @@
-Their	1	0
-friends	2	2
-did	1	0
-their	0	0
-best	2	1
-to	0	0
-amuse	1	0
-them	1	2
-.	NA	NA

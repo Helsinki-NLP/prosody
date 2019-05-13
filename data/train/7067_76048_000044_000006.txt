@@ -1,7 +1,0 @@
-The	0	0
-big	1	1
-thing	1	0
-confronts	1	0
-us	0	1
-still	2	2
-.	NA	NA

@@ -1,9 +1,0 @@
-I	1	0
-dare	2	0
-not	0	1
-go	0	0
-so	0	1
-far	1	0
-as	0	1
-that	2	2
-.	NA	NA

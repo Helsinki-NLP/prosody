@@ -1,9 +1,0 @@
-Couldn't	0	0
-you	1	2
-Isn't	1	0
-there	2	1
-Won't	2	0
-you	0	1
-he	0	0
-stammered	1	2
-.	NA	NA

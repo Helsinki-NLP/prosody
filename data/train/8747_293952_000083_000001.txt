@@ -1,6 +1,0 @@
-You	1	0
-do	0	0
-not	1	2
-get	2	0
-it	0	2
-.	NA	NA

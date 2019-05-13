@@ -1,5 +1,0 @@
-He	0	0
-compressed	1	1
-his	0	0
-lips	2	2
-.	NA	NA

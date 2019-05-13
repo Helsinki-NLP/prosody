@@ -1,8 +1,0 @@
-That	0	0
-about	1	1
-gauges	1	1
-him	2	2
-.	NA	NA
-.	NA	NA
-.	NA	NA
-.	NA	NA

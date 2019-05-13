@@ -1,8 +1,0 @@
-Oh	2	0
-,	NA	NA
-I	0	0
-know	0	2
-that's	2	1
-Lorne	0	0
-Brandon	1	2
-.	NA	NA

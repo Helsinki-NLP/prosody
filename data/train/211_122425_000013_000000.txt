@@ -1,3 +1,0 @@
-Good	0	1
-Lord	2	2
-!	NA	NA

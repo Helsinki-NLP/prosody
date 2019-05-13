@@ -1,7 +1,0 @@
-Twice	2	0
-you	0	0
-have	0	1
-pronounced	1	1
-that	1	0
-word	1	2
-!	NA	NA

@@ -1,2 +1,0 @@
-STEPHEN	0	1
-CRANE	2	2

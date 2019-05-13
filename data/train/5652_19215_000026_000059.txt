@@ -1,6 +1,0 @@
-Be	1	0
-one	1	0
-of	0	0
-the	0	1
-gods	2	2
-.	NA	NA

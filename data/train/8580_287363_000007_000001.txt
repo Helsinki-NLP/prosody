@@ -1,9 +1,0 @@
-That's	1	1
-so	2	2
-,	NA	NA
-cried	2	0
-the	0	0
-eccentric	1	0
-mr	0	0
-Damon	1	2
-.	NA	NA

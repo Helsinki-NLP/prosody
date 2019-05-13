@@ -1,8 +1,0 @@
-You're	0	0
-right	2	0
-,	NA	NA
-Cap'n	1	2
-,	NA	NA
-she	0	0
-returned	1	2
-.	NA	NA

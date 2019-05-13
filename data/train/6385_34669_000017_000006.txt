@@ -1,4 +1,0 @@
-Perhaps	2	1
-he	0	0
-does	1	2
-.	NA	NA

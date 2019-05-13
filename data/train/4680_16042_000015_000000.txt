@@ -1,8 +1,0 @@
-And	0	0
-then	1	1
-he	0	0
-fell	2	1
-to	0	0
-weeping	1	1
-bitterly	2	2
-.	NA	NA

@@ -1,9 +1,0 @@
-He	1	0
-became	1	0
-more	0	1
-cautious	2	1
-with	0	0
-it	0	0
-after	1	1
-that	2	2
-.	NA	NA

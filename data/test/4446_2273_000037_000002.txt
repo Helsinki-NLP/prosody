@@ -1,9 +1,0 @@
-Have	0	0
-I	2	1
-told	1	1
-you	0	0
-about	1	0
-my	0	0
-new	0	1
-play	2	2
-?	NA	NA

@@ -1,8 +1,0 @@
-We	1	0
-were	0	0
-trespassers	1	1
-in	0	0
-a	0	0
-private	1	1
-park	2	2
-.	NA	NA

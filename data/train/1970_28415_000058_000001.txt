@@ -1,6 +1,0 @@
-The	0	0
-week	2	1
-was	0	0
-going	0	0
-by	1	2
-.	NA	NA

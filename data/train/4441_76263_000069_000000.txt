@@ -1,6 +1,0 @@
-How	0	0
-much	1	1
-do	0	0
-you	0	0
-want	2	2
-?	NA	NA

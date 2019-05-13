@@ -1,7 +1,0 @@
-You	1	0
-are	0	1
-no	1	0
-longer	2	1
-his	0	0
-enemies	2	2
-.	NA	NA

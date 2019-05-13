@@ -1,7 +1,0 @@
-CENTIGRADE	2	2
-zero	1	0
-degrees	0	0
-centigrade	1	1
-equals	0	0
-freezing	0	0
-water	1	2

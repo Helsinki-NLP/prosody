@@ -1,9 +1,0 @@
-It	0	0
-is	1	0
-not	0	1
-Eastern	0	0
-news	2	2
-?	NA	NA
-she	0	0
-asked	1	2
-.	NA	NA

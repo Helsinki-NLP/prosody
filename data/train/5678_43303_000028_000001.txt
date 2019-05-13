@@ -1,9 +1,0 @@
-mr	0	0
-Brand	1	0
-wired	2	0
-to	0	2
-me	0	0
-an	0	0
-hour	1	1
-ago	2	2
-.	NA	NA

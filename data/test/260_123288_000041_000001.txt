@@ -1,7 +1,0 @@
-Is	1	0
-it	0	1
-riveted	1	0
-to	0	0
-the	0	1
-planks	2	2
-?	NA	NA

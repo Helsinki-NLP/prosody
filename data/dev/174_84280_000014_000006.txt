@@ -1,8 +1,0 @@
-What	2	0
-alternative	0	1
-is	2	0
-there	0	1
-for	1	0
-any	1	1
-woman	1	2
-?	NA	NA

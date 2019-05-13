@@ -1,5 +1,0 @@
-The	0	0
-rector	1	0
-went	0	0
-on	1	1
-gravely	2	2

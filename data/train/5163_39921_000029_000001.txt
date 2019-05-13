@@ -1,4 +1,0 @@
-That	2	0
-is	1	1
-strange	1	2
-.	NA	NA

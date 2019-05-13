@@ -1,7 +1,0 @@
-But	1	0
-you	0	1
-can't	2	1
-where	0	0
-you	0	0
-are	1	2
-.	NA	NA

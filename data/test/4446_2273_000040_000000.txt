@@ -1,9 +1,0 @@
-No	2	0
-,	NA	NA
-it	0	0
-isn't	0	1
-a	0	0
-dress	2	0
-up	0	1
-part	2	2
-.	NA	NA

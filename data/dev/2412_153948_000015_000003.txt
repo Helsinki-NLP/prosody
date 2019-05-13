@@ -1,7 +1,0 @@
-Could	1	0
-I	0	0
-hope	1	0
-to	0	2
-cross	1	0
-it	2	2
-?	NA	NA

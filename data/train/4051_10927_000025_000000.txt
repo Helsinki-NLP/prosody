@@ -1,6 +1,0 @@
-I	2	0
-don't	0	1
-understand	1	1
-a	0	0
-word	2	2
-.	NA	NA

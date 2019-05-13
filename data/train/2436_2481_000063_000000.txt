@@ -1,4 +1,0 @@
-I	0	0
-tried	2	1
-it	0	2
-.	NA	NA

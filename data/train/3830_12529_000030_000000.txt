@@ -1,7 +1,0 @@
-What	2	0
-does	0	0
-she	0	1
-say	2	0
-,	NA	NA
-Oliver	1	2
-?	NA	NA

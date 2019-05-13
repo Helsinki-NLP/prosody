@@ -1,4 +1,0 @@
-Illustration	1	1
-ITALIAN	1	0
-MILLET	0	2
-.	NA	NA

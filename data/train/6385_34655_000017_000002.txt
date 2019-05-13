@@ -1,7 +1,0 @@
-Impossible	2	1
-to	0	0
-make	0	0
-out	1	0
-his	0	1
-way	1	2
-.	NA	NA

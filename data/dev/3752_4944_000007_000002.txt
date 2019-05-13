@@ -1,9 +1,0 @@
-His	0	0
-staff	2	0
-,	NA	NA
-you	0	1
-know	1	2
-,	1	0
-mr	NA	NA
-North	2	2
-.	NA	NA

@@ -1,7 +1,0 @@
-And	0	0
-how	2	0
-much	0	0
-did	0	1
-they	0	0
-possess	2	2
-?	NA	NA

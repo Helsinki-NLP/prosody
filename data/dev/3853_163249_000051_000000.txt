@@ -1,6 +1,0 @@
-Dear	2	2
-,	NA	NA
-I	1	0
-must	0	1
-go	2	2
-.	NA	NA

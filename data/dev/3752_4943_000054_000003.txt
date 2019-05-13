@@ -1,6 +1,0 @@
-Tried	1	1
-to	0	0
-bolt	2	1
-,	NA	NA
-eh	1	2
-!	NA	NA

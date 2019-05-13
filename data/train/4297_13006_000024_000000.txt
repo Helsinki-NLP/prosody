@@ -1,7 +1,0 @@
-Emily	2	0
-,	NA	NA
-it	0	1
-must	0	0
-not	1	1
-be	2	2
-.	NA	NA

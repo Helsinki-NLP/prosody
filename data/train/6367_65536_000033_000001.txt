@@ -1,9 +1,0 @@
-Let	2	0
-us	0	1
-stay	1	0
-here	0	0
-awhile	0	1
-first	1	1
-,	NA	NA
-Joyce	2	2
-.	NA	NA

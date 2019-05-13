@@ -1,5 +1,0 @@
-How	2	0
-is	0	1
-the	0	0
-bannock	1	2
-?	NA	NA

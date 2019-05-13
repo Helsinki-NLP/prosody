@@ -1,9 +1,0 @@
-There	2	0
-is	0	0
-this	0	1
-deception	2	1
-between	0	0
-me	1	0
-and	0	1
-everything	2	2
-.	NA	NA

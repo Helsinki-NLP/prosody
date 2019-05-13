@@ -1,7 +1,0 @@
-Dear	0	0
-madam	1	1
-,	NA	NA
-consider	0	0
-my	0	1
-voice	2	2
-.	NA	NA

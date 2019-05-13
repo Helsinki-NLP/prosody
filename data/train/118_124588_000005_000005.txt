@@ -1,9 +1,0 @@
-There	0	0
-was	1	1
-no	2	0
-longer	0	1
-any	0	0
-room	1	1
-for	0	0
-doubt	2	2
-.	NA	NA

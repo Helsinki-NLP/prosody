@@ -1,6 +1,0 @@
-We	0	0
-want	2	0
-to	0	1
-get	0	0
-married	1	2
-.	NA	NA

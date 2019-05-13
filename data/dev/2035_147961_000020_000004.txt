@@ -1,8 +1,0 @@
-Pavel	2	0
-sat	1	1
-still	1	0
-and	0	1
-watched	0	0
-his	0	1
-horses	2	2
-.	NA	NA

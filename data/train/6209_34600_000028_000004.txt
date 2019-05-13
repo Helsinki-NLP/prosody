@@ -1,5 +1,0 @@
-The	0	0
-houses	2	0
-ended	0	1
-there	1	2
-.	NA	NA

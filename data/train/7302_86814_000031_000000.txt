@@ -1,4 +1,0 @@
-You	1	0
-speak	0	1
-first	2	2
-.	NA	NA

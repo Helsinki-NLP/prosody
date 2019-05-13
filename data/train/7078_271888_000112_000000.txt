@@ -1,9 +1,0 @@
-Still	1	0
-thinking	0	0
-of	0	0
-her	2	2
-?	NA	NA
-I	2	0
-observed	1	1
-reproachfully	1	2
-.	NA	NA

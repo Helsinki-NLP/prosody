@@ -1,9 +1,0 @@
-You	2	0
-shall	0	0
-not	0	1
-come	0	0
-into	0	0
-my	0	1
-father's	1	1
-house	2	2
-.	NA	NA

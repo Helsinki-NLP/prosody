@@ -1,9 +1,0 @@
-Quoth	1	0
-I	2	2
-,	NA	NA
-'Allah	2	1
-make	1	1
-me	0	0
-thy	1	0
-ransom	0	2
-!	NA	NA

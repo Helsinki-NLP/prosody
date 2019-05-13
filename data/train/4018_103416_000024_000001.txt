@@ -1,6 +1,0 @@
-I	0	0
-must	1	0
-have	0	0
-been	0	1
-awful	2	2
-.	NA	NA

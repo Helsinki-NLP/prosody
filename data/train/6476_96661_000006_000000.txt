@@ -1,9 +1,0 @@
-The	0	0
-other	2	0
-hunter	0	0
-was	0	1
-a	0	0
-girl	1	2
-,	NA	NA
-Atalanta	2	2
-.	NA	NA

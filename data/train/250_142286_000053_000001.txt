@@ -1,8 +1,0 @@
-Have	0	0
-you	0	1
-seen	1	0
-any	0	0
-of	0	0
-our	0	1
-factories	2	2
-?	NA	NA

@@ -1,8 +1,0 @@
-Hilda	1	0
-took	0	0
-a	0	1
-quick	1	1
-,	NA	NA
-soft	2	1
-breath	2	2
-.	NA	NA

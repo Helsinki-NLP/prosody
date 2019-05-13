@@ -1,5 +1,0 @@
-Could	1	0
-it	0	0
-ever	1	1
-smile	2	2
-?	NA	NA

@@ -1,8 +1,0 @@
-Well	2	0
-,	NA	NA
-that's	0	1
-delight	2	0
-,	NA	NA
-said	0	1
-Caroline	1	2
-.	NA	NA

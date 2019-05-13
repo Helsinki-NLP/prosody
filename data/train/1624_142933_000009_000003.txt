@@ -1,4 +1,0 @@
-He	0	0
-looked	1	1
-puzzled	2	2
-.	NA	NA

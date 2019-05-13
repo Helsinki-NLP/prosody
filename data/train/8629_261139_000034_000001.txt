@@ -1,8 +1,0 @@
-An	0	0
-unexpected	2	0
-and	0	1
-pitiful	1	0
-sight	0	0
-awaited	0	1
-me	1	2
-.	NA	NA

@@ -1,7 +1,0 @@
-It	1	0
-is	0	0
-no	1	0
-use	0	0
-our	1	2
-quarrelling	2	2
-.	NA	NA

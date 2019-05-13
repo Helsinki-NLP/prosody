@@ -1,6 +1,0 @@
-These	1	0
-observations	1	1
-partly	1	0
-apply	0	0
-here	2	2
-.	NA	NA

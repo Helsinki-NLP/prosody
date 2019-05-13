@@ -1,7 +1,0 @@
-They	2	0
-themselves	1	1
-divided	2	0
-into	0	1
-two	0	0
-bands	2	2
-.	NA	NA

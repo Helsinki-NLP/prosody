@@ -1,9 +1,0 @@
-How	1	1
-jolly	2	0
-it	0	1
-was	0	0
-being	0	0
-young	1	1
-,	NA	NA
-Hilda	2	2
-!	NA	NA

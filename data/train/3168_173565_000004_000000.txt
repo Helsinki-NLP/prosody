@@ -1,7 +1,0 @@
-They	0	0
-gave	2	1
-Prince	0	0
-Andrew	1	1
-some	0	0
-tea	1	2
-.	NA	NA

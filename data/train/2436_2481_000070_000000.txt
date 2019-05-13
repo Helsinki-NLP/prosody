@@ -1,9 +1,0 @@
-Why	2	1
-,	NA	NA
-by	1	1
-God	1	1
-,	NA	NA
-where	2	0
-is	0	1
-he	0	2
-?	NA	NA

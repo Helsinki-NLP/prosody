@@ -1,7 +1,0 @@
-Anyhow	1	1
-,	NA	NA
-Eels	1	1
-run	2	0
-on	0	0
-land	1	2
-.	NA	NA

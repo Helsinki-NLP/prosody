@@ -1,7 +1,0 @@
-You	1	0
-will	0	1
-thank	2	0
-me	0	1
-for	1	0
-what	2	2
-?	NA	NA

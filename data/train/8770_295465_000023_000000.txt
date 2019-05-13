@@ -1,8 +1,0 @@
-Give	0	0
-me	0	0
-'nother	2	1
-paper	2	1
-,	NA	NA
-Papa	1	0
-day	1	2
-.	NA	NA

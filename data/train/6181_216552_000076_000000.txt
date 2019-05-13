@@ -1,5 +1,0 @@
-To	0	1
-sum	2	0
-up	0	1
-and	1	0
-conclude	2	2

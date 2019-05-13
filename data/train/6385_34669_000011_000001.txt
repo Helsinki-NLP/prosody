@@ -1,4 +1,0 @@
-What	2	0
-an	0	1
-apparition	1	2
-!	NA	NA

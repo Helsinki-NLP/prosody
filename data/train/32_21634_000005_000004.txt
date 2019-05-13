@@ -1,9 +1,0 @@
-But	1	0
-no	2	0
-one	0	1
-seemed	0	0
-to	0	2
-care	2	0
-about	1	1
-that	1	2
-.	NA	NA

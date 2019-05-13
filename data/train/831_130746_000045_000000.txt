@@ -1,7 +1,0 @@
-We	0	0
-have	1	1
-turned	2	0
-and	0	1
-turned	1	0
-again	1	2
-.	NA	NA

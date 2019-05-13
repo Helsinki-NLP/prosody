@@ -1,6 +1,0 @@
-mrs	1	0
-Beaumont	2	1
-,	NA	NA
-said	0	0
-Stephen	1	2
-.	NA	NA

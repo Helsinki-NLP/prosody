@@ -1,5 +1,0 @@
-Comfort	1	1
-is	0	0
-wanting	1	0
-here	2	2
-.	NA	NA

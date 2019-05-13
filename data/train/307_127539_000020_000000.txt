@@ -1,6 +1,0 @@
-Forward	2	2
-!	NA	NA
-cried	1	0
-the	0	0
-doctor	1	2
-.	NA	NA

@@ -1,8 +1,0 @@
-These	1	0
-vast	1	1
-buildings	1	2
-,	NA	NA
-what	2	0
-were	0	0
-they	0	2
-?	NA	NA

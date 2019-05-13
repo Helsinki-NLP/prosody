@@ -1,9 +1,0 @@
-She's	0	0
-on	2	0
-the	0	1
-deck	2	1
-,	NA	NA
-having	1	0
-orange	1	0
-juice	0	2
-.	NA	NA

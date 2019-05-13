@@ -1,9 +1,0 @@
-They	1	1
-embraced	2	1
-her	1	0
-and	0	1
-she	0	0
-returned	1	0
-their	0	1
-caresses	2	2
-.	NA	NA

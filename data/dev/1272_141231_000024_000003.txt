@@ -1,8 +1,0 @@
-That	2	0
-was	0	1
-really	2	1
-all	0	1
-that	0	0
-counted	1	1
-now	1	2
-.	NA	NA

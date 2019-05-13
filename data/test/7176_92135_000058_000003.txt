@@ -1,5 +1,0 @@
-Do	2	0
-play	0	0
-it	0	1
-again	2	2
-.	NA	NA

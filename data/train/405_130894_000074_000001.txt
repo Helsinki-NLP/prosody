@@ -1,9 +1,0 @@
-But	0	1
-the	0	0
-ship's	1	0
-air	1	0
-tanks	0	1
-were	0	1
-nearly	2	0
-empty	1	2
-.	NA	NA

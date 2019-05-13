@@ -1,6 +1,0 @@
-You	0	0
-know	2	0
-they	0	0
-are	0	1
-not	1	2
-.	NA	NA

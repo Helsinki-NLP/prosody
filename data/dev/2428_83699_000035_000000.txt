@@ -1,6 +1,0 @@
-mr	2	0
-Christopher	1	1
-,	NA	NA
-from	0	0
-London	2	2
-.	NA	NA

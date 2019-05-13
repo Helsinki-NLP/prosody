@@ -1,6 +1,0 @@
-peter	0	0
-kept	1	1
-sighing	2	1
-and	0	0
-groaning	2	2
-.	NA	NA

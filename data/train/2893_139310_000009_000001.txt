@@ -1,7 +1,0 @@
-You	1	0
-are	1	0
-owner	0	0
-of	0	2
-the	0	0
-world	2	2
-.	NA	NA

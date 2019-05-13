@@ -1,6 +1,0 @@
-It	0	0
-was	0	0
-like	1	1
-dropping	0	1
-water	2	2
-.	NA	NA

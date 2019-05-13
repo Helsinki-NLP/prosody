@@ -1,3 +1,0 @@
-Poor	1	1
-Dick	1	2
-!	NA	NA

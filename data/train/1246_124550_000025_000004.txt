@@ -1,8 +1,0 @@
-A	1	0
-Western	2	0
-mining	0	0
-settlement	0	1
-like	1	0
-a	0	1
-tumor	2	2
-.	NA	NA

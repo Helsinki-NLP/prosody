@@ -1,9 +1,0 @@
-Here	0	0
-I	2	1
-touch	1	2
-the	0	0
-core	2	0
-of	0	1
-my	0	0
-matter	1	2
-.	NA	NA

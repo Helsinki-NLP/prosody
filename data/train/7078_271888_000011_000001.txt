@@ -1,8 +1,0 @@
-Suddenly	2	0
-the	0	1
-scales	2	0
-fell	1	1
-from	0	0
-my	0	0
-eyes	1	2
-.	NA	NA

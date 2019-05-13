@@ -1,8 +1,0 @@
-Lady	2	1
-Westmere	0	0
-is	0	1
-very	2	0
-fond	0	1
-of	0	0
-Hilda	2	2
-.	NA	NA

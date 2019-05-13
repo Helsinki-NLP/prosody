@@ -1,9 +1,0 @@
-You	0	0
-wish	2	0
-to	0	0
-be	0	1
-generous	2	0
-to	0	2
-those	1	0
-villains	1	2
-!	NA	NA

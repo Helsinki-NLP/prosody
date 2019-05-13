@@ -1,5 +1,0 @@
-I	1	0
-will	0	1
-practice	2	1
-it	1	2
-.	NA	NA

@@ -1,7 +1,0 @@
-Do	0	1
-you	0	0
-remember	2	0
-it	0	1
-Captain	1	0
-Levison	2	2
-?	NA	NA

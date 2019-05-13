@@ -1,8 +1,0 @@
-I've	2	1
-decided	2	1
-to	0	0
-enlist	1	1
-in	0	0
-the	0	0
-Army	1	2
-.	NA	NA

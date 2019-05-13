@@ -1,6 +1,0 @@
-There	2	0
-is	0	1
-nothing	0	0
-in	0	1
-that	2	2
-.	NA	NA

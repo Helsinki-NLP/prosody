@@ -1,7 +1,0 @@
-The	0	0
-sea	2	0
-was	0	0
-of	1	1
-moderate	1	0
-depth	2	2
-.	NA	NA

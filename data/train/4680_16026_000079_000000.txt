@@ -1,6 +1,0 @@
-Rather	2	1
-!	NA	NA
-grinned	1	0
-the	0	0
-ventriloquist	1	2
-.	NA	NA

@@ -1,8 +1,0 @@
-Why	1	0
-do	0	1
-you	0	0
-ask	2	2
-?	NA	NA
-she	1	0
-inquired	1	2
-.	NA	NA

@@ -1,6 +1,0 @@
-Mary	2	0
-lifted	0	1
-startled	2	1
-blue	1	0
-eyes	0	2
-.	NA	NA

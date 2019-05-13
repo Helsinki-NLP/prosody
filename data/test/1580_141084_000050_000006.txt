@@ -1,5 +1,0 @@
-Kindly	1	0
-ring	0	1
-the	0	0
-bell	2	2
-!	NA	NA

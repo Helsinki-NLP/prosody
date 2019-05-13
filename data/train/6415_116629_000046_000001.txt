@@ -1,9 +1,0 @@
-Speak	1	0
-out	2	2
-!	NA	NA
-broke	2	0
-in	0	0
-Gertrude	0	0
-,	NA	NA
-trembling	1	2
-.	NA	NA

@@ -1,4 +1,0 @@
-But	1	0
-the	0	1
-Magician	1	1
-replied	2	2

@@ -1,7 +1,0 @@
-There	2	0
-lurked	0	1
-something	0	0
-that	0	1
-fascinated	2	1
-him	0	2
-.	NA	NA

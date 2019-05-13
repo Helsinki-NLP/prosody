@@ -1,9 +1,0 @@
-Let	2	1
-me	0	0
-know	2	0
-when	0	1
-the	0	0
-rope	2	1
-reaches	0	0
-you	0	2
-.	NA	NA

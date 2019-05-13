@@ -1,7 +1,0 @@
-That's	1	0
-so	2	2
-,	NA	NA
-agreed	0	0
-mr	0	0
-Jenks	0	2
-.	NA	NA

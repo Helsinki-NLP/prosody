@@ -1,2 +1,0 @@
-thirty	0	0
-five	2	2

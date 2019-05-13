@@ -1,4 +1,0 @@
-Why	0	0
-,	NA	NA
-look	2	2
-!	NA	NA

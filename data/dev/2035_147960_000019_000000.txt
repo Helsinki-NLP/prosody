@@ -1,8 +1,0 @@
-Antonia	2	0
-broke	0	0
-in	1	2
-He	0	0
-fight	2	0
-something	0	1
-awful	2	2
-!	NA	NA

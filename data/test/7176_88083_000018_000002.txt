@@ -1,7 +1,0 @@
-But	0	0
-water	2	2
-was	0	0
-all	2	0
-they	0	1
-clutched	1	2
-.	NA	NA

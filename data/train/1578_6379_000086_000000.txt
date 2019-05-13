@@ -1,6 +1,0 @@
-But	2	0
-you	0	1
-didn't	0	0
-leave	0	0
-it	2	2
-.	NA	NA

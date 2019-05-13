@@ -1,6 +1,0 @@
-They	1	0
-fell	2	1
-back	0	0
-,	NA	NA
-hesitated	1	2
-.	NA	NA

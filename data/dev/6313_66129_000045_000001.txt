@@ -1,3 +1,0 @@
-Perhaps	2	1
-Tuesday	1	2
-.	NA	NA

@@ -1,4 +1,0 @@
-Certainly	2	0
-,	NA	NA
-captain	0	2
-.	NA	NA

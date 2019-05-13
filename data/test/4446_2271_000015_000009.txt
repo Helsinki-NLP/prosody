@@ -1,8 +1,0 @@
-He's	1	0
-another	2	0
-who's	0	1
-awfully	1	1
-keen	1	0
-about	2	0
-her	1	2
-.	NA	NA

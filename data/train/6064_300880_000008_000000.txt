@@ -1,3 +1,0 @@
-Not	1	1
-yet	2	2
-.	NA	NA

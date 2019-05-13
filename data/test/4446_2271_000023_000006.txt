@@ -1,9 +1,0 @@
-She	0	0
-was	1	0
-a	0	1
-daft	2	2
-,	NA	NA
-generous	2	1
-little	0	0
-thing	1	2
-.	NA	NA

@@ -1,3 +1,0 @@
-What's	2	1
-that	1	2
-?	NA	NA

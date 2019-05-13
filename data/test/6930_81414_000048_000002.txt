@@ -1,5 +1,0 @@
-Then	0	0
-I	0	0
-heard	1	2
-Tom	1	0
-say	2	2

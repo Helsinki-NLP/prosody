@@ -1,9 +1,0 @@
-Do	0	0
-you	2	0
-think	0	0
-Alexandra	1	1
-likes	2	2
-him	0	0
-very	1	0
-much	0	2
-?	NA	NA

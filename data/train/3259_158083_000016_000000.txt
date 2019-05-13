@@ -1,2 +1,0 @@
-Fifth	1	1
-Group	2	2

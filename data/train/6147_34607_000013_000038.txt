@@ -1,5 +1,0 @@
-What	0	0
-great	2	0
-things	0	1
-accomplished	1	2
-!	NA	NA

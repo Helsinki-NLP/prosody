@@ -1,4 +1,0 @@
-At	2	0
-that	0	1
-mouth	1	2
-!	NA	NA

@@ -1,6 +1,0 @@
-Eliza	2	1
-Parsons	1	1
-shook	0	0
-her	0	0
-head	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-He	0	0
-fought	2	0
-against	0	0
-it	0	0
-as	0	0
-a	0	2
-possibility	2	2
-.	NA	NA

@@ -1,5 +1,0 @@
-As	2	1
-the	0	0
-children	1	1
-closed	1	0
-with	1	2

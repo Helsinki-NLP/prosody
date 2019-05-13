@@ -1,6 +1,0 @@
-It	0	0
-is	2	0
-the	0	0
-Golden	0	1
-Fleece	2	2
-.	NA	NA

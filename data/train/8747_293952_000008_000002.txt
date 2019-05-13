@@ -1,9 +1,0 @@
-Was	2	0
-she	0	1
-very	0	0
-much	1	1
-attached	0	1
-to	0	0
-mr	1	1
-Gore	2	2
-?	NA	NA

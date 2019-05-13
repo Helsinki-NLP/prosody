@@ -1,9 +1,0 @@
-So	0	0
-this	2	1
-was	1	1
-the	0	0
-game	2	1
-,	NA	NA
-was	0	0
-it	2	2
-?	NA	NA

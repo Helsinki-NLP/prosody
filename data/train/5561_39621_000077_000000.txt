@@ -1,8 +1,0 @@
-My	1	1
-lord	2	0
-,	NA	NA
-in	0	1
-the	0	0
-name	1	0
-of	0	1
-Heaven	2	2

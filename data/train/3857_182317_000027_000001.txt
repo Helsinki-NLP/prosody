@@ -1,6 +1,0 @@
-endless	2	1
-interest	2	0
-in	0	0
-one's	0	1
-environment	2	2
-?	NA	NA

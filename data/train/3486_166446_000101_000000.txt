@@ -1,8 +1,0 @@
-Sleep	2	1
-till	0	0
-I	0	0
-return	1	2
-,	NA	NA
-she	0	0
-murmured	1	2
-.	NA	NA

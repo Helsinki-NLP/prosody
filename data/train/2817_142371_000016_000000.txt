@@ -1,8 +1,0 @@
-Thank	2	1
-you	0	0
-;	NA	NA
-I	1	0
-will	0	0
-do	0	1
-so	2	2
-.	NA	NA

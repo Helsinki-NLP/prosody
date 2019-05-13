@@ -1,6 +1,0 @@
-Still	2	0
-he	0	1
-could	0	0
-not	1	0
-sleep	0	2
-.	NA	NA

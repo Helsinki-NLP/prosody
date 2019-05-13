@@ -1,8 +1,0 @@
-It's	0	0
-always	2	0
-harder	0	1
-to	0	0
-economize	1	0
-at	0	1
-first	2	2
-.	NA	NA

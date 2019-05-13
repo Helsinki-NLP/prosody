@@ -1,5 +1,0 @@
-The	0	1
-thrall's	1	0
-eyes	2	1
-flashed	1	2
-.	NA	NA

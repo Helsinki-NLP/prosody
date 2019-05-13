@@ -1,9 +1,0 @@
-It's	1	0
-in	0	0
-the	0	1
-fire	2	2
-,	NA	NA
-replied	0	0
-the	0	0
-girl	1	2
-.	NA	NA

@@ -1,6 +1,0 @@
-I'll	2	0
-let	1	1
-Brandon	0	1
-and	0	0
-abdicate	1	2
-.	NA	NA

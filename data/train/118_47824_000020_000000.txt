@@ -1,9 +1,0 @@
-He	0	0
-shouldn't	2	0
-be	0	2
-in	0	0
-jail	2	0
-,	NA	NA
-Bobby	1	1
-persisted	1	2
-.	NA	NA

@@ -1,7 +1,0 @@
-This	1	0
-is	0	0
-physically	0	1
-impossible	2	1
-when	0	0
-conscious	2	2
-.	NA	NA

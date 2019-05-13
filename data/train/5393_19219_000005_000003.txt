@@ -1,7 +1,0 @@
-Cosette	2	0
-and	0	1
-Marius	0	2
-had	1	0
-been	0	0
-elected	1	2
-.	NA	NA

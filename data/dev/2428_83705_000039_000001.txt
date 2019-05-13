@@ -1,9 +1,0 @@
-It	1	0
-is	0	1
-to	0	0
-take	2	1
-place	1	0
-on	0	1
-Tuesday	2	0
-fortnight	1	2
-.	NA	NA

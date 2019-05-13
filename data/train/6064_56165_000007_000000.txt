@@ -1,8 +1,0 @@
-I	2	0
-didn't	0	1
-say	0	0
-so	2	1
-,	NA	NA
-replied	1	0
-Nora	1	2
-.	NA	NA

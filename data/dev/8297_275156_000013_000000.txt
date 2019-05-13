@@ -1,7 +1,0 @@
-Herbert	2	1
-became	0	0
-more	1	0
-unreasonable	1	1
-than	0	0
-ever	2	2
-.	NA	NA

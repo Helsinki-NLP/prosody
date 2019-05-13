@@ -1,7 +1,0 @@
-Let	2	0
-us	0	1
-call	1	0
-it	0	0
-a	0	1
-misunderstanding	1	2
-.	NA	NA

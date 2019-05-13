@@ -1,7 +1,0 @@
-No	2	2
-;	NA	NA
-our	2	0
-way	0	0
-is	0	1
-best	1	2
-.	NA	NA

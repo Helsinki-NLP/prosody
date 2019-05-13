@@ -1,9 +1,0 @@
-Now	1	1
-,	NA	NA
-when	2	1
-has	0	0
-horror	2	1
-ever	1	0
-excluded	0	0
-study	1	2
-?	NA	NA

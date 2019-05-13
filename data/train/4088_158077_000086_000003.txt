@@ -1,7 +1,0 @@
-This	1	0
-was	0	0
-no	1	1
-time	2	1
-for	0	0
-manners	2	2
-.	NA	NA

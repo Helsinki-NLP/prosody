@@ -1,7 +1,0 @@
-The	0	0
-idlers	1	0
-of	0	1
-Paris	2	1
-had	0	0
-theirs	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-I	2	0
-was	0	1
-afraid	2	0
-it	0	2
-was	0	0
-nearer	0	0
-home	1	2
-.	NA	NA

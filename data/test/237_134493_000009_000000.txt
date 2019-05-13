@@ -1,9 +1,0 @@
-But	0	0
-I	0	1
-will	2	0
-be	0	1
-,	NA	NA
-in	0	0
-a	0	1
-minute	2	2
-.	NA	NA

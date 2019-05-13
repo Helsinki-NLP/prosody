@@ -1,8 +1,0 @@
-Cheery	0	0
-o	2	2
-!	NA	NA
-said	0	0
-his	0	0
-host	0	1
-Britishly	2	2
-.	NA	NA

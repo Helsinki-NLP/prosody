@@ -1,7 +1,0 @@
-They	0	0
-will	2	1
-speak	0	0
-ill	2	1
-soon	0	0
-enough	1	2
-.	NA	NA

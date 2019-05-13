@@ -1,7 +1,0 @@
-One	2	0
-of	0	0
-them	0	1
-seems	0	0
-restless	1	1
-enough	1	2
-.	NA	NA

@@ -1,5 +1,0 @@
-She	1	0
-made	0	1
-no	0	0
-reply	2	2
-.	NA	NA

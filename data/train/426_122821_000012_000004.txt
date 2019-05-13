@@ -1,7 +1,0 @@
-Those	2	0
-compositions	1	1
-would	0	0
-atone	0	0
-for	0	0
-much	1	2
-.	NA	NA

@@ -1,8 +1,0 @@
-And	0	1
-power	2	0
-and	0	1
-confidence	1	1
-came	1	0
-with	0	0
-them	0	2
-.	NA	NA

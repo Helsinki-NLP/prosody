@@ -1,7 +1,0 @@
-Boiled	2	0
-Calf's	1	0
-Udder	0	1
-for	0	0
-French	0	1
-Forcemeats	2	2
-.	NA	NA

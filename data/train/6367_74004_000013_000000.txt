@@ -1,4 +1,0 @@
-Ruggles	1	1
-turned	1	1
-red	1	2
-.	NA	NA

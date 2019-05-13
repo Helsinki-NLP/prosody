@@ -1,8 +1,0 @@
-Annie	2	2
-,	NA	NA
-I	2	0
-shall	0	0
-not	1	0
-excuse	1	0
-you	0	2
-.	NA	NA

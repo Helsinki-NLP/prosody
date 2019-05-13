@@ -1,4 +1,0 @@
-Which	0	0
-I	1	1
-do	2	2
-.	NA	NA

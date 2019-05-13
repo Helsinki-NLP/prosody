@@ -1,8 +1,0 @@
-That	2	0
-was	0	1
-an	0	0
-offer	1	0
-worth	0	1
-listening	2	1
-to	2	2
-.	NA	NA

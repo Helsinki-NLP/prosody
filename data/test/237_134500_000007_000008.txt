@@ -1,9 +1,0 @@
-I'll	1	1
-call	2	0
-you	0	0
-if	0	1
-I	0	0
-see	0	0
-a	0	1
-snake	1	2
-.	NA	NA

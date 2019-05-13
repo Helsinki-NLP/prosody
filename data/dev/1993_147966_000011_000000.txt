@@ -1,9 +1,0 @@
-Your	2	0
-grandfather	1	0
-is	0	0
-rich	1	1
-,	NA	NA
-she	0	0
-retorted	1	1
-fiercely	2	2
-.	NA	NA

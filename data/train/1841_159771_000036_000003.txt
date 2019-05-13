@@ -1,6 +1,0 @@
-And	0	1
-the	0	0
-nights	2	0
-were	0	1
-colder	2	2
-.	NA	NA

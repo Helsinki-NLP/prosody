@@ -1,8 +1,0 @@
-But	2	0
-I	0	0
-have	0	0
-another	1	1
-task	1	1
-for	0	0
-you	1	2
-.	NA	NA

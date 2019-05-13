@@ -1,6 +1,0 @@
-One	2	0
-of	0	0
-these	0	0
-is	1	1
-context	2	2
-.	NA	NA

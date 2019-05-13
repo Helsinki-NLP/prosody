@@ -1,5 +1,0 @@
-Delightfully	2	1
-,	NA	NA
-in	0	0
-fact	1	2
-.	NA	NA

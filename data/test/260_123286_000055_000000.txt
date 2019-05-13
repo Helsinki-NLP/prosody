@@ -1,4 +1,0 @@
-And	0	0
-the	0	1
-other	2	2
-?	NA	NA

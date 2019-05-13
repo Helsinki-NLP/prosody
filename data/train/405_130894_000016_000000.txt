@@ -1,6 +1,0 @@
-Borings	2	1
-will	0	0
-tell	2	0
-us	0	1
-that	1	2
-.	NA	NA

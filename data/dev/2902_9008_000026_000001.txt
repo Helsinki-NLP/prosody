@@ -1,5 +1,0 @@
-I	0	1
-plead	0	0
-guilty	1	1
-myself	2	2
-.	NA	NA

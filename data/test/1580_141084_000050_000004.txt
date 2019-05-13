@@ -1,8 +1,0 @@
-I'll	2	0
-take	1	1
-the	0	1
-armchair	1	0
-in	0	1
-the	0	0
-middle	1	2
-.	NA	NA

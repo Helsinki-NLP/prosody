@@ -1,7 +1,0 @@
-Where	1	0
-do	0	1
-you	0	0
-want	2	1
-to	0	0
-go	2	2
-?	NA	NA

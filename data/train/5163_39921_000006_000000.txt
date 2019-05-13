@@ -1,6 +1,0 @@
-Very	1	0
-well	2	1
-for	0	0
-a	0	1
-beginning	1	2
-.	NA	NA

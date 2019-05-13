@@ -1,5 +1,0 @@
-Her	0	0
-eyes	1	0
-were	0	1
-glowing	2	2
-.	NA	NA

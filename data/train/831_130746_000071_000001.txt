@@ -1,6 +1,0 @@
-JESSIE	2	2
-,	NA	NA
-he	0	0
-repeated	1	0
-slowly	1	2
-.	NA	NA

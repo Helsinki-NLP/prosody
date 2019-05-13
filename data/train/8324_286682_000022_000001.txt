@@ -1,7 +1,0 @@
-I	2	0
-can	0	1
-smooth	0	0
-that	1	1
-down	1	0
-afterward	1	2
-.	NA	NA

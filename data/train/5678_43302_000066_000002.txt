@@ -1,4 +1,0 @@
-I	1	0
-must	0	1
-go	2	2
-.	NA	NA

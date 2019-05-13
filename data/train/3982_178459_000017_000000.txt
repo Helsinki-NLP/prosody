@@ -1,8 +1,0 @@
-His	0	1
-tone	2	0
-and	0	1
-attitude	0	1
-did	0	0
-not	2	0
-change	1	2
-.	NA	NA

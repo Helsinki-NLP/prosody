@@ -1,9 +1,0 @@
-I	1	0
-suppose	2	0
-not	1	2
-,	NA	NA
-said	0	0
-Jasper	2	1
-in	0	0
-chagrin	1	2
-.	NA	NA

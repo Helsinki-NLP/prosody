@@ -1,6 +1,0 @@
-But	1	0
-they	2	0
-will	0	1
-not	2	1
-come	1	2
-.	NA	NA

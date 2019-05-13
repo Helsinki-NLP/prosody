@@ -1,6 +1,0 @@
-Haven't	2	1
-killed	2	0
-a	0	1
-policeman	2	0
-lately	1	2
-.	NA	NA

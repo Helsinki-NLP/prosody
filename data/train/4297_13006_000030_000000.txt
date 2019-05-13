@@ -1,8 +1,0 @@
-One	1	0
-is	0	1
-bound	2	0
-to	0	2
-be	0	0
-very	1	0
-careful	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-That's	2	0
-not	0	1
-thunder	1	0
-,	NA	NA
-it's	0	0
-a	0	1
-cough	2	2
-.	NA	NA

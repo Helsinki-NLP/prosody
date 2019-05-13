@@ -1,8 +1,0 @@
-Don't	2	0
-let	0	0
-me	0	1
-disturb	2	0
-you	0	1
-,	NA	NA
-Emil	1	2
-.	NA	NA

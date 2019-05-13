@@ -1,8 +1,0 @@
-Anybody	0	0
-hurt	2	2
-?	NA	NA
-asked	2	0
-Tom	1	0
-,	NA	NA
-anxiously	1	2
-.	NA	NA

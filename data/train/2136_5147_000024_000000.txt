@@ -1,9 +1,0 @@
-'And	0	0
-your	0	1
-cold	2	1
-,	NA	NA
-is	0	0
-it	0	0
-better	1	2
-?	NA	NA
-'	NA	NA

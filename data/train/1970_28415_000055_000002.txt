@@ -1,8 +1,0 @@
-And	1	0
-now	1	2
-it	0	0
-is	1	1
-too	0	0
-late	1	2
-!	NA	NA
-'	NA	NA

@@ -1,9 +1,0 @@
-Her	0	0
-Majesty	2	0
-was	0	1
-going	1	0
-to	0	1
-enjoy	1	0
-a	0	2
-comedy	2	2
-.	NA	NA

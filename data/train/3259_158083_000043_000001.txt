@@ -1,9 +1,0 @@
-I	2	0
-didn't	0	0
-have	0	0
-my	0	1
-feet	1	0
-on	0	0
-the	0	1
-ground	1	2
-.	NA	NA

@@ -1,9 +1,0 @@
-Dead	2	1
-!	NA	NA
-exclaimed	0	0
-Pencroft	1	1
-,	NA	NA
-with	0	0
-a	0	0
-groan	1	2
-.	NA	NA

@@ -1,8 +1,0 @@
-I	1	0
-don't	0	0
-allow	1	0
-folk	1	2
-in	0	0
-the	0	0
-surgery	2	2
-.	NA	NA

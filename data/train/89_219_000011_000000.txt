@@ -1,9 +1,0 @@
-Is	0	0
-it	0	0
-a	0	1
-pretty	2	0
-place	1	2
-?	NA	NA
-asked	1	0
-Catherine	1	2
-.	NA	NA

@@ -1,9 +1,0 @@
-I	2	0
-saw	1	0
-that	0	1
-words	1	1
-were	0	0
-of	0	1
-no	0	1
-avail	2	2
-.	NA	NA

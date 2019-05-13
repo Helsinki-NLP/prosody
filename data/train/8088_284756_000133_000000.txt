@@ -1,8 +1,0 @@
-The	0	1
-coral	1	0
-structures	0	1
-grew	0	0
-smaller	2	0
-and	0	1
-poorer	2	2
-.	NA	NA

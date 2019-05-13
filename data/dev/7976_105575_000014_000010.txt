@@ -1,8 +1,0 @@
-It	2	0
-was	0	0
-the	0	1
-storming	2	0
-of	0	1
-Fort	0	0
-Robinett	1	2
-.	NA	NA

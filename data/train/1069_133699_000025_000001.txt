@@ -1,8 +1,0 @@
-You're	1	0
-changed	2	2
-you're	0	0
-thinking	1	0
-of	0	0
-other	0	0
-things	1	2
-.	NA	NA

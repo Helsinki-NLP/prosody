@@ -1,6 +1,0 @@
-The	0	0
-general's	2	0
-good	1	1
-humour	0	0
-increased	1	2
-.	NA	NA

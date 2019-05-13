@@ -1,8 +1,0 @@
-I	1	0
-do	1	0
-,	NA	NA
-though	2	2
-!	NA	NA
-she	0	0
-sobbed	1	2
-.	NA	NA

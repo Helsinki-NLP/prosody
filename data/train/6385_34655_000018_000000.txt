@@ -1,8 +1,0 @@
-What	1	0
-a	0	0
-horrible	2	2
-palace	2	1
-!	NA	NA
-he	0	0
-thought	1	2
-.	NA	NA

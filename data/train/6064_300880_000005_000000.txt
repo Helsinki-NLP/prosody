@@ -1,9 +1,0 @@
-Bottled	2	0
-up	1	2
-,	NA	NA
-answered	1	0
-the	0	0
-young	0	0
-man	1	1
-gloomily	2	2
-.	NA	NA

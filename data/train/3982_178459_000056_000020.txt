@@ -1,4 +1,0 @@
-But	1	0
-I	0	1
-couldn't	1	2
-!	NA	NA

@@ -1,3 +1,0 @@
-'Dearest	2	1
-teacher	1	2
-,	NA	NA

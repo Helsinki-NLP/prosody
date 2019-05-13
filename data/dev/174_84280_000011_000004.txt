@@ -1,8 +1,0 @@
-If	0	0
-we	1	0
-had	0	0
-been	0	1
-brother	2	0
-and	0	2
-sister	2	2
-.	NA	NA

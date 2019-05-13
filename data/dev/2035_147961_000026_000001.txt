@@ -1,8 +1,0 @@
-They	0	0
-still	0	1
-come	1	2
-?	NA	NA
-he	0	0
-asked	2	1
-peter	2	2
-.	NA	NA

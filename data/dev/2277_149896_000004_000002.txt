@@ -1,7 +1,0 @@
-What	1	0
-a	0	1
-fool	2	0
-trick	0	1
-that	1	1
-was	2	2
-.	NA	NA

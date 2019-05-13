@@ -1,7 +1,0 @@
-But	0	0
-Angel	2	2
-do	0	0
-you	0	0
-remember	1	0
-Angel	1	2
-?	NA	NA

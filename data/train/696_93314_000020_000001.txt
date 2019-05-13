@@ -1,9 +1,0 @@
-It	0	0
-was	1	0
-an	0	0
-hour	2	1
-full	0	0
-of	0	2
-poignant	2	1
-sentiments	1	2
-.	NA	NA

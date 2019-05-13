@@ -1,5 +1,0 @@
-Look	2	1
-closely	1	0
-at	0	1
-life	1	2
-.	NA	NA

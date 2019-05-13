@@ -1,8 +1,0 @@
-This	0	0
-observation	2	2
-was	0	0
-followed	1	0
-by	0	0
-perfect	0	0
-silence	2	2
-.	NA	NA

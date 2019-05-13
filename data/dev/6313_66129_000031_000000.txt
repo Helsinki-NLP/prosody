@@ -1,7 +1,0 @@
-Chunky	2	1
-did	0	0
-even	0	0
-better	1	0
-than	0	1
-that	2	2
-.	NA	NA

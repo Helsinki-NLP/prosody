@@ -1,4 +1,0 @@
-But	1	0
-he's	0	1
-different	2	2
-.	NA	NA

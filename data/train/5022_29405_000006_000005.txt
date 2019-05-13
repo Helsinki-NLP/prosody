@@ -1,9 +1,0 @@
-As	2	1
-strangers	2	1
-he	0	0
-and	0	0
-I	0	0
-had	0	0
-first	1	0
-met	2	2
-.	NA	NA

@@ -1,7 +1,0 @@
-If	2	1
-the	0	0
-volor	2	0
-is	0	1
-not	0	0
-late	2	2
-.	NA	NA

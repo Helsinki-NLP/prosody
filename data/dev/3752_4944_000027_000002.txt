@@ -1,8 +1,0 @@
-He	0	1
-saved	2	1
-her	0	0
-life	2	1
-,	NA	NA
-you	0	0
-know	1	2
-.	NA	NA

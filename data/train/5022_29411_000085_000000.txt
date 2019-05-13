@@ -1,5 +1,0 @@
-Seven	2	1
-,	NA	NA
-she	1	0
-said	0	2
-.	NA	NA

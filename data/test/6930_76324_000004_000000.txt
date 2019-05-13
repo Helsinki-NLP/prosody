@@ -1,7 +1,0 @@
-I've	2	1
-got	2	0
-it	0	1
-!	NA	NA
-she	1	1
-announced	0	2
-.	NA	NA

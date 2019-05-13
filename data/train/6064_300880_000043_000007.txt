@@ -1,5 +1,0 @@
-It's	1	1
-a	0	0
-dead	2	1
-secret	1	2
-.	NA	NA

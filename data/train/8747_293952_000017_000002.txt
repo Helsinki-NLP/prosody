@@ -1,6 +1,0 @@
-There	2	0
-it	0	0
-is	0	1
-,	NA	NA
-doctor	2	2
-.	NA	NA

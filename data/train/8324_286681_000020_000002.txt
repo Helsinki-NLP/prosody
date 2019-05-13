@@ -1,6 +1,0 @@
-They	0	0
-don't	2	1
-run	1	1
-on	1	0
-land	0	2
-.	NA	NA

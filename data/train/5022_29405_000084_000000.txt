@@ -1,3 +1,0 @@
-Of	0	0
-course	2	2
-!	NA	NA

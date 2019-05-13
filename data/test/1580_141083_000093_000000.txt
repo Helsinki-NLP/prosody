@@ -1,7 +1,0 @@
-It	1	0
-was	0	0
-most	0	1
-unfortunate	2	1
-,	NA	NA
-sir	1	2
-.	NA	NA

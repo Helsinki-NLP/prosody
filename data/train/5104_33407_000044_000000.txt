@@ -1,9 +1,0 @@
-Why	2	0
-are	0	0
-you	0	1
-so	0	0
-late	1	2
-?	NA	NA
-he	0	0
-asked	1	2
-.	NA	NA

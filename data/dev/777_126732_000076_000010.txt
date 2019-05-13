@@ -1,9 +1,0 @@
-I	1	0
-couldn't	1	1
-do	0	0
-anything	2	0
-with	0	1
-Stevie	0	0
-that	0	0
-afternoon	1	2
-.	NA	NA

@@ -1,7 +1,0 @@
-Everything	2	1
-must	0	1
-give	0	0
-way	1	1
-to	0	0
-that	2	2
-.	NA	NA

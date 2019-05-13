@@ -1,4 +1,0 @@
-They	1	0
-persuaded	1	0
-eloquently	1	2
-.	NA	NA

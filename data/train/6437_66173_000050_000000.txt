@@ -1,8 +1,0 @@
-Silence	2	2
-!	NA	NA
-said	0	0
-mr	0	0
-Grimshaw	0	0
-,	NA	NA
-sharply	1	2
-.	NA	NA

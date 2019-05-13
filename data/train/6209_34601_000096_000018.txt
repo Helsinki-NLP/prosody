@@ -1,5 +1,0 @@
-Pack	2	0
-up	0	1
-your	1	1
-physic	1	2
-.	NA	NA

@@ -1,7 +1,0 @@
-Balloon	2	0
-is	0	1
-a	0	1
-whole	1	0
-hearted	1	1
-fellow	2	2
-.	NA	NA

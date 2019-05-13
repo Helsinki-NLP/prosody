@@ -1,8 +1,0 @@
-I	2	0
-cannot	0	0
-remember	1	0
-;	NA	NA
-it	0	2
-eludes	1	0
-me	1	2
-.	NA	NA

@@ -1,6 +1,0 @@
-Hyacinth	2	1
-had	0	0
-felt	1	0
-this	0	1
-coming	1	2
-.	NA	NA

@@ -1,7 +1,0 @@
-My	2	0
-room	1	0
-was	0	0
-clean	1	2
-oppressively	2	1
-clean	1	2
-.	NA	NA

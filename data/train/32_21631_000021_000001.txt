@@ -1,5 +1,0 @@
-What	1	0
-happened	0	0
-on	0	1
-Friday	2	2
-?	NA	NA

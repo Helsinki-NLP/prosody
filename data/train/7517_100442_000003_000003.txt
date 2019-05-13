@@ -1,8 +1,0 @@
-Potted	2	0
-lobster	1	1
-does	0	0
-not	2	1
-define	1	0
-a	0	0
-man	1	2
-.	NA	NA

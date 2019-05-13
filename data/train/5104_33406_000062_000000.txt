@@ -1,9 +1,0 @@
-Yonder	2	0
-is	0	0
-a	0	1
-strange	1	0
-pilot	2	2
-,	NA	NA
-Eric	1	0
-laughed	1	2
-.	NA	NA

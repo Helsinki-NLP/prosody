@@ -1,8 +1,0 @@
-Her	0	0
-husband	2	1
-was	0	0
-a	0	0
-Dane	1	2
-,	NA	NA
-thoroughbred	2	2
-.	NA	NA

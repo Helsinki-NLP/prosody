@@ -1,5 +1,0 @@
-Homo	2	0
-wagged	1	1
-his	0	0
-tail	2	2
-.	NA	NA

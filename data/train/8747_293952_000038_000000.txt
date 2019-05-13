@@ -1,6 +1,0 @@
-Julius	1	1
-stared	1	0
-at	0	2
-the	0	0
-fire	2	2
-.	NA	NA

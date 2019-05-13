@@ -1,9 +1,0 @@
-No	2	2
-!	NA	NA
-Hold	2	0
-on	0	1
-!	NA	NA
-We'll	0	0
-postpone	1	0
-that	0	2
-!	NA	NA

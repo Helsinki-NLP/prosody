@@ -1,9 +1,0 @@
-Oh	1	1
-dear	0	0
-,	NA	NA
-what	1	1
-nonsense	2	1
-I'm	0	0
-talking	2	2
-!	NA	NA
-'	NA	NA

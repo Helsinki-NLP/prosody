@@ -1,4 +1,0 @@
-I	1	0
-dismissed	0	1
-that	2	2
-.	NA	NA

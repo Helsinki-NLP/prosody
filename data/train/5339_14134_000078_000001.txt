@@ -1,9 +1,0 @@
-His	1	0
-voice	2	0
-was	0	1
-changed	2	0
-as	0	1
-he	0	0
-spoke	1	0
-next	1	2
-.	NA	NA

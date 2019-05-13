@@ -1,7 +1,0 @@
-The	2	0
-three	0	1
-soon	0	0
-reached	0	1
-the	0	0
-cabin	1	2
-.	NA	NA

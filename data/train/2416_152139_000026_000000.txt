@@ -1,7 +1,0 @@
-Carling's	2	0
-hand	0	1
-dropped	2	0
-to	0	1
-his	0	0
-side	2	2
-.	NA	NA

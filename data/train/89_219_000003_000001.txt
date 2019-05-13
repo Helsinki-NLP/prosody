@@ -1,5 +1,0 @@
-By	2	0
-accident	0	1
-or	0	0
-argument	1	2
-?	NA	NA

@@ -1,8 +1,0 @@
-That	1	0
-can't	1	1
-go	0	0
-on	2	2
-,	NA	NA
-she	0	0
-said	2	2
-.	NA	NA

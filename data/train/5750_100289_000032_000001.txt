@@ -1,6 +1,0 @@
-The	0	0
-Indians'	1	1
-victory	1	0
-was	1	1
-complete	2	2
-.	NA	NA

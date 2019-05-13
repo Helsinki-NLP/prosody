@@ -1,7 +1,0 @@
-But	0	0
-I	2	0
-meant	0	2
-the	1	0
-other	0	0
-gentlemen	1	2
-.	NA	NA

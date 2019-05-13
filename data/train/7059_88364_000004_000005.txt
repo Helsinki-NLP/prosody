@@ -1,7 +1,0 @@
-At	1	0
-last	2	1
-that	1	0
-landing	0	0
-is	0	1
-achieved	2	2
-.	NA	NA

@@ -1,7 +1,0 @@
-Besides	1	1
-,	NA	NA
-the	0	0
-laws	2	0
-are	0	1
-violated	2	2
-.	NA	NA

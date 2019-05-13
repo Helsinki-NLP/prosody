@@ -1,6 +1,0 @@
-Then	1	0
-I	0	1
-sought	2	0
-out	0	1
-Carter	2	2
-.	NA	NA

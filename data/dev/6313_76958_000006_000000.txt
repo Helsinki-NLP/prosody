@@ -1,9 +1,0 @@
-It's	2	0
-the	0	1
-'Cowboy's	2	0
-,	NA	NA
-'	NA	NA
-laughed	1	0
-Bob	1	1
-Stallings	1	2
-.	NA	NA

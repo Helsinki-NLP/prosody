@@ -1,7 +1,0 @@
-It	1	0
-must	0	0
-not	1	0
-be	0	2
-thought	2	0
-of	0	2
-.	NA	NA

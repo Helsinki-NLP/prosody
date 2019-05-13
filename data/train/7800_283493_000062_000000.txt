@@ -1,7 +1,0 @@
-I'm	1	0
-done	2	0
-eating	0	2
-,	NA	NA
-announced	2	1
-Bluff	1	2
-.	NA	NA

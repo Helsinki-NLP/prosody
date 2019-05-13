@@ -1,4 +1,0 @@
-A	1	0
-purple	0	1
-feather	2	2
-.	NA	NA

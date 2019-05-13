@@ -1,7 +1,0 @@
-William	2	0
-had	0	2
-spent	1	0
-it	0	1
-all	1	0
-out	1	2
-.	NA	NA

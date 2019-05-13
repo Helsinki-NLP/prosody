@@ -1,5 +1,0 @@
-He	0	0
-had	2	0
-little	0	1
-fear	1	2
-.	NA	NA

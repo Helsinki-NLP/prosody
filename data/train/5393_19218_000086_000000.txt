@@ -1,6 +1,0 @@
-I	1	0
-can't	2	1
-quit	1	1
-the	0	0
-vehicle	2	2
-.	NA	NA

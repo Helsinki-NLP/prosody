@@ -1,7 +1,0 @@
-But	2	0
-might	1	0
-be	0	1
-recognized	1	0
-as	0	1
-proofs	2	2
-?	NA	NA

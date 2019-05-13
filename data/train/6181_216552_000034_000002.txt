@@ -1,5 +1,0 @@
-What	2	1
-was	1	0
-its	0	1
-standard	2	2
-?	NA	NA

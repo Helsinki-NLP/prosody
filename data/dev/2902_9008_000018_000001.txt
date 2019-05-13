@@ -1,7 +1,0 @@
-'And	0	0
-why	2	0
-should	0	1
-that	1	1
-disturb	2	0
-me	0	2
-?	NA	NA

@@ -1,4 +1,0 @@
-'Let	1	0
-them	0	1
-go	2	2
-.	NA	NA

@@ -1,4 +1,0 @@
-They	2	0
-want	1	1
-men	1	2
-.	NA	NA

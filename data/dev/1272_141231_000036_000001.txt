@@ -1,5 +1,0 @@
-Walking	2	0
-on	0	0
-his	0	1
-knees	1	2
-.	NA	NA

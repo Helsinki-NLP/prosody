@@ -1,5 +1,0 @@
-Thrown	2	0
-into	0	1
-a	0	0
-hat	2	2
-!	NA	NA

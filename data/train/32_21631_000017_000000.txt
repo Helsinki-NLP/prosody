@@ -1,6 +1,0 @@
-Pig	2	2
-?	NA	NA
-Brownie	1	0
-Beaver	0	0
-asked	1	2
-.	NA	NA

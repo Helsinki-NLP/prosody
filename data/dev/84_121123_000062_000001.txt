@@ -1,9 +1,0 @@
-You	2	0
-will	0	1
-excuse	1	1
-me	0	0
-,	NA	NA
-will	0	0
-you	0	1
-not	2	2
-?	NA	NA

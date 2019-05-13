@@ -1,6 +1,0 @@
-The	0	1
-statues	2	1
-there	0	0
-are	0	1
-broken	2	2
-.	NA	NA

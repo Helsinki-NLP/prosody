@@ -1,7 +1,0 @@
-Since	1	0
-when	0	0
-has	0	0
-malady	0	0
-banished	1	2
-medicine	2	2
-?	NA	NA

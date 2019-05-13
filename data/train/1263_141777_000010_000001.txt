@@ -1,8 +1,0 @@
-Now	2	0
-he	0	0
-was	0	1
-facing	0	1
-that	2	1
-survivor's	1	0
-camp	2	2
-.	NA	NA

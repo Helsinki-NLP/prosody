@@ -1,6 +1,0 @@
-How	2	0
-does	0	0
-it	0	1
-concern	2	0
-me	0	2
-?	NA	NA

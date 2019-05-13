@@ -1,7 +1,0 @@
-What	2	0
-concern	1	0
-is	0	1
-that	2	0
-of	0	1
-mine	2	2
-?	NA	NA

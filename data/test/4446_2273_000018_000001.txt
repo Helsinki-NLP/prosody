@@ -1,8 +1,0 @@
-Hilda	2	1
-saw	1	1
-Alexander	1	1
-look	0	0
-up	1	0
-at	0	0
-it	2	2
-.	NA	NA

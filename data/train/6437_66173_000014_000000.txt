@@ -1,8 +1,0 @@
-This	2	0
-last	2	1
-condition	0	0
-was	0	0
-rather	2	0
-a	0	1
-staggerer	2	2
-.	NA	NA

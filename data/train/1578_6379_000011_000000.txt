@@ -1,4 +1,0 @@
-There	2	0
-it	0	1
-is	0	2
-.	NA	NA

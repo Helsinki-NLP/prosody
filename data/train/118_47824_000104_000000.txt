@@ -1,8 +1,0 @@
-He	0	0
-broke	1	0
-off	2	1
-,	NA	NA
-looking	0	1
-at	0	0
-Graham	2	2
-.	NA	NA

@@ -1,7 +1,0 @@
-Those	2	1
-checked	2	1
-off	1	1
-are	0	0
-all	0	0
-right	2	2
-.	NA	NA

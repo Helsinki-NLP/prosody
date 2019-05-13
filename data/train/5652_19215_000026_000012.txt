@@ -1,6 +1,0 @@
-There's	2	1
-the	0	0
-epoch	0	1
-for	1	0
-you	1	2
-.	NA	NA

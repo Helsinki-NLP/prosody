@@ -1,4 +1,0 @@
-He	0	0
-gave	1	1
-way	1	2
-.	NA	NA

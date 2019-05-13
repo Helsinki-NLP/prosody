@@ -1,3 +1,0 @@
-Four	0	0
-four	1	2
-.	NA	NA

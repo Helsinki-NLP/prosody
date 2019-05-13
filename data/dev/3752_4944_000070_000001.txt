@@ -1,9 +1,0 @@
-dear	0	0
-me	2	2
-,	NA	NA
-how	0	0
-dreadful	2	0
-!	NA	NA
-says	0	0
-Meekin	0	2
-.	NA	NA

@@ -1,6 +1,0 @@
-An	1	1
-interminable	2	0
-speech	0	1
-unfolded	1	0
-itself	1	2
-.	NA	NA

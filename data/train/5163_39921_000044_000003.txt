@@ -1,7 +1,0 @@
-It's	1	0
-only	2	0
-a	0	1
-trifle	1	1
-,	NA	NA
-anyhow	2	2
-.	NA	NA

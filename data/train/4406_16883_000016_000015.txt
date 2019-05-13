@@ -1,3 +1,0 @@
-Thomas	0	1
-Read	2	2
-.	NA	NA

@@ -1,4 +1,0 @@
-That	1	1
-is	0	0
-evident	2	2
-.	NA	NA

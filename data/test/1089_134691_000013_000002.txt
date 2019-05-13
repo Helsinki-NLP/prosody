@@ -1,5 +1,0 @@
-Was	1	0
-it	0	0
-their	0	1
-colours	2	2
-?	NA	NA

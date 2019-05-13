@@ -1,6 +1,0 @@
-True	2	1
-,	NA	NA
-muttered	0	1
-the	0	0
-Bear	1	2
-.	NA	NA

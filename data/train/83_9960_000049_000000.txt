@@ -1,9 +1,0 @@
-He	0	0
-stripped	2	0
-up	1	1
-his	0	0
-left	2	1
-sleeve	1	1
-,	NA	NA
-and	0	0
-added	1	2

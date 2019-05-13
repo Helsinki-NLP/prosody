@@ -1,5 +1,0 @@
-How	2	0
-did	0	1
-it	0	0
-happen	2	2
-?	NA	NA

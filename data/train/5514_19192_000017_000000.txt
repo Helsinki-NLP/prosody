@@ -1,4 +1,0 @@
-CHAPTER	0	0
-thirteen	1	2
-PASSING	2	0
-GLEAMS	0	2

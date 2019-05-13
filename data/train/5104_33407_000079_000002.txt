@@ -1,8 +1,0 @@
-But	0	1
-people	0	0
-could	0	0
-not	2	1
-forget	1	0
-his	0	1
-story	2	2
-.	NA	NA

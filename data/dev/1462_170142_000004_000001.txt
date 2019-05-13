@@ -1,6 +1,0 @@
-You	0	0
-haven't	1	1
-spoken	1	0
-a	0	1
-word	2	2
-.	NA	NA

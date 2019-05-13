@@ -1,5 +1,0 @@
-He	0	0
-repeated	1	1
-his	0	0
-question	2	2
-.	NA	NA

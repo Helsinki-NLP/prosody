@@ -1,6 +1,0 @@
-No	2	2
-,	NA	NA
-it	1	0
-was	0	0
-not	0	0
-i	2	2

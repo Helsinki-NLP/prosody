@@ -1,6 +1,0 @@
-I'm	2	1
-too	0	0
-fond	1	0
-of	0	1
-him	2	2
-.	NA	NA

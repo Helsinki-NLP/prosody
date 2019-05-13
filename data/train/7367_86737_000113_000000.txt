@@ -1,4 +1,0 @@
-Scarcely	2	1
-so	0	0
-much	1	2
-.	NA	NA

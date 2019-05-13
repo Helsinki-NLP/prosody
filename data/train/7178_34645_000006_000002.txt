@@ -1,7 +1,0 @@
-The	0	0
-Lord	2	0
-Chancellor	1	1
-was	0	0
-William	0	1
-Cowper	2	2
-.	NA	NA

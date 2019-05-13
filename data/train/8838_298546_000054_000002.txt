@@ -1,8 +1,0 @@
-The	1	1
-three	0	0
-walked	2	1
-round	2	0
-him	0	1
-and	0	0
-exulted	2	2
-.	NA	NA

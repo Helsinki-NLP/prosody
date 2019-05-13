@@ -1,5 +1,0 @@
-Now	2	1
-silence	2	0
-is	0	1
-useless	0	2
-.	NA	NA

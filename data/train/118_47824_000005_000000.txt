@@ -1,7 +1,0 @@
-Those	1	0
-men	2	1
-?	NA	NA
-Bobby	1	0
-asked	0	1
-wearily	2	2
-.	NA	NA

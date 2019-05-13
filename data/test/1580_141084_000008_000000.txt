@@ -1,9 +1,0 @@
-No	1	0
-difficulty	0	1
-in	0	0
-the	0	0
-world	2	1
-,	NA	NA
-Soames	1	0
-answered	0	2
-.	NA	NA

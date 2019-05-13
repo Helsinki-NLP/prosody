@@ -1,7 +1,0 @@
-Don't	2	0
-you	0	1
-see	0	0
-it	0	0
-is	0	2
-thirsty	2	2
-?	NA	NA

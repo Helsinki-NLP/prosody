@@ -1,4 +1,0 @@
-Give	2	0
-my	0	0
-orders	1	2
-.	NA	NA

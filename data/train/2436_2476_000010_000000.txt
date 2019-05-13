@@ -1,9 +1,0 @@
-Does	1	0
-he	0	0
-know	2	0
-anything	0	1
-about	0	0
-this	0	1
-Grantline	0	0
-affair	2	2
-?	NA	NA

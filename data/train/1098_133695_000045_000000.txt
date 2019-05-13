@@ -1,7 +1,0 @@
-Ralph	2	1
-meanwhile	1	0
-handed	1	0
-Isabel	0	1
-her	0	0
-candlestick	2	2
-.	NA	NA

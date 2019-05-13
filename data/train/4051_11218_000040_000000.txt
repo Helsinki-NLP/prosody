@@ -1,8 +1,0 @@
-With	1	0
-one	2	0
-bound	1	2
-,	NA	NA
-he	0	0
-leaped	2	0
-aboard	1	2
-.	NA	NA

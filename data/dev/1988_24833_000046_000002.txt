@@ -1,7 +1,0 @@
-I	0	0
-say	1	1
-,	NA	NA
-Well	2	1
-,	NA	NA
-o	2	0
-k	0	2

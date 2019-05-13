@@ -1,5 +1,0 @@
-Cristel	1	0
-counted	1	1
-the	0	0
-strokes	2	2
-.	NA	NA

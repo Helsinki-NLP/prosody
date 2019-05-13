@@ -1,9 +1,0 @@
-The	0	0
-night	2	1
-,	NA	NA
-yes	2	2
-;	NA	NA
-the	0	0
-shadows	2	1
-,	NA	NA
-no	0	2

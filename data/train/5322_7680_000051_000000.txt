@@ -1,5 +1,0 @@
-'Tie	2	0
-it	0	0
-up	1	1
-here	2	2
-.	NA	NA

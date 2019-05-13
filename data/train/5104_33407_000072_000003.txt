@@ -1,6 +1,0 @@
-The	0	1
-forests	2	1
-are	0	0
-without	1	0
-end	1	2
-.	NA	NA

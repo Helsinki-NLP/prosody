@@ -1,6 +1,0 @@
-And	0	1
-nothing	2	1
-more	1	0
-is	0	1
-known	2	2
-?	NA	NA

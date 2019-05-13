@@ -1,6 +1,0 @@
-Did	1	0
-you	0	0
-see	0	0
-her	0	1
-face	2	2
-?	NA	NA

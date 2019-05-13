@@ -1,3 +1,0 @@
-A	0	0
-Household	1	1
-Book	2	2

@@ -1,9 +1,0 @@
-And	0	0
-what	2	0
-sort	0	0
-of	0	0
-evidence	0	0
-is	1	2
-logically	2	1
-possible	2	2
-?	NA	NA

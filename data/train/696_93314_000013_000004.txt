@@ -1,7 +1,0 @@
-Its	1	0
-effect	2	1
-may	0	0
-be	0	0
-indicated	0	1
-briefly	2	2
-.	NA	NA

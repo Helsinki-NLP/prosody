@@ -1,8 +1,0 @@
-And	0	0
-then	1	0
-Jimmie	0	0
-Dale	0	0
-laughed	2	2
-not	2	0
-pleasantly	1	2
-.	NA	NA

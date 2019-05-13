@@ -1,4 +1,0 @@
-Not	0	0
-a	0	1
-trace	2	2
-.	NA	NA

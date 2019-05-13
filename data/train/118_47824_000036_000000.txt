@@ -1,3 +1,0 @@
-Good	1	0
-morning	1	2
-.	NA	NA

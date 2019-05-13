@@ -1,8 +1,0 @@
-Right	2	0
-away	1	1
-peter	0	0
-was	0	1
-full	2	0
-of	0	1
-sympathy	2	2
-.	NA	NA

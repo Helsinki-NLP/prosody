@@ -1,8 +1,0 @@
-Would	1	0
-it	0	0
-not	2	1
-be	0	0
-a	0	0
-good	0	1
-work	2	2
-?	NA	NA

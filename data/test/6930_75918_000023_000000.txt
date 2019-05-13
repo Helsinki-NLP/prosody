@@ -1,7 +1,0 @@
-Nay	2	1
-,	NA	NA
-where	0	0
-it	0	1
-does	2	0
-exist	0	2
-.	NA	NA

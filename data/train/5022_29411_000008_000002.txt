@@ -1,8 +1,0 @@
-My	2	0
-own	0	0
-moths	1	2
-failed	1	1
-to	0	0
-interest	0	0
-me	1	2
-.	NA	NA

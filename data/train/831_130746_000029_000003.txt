@@ -1,6 +1,0 @@
-And	0	0
-I	0	0
-wish	1	0
-him	0	1
-luck	2	2
-.	NA	NA

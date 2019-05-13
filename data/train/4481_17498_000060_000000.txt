@@ -1,5 +1,0 @@
-Uncle	1	0
-john	0	1
-emerged	1	1
-again	2	2
-.	NA	NA

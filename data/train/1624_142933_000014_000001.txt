@@ -1,9 +1,0 @@
-His	0	0
-head	2	1
-,	NA	NA
-throat	2	1
-and	0	0
-back	2	1
-were	0	0
-black	2	2
-.	NA	NA

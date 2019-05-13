@@ -1,4 +1,0 @@
-I	0	0
-won't	2	1
-promise	1	2
-.	NA	NA

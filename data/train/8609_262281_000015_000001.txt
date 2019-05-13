@@ -1,6 +1,0 @@
-Mind	2	0
-you	0	1
-fix	0	0
-upon	0	0
-me	1	2
-!	NA	NA

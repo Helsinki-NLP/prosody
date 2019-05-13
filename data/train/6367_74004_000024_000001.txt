@@ -1,7 +1,0 @@
-It	2	1
-it	1	0
-surprised	2	1
-me	0	0
-very	0	0
-much	1	2
-.	NA	NA

@@ -1,9 +1,0 @@
-The	0	0
-old	2	0
-man's	0	1
-terror	2	0
-must	0	0
-have	0	0
-been	0	1
-extreme	2	2
-!	NA	NA

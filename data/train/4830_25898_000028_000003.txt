@@ -1,5 +1,0 @@
-Taste	2	1
-this	0	0
-mint	1	0
-leaf	0	2
-!	NA	NA

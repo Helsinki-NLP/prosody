@@ -1,8 +1,0 @@
-The	0	0
-shrieks	1	1
-that	1	0
-followed	2	0
-made	0	1
-everybody	1	1
-sober	2	2
-.	NA	NA

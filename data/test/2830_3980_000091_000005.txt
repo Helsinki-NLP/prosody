@@ -1,8 +1,0 @@
-It	0	0
-indicates	2	1
-his	0	0
-sorrow	2	1
-and	1	0
-his	0	1
-displeasure	1	2
-.	NA	NA

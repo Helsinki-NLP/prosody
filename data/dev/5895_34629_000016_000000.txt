@@ -1,5 +1,0 @@
-They	1	1
-began	1	0
-their	0	1
-performances	2	2
-.	NA	NA

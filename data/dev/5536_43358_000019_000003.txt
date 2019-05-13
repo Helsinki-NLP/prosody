@@ -1,8 +1,0 @@
-This	1	0
-is	2	0
-the	0	2
-material	1	0
-or	0	1
-physical	0	0
-prayer	2	2
-.	NA	NA

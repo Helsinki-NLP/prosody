@@ -1,7 +1,0 @@
-And	1	0
-now	2	0
-we	0	1
-understand	1	1
-each	0	0
-other	1	2
-.	NA	NA

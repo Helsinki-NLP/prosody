@@ -1,4 +1,0 @@
-Who	0	1
-is	0	0
-he	2	2
-?	NA	NA

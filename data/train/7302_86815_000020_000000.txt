@@ -1,7 +1,0 @@
-I	2	0
-did	1	1
-not	0	0
-ask	0	1
-for	2	0
-it	1	2
-.	NA	NA

@@ -1,5 +1,0 @@
-Those	2	1
-who	0	0
-seek	1	1
-find	2	2
-.	NA	NA

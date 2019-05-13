@@ -1,6 +1,0 @@
-And	1	0
-so	2	0
-it	0	1
-goes	2	1
-on	1	2
-.	NA	NA

@@ -1,5 +1,0 @@
-My	1	0
-anticipations	1	1
-proved	0	0
-correct	1	2
-.	NA	NA

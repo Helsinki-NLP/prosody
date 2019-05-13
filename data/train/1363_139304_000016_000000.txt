@@ -1,8 +1,0 @@
-His	0	0
-mind	2	0
-was	0	1
-still	2	0
-a	0	1
-surging	1	0
-perplexity	1	2
-.	NA	NA

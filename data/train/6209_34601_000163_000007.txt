@@ -1,5 +1,0 @@
-It	0	1
-stays	2	0
-the	0	1
-pulse	2	2
-.	NA	NA

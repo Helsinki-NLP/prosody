@@ -1,9 +1,0 @@
-Miss	1	0
-Grammont	2	1
-has	2	0
-an	0	1
-impulsive	1	0
-and	0	1
-adventurous	1	0
-character	2	2
-.	NA	NA

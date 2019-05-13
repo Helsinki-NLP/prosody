@@ -1,5 +1,0 @@
-Let	2	1
-none	1	0
-attempt	1	1
-it	0	2
-.	NA	NA

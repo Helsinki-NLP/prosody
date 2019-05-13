@@ -1,8 +1,0 @@
-He	2	0
-opened	2	0
-a	0	1
-small	2	0
-door	1	0
-and	0	1
-disappeared	2	2
-.	NA	NA

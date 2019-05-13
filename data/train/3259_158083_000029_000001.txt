@@ -1,5 +1,0 @@
-Again	2	1
-they	0	0
-were	0	0
-arrested	1	2
-.	NA	NA

@@ -1,6 +1,0 @@
-Have	1	0
-we	0	1
-followed	1	0
-that	0	1
-road	2	2
-?	NA	NA

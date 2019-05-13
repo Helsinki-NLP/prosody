@@ -1,4 +1,0 @@
-What	1	0
-happy	0	1
-times	2	2
-!	NA	NA

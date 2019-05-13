@@ -1,6 +1,0 @@
-All	2	0
-gazed	0	1
-about	1	1
-in	0	0
-wonder	1	2
-.	NA	NA

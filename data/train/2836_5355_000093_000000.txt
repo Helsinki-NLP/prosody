@@ -1,5 +1,0 @@
-I	0	0
-would	2	1
-prefer	0	0
-not	1	2
-.	NA	NA

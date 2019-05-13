@@ -1,6 +1,0 @@
-He	0	0
-sighed	2	0
-and	0	1
-turned	0	0
-away	1	2
-.	NA	NA

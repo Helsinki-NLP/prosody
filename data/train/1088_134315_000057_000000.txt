@@ -1,8 +1,0 @@
-The	0	0
-newcomer	2	1
-glared	1	0
-round	2	0
-at	0	1
-the	0	0
-valet	2	2
-.	NA	NA

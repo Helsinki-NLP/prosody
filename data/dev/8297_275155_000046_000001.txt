@@ -1,6 +1,0 @@
-One	2	0
-moment	0	1
-before	1	0
-you	0	1
-go	2	2
-!	NA	NA

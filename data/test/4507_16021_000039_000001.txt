@@ -1,9 +1,0 @@
-People	1	0
-suffer	1	0
-in	0	0
-the	0	0
-light	1	2
-;	NA	NA
-excess	2	1
-burns	2	2
-.	NA	NA

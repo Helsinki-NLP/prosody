@@ -1,8 +1,0 @@
-Then	2	0
-a	0	1
-sudden	1	1
-fear	1	0
-struck	1	1
-his	0	0
-heart	2	2
-.	NA	NA

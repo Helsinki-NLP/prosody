@@ -1,6 +1,0 @@
-I'm	2	0
-sure	1	0
-I	0	1
-can't	0	1
-say	2	2
-.	NA	NA

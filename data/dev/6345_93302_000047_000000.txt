@@ -1,6 +1,0 @@
-How	0	1
-frightfully	2	0
-cold	0	0
-it	0	0
-is	2	2
-!	NA	NA

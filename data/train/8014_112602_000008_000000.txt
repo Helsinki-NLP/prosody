@@ -1,7 +1,0 @@
-The	0	0
-ancient	1	0
-Irish	1	1
-loved	1	1
-bright	1	0
-colours	2	2
-.	NA	NA

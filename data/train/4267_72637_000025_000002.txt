@@ -1,5 +1,0 @@
-Kitty	1	0
-gave	0	1
-a	0	0
-shriek	1	2
-.	NA	NA

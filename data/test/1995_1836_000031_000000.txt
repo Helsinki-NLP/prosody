@@ -1,7 +1,0 @@
-Oh	2	1
-,	NA	NA
-no	1	0
-;	NA	NA
-we	0	1
-can	2	2
-.	NA	NA

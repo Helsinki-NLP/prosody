@@ -1,6 +1,0 @@
-His	0	0
-love	2	0
-of	0	1
-farming	1	1
-continued	1	2
-.	NA	NA

@@ -1,4 +1,0 @@
-No	1	1
-,	2	2
-Troutina	NA	NA
-.	NA	NA

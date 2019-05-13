@@ -1,3 +1,0 @@
-ANTHONY	1	0
-LANE	1	2
-.	NA	NA

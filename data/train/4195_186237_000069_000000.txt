@@ -1,8 +1,0 @@
-Good	0	0
-gracious	2	0
-!	NA	NA
-she	0	1
-cried	0	0
-,	NA	NA
-delightedly	1	2
-.	NA	NA

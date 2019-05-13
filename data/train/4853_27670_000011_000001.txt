@@ -1,9 +1,0 @@
-Here	2	0
-were	0	0
-kept	1	0
-the	0	2
-stores	2	1
-for	0	0
-the	0	0
-crew	1	2
-.	NA	NA

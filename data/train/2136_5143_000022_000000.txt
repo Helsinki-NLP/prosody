@@ -1,9 +1,0 @@
-And	0	0
-so	1	0
-I	0	0
-yielded	0	2
-,	NA	NA
-though	2	0
-still	0	0
-reluctant	0	2
-.	NA	NA

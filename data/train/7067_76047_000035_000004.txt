@@ -1,4 +1,0 @@
-I	0	0
-thought	2	1
-not	1	2
-.	NA	NA

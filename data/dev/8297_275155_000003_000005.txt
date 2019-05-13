@@ -1,4 +1,0 @@
-Randal	2	1
-bought	2	0
-it	0	2
-.	NA	NA

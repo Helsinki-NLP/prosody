@@ -1,9 +1,0 @@
-I	0	0
-ain't	1	0
-got	2	0
-no	1	0
-evidence	0	1
-,	0	0
-mr	NA	NA
-Trevelyan	2	2
-.	NA	NA

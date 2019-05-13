@@ -1,8 +1,0 @@
-Oh	2	1
-,	NA	NA
-no	1	0
-,	NA	NA
-answered	0	1
-Big	0	0
-Brother	1	2
-.	NA	NA

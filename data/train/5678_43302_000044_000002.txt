@@ -1,8 +1,0 @@
-She	1	0
-bent	2	1
-forward	1	0
-and	0	1
-kissed	0	1
-him	0	0
-suddenly	2	2
-.	NA	NA

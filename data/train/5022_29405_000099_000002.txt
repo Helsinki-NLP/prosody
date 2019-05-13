@@ -1,5 +1,0 @@
-Absurd	1	0
-,	NA	NA
-Cristel	0	1
-absurd	2	2
-!	NA	NA

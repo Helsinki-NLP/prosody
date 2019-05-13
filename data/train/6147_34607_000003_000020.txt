@@ -1,3 +1,0 @@
-She	0	0
-drank	2	2
-.	NA	NA

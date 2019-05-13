@@ -1,6 +1,0 @@
-'The	0	0
-mists	2	1
-were	0	1
-closing	2	1
-again	1	2
-.	NA	NA

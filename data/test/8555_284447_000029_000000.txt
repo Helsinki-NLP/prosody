@@ -1,8 +1,0 @@
-Suppose	2	0
-it's	0	1
-a	0	0
-friend	2	2
-?	NA	NA
-he	0	0
-suggested	1	2
-.	NA	NA

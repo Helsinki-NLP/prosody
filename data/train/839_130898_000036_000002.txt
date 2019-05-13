@@ -1,5 +1,0 @@
-It	0	1
-sold	0	0
-out	2	1
-immediately	1	2
-.	NA	NA

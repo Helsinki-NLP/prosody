@@ -1,7 +1,0 @@
-These	0	0
-traits	2	1
-cannot	1	1
-be	0	0
-changed	1	0
-overnight	2	2
-.	NA	NA

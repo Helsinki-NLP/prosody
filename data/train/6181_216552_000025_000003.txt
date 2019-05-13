@@ -1,6 +1,0 @@
-who	2	1
-pretended	2	1
-to	0	0
-have	2	0
-it	0	2
-?	NA	NA

@@ -1,5 +1,0 @@
-Am	1	0
-I	0	0
-not	0	1
-right	2	2
-?	NA	NA

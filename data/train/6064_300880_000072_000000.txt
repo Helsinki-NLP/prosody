@@ -1,6 +1,0 @@
-Wants	2	1
-to	0	0
-see	0	0
-mr	0	0
-Remsen	1	2
-.	NA	NA

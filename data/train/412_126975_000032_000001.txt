@@ -1,7 +1,0 @@
-I've	0	0
-heard	2	0
-that	0	1
-gardeners	2	1
-use	0	0
-it	1	2
-.	NA	NA

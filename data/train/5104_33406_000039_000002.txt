@@ -1,8 +1,0 @@
-Let	2	0
-every	0	0
-man	0	1
-carry	1	0
-what	0	1
-he	0	0
-can	2	2
-.	NA	NA

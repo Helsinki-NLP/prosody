@@ -1,8 +1,0 @@
-Do	0	0
-you	0	0
-understand	2	1
-that	0	1
-,	NA	NA
-my	0	0
-man	1	2
-!	NA	NA

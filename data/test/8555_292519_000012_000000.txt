@@ -1,6 +1,0 @@
-Your	0	0
-hands	2	2
-some	1	0
-vivid	0	0
-trifle	1	2
-.	NA	NA

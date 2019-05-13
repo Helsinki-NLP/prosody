@@ -1,9 +1,0 @@
-Oh	2	0
-,	0	0
-mr	NA	NA
-Oglethorpe	1	2
-!	NA	NA
-she	0	0
-cried	0	0
-out	1	2
-.	NA	NA

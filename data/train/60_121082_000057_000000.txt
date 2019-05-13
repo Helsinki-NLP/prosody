@@ -1,5 +1,0 @@
-Upon	2	0
-a	0	0
-hundred	0	1
-francs	2	2
-!	NA	NA

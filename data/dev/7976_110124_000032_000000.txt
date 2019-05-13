@@ -1,5 +1,0 @@
-Soon	2	0
-she	0	0
-heard	1	1
-footsteps	1	2
-.	NA	NA

@@ -1,6 +1,0 @@
-mr	1	0
-Rattler	2	1
-and	0	0
-mr	0	0
-Roby	2	2
-.	NA	NA

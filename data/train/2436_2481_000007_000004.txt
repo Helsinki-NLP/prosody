@@ -1,5 +1,0 @@
-Is	0	1
-the	0	0
-door	1	1
-sealed	2	2
-?	NA	NA

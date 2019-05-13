@@ -1,6 +1,0 @@
-mr	2	0
-Haynes	1	1
-came	0	0
-running	0	1
-back	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-But	2	1
-it	1	0
-will	0	1
-be	0	0
-best	1	1
-that	1	0
-way	2	2
-.	NA	NA

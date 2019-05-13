@@ -1,9 +1,0 @@
-Bring	2	0
-the	0	1
-cowardly	2	1
-brute	0	0
-here	0	0
-,	NA	NA
-commanded	0	0
-Chauvelin	1	2
-.	NA	NA

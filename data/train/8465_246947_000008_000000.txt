@@ -1,9 +1,0 @@
-It	2	0
-is	0	0
-a	0	0
-terrible	1	1
-fate	2	1
-,	NA	NA
-he	0	1
-returned	1	2
-.	NA	NA

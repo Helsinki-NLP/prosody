@@ -1,7 +1,0 @@
-Is	2	1
-Alice	2	2
-Miss	0	0
-Malleson	0	0
-also	0	0
-well	1	2
-?	NA	NA

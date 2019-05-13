@@ -1,6 +1,0 @@
-Dark	1	1
-green	2	0
-,	NA	NA
-I	0	1
-think	2	2
-.	NA	NA

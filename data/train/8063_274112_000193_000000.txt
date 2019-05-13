@@ -1,6 +1,0 @@
-Agreed	1	1
-,	NA	NA
-by	1	0
-all	1	0
-means	0	2
-.	NA	NA

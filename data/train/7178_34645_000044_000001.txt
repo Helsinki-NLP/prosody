@@ -1,6 +1,0 @@
-We	1	0
-have	0	1
-seen	2	0
-the	0	1
-result	2	2
-.	NA	NA

@@ -1,6 +1,0 @@
-There	2	0
-was	0	1
-no	1	0
-other	0	1
-alternative	1	2
-.	NA	NA

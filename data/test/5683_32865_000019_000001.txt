@@ -1,8 +1,0 @@
-'Is	1	0
-this	1	1
-yours	1	0
-,	0	1
-mrs	NA	NA
-Wylder	2	2
-?	NA	NA
-'	NA	NA

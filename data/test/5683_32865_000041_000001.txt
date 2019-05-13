@@ -1,4 +1,0 @@
-That's	1	0
-all	1	2
-.	NA	NA
-'	NA	NA

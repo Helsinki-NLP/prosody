@@ -1,9 +1,0 @@
-After	0	0
-four	2	0
-years	0	0
-of	0	1
-civil	0	0
-war	1	2
-Shalmaneser	1	0
-died	1	2
-.	NA	NA

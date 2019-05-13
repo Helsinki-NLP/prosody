@@ -1,6 +1,0 @@
-And	0	0
-the	0	0
-eggs	2	1
-for	2	1
-breakfast	2	2
-?	NA	NA

@@ -1,9 +1,0 @@
-I	0	0
-might	1	1
-have	1	1
-to	0	0
-go	1	1
-,	NA	NA
-he	0	0
-evaded	1	2
-.	NA	NA

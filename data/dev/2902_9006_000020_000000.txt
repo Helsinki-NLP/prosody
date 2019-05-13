@@ -1,8 +1,0 @@
-And	0	0
-their	1	0
-strength	2	1
-was	0	0
-felt	2	1
-at	0	0
-once	1	2
-.	NA	NA

@@ -1,7 +1,0 @@
-I	2	0
-think	0	1
-I	0	0
-made	1	0
-him	0	1
-think	2	2
-.	NA	NA

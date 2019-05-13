@@ -1,9 +1,0 @@
-Come	0	0
-away	1	1
-,	NA	NA
-Zelie	1	2
-;	NA	NA
-let	2	0
-us	0	0
-go	2	2
-.	NA	NA

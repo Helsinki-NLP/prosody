@@ -1,7 +1,0 @@
-But	0	0
-just	0	0
-then	2	1
-crack	1	1
-!	NA	NA
-crack	2	2
-!	NA	NA

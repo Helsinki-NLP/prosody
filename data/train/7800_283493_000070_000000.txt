@@ -1,7 +1,0 @@
-Got	0	0
-everything	0	0
-now	2	2
-?	NA	NA
-asked	1	0
-Bluff	1	2
-.	NA	NA

@@ -1,7 +1,0 @@
-mr	2	1
-Woodhouse	1	1
-told	2	1
-me	0	0
-of	0	0
-it	2	2
-.	NA	NA

@@ -1,9 +1,0 @@
-When	0	0
-I	0	0
-arrived	1	0
-at	0	1
-Sisson's	1	2
-everything	2	0
-was	0	1
-quiet	1	2
-.	NA	NA

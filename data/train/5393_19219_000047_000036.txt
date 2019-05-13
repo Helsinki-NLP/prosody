@@ -1,6 +1,0 @@
-No	2	0
-'eighty	0	0
-nine	1	1
-for	0	0
-Eve	1	2
-.	NA	NA

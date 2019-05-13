@@ -1,9 +1,0 @@
-It's	0	0
-a	0	0
-shame	2	0
-to	0	1
-miss	0	0
-this	0	0
-,	NA	NA
-anyway	2	2
-.	NA	NA

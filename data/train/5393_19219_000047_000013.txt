@@ -1,6 +1,0 @@
-Fine	2	1
-stupidity	1	0
-,	NA	NA
-in	0	1
-sooth	2	2
-!	NA	NA

@@ -1,4 +1,0 @@
-This	2	1
-is	0	0
-murderous	1	2
-.	NA	NA

@@ -1,9 +1,0 @@
-I	0	0
-don't	2	1
-believe	1	1
-a	0	0
-bit	2	0
-of	0	2
-his	0	1
-rights	2	2
-.	NA	NA

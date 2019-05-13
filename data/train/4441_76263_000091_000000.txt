@@ -1,6 +1,0 @@
-Did	0	0
-you	0	0
-look	1	1
-it	0	0
-up	2	2
-?	NA	NA

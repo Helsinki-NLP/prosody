@@ -1,8 +1,0 @@
-Who	2	0
-is	0	1
-touching	0	0
-me	0	0
-and	0	1
-untrussing	2	0
-me	0	2
-?	NA	NA

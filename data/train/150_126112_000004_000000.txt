@@ -1,8 +1,0 @@
-In	0	0
-a	0	0
-few	0	0
-minutes	1	2
-the	0	0
-prince	2	1
-appeared	2	2
-.	NA	NA

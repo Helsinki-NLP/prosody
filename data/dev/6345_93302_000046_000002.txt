@@ -1,6 +1,0 @@
-And	0	0
-she	1	0
-had	0	0
-been	0	2
-sulking	1	2
-!	NA	NA

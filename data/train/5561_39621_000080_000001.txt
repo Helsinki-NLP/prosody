@@ -1,8 +1,0 @@
-What	1	0
-every	2	0
-one	0	0
-in	0	1
-my	0	1
-family	1	1
-does	2	2
-.	NA	NA

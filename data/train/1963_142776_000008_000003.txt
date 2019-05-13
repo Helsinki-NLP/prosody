@@ -1,6 +1,0 @@
-If	0	0
-necessary	1	0
-,	NA	NA
-add	1	1
-seasoning	1	2
-.	NA	NA

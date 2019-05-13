@@ -1,7 +1,0 @@
-The	0	0
-savage	2	2
-dimly	1	0
-understands	1	1
-this	0	0
-need	0	2
-.	NA	NA

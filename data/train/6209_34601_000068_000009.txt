@@ -1,9 +1,0 @@
-They	0	0
-try	2	0
-to	0	1
-give	0	0
-me	0	0
-nothing	1	0
-but	0	2
-farthings	2	2
-.	NA	NA

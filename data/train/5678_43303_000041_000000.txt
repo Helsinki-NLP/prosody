@@ -1,8 +1,0 @@
-Mabel	2	0
-passed	0	0
-an	0	0
-afternoon	0	0
-of	0	2
-considerable	1	1
-agitation	1	2
-.	NA	NA

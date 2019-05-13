@@ -1,9 +1,0 @@
-The	1	0
-young	0	0
-Muskrats	2	1
-looked	1	0
-at	0	1
-each	0	0
-other	0	0
-sorrowfully	2	2
-.	NA	NA

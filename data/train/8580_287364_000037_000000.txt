@@ -1,8 +1,0 @@
-We'll	1	0
-soon	0	0
-find	0	0
-out	2	2
-,	NA	NA
-answered	1	0
-Tom	1	2
-.	NA	NA

@@ -1,8 +1,0 @@
-Father	2	1
-,	NA	NA
-you	0	0
-look	0	0
-like	0	0
-a	0	1
-sorcerer	2	2
-!	NA	NA

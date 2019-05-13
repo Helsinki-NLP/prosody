@@ -1,8 +1,0 @@
-A	0	0
-dry	2	1
-,	NA	NA
-grey	1	0
-day	1	0
-in	0	1
-March	1	2
-.	NA	NA

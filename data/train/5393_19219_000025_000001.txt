@@ -1,7 +1,0 @@
-She	0	0
-caressed	2	0
-him	0	1
-with	0	0
-her	0	1
-smile	2	2
-.	NA	NA

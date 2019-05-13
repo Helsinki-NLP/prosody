@@ -1,7 +1,0 @@
-I	2	0
-have	0	0
-the	0	1
-best	2	1
-Italian	1	1
-poets	2	2
-.	NA	NA

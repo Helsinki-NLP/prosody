@@ -1,6 +1,0 @@
-Lady	1	0
-Isabel	1	1
-drew	0	0
-herself	2	0
-up	1	2
-.	NA	NA

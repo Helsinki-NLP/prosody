@@ -1,7 +1,0 @@
-Not	2	0
-just	0	1
-now	2	2
-I	0	0
-shouldn't	0	0
-dare	1	2
-.	NA	NA

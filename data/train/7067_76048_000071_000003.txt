@@ -1,4 +1,0 @@
-It	2	0
-didn't	0	1
-exist	2	2
-.	NA	NA

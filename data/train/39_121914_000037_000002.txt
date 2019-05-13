@@ -1,5 +1,0 @@
-What	1	0
-a	0	1
-horrible	2	0
-idea	2	2
-!	NA	NA

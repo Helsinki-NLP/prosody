@@ -1,7 +1,0 @@
-Danglars	2	1
-,	NA	NA
-as	1	0
-well	0	1
-as	0	0
-others	1	2
-.	NA	NA

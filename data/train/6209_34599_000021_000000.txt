@@ -1,8 +1,0 @@
-His	0	1
-eyes	2	0
-were	0	2
-fixed	2	1
-on	0	0
-the	0	0
-roofs	1	2
-.	NA	NA

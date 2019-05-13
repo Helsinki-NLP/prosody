@@ -1,4 +1,0 @@
-MY	2	0
-ADVENT	1	1
-ON	1	0
-MARS	0	2

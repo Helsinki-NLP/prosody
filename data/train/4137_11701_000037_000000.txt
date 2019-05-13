@@ -1,6 +1,0 @@
-But	2	1
-I	2	0
-didn't	0	1
-know	1	0
-that	0	1
-you	1	2

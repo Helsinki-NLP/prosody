@@ -1,9 +1,0 @@
-This	1	0
-really	0	0
-was	1	0
-a	0	1
-master	0	0
-stroke	0	1
-of	0	0
-nobility	2	2
-.	NA	NA

@@ -21,8 +21,7 @@ python3 main.py \
     --learning_rate 0.00005 \
     --weight_decay 0 \
     --gpu 0 \
-    --number_of_sents 33047 \ # Use this to select only a subset of examples
-    --test_and_dev_split .1 \ # This will create splits 80/10/10
+    --fraction_of_sentences 1 \ # Use this to select only a subset of examples (float)
     --optimizer adam \
     --seed 1234
 ```
@@ -52,13 +51,20 @@ Atlas 2 2
 ? NA NA
 ```
 
+## Models
+
+* BERT-base Uncased
+* BERT-base Cased
+* [Minitagger](https://github.com/karlstratos/minitagger) SVM trained using GloVe word embeddings. Paper: https://www.aclweb.org/anthology/W15-1511
+
 ## Results
 
 
-| Model             | Training data | Dev data | Test data    | Epochs | Test acc |
-| ---               | ---           | ---      | ---          | ---    | ---      |
-| BERT-base uncased | 26437         | 3305     | 3305         | 2      | 73.38%   |
-| BERT-base cased   | 26437         | 3305     | 3305         | 2      | 72.48%   |
+| Model             | Epochs  | Test acc |
+| ---               | ---     | ---      |
+| BERT-base uncased | 2       |          |
+| BERT-base cased   | 2       |          |
+| Minitagger        |         | 69.80%   |
 
 ## Experiments
 

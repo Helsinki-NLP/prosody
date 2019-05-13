@@ -1,9 +1,0 @@
-I	2	0
-don't	0	0
-know	0	0
-why	0	0
-you	0	1
-shouldn't	1	2
-have	2	1
-him	0	2
-.	NA	NA

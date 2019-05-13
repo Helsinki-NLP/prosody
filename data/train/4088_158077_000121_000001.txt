@@ -1,5 +1,0 @@
-The	0	0
-official	1	1
-bulletin	1	1
-concludes	0	1
-with	2	2

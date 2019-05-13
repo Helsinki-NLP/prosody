@@ -1,9 +1,0 @@
-His	1	0
-inestimable	2	2
-System	1	0
-of	0	0
-Logic	2	1
-was	0	0
-a	0	0
-revolution	1	2
-.	NA	NA

@@ -1,9 +1,0 @@
-The	0	1
-same	1	0
-brand	1	0
-of	0	1
-cigarettes	2	2
-?	NA	NA
-he	0	0
-asked	2	2
-.	NA	NA

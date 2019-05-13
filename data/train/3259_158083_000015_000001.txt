@@ -1,8 +1,0 @@
-Charles	1	0
-w	0	0
-Barnes	0	1
-,	NA	NA
-Indianapolis	1	1
-.	NA	NA
-Oklahoma	2	1
-mrs	0	2

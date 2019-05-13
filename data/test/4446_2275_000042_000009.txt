@@ -1,4 +1,0 @@
-Do	0	0
-you	1	1
-understand	2	2
-?	NA	NA

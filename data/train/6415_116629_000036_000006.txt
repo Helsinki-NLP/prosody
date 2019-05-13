@@ -1,8 +1,0 @@
-Why	2	0
-was	0	0
-she	0	1
-so	0	0
-worried	2	1
-about	0	0
-him	1	2
-?	NA	NA

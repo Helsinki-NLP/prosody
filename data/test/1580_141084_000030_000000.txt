@@ -1,7 +1,0 @@
-No	1	0
-good	2	2
-,	NA	NA
-my	0	0
-dear	0	0
-Watson	1	2
-.	NA	NA

@@ -1,9 +1,0 @@
-Therefore	2	2
-,	NA	NA
-he	1	0
-would	0	0
-crush	2	0
-his	0	1
-justifiable	1	0
-anger	1	2
-.	NA	NA

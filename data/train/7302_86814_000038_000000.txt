@@ -1,9 +1,0 @@
-How	2	0
-did	0	1
-you	0	0
-know	0	0
-I	0	0
-was	0	2
-in	0	0
-prison	2	2
-?	NA	NA

@@ -1,9 +1,0 @@
-It	2	0
-has	0	1
-been	0	0
-true	2	0
-from	0	1
-Pandora	1	0
-to	0	1
-Pankhurst	2	2
-.	NA	NA

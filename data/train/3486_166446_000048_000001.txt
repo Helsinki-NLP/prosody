@@ -1,5 +1,0 @@
-Whence	2	0
-did	0	1
-They	1	0
-come	1	2
-?	NA	NA

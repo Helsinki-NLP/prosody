@@ -1,7 +1,0 @@
-General	2	0
-Cheatham	0	1
-came	1	0
-up	1	0
-and	0	2
-advanced	2	2
-.	NA	NA

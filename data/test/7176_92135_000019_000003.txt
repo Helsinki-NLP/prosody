@@ -1,6 +1,0 @@
-Could	0	0
-anything	0	1
-be	0	0
-more	1	0
-natural	2	2
-?	NA	NA

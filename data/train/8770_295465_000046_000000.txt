@@ -1,4 +1,0 @@
-Papa	0	0
-day's	1	1
-happy	2	2
-.	NA	NA

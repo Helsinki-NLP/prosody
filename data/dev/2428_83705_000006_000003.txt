@@ -1,6 +1,0 @@
-The	0	0
-mere	2	1
-suggestion	1	0
-is	0	1
-absurd	2	2
-.	NA	NA

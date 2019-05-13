@@ -1,6 +1,0 @@
-yes	1	1
-,	NA	NA
-pretty	0	0
-soon	0	0
-now	2	2
-?	NA	NA

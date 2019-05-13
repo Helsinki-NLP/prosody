@@ -1,8 +1,0 @@
-We'll	1	1
-take	0	0
-all	2	0
-chances	0	1
-,	NA	NA
-advised	1	1
-Ned	2	2
-.	NA	NA

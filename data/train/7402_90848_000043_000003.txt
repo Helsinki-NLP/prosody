@@ -1,7 +1,0 @@
-Seven	1	0
-O'clock	1	0
-has	0	1
-just	0	0
-ridden	0	1
-forth	2	2
-.	NA	NA

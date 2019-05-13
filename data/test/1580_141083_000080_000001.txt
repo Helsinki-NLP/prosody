@@ -1,7 +1,0 @@
-I	0	0
-will	0	0
-look	0	1
-after	2	1
-the	0	1
-proofs	2	2
-.	NA	NA

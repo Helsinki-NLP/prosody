@@ -1,7 +1,0 @@
-Pay	2	0
-yourself	2	1
-,	NA	NA
-added	1	1
-the	0	0
-unknown	2	2
-.	NA	NA

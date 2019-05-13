@@ -1,7 +1,0 @@
-I	2	0
-was	0	1
-frightened	2	0
-at	0	2
-your	0	0
-prodigality	1	2
-.	NA	NA

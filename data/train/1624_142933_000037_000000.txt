@@ -1,5 +1,0 @@
-You	2	0
-poor	0	1
-little	0	0
-thing	1	2
-.	NA	NA

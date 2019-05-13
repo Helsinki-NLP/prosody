@@ -1,3 +1,0 @@
-Read	1	1
-that	2	2
-!	NA	NA

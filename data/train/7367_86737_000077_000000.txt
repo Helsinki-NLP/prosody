@@ -1,4 +1,0 @@
-Once	2	0
-upon	1	0
-a	0	1
-time	1	2

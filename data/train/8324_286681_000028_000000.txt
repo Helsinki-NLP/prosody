@@ -1,3 +1,0 @@
-Eels	0	1
-swim	2	2
-!	NA	NA

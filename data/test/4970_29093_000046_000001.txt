@@ -1,5 +1,0 @@
-We'll	0	0
-get	1	0
-a	0	1
-map	2	2
-.	NA	NA

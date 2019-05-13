@@ -1,8 +1,0 @@
-About	2	0
-like	0	1
-the	0	0
-Germans'	2	1
-,	NA	NA
-wasn't	1	0
-it	2	2
-?	NA	NA

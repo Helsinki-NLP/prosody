@@ -1,5 +1,0 @@
-Day	2	0
-at	0	0
-length	0	1
-dawned	2	2
-.	NA	NA

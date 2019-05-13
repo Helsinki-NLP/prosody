@@ -1,5 +1,0 @@
-What	0	0
-does	1	0
-he	0	1
-care	1	2
-?	NA	NA

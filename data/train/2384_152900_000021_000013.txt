@@ -1,9 +1,0 @@
-The	0	0
-whole	2	1
-supply	1	0
-was	0	2
-a	0	0
-very	2	1
-acceptable	2	1
-gift	2	2
-.	NA	NA

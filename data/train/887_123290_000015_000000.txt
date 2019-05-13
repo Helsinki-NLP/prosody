@@ -1,9 +1,0 @@
-I	0	0
-made	2	0
-a	0	0
-movement	0	1
-intended	0	0
-to	0	1
-express	2	1
-resignation	1	2
-.	NA	NA

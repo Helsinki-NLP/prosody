@@ -1,9 +1,0 @@
-The	0	0
-human	0	0
-volcano	1	0
-was	0	1
-now	0	0
-ready	1	0
-to	0	2
-burst	2	2
-.	NA	NA

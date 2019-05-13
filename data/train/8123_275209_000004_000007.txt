@@ -1,4 +1,0 @@
-Dear	1	1
-!	NA	NA
-dear	1	2
-!	NA	NA

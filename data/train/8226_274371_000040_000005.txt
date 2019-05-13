@@ -1,7 +1,0 @@
-He	0	1
-now	1	0
-prepared	0	0
-himself	1	1
-for	0	0
-defence	2	2
-.	NA	NA

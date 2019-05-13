@@ -1,8 +1,0 @@
-I	0	0
-kept	1	1
-quite	2	1
-still	2	1
-and	0	0
-said	1	0
-nothing	1	2
-.	NA	NA

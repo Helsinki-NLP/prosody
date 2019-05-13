@@ -1,9 +1,0 @@
-One	1	0
-trial	2	0
-will	0	2
-convince	2	0
-you	0	0
-of	0	0
-its	0	1
-merits	1	2
-.	NA	NA

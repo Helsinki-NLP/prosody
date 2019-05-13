@@ -1,6 +1,0 @@
-The	0	0
-death's	2	1
-head	2	1
-retains	1	0
-them	1	2
-.	NA	NA

@@ -1,6 +1,0 @@
-Good	1	1
-by	2	1
-,	NA	NA
-dear	0	0
-Randal	1	2
-.	NA	NA

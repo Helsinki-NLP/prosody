@@ -1,5 +1,0 @@
-It	0	0
-is	0	0
-quite	2	1
-impossible	2	2
-.	NA	NA

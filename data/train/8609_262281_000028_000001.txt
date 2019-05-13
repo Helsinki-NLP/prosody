@@ -1,5 +1,0 @@
-She	2	0
-did	0	1
-not	2	1
-speak	0	2
-.	NA	NA

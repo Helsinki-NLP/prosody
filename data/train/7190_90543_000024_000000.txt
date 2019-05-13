@@ -1,6 +1,0 @@
-The	0	0
-professor	2	0
-shook	0	1
-his	0	0
-head	2	2
-.	NA	NA

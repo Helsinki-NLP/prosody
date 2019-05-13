@@ -1,6 +1,0 @@
-We	1	0
-thought	2	1
-she	0	0
-was	0	1
-dead	2	2
-.	NA	NA

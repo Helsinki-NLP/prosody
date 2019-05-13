@@ -1,5 +1,0 @@
-That's	2	0
-where	0	1
-they	0	0
-are	2	2
-.	NA	NA

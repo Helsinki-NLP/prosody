@@ -1,6 +1,0 @@
-He	2	0
-opened	2	1
-his	0	0
-left	2	0
-hand	1	2
-.	NA	NA

@@ -1,5 +1,0 @@
-Any	1	0
-ornament	1	1
-in	0	0
-it	2	2
-?	NA	NA

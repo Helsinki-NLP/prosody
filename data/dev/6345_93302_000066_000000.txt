@@ -1,8 +1,0 @@
-Do	0	0
-you	0	0
-think	0	0
-I'm	0	0
-not	0	2
-sorry	2	1
-now	2	2
-?	NA	NA

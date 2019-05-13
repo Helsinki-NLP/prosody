@@ -1,5 +1,0 @@
-The	0	0
-other	1	0
-two	0	1
-receive	2	2
-.	NA	NA

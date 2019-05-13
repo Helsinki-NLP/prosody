@@ -1,6 +1,0 @@
-Mother	2	0
-,	NA	NA
-only	0	1
-think	1	0
-,	NA	NA
-I've	0	2

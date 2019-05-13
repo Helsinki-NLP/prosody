@@ -1,7 +1,0 @@
-Where	2	0
-else	0	1
-would	0	0
-they	1	0
-be	0	1
-born	2	2
-?	NA	NA

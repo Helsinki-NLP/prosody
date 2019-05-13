@@ -1,9 +1,0 @@
-The	0	0
-mystery	2	0
-of	1	0
-the	0	2
-Gray	1	0
-Seal	0	0
-was	0	1
-solved	2	2
-!	NA	NA

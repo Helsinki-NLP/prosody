@@ -1,6 +1,0 @@
-Graham	2	0
-made	0	1
-some	0	0
-indignant	0	1
-comments	2	2
-.	NA	NA

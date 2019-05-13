@@ -1,9 +1,0 @@
-And	0	0
-he	0	0
-counts	2	1
-it	0	0
-out	2	0
-in	0	2
-pa's	2	0
-hand	1	2
-.	NA	NA

@@ -1,9 +1,0 @@
-But	1	0
-it's	0	0
-rather	0	0
-nice	2	2
-,	NA	NA
-his	0	0
-long	1	0
-reticence	0	2
-.	NA	NA

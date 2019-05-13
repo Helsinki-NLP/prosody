@@ -1,9 +1,0 @@
-Then	0	0
-she	1	1
-straightened	2	1
-herself	1	1
-back	2	0
-in	0	1
-her	0	0
-seat	2	2
-.	NA	NA

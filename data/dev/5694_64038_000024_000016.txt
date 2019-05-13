@@ -1,8 +1,0 @@
-He	0	0
-stayed	2	0
-with	0	0
-the	0	1
-company	0	1
-two	0	0
-days	1	2
-.	NA	NA

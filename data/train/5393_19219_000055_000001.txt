@@ -1,9 +1,0 @@
-There	2	0
-is	0	1
-no	1	0
-joy	1	1
-outside	1	0
-of	0	1
-these	0	0
-joys	1	2
-.	NA	NA

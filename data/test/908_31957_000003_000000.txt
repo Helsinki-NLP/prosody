@@ -1,3 +1,0 @@
-Thou	1	0
-comest	1	2
-!	NA	NA

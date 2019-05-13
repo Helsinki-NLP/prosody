@@ -1,7 +1,0 @@
-Then	1	0
-Belle	1	0
-added	0	0
-a	0	2
-final	1	0
-word	1	2
-.	NA	NA

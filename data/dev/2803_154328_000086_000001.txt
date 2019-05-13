@@ -1,5 +1,0 @@
-Had	2	0
-they	0	0
-been	0	1
-seen	2	2
-?	NA	NA

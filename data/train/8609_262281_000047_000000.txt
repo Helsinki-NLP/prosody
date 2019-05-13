@@ -1,7 +1,0 @@
-Very	0	0
-well	2	0
-,	NA	NA
-said	0	1
-Lady	0	0
-Augusta	1	2
-.	NA	NA

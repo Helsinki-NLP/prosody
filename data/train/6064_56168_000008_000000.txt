@@ -1,7 +1,0 @@
-I	2	0
-know	1	0
-that	0	1
-you	0	0
-can't	0	1
-guess	2	2
-.	NA	NA

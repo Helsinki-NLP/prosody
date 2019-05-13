@@ -1,6 +1,0 @@
-Tell	1	0
-them	0	2
-Walt's	2	1
-all	1	0
-right	1	2
-.	NA	NA

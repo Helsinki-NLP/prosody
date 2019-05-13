@@ -1,6 +1,0 @@
-Love	2	0
-is	0	1
-the	0	0
-only	1	1
-ecstasy	1	2
-.	NA	NA

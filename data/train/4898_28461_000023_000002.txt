@@ -1,7 +1,0 @@
-This	2	0
-is	0	1
-no	2	0
-time	1	1
-for	0	0
-preaching	2	2
-!	NA	NA

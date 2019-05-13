@@ -1,9 +1,0 @@
-Where	0	0
-did	2	0
-you	0	2
-come	2	0
-from	1	1
-?	NA	NA
-said	0	0
-she	1	2
-.	NA	NA

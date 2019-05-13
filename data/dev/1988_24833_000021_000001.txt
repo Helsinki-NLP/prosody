@@ -1,5 +1,0 @@
-It	0	0
-makes	2	1
-me	0	0
-think	2	2
-.	NA	NA

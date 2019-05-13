@@ -1,5 +1,0 @@
-Leave	1	1
-that	2	2
-to	0	0
-me	1	2
-.	NA	NA

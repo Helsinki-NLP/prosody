@@ -1,5 +1,0 @@
-What	1	0
-was	0	1
-her	0	0
-father	2	2
-?	NA	NA

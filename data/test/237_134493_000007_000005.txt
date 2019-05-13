@@ -1,9 +1,0 @@
-She	2	0
-shook	1	1
-her	0	0
-head	2	0
-at	0	2
-the	0	0
-tall	2	0
-youth	0	2
-.	NA	NA

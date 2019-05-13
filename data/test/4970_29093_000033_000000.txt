@@ -1,8 +1,0 @@
-But	2	1
-in	0	0
-what	0	1
-capacity	2	1
-would	0	0
-I	2	0
-go	0	2
-?	NA	NA

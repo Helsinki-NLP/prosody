@@ -1,7 +1,0 @@
-No	2	2
-;	NA	NA
-we	1	0
-were	0	0
-quite	0	0
-alone	1	2
-.	NA	NA

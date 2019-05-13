@@ -1,9 +1,0 @@
-These	1	0
-he	0	1
-gave	2	0
-to	0	2
-three	1	0
-of	0	1
-my	1	0
-brothers	1	2
-.	NA	NA

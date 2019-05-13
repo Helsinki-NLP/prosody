@@ -1,6 +1,0 @@
-Oh	2	1
-!	NA	NA
-er	1	0
-I	0	1
-see	2	2
-!	NA	NA

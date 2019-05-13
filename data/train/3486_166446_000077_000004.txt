@@ -1,9 +1,0 @@
-But	0	0
-where	2	0
-could	0	1
-batteries	2	1
-like	0	0
-those	2	0
-come	1	1
-from	1	2
-?	NA	NA

@@ -1,4 +1,0 @@
-Now	2	1
-try	0	0
-it	1	2
-.	NA	NA

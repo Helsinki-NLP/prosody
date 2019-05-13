@@ -1,7 +1,0 @@
-Finally	2	0
-the	0	1
-hulking	0	0
-lad	1	0
-was	0	1
-dispatched	2	2
-.	NA	NA

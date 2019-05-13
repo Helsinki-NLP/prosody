@@ -1,8 +1,0 @@
-I	2	0
-can	0	0
-take	1	1
-bigger	1	0
-mouthfuls	2	1
-than	0	0
-that	2	2
-.	NA	NA

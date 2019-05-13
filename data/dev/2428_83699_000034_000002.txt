@@ -1,6 +1,0 @@
-A	0	0
-voice	2	0
-inquired	1	2
-Who's	1	0
-there	2	2
-?	NA	NA

@@ -1,4 +1,0 @@
-They	1	1
-take	1	1
-money	2	2
-.	NA	NA

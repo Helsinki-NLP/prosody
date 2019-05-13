@@ -1,4 +1,0 @@
-UNCLE	1	0
-JOHN'S	0	1
-FARM	1	2
-.	NA	NA

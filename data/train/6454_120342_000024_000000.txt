@@ -1,9 +1,0 @@
-and	0	0
-all	2	0
-of	0	0
-them	0	1
-fell	1	0
-in	0	1
-so	0	0
-cheerily	2	2
-.	NA	NA

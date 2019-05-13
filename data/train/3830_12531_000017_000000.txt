@@ -1,7 +1,0 @@
-Where	0	0
-do	0	0
-they	1	0
-get	1	1
-the	0	0
-money	2	2
-?	NA	NA

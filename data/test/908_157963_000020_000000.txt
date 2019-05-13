@@ -1,6 +1,0 @@
-Dost	0	1
-thou	2	0
-O	0	1
-little	0	1
-cloud	2	2
-?	NA	NA

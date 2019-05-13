@@ -1,6 +1,0 @@
-Man	2	0
-is	0	1
-not	1	1
-born	0	0
-thus	1	2
-.	NA	NA

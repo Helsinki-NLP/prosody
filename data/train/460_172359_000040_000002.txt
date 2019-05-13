@@ -1,8 +1,0 @@
-The	0	0
-thing	2	0
-was	0	0
-so	1	1
-evidently	2	0
-a	0	1
-conspiracy	2	2
-.	NA	NA

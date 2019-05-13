@@ -1,8 +1,0 @@
-It	0	0
-will	0	0
-never	0	0
-break	2	2
-nor	0	0
-wear	0	0
-out	1	2
-.	NA	NA

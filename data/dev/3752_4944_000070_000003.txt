@@ -1,6 +1,0 @@
-How	1	0
-delightful	2	2
-the	0	0
-grass	0	0
-smells	1	2
-!	NA	NA

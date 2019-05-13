@@ -1,8 +1,0 @@
-Mass	2	0
-suicide	1	2
-,	NA	NA
-that's	2	0
-what	0	0
-it	0	1
-was	1	2
-.	NA	NA

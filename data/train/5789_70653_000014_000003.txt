@@ -1,8 +1,0 @@
-This	1	0
-was	0	0
-not	2	1
-an	0	0
-impression	1	0
-of	0	1
-hardness	2	2
-.	NA	NA

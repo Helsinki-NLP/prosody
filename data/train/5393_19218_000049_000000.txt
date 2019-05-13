@@ -1,4 +1,0 @@
-Say	2	0
-,	NA	NA
-now	1	2
-.	NA	NA

@@ -1,4 +1,0 @@
-'No	2	0
-,	NA	NA
-really	1	2
-!	NA	NA

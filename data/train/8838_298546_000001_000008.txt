@@ -1,8 +1,0 @@
-After	1	1
-all	1	0
-,	NA	NA
-what	0	0
-did	0	0
-it	0	2
-matter	2	2
-?	NA	NA

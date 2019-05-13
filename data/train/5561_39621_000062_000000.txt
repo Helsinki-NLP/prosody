@@ -1,7 +1,0 @@
-Arrested	2	1
-!	NA	NA
-murmured	0	1
-the	0	0
-young	0	0
-man	0	2
-.	NA	NA

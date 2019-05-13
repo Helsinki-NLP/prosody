@@ -1,5 +1,0 @@
-Who	0	0
-is	2	0
-this	0	1
-lady	2	2
-?	NA	NA

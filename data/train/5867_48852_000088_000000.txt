@@ -1,5 +1,0 @@
-Has	0	0
-she	0	1
-offended	2	1
-you	1	2
-?	NA	NA

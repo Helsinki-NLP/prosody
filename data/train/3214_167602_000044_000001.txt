@@ -1,7 +1,0 @@
-You	0	0
-know	2	0
-it	0	1
-has	0	0
-cost	2	1
-money	1	2
-!	NA	NA

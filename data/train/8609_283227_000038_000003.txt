@@ -1,9 +1,0 @@
-I	0	0
-assure	1	0
-you	0	0
-I	0	0
-will	0	2
-prosecute	2	1
-you	0	0
-myself	1	2
-.	NA	NA

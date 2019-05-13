@@ -1,7 +1,0 @@
-This	2	0
-made	0	0
-it	0	1
-so	1	1
-particularly	2	1
-strange	2	2
-!	NA	NA

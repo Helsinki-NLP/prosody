@@ -1,9 +1,0 @@
-mrs	2	1
-Brand	1	1
-sent	2	1
-for	0	0
-me	0	2
-,	NA	NA
-he	0	0
-said	2	2
-.	NA	NA

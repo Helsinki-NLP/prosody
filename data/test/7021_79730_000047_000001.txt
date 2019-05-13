@@ -1,6 +1,0 @@
-Government	2	2
-by	1	0
-Manoeuvring	2	1
-and	0	0
-Artifice	1	2
-.	NA	NA

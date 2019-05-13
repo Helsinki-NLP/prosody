@@ -1,8 +1,0 @@
-Ah	2	0
-,	NA	NA
-that's	0	1
-a	0	0
-pity	0	0
-,	NA	NA
-Bannister	0	2
-.	NA	NA

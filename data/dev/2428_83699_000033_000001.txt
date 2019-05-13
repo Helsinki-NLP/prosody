@@ -1,4 +1,0 @@
-Where's	2	0
-another	0	1
-thing	1	2
-.	NA	NA

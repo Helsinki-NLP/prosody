@@ -1,5 +1,0 @@
-You	0	0
-fancy	2	1
-me	0	0
-mad	2	2
-.	NA	NA

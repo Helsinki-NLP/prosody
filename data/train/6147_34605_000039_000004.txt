@@ -1,7 +1,0 @@
-She	0	0
-was	0	1
-extravagant	2	1
-in	0	0
-gold	0	0
-lace	2	2
-.	NA	NA

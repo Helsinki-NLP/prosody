@@ -1,9 +1,0 @@
-Couldn't	0	0
-one	1	0
-get	1	0
-a	0	1
-book	2	2
-?	NA	NA
-he	0	0
-asked	2	2
-.	NA	NA

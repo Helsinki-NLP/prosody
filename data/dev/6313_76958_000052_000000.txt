@@ -1,6 +1,0 @@
-He	0	0
-shook	2	2
-the	0	0
-lad	2	1
-violently	1	2
-.	NA	NA

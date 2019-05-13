@@ -1,7 +1,0 @@
-Who	2	0
-has	0	1
-paid	1	0
-me	0	0
-this	0	1
-attention	2	2
-?	NA	NA

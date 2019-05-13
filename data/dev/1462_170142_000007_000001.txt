@@ -1,4 +1,0 @@
-What	1	0
-is	1	1
-it	1	2
-?	NA	NA

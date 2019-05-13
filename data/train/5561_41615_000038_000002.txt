@@ -1,7 +1,0 @@
-I	0	1
-will	0	0
-not	2	1
-tolerate	1	1
-such	0	0
-behavior	2	2
-.	NA	NA

@@ -1,6 +1,0 @@
-By	0	0
-all	2	0
-that	0	0
-is	0	2
-priestly	1	2
-!	NA	NA

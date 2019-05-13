@@ -1,8 +1,0 @@
-It's	0	0
-just	1	1
-poetry	2	0
-and	0	1
-books	1	0
-and	1	0
-rubbish	1	2
-.	NA	NA

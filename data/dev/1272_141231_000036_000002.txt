@@ -1,7 +1,0 @@
-No	1	1
-,	NA	NA
-not	1	0
-walking	1	1
-,	NA	NA
-falling	2	2
-.	NA	NA

@@ -1,6 +1,0 @@
-Wedding	2	1
-parties	0	0
-are	0	1
-at	0	0
-liberty	1	2
-.	NA	NA

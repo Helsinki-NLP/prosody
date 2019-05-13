@@ -1,4 +1,0 @@
-Reply	1	0
-by	0	1
-Top	1	2
-.	NA	NA

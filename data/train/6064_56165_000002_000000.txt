@@ -1,2 +1,0 @@
-A	0	0
-SOPHOMORE	2	2

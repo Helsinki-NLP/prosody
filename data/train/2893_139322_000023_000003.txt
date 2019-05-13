@@ -1,5 +1,0 @@
-The	0	0
-Master	1	0
-is	0	1
-betrayed	2	2
-!	NA	NA

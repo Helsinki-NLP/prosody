@@ -1,8 +1,0 @@
-My	0	0
-uncle	2	0
-has	0	2
-drawn	1	1
-nearer	1	0
-to	0	1
-me	1	2
-.	NA	NA

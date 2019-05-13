@@ -1,9 +1,0 @@
-There	2	0
-are	0	1
-few	0	0
-changes	1	0
-in	0	2
-the	0	0
-old	1	1
-Quarter	2	2
-.	NA	NA

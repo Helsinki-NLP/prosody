@@ -1,7 +1,0 @@
-Do	1	0
-help	2	0
-me	0	2
-,	0	0
-mr	NA	NA
-Holmes	1	2
-.	NA	NA

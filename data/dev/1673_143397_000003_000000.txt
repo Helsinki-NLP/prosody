@@ -1,9 +1,0 @@
-The	1	0
-prize	2	1
-was	0	0
-not	1	0
-unworthy	2	0
-of	0	1
-his	0	0
-ambition	1	2
-.	NA	NA

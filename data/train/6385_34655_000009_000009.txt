@@ -1,9 +1,0 @@
-A	0	1
-confessional	2	1
-was	0	0
-grafted	2	1
-on	1	1
-to	0	0
-an	0	0
-alcove	1	2
-.	NA	NA

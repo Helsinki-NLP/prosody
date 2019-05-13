@@ -1,7 +1,0 @@
-You're	0	0
-no	2	1
-friend	1	0
-of	0	1
-Tom	1	1
-Gates	2	2
-.	NA	NA

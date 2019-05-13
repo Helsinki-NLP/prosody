@@ -1,9 +1,0 @@
-MacConnell	2	2
-,	NA	NA
-let	2	0
-me	0	0
-introduce	1	1
-mr	0	0
-Bartley	1	0
-Alexander	0	2
-.	NA	NA

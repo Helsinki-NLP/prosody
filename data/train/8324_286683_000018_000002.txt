@@ -1,3 +1,0 @@
-So	0	1
-there	2	2
-!	NA	NA

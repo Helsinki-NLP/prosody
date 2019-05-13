@@ -1,3 +1,0 @@
-Look	2	1
-here	1	2
-!	NA	NA

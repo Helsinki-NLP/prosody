@@ -1,6 +1,0 @@
-Bechamel's	2	0
-suggested	2	1
-a	0	0
-different	1	1
-expectation	2	2
-.	NA	NA

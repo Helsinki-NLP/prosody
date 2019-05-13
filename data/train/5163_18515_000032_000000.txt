@@ -1,9 +1,0 @@
-Yes	2	1
-,	NA	NA
-so	0	0
-did	0	0
-I	2	2
-,	NA	NA
-said	0	0
-Polly	1	2
-.	NA	NA

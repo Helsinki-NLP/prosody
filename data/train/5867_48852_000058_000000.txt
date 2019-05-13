@@ -1,5 +1,0 @@
-But	2	0
-he	0	0
-is	0	1
-gone	2	2
-.	NA	NA

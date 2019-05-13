@@ -1,8 +1,0 @@
-Don't	2	0
-you	0	1
-believe	0	1
-me	0	0
-?	NA	NA
-he	0	1
-cried	2	2
-.	NA	NA

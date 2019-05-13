@@ -1,8 +1,0 @@
-No	2	1
-,	NA	NA
-Pencroft	0	0
-,	NA	NA
-replied	0	0
-the	0	1
-reporter	1	2
-.	NA	NA

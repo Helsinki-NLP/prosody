@@ -1,7 +1,0 @@
-What	2	0
-a	0	0
-contrast	1	2
-!	NA	NA
-I	1	0
-said	2	2
-.	NA	NA

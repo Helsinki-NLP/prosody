@@ -1,7 +1,0 @@
-From	0	0
-this	2	1
-Gwynplaine	1	0
-had	0	1
-become	1	0
-famous	1	2
-.	NA	NA

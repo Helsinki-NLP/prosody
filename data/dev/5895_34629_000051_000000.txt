@@ -1,6 +1,0 @@
-Of	1	0
-what	2	1
-was	0	0
-he	0	1
-thinking	1	2
-?	NA	NA

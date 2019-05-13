@@ -1,7 +1,0 @@
-Many	2	1
-thanks	2	1
-,	NA	NA
-answered	1	1
-the	0	0
-Beeches	1	2
-.	NA	NA

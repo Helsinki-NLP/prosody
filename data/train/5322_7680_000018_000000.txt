@@ -1,8 +1,0 @@
-'Aren't	2	0
-you	0	0
-in	0	0
-the	0	0
-regular	0	1
-service	2	2
-?	NA	NA
-'	NA	NA

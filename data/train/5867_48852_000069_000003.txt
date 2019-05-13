@@ -1,6 +1,0 @@
-It	2	0
-is	0	1
-still	2	0
-the	0	1
-same	2	2
-.	NA	NA

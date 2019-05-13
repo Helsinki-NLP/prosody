@@ -1,7 +1,0 @@
-This	2	1
-contingency	0	0
-caused	1	1
-Tom	1	0
-some	0	0
-uneasiness	2	2
-.	NA	NA

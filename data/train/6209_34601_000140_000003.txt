@@ -1,6 +1,0 @@
-She	1	0
-is	0	1
-well	0	0
-off	2	1
-there	1	2
-.	NA	NA

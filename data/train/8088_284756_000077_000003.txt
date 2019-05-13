@@ -1,9 +1,0 @@
-The	0	1
-apparatus	1	0
-is	0	1
-strewn	0	0
-all	1	0
-over	0	0
-the	0	1
-place	2	2
-.	NA	NA

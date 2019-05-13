@@ -1,4 +1,0 @@
-Why	1	0
-not	1	1
-go	1	2
-?	NA	NA

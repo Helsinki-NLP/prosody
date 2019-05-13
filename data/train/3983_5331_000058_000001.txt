@@ -1,5 +1,0 @@
-A	1	0
-clerk	2	0
-answered	0	1
-it	0	2
-.	NA	NA

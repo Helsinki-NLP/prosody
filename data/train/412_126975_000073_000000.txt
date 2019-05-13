@@ -1,9 +1,0 @@
-The	0	0
-little	1	0
-priest	1	1
-bounded	2	1
-like	0	0
-a	0	1
-rabbit	1	1
-shot	2	2
-.	NA	NA

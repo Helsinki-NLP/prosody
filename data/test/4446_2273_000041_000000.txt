@@ -1,9 +1,0 @@
-She	0	1
-sat	2	0
-down	1	0
-at	0	0
-the	0	1
-piano	1	0
-and	0	1
-sang	2	2
-.	NA	NA

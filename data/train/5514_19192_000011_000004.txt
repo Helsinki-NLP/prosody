@@ -1,8 +1,0 @@
-This	2	1
-Lynch	2	0
-law	0	0
-was	0	1
-complicated	1	1
-with	0	0
-mistakes	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-No	2	0
-,	NA	NA
-Lily	0	0
-;	NA	NA
-not	1	1
-quite	1	1
-that	1	2
-.	NA	NA

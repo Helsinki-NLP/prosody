@@ -1,5 +1,0 @@
-Naomi	2	0
-Colebrook	0	1
-at	0	0
-last	1	2
-!	NA	NA

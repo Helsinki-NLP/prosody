@@ -1,8 +1,0 @@
-My	2	0
-stove	1	0
-is	0	1
-no	1	1
-better	1	0
-than	0	0
-the	0	0
-sun	2	2

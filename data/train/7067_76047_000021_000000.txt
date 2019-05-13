@@ -1,7 +1,0 @@
-There	2	0
-were	0	0
-some	0	0
-moments	2	2
-of	0	0
-silence	2	2
-.	NA	NA

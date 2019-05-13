@@ -1,8 +1,0 @@
-I	0	0
-have	0	1
-something	1	2
-to	0	0
-say	2	1
-to	0	0
-her	1	2
-.	NA	NA

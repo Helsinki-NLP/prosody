@@ -1,7 +1,0 @@
-Terrible	2	0
-images	0	1
-passed	2	1
-through	0	0
-Marius'	1	0
-mind	1	2
-.	NA	NA

@@ -1,6 +1,0 @@
-She	2	0
-believes	0	1
-in	0	0
-corporal	2	1
-punishment	1	2
-.	NA	NA

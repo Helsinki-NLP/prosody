@@ -1,7 +1,0 @@
-Whither	2	0
-do	0	0
-you	0	1
-go	0	0
-so	0	1
-far	2	2
-?	NA	NA

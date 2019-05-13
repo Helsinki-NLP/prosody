@@ -1,9 +1,0 @@
-At	0	0
-last	2	2
-the	0	0
-father	1	0
-pressed	0	0
-him	0	1
-he	0	0
-went	2	2
-.	NA	NA

@@ -1,5 +1,0 @@
-That's	1	1
-all	2	0
-I	0	0
-know	1	2
-.	NA	NA

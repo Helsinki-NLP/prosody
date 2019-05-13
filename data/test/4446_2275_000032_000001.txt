@@ -1,3 +1,0 @@
-You	0	0
-know	1	2
-.	NA	NA

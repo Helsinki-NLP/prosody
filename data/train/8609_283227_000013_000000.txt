@@ -1,6 +1,0 @@
-Put	0	0
-that	2	0
-table	1	1
-down	2	1
-directly	1	2
-.	NA	NA

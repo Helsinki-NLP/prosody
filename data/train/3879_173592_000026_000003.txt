@@ -1,4 +1,0 @@
-They	1	0
-were	0	0
-neither	1	2
-.	NA	NA

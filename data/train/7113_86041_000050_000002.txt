@@ -1,9 +1,0 @@
-Go	2	2
-!	NA	NA
-count	2	0
-the	0	0
-turnips	1	1
-in	0	0
-yonder	0	0
-meadow	1	2
-.	NA	NA

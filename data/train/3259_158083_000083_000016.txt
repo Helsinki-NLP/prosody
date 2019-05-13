@@ -1,7 +1,0 @@
-Tube	2	1
-drawn	0	0
-out	1	1
-covered	1	1
-with	0	0
-blood	2	2
-.	NA	NA

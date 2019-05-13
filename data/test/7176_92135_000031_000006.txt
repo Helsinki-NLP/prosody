@@ -1,6 +1,0 @@
-Was	1	0
-it	0	0
-only	1	0
-a	0	1
-coincidence	2	2
-?	NA	NA

@@ -1,7 +1,0 @@
-For	0	1
-bida	2	1
-?	NA	NA
-asked	1	0
-my	0	0
-uncle	1	2
-.	NA	NA

@@ -1,7 +1,0 @@
-'Aunty	2	1
-told	2	0
-me	0	0
-not	0	1
-to	0	0
-run	2	2
-.	NA	NA

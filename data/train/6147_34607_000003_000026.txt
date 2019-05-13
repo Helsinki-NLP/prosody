@@ -1,6 +1,0 @@
-Her	0	0
-whole	2	0
-policy	1	0
-was	0	1
-cracked	2	2
-.	NA	NA

@@ -1,6 +1,0 @@
-Tough	1	0
-break	2	1
-,	NA	NA
-Tom	0	0
-sympathized	2	2
-.	NA	NA

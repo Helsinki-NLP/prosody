@@ -1,7 +1,0 @@
-Bluff	2	0
-was	0	0
-not	0	1
-slow	2	0
-of	0	1
-comprehension	1	2
-.	NA	NA

@@ -1,5 +1,0 @@
-Sorry	1	0
-I	0	0
-got	0	1
-sore	2	2
-.	NA	NA

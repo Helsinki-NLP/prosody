@@ -1,8 +1,0 @@
-How	2	0
-did	0	1
-such	1	0
-a	0	2
-catastrophe	2	0
-come	0	0
-about	2	2
-?	NA	NA

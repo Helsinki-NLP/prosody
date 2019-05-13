@@ -1,8 +1,0 @@
-When	2	0
-he	0	0
-had	1	1
-finished	1	1
-,	NA	NA
-he	0	0
-said	2	2
-,	NA	NA

@@ -1,8 +1,0 @@
-It's	0	0
-just	2	1
-that	2	2
-,	NA	NA
-said	2	0
-Sir	0	1
-Richmond	1	2
-.	NA	NA

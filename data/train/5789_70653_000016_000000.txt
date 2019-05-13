@@ -1,9 +1,0 @@
-Did	1	0
-he	0	0
-say	1	0
-why	2	2
-?	NA	NA
-the	0	0
-coroner	0	0
-asked	1	2
-.	NA	NA

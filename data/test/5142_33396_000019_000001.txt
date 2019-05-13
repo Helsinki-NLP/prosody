@@ -1,6 +1,0 @@
-'Viking	2	0
-is	0	1
-better	1	1
-for	0	0
-summer	1	2
-.	NA	NA

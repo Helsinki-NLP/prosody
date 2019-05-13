@@ -1,7 +1,0 @@
-You	1	0
-are	0	0
-both	1	1
-disrespectful	1	1
-and	0	0
-impertinent	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-Half	2	0
-a	0	1
-foot	2	0
-when	0	0
-I	0	0
-went	0	1
-there	2	2
-.	NA	NA

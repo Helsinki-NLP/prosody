@@ -1,9 +1,0 @@
-His	0	0
-manner	1	0
-was	0	1
-much	1	0
-more	1	1
-considered	1	0
-and	0	1
-grave	2	2
-.	NA	NA

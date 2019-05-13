@@ -1,6 +1,0 @@
-dr	2	0
-Frank	1	1
-and	0	0
-I	0	0
-followed	2	2
-.	NA	NA

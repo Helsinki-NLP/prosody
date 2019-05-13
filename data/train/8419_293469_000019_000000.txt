@@ -1,9 +1,0 @@
-And	0	0
-they	0	0
-all	0	0
-answered	1	2
-,	NA	NA
-We	1	0
-never	0	0
-will	0	2
-.	NA	NA

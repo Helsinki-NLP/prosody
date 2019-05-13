@@ -1,7 +1,0 @@
-Let's	2	1
-go	1	0
-out	0	1
-,	NA	NA
-he	0	0
-said	2	2
-.	NA	NA

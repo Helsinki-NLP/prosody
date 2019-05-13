@@ -1,8 +1,0 @@
-In	0	0
-the	0	0
-opposite	2	1
-corner	0	0
-was	0	1
-the	0	0
-kitchen	2	2
-.	NA	NA

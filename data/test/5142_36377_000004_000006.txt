@@ -1,9 +1,0 @@
-My	1	0
-spirits	2	1
-sank	2	1
-as	0	0
-I	0	0
-looked	0	1
-round	1	1
-me	0	2
-.	NA	NA

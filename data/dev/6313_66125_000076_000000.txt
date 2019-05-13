@@ -1,8 +1,0 @@
-Then	2	0
-followed	2	0
-a	0	1
-long	2	1
-period	0	0
-of	0	1
-suspense	1	2
-.	NA	NA

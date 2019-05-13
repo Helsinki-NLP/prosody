@@ -1,7 +1,0 @@
-Say	2	0
-so	0	1
-to	0	0
-my	0	0
-own	0	1
-child	1	2
-?	NA	NA

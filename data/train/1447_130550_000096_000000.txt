@@ -1,4 +1,0 @@
-High	2	2
-and	1	0
-undiscouraged	0	0
-hope	1	2

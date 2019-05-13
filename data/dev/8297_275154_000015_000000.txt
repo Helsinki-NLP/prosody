@@ -1,4 +1,0 @@
-Randal	2	1
-admitted	1	0
-it	0	2
-.	NA	NA

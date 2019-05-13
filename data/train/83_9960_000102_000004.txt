@@ -1,6 +1,0 @@
-Draw	0	0
-lots	2	1
-,	NA	NA
-do	0	0
-you	2	2
-?	NA	NA

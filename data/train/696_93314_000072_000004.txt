@@ -1,5 +1,0 @@
-Oh	2	0
-,	NA	NA
-thank	0	1
-God	2	2
-!	NA	NA

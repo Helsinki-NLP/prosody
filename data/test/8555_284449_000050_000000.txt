@@ -1,9 +1,0 @@
-Not	2	1
-even	1	0
-a	0	0
-bird	1	0
-cage	1	2
-,	NA	NA
-said	0	0
-she	1	2
-.	NA	NA

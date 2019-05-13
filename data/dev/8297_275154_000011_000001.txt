@@ -1,8 +1,0 @@
-I've	1	1
-been	0	0
-walking	1	2
-I	0	0
-don't	2	0
-know	0	0
-where	1	2
-.	NA	NA

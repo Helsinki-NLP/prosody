@@ -1,7 +1,0 @@
-It	0	0
-doesn't	2	1
-matter	1	2
-,	NA	NA
-peter	0	0
-said	1	2
-.	NA	NA

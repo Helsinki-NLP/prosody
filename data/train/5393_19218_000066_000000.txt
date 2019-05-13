@@ -1,6 +1,0 @@
-Unless	2	0
-it's	0	1
-the	0	0
-old	2	1
-fellow	1	2
-.	NA	NA

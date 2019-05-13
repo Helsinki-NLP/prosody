@@ -1,6 +1,0 @@
-The	0	0
-nobleman	2	0
-studied	2	1
-him	0	0
-curiously	1	2
-.	NA	NA

@@ -1,5 +1,0 @@
-ADVICE	2	1
-IN	0	0
-THE	0	0
-DARK	1	2
-.	NA	NA

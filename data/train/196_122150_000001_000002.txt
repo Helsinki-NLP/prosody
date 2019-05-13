@@ -1,5 +1,0 @@
-This	1	0
-reward	2	1
-eluded	1	1
-him	0	2
-.	NA	NA

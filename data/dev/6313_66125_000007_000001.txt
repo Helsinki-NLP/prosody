@@ -1,3 +1,0 @@
-Stand	1	0
-still	1	2
-.	NA	NA

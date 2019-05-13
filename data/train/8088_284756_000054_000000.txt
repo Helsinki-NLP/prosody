@@ -1,7 +1,0 @@
-Webbed	2	2
-?	NA	NA
-I	2	0
-asked	0	0
-,	NA	NA
-startled	1	2
-.	NA	NA

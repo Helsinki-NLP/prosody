@@ -1,9 +1,0 @@
-Everything	2	0
-in	0	0
-the	0	1
-caravan	2	2
-was	0	0
-indistinct	2	1
-and	0	0
-misty	1	2
-.	NA	NA

@@ -1,6 +1,0 @@
-Hold	2	0
-up	0	1
-,	NA	NA
-my	0	0
-lad	1	2
-.	NA	NA

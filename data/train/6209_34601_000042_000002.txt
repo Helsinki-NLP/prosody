@@ -1,6 +1,0 @@
-The	0	1
-savoury	1	0
-odour	2	1
-was	0	0
-perceptible	1	2
-.	NA	NA

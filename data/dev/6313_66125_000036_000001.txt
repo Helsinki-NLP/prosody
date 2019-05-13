@@ -1,8 +1,0 @@
-He	2	0
-ain't	0	1
-very	0	0
-strong	2	1
-,	NA	NA
-you	0	0
-know	2	2
-.	NA	NA

@@ -1,6 +1,0 @@
-Richard	2	1
-!	NA	NA
-repeated	0	0
-mr	0	0
-Carlyle	1	2
-.	NA	NA

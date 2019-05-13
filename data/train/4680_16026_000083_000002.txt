@@ -1,7 +1,0 @@
-This	1	0
-is	2	1
-not	2	0
-what	0	1
-you	0	0
-want	1	2
-.	NA	NA

@@ -1,8 +1,0 @@
-No	2	1
-,	NA	NA
-he	0	0
-wouldn't	1	1
-,	NA	NA
-coming	1	0
-in	1	2
-.	NA	NA

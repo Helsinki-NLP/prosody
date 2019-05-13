@@ -1,9 +1,0 @@
-Yes	2	2
-,	NA	NA
-we	1	0
-are	0	0
-borne	2	0
-at	0	1
-incalculable	1	0
-speed	1	2
-.	NA	NA

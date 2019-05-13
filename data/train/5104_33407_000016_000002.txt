@@ -1,9 +1,0 @@
-He	0	0
-belted	2	1
-his	0	0
-jacket	1	1
-with	0	0
-a	0	0
-gold	1	1
-girdle	2	2
-.	NA	NA

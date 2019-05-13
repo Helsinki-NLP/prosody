@@ -1,8 +1,0 @@
-He	0	0
-was	1	1
-forced	2	1
-to	0	0
-take	1	0
-his	0	1
-feet	2	2
-.	NA	NA

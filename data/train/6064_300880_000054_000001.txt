@@ -1,7 +1,0 @@
-It	0	0
-certainly	2	1
-seems	0	0
-made	1	1
-to	0	0
-order	2	2
-.	NA	NA

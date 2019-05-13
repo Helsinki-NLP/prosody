@@ -1,8 +1,0 @@
-Oh	2	2
-!	NA	NA
-could	1	0
-it	0	0
-indeed	0	0
-be	0	1
-true	2	2
-?	NA	NA

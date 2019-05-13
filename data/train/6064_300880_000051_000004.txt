@@ -1,3 +1,0 @@
-Tired	2	1
-out	1	2
-.	NA	NA

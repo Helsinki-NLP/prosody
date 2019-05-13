@@ -1,8 +1,0 @@
-That's	2	1
-what	0	0
-I	2	0
-heard	1	1
-,	NA	NA
-cried	1	0
-peter	0	2
-.	NA	NA

@@ -1,8 +1,0 @@
-How	0	0
-can	0	0
-I	0	0
-help	2	0
-it	0	1
-,	NA	NA
-sir	2	2
-?	NA	NA

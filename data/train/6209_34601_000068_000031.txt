@@ -1,5 +1,0 @@
-I	2	0
-made	0	0
-a	0	2
-fire	2	2
-.	NA	NA

@@ -1,7 +1,0 @@
-Upon	2	0
-these	0	1
-the	0	0
-clams	1	0
-were	0	0
-deposited	2	2
-.	NA	NA

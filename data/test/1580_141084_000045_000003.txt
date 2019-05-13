@@ -1,5 +1,0 @@
-Shall	1	0
-the	0	2
-examination	1	0
-proceed	2	2
-?	NA	NA

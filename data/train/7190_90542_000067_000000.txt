@@ -1,5 +1,0 @@
-To	0	0
-this	2	1
-Quarles	2	1
-pointed	1	2
-.	NA	NA

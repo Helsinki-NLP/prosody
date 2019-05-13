@@ -1,5 +1,0 @@
-I	2	0
-will	0	0
-not	0	1
-stir	2	2
-.	NA	NA

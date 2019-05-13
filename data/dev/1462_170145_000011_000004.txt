@@ -1,9 +1,0 @@
-But	1	0
-it's	0	1
-no	2	0
-use	0	1
-talking	2	1
-about	1	0
-that	0	1
-now	2	2
-.	NA	NA

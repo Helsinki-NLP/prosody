@@ -1,9 +1,0 @@
-He	2	0
-loved	0	0
-her	1	2
-,	NA	NA
-and	1	0
-that	0	0
-was	0	0
-enough	0	2
-.	NA	NA

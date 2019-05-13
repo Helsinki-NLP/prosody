@@ -1,7 +1,0 @@
-Come	0	0
-in	2	2
-,	NA	NA
-resumed	0	0
-the	0	0
-voice	1	2
-.	NA	NA

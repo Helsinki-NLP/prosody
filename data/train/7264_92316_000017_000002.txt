@@ -1,8 +1,0 @@
-It	0	0
-only	1	1
-timidly	1	1
-claimed	1	1
-to	0	0
-be	0	0
-heard	2	2
-.	NA	NA

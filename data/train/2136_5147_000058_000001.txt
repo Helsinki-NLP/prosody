@@ -1,8 +1,0 @@
-But	1	0
-the	0	1
-bolt	2	1
-was	1	0
-out	0	0
-of	0	1
-order	1	2
-.	NA	NA

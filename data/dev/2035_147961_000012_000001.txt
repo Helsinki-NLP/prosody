@@ -1,7 +1,0 @@
-It's	1	0
-awful	2	0
-,	NA	NA
-what	0	0
-he	0	1
-says	2	2
-!	NA	NA

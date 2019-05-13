@@ -1,9 +1,0 @@
-By	2	0
-no	0	1
-means	2	2
-,	NA	NA
-was	2	0
-the	0	0
-prompt	0	0
-reply	2	2
-.	NA	NA

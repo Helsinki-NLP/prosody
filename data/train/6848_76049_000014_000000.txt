@@ -1,7 +1,0 @@
-Old	2	0
-Grammont	1	2
-dozed	2	0
-off	1	1
-into	0	0
-dreamland	0	2
-.	NA	NA

@@ -1,6 +1,0 @@
-I	2	0
-don't	0	1
-believe	1	0
-it	0	1
-,	NA	NA
-b	1	2

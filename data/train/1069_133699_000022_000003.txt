@@ -1,6 +1,0 @@
-Is	2	0
-it	0	0
-because	1	0
-you've	0	1
-suspected	2	2
-?	NA	NA

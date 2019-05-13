@@ -1,6 +1,0 @@
-No	1	2
-;	NA	NA
-she	0	0
-isn't	1	0
-here	2	2
-.	NA	NA

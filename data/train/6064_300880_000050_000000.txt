@@ -1,7 +1,0 @@
-Wouldn't	1	1
-know	2	0
-them	0	0
-if	0	1
-I	0	0
-did	2	2
-.	NA	NA

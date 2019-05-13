@@ -1,8 +1,0 @@
-In	0	0
-default	2	0
-of	0	1
-thunderclaps	1	1
-there	1	0
-is	0	1
-impertinence	1	2
-.	NA	NA

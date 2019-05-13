@@ -1,4 +1,0 @@
-accosted	2	1
-the	0	0
-priest	2	2
-.	NA	NA

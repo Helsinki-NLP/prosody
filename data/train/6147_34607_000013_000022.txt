@@ -1,8 +1,0 @@
-What	2	0
-was	0	0
-she	0	1
-doing	1	1
-to	0	1
-be	0	0
-so	2	2
-?	NA	NA

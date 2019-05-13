@@ -1,9 +1,0 @@
-Does	1	0
-Captain	2	1
-Lawton	2	1
-want	1	0
-anything	0	1
-at	0	0
-my	1	0
-hands	2	2
-?	NA	NA

@@ -1,5 +1,0 @@
-We'll	1	0
-kick	0	1
-him	0	0
-out	2	2
-!	NA	NA

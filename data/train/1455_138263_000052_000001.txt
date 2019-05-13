@@ -1,6 +1,0 @@
-Barbicane	2	1
-sought	2	1
-to	0	0
-restrain	1	0
-them	0	2
-.	NA	NA

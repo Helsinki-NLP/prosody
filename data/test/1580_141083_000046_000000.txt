@@ -1,5 +1,0 @@
-By	2	0
-the	0	1
-window	0	0
-there	1	2
-.	NA	NA

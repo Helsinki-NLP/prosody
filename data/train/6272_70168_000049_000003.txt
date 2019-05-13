@@ -1,7 +1,0 @@
-Mother	0	0
-retired	1	2
-;	NA	NA
-Verry	2	0
-still	0	0
-played	2	2
-.	NA	NA

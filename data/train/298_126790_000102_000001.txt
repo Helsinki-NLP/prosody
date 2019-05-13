@@ -1,7 +1,0 @@
-Lawton	2	1
-,	NA	NA
-do	0	0
-you	0	1
-feel	0	0
-easy	2	2
-?	NA	NA

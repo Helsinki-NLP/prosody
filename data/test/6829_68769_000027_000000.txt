@@ -1,5 +1,0 @@
-I	1	0
-won't	0	1
-,	NA	NA
-Tom	2	2
-.	NA	NA

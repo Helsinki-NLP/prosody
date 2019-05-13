@@ -1,4 +1,0 @@
-She	0	0
-thought	1	1
-Love	2	2
-?	NA	NA

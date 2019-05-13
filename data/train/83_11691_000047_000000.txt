@@ -1,7 +1,0 @@
-Prince	2	0
-Udo	0	0
-put	0	0
-forward	0	0
-two	0	1
-suggestions	2	2
-.	NA	NA

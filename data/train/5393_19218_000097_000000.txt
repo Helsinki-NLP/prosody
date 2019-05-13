@@ -1,6 +1,0 @@
-He's	1	0
-in	0	0
-the	0	1
-first	2	1
-carriage	1	2
-.	NA	NA

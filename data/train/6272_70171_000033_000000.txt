@@ -1,4 +1,0 @@
-You	0	0
-shall	1	1
-see	2	2
-.	NA	NA

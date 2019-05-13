@@ -1,7 +1,0 @@
-If	0	0
-I	0	0
-did	2	0
-think	0	1
-that	2	1
-,	NA	NA
-that	2	2

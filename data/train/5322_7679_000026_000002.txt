@@ -1,9 +1,0 @@
-'What	2	1
-confusion	2	1
-it	0	0
-is	0	1
-,	NA	NA
-'	NA	NA
-he	0	0
-thought	2	2
-.	NA	NA

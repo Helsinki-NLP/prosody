@@ -1,7 +1,0 @@
-Where	2	0
-are	0	1
-the	0	0
-ropes	1	1
-,	NA	NA
-Tom	1	2
-?	NA	NA

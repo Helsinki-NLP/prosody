@@ -1,4 +1,0 @@
-Painful	1	1
-to	0	0
-hear	2	2
-.	NA	NA

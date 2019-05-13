@@ -1,8 +1,0 @@
-Of	1	0
-this	2	1
-there	0	0
-was	0	1
-no	0	0
-doubt	2	1
-whatever	2	2
-.	NA	NA

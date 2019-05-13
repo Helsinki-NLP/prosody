@@ -1,8 +1,0 @@
-And	0	0
-that	1	0
-is	0	0
-how	2	2
-this	0	0
-story	0	0
-begins	1	2
-.	NA	NA

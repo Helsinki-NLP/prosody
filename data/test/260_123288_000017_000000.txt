@@ -1,4 +1,0 @@
-Hans	2	1
-stirs	1	0
-not	1	2
-.	NA	NA

@@ -1,9 +1,0 @@
-It	2	0
-is	0	1
-built	2	0
-on	0	1
-the	0	0
-lower	1	1
-Carmody	0	0
-road	1	2
-.	NA	NA

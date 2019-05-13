@@ -29,7 +29,7 @@ parser.add_argument('--model',
                              'BertCased',
                              'LSTM',
                              'BiLSTM',
-			     'Regression'],
+                             'Regression'],
                     default='BertUncased')
 parser.add_argument('--embed_dim',
                     type=int,
@@ -51,16 +51,16 @@ parser.add_argument('--log_every',
                     default=10)
 parser.add_argument('--learning_rate',
                     type=float,
-                    default=0.0001)
+                    default=0.00005)
 parser.add_argument('--weight_decay',
                     type=float,
                     default=0)
 parser.add_argument('--gpu',
                     type=int,
                     default=0)
-parser.add_argument('--percentage_of_sents',
+parser.add_argument('--fraction_of_sentences',
                     type=float,
-                    default=0.02)
+                    default=1)
 parser.add_argument("--optimizer",
                     type=str,
                     choices=['rprop',
@@ -135,7 +135,7 @@ def main():
     elif config.model == "Regression":
         model = RegressionModel(device, config)
     else:
-        raise NotImplementedError("Only BERT models are supported at this moment. Use BertCased or BertUncased.")
+        raise NotImplementedError("Model option not supported.")
 
     model.to(device)
     model = nn.DataParallel(model)
@@ -167,7 +167,7 @@ def main():
     if config.model == 'Regression':
         criterion = nn.MSELoss()
     else:
-    	criterion = nn.CrossEntropyLoss(ignore_index=0)
+        criterion = nn.CrossEntropyLoss(ignore_index=0)
 
     params = sum([p.numel() for p in model.parameters()])
     print('Parameters: {}'.format(params))

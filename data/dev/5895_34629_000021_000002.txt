@@ -1,5 +1,0 @@
-Still	2	0
-it	0	1
-remained	0	0
-local	1	2
-.	NA	NA

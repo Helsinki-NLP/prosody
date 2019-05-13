@@ -1,9 +1,0 @@
-Now	1	0
-the	0	0
-object	2	0
-of	0	1
-this	0	1
-soliloquy	1	0
-is	0	1
-plain	2	2
-.	NA	NA

@@ -1,7 +1,0 @@
-Stole	0	0
-them	0	1
-from	0	0
-mama	2	2
-,	NA	NA
-eh	1	2
-?	NA	NA

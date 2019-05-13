@@ -1,9 +1,0 @@
-Oh	2	2
-,	NA	NA
-why	2	0
-did	0	0
-I	0	1
-engage	1	0
-that	0	1
-governess	1	2
-!	NA	NA

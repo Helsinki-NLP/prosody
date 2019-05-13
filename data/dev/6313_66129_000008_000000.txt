@@ -1,8 +1,0 @@
-Now	2	1
-you	0	0
-may	1	0
-go	1	1
-,	NA	NA
-he	0	0
-nodded	1	2
-.	NA	NA

@@ -1,7 +1,0 @@
-And	0	0
-the	0	0
-moonlight's	2	1
-simply	0	1
-dee	0	0
-vine	2	2
-.	NA	NA

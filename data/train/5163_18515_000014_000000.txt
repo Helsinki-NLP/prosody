@@ -1,8 +1,0 @@
-Look	0	0
-out	2	0
-,	NA	NA
-Phronsie	0	2
-!	NA	NA
-exclaimed	1	0
-Jasper	0	2
-.	NA	NA

@@ -1,6 +1,0 @@
-The	0	0
-moon	1	1
-lighted	2	2
-the	0	0
-group	2	2
-.	NA	NA

@@ -1,6 +1,0 @@
-I	2	0
-asked	0	0
-for	0	1
-Commander	0	0
-Farragut	1	2
-.	NA	NA

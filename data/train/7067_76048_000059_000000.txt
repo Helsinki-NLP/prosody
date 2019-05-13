@@ -1,6 +1,0 @@
-Miss	2	0
-Grammont	1	1
-surveyed	1	1
-the	0	0
-landscape	1	2
-.	NA	NA

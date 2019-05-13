@@ -1,9 +1,0 @@
-Put	1	0
-the	1	0
-different	0	0
-antennae	1	1
-plug	1	0
-into	0	1
-these	0	0
-jacks	2	2
-.	NA	NA

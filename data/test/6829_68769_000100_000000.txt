@@ -1,8 +1,0 @@
-I'm	0	1
-so	2	0
-glad	0	1
-,	NA	NA
-Ken	0	1
-so	2	0
-glad	1	2
-!	NA	NA

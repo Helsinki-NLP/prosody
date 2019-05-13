@@ -1,8 +1,0 @@
-I	1	0
-am	0	0
-not	2	1
-looking	2	1
-for	0	0
-the	0	0
-land	2	2
-.	NA	NA

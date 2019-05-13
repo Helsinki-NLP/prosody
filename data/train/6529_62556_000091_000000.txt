@@ -1,9 +1,0 @@
-Top	1	0
-sprang	0	0
-forwards	2	2
-,	NA	NA
-then	1	0
-almost	0	0
-immediately	0	1
-disappeared	1	2
-.	NA	NA

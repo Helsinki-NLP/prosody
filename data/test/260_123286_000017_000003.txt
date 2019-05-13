@@ -1,5 +1,0 @@
-Did	0	0
-he	0	1
-cross	2	0
-it	1	2
-?	NA	NA

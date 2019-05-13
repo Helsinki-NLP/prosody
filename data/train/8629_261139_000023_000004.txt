@@ -1,6 +1,0 @@
-It	1	0
-is	0	0
-my	0	0
-last	2	1
-entreaty	1	2
-.	NA	NA

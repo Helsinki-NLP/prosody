@@ -1,7 +1,0 @@
-Don't	1	0
-make	0	0
-any	0	1
-mistake	2	1
-about	0	0
-that	2	2
-.	NA	NA

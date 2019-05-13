@@ -1,8 +1,0 @@
-I	1	0
-don't	0	0
-think	0	0
-so	2	2
-,	NA	NA
-replied	2	0
-Tom	1	2
-.	NA	NA

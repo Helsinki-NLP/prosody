@@ -1,8 +1,0 @@
-I	2	0
-should	0	0
-have	0	2
-said	1	1
-my	1	0
-late	0	1
-husband	2	2
-.	NA	NA

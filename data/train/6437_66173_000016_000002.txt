@@ -1,5 +1,0 @@
-Bailey	2	1
-,	NA	NA
-come	0	0
-here	0	2
-.	NA	NA

@@ -1,5 +1,0 @@
-The	0	1
-gentleman	2	1
-is	0	0
-waiting	2	2
-.	NA	NA

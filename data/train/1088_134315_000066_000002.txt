@@ -1,5 +1,0 @@
-Give	2	0
-me	0	0
-those	0	1
-books	1	2
-.	NA	NA

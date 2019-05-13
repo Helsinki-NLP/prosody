@@ -1,5 +1,0 @@
-Lukashka	2	0
-raised	1	1
-his	0	0
-head	1	2
-.	NA	NA

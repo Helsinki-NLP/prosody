@@ -1,2 +1,0 @@
-Neighboring	1	0
-Fields	1	2

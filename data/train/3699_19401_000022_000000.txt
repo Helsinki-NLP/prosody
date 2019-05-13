@@ -1,9 +1,0 @@
-'twas	1	2
-a	1	0
-Beguine	2	0
-,	NA	NA
-said	0	0
-my	0	0
-uncle	0	0
-Toby	1	2
-.	NA	NA

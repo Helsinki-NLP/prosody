@@ -1,8 +1,0 @@
-But	0	1
-he	0	0
-have	2	0
-,	NA	NA
-I	0	1
-tell	0	0
-you	1	2
-.	NA	NA

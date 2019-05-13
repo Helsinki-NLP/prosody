@@ -1,7 +1,0 @@
-Oh	2	0
-,	NA	NA
-I	0	0
-don't	0	1
-deny	0	0
-that	2	2
-.	NA	NA

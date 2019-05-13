@@ -1,4 +1,0 @@
-what	2	0
-an	0	1
-honor	2	2
-!	NA	NA

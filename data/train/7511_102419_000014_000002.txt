@@ -1,8 +1,0 @@
-I	0	0
-am	1	1
-so	2	1
-glad	1	0
-we	0	1
-met	2	0
-them	0	2
-.	NA	NA

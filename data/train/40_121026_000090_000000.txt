@@ -1,6 +1,0 @@
-Do	1	0
-you	0	1
-really	2	1
-think	0	0
-so	2	2
-?	NA	NA

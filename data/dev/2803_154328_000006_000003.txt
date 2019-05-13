@@ -1,9 +1,0 @@
-This	1	0
-done	2	2
-,	NA	NA
-the	0	0
-prisoners	2	1
-embraced	2	1
-each	0	0
-other	1	2
-.	NA	NA

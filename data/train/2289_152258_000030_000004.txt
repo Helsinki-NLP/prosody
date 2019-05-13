@@ -1,9 +1,0 @@
-It	0	0
-means	0	0
-a	0	1
-place	2	0
-for	0	1
-prostration	2	1
-or	0	0
-prayer	1	2
-.	NA	NA

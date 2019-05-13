@@ -1,5 +1,0 @@
-Party	2	1
-strife	1	1
-ran	0	0
-high	2	2
-.	NA	NA

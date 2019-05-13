@@ -1,5 +1,0 @@
-How	1	1
-?	NA	NA
-asked	1	0
-Tad	2	2
-.	NA	NA

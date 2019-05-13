@@ -1,7 +1,0 @@
-No	0	0
-smoke	1	0
-arose	2	0
-from	0	1
-them	0	0
-now	2	2
-.	NA	NA

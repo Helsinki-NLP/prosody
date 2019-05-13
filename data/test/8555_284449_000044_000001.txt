@@ -1,4 +1,0 @@
-I'm	2	0
-the	0	1
-Boolooroo	1	2
-!	NA	NA

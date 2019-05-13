@@ -1,7 +1,0 @@
-The	0	0
-face	2	0
-was	0	1
-a	0	0
-lifelike	1	1
-portrait	1	2
-.	NA	NA

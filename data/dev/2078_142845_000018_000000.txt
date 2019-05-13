@@ -1,4 +1,0 @@
-Illustration	1	1
-TIN	2	0
-BREAD	0	2
-.	NA	NA

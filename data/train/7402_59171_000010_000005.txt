@@ -1,8 +1,0 @@
-Not	2	0
-that	0	0
-his	0	1
-portraiture	2	0
-is	0	0
-always	1	1
-faithful	2	2
-.	NA	NA

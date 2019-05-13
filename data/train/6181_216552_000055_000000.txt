@@ -1,9 +1,0 @@
-Because	2	0
-justice	2	1
-was	0	0
-supposed	1	0
-to	0	1
-be	0	0
-its	0	0
-principle	1	2
-.	NA	NA

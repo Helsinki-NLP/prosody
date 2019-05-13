@@ -1,9 +1,0 @@
-What	2	0
-a	0	1
-Neapolitan	2	0
-ball	2	0
-was	0	2
-his	0	0
-career	0	0
-then	1	2
-!	NA	NA

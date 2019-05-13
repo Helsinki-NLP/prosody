@@ -1,6 +1,0 @@
-And	2	0
-as	0	1
-a	0	0
-matter	2	0
-of	0	1
-fact	2	2

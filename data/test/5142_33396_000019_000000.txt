@@ -1,7 +1,0 @@
-'Not	2	0
-yet	1	0
-,	NA	NA
-'	NA	NA
-I	0	1
-answered	1	2
-.	NA	NA

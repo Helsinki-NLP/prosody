@@ -1,9 +1,0 @@
-Yes	2	0
-,	NA	NA
-I'd	0	1
-never	2	0
-have	0	1
-gone	1	0
-away	0	0
-anywhere	1	2
-.	NA	NA

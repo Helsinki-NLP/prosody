@@ -1,5 +1,0 @@
-Shall	0	0
-I	0	1
-do	0	0
-so	2	2
-?	NA	NA

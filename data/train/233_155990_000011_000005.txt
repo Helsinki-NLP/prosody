@@ -1,6 +1,0 @@
-But	0	0
-I	1	0
-know	2	0
-my	0	1
-countrymen	0	2
-.	NA	NA

@@ -1,7 +1,0 @@
-In	1	0
-mercy	2	1
-kill	2	0
-me	0	1
-this	0	0
-moment	1	2
-!	NA	NA

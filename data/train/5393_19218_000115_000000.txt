@@ -1,6 +1,0 @@
-Where	1	0
-is	0	0
-it	0	1
-going	2	1
-then	0	2
-?	NA	NA

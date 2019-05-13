@@ -1,7 +1,0 @@
-I	2	0
-looked	0	1
-down	2	0
-into	0	0
-the	0	1
-pool	2	2
-.	NA	NA

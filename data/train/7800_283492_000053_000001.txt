@@ -1,6 +1,0 @@
-He	1	0
-looks	0	1
-excited	1	1
-,	NA	NA
-fellows	2	2
-.	NA	NA

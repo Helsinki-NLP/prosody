@@ -1,9 +1,0 @@
-Not	1	0
-even	0	1
-my	0	0
-masters	2	1
-can	0	0
-alter	1	1
-the	0	0
-stars	2	2
-.	NA	NA

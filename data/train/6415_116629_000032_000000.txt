@@ -1,8 +1,0 @@
-Gertrude	2	1
-knew	1	0
-where	0	1
-Dietrich	0	0
-spent	1	0
-his	0	1
-evenings	2	2
-.	NA	NA

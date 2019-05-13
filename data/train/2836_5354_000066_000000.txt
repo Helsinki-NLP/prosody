@@ -1,5 +1,0 @@
-No	1	1
-,	NA	NA
-not	0	0
-yet	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-And	1	0
-you	0	1
-don't	2	0
-look	0	2
-very	1	0
-well	0	0
-now	1	2
-.	NA	NA

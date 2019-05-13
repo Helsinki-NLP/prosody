@@ -1,8 +1,0 @@
-Hold	1	0
-your	0	0
-tongue	2	2
-,	NA	NA
-answered	2	1
-the	0	0
-Dervish	1	2
-.	NA	NA

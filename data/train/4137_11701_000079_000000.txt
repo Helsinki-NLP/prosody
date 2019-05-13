@@ -1,9 +1,0 @@
-She	0	0
-seems	1	0
-fond	2	0
-of	0	1
-flowers	2	2
-,	NA	NA
-said	1	0
-Coronel	1	2
-.	NA	NA

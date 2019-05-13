@@ -1,7 +1,0 @@
-Perhaps	2	1
-you	0	0
-had	1	1
-better	1	0
-come	0	1
-inside	2	2
-.	NA	NA

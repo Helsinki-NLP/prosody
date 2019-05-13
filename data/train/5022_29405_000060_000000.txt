@@ -1,8 +1,0 @@
-Did	0	0
-he	1	0
-want	1	0
-you	0	1
-to	0	0
-read	1	1
-it	2	2
-?	NA	NA

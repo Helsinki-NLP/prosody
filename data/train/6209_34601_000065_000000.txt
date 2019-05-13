@@ -1,8 +1,0 @@
-Not	1	0
-so	1	1
-quick	1	1
-,	NA	NA
-you	0	0
-horrid	1	1
-glutton	2	2
-!	NA	NA

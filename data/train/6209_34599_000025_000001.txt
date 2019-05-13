@@ -1,6 +1,0 @@
-He	1	0
-approached	2	1
-the	0	0
-great	1	0
-mansion	1	2
-.	NA	NA

@@ -1,9 +1,0 @@
-And	0	0
-let	2	0
-it	0	1
-never	1	0
-rain	0	1
-in	0	0
-your	0	1
-household	2	2
-.	NA	NA

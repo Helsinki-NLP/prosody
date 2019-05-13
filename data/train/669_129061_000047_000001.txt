@@ -1,9 +1,0 @@
-How	2	0
-he	0	1
-sat	2	1
-the	0	0
-kicker	2	1
-to	0	0
-be	0	0
-sure	2	2
-!	NA	NA

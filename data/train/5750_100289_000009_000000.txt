@@ -1,3 +1,0 @@
-NO	2	1
-INFERIOR	1	0
-RACE	1	2

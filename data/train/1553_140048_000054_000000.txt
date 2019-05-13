@@ -1,6 +1,0 @@
-Good	0	1
-by	2	0
-,	0	1
-mr	NA	NA
-Aladdin	1	2
-!	NA	NA

@@ -1,4 +1,0 @@
-All	2	1
-went	0	0
-happily	1	2
-.	NA	NA

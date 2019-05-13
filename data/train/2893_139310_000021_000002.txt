@@ -1,3 +1,0 @@
-At	0	0
-last	1	1
-even	1	2

@@ -1,6 +1,0 @@
-There's	0	0
-something	1	1
-perverse	2	0
-about	1	0
-me	1	2
-.	NA	NA

@@ -1,6 +1,0 @@
-A	0	0
-cave	0	1
-?	NA	NA
-interrupted	1	1
-Tad	2	2
-.	NA	NA

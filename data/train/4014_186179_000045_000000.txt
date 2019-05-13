@@ -1,8 +1,0 @@
-It's	1	0
-nothing	2	0
-,	NA	NA
-the	0	1
-youthful	0	0
-chauffeur	1	1
-replied	2	2
-.	NA	NA

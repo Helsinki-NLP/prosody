@@ -1,6 +1,0 @@
-Hush	2	0
-!	NA	NA
-what	0	1
-was	0	1
-that	2	2
-?	NA	NA

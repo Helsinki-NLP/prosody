@@ -1,5 +1,0 @@
-Something	2	0
-simpler	0	1
-than	0	0
-that	1	2
-.	NA	NA

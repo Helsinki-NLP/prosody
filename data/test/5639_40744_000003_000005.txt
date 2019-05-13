@@ -1,5 +1,0 @@
-Am	0	0
-I	0	0
-in	1	1
-bed	2	2
-?	NA	NA

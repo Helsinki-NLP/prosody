@@ -1,4 +1,0 @@
-peter	1	1
-turned	2	0
-quickly	1	2
-.	NA	NA

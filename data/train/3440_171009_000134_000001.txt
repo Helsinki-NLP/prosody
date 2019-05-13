@@ -1,9 +1,0 @@
-Elsie	2	0
-looked	0	0
-up	0	1
-in	0	0
-her	0	0
-father's	2	0
-face	2	1
-inquiringly	2	2
-.	NA	NA

@@ -1,7 +1,0 @@
-mr	1	0
-Kara	0	1
-expects	2	0
-you	0	1
-,	NA	NA
-sir	2	2
-.	NA	NA

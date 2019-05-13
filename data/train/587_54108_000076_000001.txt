@@ -1,9 +1,0 @@
-mrs	2	0
-Levice	0	1
-was	1	1
-,	NA	NA
-without	1	0
-doubt	1	1
-,	NA	NA
-awake	2	2
-.	NA	NA

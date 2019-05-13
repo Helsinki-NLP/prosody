@@ -1,6 +1,0 @@
-Ah	2	1
-!	NA	NA
-who	0	0
-could	0	1
-say	2	2
-?	NA	NA

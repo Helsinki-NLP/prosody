@@ -1,7 +1,0 @@
-She	0	1
-did	2	1
-,	NA	NA
-said	1	0
-Ruggles	0	0
-gloomily	1	2
-.	NA	NA

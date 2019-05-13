@@ -1,8 +1,0 @@
-Pretty	0	0
-cold	2	0
-,	NA	NA
-hain't	0	1
-it	0	0
-,	NA	NA
-Professor	2	2
-?	NA	NA

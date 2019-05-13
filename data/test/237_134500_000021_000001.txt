@@ -1,5 +1,0 @@
-They	1	0
-were	0	0
-old	0	1
-friends	2	2
-.	NA	NA

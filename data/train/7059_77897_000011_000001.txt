@@ -1,6 +1,0 @@
-Social	2	1
-perdition	1	0
-at	0	1
-the	0	0
-least	2	2
-.	NA	NA

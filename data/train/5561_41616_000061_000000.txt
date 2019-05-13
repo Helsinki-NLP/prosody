@@ -1,8 +1,0 @@
-We	2	0
-ought	0	0
-to	0	1
-celebrate	2	1
-,	NA	NA
-said	0	0
-Miriam	1	2
-.	NA	NA

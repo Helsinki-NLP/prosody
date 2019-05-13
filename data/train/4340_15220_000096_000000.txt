@@ -1,6 +1,0 @@
-I'll	2	0
-take	0	1
-care	1	0
-of	0	1
-her	1	2
-.	NA	NA

@@ -1,7 +1,0 @@
-Finally	2	0
-he	0	1
-broke	1	0
-into	0	0
-a	0	1
-wail	1	2
-.	NA	NA

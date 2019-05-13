@@ -1,7 +1,0 @@
-You	0	0
-must	0	0
-go	2	0
-now	0	1
-,	NA	NA
-Bartley	2	2
-.	NA	NA

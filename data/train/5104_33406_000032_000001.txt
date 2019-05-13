@@ -1,9 +1,0 @@
-Then	2	0
-the	0	0
-men	0	0
-sat	1	0
-and	0	2
-talked	2	0
-over	1	1
-plans	2	2
-.	NA	NA

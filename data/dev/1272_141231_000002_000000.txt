@@ -1,5 +1,0 @@
-For	0	0
-my	0	0
-Mother	2	2
-and	0	0
-Father	2	2

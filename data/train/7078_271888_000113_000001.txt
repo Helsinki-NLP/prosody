@@ -1,5 +1,0 @@
-I	2	2
-I	0	0
-cannot	2	1
-forget	1	2
-.	NA	NA

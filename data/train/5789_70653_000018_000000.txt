@@ -1,6 +1,0 @@
-Because	2	2
-the	0	0
-coroner	1	0
-insisted	0	0
-gently	0	2
-.	NA	NA

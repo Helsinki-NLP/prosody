@@ -1,8 +1,0 @@
-Just	1	0
-then	1	2
-the	0	0
-Mother	2	1
-Turtle	0	0
-came	0	0
-up	1	2
-.	NA	NA

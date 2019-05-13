@@ -1,9 +1,0 @@
-Then	1	0
-Bozzle	2	1
-came	0	0
-forward	1	0
-and	0	1
-introduced	0	0
-his	0	1
-wife	2	2
-.	NA	NA

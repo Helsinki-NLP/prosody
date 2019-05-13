@@ -1,6 +1,0 @@
-The	0	1
-Administration	1	0
-had	0	1
-little	0	0
-choice	2	2
-.	NA	NA

@@ -1,6 +1,0 @@
-He	0	0
-continued	2	1
-to	0	0
-fix	1	0
-me	2	2
-.	NA	NA

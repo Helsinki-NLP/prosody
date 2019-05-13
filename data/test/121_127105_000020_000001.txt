@@ -1,3 +1,0 @@
-A	1	0
-woman's	1	2
-.	NA	NA

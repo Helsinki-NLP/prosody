@@ -1,6 +1,0 @@
-I	1	0
-named	0	1
-nine	1	0
-others	0	2
-and	0	0
-said	2	2

@@ -1,7 +1,0 @@
-It	1	0
-warps	2	0
-and	0	1
-depletes	1	0
-public	1	0
-information	1	2
-.	NA	NA

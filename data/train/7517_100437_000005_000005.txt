@@ -1,8 +1,0 @@
-Let	2	0
-us	0	1
-pass	1	0
-on	1	2
-to	2	0
-another	0	0
-book	0	2
-.	NA	NA

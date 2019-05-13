@@ -1,5 +1,0 @@
-A	2	0
-league	0	1
-from	0	1
-here	2	2
-.	NA	NA

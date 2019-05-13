@@ -1,9 +1,0 @@
-A	0	0
-visitor	2	2
-?	NA	NA
-Tom	2	0
-looked	0	0
-at	0	1
-his	0	0
-father	1	2
-.	NA	NA

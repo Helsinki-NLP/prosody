@@ -1,8 +1,0 @@
-The	0	0
-girls	2	1
-accepted	2	0
-the	0	0
-challenge	0	0
-at	0	0
-once	1	2
-.	NA	NA

@@ -1,3 +1,0 @@
-How	2	0
-far	1	2
-?	NA	NA

@@ -1,7 +1,0 @@
-Then	2	0
-she	0	1
-rose	1	0
-to	0	2
-the	0	0
-occasion	1	2
-.	NA	NA

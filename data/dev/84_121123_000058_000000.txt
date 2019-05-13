@@ -1,8 +1,0 @@
-no	2	1
-said	0	0
-Villefort	1	2
-;	NA	NA
-fetch	2	0
-the	0	0
-nearest	0	2
-.	NA	NA

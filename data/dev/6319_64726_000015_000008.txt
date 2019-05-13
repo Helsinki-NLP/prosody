@@ -1,7 +1,0 @@
-The	0	0
-men	1	0
-had	1	2
-plainly	1	0
-fallen	0	1
-asleep	2	2
-.	NA	NA

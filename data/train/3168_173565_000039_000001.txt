@@ -1,6 +1,0 @@
-Please	1	1
-go	0	0
-away	2	0
-,	NA	NA
-madam	1	2
-!	NA	NA

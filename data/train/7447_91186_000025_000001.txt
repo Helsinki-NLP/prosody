@@ -1,8 +1,0 @@
-To	0	0
-her	2	2
-he	0	0
-dedicated	2	1
-his	0	0
-creative	0	0
-power	1	2
-.	NA	NA

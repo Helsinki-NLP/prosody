@@ -1,6 +1,0 @@
-I	1	1
-struck	2	0
-now	0	1
-from	0	0
-hate	2	2
-.	NA	NA

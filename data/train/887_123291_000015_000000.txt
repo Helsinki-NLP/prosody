@@ -1,8 +1,0 @@
-It	1	0
-was	0	0
-a	0	1
-perfectly	2	0
-recognisable	0	1
-human	0	0
-body	2	2
-.	NA	NA

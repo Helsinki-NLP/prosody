@@ -1,8 +1,0 @@
-This	2	0
-would	0	1
-settle	1	0
-the	0	1
-question	2	1
-of	0	0
-lodging	2	2
-.	NA	NA

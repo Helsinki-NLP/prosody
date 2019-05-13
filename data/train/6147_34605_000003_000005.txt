@@ -1,7 +1,0 @@
-They	1	0
-grew	0	1
-gray	2	0
-as	0	1
-young	0	0
-fops	2	2
-.	NA	NA

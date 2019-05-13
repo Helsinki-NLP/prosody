@@ -1,9 +1,0 @@
-Eudoxia	2	0
-was	0	1
-the	0	0
-widow	1	0
-of	0	1
-Valentinian	1	1
-the	0	0
-third	2	2
-.	NA	NA

@@ -1,9 +1,0 @@
-There	2	0
-have	0	0
-been	0	1
-strange	1	1
-moccasins	2	1
-about	0	0
-my	0	0
-camp	2	2
-.	NA	NA

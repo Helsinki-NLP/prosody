@@ -1,9 +1,0 @@
-Well	2	0
-,	NA	NA
-neighbour	0	1
-,	NA	NA
-how	1	0
-unreasonable	1	1
-people	0	0
-are	2	2
-!	NA	NA

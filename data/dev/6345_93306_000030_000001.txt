@@ -1,5 +1,0 @@
-Why	0	0
-,	NA	NA
-that's	2	1
-nothing	1	2
-.	NA	NA

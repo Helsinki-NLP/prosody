@@ -1,9 +1,0 @@
-The	0	1
-eldest	2	1
-daughter	1	1
-blushed	1	1
-and	0	0
-hung	0	0
-her	0	0
-head	2	2
-.	NA	NA

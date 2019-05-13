@@ -1,7 +1,0 @@
-We	0	0
-can't	2	0
-do	0	0
-anything	0	1
-without	1	0
-evidence	1	2
-.	NA	NA

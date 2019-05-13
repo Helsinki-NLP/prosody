@@ -1,7 +1,0 @@
-That	2	0
-gave	0	1
-the	0	0
-fugitives	1	1
-five	2	0
-minutes	1	2
-.	NA	NA

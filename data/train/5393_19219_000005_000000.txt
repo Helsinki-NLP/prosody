@@ -1,5 +1,0 @@
-To	0	0
-realize	2	1
-one's	0	0
-dream	0	2
-.	NA	NA

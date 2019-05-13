@@ -1,5 +1,0 @@
-Lumpiness	2	1
-isn't	0	0
-always	1	1
-strength	1	2
-.	NA	NA

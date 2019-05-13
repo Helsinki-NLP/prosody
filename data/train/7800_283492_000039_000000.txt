@@ -1,9 +1,0 @@
-A	0	0
-new	2	0
-life	0	2
-was	0	0
-opening	0	0
-up	0	1
-to	0	0
-Teddy	2	2
-.	NA	NA

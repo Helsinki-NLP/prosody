@@ -1,6 +1,0 @@
-Brave	2	1
-lad	1	0
-!	NA	NA
-repeated	0	1
-Glenarvan	1	2
-.	NA	NA

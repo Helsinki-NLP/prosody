@@ -1,6 +1,0 @@
-Anthony	1	2
-,	NA	NA
-was	2	0
-it	0	0
-you	0	2
-?	NA	NA

@@ -1,8 +1,0 @@
-Yet	0	0
-why	2	0
-were	0	0
-these	0	0
-gentle	0	1
-beings	0	1
-unhappy	2	2
-?	NA	NA

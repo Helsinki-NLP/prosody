@@ -1,7 +1,0 @@
-I	2	0
-believe	0	0
-it	1	2
-,	NA	NA
-said	1	0
-Nicholl	2	2
-.	NA	NA

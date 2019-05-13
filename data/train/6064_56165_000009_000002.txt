@@ -1,6 +1,0 @@
-If	1	0
-she'd	0	1
-been	1	0
-born	0	0
-in	0	2
-Boston	2	2

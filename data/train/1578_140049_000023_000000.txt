@@ -1,8 +1,0 @@
-What's	0	1
-that	2	0
-?	NA	NA
-asked	0	1
-Miss	0	0
-Lydia	0	1
-politely	2	2
-.	NA	NA

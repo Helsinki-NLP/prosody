@@ -1,7 +1,0 @@
-Who	2	0
-are	0	0
-you	0	1
-,	NA	NA
-charming	0	0
-bird	2	2
-?	NA	NA

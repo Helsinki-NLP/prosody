@@ -1,4 +1,0 @@
-Nicholas	1	0
-said	1	0
-nothing	1	2
-.	NA	NA

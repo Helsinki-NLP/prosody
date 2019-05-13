@@ -1,8 +1,0 @@
-Don't	2	0
-I	0	1
-pay	0	0
-my	0	0
-share	1	0
-of	0	2
-them	2	2
-?	NA	NA

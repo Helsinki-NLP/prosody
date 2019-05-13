@@ -1,9 +1,0 @@
-Jost	2	1
-has	0	0
-nothing	1	0
-to	0	1
-put	0	0
-in	1	0
-but	0	1
-promises	2	2
-.	NA	NA

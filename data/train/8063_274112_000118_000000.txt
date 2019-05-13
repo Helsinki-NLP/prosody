@@ -1,3 +1,0 @@
-Quite	1	0
-so	1	2
-.	NA	NA

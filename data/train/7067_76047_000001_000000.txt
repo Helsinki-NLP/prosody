@@ -1,2 +1,0 @@
-Section	2	0
-six	0	2

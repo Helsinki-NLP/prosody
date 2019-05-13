@@ -1,8 +1,0 @@
-I'm	1	0
-going	2	1
-to	0	0
-tell	2	0
-on	0	0
-you	0	2
-fellows	1	2
-!	NA	NA

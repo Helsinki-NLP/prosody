@@ -1,6 +1,0 @@
-Most	2	0
-economical	1	0
-and	0	1
-effective	1	0
-remedy	1	2
-.	NA	NA

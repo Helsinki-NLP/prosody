@@ -1,7 +1,0 @@
-How	1	0
-have	0	1
-you	0	0
-learnt	2	1
-all	1	1
-this	1	2
-?	NA	NA

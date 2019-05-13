@@ -1,8 +1,0 @@
-They	2	0
-are	0	0
-not	1	1
-behaving	2	1
-well	0	1
-in	0	0
-school	2	2
-.	NA	NA

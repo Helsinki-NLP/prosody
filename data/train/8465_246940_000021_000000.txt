@@ -1,7 +1,0 @@
-I	2	0
-can	0	0
-do	0	0
-nothing	1	0
-with	0	1
-that	2	2
-.	NA	NA

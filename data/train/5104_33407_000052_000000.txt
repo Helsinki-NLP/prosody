@@ -1,7 +1,0 @@
-It	1	0
-is	0	0
-wonderful	1	2
-,	NA	NA
-Leif	1	0
-said	1	2
-.	NA	NA

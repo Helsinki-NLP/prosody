@@ -1,6 +1,0 @@
-The	0	1
-prisoners	1	0
-redoubled	1	0
-their	1	0
-efforts	1	2
-.	NA	NA

@@ -1,7 +1,0 @@
-But	1	0
-Marshall	0	0
-never	0	0
-even	0	1
-thanked	2	0
-me	0	2
-.	NA	NA

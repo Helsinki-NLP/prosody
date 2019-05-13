@@ -1,3 +1,0 @@
-They	0	1
-fight	2	2
-.	NA	NA

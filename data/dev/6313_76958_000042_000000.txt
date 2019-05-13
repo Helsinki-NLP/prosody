@@ -1,7 +1,0 @@
-Lumpy	1	0
-watched	2	0
-him	0	1
-with	0	0
-disapproving	1	1
-eyes	2	2
-.	NA	NA

@@ -1,4 +1,0 @@
-esther	2	0
-felt	0	0
-relieved	1	2
-.	NA	NA

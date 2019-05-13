@@ -1,7 +1,0 @@
-Oh	0	2
-,	NA	NA
-tell	2	0
-us	0	1
-,	NA	NA
-please	1	2
-.	NA	NA

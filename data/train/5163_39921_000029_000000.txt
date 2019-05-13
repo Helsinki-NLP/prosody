@@ -1,8 +1,0 @@
-Indeed	2	2
-!	0	0
-mr	NA	NA
-Cropper's	1	0
-expressed	1	1
-bland	1	0
-surprise	1	2
-.	NA	NA

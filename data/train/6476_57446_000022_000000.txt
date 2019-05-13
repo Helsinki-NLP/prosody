@@ -1,8 +1,0 @@
-Thank	1	0
-you	2	2
-,	NA	NA
-I	0	0
-have	1	0
-no	1	0
-appetite	1	2
-.	NA	NA

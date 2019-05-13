@@ -1,5 +1,0 @@
-That's	1	1
-the	0	0
-puzzling	2	0
-part	1	2
-.	NA	NA

@@ -1,5 +1,0 @@
-The	0	0
-second	1	1
-daughter	1	1
-added	1	2
-.	NA	NA

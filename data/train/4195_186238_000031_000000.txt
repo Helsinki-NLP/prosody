@@ -1,8 +1,0 @@
-But	0	0
-Uncle	2	0
-john	1	0
-waived	1	1
-it	0	0
-aside	2	1
-disdainfully	2	2
-.	NA	NA

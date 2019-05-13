@@ -1,7 +1,0 @@
-The	0	1
-temple	2	0
-shrivels	1	0
-into	0	1
-the	0	0
-boudoir	2	2
-.	NA	NA

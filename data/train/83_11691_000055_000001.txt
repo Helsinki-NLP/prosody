@@ -1,6 +1,0 @@
-Perhaps	2	1
-because	0	0
-I'm	1	0
-too	0	1
-unimportant	2	2
-.	NA	NA

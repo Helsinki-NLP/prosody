@@ -1,7 +1,0 @@
-No	2	1
-!	NA	NA
-that's	1	0
-not	1	0
-quite	1	0
-true	0	2
-.	NA	NA

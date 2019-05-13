@@ -1,7 +1,0 @@
-How	2	0
-do	0	0
-you	0	1
-do	1	1
-,	NA	NA
-john	1	2
-?	NA	NA

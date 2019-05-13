@@ -1,7 +1,0 @@
-Such	2	0
-was	0	1
-Catherine	0	0
-Morland	1	1
-at	1	0
-ten	1	2
-.	NA	NA

@@ -1,9 +1,0 @@
-Trout	2	1
-scurry	1	0
-up	0	1
-stream	2	1
-whenever	1	0
-we	0	0
-go	0	0
-near	2	2
-.	NA	NA

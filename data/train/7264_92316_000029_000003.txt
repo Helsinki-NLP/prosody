@@ -1,6 +1,0 @@
-It	1	0
-came	1	1
-quickly	1	0
-but	0	1
-thoroughly	2	2
-.	NA	NA

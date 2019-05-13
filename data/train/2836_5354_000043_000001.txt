@@ -1,7 +1,0 @@
-You	0	0
-will	0	1
-not	2	0
-leave	0	1
-me	0	0
-yet	2	2
-?	NA	NA

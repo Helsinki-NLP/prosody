@@ -1,5 +1,0 @@
-How	2	0
-happy	0	1
-they	0	0
-were	0	2
-!	NA	NA

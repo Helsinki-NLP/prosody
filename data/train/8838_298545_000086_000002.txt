@@ -1,9 +1,0 @@
-You	0	0
-know	2	0
-the	0	0
-out	0	1
-house	1	0
-in	0	1
-my	1	0
-garden	0	2
-?	NA	NA

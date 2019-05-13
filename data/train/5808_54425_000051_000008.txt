@@ -1,9 +1,0 @@
-Then	2	0
-he	0	1
-turned	1	0
-abruptly	1	2
-and	0	0
-left	2	1
-the	0	0
-club	2	2
-.	NA	NA

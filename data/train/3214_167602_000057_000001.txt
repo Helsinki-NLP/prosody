@@ -1,5 +1,0 @@
-And	1	0
-his	0	1
-plighted	2	1
-word	2	2
-?	NA	NA

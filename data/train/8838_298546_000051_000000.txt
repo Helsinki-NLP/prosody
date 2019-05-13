@@ -1,7 +1,0 @@
-I	1	0
-am	0	0
-going	2	0
-over	0	1
-Croxley	0	1
-way	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-Why	2	0
-did	0	0
-you	0	1
-pass	2	1
-these	0	0
-other	1	0
-chairs	1	2
-?	NA	NA

@@ -1,5 +1,0 @@
-It	0	0
-must	2	0
-be	0	1
-suppressed	1	2
-.	NA	NA

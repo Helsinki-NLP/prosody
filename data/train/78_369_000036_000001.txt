@@ -1,8 +1,0 @@
-Heaven	1	1
-bless	2	1
-you	1	2
-and	0	0
-make	1	1
-you	0	0
-so	2	2
-!	NA	NA

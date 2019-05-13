@@ -1,8 +1,0 @@
-No	2	0
-,	NA	NA
-she	0	1
-replied	0	0
-,	NA	NA
-almost	0	1
-timidly	1	2
-.	NA	NA

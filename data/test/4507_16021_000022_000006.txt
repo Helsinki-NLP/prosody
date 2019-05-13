@@ -1,7 +1,0 @@
-It	1	0
-is	2	2
-the	0	0
-language	0	0
-of	2	1
-wretchedness	1	2
-.	NA	NA

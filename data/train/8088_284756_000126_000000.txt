@@ -1,6 +1,0 @@
-I	1	0
-glanced	2	1
-down	1	0
-at	0	1
-her	1	2
-.	NA	NA

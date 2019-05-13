@@ -1,6 +1,0 @@
-'My	0	0
-child	1	1
-,	NA	NA
-my	0	0
-child	2	2
-!	NA	NA

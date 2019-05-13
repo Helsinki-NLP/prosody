@@ -1,9 +1,0 @@
-A	0	1
-transferable	1	0
-ticket	0	1
-to	0	0
-the	0	0
-Haul	2	0
-of	0	1
-Fame	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-This	2	0
-blind	1	1
-confidence	1	2
-set	0	0
-him	0	0
-onwards	1	0
-again	1	2
-.	NA	NA

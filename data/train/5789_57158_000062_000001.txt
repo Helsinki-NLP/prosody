@@ -1,5 +1,0 @@
-Good	1	0
-morning	2	1
-to	0	0
-you	1	2
-.	NA	NA

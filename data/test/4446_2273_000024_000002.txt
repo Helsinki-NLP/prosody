@@ -1,7 +1,0 @@
-How	2	0
-did	0	1
-her	0	0
-son	2	1
-turn	0	0
-out	1	2
-?	NA	NA

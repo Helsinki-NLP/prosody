@@ -1,9 +1,0 @@
-Rebecca	2	1
-,	NA	NA
-cried	1	0
-out	0	1
-Amelia	1	1
-,	NA	NA
-starting	0	0
-up	1	2
-.	NA	NA

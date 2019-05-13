@@ -1,3 +1,0 @@
-Both	2	1
-refused	1	2
-.	NA	NA

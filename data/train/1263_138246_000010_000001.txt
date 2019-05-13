@@ -1,4 +1,0 @@
-Barbicane	2	1
-consulted	2	0
-it	0	2
-.	NA	NA

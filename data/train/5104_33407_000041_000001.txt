@@ -1,7 +1,0 @@
-Why	2	0
-did	0	1
-you	0	0
-not	1	0
-keep	0	1
-together	2	2
-?	NA	NA

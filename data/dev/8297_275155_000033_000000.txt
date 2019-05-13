@@ -1,7 +1,0 @@
-Wait	1	0
-a	0	0
-minute	1	2
-,	NA	NA
-she	2	0
-answered	1	2
-.	NA	NA

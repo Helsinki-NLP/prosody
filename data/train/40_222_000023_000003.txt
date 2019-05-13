@@ -1,9 +1,0 @@
-I	2	0
-think	1	0
-you	0	0
-must	0	1
-be	0	0
-deceived	2	1
-so	1	1
-far	1	2
-.	NA	NA

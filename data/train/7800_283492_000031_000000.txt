@@ -1,7 +1,0 @@
-This	2	0
-way	0	1
-,	NA	NA
-explained	1	1
-the	0	0
-other	2	2
-.	NA	NA

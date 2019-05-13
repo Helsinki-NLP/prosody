@@ -1,8 +1,0 @@
-Innocence	2	1
-is	0	0
-holy	2	0
-ignorance	0	1
-.	NA	NA
-They	0	0
-slept	2	2
-.	NA	NA

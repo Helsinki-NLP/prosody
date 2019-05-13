@@ -1,4 +1,0 @@
-It	1	0
-is	0	1
-magnificent	1	2
-!	NA	NA

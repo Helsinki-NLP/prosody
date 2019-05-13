@@ -1,5 +1,0 @@
-Fifty	0	0
-lashes	1	1
-,	2	2
-Troke	NA	NA
-.	NA	NA

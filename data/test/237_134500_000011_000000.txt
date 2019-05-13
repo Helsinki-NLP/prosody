@@ -1,7 +1,0 @@
-Emil	1	1
-paused	2	1
-and	0	0
-straightened	0	0
-his	0	0
-back	2	2
-.	NA	NA

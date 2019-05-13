@@ -1,7 +1,0 @@
-Twenty	0	1
-first	1	0
-row	2	2
-same	2	0
-as	0	0
-eleventh	0	2
-.	NA	NA

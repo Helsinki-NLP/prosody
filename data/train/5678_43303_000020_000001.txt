@@ -1,8 +1,0 @@
-She	0	1
-must	1	1
-be	1	0
-very	1	1
-quiet	2	0
-all	0	1
-day	1	2
-.	NA	NA

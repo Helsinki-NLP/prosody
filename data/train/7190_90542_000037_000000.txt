@@ -1,6 +1,0 @@
-Quarles	2	0
-looked	0	0
-at	0	1
-me	0	1
-inquiringly	2	2
-.	NA	NA

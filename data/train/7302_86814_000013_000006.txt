@@ -1,9 +1,0 @@
-Suddenly	2	0
-a	0	1
-voice	1	0
-was	0	1
-heard	1	0
-at	0	1
-the	0	0
-wicket	1	2
-.	NA	NA

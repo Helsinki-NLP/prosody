@@ -1,5 +1,0 @@
-Yes	1	1
-,	NA	NA
-there	0	0
-are	2	2
-.	NA	NA

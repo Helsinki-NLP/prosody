@@ -1,9 +1,0 @@
-He	0	0
-had	2	1
-stored	1	0
-away	1	0
-a	0	1
-stock	1	0
-of	0	1
-food	2	2
-.	NA	NA

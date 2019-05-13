@@ -1,5 +1,0 @@
-Yes	2	1
-,	NA	NA
-the	0	0
-idea	2	2
-.	NA	NA

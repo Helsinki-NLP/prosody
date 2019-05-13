@@ -1,7 +1,0 @@
-Is	2	1
-Paganel	1	0
-below	2	1
-?	NA	NA
-asked	0	0
-Glenarvan	1	2
-.	NA	NA

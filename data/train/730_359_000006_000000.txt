@@ -1,6 +1,0 @@
-They	2	0
-were	0	0
-not	0	1
-entirely	0	0
-happy	2	2
-.	NA	NA

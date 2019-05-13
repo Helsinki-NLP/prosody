@@ -1,6 +1,0 @@
-He	0	0
-checked	2	1
-the	0	0
-silly	1	1
-impulse	2	2
-.	NA	NA

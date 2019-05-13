@@ -1,4 +1,0 @@
-Bulger	2	0
-,	NA	NA
-sir	1	2
-.	NA	NA

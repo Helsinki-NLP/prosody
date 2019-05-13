@@ -1,8 +1,0 @@
-dr	2	0
-von	0	0
-Ohlmhorst	2	2
-!	NA	NA
-he	0	0
-was	0	0
-shouting	1	2
-.	NA	NA

@@ -1,8 +1,0 @@
-I	1	0
-see	0	1
-a	0	0
-lot	2	1
-more	1	0
-than	0	1
-that	1	2
-.	NA	NA

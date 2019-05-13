@@ -1,8 +1,0 @@
-Neither	2	0
-could	0	0
-keep	0	1
-quiet	2	2
-and	0	0
-silent	2	0
-long	0	2
-.	NA	NA

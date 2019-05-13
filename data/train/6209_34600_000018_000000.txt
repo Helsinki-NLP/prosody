@@ -1,4 +1,0 @@
-One	1	0
-voice	2	0
-answered	1	2
-.	NA	NA

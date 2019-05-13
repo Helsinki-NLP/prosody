@@ -1,6 +1,0 @@
-Very	2	0
-willingly	2	1
-,	NA	NA
-replied	0	0
-Kaliko	1	2
-.	NA	NA

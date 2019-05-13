@@ -1,7 +1,0 @@
-Stop	1	1
-for	0	0
-us	0	0
-in	0	0
-the	0	2
-fall	2	2
-!	NA	NA

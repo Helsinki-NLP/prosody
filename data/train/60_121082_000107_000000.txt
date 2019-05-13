@@ -1,7 +1,0 @@
-But	2	1
-what	1	0
-am	0	0
-I	0	0
-to	1	1
-do	2	2
-?	NA	NA

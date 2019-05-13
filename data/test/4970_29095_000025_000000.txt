@@ -1,6 +1,0 @@
-If	1	0
-I	1	0
-can	0	0
-get	0	1
-patients	2	2
-.	NA	NA

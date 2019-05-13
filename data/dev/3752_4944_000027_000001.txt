@@ -1,7 +1,0 @@
-A	0	1
-romantic	1	1
-story	1	0
-,	NA	NA
-Captain	0	1
-Burgess	2	2
-.	NA	NA

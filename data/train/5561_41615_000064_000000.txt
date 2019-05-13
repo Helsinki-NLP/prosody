@@ -1,7 +1,0 @@
-Very	2	0
-well	1	1
-,	NA	NA
-continued	0	1
-Miss	0	0
-Thompson	1	2
-.	NA	NA

@@ -1,7 +1,0 @@
-What	0	0
-could	0	0
-he	1	0
-have	0	1
-wanted	0	1
-there	2	2
-?	NA	NA

@@ -1,5 +1,0 @@
-Good	1	0
-by	2	1
-,	NA	NA
-john	0	2
-.	NA	NA

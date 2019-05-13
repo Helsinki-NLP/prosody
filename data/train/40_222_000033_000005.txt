@@ -1,9 +1,0 @@
-And	0	0
-how	2	1
-strange	1	0
-an	0	1
-infatuation	1	1
-on	0	0
-Frederick's	2	1
-side	1	2
-!	NA	NA

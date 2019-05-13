@@ -1,5 +1,0 @@
-Mabel	2	0
-sat	0	0
-up	0	1
-briskly	2	2
-.	NA	NA

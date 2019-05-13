@@ -1,4 +1,0 @@
-'He	0	0
-hesitated	1	2
-.	NA	NA
-'	NA	NA

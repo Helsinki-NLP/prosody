@@ -1,7 +1,0 @@
-The	0	0
-excitement	2	1
-spread	2	1
-through	0	0
-the	0	0
-city	2	2
-.	NA	NA

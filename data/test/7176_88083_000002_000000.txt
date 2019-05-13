@@ -1,6 +1,0 @@
-He	0	0
-was	2	1
-plainly	1	1
-a	0	0
-duck	1	2
-.	NA	NA

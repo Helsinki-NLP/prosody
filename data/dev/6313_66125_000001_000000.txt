@@ -1,3 +1,0 @@
-A	0	0
-DARING	2	1
-RESCUE	0	2

@@ -1,6 +1,0 @@
-She	0	0
-shook	2	1
-her	2	0
-head	0	0
-and	0	1
-added	1	2

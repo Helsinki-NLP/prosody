@@ -1,8 +1,0 @@
-We	0	0
-were	2	0
-at	0	1
-Lyndon	1	2
-at	0	0
-eleven	1	1
-o'clock	2	2
-.	NA	NA

@@ -1,7 +1,0 @@
-Have	1	0
-you	0	1
-seen	0	0
-Gloody	2	1
-to	0	0
-day	2	2
-?	NA	NA

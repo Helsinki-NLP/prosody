@@ -1,9 +1,0 @@
-Yes	2	0
-,	NA	NA
-john	0	0
-;	NA	NA
-but	1	2
-we	0	0
-are	1	1
-unarmed	2	2
-.	NA	NA

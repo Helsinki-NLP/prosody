@@ -1,9 +1,0 @@
-You	1	0
-know	1	0
-that	1	1
-as	1	1
-well	1	0
-as	0	1
-any	0	0
-one	1	2
-.	NA	NA

@@ -1,7 +1,0 @@
-This	1	0
-isn't	0	1
-fair	2	0
-,	NA	NA
-you	0	1
-know	1	2
-.	NA	NA

@@ -1,4 +1,0 @@
-LITER	2	1
-Roughly	1	0
-one	0	0
-quart	2	2

@@ -1,7 +1,0 @@
-I	2	0
-was	0	0
-not	1	1
-pressed	1	1
-for	0	0
-time	1	2
-.	NA	NA

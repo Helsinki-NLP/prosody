@@ -1,7 +1,0 @@
-For	2	0
-what	0	1
-you	0	0
-have	0	0
-just	0	2
-said	2	2
-.	NA	NA

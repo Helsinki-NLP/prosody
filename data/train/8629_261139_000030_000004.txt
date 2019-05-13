@@ -1,4 +1,0 @@
-It's	0	1
-all	2	1
-calumny	1	2
-!	NA	NA

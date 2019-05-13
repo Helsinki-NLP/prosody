@@ -1,7 +1,0 @@
-Nevertheless	2	0
-,	NA	NA
-I	0	1
-was	0	0
-sorely	1	1
-puzzled	2	2
-.	NA	NA

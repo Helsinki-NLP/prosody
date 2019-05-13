@@ -1,7 +1,0 @@
-He	0	0
-took	0	0
-another	1	0
-step	1	1
-towards	2	1
-her	2	2
-.	NA	NA

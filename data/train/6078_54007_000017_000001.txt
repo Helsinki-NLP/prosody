@@ -1,8 +1,0 @@
-Let	1	0
-me	0	0
-out	1	2
-!	NA	NA
-let	1	0
-me	0	1
-out	2	2
-!	NA	NA

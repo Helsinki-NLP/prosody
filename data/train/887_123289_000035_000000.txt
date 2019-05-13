@@ -1,8 +1,0 @@
-Not	2	0
-that	1	0
-we	0	0
-had	0	1
-suffered	2	1
-no	1	0
-losses	1	2
-.	NA	NA

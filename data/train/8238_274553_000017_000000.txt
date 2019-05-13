@@ -1,6 +1,0 @@
-With	1	0
-sentiments	2	1
-of	0	0
-perfect	1	0
-respect	1	2
-,	NA	NA

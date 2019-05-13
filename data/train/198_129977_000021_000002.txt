@@ -1,5 +1,0 @@
-Who	0	0
-is	1	1
-to	0	0
-dance	2	2
-?	NA	NA

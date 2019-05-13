@@ -1,6 +1,0 @@
-Field	1	0
-engineer	1	1
-,	NA	NA
-civil	0	0
-engineer	2	2
-.	NA	NA

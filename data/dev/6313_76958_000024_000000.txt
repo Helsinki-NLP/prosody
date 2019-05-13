@@ -1,6 +1,0 @@
-Beds	2	2
-?	NA	NA
-grunted	1	0
-Big	0	0
-foot	1	2
-.	NA	NA

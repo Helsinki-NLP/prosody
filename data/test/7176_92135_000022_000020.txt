@@ -1,6 +1,0 @@
-No	2	1
-,	NA	NA
-be	2	1
-b	1	0
-e	1	2
-.	NA	NA

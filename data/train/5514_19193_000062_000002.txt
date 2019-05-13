@@ -1,9 +1,0 @@
-He	0	0
-had	2	1
-the	0	0
-air	1	0
-of	0	2
-being	0	0
-greatly	1	0
-diverted	1	2
-.	NA	NA

@@ -1,7 +1,0 @@
-Philip	2	0
-was	0	1
-sullen	1	2
-,	NA	NA
-james	1	0
-jovial	2	2
-.	NA	NA

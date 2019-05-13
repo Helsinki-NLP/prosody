@@ -1,9 +1,0 @@
-Do	0	0
-not	2	0
-delay	0	0
-and	0	1
-obey	1	0
-these	0	1
-instructions	0	0
-implicitly	2	2
-.	NA	NA

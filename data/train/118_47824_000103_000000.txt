@@ -1,8 +1,0 @@
-Maria	2	0
-did	0	1
-her	0	0
-share	2	2
-,	NA	NA
-Bobby	1	0
-said	2	2
-.	NA	NA

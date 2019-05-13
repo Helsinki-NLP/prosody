@@ -1,4 +1,0 @@
-Here	1	0
-,	NA	NA
-Jack	1	2
-!	NA	NA

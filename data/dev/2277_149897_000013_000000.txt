@@ -1,8 +1,0 @@
-If	1	0
-she	1	0
-isn't	1	1
-there	2	1
-bring	0	1
-it	0	0
-back	2	2
-.	NA	NA

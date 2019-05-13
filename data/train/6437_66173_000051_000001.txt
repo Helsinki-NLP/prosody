@@ -1,4 +1,0 @@
-Bad	2	0
-for	0	1
-Conway	1	2
-.	NA	NA

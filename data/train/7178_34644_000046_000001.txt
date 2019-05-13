@@ -1,7 +1,0 @@
-An	0	0
-old	2	1
-,	NA	NA
-sad	2	0
-looking	0	1
-man	1	2
-.	NA	NA

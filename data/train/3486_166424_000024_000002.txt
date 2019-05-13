@@ -1,9 +1,0 @@
-I	0	0
-caught	2	0
-the	0	1
-glint	1	1
-of	0	0
-helmets	2	1
-and	0	0
-corselets	2	2
-.	NA	NA

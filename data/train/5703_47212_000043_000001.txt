@@ -1,6 +1,0 @@
-I	1	0
-feel	1	0
-safer	2	0
-with	0	1
-them	2	2
-.	NA	NA

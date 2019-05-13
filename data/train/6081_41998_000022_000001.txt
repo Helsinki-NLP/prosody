@@ -1,6 +1,0 @@
-I	0	1
-don't	0	0
-see	1	0
-him	0	1
-anywhere	2	2
-?	NA	NA

@@ -1,4 +1,0 @@
-A	1	0
-trifle	2	1
-heavy	1	2
-!	NA	NA

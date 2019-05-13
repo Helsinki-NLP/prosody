@@ -1,9 +1,0 @@
-Only	2	0
-that	0	0
-the	0	1
-horse	2	0
-becomes	0	1
-transfigured	2	0
-by	1	1
-degrees	2	2
-.	NA	NA

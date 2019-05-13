@@ -1,9 +1,0 @@
-There	0	0
-is	0	1
-nothing	1	0
-else	1	2
-that	0	0
-looks	0	1
-so	1	0
-jolly	2	2
-.	NA	NA

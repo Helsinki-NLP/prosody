@@ -1,5 +1,0 @@
-No	2	0
-,	NA	NA
-Toots	0	1
-dear	0	2
-.	NA	NA

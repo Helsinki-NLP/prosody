@@ -1,7 +1,0 @@
-To	0	1
-the	0	0
-Baron	2	1
-Ritzner	1	0
-von	0	0
-Jung	2	2
-,	NA	NA

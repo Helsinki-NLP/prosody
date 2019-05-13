@@ -1,5 +1,0 @@
-Gwynplaine	2	1
-was	1	0
-doing	0	1
-so	1	2
-.	NA	NA

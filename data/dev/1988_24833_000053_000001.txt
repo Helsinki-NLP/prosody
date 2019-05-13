@@ -1,6 +1,0 @@
-Come	1	0
-in	0	0
-and	0	1
-sit	0	0
-down	2	2
-.	NA	NA

@@ -1,7 +1,0 @@
-She	0	0
-saves	2	0
-her	0	1
-hand	0	1
-,	NA	NA
-too	2	2
-.	NA	NA

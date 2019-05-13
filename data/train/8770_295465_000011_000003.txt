@@ -1,5 +1,0 @@
-He	0	0
-takes	2	1
-our	0	1
-part	2	2
-.	NA	NA

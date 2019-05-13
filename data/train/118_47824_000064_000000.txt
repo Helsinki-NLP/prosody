@@ -1,4 +1,0 @@
-Bygones	2	1
-are	0	0
-bygones	1	2
-.	NA	NA

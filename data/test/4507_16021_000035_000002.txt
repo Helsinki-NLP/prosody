@@ -1,5 +1,0 @@
-Who	0	0
-are	1	0
-we	0	1
-ourselves	2	2
-?	NA	NA

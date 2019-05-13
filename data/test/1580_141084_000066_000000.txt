@@ -1,6 +1,0 @@
-Come	0	0
-,	NA	NA
-come	2	1
-,	NA	NA
-Bannister	2	2
-!	NA	NA

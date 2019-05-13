@@ -1,7 +1,0 @@
-The	0	1
-other	2	0
-arm	0	1
-chair	0	0
-remained	0	1
-empty	1	2
-.	NA	NA

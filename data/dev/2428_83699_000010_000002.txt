@@ -1,8 +1,0 @@
-I	1	0
-did	0	0
-not	2	1
-expect	0	0
-a	0	1
-princely	0	0
-entertainment	2	2
-.	NA	NA

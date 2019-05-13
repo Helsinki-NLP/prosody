@@ -1,4 +1,0 @@
-You're	2	1
-frozen	0	0
-through	2	2
-!	NA	NA

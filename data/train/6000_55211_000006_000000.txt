@@ -1,5 +1,0 @@
-Of	1	0
-course	2	1
-I	0	0
-will	1	2
-!	NA	NA

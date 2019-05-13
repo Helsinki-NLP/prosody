@@ -1,4 +1,0 @@
-ruth	2	0
-went	0	1
-indoors	1	2
-.	NA	NA

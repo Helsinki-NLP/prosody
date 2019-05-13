@@ -1,4 +1,0 @@
-The	0	1
-war	0	0
-ended	1	2
-.	NA	NA

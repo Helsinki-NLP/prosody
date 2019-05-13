@@ -1,6 +1,0 @@
-Not	1	0
-exactly	2	1
-,	NA	NA
-returned	0	0
-Kaliko	1	2
-.	NA	NA

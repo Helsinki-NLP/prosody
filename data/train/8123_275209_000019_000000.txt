@@ -1,7 +1,0 @@
-No	2	0
-such	1	1
-thing	1	0
-,	NA	NA
-old	0	1
-lady	1	2
-!	NA	NA

@@ -1,9 +1,0 @@
-But	2	2
-what	0	0
-fresh	1	0
-evidence	0	0
-could	0	0
-you	0	1
-have	0	0
-got	2	2
-?	NA	NA

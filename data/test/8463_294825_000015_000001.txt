@@ -1,8 +1,0 @@
-What	1	0
-goes	2	0
-on	1	0
-in	0	1
-those	0	0
-distant	1	1
-depths	2	2
-?	NA	NA

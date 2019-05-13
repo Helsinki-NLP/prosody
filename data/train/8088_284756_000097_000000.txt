@@ -1,8 +1,0 @@
-With	1	0
-an	0	0
-effort	0	0
-I	0	0
-glanced	1	0
-at	0	1
-Mercer	2	2
-.	NA	NA

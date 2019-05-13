@@ -1,5 +1,0 @@
-That	2	0
-is	0	1
-my	0	0
-reward	1	2
-.	NA	NA

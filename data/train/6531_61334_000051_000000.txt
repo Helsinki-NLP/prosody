@@ -1,8 +1,0 @@
-The	0	0
-time	2	0
-seemed	0	0
-ripe	2	2
-for	1	0
-Assyrian	0	0
-conquest	1	2
-.	NA	NA

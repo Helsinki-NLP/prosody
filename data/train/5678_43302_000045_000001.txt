@@ -1,4 +1,0 @@
-Oh	0	1
-,	NA	NA
-Oliver	2	2
-!	NA	NA

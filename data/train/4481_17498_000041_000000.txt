@@ -1,9 +1,0 @@
-That's	1	1
-Europe	2	1
-,	NA	NA
-right	0	0
-enough	0	1
-,	NA	NA
-he	0	0
-said	2	2
-.	NA	NA

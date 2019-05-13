@@ -1,9 +1,0 @@
-Don't	2	0
-tell	1	0
-me	0	0
-it's	0	2
-broken	2	1
-,	NA	NA
-exclaimed	0	0
-Rebecca	2	2
-.	NA	NA

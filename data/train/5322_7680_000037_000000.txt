@@ -1,7 +1,0 @@
-'Perhaps	2	1
-we	0	0
-may	0	1
-be	0	0
-going	1	1
-together	2	2
-.	NA	NA

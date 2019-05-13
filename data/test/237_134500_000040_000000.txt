@@ -1,4 +1,0 @@
-Yes	1	1
-;	NA	NA
-over	2	2
-.	NA	NA

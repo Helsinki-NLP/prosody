@@ -1,7 +1,0 @@
-A	0	0
-landslide	2	2
-!	NA	NA
-cried	1	0
-mr	0	0
-Parker	2	2
-.	NA	NA

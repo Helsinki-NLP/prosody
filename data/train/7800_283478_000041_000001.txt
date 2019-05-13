@@ -1,7 +1,0 @@
-We'll	0	0
-wait	1	0
-out	0	1
-here	1	1
-for	0	0
-you	2	2
-.	NA	NA

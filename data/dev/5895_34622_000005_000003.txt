@@ -1,5 +1,0 @@
-Sometimes	1	1
-he	0	0
-felt	0	0
-regret	2	2
-.	NA	NA

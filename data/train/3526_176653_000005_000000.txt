@@ -1,5 +1,0 @@
-Cat	1	1
-got	1	0
-your	0	1
-tongue	2	2
-?	NA	NA

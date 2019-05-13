@@ -1,6 +1,0 @@
-What's	2	1
-that	1	1
-,	NA	NA
-Bre'r	0	0
-Rabbit	1	2
-?	NA	NA

@@ -1,5 +1,0 @@
-Neither	2	0
-was	0	1
-Hardquanonne	0	1
-dead	2	2
-.	NA	NA

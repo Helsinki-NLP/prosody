@@ -1,9 +1,0 @@
-Pray	2	0
-,	NA	NA
-don't	0	1
-hurry	2	2
-,	NA	NA
-said	0	0
-Meekin	0	0
-politely	2	2
-.	NA	NA

@@ -1,9 +1,0 @@
-It	0	0
-is	0	0
-about	1	0
-eight	1	0
-miles	1	1
-beyond	1	0
-that	2	2
-.	NA	NA
-'	NA	NA

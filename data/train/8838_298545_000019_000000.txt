@@ -1,3 +1,0 @@
-Montgomery	0	1
-smiled	2	2
-.	NA	NA

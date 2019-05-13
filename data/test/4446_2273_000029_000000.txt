@@ -1,4 +1,0 @@
-Indeed	1	0
-I	0	1
-do	2	2
-.	NA	NA

@@ -1,7 +1,0 @@
-I	0	0
-locked	2	0
-up	0	1
-the	0	0
-papers	1	0
-first	1	2
-.	NA	NA

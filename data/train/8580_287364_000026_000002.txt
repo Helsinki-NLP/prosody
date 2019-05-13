@@ -1,6 +1,0 @@
-Now	2	2
-to	0	0
-capture	1	0
-the	0	0
-stowaway	0	2
-!	NA	NA

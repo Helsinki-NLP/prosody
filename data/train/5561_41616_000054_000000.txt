@@ -1,5 +1,0 @@
-They	1	0
-hissed	2	1
-Miss	0	0
-Thompson	2	2
-.	NA	NA

@@ -1,7 +1,0 @@
-It	1	0
-was	0	1
-done	2	0
-as	0	0
-he	0	1
-desired	2	2
-.	NA	NA

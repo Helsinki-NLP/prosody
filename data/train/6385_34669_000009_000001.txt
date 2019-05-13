@@ -1,7 +1,0 @@
-His	0	0
-eyes	2	1
-sparkled	2	1
-in	0	0
-the	0	0
-darkness	1	2
-.	NA	NA

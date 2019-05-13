@@ -1,8 +1,0 @@
-Perhaps	2	0
-it	0	0
-is	0	1
-Harris	2	1
-instead	0	0
-of	0	1
-Ferris	2	2
-.	NA	NA

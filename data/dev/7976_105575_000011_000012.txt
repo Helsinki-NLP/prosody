@@ -1,8 +1,0 @@
-Yet	2	0
-it	0	0
-looked	1	2
-very	1	0
-bad	1	1
-for	0	0
-us	1	2
-.	NA	NA

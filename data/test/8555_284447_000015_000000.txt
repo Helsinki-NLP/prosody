@@ -1,8 +1,0 @@
-What's	1	0
-become	1	0
-of	0	1
-Tiggle	2	2
-?	NA	NA
-he	0	0
-shouted	1	2
-.	NA	NA

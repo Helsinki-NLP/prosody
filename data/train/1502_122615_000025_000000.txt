@@ -1,8 +1,0 @@
-Did	0	1
-my	1	0
-young	0	0
-men	0	0
-take	0	0
-his	0	2
-scalp	2	2
-?	NA	NA

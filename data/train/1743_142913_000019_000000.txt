@@ -1,9 +1,0 @@
-peter	0	0
-looked	0	1
-quite	2	0
-as	0	1
-surprised	2	0
-as	0	0
-he	0	1
-felt	2	2
-.	NA	NA

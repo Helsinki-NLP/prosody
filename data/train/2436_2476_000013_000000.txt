@@ -1,6 +1,0 @@
-The	0	0
-Captain	1	1
-ignored	1	1
-my	0	0
-questions	2	2
-.	NA	NA

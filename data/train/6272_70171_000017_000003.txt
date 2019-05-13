@@ -1,7 +1,0 @@
-And	0	0
-everything	1	1
-stands	1	1
-on	0	0
-a	0	0
-mat	2	2
-.	NA	NA

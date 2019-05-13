@@ -1,7 +1,0 @@
-His	0	0
-pistol	2	1
-had	0	0
-missed	2	0
-its	0	0
-aim	1	2
-.	NA	NA

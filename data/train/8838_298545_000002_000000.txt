@@ -1,7 +1,0 @@
-The	0	0
-doctor's	2	0
-appearance	1	1
-was	0	0
-not	2	0
-encouraging	2	2
-.	NA	NA

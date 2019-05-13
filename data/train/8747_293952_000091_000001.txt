@@ -1,9 +1,0 @@
-I	2	0
-will	0	0
-have	1	2
-nothing	1	0
-to	0	2
-do	1	0
-with	2	1
-you	1	2
-.	NA	NA

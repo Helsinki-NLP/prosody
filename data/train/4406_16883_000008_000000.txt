@@ -1,3 +1,0 @@
-THE	0	1
-TENTH	2	0
-REMOVE	1	2

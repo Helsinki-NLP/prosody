@@ -1,9 +1,0 @@
-That's	0	1
-the	0	0
-way	1	0
-I	0	0
-do	0	2
-it's	0	0
-very	2	1
-satisfactory	2	2
-.	NA	NA

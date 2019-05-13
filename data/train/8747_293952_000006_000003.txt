@@ -1,9 +1,0 @@
-Shall	0	0
-I	0	0
-ask	0	1
-Miss	1	1
-Malleson	2	1
-to	0	0
-come	0	0
-over	2	2
-.	NA	NA

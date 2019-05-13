@@ -1,9 +1,0 @@
-Let	2	0
-us	0	1
-be	0	0
-happy	0	0
-without	1	1
-quibbling	1	0
-and	0	1
-quirking	2	2
-.	NA	NA

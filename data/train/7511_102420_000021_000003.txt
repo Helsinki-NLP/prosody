@@ -1,7 +1,0 @@
-So	0	0
-make	1	0
-sure	2	0
-when	0	1
-you	0	0
-fire	2	2
-.	NA	NA

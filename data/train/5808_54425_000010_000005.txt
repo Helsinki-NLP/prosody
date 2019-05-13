@@ -1,9 +1,0 @@
-She	1	0
-kept	2	0
-her	0	1
-promise	2	0
-and	0	1
-threw	1	0
-him	0	0
-over	2	2
-.	NA	NA

@@ -1,6 +1,0 @@
-Tidvatten	2	1
-,	NA	NA
-said	1	0
-the	0	0
-guide	1	2
-.	NA	NA

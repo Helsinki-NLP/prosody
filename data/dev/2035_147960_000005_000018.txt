@@ -1,4 +1,0 @@
-I	0	0
-felt	2	1
-seasick	1	2
-.	NA	NA

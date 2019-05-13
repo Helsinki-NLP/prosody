@@ -1,6 +1,0 @@
-Then	1	0
-all	2	0
-the	0	0
-light	0	1
-disappears	1	2
-.	NA	NA

@@ -1,9 +1,0 @@
-What	2	0
-am	0	0
-I	0	0
-going	0	0
-to	0	1
-do	0	1
-,	NA	NA
-Parry	2	2
-?	NA	NA

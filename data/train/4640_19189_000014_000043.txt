@@ -1,6 +1,0 @@
-Yes	1	1
-,	NA	NA
-instruction	0	1
-!	NA	NA
-light	2	2
-!	NA	NA

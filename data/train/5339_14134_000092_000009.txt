@@ -1,7 +1,0 @@
-I'm	1	0
-sorry	2	0
-I	0	1
-vexed	1	0
-yo'	0	2
-.	NA	NA
-'	NA	NA

@@ -1,6 +1,0 @@
-You	2	0
-read	0	1
-the	0	0
-name	0	0
-yourself	2	2
-.	NA	NA

@@ -1,5 +1,0 @@
-'Look	2	0
-out	1	1
-,	NA	NA
-Jim	1	2
-!	NA	NA

@@ -1,5 +1,0 @@
-But	1	0
-in	0	0
-what	0	1
-thing	2	2
-?	NA	NA

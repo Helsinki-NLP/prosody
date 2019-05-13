@@ -1,9 +1,0 @@
-It	0	0
-was	1	0
-the	0	0
-dawn	2	0
-of	0	2
-the	0	0
-eighteenth	1	1
-century	2	2
-.	NA	NA

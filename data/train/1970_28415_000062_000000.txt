@@ -1,8 +1,0 @@
-There	2	0
-was	0	0
-a	0	1
-knock	1	0
-at	0	1
-the	0	0
-door	1	2
-.	NA	NA

@@ -1,6 +1,0 @@
-I	1	0
-thought	2	2
-.	NA	NA
-.	NA	NA
-.	NA	NA
-'	NA	NA

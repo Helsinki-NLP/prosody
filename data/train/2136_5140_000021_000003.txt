@@ -1,8 +1,0 @@
-Where	2	0
-have	1	0
-they	0	1
-brought	1	0
-her	0	1
-to	1	2
-?	NA	NA
-'	NA	NA

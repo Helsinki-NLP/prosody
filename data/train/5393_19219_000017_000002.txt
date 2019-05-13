@@ -1,9 +1,0 @@
-One	2	0
-still	1	0
-has	0	1
-time	1	1
-before	2	0
-one	0	2
-to	0	0
-divine	2	2
-.	NA	NA

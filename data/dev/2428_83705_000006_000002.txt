@@ -1,5 +1,0 @@
-Nothing	2	0
-of	0	1
-the	0	0
-kind	2	2
-.	NA	NA

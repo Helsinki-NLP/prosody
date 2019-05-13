@@ -1,9 +1,0 @@
-And	1	0
-what's	0	1
-more	1	2
-,	NA	NA
-I	1	0
-hope	0	0
-you	0	1
-don't	2	2
-.	NA	NA

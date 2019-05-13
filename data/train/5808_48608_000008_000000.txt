@@ -1,9 +1,0 @@
-When	2	0
-it	0	0
-was	0	1
-Three	1	0
-Hundred	1	0
-and	0	2
-Forty	1	0
-eighth	1	1
-Night	2	2

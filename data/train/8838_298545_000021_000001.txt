@@ -1,8 +1,0 @@
-You'll	0	0
-save	0	0
-trouble	2	0
-if	0	1
-you'll	0	0
-go	2	1
-quietly	2	2
-.	NA	NA

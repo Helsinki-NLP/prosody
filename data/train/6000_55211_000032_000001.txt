@@ -1,9 +1,0 @@
-You'll	1	0
-find	2	0
-them	0	1
-quite	2	1
-perfect	2	1
-,	NA	NA
-I	0	0
-think	1	2
-.	NA	NA

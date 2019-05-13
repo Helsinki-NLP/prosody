@@ -1,6 +1,0 @@
-The	0	0
-three	0	0
-friends	2	0
-were	0	1
-astounded	2	2
-.	NA	NA

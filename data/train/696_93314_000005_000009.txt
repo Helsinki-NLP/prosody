@@ -1,7 +1,0 @@
-Does	1	0
-she	0	1
-know	1	0
-I	0	0
-love	0	1
-her	2	2
-?	NA	NA

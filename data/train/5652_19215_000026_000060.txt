@@ -1,7 +1,0 @@
-Ah	2	2
-!	NA	NA
-people	1	0
-might	0	0
-be	0	1
-sylphs	2	2
-.	NA	NA

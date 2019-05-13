@@ -1,5 +1,0 @@
-It	1	1
-looks	0	0
-like	0	1
-jam	2	2
-.	NA	NA

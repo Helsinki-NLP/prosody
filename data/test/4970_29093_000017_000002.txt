@@ -1,8 +1,0 @@
-He	2	0
-would	0	0
-make	0	0
-his	0	1
-mark	2	2
-in	0	0
-literature	1	2
-.	NA	NA

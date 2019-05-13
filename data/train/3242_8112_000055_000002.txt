@@ -1,5 +1,0 @@
-Did	2	0
-they	0	1
-try	1	1
-again	1	2
-?	NA	NA

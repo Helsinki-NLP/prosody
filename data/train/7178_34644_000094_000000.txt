@@ -1,8 +1,0 @@
-The	1	0
-cemetery	1	0
-of	0	2
-the	0	0
-jail	2	0
-is	0	1
-opposite	1	2
-.	NA	NA

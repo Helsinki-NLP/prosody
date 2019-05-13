@@ -1,8 +1,0 @@
-She	0	0
-is	0	2
-very	2	0
-much	1	0
-at	0	1
-loose	0	0
-ends	2	2
-.	NA	NA

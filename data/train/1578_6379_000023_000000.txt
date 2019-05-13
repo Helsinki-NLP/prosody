@@ -1,8 +1,0 @@
-Well	2	2
-?	NA	NA
-they	0	0
-inquired	1	0
-in	0	1
-a	0	0
-breath	1	2
-.	NA	NA

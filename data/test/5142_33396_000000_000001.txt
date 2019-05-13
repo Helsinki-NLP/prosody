@@ -1,7 +1,0 @@
-Have	0	1
-you	0	0
-always	1	1
-been	0	0
-a	0	2
-thrall	2	2
-?	NA	NA

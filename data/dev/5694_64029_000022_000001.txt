@@ -1,7 +1,0 @@
-They	1	0
-fell	2	0
-back	1	1
-and	0	1
-re	0	0
-formed	2	2
-.	NA	NA

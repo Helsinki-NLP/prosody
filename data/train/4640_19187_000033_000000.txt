@@ -1,5 +1,0 @@
-CHAPTER	0	0
-three	1	1
-LIGHT	2	1
-AND	0	0
-SHADOW	2	2

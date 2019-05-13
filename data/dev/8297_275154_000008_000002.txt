@@ -1,8 +1,0 @@
-He	1	0
-could	0	0
-only	1	1
-point	2	1
-to	0	0
-a	0	1
-seat	2	2
-.	NA	NA

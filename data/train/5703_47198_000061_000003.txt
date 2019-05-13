@@ -1,7 +1,0 @@
-The	0	0
-journey	1	0
-north	1	0
-is	0	1
-awful'	2	1
-expensive	1	2
-.	NA	NA

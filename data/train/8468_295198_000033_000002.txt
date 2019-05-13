@@ -1,8 +1,0 @@
-What	1	0
-I	0	0
-know	2	2
-,	NA	NA
-I	1	0
-know	0	1
-certainly	2	2
-.	NA	NA

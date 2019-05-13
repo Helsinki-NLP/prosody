@@ -1,9 +1,0 @@
-Changed	1	0
-her	0	0
-mind	0	0
-again	2	2
-?	NA	NA
-Patty	0	0
-asked	1	1
-pleasantly	1	2
-.	NA	NA

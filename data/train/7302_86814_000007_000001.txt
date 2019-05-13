@@ -1,9 +1,0 @@
-The	0	0
-prisoners	2	1
-then	1	0
-approached	2	2
-and	2	0
-formed	0	0
-a	0	1
-circle	1	2
-.	NA	NA

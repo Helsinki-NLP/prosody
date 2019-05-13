@@ -1,7 +1,0 @@
-A	0	0
-simple	1	0
-trip	1	1
-to	0	0
-an	0	1
-oysterbank	2	2
-?	NA	NA

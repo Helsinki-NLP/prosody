@@ -1,6 +1,0 @@
-Carter	2	0
-was	0	1
-grim	2	2
-and	0	0
-white	2	2
-.	NA	NA

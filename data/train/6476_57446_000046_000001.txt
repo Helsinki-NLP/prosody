@@ -1,6 +1,0 @@
-Pray	2	0
-where	0	0
-are	0	0
-you	0	1
-from	2	2
-?	NA	NA

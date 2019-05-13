@@ -1,8 +1,0 @@
-The	0	1
-boy	2	0
-could	0	1
-not	2	1
-repress	2	1
-a	0	0
-shudder	2	2
-.	NA	NA

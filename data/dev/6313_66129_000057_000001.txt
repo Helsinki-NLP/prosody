@@ -1,7 +1,0 @@
-Suppose	2	1
-we	0	0
-start	0	1
-with	0	0
-a	0	0
-race	2	2
-?	NA	NA

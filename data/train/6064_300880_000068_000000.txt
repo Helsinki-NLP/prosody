@@ -1,6 +1,0 @@
-Right	1	0
-o	1	0
-,	NA	NA
-old	0	2
-thing	1	2
-!	NA	NA

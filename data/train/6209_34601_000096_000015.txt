@@ -1,5 +1,0 @@
-Nothing	2	1
-sold	0	0
-all	0	1
-day	2	2
-.	NA	NA

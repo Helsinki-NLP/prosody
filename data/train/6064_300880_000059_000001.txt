@@ -1,9 +1,0 @@
-I'm	2	0
-not	0	0
-a	0	1
-manufacturer	2	1
-of	0	0
-chemicals	1	1
-for	0	0
-nothing	2	2
-.	NA	NA

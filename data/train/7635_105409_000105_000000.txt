@@ -1,8 +1,0 @@
-Chauvelin	2	1
-had	0	0
-not	2	0
-given	0	1
-up	0	0
-all	1	1
-hope	2	2
-.	NA	NA

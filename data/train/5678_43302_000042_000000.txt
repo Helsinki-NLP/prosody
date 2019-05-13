@@ -1,4 +1,0 @@
-Yes	0	0
-,	NA	NA
-Oliver	2	2
-?	NA	NA

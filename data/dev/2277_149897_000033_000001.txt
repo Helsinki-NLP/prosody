@@ -1,5 +1,0 @@
-How	1	0
-about	2	0
-that	0	1
-now	1	2
-?	NA	NA

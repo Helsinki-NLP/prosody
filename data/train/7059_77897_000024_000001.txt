@@ -1,5 +1,0 @@
-He	0	0
-was	1	0
-very	1	1
-opportune	2	2
-.	NA	NA

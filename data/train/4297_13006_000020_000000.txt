@@ -1,9 +1,0 @@
-Because	0	0
-he	0	0
-is	0	0
-a	0	1
-stranger	2	0
-and	0	0
-a	0	2
-foreigner	2	2
-.	NA	NA

@@ -1,6 +1,0 @@
-Usually	2	0
-he	0	1
-just	0	0
-barges	1	0
-in	2	2
-.	NA	NA

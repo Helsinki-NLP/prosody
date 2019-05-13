@@ -1,5 +1,0 @@
-It	1	0
-is	1	0
-a	0	1
-corrective	1	2
-.	NA	NA

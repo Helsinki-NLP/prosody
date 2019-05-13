@@ -1,9 +1,0 @@
-For	0	0
-general	1	0
-uncanny	1	0
-ugliness	1	1
-and	0	0
-horror	2	0
-and	1	1
-pain	2	2
-.	NA	NA

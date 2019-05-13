@@ -1,5 +1,0 @@
-There	2	0
-was	0	0
-young	0	1
-Cresswell	1	2
-.	NA	NA

@@ -1,7 +1,0 @@
-What	1	0
-is	0	0
-that	1	1
-great	2	1
-tower	0	0
-yonder	1	2
-?	NA	NA

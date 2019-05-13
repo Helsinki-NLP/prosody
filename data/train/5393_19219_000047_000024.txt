@@ -1,7 +1,0 @@
-Let	1	0
-us	1	0
-obey	0	0
-the	0	1
-sun	2	2
-blindly	1	2
-.	NA	NA

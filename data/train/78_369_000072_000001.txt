@@ -1,6 +1,0 @@
-My	0	0
-work	2	0
-is	0	1
-nearly	1	1
-complete	2	2
-.	NA	NA

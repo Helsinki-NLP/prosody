@@ -1,6 +1,0 @@
-In	1	0
-and	0	0
-under	0	0
-the	0	1
-guard	2	2
-.	NA	NA

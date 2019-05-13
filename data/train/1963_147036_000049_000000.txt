@@ -1,6 +1,0 @@
-Take	2	0
-it	0	1
-away	2	0
-with	0	1
-you	1	2
-.	NA	NA

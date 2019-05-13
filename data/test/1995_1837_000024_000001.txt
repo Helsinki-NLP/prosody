@@ -1,9 +1,0 @@
-The	0	0
-chair	1	0
-was	0	0
-empty	1	2
-;	NA	NA
-but	1	0
-he	0	0
-knew	2	2
-.	NA	NA

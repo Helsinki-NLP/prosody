@@ -1,7 +1,0 @@
-This	2	0
-time	1	0
-her	0	1
-companion	0	0
-was	0	1
-grave	2	2
-.	NA	NA

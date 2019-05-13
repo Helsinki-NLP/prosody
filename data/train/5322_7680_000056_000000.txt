@@ -1,5 +1,0 @@
-'Why	2	0
-harness	0	1
-the	0	0
-horse	2	2
-?	NA	NA

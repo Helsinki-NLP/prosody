@@ -1,8 +1,0 @@
-True	1	1
-for	0	0
-you	2	2
-,	NA	NA
-says	1	0
-the	0	0
-king	1	2
-.	NA	NA

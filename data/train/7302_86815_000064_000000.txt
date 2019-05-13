@@ -1,6 +1,0 @@
-In	2	0
-the	0	0
-name	0	0
-of	0	2
-heaven	2	2
-!	NA	NA

@@ -1,6 +1,0 @@
-Will	0	1
-twelve	2	1
-o'clock	1	1
-suit	0	0
-you	2	2
-?	NA	NA

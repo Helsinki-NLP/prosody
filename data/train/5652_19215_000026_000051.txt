@@ -1,4 +1,0 @@
-at	1	0
-being	0	1
-petty	2	2
-.	NA	NA

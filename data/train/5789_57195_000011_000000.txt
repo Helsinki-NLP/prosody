@@ -1,4 +1,0 @@
-Your	2	0
-affectionate	0	1
-friend	1	2
-,	NA	NA

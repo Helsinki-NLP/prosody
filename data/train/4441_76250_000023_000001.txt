@@ -1,7 +1,0 @@
-Do	0	1
-you	1	0
-think	2	1
-she	0	0
-meant	0	0
-it	2	2
-?	NA	NA

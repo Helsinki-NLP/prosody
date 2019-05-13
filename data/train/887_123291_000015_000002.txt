@@ -1,5 +1,0 @@
-It	1	0
-might	1	0
-be	0	1
-so	2	2
-.	NA	NA

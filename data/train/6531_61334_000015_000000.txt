@@ -1,8 +1,0 @@
-Tribute	2	1
-poured	1	0
-in	0	1
-from	0	0
-the	0	0
-subject	1	1
-States	2	2
-.	NA	NA

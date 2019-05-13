@@ -1,9 +1,0 @@
-Bobo	2	0
-shall	0	0
-look	1	1
-for	0	0
-the	0	0
-lost	2	1
-half	1	0
-hour	2	2
-.	NA	NA

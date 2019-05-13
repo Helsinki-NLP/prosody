@@ -1,7 +1,0 @@
-Spare	2	0
-your	0	1
-breath	2	0
-,	0	1
-mr	NA	NA
-Toller	2	2
-.	NA	NA

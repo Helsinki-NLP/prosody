@@ -1,9 +1,0 @@
-But	0	0
-how	1	0
-can	0	1
-they	0	0
-know	2	2
-?	NA	NA
-asked	1	0
-Asano	0	2
-.	NA	NA

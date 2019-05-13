@@ -1,8 +1,0 @@
-Apathy	2	0
-and	0	1
-disgust	1	1
-commonly	1	1
-follow	1	0
-satiated	1	0
-lust	0	2
-.	NA	NA

@@ -1,3 +1,0 @@
-RICE	2	1
-BREAD	1	2
-.	NA	NA

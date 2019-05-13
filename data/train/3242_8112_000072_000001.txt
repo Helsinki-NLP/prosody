@@ -1,6 +1,0 @@
-We	0	0
-haven't	2	1
-found	0	0
-out	2	1
-yet	1	2
-.	NA	NA

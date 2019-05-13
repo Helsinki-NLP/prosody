@@ -1,5 +1,0 @@
-I	0	0
-am	0	2
-very	2	0
-glad	1	2
-.	NA	NA

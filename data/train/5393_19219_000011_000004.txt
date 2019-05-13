@@ -1,7 +1,0 @@
-Evil	2	0
-has	0	1
-no	0	0
-right	2	1
-to	0	1
-exist	2	2
-.	NA	NA

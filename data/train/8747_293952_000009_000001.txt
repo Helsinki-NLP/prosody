@@ -1,8 +1,0 @@
-I	1	0
-never	1	0
-saw	0	0
-a	0	1
-more	1	1
-attached	1	1
-couple	2	2
-.	NA	NA

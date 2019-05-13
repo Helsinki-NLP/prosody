@@ -1,5 +1,0 @@
-The	0	0
-woman	1	1
-seemed	0	0
-thoughtful	2	2
-.	NA	NA

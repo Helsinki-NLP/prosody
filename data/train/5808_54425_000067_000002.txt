@@ -1,5 +1,0 @@
-This	0	0
-was	0	1
-not	2	1
-Joe	2	2
-.	NA	NA

@@ -1,4 +1,0 @@
-THE	0	0
-LOST	2	1
-HALF	1	1
-HOUR	2	2

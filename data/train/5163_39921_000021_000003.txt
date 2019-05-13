@@ -1,7 +1,0 @@
-And	0	0
-he	0	0
-does	1	0
-hate	2	0
-mrs	0	1
-Charley	2	2
-.	NA	NA

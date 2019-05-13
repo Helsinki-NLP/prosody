@@ -1,4 +1,0 @@
-j	0	0
-b	1	1
-PARLETT	2	2
-.	NA	NA

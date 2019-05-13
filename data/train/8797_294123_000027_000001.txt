@@ -1,8 +1,0 @@
-It	0	0
-was	2	0
-a	0	0
-mere	1	0
-matter	1	0
-of	0	2
-training	1	2
-.	NA	NA

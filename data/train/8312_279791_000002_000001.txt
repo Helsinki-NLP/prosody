@@ -1,5 +1,0 @@
-But	2	0
-he	0	0
-would	1	0
-not	1	2
-.	NA	NA

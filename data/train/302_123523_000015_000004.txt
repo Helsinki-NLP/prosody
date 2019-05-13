@@ -1,3 +1,0 @@
-Kill	0	0
-her	2	2
-!	NA	NA

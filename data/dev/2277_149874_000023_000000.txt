@@ -1,7 +1,0 @@
-At	2	0
-about	1	1
-twenty	0	0
-minutes	0	0
-of	0	1
-five	2	2
-.	NA	NA

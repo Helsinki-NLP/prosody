@@ -1,5 +1,0 @@
-I	1	0
-must	2	0
-have	0	1
-company	1	2
-.	NA	NA

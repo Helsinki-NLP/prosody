@@ -1,9 +1,0 @@
-Please	0	1
-!	NA	NA
-Please	1	2
-!	NA	NA
-over	2	1
-and	0	0
-over	0	0
-again	2	2
-.	NA	NA

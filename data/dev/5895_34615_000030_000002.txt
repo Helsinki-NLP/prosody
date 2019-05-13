@@ -1,9 +1,0 @@
-By	2	0
-means	1	1
-of	0	0
-it	0	2
-he	0	0
-gained	1	0
-his	0	1
-living	1	2
-.	NA	NA

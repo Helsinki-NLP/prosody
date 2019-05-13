@@ -1,9 +1,0 @@
-It	2	0
-was	0	1
-the	0	0
-Dirty	2	0
-Boy	0	2
-,	NA	NA
-carefully	2	0
-mended	1	2
-!	NA	NA

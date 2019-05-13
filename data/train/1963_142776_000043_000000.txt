@@ -1,3 +1,0 @@
-PRAWN	1	1
-SOUP	2	2
-.	NA	NA

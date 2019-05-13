@@ -1,6 +1,0 @@
-Bluff	2	1
-glanced	2	1
-quickly	0	0
-at	0	1
-Frank	2	2
-.	NA	NA

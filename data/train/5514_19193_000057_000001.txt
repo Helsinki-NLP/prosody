@@ -1,9 +1,0 @@
-There	2	0
-a	0	1
-fourth	2	0
-bullet	0	0
-missed	0	0
-him	0	1
-,	NA	NA
-again	2	2
-.	NA	NA

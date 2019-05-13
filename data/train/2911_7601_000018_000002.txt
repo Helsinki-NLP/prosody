@@ -1,6 +1,0 @@
-I	0	0
-was	2	0
-singularly	1	1
-at	0	0
-ease	2	2
-.	NA	NA

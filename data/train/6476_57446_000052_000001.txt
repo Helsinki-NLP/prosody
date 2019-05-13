@@ -1,6 +1,0 @@
-Begone	2	0
-as	0	1
-fast	1	1
-as	0	0
-possible	2	2
-.	NA	NA

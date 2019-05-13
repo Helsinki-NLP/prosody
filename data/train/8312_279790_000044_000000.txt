@@ -1,6 +1,0 @@
-You	0	0
-have	1	1
-spoken	2	0
-my	1	0
-name	0	2
-.	NA	NA

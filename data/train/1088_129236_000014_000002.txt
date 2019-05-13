@@ -1,4 +1,0 @@
-Nature	1	1
-grows	0	0
-conscious	1	2
-.	NA	NA

@@ -1,3 +1,0 @@
-The	0	0
-prisoner	1	0
-resumed	1	2

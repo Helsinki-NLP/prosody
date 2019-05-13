@@ -1,5 +1,0 @@
-I	1	1
-QUIT	2	1
-THE	0	0
-WRECK	1	2
-.	NA	NA

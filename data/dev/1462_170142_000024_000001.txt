@@ -1,9 +1,0 @@
-It	0	0
-was	1	0
-myself	2	1
-I	0	0
-was	0	1
-defying	2	0
-,	NA	NA
-Hilda	2	2
-.	NA	NA

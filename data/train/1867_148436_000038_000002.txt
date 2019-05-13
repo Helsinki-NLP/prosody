@@ -1,9 +1,0 @@
-But	0	0
-I	2	0
-can	0	1
-cook	1	1
-you	0	0
-up	1	0
-some	0	1
-chow	2	2
-.	NA	NA

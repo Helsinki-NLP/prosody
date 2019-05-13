@@ -1,8 +1,0 @@
-That's	2	0
-a	0	1
-better	2	0
-song	1	1
-than	0	0
-Welcome	1	0
-Robin's	1	2
-.	NA	NA

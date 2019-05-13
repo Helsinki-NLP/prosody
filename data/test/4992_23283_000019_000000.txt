@@ -1,8 +1,0 @@
-Perhaps	2	1
-I	0	0
-am	0	1
-mistaken	2	0
-,	NA	NA
-answered	0	1
-she	1	2
-.	NA	NA

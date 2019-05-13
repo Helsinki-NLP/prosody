@@ -1,8 +1,0 @@
-Let	1	0
-master	2	0
-have	0	1
-no	1	0
-fears	1	0
-about	0	1
-breathing	1	2
-.	NA	NA

@@ -1,6 +1,0 @@
-I	1	0
-think	0	0
-I	0	0
-am	0	2
-ill	2	2
-.	NA	NA

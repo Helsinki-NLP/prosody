@@ -1,3 +1,0 @@
-In	1	0
-person	2	2
-.	NA	NA

@@ -1,6 +1,0 @@
-We	0	0
-wish	2	1
-so	0	0
-,	NA	NA
-too	1	2
-.	NA	NA

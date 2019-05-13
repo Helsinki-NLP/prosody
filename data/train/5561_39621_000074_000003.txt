@@ -1,3 +1,0 @@
-Happy	2	1
-mother	1	2
-!	NA	NA

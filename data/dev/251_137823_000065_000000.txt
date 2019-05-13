@@ -1,5 +1,0 @@
-mr	0	0
-Swift's	1	1
-eyes	2	1
-twinkled	1	2
-.	NA	NA

@@ -1,6 +1,0 @@
-You	1	0
-are	0	0
-going	1	1
-too	0	0
-far	2	2
-!	NA	NA

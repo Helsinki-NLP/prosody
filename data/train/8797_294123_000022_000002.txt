@@ -1,9 +1,0 @@
-Under	1	0
-a	0	0
-capable	1	1
-management	1	1
-he	0	0
-will	0	0
-go	0	0
-far	2	2
-.	NA	NA

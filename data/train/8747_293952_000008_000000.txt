@@ -1,8 +1,0 @@
-Probably	2	2
-,	NA	NA
-but	1	0
-she	0	0
-bears	1	0
-up	0	1
-wonderfully	0	2
-.	NA	NA

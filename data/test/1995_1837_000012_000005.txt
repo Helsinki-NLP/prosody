@@ -1,5 +1,0 @@
-Then	2	1
-he	0	0
-looked	0	1
-down	2	2
-.	NA	NA

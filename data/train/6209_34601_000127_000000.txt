@@ -1,5 +1,0 @@
-Who	1	0
-is	0	0
-it	1	1
-then	2	2
-?	NA	NA

@@ -1,9 +1,0 @@
-I	1	0
-am	0	0
-not	2	0
-an	0	1
-advocate	1	1
-of	0	0
-irremediable	1	0
-measures	1	2
-.	NA	NA

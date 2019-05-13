@@ -1,5 +1,0 @@
-'Now	2	0
-for	0	0
-the	0	1
-farm	1	2
-.	NA	NA

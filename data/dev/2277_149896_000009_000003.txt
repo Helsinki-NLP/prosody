@@ -1,9 +1,0 @@
-Could	1	0
-she	1	0
-have	0	0
-been	0	0
-reached	0	1
-by	1	0
-his	0	1
-wife	2	2
-?	NA	NA

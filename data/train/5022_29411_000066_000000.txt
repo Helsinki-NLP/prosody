@@ -1,6 +1,0 @@
-Why	2	0
-did	0	0
-you	0	1
-invite	2	1
-yourself	1	2
-?	NA	NA

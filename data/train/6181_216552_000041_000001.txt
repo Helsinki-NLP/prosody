@@ -1,6 +1,0 @@
-'This	0	0
-definition	1	1
-is	0	0
-not	0	0
-exact	2	2
-.	NA	NA

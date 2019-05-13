@@ -1,5 +1,0 @@
-Wendy	2	0
-was	0	1
-grown	2	0
-up	0	2
-.	NA	NA

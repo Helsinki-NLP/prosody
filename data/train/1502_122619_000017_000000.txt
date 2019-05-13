@@ -1,9 +1,0 @@
-Does	2	0
-my	1	1
-prisoner	1	0
-give	0	1
-trouble	2	0
-to	0	0
-my	0	1
-brothers	2	2
-?	NA	NA

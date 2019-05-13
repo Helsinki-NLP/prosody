@@ -1,4 +1,0 @@
-I	1	0
-slept	0	1
-badly	2	2
-.	NA	NA

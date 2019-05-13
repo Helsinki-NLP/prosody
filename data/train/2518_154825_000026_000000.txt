@@ -1,4 +1,0 @@
-Then	1	0
-Elzevir	0	0
-spoke	2	2
-.	NA	NA

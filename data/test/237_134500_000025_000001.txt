@@ -1,8 +1,0 @@
-What	2	0
-are	0	0
-you	0	1
-talking	2	1
-about	1	1
-,	NA	NA
-Marie	1	2
-?	NA	NA

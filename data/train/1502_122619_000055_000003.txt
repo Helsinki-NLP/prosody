@@ -1,8 +1,0 @@
-Its	0	0
-number	2	0
-somewhat	1	1
-exceeded	1	0
-a	0	1
-thousand	1	1
-souls	2	2
-.	NA	NA

@@ -1,6 +1,0 @@
-He	0	0
-can't	1	0
-help	2	0
-being	0	1
-excitable	2	2
-.	NA	NA

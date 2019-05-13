@@ -1,9 +1,0 @@
-Grogan	2	1
-,	NA	NA
-the	0	0
-old	1	1
-bartender	1	1
-was	0	0
-there	0	0
-alone	2	2
-.	NA	NA

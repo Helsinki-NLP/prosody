@@ -1,7 +1,0 @@
-Was	0	0
-the	0	0
-skunk	2	1
-laughing	2	0
-at	0	1
-me	2	2
-?	NA	NA

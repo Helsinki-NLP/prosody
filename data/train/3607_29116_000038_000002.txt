@@ -1,7 +1,0 @@
-But	0	0
-he	0	0
-is	1	1
-right	2	0
-at	0	1
-heart	2	2
-.	NA	NA

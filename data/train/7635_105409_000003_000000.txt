@@ -1,4 +1,0 @@
-CHAPTER	0	0
-thirty	2	0
-THE	0	1
-SCHOONER	2	2

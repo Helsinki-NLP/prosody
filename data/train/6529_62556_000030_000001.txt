@@ -1,5 +1,0 @@
-He	1	0
-is	0	1
-not	2	1
-dead	1	2
-.	NA	NA

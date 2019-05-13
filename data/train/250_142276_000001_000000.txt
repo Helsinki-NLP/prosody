@@ -1,3 +1,0 @@
-ROSES	2	1
-AND	0	0
-THORNS	1	2

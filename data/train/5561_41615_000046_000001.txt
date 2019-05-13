@@ -1,9 +1,0 @@
-We	1	0
-shall	0	1
-understand	1	0
-each	0	0
-other	1	0
-a	0	1
-little	0	1
-better	2	2
-.	NA	NA

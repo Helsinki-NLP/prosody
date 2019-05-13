@@ -1,7 +1,0 @@
-Who	2	0
-is	0	0
-he	0	1
-,	0	1
-mr	NA	NA
-Beryl	2	2
-?	NA	NA

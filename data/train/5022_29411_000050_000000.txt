@@ -1,8 +1,0 @@
-Old	2	1
-Toller	1	1
-highly	1	1
-approved	2	0
-of	0	1
-my	0	0
-conduct	1	2
-.	NA	NA

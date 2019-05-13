@@ -1,9 +1,0 @@
-But	0	0
-I	2	0
-want	0	0
-to	0	2
-see	0	0
-mrs	1	1
-Wilmington	1	1
-first	2	2
-.	NA	NA

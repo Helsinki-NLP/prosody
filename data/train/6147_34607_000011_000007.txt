@@ -1,8 +1,0 @@
-As	0	1
-they	0	0
-will	2	2
-.	NA	NA
-Be	0	0
-it	0	1
-so	2	2
-.	NA	NA

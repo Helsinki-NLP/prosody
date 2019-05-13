@@ -1,6 +1,0 @@
-Here	1	0
-comes	0	2
-Sir	0	0
-Harry	1	1
-Towne	1	2
-.	NA	NA

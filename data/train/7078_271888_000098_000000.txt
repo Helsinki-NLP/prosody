@@ -1,6 +1,0 @@
-Forget	1	1
-her	0	0
-,	NA	NA
-I	1	0
-argued	2	2
-.	NA	NA

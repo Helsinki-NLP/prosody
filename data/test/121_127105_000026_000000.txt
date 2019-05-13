@@ -1,7 +1,0 @@
-Probably	2	0
-not	2	0
-till	0	1
-the	0	0
-second	1	1
-post	1	2
-.	NA	NA

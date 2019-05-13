@@ -1,8 +1,0 @@
-But	0	0
-my	0	0
-bell	2	0
-hath	0	1
-broke	2	2
-Her	1	0
-silence	2	2
-.	NA	NA

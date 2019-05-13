@@ -1,6 +1,0 @@
-Lunch	2	0
-must	0	1
-be	0	0
-nearly	0	0
-ready	1	2
-.	NA	NA

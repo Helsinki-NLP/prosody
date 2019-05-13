@@ -1,8 +1,0 @@
-She	0	0
-looked	2	0
-at	0	1
-them	1	2
-,	NA	NA
-beckoned	2	1
-them	1	2
-.	NA	NA

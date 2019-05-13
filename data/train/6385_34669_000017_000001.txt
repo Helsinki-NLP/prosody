@@ -1,9 +1,0 @@
-Then	2	0
-the	0	0
-animal	0	0
-takes	0	2
-the	0	0
-direction	1	0
-of	0	1
-sense	1	2
-.	NA	NA

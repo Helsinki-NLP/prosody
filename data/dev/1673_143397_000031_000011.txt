@@ -1,9 +1,0 @@
-His	2	1
-providence	2	0
-will	0	1
-discern	2	0
-and	0	1
-punish	1	0
-the	0	0
-guilty	1	2
-.	NA	NA

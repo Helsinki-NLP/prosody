@@ -1,7 +1,0 @@
-Above	1	0
-its	0	1
-shadows	2	2
-heaven	2	1
-stood	0	0
-open	0	2
-.	NA	NA

@@ -1,6 +1,0 @@
-I	2	1
-think	1	0
-I	2	1
-convinced	1	0
-him	0	2
-.	NA	NA

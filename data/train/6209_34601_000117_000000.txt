@@ -1,4 +1,0 @@
-The	0	1
-child	2	1
-replied	2	2
-,	NA	NA

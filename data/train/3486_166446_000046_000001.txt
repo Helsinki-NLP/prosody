@@ -1,6 +1,0 @@
-Martin	2	0
-what	2	0
-do	0	1
-you	0	0
-mean	2	2
-?	NA	NA

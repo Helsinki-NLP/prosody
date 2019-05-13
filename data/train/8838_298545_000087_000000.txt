@@ -1,4 +1,0 @@
-Next	2	1
-the	0	0
-road	1	2
-?	NA	NA

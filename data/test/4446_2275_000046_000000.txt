@@ -1,4 +1,0 @@
-Just	1	1
-something	0	0
-Bartley	2	2
-.	NA	NA

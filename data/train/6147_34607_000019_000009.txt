@@ -1,5 +1,0 @@
-Certain	1	0
-relationships	2	1
-are	0	0
-detrimental	1	2
-.	NA	NA

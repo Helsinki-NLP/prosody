@@ -1,9 +1,0 @@
-I'd	2	0
-like	1	0
-to	0	2
-see	0	0
-her	0	0
-walking	1	1
-eight	0	0
-miles	2	2
-.	NA	NA

@@ -1,5 +1,0 @@
-Thou	1	0
-hit	0	0
-me	0	1
-hard	2	2
-!	NA	NA

@@ -1,4 +1,0 @@
-The	0	0
-Old	1	1
-Fellow's	1	1
-Letter	1	2

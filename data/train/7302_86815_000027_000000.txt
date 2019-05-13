@@ -1,4 +1,0 @@
-What	1	1
-to	0	0
-do	2	2
-?	NA	NA

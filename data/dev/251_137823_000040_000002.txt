@@ -1,9 +1,0 @@
-Let's	1	0
-see	0	0
-about	2	1
-getting	0	0
-help	2	0
-for	0	1
-mr	0	0
-Faber	2	2
-!	NA	NA

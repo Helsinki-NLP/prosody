@@ -1,6 +1,0 @@
-I	0	0
-says	1	1
-,	NA	NA
-'Look	2	0
-up	1	2
-!	NA	NA

@@ -1,8 +1,0 @@
-I	0	0
-never	2	0
-heard	1	0
-of	0	0
-a	0	2
-church	1	0
-rate	1	2
-.	NA	NA

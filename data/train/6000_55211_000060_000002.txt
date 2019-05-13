@@ -1,8 +1,0 @@
-There	1	0
-was	0	1
-no	2	0
-doubt	1	1
-on	0	0
-that	1	1
-point	2	2
-.	NA	NA

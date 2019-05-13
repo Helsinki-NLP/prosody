@@ -1,4 +1,0 @@
-'Lo	2	1
-,	NA	NA
-stranger	1	2
-.	NA	NA

@@ -1,9 +1,0 @@
-Billy's	2	0
-eyes	1	0
-were	0	1
-brimming	2	0
-with	0	1
-pity	1	0
-and	0	1
-dismay	2	2
-.	NA	NA

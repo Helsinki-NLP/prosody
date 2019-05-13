@@ -1,7 +1,0 @@
-Indeed	1	1
-!	NA	NA
-what	1	0
-can	0	0
-it	0	1
-be	2	2
-?	NA	NA

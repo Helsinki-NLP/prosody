@@ -1,8 +1,0 @@
-He	2	0
-was	0	0
-the	0	1
-picture	2	0
-of	0	1
-fastidious	1	0
-comfort	1	2
-.	NA	NA

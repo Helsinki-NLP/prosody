@@ -1,8 +1,0 @@
-All	2	0
-the	0	1
-palaces	0	2
-I've	2	0
-seen	0	1
-were	0	0
-splendid	1	2
-.	NA	NA

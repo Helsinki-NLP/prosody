@@ -1,6 +1,0 @@
-I	1	0
-looked	2	1
-at	0	0
-my	1	1
-watch	0	2
-.	NA	NA

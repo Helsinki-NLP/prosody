@@ -1,6 +1,0 @@
-She	0	0
-was	0	0
-evidently	2	1
-in	0	0
-earnest	2	2
-.	NA	NA

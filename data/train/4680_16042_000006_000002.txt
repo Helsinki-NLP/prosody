@@ -1,9 +1,0 @@
-Marius	2	0
-directed	1	2
-his	0	0
-steps	2	0
-towards	1	0
-that	0	1
-red	0	0
-light	1	2
-.	NA	NA

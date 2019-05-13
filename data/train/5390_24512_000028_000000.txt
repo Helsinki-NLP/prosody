@@ -1,6 +1,0 @@
-At	1	0
-last	1	1
-the	1	0
-end	0	1
-came	1	2
-.	NA	NA

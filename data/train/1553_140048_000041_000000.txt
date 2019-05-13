@@ -1,8 +1,0 @@
-Then	2	0
-there's	0	1
-something	0	0
-wrong	0	0
-with	0	2
-your	2	0
-aunt	0	2
-!	NA	NA

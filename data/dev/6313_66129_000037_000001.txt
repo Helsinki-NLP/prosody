@@ -1,6 +1,0 @@
-Are	1	0
-there	0	1
-bears	1	0
-up	1	1
-here	2	2
-?	NA	NA

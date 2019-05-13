@@ -1,4 +1,0 @@
-Where	2	0
-are	0	0
-we	1	2
-?	NA	NA

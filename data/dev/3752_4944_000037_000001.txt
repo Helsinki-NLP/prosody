@@ -1,3 +1,0 @@
-A	0	0
-spasm	2	2
-.	NA	NA

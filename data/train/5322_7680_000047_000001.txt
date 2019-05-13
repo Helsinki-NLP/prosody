@@ -1,8 +1,0 @@
-If	1	0
-you	0	1
-don't	2	2
-you	0	0
-will	1	1
-offend	2	1
-me	1	2
-.	NA	NA

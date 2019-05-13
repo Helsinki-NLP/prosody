@@ -1,6 +1,0 @@
-He	0	0
-knows	2	0
-the	0	1
-lecturer	0	1
-well	1	2
-.	NA	NA

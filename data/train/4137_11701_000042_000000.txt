@@ -1,8 +1,0 @@
-Say	2	0
-something	0	1
-,	NA	NA
-Udo	2	1
-,	NA	NA
-prompted	1	0
-Coronel	1	2
-.	NA	NA

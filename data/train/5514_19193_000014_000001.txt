@@ -1,8 +1,0 @@
-This	2	1
-was	1	0
-a	0	0
-second	2	1
-piece	0	0
-of	0	0
-ordnance	1	2
-.	NA	NA

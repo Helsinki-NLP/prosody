@@ -1,5 +1,0 @@
-He	1	0
-did	0	0
-not	0	1
-finish	1	2
-.	NA	NA

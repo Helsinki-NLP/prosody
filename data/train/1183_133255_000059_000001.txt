@@ -1,5 +1,0 @@
-There's	0	0
-hope	2	2
-for	0	0
-you	1	2
-.	NA	NA

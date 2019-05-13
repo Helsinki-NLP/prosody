@@ -1,9 +1,0 @@
-I	0	0
-feel	2	0
-as	0	1
-if	0	0
-I	0	0
-had	0	0
-been	0	1
-beaten	2	2
-.	NA	NA

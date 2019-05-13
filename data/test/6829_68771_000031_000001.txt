@@ -1,4 +1,0 @@
-I'm	0	1
-Elizabeth	0	0
-Parsons	2	2
-.	NA	NA

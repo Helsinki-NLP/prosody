@@ -1,7 +1,0 @@
-Pray	2	1
-inquire	1	0
-carefully	1	1
-into	0	0
-the	0	0
-matter	2	2
-.	NA	NA

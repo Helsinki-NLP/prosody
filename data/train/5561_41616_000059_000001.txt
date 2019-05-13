@@ -1,8 +1,0 @@
-They	0	0
-left	2	2
-before	0	0
-the	0	0
-game	1	0
-was	0	1
-over	2	2
-.	NA	NA

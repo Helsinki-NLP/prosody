@@ -1,9 +1,0 @@
-Brion	2	0
-had	0	1
-carefully	0	0
-conditioned	1	1
-the	0	0
-reflex	1	0
-in	0	1
-himself	2	2
-.	NA	NA

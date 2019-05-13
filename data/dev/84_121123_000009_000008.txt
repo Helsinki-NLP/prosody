@@ -1,7 +1,0 @@
-See	0	0
-,	NA	NA
-my	0	0
-father	1	1
-,	NA	NA
-see	2	2
-!	NA	NA

@@ -1,4 +1,0 @@
-Hunger	2	0
-overcame	0	1
-astonishment	1	2
-.	NA	NA

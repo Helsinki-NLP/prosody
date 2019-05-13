@@ -1,8 +1,0 @@
-All	2	0
-at	0	0
-once	0	2
-,	NA	NA
-the	0	0
-clock	2	0
-struck	1	2
-.	NA	NA

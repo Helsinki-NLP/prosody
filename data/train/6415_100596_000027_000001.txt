@@ -1,9 +1,0 @@
-Patty	1	0
-never	0	0
-made	2	0
-the	0	1
-mistake	1	0
-of	0	1
-over	1	0
-acting	2	2
-.	NA	NA

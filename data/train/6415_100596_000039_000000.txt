@@ -1,9 +1,0 @@
-Patty	2	1
-sympathetically	0	0
-watched	1	2
-the	0	0
-process	2	0
-over	0	1
-her	0	0
-shoulder	2	2
-.	NA	NA

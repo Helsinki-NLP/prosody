@@ -1,2 +1,0 @@
-BAKED	1	1
-PERCH	1	2

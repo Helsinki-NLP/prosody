@@ -1,6 +1,0 @@
-She	0	0
-is	2	1
-a	0	0
-little	0	1
-girl	2	2
-.	NA	NA

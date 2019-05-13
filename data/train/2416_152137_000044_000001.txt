@@ -1,7 +1,0 @@
-I	1	0
-just	0	1
-blew	1	0
-in	0	0
-from	0	1
-Chicago	2	2
-.	NA	NA

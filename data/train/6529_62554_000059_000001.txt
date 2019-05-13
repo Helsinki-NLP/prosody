@@ -1,7 +1,0 @@
-I	1	0
-have	0	1
-no	0	0
-right	2	0
-to	0	2
-speak	1	2
-.	NA	NA

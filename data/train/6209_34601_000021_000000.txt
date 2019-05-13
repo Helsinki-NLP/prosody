@@ -1,4 +1,0 @@
-I	1	0
-am	0	1
-cold	2	2
-.	NA	NA

@@ -1,9 +1,0 @@
-Catch	0	0
-him	0	0
-,	0	0
-mr	NA	NA
-Damon	2	2
-!	NA	NA
-he	0	0
-cried	2	2
-.	NA	NA

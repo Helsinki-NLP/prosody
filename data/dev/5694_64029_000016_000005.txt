@@ -1,9 +1,0 @@
-They	0	0
-couldn't	2	1
-tell	0	0
-our	1	0
-own	0	0
-men	0	1
-from	0	0
-Yankees	2	2
-.	NA	NA

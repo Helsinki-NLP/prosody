@@ -1,7 +1,0 @@
-If	0	0
-you	1	0
-approach	0	1
-,	NA	NA
-I'll	1	0
-bark	2	2
-.	NA	NA

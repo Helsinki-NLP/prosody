@@ -1,4 +1,0 @@
-Rufus	1	0
-Dawes	1	1
-nodded	2	2
-.	NA	NA

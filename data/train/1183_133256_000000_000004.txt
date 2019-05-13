@@ -1,5 +1,0 @@
-fifty	1	0
-cents	1	1
-per	0	0
-box	2	2
-.	NA	NA

@@ -1,7 +1,0 @@
-Not	2	0
-in	0	1
-that	2	0
-way	0	1
-,	NA	NA
-certainly	1	2
-.	NA	NA

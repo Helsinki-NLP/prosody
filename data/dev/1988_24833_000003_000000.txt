@@ -1,4 +1,0 @@
-HERE'S	1	1
-TO	0	0
-CAT	2	2
-!	NA	NA

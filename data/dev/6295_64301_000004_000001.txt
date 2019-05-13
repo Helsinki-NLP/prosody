@@ -1,9 +1,0 @@
-Earth	1	0
-was	0	0
-gone	2	2
-,	NA	NA
-and	0	0
-heaven	2	0
-was	0	1
-all	2	2
-.	NA	NA

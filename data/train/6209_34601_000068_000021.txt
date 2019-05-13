@@ -1,8 +1,0 @@
-Have	0	0
-you	2	0
-the	2	1
-plague	1	0
-,	NA	NA
-you	0	1
-thief	2	2
-?	NA	NA

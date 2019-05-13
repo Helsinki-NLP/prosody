@@ -1,7 +1,0 @@
-So	2	0
-out	1	0
-of	0	0
-innocence	0	1
-we	0	0
-ripen	2	2
-.	NA	NA

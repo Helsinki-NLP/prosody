@@ -1,7 +1,0 @@
-One	2	0
-spring	2	1
-Leif	0	0
-said	1	0
-to	0	1
-his	0	0
-father	2	2

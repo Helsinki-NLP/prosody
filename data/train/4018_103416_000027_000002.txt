@@ -1,6 +1,0 @@
-And	0	0
-I	2	0
-like	1	0
-big	1	1
-figures	2	2
-.	NA	NA

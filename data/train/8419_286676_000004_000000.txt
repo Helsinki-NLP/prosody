@@ -1,8 +1,0 @@
-With	1	0
-the	0	0
-Water	1	0
-Adders	0	0
-it	0	1
-was	0	0
-different	2	2
-.	NA	NA

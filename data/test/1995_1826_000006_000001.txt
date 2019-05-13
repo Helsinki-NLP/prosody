@@ -1,7 +1,0 @@
-Might	2	0
-learn	0	1
-something	0	0
-useful	1	1
-down	1	0
-there	1	2
-.	NA	NA

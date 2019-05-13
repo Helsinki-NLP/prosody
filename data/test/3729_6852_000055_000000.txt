@@ -1,4 +1,0 @@
-I	2	0
-laugh	0	1
-heartily	1	2
-.	NA	NA

@@ -1,4 +1,0 @@
-Dan's	2	0
-already	0	1
-now	1	2
-.	NA	NA

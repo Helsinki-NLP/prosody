@@ -1,8 +1,0 @@
-She	0	0
-paused	2	1
-,	NA	NA
-choking	2	2
-,	NA	NA
-then	2	0
-went	0	0
-on	0	2

@@ -1,6 +1,0 @@
-Why	2	1
-?	NA	NA
-replied	1	0
-the	0	0
-Minnow	0	2
-.	NA	NA

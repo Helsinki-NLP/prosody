@@ -1,8 +1,0 @@
-The	0	0
-thing's	2	1
-impossible	2	1
-!	NA	NA
-I	0	0
-cried	1	0
-warmly	1	2
-.	NA	NA

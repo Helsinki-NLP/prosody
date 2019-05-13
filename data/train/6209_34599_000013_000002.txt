@@ -1,5 +1,0 @@
-He	0	0
-must	2	1
-not	1	1
-slip	2	2
-.	NA	NA

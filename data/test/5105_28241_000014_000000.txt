@@ -1,5 +1,0 @@
-I	0	1
-can	2	1
-,	NA	NA
-sir	2	2
-.	NA	NA

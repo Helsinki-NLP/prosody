@@ -1,6 +1,0 @@
-I	0	0
-confess	2	1
-I	0	0
-am	0	1
-puzzled	2	2
-.	NA	NA

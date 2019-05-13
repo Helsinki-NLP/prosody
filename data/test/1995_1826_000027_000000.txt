@@ -1,7 +1,0 @@
-Goobers	2	2
-,	NA	NA
-answered	1	1
-the	0	0
-smaller	0	0
-boy	1	2
-.	NA	NA

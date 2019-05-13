@@ -1,5 +1,0 @@
-Ursus	2	0
-addressed	1	0
-him	0	1
-furiously	2	2
-.	NA	NA

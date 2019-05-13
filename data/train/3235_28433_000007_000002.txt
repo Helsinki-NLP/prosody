@@ -1,7 +1,0 @@
-Of	0	0
-these	1	1
-thirty	1	0
-five	2	2
-were	0	0
-women	1	2
-.	NA	NA

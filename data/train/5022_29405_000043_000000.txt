@@ -1,6 +1,0 @@
-Cristel	2	0
-picked	0	0
-up	0	1
-the	0	0
-book	2	2
-.	NA	NA

@@ -1,8 +1,0 @@
-Did	1	0
-God	1	0
-make	1	0
-me	0	1
-sleep	1	0
-,	NA	NA
-Helen	2	2
-?	NA	NA

@@ -1,8 +1,0 @@
-She	1	0
-nodded	1	2
-,	NA	NA
-but	2	0
-did	0	0
-not	0	1
-reply	1	2
-.	NA	NA

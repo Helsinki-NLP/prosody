@@ -1,9 +1,0 @@
-But	0	0
-my	2	0
-husband	0	1
-prefers	1	0
-this	0	1
-style	2	0
-of	0	1
-building	2	2
-.	NA	NA

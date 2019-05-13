@@ -1,3 +1,0 @@
-A	0	1
-sailor	2	2
-.	NA	NA

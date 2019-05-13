@@ -1,5 +1,0 @@
-Perhaps	1	0
-she	0	0
-needs	0	1
-help	2	2
-.	NA	NA

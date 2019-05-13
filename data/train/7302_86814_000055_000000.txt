@@ -1,7 +1,0 @@
-Oh	2	0
-,	NA	NA
-these	0	0
-are	0	1
-fine	1	0
-words	2	2
-.	NA	NA

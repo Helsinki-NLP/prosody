@@ -1,6 +1,0 @@
-Possession	0	0
-alone	2	1
-produced	0	0
-all	1	0
-that	1	2
-.	NA	NA

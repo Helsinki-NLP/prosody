@@ -1,5 +1,0 @@
-'These	2	0
-Jews	0	0
-are	0	1
-dangerous	1	2
-.	NA	NA

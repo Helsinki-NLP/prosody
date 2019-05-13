@@ -1,6 +1,0 @@
-What	2	1
-are	0	0
-you	0	0
-talking	2	0
-about	1	2
-?	NA	NA

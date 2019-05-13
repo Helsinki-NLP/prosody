@@ -1,7 +1,0 @@
-You	1	0
-are	0	0
-not	1	1
-telling	2	1
-the	0	0
-truth	2	2
-.	NA	NA

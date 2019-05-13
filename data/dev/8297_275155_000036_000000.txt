@@ -1,7 +1,0 @@
-That	2	0
-will	1	1
-do	1	0
-,	0	1
-mrs	2	2
-Presty	NA	NA
-.	NA	NA

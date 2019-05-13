@@ -1,3 +1,0 @@
-Number	0	0
-ten	2	2
-.	NA	NA

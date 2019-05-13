@@ -1,7 +1,0 @@
-The	0	0
-cold	0	0
-she	1	1
-felt	2	1
-refreshed	2	0
-her	1	2
-.	NA	NA

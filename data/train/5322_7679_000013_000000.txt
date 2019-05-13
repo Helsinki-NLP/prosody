@@ -1,4 +1,0 @@
-'I	0	0
-can't	2	2
-.	NA	NA
-'	NA	NA

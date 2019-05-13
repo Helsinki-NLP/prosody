@@ -1,4 +1,0 @@
-It	1	0
-is	0	1
-disgraceful	2	2
-!	NA	NA

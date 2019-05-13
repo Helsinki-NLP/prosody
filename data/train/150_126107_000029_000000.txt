@@ -1,8 +1,0 @@
-Is	0	0
-that	1	0
-what	0	0
-you	0	1
-call	2	2
-FALLING	1	0
-IN	1	2
-?	NA	NA

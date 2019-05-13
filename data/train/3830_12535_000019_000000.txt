@@ -1,7 +1,0 @@
-Rejoicing	2	1
-and	0	0
-outbursts	1	0
-of	0	1
-grief	0	0
-followed	1	2
-.	NA	NA

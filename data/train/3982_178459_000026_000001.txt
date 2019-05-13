@@ -1,4 +1,0 @@
-You	0	0
-do	0	1
-not	2	2
-.	NA	NA

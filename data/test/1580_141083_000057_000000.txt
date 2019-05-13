@@ -1,4 +1,0 @@
-To	0	1
-my	0	0
-bedroom	2	2
-.	NA	NA

@@ -1,3 +1,0 @@
-Wretched	0	1
-fare	2	2
-!	NA	NA

@@ -1,5 +1,0 @@
-With	0	1
-all	2	0
-my	0	0
-heart	1	2
-!	NA	NA

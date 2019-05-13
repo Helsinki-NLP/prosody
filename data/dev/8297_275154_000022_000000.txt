@@ -1,9 +1,0 @@
-Don't	2	1
-be	0	0
-hard	2	0
-on	0	1
-me	0	0
-,	NA	NA
-he	0	0
-said	2	2
-.	NA	NA

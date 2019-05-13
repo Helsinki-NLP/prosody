@@ -1,7 +1,0 @@
-Her	0	0
-head	2	0
-was	0	1
-bowed	2	0
-in	0	1
-humiliation	1	2
-.	NA	NA

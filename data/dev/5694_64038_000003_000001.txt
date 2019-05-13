@@ -1,4 +1,0 @@
-We	1	0
-flanked	2	1
-it	0	2
-.	NA	NA

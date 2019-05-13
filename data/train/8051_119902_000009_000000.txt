@@ -1,7 +1,0 @@
-The	0	0
-bakers	1	0
-have	0	1
-co	1	1
-operated	0	0
-loyally	2	2
-.	NA	NA

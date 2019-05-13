@@ -1,9 +1,0 @@
-'Fanny	2	2
-,	NA	NA
-don't	2	1
-speak	1	0
-so	1	0
-of	0	0
-your	0	1
-brother	2	2
-.	NA	NA

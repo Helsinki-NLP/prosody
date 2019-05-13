@@ -1,8 +1,0 @@
-Annabel	0	0
-says	0	0
-you	0	2
-worry	2	0
-her	0	0
-into	0	1
-learning	1	2
-.	NA	NA

@@ -1,4 +1,0 @@
-That's	1	1
-game	0	0
-ball	2	2
-.	NA	NA

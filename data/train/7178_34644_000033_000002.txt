@@ -1,6 +1,0 @@
-And	0	0
-we	0	1
-attach	2	0
-our	0	1
-signatures	1	2
-.	NA	NA

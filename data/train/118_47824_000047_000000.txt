@@ -1,8 +1,0 @@
-He	0	0
-surveyed	2	1
-the	0	0
-remains	1	0
-of	0	1
-Bobby's	2	0
-breakfast	1	2
-.	NA	NA

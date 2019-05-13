@@ -1,6 +1,0 @@
-But	1	0
-we	0	1
-sail	2	0
-on	0	1
-Tuesday	1	2
-.	NA	NA

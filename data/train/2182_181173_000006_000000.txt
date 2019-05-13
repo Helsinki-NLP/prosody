@@ -1,8 +1,0 @@
-The	0	0
-interview	1	0
-with	0	1
-Dick	2	0
-was	0	1
-quite	2	1
-exciting	2	2
-.	NA	NA

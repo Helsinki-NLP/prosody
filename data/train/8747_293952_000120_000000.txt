@@ -1,5 +1,0 @@
-I	0	0
-lived	1	0
-with	0	1
-grandmother	1	2
-.	NA	NA

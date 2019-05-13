@@ -1,3 +1,0 @@
-FATHOM	1	1
-six	0	0
-feet	2	2

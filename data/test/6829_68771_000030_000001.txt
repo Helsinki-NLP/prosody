@@ -1,9 +1,0 @@
-Then	2	0
-she	0	0
-gave	0	1
-a	0	0
-little	0	0
-laugh	1	1
-,	NA	NA
-and	0	1
-replied	2	2

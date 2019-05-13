@@ -1,6 +1,0 @@
-I	2	0
-allude	2	0
-to	0	1
-the	0	0
-goddess	2	2
-.	NA	NA

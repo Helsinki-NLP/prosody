@@ -1,5 +1,0 @@
-I	1	0
-looked	0	1
-everywhere	0	0
-about	2	2
-.	NA	NA

@@ -1,4 +1,0 @@
-Miss	0	0
-Corny	1	1
-paused	2	2
-.	NA	NA

@@ -1,9 +1,0 @@
-Don't	0	1
-be	0	0
-afraid	1	0
-,	NA	NA
-Redcoat	1	2
-,	NA	NA
-he	0	0
-whispered	1	2
-.	NA	NA

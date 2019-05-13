@@ -1,5 +1,0 @@
-I	0	0
-shall	0	0
-go	0	1
-anyway	2	2
-.	NA	NA

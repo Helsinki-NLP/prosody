@@ -1,5 +1,0 @@
-Lou's	2	0
-wife	0	1
-needn't	0	0
-talk	1	2
-.	NA	NA

@@ -1,9 +1,0 @@
-Be	2	0
-you	0	1
-going	1	1
-to	0	0
-stop	2	0
-with	0	1
-they	0	0
-Wilsons	2	2
-?	NA	NA

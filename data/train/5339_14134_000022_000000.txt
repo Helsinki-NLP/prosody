@@ -1,4 +1,0 @@
-Hester	1	0
-said	0	0
-nothing	2	2
-.	NA	NA

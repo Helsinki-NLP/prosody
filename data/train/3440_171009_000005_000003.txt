@@ -1,5 +1,0 @@
-I'm	1	0
-sure	0	0
-I	1	0
-am	1	2
-.	NA	NA

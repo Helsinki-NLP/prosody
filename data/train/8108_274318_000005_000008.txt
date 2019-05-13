@@ -1,9 +1,0 @@
-The	0	0
-very	2	0
-foundations	1	0
-of	0	1
-his	0	0
-strength	1	1
-were	0	0
-shaken	1	2
-.	NA	NA

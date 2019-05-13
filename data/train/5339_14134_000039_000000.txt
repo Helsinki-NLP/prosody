@@ -1,9 +1,0 @@
-She	2	0
-hastily	1	0
-got	0	0
-up	1	2
-and	1	0
-left	0	1
-the	0	0
-room	1	2
-.	NA	NA

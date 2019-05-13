@@ -1,5 +1,0 @@
-Hers	2	0
-has	0	1
-been	0	1
-prodigious	1	2
-.	NA	NA

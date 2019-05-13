@@ -1,9 +1,0 @@
-In	1	0
-the	0	0
-winter	2	2
-they	1	0
-live	2	1
-mostly	1	0
-on	0	1
-roots	1	2
-.	NA	NA
