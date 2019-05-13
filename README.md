@@ -61,7 +61,7 @@ Atlas 2 2
 
 
 | Model             | Epochs  | Test acc (incl punctuation) |Test acc (no punctuation) |
-| ---               | ---     | ---                         |                          |
+| ---               | ---     | ---                         | ---                      |
 | BERT-base uncased | 2       | 72.49%                      |                          |
 | BERT-base cased   | 2       |                             |                          |
 | Minitagger        |         | 69.80%                      | 65.60%                   |
