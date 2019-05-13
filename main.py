@@ -1,4 +1,5 @@
 import os
+import sys
 import errno
 import numpy as np
 import random
@@ -213,7 +214,7 @@ def train(model, iterator, optimizer, criterion, device, config):
         logits, y, _ = model(x, y) # logits: (N, T, VOCAB), y: (N, T)
 
         if config.model == 'Regression':
-            loss = criterion(logits, y)
+            loss = criterion(logits, y.float())
         else:
             logits = logits.view(-1, logits.shape[-1]) # (N*T, VOCAB)
             y = y.view(-1)  # (N*T,)
@@ -238,10 +239,14 @@ def valid(model, iterator, criterion, tag_to_index, index_to_tag, device, config
             x = x.to(device)
             y = y.to(device)
             logits, labels, y_hat = model(x, y)  # y_hat: (N, T)
-            logits = logits.view(-1, logits.shape[-1])  # (N*T, VOCAB)
-            labels = labels.view(-1)  # (N*T,)
 
-            loss = criterion(logits.to(device), labels.to(device))
+            if config.model == 'Regression':
+                loss = criterion(logits, labels.float())
+            else:
+                logits = logits.view(-1, logits.shape[-1])  # (N*T, VOCAB)
+                labels = labels.view(-1)  # (N*T,)
+                loss = criterion(logits.to(device), labels.to(device))
+
             dev_losses.append(loss.item())
 
             Words.extend(words)
@@ -285,10 +290,14 @@ def test(model, iterator, criterion, tag_to_index, index_to_tag, device, config)
             x = x.to(device)
             y = y.to(device)
             logits, labels, y_hat = model(x, y)  # y_hat: (N, T)
-            logits = logits.view(-1, logits.shape[-1])  # (N*T, VOCAB)
-            labels = labels.view(-1)  # (N*T,)
 
-            loss = criterion(logits, labels)
+            if config.model == 'Regression':
+                loss = criterion(logits, labels.float())
+            else:
+                logits = logits.view(-1, logits.shape[-1])  # (N*T, VOCAB)
+                labels = labels.view(-1)  # (N*T,)
+                loss = criterion(logits, labels)
+
             test_losses.append(loss.item())
 
             Words.extend(words)

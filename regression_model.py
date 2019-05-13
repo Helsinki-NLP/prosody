@@ -31,4 +31,4 @@ class RegressionModel(nn.Module):
                 enc = encoded_layers[-1]
 
         out = self.fc(enc).squeeze()
-        return out, y.type(torch.FloatTensor), out
+        return out, y, out
