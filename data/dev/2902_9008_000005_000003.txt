@@ -1,0 +1,5 @@
+The	0	1
+alcoves	2	1
+are	0	0
+silent	1	2
+.	NA	NA

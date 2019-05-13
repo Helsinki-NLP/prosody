@@ -1,0 +1,11 @@
+In	0	0
+about	2	0
+an	0	1
+hour	1	0
+and	0	1
+three	0	0
+quarters	1	1
+the	0	0
+boy	2	0
+returned	1	2
+.	NA	NA

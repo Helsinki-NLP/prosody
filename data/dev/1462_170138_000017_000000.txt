@@ -1,0 +1,5 @@
+Mainhall	2	1
+cut	0	0
+in	0	1
+impatiently	1	2
+.	NA	NA

@@ -1,0 +1,10 @@
+Governor	2	0
+Robinson	1	0
+and	0	2
+Colonel	0	0
+Lane	1	1
+were	0	0
+appointed	1	1
+to	0	0
+command	1	2
+.	NA	NA

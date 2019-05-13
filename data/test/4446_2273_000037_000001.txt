@@ -1,0 +1,13 @@
+Well	2	1
+,	NA	NA
+we	0	0
+are	0	1
+neither	1	0
+of	0	0
+us	0	1
+twenty	1	1
+now	2	0
+,	NA	NA
+you	0	1
+know	1	2
+.	NA	NA

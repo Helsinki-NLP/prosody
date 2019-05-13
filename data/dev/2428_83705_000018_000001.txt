@@ -1,0 +1,6 @@
+The	0	0
+woman's	1	0
+name	0	0
+is	0	1
+Brady	2	2
+.	NA	NA

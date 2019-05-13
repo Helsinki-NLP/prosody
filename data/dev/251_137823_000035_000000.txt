@@ -1,0 +1,5 @@
+Right	2	1
+!	NA	NA
+Bud	1	0
+responded	0	2
+.	NA	NA

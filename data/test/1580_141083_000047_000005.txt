@@ -1,0 +1,10 @@
+Of	2	0
+course	2	1
+,	NA	NA
+what	0	0
+has	0	0
+happened	1	0
+is	0	1
+very	0	0
+clear	2	2
+.	NA	NA

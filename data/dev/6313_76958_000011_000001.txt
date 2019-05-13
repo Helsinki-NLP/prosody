@@ -1,0 +1,7 @@
+Why	1	0
+not	1	1
+?	NA	NA
+demanded	1	1
+the	0	0
+boy	2	2
+.	NA	NA

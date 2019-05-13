@@ -1,0 +1,6 @@
+More's	2	0
+the	0	1
+pity	1	0
+,	NA	NA
+then	2	2
+.	NA	NA

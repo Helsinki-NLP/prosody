@@ -1,0 +1,12 @@
+But	0	0
+that	2	1
+does	0	0
+not	0	1
+remain	1	0
+the	0	1
+sole	2	1
+purpose	1	1
+of	0	0
+their	0	0
+consumption	2	2
+.	NA	NA

@@ -1,0 +1,4 @@
+'Very	1	0
+wise	0	1
+exactly	2	2
+.	NA	NA

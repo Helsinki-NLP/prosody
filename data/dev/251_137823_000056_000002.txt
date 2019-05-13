@@ -1,0 +1,14 @@
+I	2	0
+was	0	0
+all	1	0
+set	2	2
+for	0	0
+Sandy's	1	1
+cool	1	0
+soothing	0	1
+touch	2	0
+on	0	0
+my	0	1
+fevered	0	1
+brow	2	2
+!	NA	NA

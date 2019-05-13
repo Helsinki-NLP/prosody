@@ -1,0 +1,5 @@
+I	0	0
+gasped	2	1
+positively	2	0
+gasped	1	2
+.	NA	NA

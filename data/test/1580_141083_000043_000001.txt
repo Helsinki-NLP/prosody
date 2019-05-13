@@ -1,0 +1,17 @@
+Well	2	0
+,	NA	NA
+if	0	1
+there	1	0
+is	0	1
+nothing	1	0
+to	0	1
+be	0	0
+learned	1	1
+here	1	1
+,	NA	NA
+we	0	0
+had	0	0
+best	1	0
+go	0	1
+inside	2	2
+.	NA	NA

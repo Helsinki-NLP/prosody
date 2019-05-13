@@ -1,0 +1,16 @@
+The	0	0
+snow	2	0
+did	0	1
+not	0	0
+stop	1	1
+falling	1	0
+all	0	1
+day	2	2
+,	NA	NA
+or	1	0
+during	0	1
+the	0	0
+night	2	0
+that	0	1
+followed	2	2
+.	NA	NA

@@ -1,0 +1,11 @@
+I	0	0
+had	1	0
+rather	0	0
+not	1	1
+disturb	2	0
+him	0	1
+while	0	0
+he	0	0
+is	0	1
+quiet	2	2
+.	NA	NA

@@ -1,0 +1,6 @@
+What	2	1
+,	NA	NA
+a	0	0
+ferry	0	0
+boat	2	2
+!	NA	NA

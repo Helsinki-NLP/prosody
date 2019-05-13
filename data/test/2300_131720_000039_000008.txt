@@ -1,0 +1,8 @@
+The	1	0
+station	2	0
+had	1	1
+neither	0	0
+voltmeter	0	1
+nor	0	0
+ammeter	2	2
+.	NA	NA

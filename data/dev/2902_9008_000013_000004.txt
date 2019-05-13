@@ -1,0 +1,3 @@
+It	0	1
+grows	2	2
+!	NA	NA

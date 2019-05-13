@@ -1,0 +1,8 @@
+What	0	1
+kind	1	0
+of	0	0
+a	0	1
+part	2	0
+is	0	0
+it	1	2
+?	NA	NA

@@ -1,0 +1,4 @@
+She	0	0
+sighed	1	1
+despondently	1	2
+.	NA	NA

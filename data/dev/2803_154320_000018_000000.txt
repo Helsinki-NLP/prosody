@@ -1,0 +1,6 @@
+Poor	2	1
+girls	1	1
+!	NA	NA
+murmured	1	0
+Glenarvan	1	2
+.	NA	NA

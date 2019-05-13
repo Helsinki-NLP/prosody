@@ -1,0 +1,16 @@
+Always	2	0
+this	0	1
+tying	1	0
+up	0	0
+and	0	1
+restraint	2	2
+!	NA	NA
+pursued	2	0
+the	0	0
+Wind	0	0
+,	NA	NA
+with	0	0
+an	0	0
+angry	0	0
+puff	1	2
+.	NA	NA

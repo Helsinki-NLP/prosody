@@ -1,0 +1,16 @@
+Why	1	0
+not	2	1
+,	NA	NA
+among	0	0
+a	0	0
+people	0	0
+whose	0	1
+God	2	0
+is	0	2
+the	0	0
+crucified	0	0
+son	2	0
+of	0	0
+a	0	1
+carpenter	2	2
+?	NA	NA

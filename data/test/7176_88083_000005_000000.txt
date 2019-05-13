@@ -1,0 +1,16 @@
+For	0	0
+all	2	0
+the	0	1
+splendor	1	0
+of	0	0
+his	0	1
+plumage	1	2
+,	NA	NA
+the	0	0
+merganser	2	1
+was	0	0
+not	2	1
+conspicuous	2	1
+where	1	0
+he	0	0
+sat	2	2

@@ -1,0 +1,4 @@
+He's	0	0
+too	0	1
+weak	2	2
+.	NA	NA

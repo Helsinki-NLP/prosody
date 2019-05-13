@@ -1,0 +1,16 @@
+Overcome	1	0
+as	0	1
+they	0	0
+were	2	0
+with	0	1
+horror	2	0
+and	0	1
+fatigue	1	2
+,	NA	NA
+they	2	0
+took	0	0
+their	0	0
+last	2	1
+meal	0	1
+together	2	2
+.	NA	NA

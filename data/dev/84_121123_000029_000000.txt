@@ -1,0 +1,12 @@
+Do	0	0
+you	0	0
+wish	1	0
+me	0	1
+to	0	0
+leave	2	2
+?	NA	NA
+said	2	0
+Morrel	0	0
+,	NA	NA
+sadly	1	2
+.	NA	NA

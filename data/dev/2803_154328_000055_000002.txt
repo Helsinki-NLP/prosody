@@ -1,0 +1,4 @@
+Let	1	0
+us	0	1
+go	2	2
+.	NA	NA

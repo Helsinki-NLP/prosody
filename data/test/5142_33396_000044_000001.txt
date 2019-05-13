@@ -1,0 +1,7 @@
+At	0	1
+last	2	1
+I	0	0
+stood	1	0
+up	0	0
+and	0	1
+said	2	2

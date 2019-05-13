@@ -1,0 +1,6 @@
+Got	1	0
+a	0	1
+job	1	1
+for	2	0
+us	1	2
+?	NA	NA

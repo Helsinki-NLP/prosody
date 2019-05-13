@@ -1,0 +1,9 @@
+The	0	1
+fairies	2	1
+now	0	0
+began	0	1
+to	0	0
+endow	1	0
+the	0	1
+princess	1	2
+.	NA	NA

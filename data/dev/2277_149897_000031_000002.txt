@@ -1,0 +1,9 @@
+Nothing	2	0
+from	0	1
+his	0	0
+wife	2	1
+,	NA	NA
+which	0	1
+was	0	0
+pleasant	2	2
+.	NA	NA

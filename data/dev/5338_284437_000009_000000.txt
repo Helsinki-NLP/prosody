@@ -1,0 +1,11 @@
+I	2	1
+thought	2	0
+it	0	0
+would	0	2
+be	0	0
+better	2	1
+,	NA	NA
+said	0	0
+the	0	0
+girl	1	2
+.	NA	NA

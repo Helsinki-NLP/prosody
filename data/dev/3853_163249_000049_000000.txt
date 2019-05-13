@@ -1,0 +1,10 @@
+She	0	0
+put	2	1
+her	0	0
+arm	1	0
+in	0	1
+his	2	1
+,	NA	NA
+and	0	0
+answered	0	1
+quickly	1	2

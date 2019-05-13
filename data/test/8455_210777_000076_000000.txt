@@ -1,0 +1,10 @@
+They	1	0
+,	NA	NA
+of	0	1
+course	2	2
+,	NA	NA
+must	1	0
+all	2	1
+be	0	0
+altered	1	2
+.	NA	NA

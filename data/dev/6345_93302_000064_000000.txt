@@ -1,0 +1,8 @@
+Forgive	2	0
+me	0	1
+,	NA	NA
+dear	1	0
+,	NA	NA
+he	0	1
+said	2	2
+.	NA	NA

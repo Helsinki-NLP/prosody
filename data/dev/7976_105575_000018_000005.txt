@@ -1,0 +1,10 @@
+Sherman	2	0
+had	0	2
+saved	2	0
+the	0	1
+Union	1	0
+army	0	0
+from	0	1
+destruction	1	0
+there	1	2
+.	NA	NA

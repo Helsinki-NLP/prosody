@@ -1,0 +1,15 @@
+Not	2	0
+one	0	0
+of	0	0
+us	0	1
+knew	1	0
+where	0	1
+Balbi	2	1
+wanted	1	1
+to	0	0
+take	2	0
+the	0	2
+three	0	0
+poor	1	0
+devils	2	2
+.	NA	NA

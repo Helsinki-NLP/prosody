@@ -1,0 +1,9 @@
+You're	0	0
+getting	2	0
+altogether	1	1
+too	1	0
+upset	1	0
+about	1	1
+these	0	0
+programs	2	2
+.	NA	NA

@@ -1,0 +1,10 @@
+He	0	0
+exhibited	2	0
+a	0	1
+daguerreotype	2	0
+miniature	1	2
+in	0	0
+a	0	0
+morocco	2	0
+case	1	2
+.	NA	NA

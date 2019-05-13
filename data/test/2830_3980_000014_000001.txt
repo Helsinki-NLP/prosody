@@ -1,0 +1,9 @@
+Just	1	0
+for	0	0
+that	1	2
+the	0	0
+world	1	1
+abhors	2	1
+the	0	0
+Gospel	1	2
+.	NA	NA

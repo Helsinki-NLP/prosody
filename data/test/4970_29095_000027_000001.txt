@@ -1,0 +1,5 @@
+It	0	0
+was	0	0
+out	2	1
+now	1	2
+.	NA	NA

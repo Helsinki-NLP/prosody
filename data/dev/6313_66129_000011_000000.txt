@@ -1,0 +1,10 @@
+Not	2	0
+enough	0	1
+to	0	0
+give	0	0
+us	0	1
+indigestion	2	0
+,	NA	NA
+answered	0	1
+Ned	2	2
+.	NA	NA

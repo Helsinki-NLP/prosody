@@ -1,0 +1,4 @@
+Their	0	0
+eyes	1	1
+danced	1	2
+.	NA	NA

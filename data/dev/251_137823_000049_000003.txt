@@ -1,0 +1,12 @@
+He	0	0
+also	2	0
+called	1	0
+home	2	2
+and	0	0
+spoke	1	1
+to	0	0
+his	0	0
+sister	1	1
+,	NA	NA
+Sandra	2	2
+.	NA	NA

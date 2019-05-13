@@ -1,0 +1,7 @@
+To	0	1
+this	2	1
+his	0	0
+answer	2	0
+was	0	1
+prompt	2	2
+.	NA	NA

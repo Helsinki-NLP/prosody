@@ -1,0 +1,11 @@
+Myself	2	2
+,	NA	NA
+I	2	0
+always	0	1
+knew	0	0
+she	0	0
+had	0	0
+it	0	0
+in	0	0
+her	1	2
+.	NA	NA

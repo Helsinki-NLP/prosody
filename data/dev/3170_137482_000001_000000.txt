@@ -1,0 +1,14 @@
+I	0	0
+Turn	0	0
+Out	1	1
+A	0	0
+Worthless	0	0
+Fellow	2	2
+My	1	0
+Good	0	0
+Fortune	2	2
+I	0	0
+Become	2	2
+A	1	0
+Rich	0	0
+Nobleman	1	2

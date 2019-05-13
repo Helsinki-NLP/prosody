@@ -1,0 +1,17 @@
+She	0	1
+started	2	2
+thinking	2	1
+of	0	0
+cotton	2	2
+but	2	0
+at	0	0
+once	1	1
+she	0	0
+pulled	1	0
+herself	0	1
+back	2	1
+to	0	0
+the	0	0
+other	0	0
+aspect	1	2
+.	NA	NA

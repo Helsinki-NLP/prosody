@@ -1,0 +1,5 @@
+Here	2	1
+,	NA	NA
+take	1	0
+it	0	2
+.	NA	NA

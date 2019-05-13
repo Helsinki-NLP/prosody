@@ -1,0 +1,7 @@
+You	0	0
+have	0	1
+traveled	2	1
+,	NA	NA
+you	0	0
+say	2	2
+.	NA	NA

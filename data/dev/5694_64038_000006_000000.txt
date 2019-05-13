@@ -1,0 +1,7 @@
+Yank	0	0
+says	1	2
+,	NA	NA
+Bully	2	1
+for	0	0
+you	0	2
+!	NA	NA

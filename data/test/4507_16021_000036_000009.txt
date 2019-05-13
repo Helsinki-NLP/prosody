@@ -1,0 +1,13 @@
+As	2	0
+for	0	0
+the	0	1
+rest	2	0
+of	0	1
+mankind	1	1
+,	NA	NA
+stagnating	2	0
+night	1	1
+rests	2	1
+upon	0	0
+them	1	2
+.	NA	NA

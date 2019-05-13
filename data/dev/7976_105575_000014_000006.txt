@@ -1,0 +1,17 @@
+We	0	0
+looked	2	1
+for	0	0
+it	0	1
+against	1	1
+our	0	0
+own	0	0
+division	1	2
+,	NA	NA
+as	1	0
+we	0	0
+lay	1	0
+in	0	0
+the	0	1
+grass	1	1
+waiting	1	2
+.	NA	NA

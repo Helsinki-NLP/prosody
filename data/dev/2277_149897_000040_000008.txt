@@ -1,0 +1,13 @@
+Come	2	0
+what	0	0
+might	1	2
+,	NA	NA
+he	0	0
+would	0	0
+adjust	2	1
+this	1	0
+matter	1	0
+,	NA	NA
+and	0	1
+soon	2	2
+.	NA	NA

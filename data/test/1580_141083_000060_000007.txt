@@ -1,0 +1,7 @@
+No	0	0
+one	0	0
+there	1	0
+,	NA	NA
+I	0	2
+suppose	1	2
+?	NA	NA

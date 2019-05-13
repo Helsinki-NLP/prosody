@@ -1,0 +1,15 @@
+But	0	0
+,	NA	NA
+on	1	0
+the	0	0
+whole	2	2
+,	NA	NA
+we	0	0
+are	1	0
+a	0	1
+prosperous	1	1
+and	0	0
+well	1	0
+satisfied	1	0
+people	0	2
+.	NA	NA

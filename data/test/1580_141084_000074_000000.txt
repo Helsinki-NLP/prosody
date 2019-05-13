@@ -1,0 +1,16 @@
+For	2	0
+a	0	0
+moment	0	1
+Gilchrist	1	2
+,	NA	NA
+with	0	0
+upraised	2	0
+hand	0	1
+,	NA	NA
+tried	1	0
+to	0	1
+control	2	1
+his	0	0
+writhing	1	1
+features	2	2
+.	NA	NA

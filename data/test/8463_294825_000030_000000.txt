@@ -1,0 +1,17 @@
+Because	2	1
+,	NA	NA
+as	1	0
+that	0	0
+Time	1	0
+cover	0	0
+story	0	1
+suggests	2	2
+,	NA	NA
+we	0	0
+still	2	0
+haven't	0	1
+caught	0	0
+up	1	0
+with	0	1
+Verne	2	2
+.	NA	NA

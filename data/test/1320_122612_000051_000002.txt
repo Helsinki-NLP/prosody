@@ -1,0 +1,5 @@
+Fire	1	0
+on	0	1
+no	1	1
+account	2	2
+.	NA	NA

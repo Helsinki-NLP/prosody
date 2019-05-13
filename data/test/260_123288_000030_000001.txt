@@ -1,0 +1,16 @@
+I	0	0
+refer	1	0
+to	0	0
+the	0	1
+thermometer	1	1
+;	NA	NA
+it	1	0
+indicates	1	2
+.	NA	NA
+.	NA	NA
+.	NA	NA
+the	0	0
+figure	1	0
+is	0	0
+obliterated	1	2
+.	NA	NA

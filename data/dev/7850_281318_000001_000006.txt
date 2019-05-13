@@ -1,0 +1,16 @@
+Indeed	2	2
+,	NA	NA
+it	1	0
+is	0	0
+not	2	1
+a	0	0
+nest	1	1
+at	0	0
+all	2	2
+,	NA	NA
+only	2	0
+the	0	0
+beginning	1	0
+of	0	1
+one	1	2
+.	NA	NA

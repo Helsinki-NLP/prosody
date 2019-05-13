@@ -1,0 +1,5 @@
+Peanuts	2	1
+,	NA	NA
+Bles	1	0
+specified	1	2
+.	NA	NA

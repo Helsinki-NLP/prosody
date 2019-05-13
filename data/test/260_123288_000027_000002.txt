@@ -1,0 +1,11 @@
+Suppose	2	0
+that	0	1
+solid	2	0
+roof	0	1
+should	0	0
+crumble	0	0
+down	1	1
+upon	0	0
+our	0	0
+heads	2	2
+!	NA	NA

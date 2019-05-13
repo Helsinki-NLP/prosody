@@ -1,0 +1,12 @@
+In	0	0
+that	2	1
+case	2	0
+,	NA	NA
+you	0	2
+can	0	0
+give	0	0
+us	1	0
+no	0	1
+further	1	0
+information	1	2
+.	NA	NA

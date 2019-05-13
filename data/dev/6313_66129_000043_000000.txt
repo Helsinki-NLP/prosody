@@ -1,0 +1,8 @@
+This	1	0
+announcement	1	0
+filled	1	1
+the	0	0
+boys	2	0
+with	0	0
+excitement	2	2
+.	NA	NA

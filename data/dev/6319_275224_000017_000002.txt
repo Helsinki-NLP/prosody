@@ -1,0 +1,10 @@
+Indeed	2	2
+,	NA	NA
+not	1	0
+a	0	0
+flower	2	0
+escaped	0	1
+his	0	0
+mischievous	0	0
+suggestions	2	2
+.	NA	NA

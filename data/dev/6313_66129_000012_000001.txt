@@ -1,0 +1,5 @@
+Didn't	1	1
+you	0	0
+find	1	1
+it	2	2
+?	NA	NA

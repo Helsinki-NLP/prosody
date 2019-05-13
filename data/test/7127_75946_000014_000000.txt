@@ -1,0 +1,10 @@
+Sire	2	1
+,	NA	NA
+they	0	0
+were	0	0
+sent	2	0
+at	0	1
+the	0	0
+hour	0	1
+promised	2	2
+.	NA	NA

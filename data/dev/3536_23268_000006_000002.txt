@@ -1,0 +1,5 @@
+Her	0	0
+guardian	2	0
+looked	0	1
+astonished	2	2
+.	NA	NA

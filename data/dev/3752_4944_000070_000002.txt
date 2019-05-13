@@ -1,0 +1,14 @@
+Ah	2	2
+!	NA	NA
+Doctor	2	0
+,	NA	NA
+we	0	0
+all	0	0
+have	0	0
+our	0	1
+crosses	1	0
+,	NA	NA
+have	0	1
+we	0	0
+not	2	2
+?	NA	NA

@@ -1,0 +1,13 @@
+He'll	1	0
+get	0	0
+the	0	1
+child	2	1
+fast	2	1
+enough	0	0
+if	0	0
+he'll	0	0
+go	1	0
+before	0	0
+the	0	1
+court	2	2
+.	NA	NA

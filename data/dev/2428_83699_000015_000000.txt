@@ -1,0 +1,6 @@
+It	1	0
+was	1	0
+a	0	1
+horrible	2	1
+journey	1	2
+.	NA	NA

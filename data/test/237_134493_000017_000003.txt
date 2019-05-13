@@ -1,0 +1,14 @@
+Indeed	2	1
+,	NA	NA
+he	0	0
+had	1	0
+looked	1	1
+away	2	0
+with	0	1
+the	0	0
+purpose	2	1
+of	0	0
+not	2	1
+seeing	0	0
+it	0	2
+.	NA	NA

@@ -1,0 +1,7 @@
+These	0	0
+lines	2	1
+set	1	0
+Randal	0	1
+thinking	0	1
+seriously	2	2
+.	NA	NA

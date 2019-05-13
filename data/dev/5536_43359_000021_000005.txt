@@ -1,0 +1,16 @@
+His	0	0
+mate	2	0
+may	0	1
+precede	0	0
+or	0	1
+follow	2	0
+him	0	0
+in	0	0
+his	0	1
+devotions	2	1
+,	NA	NA
+but	0	0
+never	1	0
+accompanies	1	0
+him	1	2
+.	NA	NA

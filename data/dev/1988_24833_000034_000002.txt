@@ -1,0 +1,8 @@
+There'll	0	0
+be	0	0
+another	1	0
+western	2	1
+on	1	1
+tomorrow	0	0
+night	2	2
+.	NA	NA

@@ -1,0 +1,17 @@
+What	2	0
+a	0	0
+pity	2	2
+,	NA	NA
+that	2	0
+instead	0	0
+of	0	0
+a	0	0
+princess	1	0
+in	0	0
+distress	2	2
+we	0	0
+meet	1	0
+only	0	0
+a	0	0
+nurserymaid	1	2
+!	NA	NA

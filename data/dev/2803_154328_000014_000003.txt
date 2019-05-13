@@ -1,0 +1,12 @@
+Let	1	0
+us	0	1
+attack	2	1
+these	0	0
+wretches	1	1
+!	NA	NA
+'	NA	NA
+But	2	1
+with	0	0
+these	0	0
+poor	2	1
+girls	2	2

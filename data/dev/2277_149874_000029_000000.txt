@@ -1,0 +1,12 @@
+She	0	0
+troubled	2	1
+herself	1	1
+over	0	0
+what	1	0
+else	2	1
+to	0	0
+put	1	0
+in	0	0
+the	0	0
+letter	2	2
+.	NA	NA

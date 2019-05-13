@@ -1,0 +1,6 @@
+Suddenly	2	2
+Tom	2	0
+stiffened	0	1
+in	0	0
+fear	2	2
+.	NA	NA

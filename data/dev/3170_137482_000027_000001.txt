@@ -1,0 +1,17 @@
+In	0	0
+taking	2	1
+his	0	0
+handkerchief	0	1
+out	1	0
+of	0	1
+his	0	0
+pocket	2	2
+he	0	0
+let	2	1
+a	0	0
+letter	2	2
+drop	2	0
+on	0	0
+the	0	1
+ground	2	2
+.	NA	NA

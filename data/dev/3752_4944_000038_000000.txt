@@ -1,0 +1,8 @@
+No	2	0
+,	NA	NA
+no	0	2
+,	NA	NA
+it	1	0
+will	0	0
+pass	0	2
+.	NA	NA

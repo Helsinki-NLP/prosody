@@ -1,0 +1,7 @@
+KILOMETER	2	1
+Roughly	1	0
+six	0	0
+tenths	1	1
+of	0	0
+a	0	0
+mile	2	2

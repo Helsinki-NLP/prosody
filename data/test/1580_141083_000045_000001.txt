@@ -1,0 +1,12 @@
+One	2	0
+could	0	1
+hardly	2	1
+hope	2	2
+for	0	0
+any	0	0
+upon	1	1
+so	0	0
+dry	1	0
+a	0	1
+day	2	2
+.	NA	NA

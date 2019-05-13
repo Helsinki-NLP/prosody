@@ -1,0 +1,12 @@
+So	0	0
+o	1	1
+k	2	2
+,	NA	NA
+go	1	0
+ahead	2	0
+,	NA	NA
+you	0	1
+can	0	0
+finish	1	0
+it	0	2
+.	NA	NA

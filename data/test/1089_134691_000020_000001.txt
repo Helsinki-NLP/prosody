@@ -1,0 +1,3 @@
+Duck	1	0
+him	1	2
+!	NA	NA

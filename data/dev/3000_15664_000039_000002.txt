@@ -1,0 +1,15 @@
+Every	2	0
+landscape	0	2
+,	NA	NA
+low	2	1
+and	0	0
+high	2	2
+,	NA	NA
+seems	1	0
+doomed	0	0
+to	0	0
+be	0	0
+trampled	0	1
+and	0	0
+harried	2	2
+.	NA	NA

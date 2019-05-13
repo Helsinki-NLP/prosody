@@ -1,0 +1,10 @@
+You	0	0
+were	0	0
+wrong	2	1
+in	0	0
+all	0	0
+that	1	2
+,	NA	NA
+I	1	0
+said	2	2
+.	NA	NA

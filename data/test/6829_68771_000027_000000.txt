@@ -1,0 +1,12 @@
+The	0	0
+girl	2	0
+entered	1	2
+,	NA	NA
+and	2	0
+gave	0	0
+an	0	1
+involuntary	1	0
+cry	0	0
+of	0	1
+surprise	2	2
+.	NA	NA

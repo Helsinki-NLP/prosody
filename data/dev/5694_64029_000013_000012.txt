@@ -1,0 +1,11 @@
+We	0	0
+had	1	0
+several	2	1
+pretty	0	0
+sharp	1	1
+brushes	2	1
+with	0	0
+them	0	0
+that	0	1
+day	2	2
+.	NA	NA

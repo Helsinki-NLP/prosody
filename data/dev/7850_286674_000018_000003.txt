@@ -1,0 +1,11 @@
+They	1	1
+thought	2	0
+he	0	1
+might	0	0
+run	0	1
+away	2	0
+when	0	1
+they	0	0
+did	0	1
+this	2	2
+.	NA	NA

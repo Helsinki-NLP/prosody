@@ -1,0 +1,7 @@
+Well	1	0
+,	NA	NA
+ma'm	0	0
+,	NA	NA
+it's	2	1
+politics	2	2
+.	NA	NA

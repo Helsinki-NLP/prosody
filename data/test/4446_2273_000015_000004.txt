@@ -1,0 +1,8 @@
+And	0	0
+I've	0	1
+traveled	2	0
+a	0	1
+bit	0	0
+,	NA	NA
+too	2	2
+.	NA	NA

@@ -1,0 +1,13 @@
+peter	2	0
+could	0	1
+give	1	0
+no	1	0
+very	0	1
+clear	2	0
+account	0	2
+of	0	0
+his	0	0
+transactions	2	1
+with	0	0
+Cutter	2	2
+.	NA	NA

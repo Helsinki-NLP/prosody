@@ -1,0 +1,5 @@
+The	0	0
+danger	2	0
+is	0	1
+approaching	2	2
+.	NA	NA

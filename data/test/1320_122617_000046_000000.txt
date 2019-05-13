@@ -1,0 +1,9 @@
+Uncas	2	0
+will	0	1
+stay	2	2
+,	NA	NA
+was	0	0
+the	0	0
+calm	1	0
+reply	1	2
+.	NA	NA

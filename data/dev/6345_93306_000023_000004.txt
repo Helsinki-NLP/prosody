@@ -1,0 +1,8 @@
+Let	2	0
+me	0	1
+go	2	1
+thank	1	1
+you	0	0
+very	1	0
+much	1	2
+.	NA	NA

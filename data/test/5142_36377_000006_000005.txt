@@ -1,0 +1,10 @@
+But	0	0
+there	0	0
+was	1	0
+no	2	0
+marked	1	1
+character	2	1
+in	0	0
+either	0	0
+face	1	2
+.	NA	NA

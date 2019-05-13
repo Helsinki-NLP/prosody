@@ -1,0 +1,10 @@
+Have	1	0
+you	0	0
+been	0	0
+in	0	2
+Paris	2	1
+much	0	0
+these	0	0
+late	1	1
+years	2	2
+?	NA	NA

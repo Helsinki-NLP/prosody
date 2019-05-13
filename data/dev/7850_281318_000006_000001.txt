@@ -1,0 +1,6 @@
+Look	1	1
+there	2	0
+!	NA	NA
+he	0	1
+cried	1	2
+.	NA	NA

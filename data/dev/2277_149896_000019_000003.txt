@@ -1,0 +1,14 @@
+Hands	2	0
+were	0	0
+hidden	0	0
+in	0	1
+the	0	0
+pockets	2	1
+of	0	0
+the	0	0
+umbrellaless	0	1
+;	NA	NA
+umbrellas	1	2
+were	2	0
+up	0	2
+.	NA	NA

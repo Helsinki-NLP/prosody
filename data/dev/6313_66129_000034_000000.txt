@@ -1,0 +1,3 @@
+Chunky	1	1
+colored	2	2
+.	NA	NA

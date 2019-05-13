@@ -1,0 +1,9 @@
+I	2	0
+should	0	0
+like	2	0
+to	0	1
+have	0	0
+a	0	1
+glance	1	1
+round	1	2
+.	NA	NA

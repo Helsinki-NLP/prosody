@@ -1,0 +1,17 @@
+Glory	2	1
+to	0	0
+God	1	0
+in	0	0
+the	0	1
+highest	0	2
+,	NA	NA
+And	0	0
+on	0	0
+earth	2	1
+peace	0	2
+,	NA	NA
+Good	1	0
+will	2	1
+to	0	0
+men	1	2
+.	NA	NA

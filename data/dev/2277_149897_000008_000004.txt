@@ -1,0 +1,14 @@
+He	0	0
+drank	2	1
+more	2	0
+brandy	1	0
+and	0	2
+soda	2	0
+than	1	1
+he	0	0
+had	2	1
+any	1	0
+evening	0	1
+in	0	0
+months	1	2
+.	NA	NA

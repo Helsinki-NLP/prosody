@@ -1,0 +1,15 @@
+As	1	0
+they	0	0
+led	1	0
+the	0	0
+now	0	0
+famous	0	1
+animal	0	1
+from	0	0
+the	0	0
+room	1	2
+the	1	0
+Boolooroo	2	1
+shuddered	1	1
+and	0	0
+said	2	2

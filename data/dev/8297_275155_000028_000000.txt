@@ -1,0 +1,5 @@
+Exactly	2	1
+what	0	0
+I	2	0
+did	0	2
+!	NA	NA

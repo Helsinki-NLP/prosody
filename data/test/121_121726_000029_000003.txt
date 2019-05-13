@@ -1,0 +1,9 @@
+In	0	0
+Germany	1	1
+,	NA	NA
+they	1	0
+generally	1	1
+Hock	1	1
+the	0	0
+Kaiser	2	2
+.	NA	NA

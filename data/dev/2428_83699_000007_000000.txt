@@ -1,0 +1,5 @@
+That	2	0
+was	0	0
+the	0	1
+advertisement	2	2
+.	NA	NA

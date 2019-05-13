@@ -1,0 +1,11 @@
+Meanwhile	2	2
+he	0	0
+gave	1	0
+a	0	1
+thought	2	1
+now	0	0
+and	0	0
+then	0	0
+to	0	1
+Carrie	2	2
+.	NA	NA

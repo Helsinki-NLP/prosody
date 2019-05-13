@@ -1,0 +1,6 @@
+Who's	0	0
+afraid	1	2
+,	NA	NA
+answered	2	0
+he	1	2
+.	NA	NA

@@ -1,0 +1,10 @@
+Up	2	0
+at	0	1
+the	0	0
+dog	2	1
+town	0	1
+,	NA	NA
+I	0	0
+answered	0	0
+laconically	2	2
+.	NA	NA

@@ -1,0 +1,5 @@
+Her	2	0
+exultation	0	0
+was	0	1
+contagious	2	2
+.	NA	NA

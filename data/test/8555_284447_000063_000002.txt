@@ -1,0 +1,6 @@
+I'll	1	0
+have	0	0
+revenge	1	1
+!	NA	NA
+I'll	2	1
+I'll	2	2

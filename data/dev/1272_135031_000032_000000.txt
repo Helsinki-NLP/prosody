@@ -1,0 +1,10 @@
+Hooray	2	1
+!	NA	NA
+cried	0	0
+Betsy	0	2
+;	NA	NA
+I'm	2	0
+glad	0	0
+of	0	1
+that	1	2
+.	NA	NA

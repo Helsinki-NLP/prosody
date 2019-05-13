@@ -1,0 +1,7 @@
+Holmes	1	0
+stirred	2	2
+for	0	0
+the	0	0
+first	0	0
+time	2	2
+.	NA	NA

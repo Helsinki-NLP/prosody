@@ -1,0 +1,8 @@
+I	2	0
+am	0	0
+Kenneth	0	1
+Forbes	1	1
+,	NA	NA
+of	0	0
+Elmhurst	1	2
+.	NA	NA

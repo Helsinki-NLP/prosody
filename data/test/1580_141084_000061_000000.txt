@@ -1,0 +1,6 @@
+Bannister	2	0
+licked	1	0
+his	0	1
+dry	2	0
+lips	0	2
+.	NA	NA

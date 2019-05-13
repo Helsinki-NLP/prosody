@@ -1,0 +1,17 @@
+It	1	0
+was	0	1
+Gwynplaine's	2	1
+which	0	0
+created	1	1
+the	0	0
+laughter	2	1
+of	0	0
+others	2	2
+,	NA	NA
+yet	2	0
+he	0	0
+did	0	0
+not	0	0
+laugh	1	1
+himself	2	2
+.	NA	NA

@@ -1,0 +1,17 @@
+He	2	0
+was	0	0
+a	0	0
+round	0	0
+faced	1	1
+,	NA	NA
+respectable	2	0
+appearing	0	0
+fellow	1	2
+,	NA	NA
+but	1	0
+his	0	0
+mood	2	0
+was	0	1
+distinctly	1	0
+unsociable	1	2
+.	NA	NA

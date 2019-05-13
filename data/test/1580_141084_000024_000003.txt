@@ -1,0 +1,7 @@
+But	0	0
+that	1	1
+fellow	2	1
+DOES	2	1
+puzzle	1	0
+me	0	2
+.	NA	NA

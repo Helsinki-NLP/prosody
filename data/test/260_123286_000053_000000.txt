@@ -1,0 +1,9 @@
+Surely	1	1
+you	0	0
+must	0	0
+be	0	1
+mistaken	2	1
+,	NA	NA
+I	0	0
+cried	1	2
+.	NA	NA

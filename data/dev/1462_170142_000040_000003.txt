@@ -1,0 +1,9 @@
+I	0	0
+can't	2	1
+see	0	0
+you	0	0
+at	0	1
+all	1	1
+,	NA	NA
+anywhere	1	2
+.	NA	NA

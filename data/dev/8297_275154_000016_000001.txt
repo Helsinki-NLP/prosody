@@ -1,0 +1,15 @@
+My	0	0
+mind's	2	1
+in	0	0
+such	2	0
+a	0	1
+state	2	0
+I	0	1
+can't	1	0
+remember	1	2
+it	0	0
+;	NA	NA
+write	2	0
+it	0	1
+down	1	2
+.	NA	NA

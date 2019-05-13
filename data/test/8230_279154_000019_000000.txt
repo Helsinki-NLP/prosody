@@ -1,0 +1,17 @@
+The	0	1
+first	2	1
+of	0	0
+our	1	1
+vague	1	0
+but	2	2
+indubitable	2	1
+data	2	2
+is	0	0
+that	1	0
+there	0	0
+is	0	0
+knowledge	1	0
+of	0	1
+the	0	0
+past	1	2
+.	NA	NA

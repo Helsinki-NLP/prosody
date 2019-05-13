@@ -1,0 +1,4 @@
+Only	2	0
+not	0	1
+Mac	1	2
+.	NA	NA

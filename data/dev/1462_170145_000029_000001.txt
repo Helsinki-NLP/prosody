@@ -1,0 +1,11 @@
+I	2	1
+suppose	2	1
+I	0	0
+would	0	2
+better	1	0
+do	2	0
+it	0	1
+without	1	0
+telling	1	0
+you	0	2
+.	NA	NA

@@ -1,0 +1,10 @@
+Not	2	0
+until	0	1
+the	0	0
+eleventh	2	2
+did	0	0
+he	0	0
+arrive	1	0
+at	0	1
+Sprucewood	2	2
+.	NA	NA

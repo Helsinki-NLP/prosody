@@ -1,0 +1,13 @@
+Stop	2	0
+it	1	2
+!	NA	NA
+said	1	0
+Button	0	0
+Bright	1	1
+;	NA	NA
+I	2	0
+can't	0	0
+hear	0	0
+myself	1	0
+think	1	2
+.	NA	NA

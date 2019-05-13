@@ -1,0 +1,15 @@
+Antonia	1	0
+came	0	0
+after	0	0
+me	0	1
+,	NA	NA
+crying	2	2
+,	NA	NA
+O	2	0
+Jimmy	0	0
+,	NA	NA
+he	0	0
+not	1	1
+bite	1	0
+you	1	2
+?	NA	NA

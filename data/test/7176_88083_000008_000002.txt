@@ -1,0 +1,10 @@
+Here	2	0
+he	0	1
+proceeded	1	0
+to	0	1
+swallow	2	0
+his	0	1
+prize	2	2
+head	1	0
+first	2	2
+.	NA	NA

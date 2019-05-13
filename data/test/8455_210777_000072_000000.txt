@@ -1,0 +1,13 @@
+Half	2	0
+past	1	1
+ten	2	0
+,	NA	NA
+said	0	1
+the	0	0
+captain	2	1
+,	NA	NA
+looking	1	0
+at	0	0
+his	0	1
+watch	1	2
+.	NA	NA

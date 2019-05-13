@@ -1,0 +1,12 @@
+She	0	0
+knew	0	0
+that	1	0
+the	0	1
+thief	2	1
+had	0	2
+brought	2	0
+back	1	0
+others	1	1
+with	1	0
+him	1	2
+.	NA	NA

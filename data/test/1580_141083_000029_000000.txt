@@ -1,0 +1,10 @@
+Did	1	0
+anyone	0	0
+know	2	0
+that	0	1
+these	0	0
+proofs	1	0
+would	0	1
+be	0	0
+there	2	2
+?	NA	NA

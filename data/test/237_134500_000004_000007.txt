@@ -1,0 +1,13 @@
+When	1	0
+he	0	0
+saw	0	0
+her	0	1
+coming	2	2
+,	NA	NA
+he	0	0
+stopped	2	1
+and	0	0
+wiped	0	0
+his	0	1
+brow	2	2
+.	NA	NA

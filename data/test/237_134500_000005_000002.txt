@@ -1,0 +1,11 @@
+Oh	2	0
+,	NA	NA
+but	0	0
+I'm	0	1
+glad	2	1
+to	0	0
+get	0	0
+this	0	1
+place	1	1
+mowed	1	2
+!	NA	NA

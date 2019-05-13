@@ -1,0 +1,4 @@
+She	0	0
+drank	2	1
+obediently	1	2
+.	NA	NA

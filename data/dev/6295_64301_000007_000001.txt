@@ -1,0 +1,10 @@
+Through	1	0
+the	0	0
+kitchen	1	0
+to	0	1
+the	0	0
+parlor	2	2
+!	NA	NA
+he	0	0
+said	2	2
+.	NA	NA

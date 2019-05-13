@@ -1,0 +1,7 @@
+And	0	0
+here	2	0
+occurs	1	0
+a	0	1
+curious	0	0
+inversion	0	2
+.	NA	NA

@@ -1,0 +1,11 @@
+Look	2	0
+here	0	0
+,	NA	NA
+Whiting	0	2
+,	NA	NA
+how	0	0
+about	2	0
+Mary	0	0
+Ann's	0	0
+ring	1	2
+?	NA	NA

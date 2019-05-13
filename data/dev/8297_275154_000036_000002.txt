@@ -1,0 +1,17 @@
+And	0	0
+now	1	2
+rest	2	2
+,	NA	NA
+he	0	0
+said	2	1
+,	NA	NA
+and	1	0
+let	0	0
+me	0	0
+put	0	0
+this	0	0
+cushion	1	0
+under	0	0
+your	0	0
+head	2	2
+.	NA	NA

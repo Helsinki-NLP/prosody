@@ -1,0 +1,9 @@
+Concord	2	1
+returned	1	0
+to	0	0
+its	0	0
+place	1	0
+amidst	0	1
+the	0	0
+tents	2	2
+.	NA	NA

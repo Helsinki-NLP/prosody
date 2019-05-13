@@ -1,0 +1,4 @@
+Of	0	0
+course	2	1
+not	1	2
+.	NA	NA

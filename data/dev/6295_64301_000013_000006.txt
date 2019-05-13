@@ -1,0 +1,9 @@
+It	0	0
+prayed	2	1
+,	NA	NA
+it	0	0
+wept	2	1
+,	NA	NA
+it	0	0
+implored	2	2
+.	NA	NA

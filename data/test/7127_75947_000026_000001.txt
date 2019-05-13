@@ -1,0 +1,4 @@
+You	0	0
+seem	1	1
+agitated	2	2
+.	NA	NA

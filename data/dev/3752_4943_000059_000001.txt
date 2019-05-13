@@ -1,0 +1,12 @@
+I	0	1
+won't	2	0
+have	0	0
+my	0	0
+men	1	1
+knocked	2	1
+up	1	0
+with	0	2
+flogging	2	1
+these	0	0
+rascals	1	2
+.	NA	NA

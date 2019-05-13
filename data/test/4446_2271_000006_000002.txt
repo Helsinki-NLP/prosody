@@ -1,0 +1,16 @@
+As	1	0
+they	0	0
+sat	2	0
+down	0	1
+,	NA	NA
+a	0	0
+burst	2	1
+of	0	0
+applause	2	1
+drew	2	0
+Alexander's	0	1
+attention	1	0
+to	0	0
+the	0	2
+stage	2	2
+.	NA	NA

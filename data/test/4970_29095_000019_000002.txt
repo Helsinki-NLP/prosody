@@ -1,0 +1,7 @@
+Does	0	1
+thee	1	0
+think	0	1
+I	0	0
+lack	1	2
+nerve	2	2
+?	NA	NA

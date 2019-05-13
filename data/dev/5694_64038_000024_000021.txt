@@ -1,0 +1,7 @@
+The	0	0
+regiment	2	1
+was	0	0
+ordered	1	0
+to	0	1
+fire	2	2
+.	NA	NA

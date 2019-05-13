@@ -1,0 +1,7 @@
+On	0	0
+seeing	1	0
+Gwynplaine	1	2
+,	NA	NA
+all	2	0
+laughed	0	2
+.	NA	NA

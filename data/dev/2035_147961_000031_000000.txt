@@ -1,0 +1,17 @@
+Pavel	2	0
+and	0	1
+peter	1	0
+drove	0	0
+into	0	1
+the	1	0
+village	0	0
+alone	1	2
+,	NA	NA
+and	0	0
+they	2	0
+had	0	1
+been	1	0
+alone	1	0
+ever	0	1
+since	1	2
+.	NA	NA

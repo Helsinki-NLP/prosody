@@ -1,0 +1,15 @@
+That	2	0
+little	0	1
+fowl	2	0
+pays	0	0
+you	0	1
+a	0	0
+high	1	0
+compliment	1	2
+!	NA	NA
+said	1	0
+a	0	0
+voice	1	0
+behind	0	0
+Phoebe	1	2
+.	NA	NA

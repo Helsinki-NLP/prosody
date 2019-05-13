@@ -1,0 +1,14 @@
+I	2	0
+guess	1	0
+I	1	0
+had	0	1
+better	1	1
+go	0	0
+along	2	2
+to	0	0
+see	1	0
+that	0	0
+you	0	0
+do	0	1
+not	1	2
+.	NA	NA

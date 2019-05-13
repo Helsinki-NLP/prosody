@@ -1,0 +1,6 @@
+Enough	2	1
+for	2	0
+all	0	0
+of	0	1
+us	1	2
+.	NA	NA

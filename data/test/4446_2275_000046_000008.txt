@@ -1,0 +1,17 @@
+And	0	0
+then	0	0
+you	0	0
+came	0	0
+back	1	2
+,	NA	NA
+not	0	0
+caring	2	0
+very	0	0
+much	2	2
+,	NA	NA
+but	2	0
+it	0	0
+made	0	0
+no	0	0
+difference	1	2
+.	NA	NA

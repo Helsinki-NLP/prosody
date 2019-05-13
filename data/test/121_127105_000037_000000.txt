@@ -1,0 +1,10 @@
+She	0	0
+was	0	1
+ten	2	0
+years	0	0
+older	1	2
+,	NA	NA
+said	1	0
+her	0	0
+husband	1	2
+.	NA	NA

@@ -1,0 +1,11 @@
+Besides	2	1
+,	NA	NA
+he's	0	0
+not	1	0
+the	0	0
+sort	1	0
+of	0	1
+creature	1	0
+to	0	1
+complain	2	2
+.	NA	NA

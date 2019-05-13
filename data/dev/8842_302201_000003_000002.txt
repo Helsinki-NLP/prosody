@@ -1,0 +1,13 @@
+And	1	0
+I	0	0
+said	2	0
+these	0	1
+four	1	0
+things	0	0
+in	0	0
+a	0	1
+sonnet	2	1
+,	NA	NA
+which	1	0
+is	0	1
+this	2	2

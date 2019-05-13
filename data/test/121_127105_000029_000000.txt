@@ -1,0 +1,4 @@
+Everybody	1	0
+will	0	1
+stay	2	2
+!	NA	NA

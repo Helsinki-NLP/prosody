@@ -1,0 +1,5 @@
+And	0	0
+what	2	1
+an	0	0
+audience	1	2
+!	NA	NA

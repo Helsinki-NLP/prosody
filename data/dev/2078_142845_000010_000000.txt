@@ -1,0 +1,3 @@
+seventeen	2	0
+seventeen	0	2
+.	NA	NA

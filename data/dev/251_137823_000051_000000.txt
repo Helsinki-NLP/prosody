@@ -1,0 +1,5 @@
+Don't	1	0
+worry	1	1
+,	NA	NA
+Sis	1	2
+.	NA	NA

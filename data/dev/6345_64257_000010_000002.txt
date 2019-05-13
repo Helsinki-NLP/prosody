@@ -1,0 +1,6 @@
+She	1	0
+is	2	1
+nothing	1	0
+to	0	1
+me	2	2
+.	NA	NA

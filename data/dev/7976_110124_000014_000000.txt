@@ -1,0 +1,13 @@
+Now	1	0
+,	NA	NA
+outside	2	0
+this	0	0
+city	1	2
+there	0	0
+was	0	0
+a	0	0
+band	2	0
+of	0	1
+bold	1	0
+robbers	1	2
+.	NA	NA

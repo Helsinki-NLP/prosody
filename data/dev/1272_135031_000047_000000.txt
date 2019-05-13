@@ -1,0 +1,3 @@
+Kaliko	1	1
+hesitated	1	2
+.	NA	NA

@@ -1,0 +1,11 @@
+Not	1	0
+Balaklava	2	1
+,	NA	NA
+nor	0	0
+the	0	0
+Alma	1	2
+,	NA	NA
+saw	2	0
+such	0	0
+fighting	2	2
+.	NA	NA

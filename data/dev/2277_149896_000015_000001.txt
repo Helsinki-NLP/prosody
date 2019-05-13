@@ -1,0 +1,9 @@
+I	1	0
+need	0	0
+it	2	0
+to	0	1
+carry	2	0
+out	0	1
+my	1	1
+plans	1	2
+.	NA	NA

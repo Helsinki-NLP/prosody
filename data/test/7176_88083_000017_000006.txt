@@ -1,0 +1,17 @@
+The	0	0
+marauder	2	0
+from	0	1
+the	0	0
+upper	1	0
+air	0	0
+was	0	0
+waiting	1	0
+till	0	0
+his	0	1
+quarry	2	1
+should	0	0
+reach	0	1
+less	2	1
+turbulent	2	1
+waters	2	2
+.	NA	NA

@@ -1,0 +1,11 @@
+Something	0	0
+else	2	1
+besides	2	0
+saying	0	1
+you're	0	0
+going	2	0
+to	1	2
+will	1	0
+be	0	0
+necessary	1	2
+.	NA	NA

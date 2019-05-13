@@ -1,0 +1,5 @@
+Bed	2	0
+time	1	0
+,	NA	NA
+children	1	2
+!	NA	NA

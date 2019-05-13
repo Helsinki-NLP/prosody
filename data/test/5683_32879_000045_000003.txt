@@ -1,0 +1,9 @@
+Yes	2	1
+,	NA	NA
+Rachel	0	1
+,	NA	NA
+I	2	0
+do	0	1
+love	0	0
+you	2	2
+.	NA	NA

@@ -1,0 +1,14 @@
+It's	0	0
+no	1	0
+better	0	1
+than	0	0
+a	0	0
+badger	2	0
+hole	1	2
+;	NA	NA
+no	2	0
+proper	0	0
+dugout	1	0
+at	0	1
+all	2	2
+.	NA	NA

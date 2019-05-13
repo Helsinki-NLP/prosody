@@ -1,0 +1,10 @@
+In	0	0
+my	1	0
+thoughts	2	1
+,	NA	NA
+monsieur	0	1
+,	NA	NA
+everything	2	1
+has	0	0
+changed	1	2
+.	NA	NA

@@ -1,0 +1,10 @@
+There's	1	0
+more	2	0
+trouble	1	0
+with	0	0
+you	0	1
+bloody	0	1
+aristocrats	1	1
+than	0	0
+enough	1	2
+.	NA	NA

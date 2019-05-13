@@ -1,0 +1,11 @@
+Give	0	0
+me	0	0
+back	2	0
+Sydney	1	2
+,	NA	NA
+or	0	0
+knock	2	0
+out	1	0
+my	0	1
+brains	2	2
+.	NA	NA

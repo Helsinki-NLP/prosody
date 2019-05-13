@@ -1,0 +1,11 @@
+How	1	0
+can	0	0
+I	0	0
+lose	0	0
+that	1	1
+'Un	2	2
+,	NA	NA
+'	NA	NA
+Dame	1	0
+Margolotte	1	2
+?	NA	NA

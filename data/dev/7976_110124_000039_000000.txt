@@ -1,0 +1,6 @@
+Soon	2	0
+she	0	0
+heard	0	1
+footsteps	1	0
+outside	1	2
+.	NA	NA

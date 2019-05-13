@@ -1,0 +1,10 @@
+Six	2	1
+new	0	0
+pupils	1	2
+in	0	0
+the	0	0
+mathematical	1	0
+school	0	1
+this	0	0
+morning	2	2
+.	NA	NA

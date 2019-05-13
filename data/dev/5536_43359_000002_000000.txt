@@ -1,0 +1,4 @@
+Pre	1	0
+natal	0	1
+Influence	2	2
+.	NA	NA

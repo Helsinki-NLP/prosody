@@ -1,0 +1,12 @@
+I	1	0
+put	2	0
+on	0	0
+my	0	1
+cap	1	2
+and	1	0
+ran	0	0
+out	1	1
+to	0	0
+meet	0	0
+Jake	2	2
+.	NA	NA

@@ -1,0 +1,3 @@
+february	0	0
+twentieth	1	2
+.	NA	NA

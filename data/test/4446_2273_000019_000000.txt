@@ -1,0 +1,16 @@
+It's	0	0
+not	2	1
+particularly	0	0
+rare	0	0
+,	NA	NA
+she	0	0
+said	2	2
+,	NA	NA
+but	0	0
+some	2	0
+of	0	0
+it	0	1
+was	0	0
+my	0	0
+mother's	1	2
+.	NA	NA

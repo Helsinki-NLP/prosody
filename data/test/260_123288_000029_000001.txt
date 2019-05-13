@@ -1,0 +1,9 @@
+My	0	0
+uncle	2	0
+lies	1	1
+full	1	0
+length	0	1
+across	1	1
+the	0	0
+raft	2	2
+.	NA	NA

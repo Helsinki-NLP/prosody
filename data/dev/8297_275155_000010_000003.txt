@@ -1,0 +1,4 @@
+Out	2	1
+with	0	1
+it	0	2
+!	NA	NA

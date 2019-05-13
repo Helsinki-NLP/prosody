@@ -1,0 +1,6 @@
+Can	0	0
+I	2	0
+see	1	0
+mrs	0	2
+Wilson	2	2
+?	NA	NA

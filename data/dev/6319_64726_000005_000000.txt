@@ -1,0 +1,16 @@
+Be	2	0
+of	0	1
+good	0	0
+cheer	0	0
+,	NA	NA
+king	0	0
+and	0	0
+queen	1	2
+;	NA	NA
+your	0	0
+daughter	2	0
+shall	0	0
+not	1	1
+so	0	0
+die	1	2
+.	NA	NA

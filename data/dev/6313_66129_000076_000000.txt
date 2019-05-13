@@ -1,0 +1,10 @@
+Why	1	0
+not	0	1
+show	2	0
+us	0	1
+,	NA	NA
+then	0	1
+?	NA	NA
+he	0	0
+said	2	2
+.	NA	NA

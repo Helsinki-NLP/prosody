@@ -1,0 +1,7 @@
+But	1	0
+I	0	1
+blushed	2	1
+for	0	0
+its	0	0
+untruth	1	2
+.	NA	NA

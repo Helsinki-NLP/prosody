@@ -1,0 +1,4 @@
+It	0	0
+was	2	1
+Christmas	1	2
+.	NA	NA

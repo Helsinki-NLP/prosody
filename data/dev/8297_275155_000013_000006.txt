@@ -1,0 +1,5 @@
+What	2	0
+a	0	1
+perfect	1	1
+gentleman	2	2
+!	NA	NA

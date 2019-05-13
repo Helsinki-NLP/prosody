@@ -1,0 +1,14 @@
+Grandmother	2	1
+chuckled	2	1
+and	0	0
+drove	2	0
+her	0	1
+bright	2	0
+needle	0	0
+across	1	1
+a	0	0
+hole	2	1
+in	0	0
+Otto's	1	1
+sock	2	2
+.	NA	NA

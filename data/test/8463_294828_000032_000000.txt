@@ -1,0 +1,6 @@
+We'll	2	0
+deal	0	0
+with	0	1
+them	0	0
+later	1	2
+.	NA	NA

@@ -1,0 +1,11 @@
+But	2	0
+I	0	0
+must	1	1
+take	0	0
+some	1	0
+notice	2	0
+of	0	2
+the	0	0
+letter	2	2
+.	NA	NA
+'	NA	NA

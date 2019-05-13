@@ -1,0 +1,12 @@
+We	0	0
+don't	2	0
+get	1	2
+rid	1	0
+of	0	0
+a	0	1
+dozen	1	1
+numbers	1	0
+in	0	1
+a	0	0
+month	2	2
+.	NA	NA

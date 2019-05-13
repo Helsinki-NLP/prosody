@@ -1,0 +1,14 @@
+These	1	0
+intruders	0	0
+are	1	2
+very	2	1
+peculiar	1	0
+people	2	2
+,	NA	NA
+remarked	2	1
+a	0	0
+man	1	0
+in	0	0
+the	0	1
+crowd	1	2
+.	NA	NA

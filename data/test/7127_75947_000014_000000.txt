@@ -1,0 +1,11 @@
+You	1	0
+represented	1	0
+a	0	0
+divinity	1	1
+,	NA	NA
+beautiful	1	1
+,	NA	NA
+disdainful	2	1
+,	NA	NA
+inconstant	2	2
+.	NA	NA

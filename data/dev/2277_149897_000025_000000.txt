@@ -1,0 +1,3 @@
+My	0	0
+wife	2	2
+?	NA	NA

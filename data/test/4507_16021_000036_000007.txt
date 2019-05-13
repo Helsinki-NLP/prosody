@@ -1,0 +1,16 @@
+There	2	0
+is	0	0
+hardly	1	0
+one	1	0
+day	0	0
+out	0	0
+of	0	1
+a	0	0
+hundred	1	2
+which	1	0
+is	0	0
+wholly	2	1
+joyous	2	2
+and	0	0
+sunny	1	2
+.	NA	NA

@@ -1,0 +1,5 @@
+THE	1	1
+TURN	2	0
+OF	0	0
+THE	0	1
+SCREW	1	2

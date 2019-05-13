@@ -1,0 +1,6 @@
+Been	1	0
+looking	0	0
+up	1	1
+Tooms	1	1
+County	2	2
+.	NA	NA

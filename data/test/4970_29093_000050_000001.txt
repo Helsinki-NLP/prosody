@@ -1,0 +1,14 @@
+He	0	0
+might	2	1
+never	0	0
+see	0	0
+her	0	0
+again	2	2
+;	NA	NA
+he	0	0
+went	2	1
+to	0	0
+seek	2	0
+his	0	1
+fortune	1	2
+.	NA	NA

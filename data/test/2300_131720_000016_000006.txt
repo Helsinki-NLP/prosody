@@ -1,0 +1,14 @@
+mr	2	0
+Andrews	1	1
+and	0	0
+I	0	0
+worked	1	0
+in	0	2
+collaboration	1	1
+until	0	0
+the	0	0
+night	1	0
+of	0	1
+the	0	0
+third	2	2
+.	NA	NA

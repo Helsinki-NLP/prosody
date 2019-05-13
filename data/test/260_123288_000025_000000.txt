@@ -1,0 +1,9 @@
+Sunday	1	1
+,	NA	NA
+twenty	0	0
+three	1	2
+.	NA	NA
+Where	2	0
+are	0	0
+we	0	2
+?	NA	NA

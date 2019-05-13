@@ -1,0 +1,13 @@
+Go	2	2
+,	NA	NA
+she	0	0
+said	1	0
+to	0	0
+a	0	0
+servant	1	1
+,	NA	NA
+and	0	0
+ask	1	0
+the	0	1
+senora	1	2
+.	NA	NA

@@ -1,0 +1,13 @@
+I	1	0
+am	1	0
+not	2	0
+sure	0	0
+that	0	1
+there	1	0
+is	0	0
+anything	1	1
+substantial	2	1
+in	0	0
+this	2	1
+point	2	2
+.	NA	NA

@@ -1,0 +1,13 @@
+'Come	2	0
+,	NA	NA
+come	1	0
+!	NA	NA
+'	NA	NA
+I	0	1
+called	1	1
+,	NA	NA
+when	0	0
+no	0	0
+one	0	1
+obeyed	1	2
+.	NA	NA

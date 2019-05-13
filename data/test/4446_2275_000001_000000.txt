@@ -1,0 +1,12 @@
+The	0	0
+last	2	0
+two	0	0
+days	1	0
+of	0	2
+the	0	0
+voyage	1	0
+Bartley	1	1
+found	1	1
+almost	1	1
+intolerable	2	2
+.	NA	NA

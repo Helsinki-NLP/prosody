@@ -1,0 +1,5 @@
+Be	1	0
+it	0	0
+all	0	1
+right	2	2
+?	NA	NA

@@ -1,0 +1,15 @@
+I	2	0
+must	1	1
+have	2	1
+you	1	0
+to	0	1
+think	2	0
+of	0	1
+through	0	0
+the	0	0
+months	2	1
+and	0	0
+months	1	0
+of	0	1
+loneliness	1	2
+.	NA	NA

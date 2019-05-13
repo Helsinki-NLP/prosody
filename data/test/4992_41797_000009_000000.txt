@@ -1,0 +1,8 @@
+Doctor	2	0
+of	0	1
+what	2	0
+?	NA	NA
+asked	0	1
+mrs	0	0
+Carey	1	2
+.	NA	NA

@@ -1,0 +1,6 @@
+And	1	1
+he	0	0
+knew	1	0
+it	0	1
+all	2	2
+.	NA	NA

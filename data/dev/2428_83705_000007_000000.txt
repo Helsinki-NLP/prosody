@@ -1,0 +1,10 @@
+The	0	0
+accident	2	0
+in	0	1
+question	2	1
+occurred	2	0
+upon	1	0
+the	0	1
+Sunday	0	0
+evening	1	2
+.	NA	NA

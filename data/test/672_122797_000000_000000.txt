@@ -1,0 +1,3 @@
+THE	0	1
+FIR	2	0
+TREE	0	2

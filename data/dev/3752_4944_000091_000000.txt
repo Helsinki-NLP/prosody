@@ -1,0 +1,15 @@
+Burgess	1	2
+,	NA	NA
+white	2	0
+with	0	1
+rage	2	1
+,	NA	NA
+rang	1	0
+the	0	1
+bell	2	0
+that	0	1
+summoned	1	1
+his	0	0
+convict	1	1
+servant	1	2
+.	NA	NA

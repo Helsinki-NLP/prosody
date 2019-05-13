@@ -1,0 +1,4 @@
+He	0	0
+did	2	1
+so	0	2
+.	NA	NA

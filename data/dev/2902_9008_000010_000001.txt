@@ -1,0 +1,10 @@
+You	0	0
+have	1	0
+tasted	2	1
+no	1	0
+food	1	0
+yet	1	1
+this	0	0
+day	2	2
+.	NA	NA
+'	NA	NA

@@ -1,0 +1,15 @@
+It	0	0
+was	1	0
+a	0	0
+mongrel	2	0
+method	1	0
+of	0	2
+progression	2	1
+,	NA	NA
+in	0	0
+which	1	0
+he	0	0
+was	0	1
+singularly	2	0
+expert	2	2
+.	NA	NA

@@ -1,0 +1,11 @@
+The	0	1
+cedar	2	0
+was	0	1
+about	1	0
+five	1	1
+feet	0	0
+high	1	2
+and	0	0
+very	0	0
+shapely	1	2
+.	NA	NA

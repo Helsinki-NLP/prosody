@@ -1,0 +1,7 @@
+No	2	2
+;	NA	NA
+still	2	0
+he	0	1
+is	0	0
+intrusive	1	2
+.	NA	NA

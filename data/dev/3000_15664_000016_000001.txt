@@ -1,0 +1,16 @@
+Mount	2	0
+Bremer	2	0
+is	0	2
+the	0	0
+most	1	0
+noted	1	1
+stronghold	1	0
+of	0	1
+the	0	0
+sheep	1	0
+in	0	1
+the	0	0
+whole	0	0
+Shasta	1	0
+region	1	2
+.	NA	NA

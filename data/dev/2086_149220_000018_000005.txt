@@ -1,0 +1,15 @@
+There	2	0
+is	0	0
+,	NA	NA
+at	0	1
+least	1	2
+,	NA	NA
+no	2	1
+flattery	2	1
+in	0	0
+my	0	0
+humble	0	0
+line	0	0
+of	0	1
+art	2	2
+.	NA	NA

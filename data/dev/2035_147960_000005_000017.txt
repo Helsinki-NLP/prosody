@@ -1,0 +1,8 @@
+I	0	0
+walked	2	1
+away	1	2
+and	0	0
+turned	1	0
+my	0	0
+back	2	2
+.	NA	NA

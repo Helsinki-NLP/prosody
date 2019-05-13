@@ -1,0 +1,12 @@
+From	0	0
+a	0	0
+pay	2	0
+telephone	0	2
+,	NA	NA
+he	0	0
+called	2	0
+Swift	0	0
+Enterprises	1	1
+in	0	0
+Shopton	2	2
+.	NA	NA

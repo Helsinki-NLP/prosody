@@ -1,0 +1,5 @@
+Yet	2	0
+she	0	0
+must	1	1
+speak	2	2
+.	NA	NA

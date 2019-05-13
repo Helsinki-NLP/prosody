@@ -1,0 +1,11 @@
+If	0	0
+he	0	0
+returned	1	0
+with	0	0
+a	0	1
+fortune	0	2
+,	NA	NA
+perhaps	2	1
+and	1	0
+perhaps	2	2
+.	NA	NA

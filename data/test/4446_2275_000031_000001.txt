@@ -1,0 +1,12 @@
+Something	2	0
+of	0	1
+their	0	0
+troubling	1	0
+sweetness	1	1
+came	0	0
+back	0	0
+to	0	0
+Alexander	0	1
+,	NA	NA
+too	2	2
+.	NA	NA

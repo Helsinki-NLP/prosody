@@ -1,0 +1,14 @@
+But	0	0
+Cap'n	2	1
+Bill	1	0
+made	0	0
+no	0	0
+such	0	1
+attempt	2	2
+,	NA	NA
+knowing	2	0
+it	0	1
+would	0	0
+be	0	0
+useless	1	2
+.	NA	NA

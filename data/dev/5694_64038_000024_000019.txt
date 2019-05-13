@@ -1,0 +1,5 @@
+It	2	0
+was	0	1
+Jim's	2	1
+regiment	0	2
+.	NA	NA

@@ -1,0 +1,15 @@
+Burbank	2	1
+and	0	0
+his	0	0
+tribe	0	1
+represent	1	0
+in	0	1
+the	0	0
+vegetable	1	0
+world	1	2
+,	NA	NA
+Edison	2	2
+in	1	0
+the	0	0
+mechanical	0	2
+.	NA	NA

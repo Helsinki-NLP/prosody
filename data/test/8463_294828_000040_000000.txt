@@ -1,0 +1,6 @@
+Oh	2	0
+,	NA	NA
+it's	0	1
+nothing	1	0
+really	1	2
+!	NA	NA

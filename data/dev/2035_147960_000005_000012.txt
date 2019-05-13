@@ -1,0 +1,17 @@
+I	0	0
+saw	2	0
+his	0	1
+coils	1	0
+tighten	0	2
+now	2	0
+he	0	0
+would	0	1
+spring	2	1
+,	NA	NA
+spring	1	0
+his	0	0
+length	0	1
+,	NA	NA
+I	0	0
+remembered	1	2
+.	NA	NA

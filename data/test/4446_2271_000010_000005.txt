@@ -1,0 +1,12 @@
+A	0	0
+man	1	0
+writes	2	0
+to	0	2
+the	0	0
+top	2	0
+of	0	0
+his	0	1
+bent	0	0
+only	0	0
+once	1	2
+.	NA	NA

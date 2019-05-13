@@ -1,0 +1,7 @@
+See	0	0
+how	0	0
+white	2	0
+the	0	2
+stars	1	0
+are	1	2
+.	NA	NA

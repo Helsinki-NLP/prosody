@@ -1,0 +1,7 @@
+Hilda	1	0
+Burgoyne	2	2
+!	NA	NA
+Alexander	2	0
+exclaimed	0	0
+mildly	0	2
+.	NA	NA

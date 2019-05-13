@@ -1,0 +1,6 @@
+Oh	2	1
+!	NA	NA
+murmured	1	0
+Miss	0	1
+Taylor	1	2
+.	NA	NA

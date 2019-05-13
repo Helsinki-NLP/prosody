@@ -1,0 +1,5 @@
+They	0	0
+couldn't	2	0
+see	1	1
+straight	1	2
+.	NA	NA

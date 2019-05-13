@@ -1,0 +1,16 @@
+The	0	1
+face	2	0
+was	0	1
+in	0	0
+other	1	0
+respects	1	1
+,	NA	NA
+besides	2	1
+this	2	1
+,	NA	NA
+a	0	0
+striking	2	0
+face	1	1
+to	0	0
+see	2	2
+.	NA	NA

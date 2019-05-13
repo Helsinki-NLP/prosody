@@ -1,0 +1,17 @@
+Let's	2	0
+see	0	0
+if	0	0
+we	0	1
+can	0	0
+find	2	0
+a	0	1
+telephone	2	0
+and	0	1
+call	2	0
+the	0	1
+local	0	0
+hospital	1	2
+,	NA	NA
+Tom	2	0
+said	1	2
+.	NA	NA

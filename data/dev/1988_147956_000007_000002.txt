@@ -1,0 +1,10 @@
+It	2	0
+would	0	0
+take	1	0
+me	0	1
+a	0	0
+long	0	0
+while	2	1
+to	0	1
+explain	2	2
+.	NA	NA

@@ -1,0 +1,6 @@
+A	0	0
+further	2	1
+stage	1	0
+is	1	1
+RECOGNITION	2	2
+.	NA	NA

@@ -1,0 +1,5 @@
+Gilchrist	2	0
+pointed	0	1
+to	0	0
+Bannister	2	2
+.	NA	NA

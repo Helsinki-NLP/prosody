@@ -1,0 +1,13 @@
+I	0	0
+will	2	0
+sit	1	0
+in	0	0
+the	0	1
+parlor	1	0
+awhile	1	2
+,	NA	NA
+and	0	0
+collect	1	0
+my	0	0
+thoughts	1	2
+.	NA	NA

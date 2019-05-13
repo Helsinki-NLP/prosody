@@ -1,0 +1,13 @@
+I	1	0
+hoped	2	1
+you	0	0
+would	0	1
+be	2	0
+able	0	1
+to	1	0
+assist	1	1
+me	1	0
+on	0	1
+the	0	0
+lawn	2	2
+.	NA	NA

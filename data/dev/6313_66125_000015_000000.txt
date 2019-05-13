@@ -1,0 +1,12 @@
+See	0	0
+anything	1	0
+?	NA	NA
+asked	2	1
+Tad	2	1
+tremulously	1	1
+,	NA	NA
+creeping	1	0
+to	0	1
+his	0	0
+side	2	2
+.	NA	NA

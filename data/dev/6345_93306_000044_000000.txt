@@ -1,0 +1,15 @@
+But	0	0
+don't	1	0
+you	0	0
+know	0	0
+anyone	1	0
+in	0	0
+London	1	2
+?	NA	NA
+he	2	0
+asked	0	1
+in	0	0
+a	0	0
+sensible	0	1
+postscript	2	2
+.	NA	NA

@@ -1,0 +1,11 @@
+But	0	0
+I	2	1
+stayed	2	1
+that	1	1
+spring	0	0
+and	0	1
+built	1	0
+me	0	0
+a	0	1
+boat	2	2
+.	NA	NA

@@ -1,0 +1,4 @@
+CIVIL	2	0
+WAR	1	1
+IN	0	0
+KANSAS	1	2

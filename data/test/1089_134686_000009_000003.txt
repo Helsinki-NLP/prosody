@@ -1,0 +1,16 @@
+The	0	0
+chaos	2	0
+in	0	1
+which	0	0
+his	0	0
+ardour	1	0
+extinguished	0	1
+itself	2	0
+was	0	0
+a	0	1
+cold	2	1
+indifferent	1	1
+knowledge	2	0
+of	0	1
+himself	2	2
+.	NA	NA

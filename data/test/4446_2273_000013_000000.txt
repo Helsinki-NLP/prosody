@@ -1,0 +1,12 @@
+Rooms	2	0
+always	2	0
+look	0	2
+better	1	0
+by	0	1
+lamplight	1	2
+in	0	0
+London	2	0
+,	NA	NA
+at	0	1
+least	1	2
+.	NA	NA

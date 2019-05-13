@@ -1,0 +1,10 @@
+Why	2	0
+did	0	0
+you	0	2
+sleep	1	1
+so	0	0
+long	1	0
+in	0	0
+the	0	1
+wood	2	2
+?	NA	NA

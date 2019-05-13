@@ -1,0 +1,15 @@
+He	2	0
+also	1	0
+wrote	0	0
+a	0	0
+note	1	1
+to	0	0
+his	0	0
+lawyer	2	2
+directing	2	0
+him	0	1
+to	0	0
+withdraw	1	0
+the	0	1
+prosecution	1	2
+.	NA	NA

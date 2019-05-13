@@ -1,0 +1,11 @@
+A	0	0
+supreme	1	1
+opportunity	1	0
+had	0	1
+come	2	2
+and	0	0
+how	1	0
+was	0	0
+it	0	1
+used	2	2
+?	NA	NA

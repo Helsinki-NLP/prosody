@@ -1,0 +1,16 @@
+How	1	0
+do	0	0
+you	0	0
+do	0	0
+,	NA	NA
+my	0	0
+children	2	2
+?	NA	NA
+she	1	0
+said	2	1
+,	NA	NA
+on	0	0
+one	0	0
+such	0	1
+occasion	1	2
+.	NA	NA

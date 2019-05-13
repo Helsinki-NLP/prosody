@@ -1,0 +1,5 @@
+Fool	1	0
+that	0	1
+I	0	0
+am	2	2
+.	NA	NA

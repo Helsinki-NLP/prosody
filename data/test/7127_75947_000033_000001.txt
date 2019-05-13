@@ -1,0 +1,7 @@
+Received	2	0
+me	0	0
+with	0	1
+kindness	2	2
+perhaps	2	0
+so	0	1
+yes	1	2

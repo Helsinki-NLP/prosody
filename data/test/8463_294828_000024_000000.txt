@@ -1,0 +1,12 @@
+To	0	0
+be	0	0
+sure	2	0
+,	NA	NA
+I	0	0
+had	0	1
+confidence	1	1
+in	0	0
+this	0	1
+devoted	1	0
+lad	1	2
+.	NA	NA

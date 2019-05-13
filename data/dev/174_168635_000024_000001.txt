@@ -1,0 +1,17 @@
+She	1	0
+was	0	0
+so	1	0
+little	1	1
+when	0	0
+her	0	0
+mother	0	0
+left	1	0
+her	1	2
+,	NA	NA
+that	1	0
+she	0	0
+no	0	0
+longer	1	1
+remembered	1	0
+her	1	2
+.	NA	NA

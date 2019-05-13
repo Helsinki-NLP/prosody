@@ -1,0 +1,5 @@
+He's	0	0
+hit	1	1
+terribly	2	1
+hard	1	2
+.	NA	NA

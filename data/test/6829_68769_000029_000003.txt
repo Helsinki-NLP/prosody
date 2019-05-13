@@ -1,0 +1,10 @@
+Sorry	2	0
+we	0	1
+haven't	1	0
+any	0	1
+reception	2	0
+room	0	0
+in	0	1
+the	0	0
+jail	2	2
+.	NA	NA

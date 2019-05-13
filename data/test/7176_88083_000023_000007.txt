@@ -1,0 +1,8 @@
+Then	0	0
+the	0	0
+leader	1	1
+parted	1	1
+from	0	0
+the	0	0
+line	2	2
+.	NA	NA

@@ -1,0 +1,11 @@
+His	0	0
+life	2	0
+of	0	1
+leisure	2	0
+must	0	2
+be	0	0
+conducted	1	0
+in	0	0
+due	0	0
+form	2	2
+.	NA	NA

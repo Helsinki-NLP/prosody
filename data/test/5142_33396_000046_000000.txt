@@ -1,0 +1,6 @@
+My	0	0
+men	2	1
+roared	1	0
+with	0	1
+laughter	1	2
+.	NA	NA

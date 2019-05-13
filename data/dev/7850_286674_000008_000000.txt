@@ -1,0 +1,8 @@
+Horrid	1	0
+old	0	1
+thing	2	2
+!	NA	NA
+said	1	0
+one	0	0
+larva	2	2
+.	NA	NA

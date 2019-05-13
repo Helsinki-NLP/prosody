@@ -1,0 +1,13 @@
+The	1	0
+design	2	0
+was	0	1
+different	0	1
+,	NA	NA
+but	0	0
+the	0	0
+thing	2	0
+was	0	1
+clearly	1	0
+the	0	1
+same	2	2
+.	NA	NA

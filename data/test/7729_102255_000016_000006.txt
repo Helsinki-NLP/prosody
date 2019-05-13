@@ -1,0 +1,14 @@
+In	0	0
+the	0	0
+Missouri	0	0
+camp	2	2
+while	2	0
+the	0	0
+leaders	1	0
+became	0	1
+alarmed	2	2
+the	0	0
+men	1	0
+grew	0	0
+insubordinate	1	2
+.	NA	NA

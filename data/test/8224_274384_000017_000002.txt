@@ -1,0 +1,16 @@
+Yet	1	0
+were	2	0
+they	0	0
+little	0	0
+worse	1	1
+than	0	0
+what	2	2
+were	2	0
+insisted	1	0
+on	1	2
+before	1	0
+the	0	0
+battle	0	0
+of	0	1
+Naseby	1	2
+.	NA	NA

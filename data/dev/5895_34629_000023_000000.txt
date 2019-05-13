@@ -1,0 +1,7 @@
+The	0	1
+money	0	0
+bag	2	0
+grows	0	1
+palpably	1	0
+bigger	1	2
+.	NA	NA

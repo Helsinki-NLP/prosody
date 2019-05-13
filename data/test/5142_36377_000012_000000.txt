@@ -1,0 +1,7 @@
+Was	1	1
+the	0	0
+young	2	0
+lady	0	0
+Naomi	0	1
+Colebrook	2	2
+?	NA	NA

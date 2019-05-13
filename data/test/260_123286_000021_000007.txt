@@ -1,0 +1,15 @@
+The	0	0
+shadow	2	0
+of	0	1
+the	0	0
+raft	2	2
+was	0	0
+clearly	1	0
+outlined	1	0
+upon	0	1
+the	0	0
+surface	2	1
+of	0	0
+the	0	0
+waves	1	2
+.	NA	NA

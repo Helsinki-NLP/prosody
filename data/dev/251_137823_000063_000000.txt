@@ -1,0 +1,8 @@
+From	0	0
+another	0	1
+planet	2	2
+,	1	0
+mr	NA	NA
+Swift	0	0
+revealed	1	2
+.	NA	NA

@@ -1,0 +1,6 @@
+mr	1	0
+Faber	1	2
+!	NA	NA
+he	0	0
+gasped	2	2
+.	NA	NA

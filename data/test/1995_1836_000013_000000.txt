@@ -1,0 +1,7 @@
+mr	0	0
+Cresswell	1	0
+sipped	1	0
+his	0	1
+wine	2	1
+slowly	2	2
+.	NA	NA

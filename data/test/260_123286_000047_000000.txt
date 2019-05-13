@@ -1,0 +1,8 @@
+Flight	2	2
+was	0	0
+out	1	0
+of	0	0
+the	0	1
+question	1	0
+now	1	2
+.	NA	NA

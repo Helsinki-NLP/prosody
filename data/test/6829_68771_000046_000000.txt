@@ -1,0 +1,10 @@
+A	0	0
+sudden	0	0
+wave	2	0
+of	0	1
+scarlet	2	1
+swept	1	0
+over	0	0
+Eliza's	0	1
+face	2	2
+.	NA	NA

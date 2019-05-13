@@ -1,0 +1,6 @@
+HECTARE	2	2
+Roughly	1	0
+two	0	0
+point	0	0
+five	0	0
+acres	1	2

@@ -1,0 +1,8 @@
+This	1	0
+was	0	0
+managed	1	1
+much	2	1
+as	2	0
+at	0	1
+present	1	2
+.	NA	NA

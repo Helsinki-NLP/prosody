@@ -1,0 +1,15 @@
+Let	2	0
+me	0	0
+see	1	2
+I'll	2	0
+give	0	0
+them	0	1
+a	0	0
+new	1	1
+pair	2	0
+of	0	0
+boots	0	2
+every	2	0
+Christmas	1	2
+.	NA	NA
+'	NA	NA

@@ -1,0 +1,9 @@
+He	0	0
+had	0	0
+tried	2	1
+independence	1	1
+and	0	0
+philanthropy	1	0
+and	0	1
+failed	2	2
+.	NA	NA

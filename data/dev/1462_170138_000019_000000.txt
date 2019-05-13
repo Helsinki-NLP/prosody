@@ -1,0 +1,7 @@
+Sir	2	0
+Harry	0	0
+wrinkled	0	2
+his	0	0
+brows	1	0
+judiciously	1	2
+.	NA	NA

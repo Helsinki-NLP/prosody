@@ -1,0 +1,16 @@
+At	1	0
+the	0	0
+turn	2	0
+of	0	0
+the	0	1
+road	1	1
+he	0	0
+ran	1	0
+up	0	1
+against	0	1
+the	0	0
+tanner's	1	0
+boy	1	2
+,	NA	NA
+Lars	2	2
+.	NA	NA

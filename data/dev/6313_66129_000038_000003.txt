@@ -1,0 +1,9 @@
+I	2	0
+came	1	1
+near	0	0
+losing	0	1
+my	1	0
+life	1	1
+too	1	0
+,	NA	NA
+and	1	2

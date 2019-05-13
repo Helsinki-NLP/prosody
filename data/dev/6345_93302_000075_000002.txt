@@ -1,0 +1,7 @@
+It	0	0
+was	1	0
+a	0	1
+very	1	1
+good	0	0
+exit	1	2
+.	NA	NA

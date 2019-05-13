@@ -1,0 +1,6 @@
+Another	2	0
+circumstance	1	1
+was	0	0
+most	2	0
+remarkable	1	2
+.	NA	NA

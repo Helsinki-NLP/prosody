@@ -1,0 +1,11 @@
+One	1	0
+could	0	1
+almost	0	0
+swear	1	0
+to	0	0
+it	0	2
+,	NA	NA
+to	0	0
+observe	2	0
+him	0	2
+.	NA	NA

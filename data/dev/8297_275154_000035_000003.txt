@@ -1,0 +1,17 @@
+I'm	0	0
+not	1	0
+fit	1	1
+company	2	0
+for	0	0
+you	0	2
+,	NA	NA
+I	2	0
+know	0	2
+;	NA	NA
+I'll	2	0
+go	1	0
+when	0	1
+you	0	0
+tell	1	0
+me	0	2
+.	NA	NA

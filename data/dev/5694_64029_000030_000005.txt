@@ -1,0 +1,12 @@
+He	0	0
+was	0	1
+stone	2	0
+dead	2	2
+,	NA	NA
+but	0	0
+I	1	0
+dropped	1	0
+that	0	0
+foot	0	0
+quick	2	2
+.	NA	NA

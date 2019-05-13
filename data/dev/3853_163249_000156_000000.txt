@@ -1,0 +1,6 @@
+How	1	0
+time	2	0
+went	0	1
+that	1	1
+day	2	2
+!	NA	NA

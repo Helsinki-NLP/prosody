@@ -1,0 +1,16 @@
+Now	1	0
+,	NA	NA
+I	0	0
+don't	0	0
+want	1	0
+you	0	1
+fellows	2	1
+sitting	0	0
+up	0	0
+all	1	0
+night	2	1
+,	NA	NA
+objected	1	1
+the	0	0
+foreman	2	2
+.	NA	NA

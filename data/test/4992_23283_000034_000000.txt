@@ -1,0 +1,10 @@
+What	2	0
+can	0	1
+you	0	1
+mean	0	0
+by	1	0
+that	0	0
+,	NA	NA
+Miss	0	1
+Woodley	2	2
+?	NA	NA

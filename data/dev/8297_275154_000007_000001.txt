@@ -1,0 +1,12 @@
+After	2	0
+months	1	1
+of	0	0
+separation	1	1
+,	NA	NA
+he	0	0
+received	2	1
+a	0	0
+visit	1	1
+from	0	0
+Herbert	2	2
+.	NA	NA

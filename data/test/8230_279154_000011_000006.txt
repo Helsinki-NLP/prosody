@@ -1,0 +1,8 @@
+Familiarity	2	1
+is	0	0
+a	0	0
+feeling	1	1
+capable	1	0
+of	0	0
+degrees	0	2
+.	NA	NA

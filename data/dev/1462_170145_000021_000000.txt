@@ -1,0 +1,4 @@
+Alexander	2	0
+moved	0	1
+restlessly	1	2
+.	NA	NA

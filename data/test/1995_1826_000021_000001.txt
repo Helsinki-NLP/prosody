@@ -1,0 +1,8 @@
+Then	2	0
+her	0	0
+New	1	0
+England	0	1
+conscience	2	1
+stepped	0	0
+in	2	2
+.	NA	NA

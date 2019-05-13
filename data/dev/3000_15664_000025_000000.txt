@@ -1,0 +1,14 @@
+Captain	2	0
+Jack's	2	1
+cave	1	1
+is	0	0
+one	1	0
+of	0	0
+the	0	1
+many	0	0
+somber	1	1
+cells	2	0
+of	0	2
+the	0	0
+castle	2	2
+.	NA	NA

@@ -1,0 +1,16 @@
+His	0	0
+father	2	0
+was	0	1
+the	0	0
+notorious	1	0
+Sir	0	1
+Jabez	2	2
+Gilchrist	1	1
+,	NA	NA
+who	0	0
+ruined	2	0
+himself	0	0
+on	0	1
+the	0	0
+turf	1	2
+.	NA	NA

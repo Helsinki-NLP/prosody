@@ -1,0 +1,13 @@
+He	0	0
+is	1	1
+taller	2	0
+than	0	0
+the	0	0
+Indian	0	1
+,	NA	NA
+not	2	0
+so	0	1
+tall	2	0
+as	0	1
+Gilchrist	1	2
+.	NA	NA

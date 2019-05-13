@@ -1,0 +1,16 @@
+It	0	0
+was	1	0
+bitterly	1	1
+cold	2	1
+,	NA	NA
+but	0	0
+the	1	0
+Embankment	2	1
+was	0	0
+more	0	0
+romantic	1	1
+than	0	0
+a	0	0
+railway	2	1
+carriage	1	2
+.	NA	NA

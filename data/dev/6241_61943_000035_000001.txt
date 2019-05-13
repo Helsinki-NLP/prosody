@@ -1,0 +1,14 @@
+The	0	1
+town	2	0
+lies	1	0
+on	0	2
+a	0	0
+flat	2	0
+and	0	1
+marshy	1	1
+plain	1	0
+,	NA	NA
+between	0	1
+two	0	0
+hills	1	2
+.	NA	NA

@@ -1,0 +1,14 @@
+Then	2	0
+your	0	0
+city	0	0
+did	0	1
+bravely	1	2
+,	NA	NA
+and	0	0
+won	1	0
+renown	2	1
+over	0	0
+the	0	0
+whole	0	1
+earth	2	2
+.	NA	NA

@@ -1,0 +1,7 @@
+How	1	0
+could	0	0
+you	0	1
+possibly	2	1
+know	0	0
+that	2	2
+?	NA	NA

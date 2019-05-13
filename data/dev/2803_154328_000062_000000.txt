@@ -1,0 +1,8 @@
+I	2	0
+will	0	1
+go	0	0
+first	2	1
+,	NA	NA
+said	0	0
+Robert	1	2
+.	NA	NA

@@ -1,0 +1,10 @@
+This	2	1
+without	0	1
+reckoning	1	0
+in	0	1
+the	0	0
+pains	1	0
+of	0	1
+the	0	0
+heart	2	2
+.	NA	NA

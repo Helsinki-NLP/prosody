@@ -1,0 +1,14 @@
+That	2	0
+is	0	0
+all	2	0
+quite	0	1
+true	1	0
+,	0	0
+Mr	NA	NA
+Neverbend	1	2
+,	NA	NA
+said	2	0
+Sir	0	1
+Ferdinando	1	0
+Brown	0	2
+.	NA	NA

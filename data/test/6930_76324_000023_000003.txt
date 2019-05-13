@@ -1,0 +1,11 @@
+There	0	0
+isn't	1	0
+a	0	1
+doubt	1	1
+but	1	0
+what	1	0
+that	1	2
+baby	1	1
+was	0	0
+she	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+I	2	0
+mean	0	0
+it	0	0
+as	0	1
+honestly	1	1
+as	0	1
+you	1	1
+do	2	2
+.	NA	NA

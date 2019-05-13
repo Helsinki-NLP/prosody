@@ -1,0 +1,16 @@
+If	0	0
+I	2	0
+had	0	0
+set	0	0
+him	0	0
+right	2	2
+,	NA	NA
+what	0	0
+would	1	0
+have	0	0
+become	1	0
+of	0	1
+my	0	0
+daughter's	1	1
+reputation	2	2
+?	NA	NA

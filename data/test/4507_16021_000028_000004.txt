@@ -1,0 +1,15 @@
+Does	0	0
+any	1	0
+one	0	1
+think	2	1
+that	1	2
+Alighieri	2	2
+has	2	1
+any	1	0
+fewer	1	0
+things	0	1
+to	0	0
+say	1	0
+than	0	1
+Machiavelli	2	2
+?	NA	NA

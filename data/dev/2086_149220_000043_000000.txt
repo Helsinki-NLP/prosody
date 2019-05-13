@@ -1,0 +1,13 @@
+Cousin	2	1
+,	NA	NA
+said	0	0
+Phoebe	1	1
+,	NA	NA
+did	1	0
+you	0	0
+speak	1	0
+to	0	1
+me	0	0
+just	0	0
+now	1	2
+?	NA	NA

@@ -1,0 +1,17 @@
+He	0	0
+was	0	0
+young	2	2
+;	NA	NA
+no	2	0
+spear	0	0
+had	0	0
+touched	1	0
+him	0	2
+,	NA	NA
+no	2	1
+poison	1	0
+lurked	1	0
+in	0	1
+his	0	0
+wine	1	2
+.	NA	NA

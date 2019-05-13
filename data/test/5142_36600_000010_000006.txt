@@ -1,0 +1,13 @@
+These	2	0
+,	NA	NA
+again	1	1
+,	NA	NA
+appeared	0	0
+larger	1	0
+and	0	1
+much	0	0
+softer	2	1
+than	0	0
+European	0	0
+lice	2	2
+.	NA	NA

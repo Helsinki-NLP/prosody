@@ -1,0 +1,6 @@
+What	2	1
+then	1	0
+,	NA	NA
+my	0	1
+Lord	1	2
+?	NA	NA

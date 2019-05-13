@@ -1,0 +1,11 @@
+I	0	0
+saw	2	0
+either	0	1
+victory	0	0
+or	0	1
+death	2	0
+written	0	1
+on	0	0
+his	0	0
+face	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+There's	1	0
+still	1	0
+enough	0	1
+left	2	1
+for	0	0
+one	0	0
+big	0	1
+glass	2	2
+.	NA	NA

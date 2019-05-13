@@ -1,0 +1,4 @@
+You	0	0
+mean	0	0
+it	2	2
+?	NA	NA

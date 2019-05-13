@@ -1,0 +1,7 @@
+mr	1	1
+Popham	2	1
+laid	0	0
+down	0	0
+his	0	1
+brush	2	2
+.	NA	NA

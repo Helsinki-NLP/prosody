@@ -1,0 +1,13 @@
+We	0	0
+went	2	1
+to	0	0
+it	2	0
+,	NA	NA
+and	0	2
+I	0	0
+struck	1	0
+it	0	0
+with	0	0
+my	1	1
+spear	1	2
+.	NA	NA

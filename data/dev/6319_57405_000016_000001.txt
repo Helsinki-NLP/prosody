@@ -1,0 +1,7 @@
+But	1	0
+let	0	0
+us	2	1
+think	1	0
+a	0	1
+moment	1	2
+.	NA	NA

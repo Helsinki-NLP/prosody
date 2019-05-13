@@ -1,0 +1,12 @@
+I	0	0
+cannot	1	1
+bear	2	0
+to	0	1
+go	0	0
+away	2	1
+,	NA	NA
+he	0	0
+said	0	1
+to	0	0
+them	1	2
+.	NA	NA

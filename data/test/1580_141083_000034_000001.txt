@@ -1,0 +1,8 @@
+I	0	0
+left	2	0
+him	0	1
+collapsed	2	0
+in	0	1
+the	0	1
+chair	2	2
+.	NA	NA

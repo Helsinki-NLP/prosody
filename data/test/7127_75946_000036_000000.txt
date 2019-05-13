@@ -1,0 +1,7 @@
+Seven	2	0
+hundred	0	1
+thousand	1	0
+francs	1	0
+,	NA	NA
+sire	1	2
+.	NA	NA

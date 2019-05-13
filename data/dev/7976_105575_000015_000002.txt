@@ -1,0 +1,12 @@
+Our	2	0
+grape	2	0
+shot	0	0
+had	0	2
+torn	1	1
+whole	2	0
+companies	0	1
+of	0	0
+men	1	0
+to	0	0
+pieces	1	2
+.	NA	NA

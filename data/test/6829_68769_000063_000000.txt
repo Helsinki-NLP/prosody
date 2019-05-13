@@ -1,0 +1,5 @@
+Thank	2	0
+you	0	1
+,	NA	NA
+sir	2	2
+.	NA	NA

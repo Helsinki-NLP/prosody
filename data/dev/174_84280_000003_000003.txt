@@ -1,0 +1,14 @@
+It	0	0
+gives	1	0
+,	NA	NA
+at	0	0
+most	1	1
+,	NA	NA
+certain	2	0
+acute	0	0
+points	1	2
+,	NA	NA
+certain	2	0
+salient	0	0
+aspects	1	2
+.	NA	NA

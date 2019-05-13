@@ -1,0 +1,17 @@
+I	2	0
+could	0	0
+not	0	0
+love	2	0
+thee	0	1
+,	NA	NA
+dear	1	1
+,	NA	NA
+so	0	0
+much	0	1
+,	NA	NA
+Loved	2	1
+I	1	0
+not	0	0
+honor	0	1
+more	2	2
+.	NA	NA

@@ -1,0 +1,15 @@
+The	0	0
+army	1	0
+found	1	0
+the	0	1
+people	0	0
+in	0	1
+poverty	2	2
+,	NA	NA
+and	0	0
+left	2	0
+them	0	0
+in	0	1
+comparative	2	1
+wealth	1	2
+.	NA	NA

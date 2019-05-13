@@ -1,0 +1,9 @@
+But	1	0
+they	1	0
+are	0	1
+mourning	1	1
+flowers	1	1
+,	NA	NA
+you	0	0
+know	2	2
+.	NA	NA

@@ -1,0 +1,6 @@
+Do	0	1
+you	0	0
+not	2	1
+know	1	0
+me	2	2
+'	NA	NA

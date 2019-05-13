@@ -1,0 +1,11 @@
+Our	2	0
+regiment	0	1
+now	0	0
+pursued	0	0
+the	0	1
+flying	0	0
+Rebels	2	1
+with	0	0
+great	1	0
+vigor	2	2
+.	NA	NA

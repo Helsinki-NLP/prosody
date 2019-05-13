@@ -1,0 +1,10 @@
+Neither	2	0
+did	0	0
+the	0	0
+front	0	0
+indicate	0	1
+absolute	2	1
+security	1	1
+from	0	0
+danger	2	2
+.	NA	NA

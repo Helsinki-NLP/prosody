@@ -1,0 +1,13 @@
+Off	2	1
+they	1	0
+ran	1	1
+through	0	0
+a	0	1
+door	1	0
+at	0	2
+the	0	0
+back	1	0
+of	0	0
+the	0	1
+hall	2	2
+.	NA	NA

@@ -1,0 +1,7 @@
+Your	0	1
+cabin	2	0
+is	0	0
+waiting	2	1
+for	1	0
+you	2	2
+.	NA	NA

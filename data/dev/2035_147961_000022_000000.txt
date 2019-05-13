@@ -1,0 +1,7 @@
+And	0	0
+the	0	0
+wolves	1	1
+?	NA	NA
+Pavel	0	0
+asked	2	2
+.	NA	NA

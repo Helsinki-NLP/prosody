@@ -1,0 +1,17 @@
+It	1	0
+was	0	0
+one	1	0
+of	0	0
+those	1	1
+soft	2	1
+summer	2	1
+mornings	1	1
+which	1	0
+are	0	0
+so	0	0
+delightful	2	1
+in	0	0
+a	0	0
+great	1	0
+city	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+You	0	0
+see	2	1
+,	NA	NA
+you	0	0
+are	1	0
+different	0	1
+,	NA	NA
+Hilda	1	2
+.	NA	NA

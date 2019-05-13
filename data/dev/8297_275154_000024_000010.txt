@@ -1,0 +1,13 @@
+Dear	0	0
+old	1	1
+fellow	2	2
+,	NA	NA
+I	0	0
+want	2	0
+you	0	1
+to	0	0
+do	1	0
+me	0	0
+a	0	1
+favor	1	2
+.	NA	NA

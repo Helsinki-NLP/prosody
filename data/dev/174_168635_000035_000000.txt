@@ -1,0 +1,10 @@
+Cosette	1	0
+laughed	1	1
+,	NA	NA
+chattered	1	1
+,	NA	NA
+and	0	0
+sang	2	1
+from	0	0
+daybreak	1	2
+.	NA	NA

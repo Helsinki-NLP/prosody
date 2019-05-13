@@ -1,0 +1,7 @@
+Pray	2	2
+continue	1	0
+your	0	0
+very	1	0
+interesting	0	0
+statement	1	2
+.	NA	NA

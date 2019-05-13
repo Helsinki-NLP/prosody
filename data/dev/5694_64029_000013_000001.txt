@@ -1,0 +1,7 @@
+I	0	0
+quickly	2	1
+made	1	0
+up	0	1
+my	0	0
+mind	2	2
+.	NA	NA

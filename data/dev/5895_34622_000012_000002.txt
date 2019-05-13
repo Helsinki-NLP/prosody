@@ -1,0 +1,16 @@
+This	1	0
+was	0	1
+Homo	2	2
+.	NA	NA
+The	2	0
+old	0	0
+coachman	1	1
+who	0	0
+drove	1	0
+the	0	0
+horses	0	0
+was	0	0
+the	0	1
+philosopher	1	0
+himself	1	2
+.	NA	NA

@@ -1,0 +1,9 @@
+You	0	1
+don't	0	0
+know	0	0
+how	1	1
+horrid	2	0
+everyone	0	0
+has	0	1
+been	2	2
+.	NA	NA

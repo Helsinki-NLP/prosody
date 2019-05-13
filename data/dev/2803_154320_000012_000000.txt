@@ -1,0 +1,11 @@
+My	0	0
+yacht	2	1
+!	NA	NA
+the	0	0
+DUNCAN	2	1
+,	NA	NA
+said	1	0
+Glenarvan	0	0
+,	NA	NA
+hotly	1	2
+.	NA	NA

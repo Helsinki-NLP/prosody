@@ -1,0 +1,6 @@
+Is	0	0
+that	2	0
+you	0	1
+,	NA	NA
+pigeon	1	2
+?	NA	NA

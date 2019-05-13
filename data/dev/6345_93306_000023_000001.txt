@@ -1,0 +1,9 @@
+I	1	0
+don't	2	1
+understand	0	0
+a	0	1
+single	2	0
+word	0	0
+you	0	1
+say	2	2
+!	NA	NA

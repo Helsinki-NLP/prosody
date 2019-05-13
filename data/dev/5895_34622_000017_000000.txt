@@ -1,0 +1,13 @@
+Ursus	2	1
+,	NA	NA
+it	0	0
+may	1	0
+be	0	0
+remembered	1	2
+,	NA	NA
+had	0	0
+made	2	0
+Gwynplaine	0	1
+his	0	0
+pupil	1	2
+.	NA	NA

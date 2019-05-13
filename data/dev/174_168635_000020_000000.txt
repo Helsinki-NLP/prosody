@@ -1,0 +1,10 @@
+Poor	2	0
+old	0	0
+man	1	2
+,	NA	NA
+with	1	0
+a	0	0
+perfectly	2	1
+new	0	0
+heart	2	2
+!	NA	NA

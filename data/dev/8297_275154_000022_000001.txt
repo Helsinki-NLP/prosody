@@ -1,0 +1,16 @@
+I	2	0
+think	0	0
+a	0	0
+man	0	0
+in	0	1
+my	0	0
+situation	1	0
+is	0	0
+to	0	1
+be	0	0
+pitied	2	2
+especially	2	1
+by	0	0
+his	0	1
+brother	2	2
+.	NA	NA

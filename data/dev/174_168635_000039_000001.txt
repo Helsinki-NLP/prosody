@@ -1,0 +1,11 @@
+Good	2	0
+thoughts	1	1
+have	0	0
+their	1	0
+abysses	0	2
+as	1	0
+well	2	0
+as	0	1
+evil	0	0
+ones	1	2
+.	NA	NA

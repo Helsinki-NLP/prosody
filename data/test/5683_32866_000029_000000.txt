@@ -1,0 +1,17 @@
+Their	0	0
+walk	2	0
+continued	0	1
+silent	2	1
+for	0	0
+the	0	0
+greater	0	0
+part	1	2
+,	NA	NA
+neither	2	0
+was	0	1
+quite	1	0
+satisfied	1	0
+with	0	1
+the	0	0
+other	2	2
+.	NA	NA

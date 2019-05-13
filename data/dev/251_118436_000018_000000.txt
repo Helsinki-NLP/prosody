@@ -1,0 +1,15 @@
+'The	1	0
+people	0	0
+know	1	0
+he	0	1
+will	0	0
+never	0	0
+see	0	0
+another	0	0
+dawn	1	2
+,	NA	NA
+'	NA	NA
+this	2	0
+man	0	0
+answered	1	2
+.	NA	NA

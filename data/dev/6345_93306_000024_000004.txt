@@ -1,0 +1,6 @@
+Perhaps	1	1
+I	1	0
+can	0	1
+help	1	1
+you	2	2
+.	NA	NA

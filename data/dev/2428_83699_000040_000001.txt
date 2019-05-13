@@ -1,0 +1,3 @@
+I'm	0	1
+expected	2	2
+.	NA	NA

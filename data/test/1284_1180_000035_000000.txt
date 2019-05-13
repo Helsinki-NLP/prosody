@@ -1,0 +1,11 @@
+Perhaps	2	1
+the	0	0
+Powder	1	0
+of	0	1
+Life	1	0
+couldn't	0	1
+either	2	2
+,	NA	NA
+said	0	0
+Ojo	2	2
+.	NA	NA

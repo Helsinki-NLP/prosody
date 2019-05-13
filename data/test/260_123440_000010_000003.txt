@@ -1,0 +1,14 @@
+Let	1	0
+me	0	1
+think	2	2
+was	1	0
+I	1	0
+the	0	1
+same	1	0
+when	0	1
+I	0	0
+got	1	0
+up	1	0
+this	0	1
+morning	2	2
+?	NA	NA

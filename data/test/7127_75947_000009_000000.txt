@@ -1,0 +1,10 @@
+Do	1	0
+you	0	0
+think	1	0
+so	2	1
+?	NA	NA
+she	0	1
+replied	2	0
+with	0	1
+indifference	1	2
+.	NA	NA

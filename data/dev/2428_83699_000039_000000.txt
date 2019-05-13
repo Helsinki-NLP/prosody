@@ -1,0 +1,10 @@
+Once	2	1
+more	1	0
+I	0	1
+suspected	1	2
+the	0	0
+driver	2	0
+of	0	0
+a	0	1
+chuckle	1	2
+.	NA	NA

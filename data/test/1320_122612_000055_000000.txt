@@ -1,0 +1,7 @@
+Fire	2	0
+a	0	1
+whole	1	0
+platoon	0	1
+,	NA	NA
+major	2	2
+.	NA	NA

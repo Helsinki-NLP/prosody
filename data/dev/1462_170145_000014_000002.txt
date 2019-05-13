@@ -1,0 +1,7 @@
+I've	1	0
+watched	2	1
+that	1	0
+door	0	0
+all	0	1
+day	2	2
+.	NA	NA

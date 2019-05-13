@@ -1,0 +1,9 @@
+A	0	0
+world	2	2
+,	NA	NA
+a	0	0
+glimmer	2	1
+or	1	0
+a	0	1
+flower	2	2
+?	NA	NA

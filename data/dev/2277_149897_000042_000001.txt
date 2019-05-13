@@ -1,0 +1,11 @@
+It	1	0
+was	0	1
+too	0	0
+much	2	1
+to	0	0
+think	0	0
+of	1	0
+and	0	1
+sit	1	2
+still	2	2
+.	NA	NA

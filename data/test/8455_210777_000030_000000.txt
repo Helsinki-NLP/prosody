@@ -1,0 +1,8 @@
+Very	2	0
+well	0	0
+put	1	2
+,	NA	NA
+said	0	0
+Sir	1	1
+Ferdinando	2	2
+.	NA	NA

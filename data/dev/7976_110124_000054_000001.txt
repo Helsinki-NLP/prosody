@@ -1,0 +1,12 @@
+When	0	0
+they	0	0
+heard	1	0
+their	0	0
+sister's	0	1
+story	2	2
+they	0	0
+were	0	1
+filled	2	0
+with	0	0
+amazement	1	2
+.	NA	NA

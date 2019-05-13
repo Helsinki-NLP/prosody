@@ -1,0 +1,15 @@
+He	0	0
+added	2	1
+Sydney's	0	0
+address	1	0
+in	0	0
+a	0	1
+postscript	2	2
+,	NA	NA
+and	2	0
+dispatched	1	0
+his	0	0
+letter	0	0
+that	0	0
+evening	1	2
+.	NA	NA

@@ -1,0 +1,12 @@
+What	0	0
+a	0	0
+strong	2	1
+brown	1	1
+face	0	0
+she	0	0
+had	1	2
+,	NA	NA
+and	0	0
+very	0	0
+tragic	2	2
+.	NA	NA

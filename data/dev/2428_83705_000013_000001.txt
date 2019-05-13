@@ -1,0 +1,10 @@
+From	2	0
+a	0	1
+cousin	2	0
+of	0	1
+ours	1	1
+who's	0	0
+in	0	0
+that	0	0
+line	2	2
+.	NA	NA

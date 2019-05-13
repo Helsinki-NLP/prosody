@@ -1,0 +1,14 @@
+'Here	1	0
+comes	2	1
+something	1	0
+that	0	0
+will	0	1
+be	0	0
+a	0	0
+welcome	2	0
+guest	2	1
+to	0	0
+my	1	0
+stomach	1	2
+.	NA	NA
+'	NA	NA

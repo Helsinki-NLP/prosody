@@ -1,0 +1,14 @@
+He	1	0
+could	0	0
+do	0	0
+nothing	1	0
+with	0	0
+it	0	1
+,	NA	NA
+so	0	0
+he	0	1
+turned	2	1
+it	2	2
+to	0	0
+account	2	2
+.	NA	NA

@@ -1,0 +1,8 @@
+'Really	2	0
+,	0	1
+Radie	NA	NA
+,	NA	NA
+you're	0	0
+quite	2	0
+mistaken	1	2
+.	NA	NA

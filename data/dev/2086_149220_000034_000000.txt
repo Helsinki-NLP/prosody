@@ -1,0 +1,6 @@
+Maule's	2	1
+well	2	1
+!	NA	NA
+answered	0	0
+Phoebe	1	2
+.	NA	NA

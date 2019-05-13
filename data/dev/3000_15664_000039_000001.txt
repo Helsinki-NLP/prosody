@@ -1,0 +1,12 @@
+How	1	0
+far	2	1
+destruction	0	1
+may	0	0
+go	2	2
+it	0	0
+is	0	0
+not	1	0
+easy	0	1
+to	0	0
+guess	2	2
+.	NA	NA

@@ -1,0 +1,6 @@
+Thank	1	1
+God	2	0
+!	NA	NA
+said	0	1
+Kirkland	1	2
+.	NA	NA

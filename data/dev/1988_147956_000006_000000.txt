@@ -1,0 +1,4 @@
+Grandmother	2	1
+looked	0	0
+interested	1	2
+.	NA	NA

@@ -1,0 +1,6 @@
+Guzzle	2	0
+him	0	1
+now	0	1
+,	NA	NA
+Towser	2	2
+!	NA	NA

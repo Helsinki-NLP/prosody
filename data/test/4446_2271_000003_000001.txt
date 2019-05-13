@@ -1,0 +1,8 @@
+It's	2	0
+tremendously	2	1
+well	0	0
+put	0	0
+on	1	1
+,	NA	NA
+too	2	2
+.	NA	NA

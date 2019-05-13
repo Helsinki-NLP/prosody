@@ -1,0 +1,12 @@
+We	0	1
+were	0	0
+right	2	0
+upon	0	1
+the	0	0
+Yankee	0	0
+line	2	0
+on	0	1
+the	0	0
+Wilkerson	2	1
+turnpike	1	2
+.	NA	NA

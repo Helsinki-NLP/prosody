@@ -1,0 +1,8 @@
+Now	2	2
+,	NA	NA
+why	2	0
+is	0	1
+that	1	0
+,	NA	NA
+Otto	1	2
+?	NA	NA

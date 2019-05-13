@@ -1,0 +1,5 @@
+Who	0	1
+began	2	0
+the	0	1
+quarrel	2	2
+?	NA	NA

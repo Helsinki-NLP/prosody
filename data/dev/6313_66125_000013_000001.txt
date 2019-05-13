@@ -1,0 +1,16 @@
+What	1	0
+are	0	0
+we	0	0
+going	2	1
+to	0	0
+do	1	1
+,	NA	NA
+Thomas	0	1
+how	0	0
+are	2	1
+we	0	0
+to	0	0
+rescue	1	0
+the	0	1
+boy	2	2
+?	NA	NA

@@ -1,0 +1,8 @@
+Hope	1	0
+you	0	0
+can	0	1
+find	2	0
+out	1	1
+what's	0	0
+wrong	2	2
+.	NA	NA

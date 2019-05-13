@@ -1,0 +1,5 @@
+Not	2	0
+on	0	1
+the	0	0
+range	2	2
+?	NA	NA

@@ -1,0 +1,13 @@
+They	0	0
+joined	2	1
+together	2	1
+to	0	0
+address	2	0
+a	0	1
+complaint	2	2
+to	0	0
+the	0	0
+Council	1	0
+of	0	1
+Ten	2	2
+.	NA	NA

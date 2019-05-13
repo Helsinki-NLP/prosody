@@ -1,0 +1,12 @@
+He	2	0
+ought	0	0
+to	0	1
+insist	0	0
+on	0	0
+the	0	1
+railway	1	1
+carriage	1	0
+he	0	2
+probably	1	0
+would	2	2
+.	NA	NA

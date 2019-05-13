@@ -1,0 +1,10 @@
+Sometimes	2	0
+a	0	1
+little	0	0
+jolt	2	0
+like	0	1
+that	0	0
+does	0	0
+one	0	1
+good	2	2
+.	NA	NA

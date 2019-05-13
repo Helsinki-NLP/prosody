@@ -1,0 +1,6 @@
+This	2	0
+does	1	0
+him	0	0
+an	0	1
+injustice	2	2
+.	NA	NA

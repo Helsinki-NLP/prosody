@@ -1,0 +1,17 @@
+The	0	0
+bugles	2	0
+played	0	0
+occasionally	2	2
+as	0	0
+the	0	0
+men	0	0
+hurried	0	0
+along	1	2
+,	NA	NA
+but	0	0
+not	2	0
+a	0	0
+shot	1	0
+was	0	1
+fired	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+I	2	0
+was	0	1
+suspicious	2	1
+of	0	0
+her	1	0
+from	0	0
+the	0	1
+first	2	2
+.	NA	NA

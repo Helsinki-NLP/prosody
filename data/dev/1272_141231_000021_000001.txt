@@ -1,0 +1,9 @@
+He	0	1
+was	0	0
+unhappily	1	1
+conscious	1	0
+of	0	2
+his	0	0
+total	1	0
+exhaustion	1	2
+.	NA	NA

@@ -1,0 +1,14 @@
+We	0	0
+stood	2	0
+at	0	0
+the	0	0
+entrance	0	1
+while	0	0
+Holmes	2	1
+made	0	0
+an	0	0
+examination	2	0
+of	0	2
+the	0	0
+carpet	2	2
+.	NA	NA

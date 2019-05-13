@@ -1,0 +1,14 @@
+I	2	0
+wanted	1	1
+you	0	0
+to	0	0
+eat	0	0
+all	2	0
+the	0	1
+cakes	1	1
+and	0	0
+have	0	0
+them	0	1
+,	NA	NA
+too	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+Almost	1	1
+instantly	1	1
+he	0	0
+was	0	0
+forced	2	1
+to	0	0
+the	0	0
+top	2	2
+.	NA	NA

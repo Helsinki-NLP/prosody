@@ -1,0 +1,12 @@
+You	0	0
+can	0	1
+enjoy	2	0
+yourselves	1	0
+sleeping	1	1
+just	0	0
+as	0	1
+well	2	0
+as	0	1
+sitting	0	0
+up	2	2
+.	NA	NA

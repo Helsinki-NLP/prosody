@@ -1,0 +1,11 @@
+I	1	0
+can't	2	1
+say	1	0
+rightly	0	1
+as	0	0
+how	1	0
+I	0	1
+should	2	1
+,	NA	NA
+Miss	2	2
+.	NA	NA

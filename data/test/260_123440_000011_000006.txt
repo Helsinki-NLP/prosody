@@ -1,0 +1,8 @@
+I	1	0
+must	2	0
+have	0	1
+been	0	0
+changed	1	1
+for	0	0
+Mabel	1	2
+!	NA	NA

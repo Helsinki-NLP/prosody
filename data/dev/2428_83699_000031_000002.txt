@@ -1,0 +1,11 @@
+The	0	1
+bell	2	1
+reverberated	1	2
+through	0	0
+what	0	0
+seemed	1	0
+like	0	1
+an	0	0
+empty	0	0
+house	1	2
+.	NA	NA

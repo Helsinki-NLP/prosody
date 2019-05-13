@@ -1,0 +1,10 @@
+Emil	2	1
+had	2	0
+already	0	1
+begun	0	0
+work	2	1
+and	0	0
+was	0	0
+mowing	1	1
+vigorously	1	2
+.	NA	NA

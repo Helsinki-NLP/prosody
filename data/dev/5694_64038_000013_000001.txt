@@ -1,0 +1,7 @@
+They	1	1
+persuaded	1	1
+effectually	1	2
+those	1	0
+feelers	0	0
+did	2	2
+.	NA	NA

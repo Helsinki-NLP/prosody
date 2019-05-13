@@ -1,0 +1,12 @@
+There	0	0
+were	0	0
+no	1	0
+signs	2	0
+of	0	2
+faltering	2	0
+about	1	0
+her	0	1
+flow	2	0
+of	0	0
+language	0	2
+.	NA	NA

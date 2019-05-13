@@ -1,0 +1,7 @@
+Somehow	2	0
+,	NA	NA
+I	0	0
+had	0	1
+grown	0	0
+nervous	1	2
+.	NA	NA

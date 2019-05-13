@@ -1,0 +1,5 @@
+The	0	0
+feud	2	1
+still	1	0
+existed	2	2
+.	NA	NA

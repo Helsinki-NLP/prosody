@@ -1,0 +1,11 @@
+Yes	2	1
+,	NA	NA
+that's	0	1
+the	0	0
+only	1	0
+way	1	0
+we	0	1
+can	0	0
+do	1	0
+it	0	2
+.	NA	NA

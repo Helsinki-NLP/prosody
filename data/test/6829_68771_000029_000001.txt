@@ -1,0 +1,5 @@
+Aren't	1	0
+you	0	1
+Lucy	0	0
+Rogers	2	2
+?	NA	NA

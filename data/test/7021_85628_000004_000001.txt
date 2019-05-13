@@ -1,0 +1,7 @@
+But	0	1
+Anders	2	0
+cared	1	1
+nothing	1	1
+about	0	0
+that	2	2
+.	NA	NA

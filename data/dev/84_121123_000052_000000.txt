@@ -1,0 +1,11 @@
+Yes	2	2
+,	NA	NA
+replied	1	0
+Noirtier	0	0
+with	0	1
+an	0	0
+expression	1	0
+of	0	1
+sinister	0	0
+joy	2	2
+.	NA	NA

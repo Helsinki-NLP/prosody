@@ -1,0 +1,8 @@
+Allee	2	0
+same	1	0
+likee	0	0
+this	1	1
+,	NA	NA
+he	0	0
+explained	2	2
+.	NA	NA

@@ -1,0 +1,10 @@
+She	0	0
+doesn't	2	1
+take	1	0
+up	0	1
+with	0	0
+anybody	1	1
+,	NA	NA
+you	0	0
+know	2	2
+.	NA	NA

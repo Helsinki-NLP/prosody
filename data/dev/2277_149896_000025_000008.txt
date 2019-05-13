@@ -1,0 +1,13 @@
+He	0	0
+jangled	1	0
+it	0	1
+fiercely	1	1
+several	2	0
+times	0	0
+in	0	1
+succession	2	1
+,	NA	NA
+but	1	0
+without	0	0
+avail	2	2
+.	NA	NA

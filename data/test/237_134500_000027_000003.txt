@@ -1,0 +1,15 @@
+Would	1	0
+you	0	0
+rather	2	1
+I	0	0
+went	0	0
+off	2	0
+in	0	2
+the	0	0
+sand	2	1
+hills	0	0
+and	0	0
+lived	0	1
+like	1	0
+Ivar	2	2
+?	NA	NA

@@ -1,0 +1,16 @@
+To	0	0
+prevent	2	1
+these	0	0
+electrolytes	1	0
+from	0	1
+freezing	2	2
+we	1	0
+had	2	0
+in	0	0
+each	0	0
+meter	0	0
+a	0	0
+strip	0	1
+of	0	0
+metal	2	2
+.	NA	NA

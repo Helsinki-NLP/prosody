@@ -1,0 +1,7 @@
+Sure	1	1
+thing	1	1
+!	NA	NA
+answered	0	1
+the	0	0
+boy	2	2
+.	NA	NA

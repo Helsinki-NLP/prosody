@@ -1,0 +1,11 @@
+'Ah	2	1
+,	NA	NA
+so	0	0
+they	0	0
+say	2	2
+Your	2	0
+excellent	0	1
+father	2	0
+has	0	1
+vanished	1	2
+.	NA	NA

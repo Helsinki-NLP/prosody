@@ -1,0 +1,12 @@
+Her	1	0
+expression	2	0
+was	0	1
+patient	2	2
+and	0	0
+resigned	1	1
+as	0	0
+she	0	0
+faced	1	1
+her	0	0
+audience	2	2
+.	NA	NA

@@ -1,0 +1,12 @@
+Fifteen	2	1
+officers	2	0
+of	0	1
+our	0	0
+little	0	0
+half	2	0
+regiment	1	1
+were	0	0
+dead	2	0
+or	0	0
+wounded	1	2
+.	NA	NA

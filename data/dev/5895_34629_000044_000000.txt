@@ -1,0 +1,9 @@
+Tom	2	1
+Jim	0	0
+Jack	2	2
+,	NA	NA
+replied	2	0
+the	0	1
+inn	0	0
+keeper	2	2
+.	NA	NA

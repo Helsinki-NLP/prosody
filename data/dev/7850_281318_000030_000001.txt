@@ -1,0 +1,9 @@
+What	2	0
+a	0	2
+pickle	2	0
+the	0	1
+other	0	0
+birds	1	1
+were	0	0
+in	1	2
+!	NA	NA

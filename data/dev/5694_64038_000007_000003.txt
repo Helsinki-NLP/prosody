@@ -1,0 +1,11 @@
+We	0	0
+had	2	1
+pontoons	1	1
+made	1	0
+for	0	2
+the	0	0
+purpose	1	0
+of	0	1
+crossing	1	0
+streams	1	2
+.	NA	NA

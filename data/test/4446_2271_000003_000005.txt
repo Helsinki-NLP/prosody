@@ -1,0 +1,11 @@
+She's	0	0
+apt	2	1
+to	0	0
+grow	2	0
+a	0	0
+bit	0	2
+stale	2	1
+after	0	1
+a	0	0
+time	2	2
+.	NA	NA

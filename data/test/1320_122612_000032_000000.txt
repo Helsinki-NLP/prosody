@@ -1,0 +1,7 @@
+Shall	0	0
+we	0	1
+proceed	2	2
+?	NA	NA
+demanded	1	0
+Heyward	2	2
+.	NA	NA

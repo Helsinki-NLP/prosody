@@ -1,0 +1,10 @@
+That's	2	1
+not	1	0
+much	0	0
+of	0	0
+a	0	1
+job	2	1
+for	0	0
+an	0	1
+athlete	2	2
+.	NA	NA

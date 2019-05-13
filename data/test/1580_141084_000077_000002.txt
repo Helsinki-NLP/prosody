@@ -1,0 +1,6 @@
+Such	2	0
+an	0	0
+idea	0	0
+was	0	1
+absurd	1	2
+.	NA	NA

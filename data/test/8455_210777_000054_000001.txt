@@ -1,0 +1,12 @@
+It	0	0
+is	0	0
+simply	2	0
+a	0	1
+contest	2	1
+between	0	1
+brute	0	0
+strength	1	1
+and	0	0
+mental	0	0
+energy	2	2
+.	NA	NA

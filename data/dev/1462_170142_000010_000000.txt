@@ -1,0 +1,13 @@
+What	0	0
+about	2	0
+us	0	1
+,	NA	NA
+Bartley	1	2
+?	NA	NA
+she	2	0
+asked	0	1
+in	0	0
+a	0	0
+thin	1	0
+voice	1	2
+.	NA	NA

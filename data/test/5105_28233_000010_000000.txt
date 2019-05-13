@@ -1,0 +1,17 @@
+Hector	0	0
+Servadac	1	1
+was	0	0
+thirty	2	0
+years	0	0
+of	0	0
+age	1	2
+,	NA	NA
+an	0	0
+orphan	2	1
+without	1	0
+lineage	1	2
+and	0	0
+almost	2	0
+without	0	0
+means	0	2
+.	NA	NA

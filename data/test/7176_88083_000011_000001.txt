@@ -1,0 +1,9 @@
+But	0	0
+the	0	0
+hawk	2	0
+was	0	1
+already	2	1
+close	0	0
+upon	2	0
+him	0	2
+.	NA	NA

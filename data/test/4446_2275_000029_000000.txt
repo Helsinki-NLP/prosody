@@ -1,0 +1,3 @@
+Alexander	2	1
+groaned	0	2
+.	NA	NA

@@ -1,0 +1,14 @@
+The	0	0
+daily	2	0
+newscasts	1	1
+from	0	0
+Terra	2	2
+showed	2	0
+a	0	0
+corresponding	1	0
+shift	1	0
+in	0	1
+interest	0	0
+at	0	0
+home	2	2
+.	NA	NA

@@ -1,0 +1,8 @@
+The	0	0
+test	2	0
+stand's	1	0
+loose	1	2
+!	NA	NA
+Tom	2	0
+warned	1	2
+.	NA	NA

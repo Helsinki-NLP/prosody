@@ -1,0 +1,11 @@
+Socrates	2	1
+begins	0	0
+the	0	1
+Timaeus	2	1
+with	0	0
+a	0	0
+summary	2	1
+of	0	0
+the	0	0
+Republic	1	2
+.	NA	NA

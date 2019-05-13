@@ -1,0 +1,4 @@
+and	0	1
+so	1	1
+forth	1	2
+.	NA	NA

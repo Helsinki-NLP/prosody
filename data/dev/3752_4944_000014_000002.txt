@@ -1,0 +1,6 @@
+Pray	2	0
+help	0	1
+yourself	1	1
+to	0	0
+wine	2	2
+.	NA	NA

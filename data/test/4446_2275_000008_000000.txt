@@ -1,0 +1,7 @@
+Bartley	2	1
+bent	1	1
+lower	1	0
+over	0	1
+the	0	0
+fire	2	2
+.	NA	NA

@@ -1,0 +1,8 @@
+'His	0	0
+excellency	1	1
+,	NA	NA
+madam	2	1
+,	NA	NA
+the	0	0
+prefect	2	2
+!	NA	NA

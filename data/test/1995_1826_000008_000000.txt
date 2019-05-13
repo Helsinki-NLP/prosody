@@ -1,0 +1,10 @@
+But	0	0
+,	NA	NA
+john	2	2
+,	NA	NA
+there's	1	0
+no	0	0
+society	2	2
+just	2	0
+elementary	1	0
+work	0	2

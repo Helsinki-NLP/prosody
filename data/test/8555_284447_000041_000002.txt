@@ -1,0 +1,15 @@
+Glorious	2	2
+!	NA	NA
+cried	1	0
+the	0	1
+Boolooroo	1	1
+,	NA	NA
+wiping	2	0
+the	0	1
+tears	0	0
+of	0	0
+merriment	0	0
+from	0	0
+his	0	0
+eyes	1	2
+.	NA	NA

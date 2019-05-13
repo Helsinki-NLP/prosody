@@ -1,0 +1,6 @@
+Here	0	0
+we	0	0
+are	1	0
+in	0	1
+Iceland	2	2
+.	NA	NA

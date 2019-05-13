@@ -1,10 +1,8 @@
 import os
 from torch.utils import data
 from pytorch_pretrained_bert import BertTokenizer
-from sklearn.model_selection import train_test_split
 import torch
 import numpy as np
-import nltk
 
 class Dataset(data.Dataset):
     def __init__(self, tagged_sents, tag_to_index):
@@ -50,44 +48,45 @@ class Dataset(data.Dataset):
 
 
 def load_dataset(config):
-    directory = os.fsencode(config.datadir)
-    tagged_sents = []
+    splits = dict()
     vocab = []
-    files = 0
-    for file in os.listdir(directory):
-        files += 1
-        filename = os.fsdecode(file)
-        if filename.endswith(".txt"):
-            with open(config.datadir+'/'+filename) as f:
-                lines = f.read().splitlines()
-                sent = []
-                for line in lines:
-                    split_line = line.split('\t')
-                    sent.append((split_line[0], split_line[1]))
-                    vocab.append(split_line[0])
-            tagged_sents.append(sent)
-        else:
-            break
-        if files >= config.number_of_sents:
-            break
+    all_sents = []
+    for split in ['train', 'dev', 'test']:
+        directory = os.fsencode(config.datadir+'/'+split)
+        tagged_sents = []
+        files = 0
+        for file in os.listdir(directory):
+            files += 1
+            filename = os.fsdecode(file)
+            if filename.endswith(".txt"):
+                with open(config.datadir+'/'+split+'/'+filename) as f:
+                    lines = f.read().splitlines()
+                    sent = []
+                    for line in lines:
+                        split_line = line.split('\t')
+                        sent.append((split_line[0], split_line[1]))
+                        vocab.append(split_line[0])
+                tagged_sents.append(sent)
+            else:
+                break
+        slice = len(tagged_sents) * config.percentage_of_sents
+        tagged_sents = tagged_sents[0:int(slice)]
+        splits[split] = tagged_sents
+        all_sents = all_sents + tagged_sents
 
     vocab = set(vocab)
     vocab_size = len(vocab)
-    tags = list(set(word_tag[1] for sent in tagged_sents for word_tag in sent))
+    tags = list(set(word_tag[1] for sent in all_sents for word_tag in sent))
     tags = ["<pad>"] + tags
 
     tag_to_index = {tag: index for index, tag in enumerate(tags)}
     index_to_tag = {index: tag for index, tag in enumerate(tags)}
 
-    # Split the data into train, dev and test
-    train_data, validation_data = train_test_split(tagged_sents, test_size=2*config.test_and_dev_split)
-    dev_data, test_data = train_test_split(validation_data, test_size=.5)
+    print('Training data: {}'.format(len(splits["train"])))
+    print('Dev data: {}'.format(len(splits["dev"])))
+    print('Test data: {}'.format(len(splits["test"])))
 
-    print('Training data: {}'.format(len(train_data)))
-    print('Dev data: {}'.format(len(dev_data)))
-    print('Test data: {}'.format(len(test_data)))
-
-    return train_data, test_data, dev_data, tag_to_index, index_to_tag, vocab_size
+    return splits, tag_to_index, index_to_tag, vocab_size
 
 
 def pad(batch):

@@ -1,0 +1,16 @@
+The	0	0
+Paris	2	0
+plant	0	2
+,	NA	NA
+like	2	0
+that	1	0
+at	0	1
+the	0	0
+Crystal	1	0
+Palace	2	2
+,	NA	NA
+was	2	0
+a	0	0
+temporary	0	0
+exhibit	2	2
+.	NA	NA

@@ -1,0 +1,10 @@
+He	0	0
+looked	2	0
+at	0	0
+her	1	0
+and	0	1
+his	0	0
+haggard	2	1
+face	1	1
+softened	1	2
+.	NA	NA

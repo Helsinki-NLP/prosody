@@ -1,0 +1,16 @@
+Even	2	0
+from	0	1
+a	0	0
+distance	1	1
+one	1	0
+could	0	1
+see	2	0
+that	0	1
+there	1	0
+was	0	1
+something	1	0
+strange	1	0
+about	1	0
+this	0	1
+boy	2	2
+.	NA	NA

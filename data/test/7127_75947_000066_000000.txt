@@ -1,0 +1,6 @@
+You	0	0
+are	0	1
+positive	2	1
+,	NA	NA
+then	2	2
+?	NA	NA

@@ -1,0 +1,12 @@
+Isn't	0	0
+there	1	0
+a	0	1
+law	1	0
+to	0	1
+cover	0	0
+this	0	1
+case	1	2
+?	NA	NA
+asked	1	0
+Coralie	2	2
+.	NA	NA

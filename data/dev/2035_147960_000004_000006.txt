@@ -1,0 +1,17 @@
+As	2	0
+we	0	0
+approached	1	2
+,	NA	NA
+they	1	0
+barked	2	1
+,	NA	NA
+shook	1	0
+their	0	0
+tails	1	0
+at	0	0
+us	0	1
+,	NA	NA
+and	0	0
+scurried	2	0
+underground	1	2
+.	NA	NA

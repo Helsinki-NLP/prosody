@@ -1,0 +1,9 @@
+A	1	0
+low	2	1
+confused	0	1
+moan	1	0
+waned	1	1
+from	0	0
+his	0	0
+mouth	2	2
+.	NA	NA

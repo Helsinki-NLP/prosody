@@ -1,0 +1,10 @@
+Good	2	0
+beast	0	2
+,	NA	NA
+good	2	0
+beast	0	0
+,	NA	NA
+he	0	1
+would	0	0
+cry	2	2
+.	NA	NA

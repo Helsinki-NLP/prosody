@@ -1,0 +1,6 @@
+I	1	0
+shall	0	1
+call	0	0
+you	0	1
+Esprit	2	2
+.	NA	NA

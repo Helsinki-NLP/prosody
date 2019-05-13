@@ -1,0 +1,4 @@
+They	2	0
+were	0	1
+gentlemen	1	2
+.	NA	NA

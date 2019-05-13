@@ -1,0 +1,17 @@
+Who	2	0
+is	0	0
+the	0	0
+wrangler	1	0
+this	0	0
+morning	2	1
+?	NA	NA
+asked	2	2
+the	0	0
+foreman	1	0
+,	NA	NA
+glancing	1	0
+about	1	0
+at	0	1
+his	0	0
+men	2	2
+.	NA	NA

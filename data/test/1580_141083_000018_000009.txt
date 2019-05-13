@@ -1,0 +1,5 @@
+You	1	0
+see	0	0
+my	0	1
+dilemma	2	2
+.	NA	NA

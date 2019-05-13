@@ -1,0 +1,11 @@
+She	0	0
+even	0	0
+seemed	0	1
+mildly	2	1
+amused	1	0
+at	1	1
+the	0	0
+attention	1	1
+she	0	0
+attracted	2	2
+.	NA	NA

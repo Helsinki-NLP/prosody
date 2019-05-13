@@ -1,0 +1,12 @@
+When	0	0
+I	0	0
+beg	2	0
+him	0	0
+for	0	2
+play	2	1
+,	NA	NA
+he	0	0
+shake	1	0
+his	0	1
+head	1	1
+no	2	2

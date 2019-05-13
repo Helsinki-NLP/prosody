@@ -1,0 +1,15 @@
+Yet	1	0
+it	0	0
+was	0	1
+far	2	2
+,	NA	NA
+and	0	0
+he	0	0
+feared	2	1
+,	NA	NA
+and	0	0
+ran	1	1
+with	0	0
+startled	2	1
+eyes	1	2
+.	NA	NA

@@ -1,0 +1,5 @@
+My	2	0
+temper	0	0
+was	0	1
+rising	2	2
+.	NA	NA

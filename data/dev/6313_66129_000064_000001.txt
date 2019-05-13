@@ -1,0 +1,16 @@
+All	2	0
+agreed	0	2
+that	0	0
+Tad's	2	1
+superior	1	0
+horsemanship	1	1
+,	NA	NA
+alone	1	1
+,	NA	NA
+had	0	0
+won	0	0
+the	0	0
+race	0	0
+for	0	0
+him	1	2
+.	NA	NA

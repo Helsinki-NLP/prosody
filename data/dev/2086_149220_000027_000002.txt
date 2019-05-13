@@ -1,0 +1,4 @@
+But	0	1
+,	NA	NA
+stay	2	2
+!	NA	NA

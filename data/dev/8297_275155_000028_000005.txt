@@ -1,0 +1,14 @@
+I	0	0
+have	1	1
+ship	2	0
+wrecked	0	1
+Herbert	1	2
+as	1	0
+the	0	0
+shortest	2	1
+way	0	0
+of	0	1
+answering	0	1
+inconvenient	0	0
+questions	1	2
+.	NA	NA

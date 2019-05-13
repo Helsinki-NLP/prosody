@@ -1,0 +1,8 @@
+There	1	0
+was	1	0
+no	2	0
+use	0	2
+speculating	1	1
+over	0	0
+that	2	2
+.	NA	NA

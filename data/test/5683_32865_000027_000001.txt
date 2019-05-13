@@ -1,0 +1,17 @@
+Look	2	0
+at	0	0
+it	1	2
+,	NA	NA
+do	2	0
+,	0	0
+mr	NA	NA
+Wylder	2	2
+isn't	2	0
+it	0	0
+like	0	0
+the	0	0
+ace	0	0
+of	0	1
+hearts	2	2
+?	NA	NA
+'	NA	NA

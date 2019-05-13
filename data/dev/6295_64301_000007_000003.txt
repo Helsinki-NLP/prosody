@@ -1,0 +1,14 @@
+O	0	0
+my	0	0
+God	2	2
+through	2	0
+the	0	0
+mud	1	0
+of	0	1
+me	1	2
+,	NA	NA
+up	1	0
+to	0	0
+thy	0	0
+righteousness	1	2
+!	NA	NA

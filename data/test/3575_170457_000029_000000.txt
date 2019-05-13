@@ -1,0 +1,9 @@
+Keswick	2	2
+,	NA	NA
+march	2	0
+twenty	0	0
+second	0	1
+eighteen	0	0
+thirty	0	0
+seven	1	2
+.	NA	NA

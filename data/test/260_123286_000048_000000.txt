@@ -1,0 +1,6 @@
+We	0	0
+stood	2	1
+dumb	1	0
+with	0	1
+fear	2	2
+.	NA	NA

@@ -1,0 +1,12 @@
+All	2	0
+is	0	1
+darkness	1	2
+,	NA	NA
+and	0	0
+the	0	0
+roaring	2	0
+of	0	1
+great	1	0
+winds	1	2
+!	NA	NA
+'	NA	NA

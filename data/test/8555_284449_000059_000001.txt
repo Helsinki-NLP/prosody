@@ -1,0 +1,17 @@
+The	2	0
+combined	2	0
+bands	0	1
+of	0	0
+both	2	0
+the	0	0
+countries	0	1
+played	2	0
+the	0	0
+music	1	0
+and	0	1
+a	0	0
+fine	2	1
+supper	1	0
+was	0	1
+served	2	2
+.	NA	NA

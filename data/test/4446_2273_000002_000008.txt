@@ -1,0 +1,6 @@
+There	0	0
+aren't	2	1
+many	0	0
+such	0	1
+left	2	2
+.	NA	NA

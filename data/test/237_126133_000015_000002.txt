@@ -1,0 +1,11 @@
+If	0	0
+she	0	0
+could	0	0
+only	1	0
+see	0	1
+Phronsie	2	2
+for	0	0
+just	2	0
+one	0	1
+moment	2	2
+!	NA	NA

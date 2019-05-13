@@ -1,0 +1,4 @@
+Which	0	0
+is	0	0
+yours	2	2
+?	NA	NA

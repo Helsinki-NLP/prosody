@@ -1,0 +1,10 @@
+It's	1	1
+a	0	0
+glorious	2	1
+mission	0	2
+but	0	0
+also	1	0
+a	0	0
+dangerous	0	0
+one	1	2
+!	NA	NA

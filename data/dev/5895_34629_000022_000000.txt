@@ -1,0 +1,10 @@
+The	0	1
+glory	2	0
+of	0	1
+Gwynplaine	0	1
+had	0	0
+not	1	0
+passed	2	1
+London	0	0
+Bridge	2	2
+.	NA	NA

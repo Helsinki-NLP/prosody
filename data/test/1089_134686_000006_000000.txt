@@ -1,0 +1,5 @@
+Good	0	0
+night	2	1
+,	NA	NA
+husband	0	2
+!	NA	NA

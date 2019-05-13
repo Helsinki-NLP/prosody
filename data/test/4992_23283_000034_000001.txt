@@ -1,0 +1,4 @@
+You	0	0
+talk	2	1
+mysteriously	1	2
+.	NA	NA

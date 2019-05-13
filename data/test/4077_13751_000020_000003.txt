@@ -1,0 +1,11 @@
+There	2	0
+their	0	1
+sad	2	0
+condition	0	1
+evoked	1	1
+for	0	0
+a	0	0
+time	1	1
+general	0	1
+commiseration	1	2
+.	NA	NA

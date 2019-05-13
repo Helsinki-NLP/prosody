@@ -1,0 +1,5 @@
+I	2	0
+understand	1	1
+,	NA	NA
+Bartley	0	2
+.	NA	NA

@@ -1,0 +1,14 @@
+At	0	0
+last	2	1
+it	0	0
+was	0	1
+daylight	2	2
+and	0	0
+the	0	0
+band	1	0
+of	0	1
+thieves	1	1
+had	1	0
+to	0	1
+flee	1	2
+.	NA	NA

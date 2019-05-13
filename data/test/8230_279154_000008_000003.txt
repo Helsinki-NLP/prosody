@@ -1,0 +1,7 @@
+And	0	0
+the	0	0
+same	2	1
+applies	2	0
+to	0	1
+images	1	2
+.	NA	NA

@@ -1,0 +1,8 @@
+Philip	2	1
+has	0	0
+gone	1	0
+to	0	2
+the	0	0
+far	0	0
+west	2	2
+.	NA	NA

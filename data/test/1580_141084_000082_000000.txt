@@ -1,0 +1,6 @@
+Holmes	2	0
+looked	0	1
+triumphantly	1	1
+at	0	0
+Bannister	1	2
+.	NA	NA

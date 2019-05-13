@@ -1,0 +1,11 @@
+The	0	0
+escape	2	1
+was	0	0
+commenced	2	1
+,	NA	NA
+and	0	0
+every	2	1
+precaution	2	1
+was	0	0
+taken	1	2
+.	NA	NA

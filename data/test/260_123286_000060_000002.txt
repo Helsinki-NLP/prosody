@@ -1,0 +1,10 @@
+The	0	0
+combatants	2	1
+alternately	2	0
+approach	2	1
+and	0	0
+recede	1	1
+from	0	0
+our	0	0
+raft	2	2
+.	NA	NA

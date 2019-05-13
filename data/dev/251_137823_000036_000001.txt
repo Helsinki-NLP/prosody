@@ -1,0 +1,15 @@
+The	0	0
+main	2	0
+plant	2	1
+building	0	0
+of	0	1
+Faber	1	0
+Electronics	2	1
+had	0	1
+been	0	0
+partially	2	1
+demolished	2	1
+by	1	0
+the	0	1
+quake	2	2
+.	NA	NA

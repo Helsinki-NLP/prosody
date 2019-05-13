@@ -1,0 +1,9 @@
+Well	2	2
+,	NA	NA
+he	1	0
+is	0	0
+still	0	0
+clever	1	0
+and	0	1
+lazy	1	2
+.	NA	NA

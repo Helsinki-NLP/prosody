@@ -1,0 +1,14 @@
+You	0	0
+know	2	2
+,	NA	NA
+I'd	2	0
+get	0	1
+drafted	2	1
+in	0	0
+a	0	0
+year	0	0
+or	0	1
+two	0	0
+,	NA	NA
+anyway	1	2
+.	NA	NA

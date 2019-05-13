@@ -1,0 +1,17 @@
+This	2	1
+trading	1	0
+votes	2	2
+,	NA	NA
+which	1	0
+was	0	0
+often	0	0
+done	1	1
+,	NA	NA
+was	0	0
+considered	2	0
+by	0	1
+the	0	0
+politicians	1	1
+quite	2	1
+legitimate	2	2
+.	NA	NA

@@ -1,0 +1,17 @@
+The	2	0
+people	1	0
+must	0	1
+wait	0	0
+outside	1	2
+,	NA	NA
+for	0	0
+there	1	0
+is	0	0
+no	0	0
+room	0	0
+for	0	0
+them	0	0
+in	0	0
+the	0	1
+palace	2	2
+.	NA	NA

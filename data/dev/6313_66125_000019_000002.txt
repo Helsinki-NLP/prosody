@@ -1,0 +1,4 @@
+Hey	0	0
+,	NA	NA
+Walter	2	2
+!	NA	NA

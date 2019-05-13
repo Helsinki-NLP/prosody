@@ -1,0 +1,7 @@
+We	1	0
+can	0	1
+scut	2	0
+the	0	2
+whole	1	0
+hour	2	2
+.	NA	NA

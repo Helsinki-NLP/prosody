@@ -1,0 +1,3 @@
+Look	0	0
+out	2	2
+!	NA	NA

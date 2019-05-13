@@ -1,0 +1,15 @@
+And	0	0
+have	0	0
+I	0	0
+done	1	1
+anything	2	1
+so	1	1
+fool	1	0
+as	0	1
+that	2	1
+,	NA	NA
+now	1	1
+?	NA	NA
+he	0	0
+asked	1	2
+.	NA	NA

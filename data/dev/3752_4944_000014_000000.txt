@@ -1,0 +1,13 @@
+Not	2	0
+at	0	1
+this	0	0
+moment	2	1
+,	NA	NA
+sir	0	0
+,	NA	NA
+said	0	1
+Burgess	1	0
+,	NA	NA
+with	0	1
+dignity	2	2
+.	NA	NA

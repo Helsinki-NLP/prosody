@@ -1,0 +1,7 @@
+Mother	2	1
+Magpie	1	0
+has	0	0
+found	1	0
+a	0	1
+way	2	2
+.	NA	NA

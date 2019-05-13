@@ -1,0 +1,9 @@
+I	0	0
+looked	2	0
+at	0	0
+her	1	2
+;	NA	NA
+she	1	0
+at	0	1
+me	1	2
+.	NA	NA

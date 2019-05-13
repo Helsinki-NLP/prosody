@@ -1,0 +1,10 @@
+He	0	0
+grasped	2	1
+his	0	0
+hoe	2	0
+and	0	1
+started	1	1
+briskly	2	1
+to	0	0
+work	2	2
+.	NA	NA

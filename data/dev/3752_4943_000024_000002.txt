@@ -1,0 +1,8 @@
+If	0	0
+he	0	0
+was	0	1
+dying	2	1
+,	NA	NA
+I	0	0
+can't	1	2
+.	NA	NA

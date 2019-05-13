@@ -1,0 +1,7 @@
+Even	2	0
+the	0	0
+lookers	1	1
+on	1	0
+were	0	1
+different	1	2
+.	NA	NA

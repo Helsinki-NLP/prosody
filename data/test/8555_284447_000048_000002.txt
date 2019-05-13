@@ -1,0 +1,13 @@
+Cap'n	2	0
+Bill	0	0
+rolled	0	0
+away	0	0
+in	0	1
+his	0	0
+frame	2	2
+and	0	0
+the	0	0
+knife	1	1
+fell	1	1
+harmlessly	1	2
+.	NA	NA

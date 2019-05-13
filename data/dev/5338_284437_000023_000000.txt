@@ -1,0 +1,17 @@
+Perhaps	2	0
+you	0	0
+are	0	1
+trying	0	0
+to	0	1
+ridicule	2	0
+me	1	2
+,	NA	NA
+she	1	0
+continued	0	2
+,	NA	NA
+regarding	2	0
+the	0	1
+sailor's	1	0
+face	0	1
+closely	1	2
+.	NA	NA

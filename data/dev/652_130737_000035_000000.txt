@@ -1,0 +1,8 @@
+Lacrima	1	0
+Christi	0	0
+Spumanti	2	2
+The	0	0
+finest	2	0
+Italian	0	0
+champagne	0	2
+.	NA	NA

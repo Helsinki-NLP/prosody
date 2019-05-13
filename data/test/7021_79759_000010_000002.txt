@@ -1,0 +1,7 @@
+We	0	0
+can	0	0
+not	2	1
+surrender	1	0
+this	0	1
+trust	2	2
+.	NA	NA

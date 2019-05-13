@@ -1,0 +1,7 @@
+The	1	0
+same	1	0
+thing	0	0
+happened	0	0
+as	0	2
+before	2	2
+.	NA	NA

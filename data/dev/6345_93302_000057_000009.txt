@@ -1,0 +1,11 @@
+As	2	0
+the	0	1
+confession	1	0
+of	0	0
+a	0	1
+crime	1	1
+she	0	0
+must	1	1
+receive	0	0
+it	2	2
+.	NA	NA

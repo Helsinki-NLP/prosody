@@ -1,0 +1,9 @@
+But	0	0
+it	0	1
+is	0	0
+far	2	0
+better	0	2
+to	0	0
+go	1	0
+afoot	2	2
+.	NA	NA

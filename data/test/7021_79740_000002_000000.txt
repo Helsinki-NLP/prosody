@@ -1,0 +1,5 @@
+DELLA	2	2
+AND	0	0
+THE	0	0
+DOLLS	2	2
+.	NA	NA

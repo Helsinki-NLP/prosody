@@ -1,0 +1,5 @@
+After	2	1
+the	0	0
+very	2	1
+first	1	2
+.	NA	NA

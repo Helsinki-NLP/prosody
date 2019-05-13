@@ -1,0 +1,10 @@
+What	0	0
+I	2	1
+say	2	0
+is	0	1
+altogether	1	0
+on	0	1
+your	0	0
+own	0	0
+account	2	2
+.	NA	NA

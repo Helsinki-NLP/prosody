@@ -1,0 +1,15 @@
+You	0	0
+think	2	0
+the	0	1
+school	2	0
+signs	0	1
+me	0	0
+up	2	2
+for	0	0
+an	0	0
+hour	1	0
+of	0	1
+home	1	0
+record	0	1
+playing	2	2
+?	NA	NA

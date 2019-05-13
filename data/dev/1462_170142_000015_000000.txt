@@ -1,0 +1,12 @@
+I	0	0
+can't	0	0
+live	1	0
+with	0	1
+myself	0	0
+any	0	0
+longer	1	2
+,	NA	NA
+he	0	0
+answered	1	0
+roughly	1	2
+.	NA	NA

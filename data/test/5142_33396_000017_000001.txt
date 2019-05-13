@@ -1,0 +1,6 @@
+After	2	1
+a	0	0
+while	2	1
+my	0	0
+men	0	1
+said	2	2

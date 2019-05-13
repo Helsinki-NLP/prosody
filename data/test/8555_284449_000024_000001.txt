@@ -1,0 +1,6 @@
+When	1	1
+he	0	0
+finished	2	2
+she	1	0
+said	0	0
+cheerfully	1	2

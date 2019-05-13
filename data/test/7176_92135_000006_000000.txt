@@ -1,0 +1,6 @@
+Frankly	1	0
+I	0	1
+cannot	0	0
+always	1	1
+say	2	2
+.	NA	NA

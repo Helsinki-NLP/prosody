@@ -1,0 +1,15 @@
+Our	2	0
+father	1	0
+has	0	1
+always	2	1
+taught	2	0
+us	0	1
+to	0	0
+show	0	0
+mercy	2	1
+and	0	0
+kindness	2	1
+to	0	0
+the	0	0
+aged	2	2
+.	NA	NA

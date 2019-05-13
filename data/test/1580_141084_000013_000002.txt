@@ -1,0 +1,10 @@
+I	2	0
+suppose	1	0
+five	2	0
+foot	0	1
+six	2	1
+would	0	0
+be	0	0
+about	0	0
+it	1	2
+.	NA	NA

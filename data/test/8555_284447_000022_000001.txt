@@ -1,0 +1,15 @@
+It	2	0
+is	0	0
+an	0	1
+insult	2	2
+to	0	0
+be	1	1
+spoken	2	1
+to	0	0
+by	1	0
+one	0	0
+about	1	2
+to	0	0
+be	0	0
+patched	2	2
+.	NA	NA

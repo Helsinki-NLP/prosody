@@ -1,0 +1,13 @@
+I	1	0
+don't	1	0
+know	0	0
+all	1	0
+of	0	1
+them	0	2
+,	NA	NA
+but	1	0
+I	0	0
+know	0	0
+lindens	0	1
+are	1	2
+.	NA	NA

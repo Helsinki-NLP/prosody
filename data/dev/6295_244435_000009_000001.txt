@@ -1,0 +1,6 @@
+He	0	1
+was	0	0
+watching	2	1
+the	0	0
+boats	2	2
+.	NA	NA

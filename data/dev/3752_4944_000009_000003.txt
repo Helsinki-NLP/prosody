@@ -1,0 +1,5 @@
+It	0	1
+is	0	0
+so	2	1
+complete	1	2
+.	NA	NA

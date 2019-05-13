@@ -1,0 +1,12 @@
+So	0	0
+Chelford	2	2
+led	2	1
+Stanley	1	0
+Lake	0	1
+before	1	0
+the	0	0
+lady	1	0
+of	0	0
+the	0	1
+castle	1	2
+.	NA	NA

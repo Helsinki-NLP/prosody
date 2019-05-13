@@ -1,0 +1,8 @@
+The	0	1
+doors	2	1
+were	0	0
+strong	0	0
+and	0	0
+held	1	1
+securely	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+In	0	1
+despair	2	0
+he	0	1
+hurled	2	0
+himself	0	1
+downward	2	1
+too	0	0
+soon	2	2
+.	NA	NA

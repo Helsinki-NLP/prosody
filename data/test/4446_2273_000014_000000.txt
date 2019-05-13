@@ -1,0 +1,7 @@
+I'm	0	1
+glad	2	1
+,	NA	NA
+said	0	0
+Alexander	0	0
+simply	1	2
+.	NA	NA

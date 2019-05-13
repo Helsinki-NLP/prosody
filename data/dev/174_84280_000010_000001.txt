@@ -1,0 +1,5 @@
+It's	0	1
+so	2	0
+damned	0	1
+silly	2	2
+.	NA	NA

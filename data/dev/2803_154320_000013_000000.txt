@@ -1,0 +1,8 @@
+God	2	1
+keep	1	0
+us	0	1
+from	0	0
+such	2	0
+a	0	1
+meeting	2	2
+!	NA	NA

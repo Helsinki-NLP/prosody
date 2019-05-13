@@ -1,0 +1,14 @@
+That	2	0
+night	1	1
+he	0	0
+dined	1	1
+at	0	0
+Rector's	1	0
+and	0	1
+returned	1	0
+at	0	0
+once	2	1
+to	0	0
+his	0	0
+office	1	2
+.	NA	NA

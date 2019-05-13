@@ -1,0 +1,6 @@
+Here	1	0
+it	0	0
+is	0	1
+,	NA	NA
+sir	2	2
+.	NA	NA

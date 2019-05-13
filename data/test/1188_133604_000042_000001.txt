@@ -1,0 +1,11 @@
+But	0	0
+look	0	0
+here	2	2
+at	0	0
+Carpaccio	2	2
+,	NA	NA
+even	1	0
+in	0	0
+my	0	0
+copy	1	2
+.	NA	NA

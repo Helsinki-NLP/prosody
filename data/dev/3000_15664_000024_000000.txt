@@ -1,0 +1,10 @@
+Deadly	2	0
+was	0	0
+the	0	1
+task	2	1
+of	0	0
+storming	2	0
+such	0	0
+a	0	1
+place	2	2
+.	NA	NA

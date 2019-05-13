@@ -1,0 +1,7 @@
+Yet	2	1
+we	0	0
+are	0	0
+going	0	1
+very	0	1
+fast	2	2
+.	NA	NA

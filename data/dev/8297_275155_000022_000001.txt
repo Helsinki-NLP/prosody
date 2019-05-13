@@ -1,0 +1,17 @@
+Would	0	0
+you	1	0
+have	0	0
+exposed	1	1
+yourself	2	0
+to	0	1
+be	0	0
+humiliated	1	0
+again	1	0
+in	0	1
+the	0	0
+same	1	1
+way	2	2
+?	NA	NA
+she	2	0
+asked	0	2
+.	NA	NA

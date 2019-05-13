@@ -1,0 +1,7 @@
+I	2	0
+am	0	0
+one	0	0
+of	0	0
+the	0	1
+examiners	1	2
+.	NA	NA

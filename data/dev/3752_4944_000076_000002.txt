@@ -1,0 +1,8 @@
+He	0	0
+attempted	1	0
+suicide	0	1
+to	0	0
+day	2	2
+unhappy	1	0
+creature	2	2
+.	NA	NA

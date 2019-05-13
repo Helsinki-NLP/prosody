@@ -1,0 +1,12 @@
+It's	1	1
+the	0	0
+air	2	0
+of	0	1
+the	0	0
+whole	1	1
+place	1	1
+here	1	1
+that	0	0
+I	0	0
+like	1	2
+.	NA	NA

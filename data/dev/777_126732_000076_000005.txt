@@ -1,0 +1,10 @@
+I	0	0
+wouldn't	1	0
+give	0	0
+a	0	1
+halfpenny	1	0
+for	0	1
+the	0	0
+whole	0	0
+lot	2	2
+.	NA	NA

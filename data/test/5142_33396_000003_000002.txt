@@ -1,0 +1,12 @@
+The	0	1
+eldest	2	1
+of	0	0
+you	1	0
+shall	0	0
+have	1	0
+my	0	2
+farm	2	1
+when	0	0
+I	1	0
+die	2	2
+.	NA	NA

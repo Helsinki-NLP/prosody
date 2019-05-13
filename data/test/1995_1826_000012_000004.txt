@@ -1,0 +1,8 @@
+At	0	0
+any	1	0
+rate	0	2
+,	NA	NA
+I	2	0
+say	0	1
+go	2	2
+.	NA	NA

@@ -1,0 +1,6 @@
+'I	2	0
+don't	0	1
+understand	1	0
+his	0	2
+absence	2	2
+.	NA	NA

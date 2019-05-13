@@ -1,0 +1,5 @@
+He	0	0
+will	1	0
+do	0	1
+well	2	2
+.	NA	NA

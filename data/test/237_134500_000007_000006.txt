@@ -1,0 +1,10 @@
+Look	2	0
+at	0	0
+the	0	1
+spider	1	0
+webs	0	2
+all	2	0
+over	0	0
+the	0	1
+grass	1	2
+.	NA	NA

@@ -1,0 +1,7 @@
+In	0	1
+fact	2	2
+I	1	0
+am	0	0
+an	0	1
+apostle	1	2
+.	NA	NA

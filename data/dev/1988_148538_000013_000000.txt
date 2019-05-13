@@ -1,0 +1,9 @@
+Such	2	0
+is	0	1
+not	2	1
+the	1	0
+case	2	0
+with	0	1
+the	0	0
+English	2	2
+.	NA	NA

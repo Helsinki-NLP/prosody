@@ -1,0 +1,15 @@
+I	0	0
+thought	1	0
+he'd	0	0
+give	0	1
+me	0	0
+violets	1	2
+,	NA	NA
+and	0	0
+a	0	0
+shadow	1	0
+came	0	0
+over	0	1
+Christie's	0	0
+face	2	2
+.	NA	NA

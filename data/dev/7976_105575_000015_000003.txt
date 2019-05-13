@@ -1,0 +1,14 @@
+They	0	0
+lay	2	0
+in	0	1
+heaps	1	0
+of	0	1
+dozens	2	2
+,	NA	NA
+even	2	1
+close	1	0
+up	0	0
+to	0	0
+the	0	0
+works	1	2
+.	NA	NA

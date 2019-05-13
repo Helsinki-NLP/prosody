@@ -1,0 +1,13 @@
+If	0	0
+not	2	1
+,	NA	NA
+said	0	0
+the	0	0
+woman	1	2
+,	NA	NA
+you	0	0
+must	1	0
+make	0	0
+a	0	0
+law	1	2
+.	NA	NA

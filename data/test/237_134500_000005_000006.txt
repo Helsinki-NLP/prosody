@@ -1,0 +1,6 @@
+Just	2	1
+smell	2	0
+the	0	1
+wild	0	0
+roses	1	2
+!	NA	NA

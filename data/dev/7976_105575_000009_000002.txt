@@ -1,0 +1,10 @@
+The	0	0
+enemy	2	1
+had	0	0
+not	1	0
+had	0	1
+time	1	1
+to	0	0
+bury	2	0
+them	0	2
+.	NA	NA

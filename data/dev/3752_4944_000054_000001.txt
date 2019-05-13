@@ -1,0 +1,3 @@
+Fifty	1	1
+lashes	1	2
+.	NA	NA

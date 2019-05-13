@@ -1,0 +1,10 @@
+I	1	0
+hardly	2	1
+think	1	0
+they	0	0
+would	0	1
+do	0	0
+that	2	1
+,	NA	NA
+Pong	2	2
+.	NA	NA

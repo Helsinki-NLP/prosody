@@ -1,0 +1,10 @@
+The	0	0
+water	2	0
+is	0	1
+splashed	2	1
+for	1	0
+a	0	1
+long	1	0
+way	0	0
+around	1	2
+.	NA	NA

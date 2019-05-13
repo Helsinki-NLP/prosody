@@ -1,0 +1,5 @@
+He	0	0
+switches	2	1
+the	0	0
+channel	2	2
+.	NA	NA

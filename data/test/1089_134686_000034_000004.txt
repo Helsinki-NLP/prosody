@@ -1,0 +1,8 @@
+A	0	0
+great	2	0
+saint	2	1
+,	NA	NA
+saint	0	0
+Francis	1	1
+Xavier	2	2
+!	NA	NA

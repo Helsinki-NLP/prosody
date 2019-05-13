@@ -1,0 +1,17 @@
+She	0	0
+looked	0	0
+at	0	0
+us	0	0
+with	0	2
+such	2	1
+despair	2	0
+and	0	1
+longing	2	2
+,	NA	NA
+out	2	0
+from	0	0
+under	0	0
+her	0	1
+black	0	0
+shawl	1	2
+.	NA	NA

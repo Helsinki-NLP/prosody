@@ -1,0 +1,9 @@
+She	2	0
+and	0	0
+I	0	1
+have	0	0
+always	2	1
+been	0	0
+good	0	1
+friends	1	2
+.	NA	NA

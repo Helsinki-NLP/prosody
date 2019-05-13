@@ -1,0 +1,10 @@
+It	0	0
+is	1	0
+a	0	0
+very	2	2
+delicate	2	1
+question	2	1
+,	NA	NA
+said	0	0
+he	1	2
+.	NA	NA

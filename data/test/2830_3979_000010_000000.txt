@@ -1,0 +1,7 @@
+I	0	0
+will	2	2
+,	NA	NA
+on	1	0
+one	0	0
+condition	0	2
+.	NA	NA

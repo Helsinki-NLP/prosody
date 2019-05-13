@@ -1,0 +1,11 @@
+With	0	0
+Hugh	0	0
+Stanbury	1	2
+,	NA	NA
+Trevelyan	2	1
+had	0	0
+had	1	0
+a	0	0
+direct	2	1
+quarrel	2	2
+.	NA	NA

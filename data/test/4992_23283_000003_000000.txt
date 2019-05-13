@@ -1,0 +1,15 @@
+Miss	1	0
+Milner's	0	0
+health	2	0
+is	0	1
+not	0	1
+good	2	2
+!	NA	NA
+said	2	0
+mrs	0	1
+Horton	2	1
+a	0	0
+few	0	0
+minutes	0	0
+after	1	2
+.	NA	NA

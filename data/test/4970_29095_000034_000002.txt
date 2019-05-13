@@ -1,0 +1,9 @@
+No	2	2
+,	NA	NA
+I	2	0
+don't	0	1
+feel	0	0
+at	0	0
+home	0	1
+there	1	2
+.	NA	NA

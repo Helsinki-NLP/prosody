@@ -1,0 +1,10 @@
+Won't	2	1
+YOU	0	0
+tell	0	0
+,	NA	NA
+Douglas	2	2
+?	NA	NA
+somebody	2	0
+else	0	1
+inquired	2	2
+.	NA	NA

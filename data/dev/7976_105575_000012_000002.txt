@@ -1,0 +1,11 @@
+The	0	1
+town	2	0
+seemed	0	1
+full	2	0
+of	0	0
+the	0	1
+groans	2	0
+of	0	1
+dying	0	0
+men	1	2
+.	NA	NA

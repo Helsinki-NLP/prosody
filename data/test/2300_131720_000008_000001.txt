@@ -1,0 +1,10 @@
+We	2	0
+were	0	0
+at	0	0
+the	0	1
+machine	1	0
+works	1	2
+,	2	0
+Goerck	NA	NA
+Street	0	2
+.	NA	NA

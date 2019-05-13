@@ -1,0 +1,10 @@
+Well	0	0
+,	NA	NA
+that's	2	1
+just	1	0
+what	0	0
+I'm	0	1
+flogging	2	0
+him	0	1
+for	2	2
+.	NA	NA

@@ -1,0 +1,12 @@
+Next	0	0
+instant	1	2
+Shaggy	1	0
+was	0	0
+himself	2	0
+again	0	2
+and	0	0
+Quox	2	0
+said	0	1
+to	0	0
+him	0	0
+grumblingly	1	2

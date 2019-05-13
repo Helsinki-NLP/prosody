@@ -1,0 +1,4 @@
+Unto	2	0
+another	0	1
+gospel	1	2
+.	NA	NA

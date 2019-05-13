@@ -1,0 +1,11 @@
+He	0	0
+was	1	0
+sitting	1	0
+on	0	0
+the	0	2
+floor	2	0
+by	0	0
+the	0	1
+kitchen	0	1
+stove	2	2
+.	NA	NA

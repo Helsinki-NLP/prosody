@@ -1,0 +1,12 @@
+To	0	0
+add	2	1
+to	0	0
+his	0	0
+misery	0	1
+there	0	0
+was	0	1
+no	0	0
+word	2	0
+from	0	1
+Carrie	2	2
+.	NA	NA

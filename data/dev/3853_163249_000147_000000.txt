@@ -1,0 +1,3 @@
+Quite	1	1
+ready	1	2
+.	NA	NA

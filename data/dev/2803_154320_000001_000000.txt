@@ -1,0 +1,7 @@
+STILL	2	1
+this	0	0
+wearisome	1	0
+voyage	1	1
+dragged	1	0
+on	0	2
+.	NA	NA

@@ -1,0 +1,3 @@
+Mainhall	2	1
+laughed	1	2
+.	NA	NA

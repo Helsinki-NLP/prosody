@@ -1,0 +1,13 @@
+Some	1	0
+do	0	0
+better	0	1
+than	0	0
+others	1	2
+,	NA	NA
+but	0	0
+none	1	0
+build	1	0
+like	0	1
+Mother	0	0
+Magpie	1	2
+.	NA	NA

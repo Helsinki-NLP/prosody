@@ -1,0 +1,13 @@
+Patsy	1	0
+and	0	0
+Beth	1	1
+supported	1	0
+their	0	0
+cousin	0	1
+loyally	2	1
+and	0	0
+assisted	0	0
+in	0	0
+the	0	1
+preparations	2	2
+.	NA	NA

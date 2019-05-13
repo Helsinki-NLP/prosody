@@ -1,0 +1,17 @@
+Now	2	2
+most	2	1
+of	0	0
+the	0	0
+larvae	2	1
+were	0	0
+turning	1	0
+into	0	0
+Nymphs	1	2
+,	NA	NA
+which	1	0
+are	0	0
+half	1	0
+grown	1	0
+Dragon	0	1
+Flies	0	2
+.	NA	NA

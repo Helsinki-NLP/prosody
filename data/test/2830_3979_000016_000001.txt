@@ -1,0 +1,12 @@
+Let	2	0
+us	0	0
+begin	0	0
+with	0	0
+that	1	2
+his	0	0
+Commentary	2	0
+on	0	1
+galatians	1	2
+.	NA	NA
+.	NA	NA
+.	NA	NA

@@ -1,0 +1,10 @@
+The	0	0
+young	2	0
+man	0	1
+cursed	2	1
+him	0	1
+and	0	0
+held	1	0
+her	0	1
+tighter	2	2
+.	NA	NA

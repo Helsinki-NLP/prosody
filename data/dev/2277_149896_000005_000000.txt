@@ -1,0 +1,8 @@
+He	2	0
+also	0	0
+thought	1	0
+of	0	0
+his	0	1
+managerial	1	1
+position	1	2
+.	NA	NA

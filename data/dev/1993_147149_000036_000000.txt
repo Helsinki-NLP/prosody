@@ -1,0 +1,7 @@
+They're	0	0
+both	0	1
+gone	2	2
+,	NA	NA
+said	0	0
+she	1	2
+.	NA	NA

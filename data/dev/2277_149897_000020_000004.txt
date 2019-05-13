@@ -1,0 +1,12 @@
+But	1	0
+,	NA	NA
+oh	2	1
+,	NA	NA
+the	0	0
+wretchedness	0	1
+of	0	0
+being	0	0
+forced	2	1
+this	1	0
+way	1	2
+!	NA	NA

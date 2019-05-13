@@ -1,0 +1,15 @@
+Hilda	1	1
+was	0	0
+pale	2	0
+by	0	0
+this	0	1
+time	1	2
+,	NA	NA
+and	0	0
+her	0	0
+eyes	1	0
+were	0	1
+wide	2	0
+with	0	1
+fright	1	2
+.	NA	NA

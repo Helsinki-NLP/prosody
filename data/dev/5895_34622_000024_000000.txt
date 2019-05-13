@@ -1,0 +1,8 @@
+Phoebe	1	0
+cooked	1	2
+;	NA	NA
+Venus	2	0
+scrubbed	1	1
+the	0	0
+temple	1	2
+.	NA	NA

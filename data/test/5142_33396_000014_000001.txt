@@ -1,0 +1,8 @@
+We	0	0
+ate	2	0
+at	0	1
+many	0	0
+men's	1	1
+tables	1	1
+uninvited	2	2
+.	NA	NA

@@ -1,0 +1,12 @@
+Two	0	0
+convulsions	1	0
+of	0	1
+the	0	0
+face	1	0
+are	0	0
+infectious	1	2
+;	NA	NA
+laughing	2	0
+and	0	0
+yawning	2	2
+.	NA	NA

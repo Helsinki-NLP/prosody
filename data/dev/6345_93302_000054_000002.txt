@@ -1,0 +1,10 @@
+Oh	2	0
+,	NA	NA
+Ethel	1	1
+,	NA	NA
+do	1	0
+try	0	0
+to	0	1
+forgive	1	0
+me	1	2
+!	NA	NA

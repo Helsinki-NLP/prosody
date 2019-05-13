@@ -1,0 +1,5 @@
+Look	1	0
+at	0	0
+that	1	1
+eye	1	2
+!	NA	NA

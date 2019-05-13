@@ -1,0 +1,3 @@
+Presently	1	1
+she	1	0
+spoke	2	2

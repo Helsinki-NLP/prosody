@@ -1,0 +1,11 @@
+That's	2	1
+what	0	0
+I	2	0
+wanted	0	1
+to	0	0
+see	1	0
+you	0	0
+about	0	1
+,	NA	NA
+Bartley	2	2
+.	NA	NA

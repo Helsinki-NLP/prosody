@@ -1,0 +1,12 @@
+She	1	0
+hated	0	2
+to	0	0
+see	2	0
+the	0	1
+Sunday	0	1
+newspapers	1	0
+come	1	1
+into	0	0
+the	0	0
+house	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+Don't	2	0
+you	0	1
+worry	2	0
+about	2	1
+me	0	0
+,	NA	NA
+Ned	0	0
+Rector	2	2
+.	NA	NA

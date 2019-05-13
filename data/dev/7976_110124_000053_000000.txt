@@ -1,0 +1,11 @@
+The	0	1
+cries	2	0
+and	0	1
+curses	2	0
+of	0	1
+the	0	0
+robbers	2	1
+filled	1	1
+the	0	0
+air	2	2
+.	NA	NA

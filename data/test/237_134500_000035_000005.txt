@@ -1,0 +1,8 @@
+You	0	0
+don't	2	0
+help	2	1
+things	0	0
+any	1	1
+by	0	0
+pretending	2	2
+.	NA	NA

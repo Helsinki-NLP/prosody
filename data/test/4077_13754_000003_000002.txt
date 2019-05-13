@@ -1,0 +1,10 @@
+But	0	0
+a	0	0
+word	2	1
+further	2	1
+concerning	1	0
+the	0	1
+expedition	2	1
+in	0	0
+general	2	2
+.	NA	NA

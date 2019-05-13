@@ -1,0 +1,9 @@
+Meanwhile	2	1
+,	NA	NA
+you	0	0
+change	0	0
+nothing	0	2
+nothing	1	0
+at	0	0
+all	2	2
+.	NA	NA

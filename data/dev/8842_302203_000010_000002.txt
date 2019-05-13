@@ -1,0 +1,10 @@
+Just	2	0
+then	0	0
+you	0	0
+woke	1	0
+me	0	2
+,	NA	NA
+of	0	0
+your	0	0
+complaisaunce	2	2
+.	NA	NA

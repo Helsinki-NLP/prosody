@@ -1,0 +1,13 @@
+All	2	0
+the	0	0
+catechisms	1	1
+were	0	0
+opened	1	1
+and	0	0
+all	2	0
+heads	1	1
+bent	1	0
+upon	1	0
+them	0	1
+silently	2	2
+.	NA	NA

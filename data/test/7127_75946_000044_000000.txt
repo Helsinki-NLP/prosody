@@ -1,0 +1,6 @@
+Yes	1	2
+;	NA	NA
+it	1	0
+is	1	0
+suppressed	2	2
+.	NA	NA

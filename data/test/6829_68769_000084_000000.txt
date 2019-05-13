@@ -1,0 +1,7 @@
+I'll	2	0
+make	0	1
+your	0	0
+money	0	0
+loss	0	1
+good	2	2
+.	NA	NA

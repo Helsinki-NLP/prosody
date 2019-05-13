@@ -1,0 +1,8 @@
+This	2	0
+is	0	1
+explained	2	0
+by	0	1
+what	0	0
+goes	0	1
+before	2	2
+.	NA	NA

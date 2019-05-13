@@ -1,0 +1,9 @@
+Not	2	1
+that	0	0
+I	0	0
+could	0	0
+make	0	2
+a	0	0
+better	2	0
+one	1	2
+!	NA	NA

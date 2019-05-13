@@ -1,0 +1,14 @@
+He	2	0
+was	0	0
+not	1	1
+thinking	0	0
+about	2	0
+the	0	1
+tired	2	1
+pioneers	1	1
+over	1	0
+whom	0	0
+his	0	1
+blade	1	0
+glittered	2	2
+.	NA	NA

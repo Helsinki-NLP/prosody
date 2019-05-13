@@ -1,0 +1,12 @@
+He	1	1
+pulled	2	0
+up	1	1
+a	0	0
+window	0	0
+as	0	0
+if	0	2
+the	0	0
+air	1	0
+were	0	1
+heavy	2	2
+.	NA	NA

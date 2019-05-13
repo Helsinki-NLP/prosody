@@ -1,0 +1,15 @@
+It	1	0
+was	0	0
+youth	2	0
+and	0	1
+poverty	1	0
+and	0	1
+proximity	1	2
+,	NA	NA
+and	0	0
+everything	2	0
+was	0	1
+young	1	0
+and	0	2
+kindly	1	2
+.	NA	NA

@@ -1,0 +1,11 @@
+Besides	2	2
+,	NA	NA
+I	2	0
+was	0	0
+turning	1	0
+things	0	0
+over	0	0
+in	0	1
+my	0	0
+mind	1	2
+.	NA	NA

@@ -1,0 +1,7 @@
+She	0	0
+will	2	1
+keep	1	0
+them	0	0
+at	0	1
+bay	2	2
+.	NA	NA

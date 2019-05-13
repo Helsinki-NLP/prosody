@@ -1,0 +1,15 @@
+It	1	0
+gives	0	0
+itself	1	1
+ungrudgingly	2	1
+to	0	0
+the	0	0
+moods	2	1
+of	0	0
+the	0	0
+season	1	2
+,	NA	NA
+holding	2	0
+nothing	0	0
+back	0	2
+.	NA	NA

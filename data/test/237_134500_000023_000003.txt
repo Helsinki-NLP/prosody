@@ -1,0 +1,3 @@
+The	1	1
+idea	1	2
+!	NA	NA

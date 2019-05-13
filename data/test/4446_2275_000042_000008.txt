@@ -1,0 +1,13 @@
+If	2	0
+you	1	0
+come	2	0
+to	0	2
+me	0	0
+,	NA	NA
+I'll	0	1
+do	1	0
+as	0	0
+I	1	1
+see	0	0
+fit	2	2
+.	NA	NA

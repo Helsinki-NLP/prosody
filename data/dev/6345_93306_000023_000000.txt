@@ -1,0 +1,15 @@
+It	0	1
+serves	2	1
+me	0	0
+right	2	2
+,	NA	NA
+she	0	0
+said	1	0
+in	0	1
+excellent	0	0
+,	NA	NA
+yet	0	0
+unfamiliar	0	0
+,	NA	NA
+English	2	2
+.	NA	NA

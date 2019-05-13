@@ -1,0 +1,9 @@
+He	2	0
+is	0	1
+the	0	0
+one	1	0
+with	0	2
+the	0	0
+worst	1	0
+record	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+Chateau	1	0
+Lafitte	2	2
+Has	1	0
+beautiful	0	0
+color	1	0
+and	0	1
+delicate	0	0
+flavor	1	2
+.	NA	NA

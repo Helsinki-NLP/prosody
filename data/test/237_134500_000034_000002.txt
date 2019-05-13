@@ -1,0 +1,10 @@
+And	1	0
+you	1	0
+never	1	0
+used	0	2
+to	0	0
+be	0	1
+cross	2	1
+to	0	0
+me	1	2
+.	NA	NA

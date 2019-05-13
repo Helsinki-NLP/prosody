@@ -1,0 +1,7 @@
+Grandfather's	2	0
+prayers	0	1
+were	0	0
+often	0	0
+very	1	0
+interesting	2	2
+.	NA	NA

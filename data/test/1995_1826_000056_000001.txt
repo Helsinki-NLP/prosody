@@ -1,0 +1,16 @@
+Always	1	1
+before	2	2
+she	1	0
+had	0	0
+been	0	0
+veiled	2	1
+from	0	0
+these	0	0
+folk	1	1
+who	0	0
+had	2	0
+put	0	0
+the	0	1
+veil	0	0
+there	1	2
+?	NA	NA

@@ -1,0 +1,14 @@
+The	0	0
+livery	2	1
+becomes	0	0
+obnoxious	2	2
+to	0	0
+nearly	0	1
+all	2	0
+who	0	1
+are	0	0
+required	0	1
+to	0	0
+wear	0	0
+it	1	2
+.	NA	NA

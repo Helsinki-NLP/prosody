@@ -1,0 +1,13 @@
+As	0	0
+they	0	0
+entered	2	2
+,	NA	NA
+the	0	0
+girl	1	1
+sighed	1	2
+and	1	0
+laid	0	0
+down	0	0
+her	0	0
+work	1	2
+.	NA	NA

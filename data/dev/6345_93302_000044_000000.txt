@@ -1,0 +1,14 @@
+I'm	2	1
+freezing	1	2
+,	NA	NA
+she	0	0
+said	1	1
+suddenly	1	1
+;	NA	NA
+let's	1	1
+go	2	0
+and	0	0
+have	0	1
+some	0	0
+tea	2	2
+.	NA	NA

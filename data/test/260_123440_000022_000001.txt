@@ -1,0 +1,10 @@
+'Would	1	1
+YOU	1	0
+like	1	1
+cats	2	2
+if	0	0
+you	0	0
+were	0	0
+me	2	2
+?	NA	NA
+'	NA	NA

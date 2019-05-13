@@ -1,0 +1,12 @@
+I	0	0
+go	0	0
+down	2	0
+to	0	0
+the	0	2
+flower	2	0
+shop	0	1
+to	0	0
+grouse	2	1
+to	0	0
+Tom	2	2
+.	NA	NA

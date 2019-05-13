@@ -1,0 +1,7 @@
+We	0	0
+marched	2	2
+the	0	0
+black	1	0
+rascals	0	0
+out	2	2
+.	NA	NA

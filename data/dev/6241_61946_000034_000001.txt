@@ -1,0 +1,15 @@
+In	0	0
+any	2	0
+case	1	2
+,	NA	NA
+I	2	0
+shall	0	0
+trust	1	0
+rather	1	1
+to	0	0
+my	0	0
+own	1	1
+intelligence	1	1
+than	0	0
+theirs	2	2
+.	NA	NA

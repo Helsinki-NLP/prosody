@@ -1,0 +1,13 @@
+Believe	2	0
+me	0	2
+,	NA	NA
+it	1	0
+is	0	1
+not	1	0
+fatigue	2	1
+that	0	1
+saddens	2	1
+you	0	0
+to	0	0
+night	0	2
+.	NA	NA

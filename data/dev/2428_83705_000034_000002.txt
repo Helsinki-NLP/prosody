@@ -1,0 +1,13 @@
+And	0	0
+what	2	1
+,	NA	NA
+inquired	2	0
+mrs	0	1
+Macpherson	2	1
+,	NA	NA
+has	0	0
+Mary	1	0
+Ann	0	0
+given	0	0
+you	2	2
+?	NA	NA

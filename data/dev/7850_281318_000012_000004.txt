@@ -1,0 +1,17 @@
+But	0	0
+some	2	0
+of	0	1
+the	0	0
+birds	2	0
+were	0	0
+not	0	1
+like	1	0
+him	0	2
+,	NA	NA
+nor	2	1
+like	1	0
+the	0	1
+patient	1	0
+little	0	1
+Wren	2	2
+.	NA	NA

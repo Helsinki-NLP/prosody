@@ -1,0 +1,11 @@
+The	0	0
+job	2	0
+isn't	0	1
+getting	0	0
+me	0	0
+anywhere	0	0
+I	0	0
+want	1	2
+to	0	0
+go	2	2
+.	NA	NA

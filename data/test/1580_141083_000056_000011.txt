@@ -1,0 +1,8 @@
+Dear	2	0
+me	1	1
+,	NA	NA
+this	0	0
+is	0	0
+very	2	1
+interesting	1	2
+.	NA	NA

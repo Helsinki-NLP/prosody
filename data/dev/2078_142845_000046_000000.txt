@@ -1,0 +1,3 @@
+HOT	1	0
+ROLLS	1	2
+.	NA	NA

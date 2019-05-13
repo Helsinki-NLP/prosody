@@ -1,0 +1,8 @@
+Alexander	2	1
+caught	1	1
+the	0	0
+agitation	2	0
+in	0	1
+her	0	0
+voice	2	2
+.	NA	NA

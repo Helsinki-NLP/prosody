@@ -1,0 +1,6 @@
+His	0	0
+warning	2	1
+came	2	1
+too	0	0
+late	1	2
+.	NA	NA

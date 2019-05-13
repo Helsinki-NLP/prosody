@@ -1,0 +1,13 @@
+'Swift	1	2
+!	NA	NA
+'	NA	NA
+he	0	0
+gasped	2	1
+,	NA	NA
+and	1	0
+his	0	0
+weakening	0	0
+voice	1	0
+was	0	0
+rational	1	2
+.	NA	NA

@@ -1,0 +1,10 @@
+The	0	0
+mule	2	0
+was	0	1
+loath	2	2
+to	0	0
+take	1	1
+to	0	0
+the	0	0
+water	1	2
+.	NA	NA

@@ -1,0 +1,10 @@
+Walter	2	1
+smiled	2	0
+,	NA	NA
+with	0	1
+a	0	0
+twinkle	1	0
+in	0	1
+his	0	0
+eyes	2	2
+.	NA	NA

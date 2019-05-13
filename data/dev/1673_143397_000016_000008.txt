@@ -1,0 +1,12 @@
+But	0	0
+the	0	0
+Vatican	1	0
+received	0	1
+with	0	0
+open	1	0
+arms	2	2
+the	0	0
+messengers	0	0
+of	0	0
+Egypt	2	2
+.	NA	NA

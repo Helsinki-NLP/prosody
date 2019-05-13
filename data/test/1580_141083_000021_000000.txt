@@ -1,0 +1,6 @@
+For	1	0
+which	0	0
+he	0	0
+was	0	1
+entered	2	2
+?	NA	NA

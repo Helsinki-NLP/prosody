@@ -1,0 +1,7 @@
+Roll	2	0
+him	0	0
+up	0	1
+again	1	1
+,	NA	NA
+soldiers	1	2
+.	NA	NA

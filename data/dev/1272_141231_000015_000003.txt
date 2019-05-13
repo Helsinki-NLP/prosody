@@ -1,0 +1,4 @@
+Now	0	0
+stand	1	0
+aside	2	2
+!	NA	NA

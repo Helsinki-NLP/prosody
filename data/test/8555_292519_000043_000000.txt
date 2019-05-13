@@ -1,0 +1,14 @@
+A	0	0
+good	2	0
+old	0	1
+tune	2	2
+,	NA	NA
+she	2	0
+murmured	0	2
+and	1	0
+I	0	0
+found	1	0
+we	0	0
+were	0	0
+dancing	0	2
+.	NA	NA

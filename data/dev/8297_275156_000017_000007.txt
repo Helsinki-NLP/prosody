@@ -1,0 +1,14 @@
+In	1	0
+any	0	0
+event	0	2
+,	NA	NA
+her	2	0
+second	2	0
+marriage	0	0
+would	0	0
+lead	0	1
+to	0	0
+one	0	0
+disastrous	1	0
+result	2	2
+.	NA	NA

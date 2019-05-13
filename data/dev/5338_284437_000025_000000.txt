@@ -1,0 +1,12 @@
+What	0	0
+shall	0	0
+I	0	0
+call	2	0
+her	0	1
+,	NA	NA
+then	1	2
+?	NA	NA
+inquired	1	0
+Cap'n	0	0
+Bill	1	2
+.	NA	NA

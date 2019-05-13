@@ -1,0 +1,11 @@
+From	2	1
+him	2	0
+that	0	1
+called	2	1
+you	0	0
+into	0	1
+the	0	0
+grace	1	0
+of	0	1
+Christ	1	2
+.	NA	NA

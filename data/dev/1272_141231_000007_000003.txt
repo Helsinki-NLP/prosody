@@ -1,0 +1,14 @@
+And	0	0
+when	0	0
+he	0	1
+attacked	2	2
+,	NA	NA
+it	0	0
+was	0	0
+always	0	0
+there	1	0
+to	0	1
+beat	0	0
+him	0	0
+aside	1	2
+.	NA	NA

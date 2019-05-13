@@ -1,0 +1,9 @@
+What	2	2
+!	NA	NA
+that	2	0
+little	0	0
+cabin	2	1
+?	NA	NA
+exclaimed	1	0
+Trot	0	2
+.	NA	NA

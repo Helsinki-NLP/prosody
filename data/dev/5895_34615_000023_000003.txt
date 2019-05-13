@@ -1,0 +1,12 @@
+We	0	0
+do	0	0
+not	2	0
+admit	1	1
+that	1	0
+it	0	0
+can	0	1
+ever	2	0
+be	0	1
+utterly	2	1
+powerless	2	2
+.	NA	NA

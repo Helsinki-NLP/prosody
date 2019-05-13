@@ -1,0 +1,6 @@
+Compromise	2	2
+!	NA	NA
+exclaimed	0	0
+Hurstwood	0	0
+bitterly	1	2
+.	NA	NA

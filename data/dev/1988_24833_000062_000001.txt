@@ -1,0 +1,5 @@
+That's	2	0
+for	0	1
+three	0	0
+years	1	2
+.	NA	NA

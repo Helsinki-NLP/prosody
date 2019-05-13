@@ -1,0 +1,7 @@
+Then	2	0
+the	0	0
+man	0	1
+called	1	1
+Chinnock	1	0
+up	0	2
+.	NA	NA

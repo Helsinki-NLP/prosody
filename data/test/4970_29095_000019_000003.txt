@@ -1,0 +1,16 @@
+What	2	0
+is	0	0
+there	1	0
+to	0	1
+fear	2	0
+in	0	0
+a	0	1
+person	1	2
+dead	2	1
+more	1	0
+than	0	0
+in	0	0
+a	0	1
+person	0	0
+living	1	2
+?	NA	NA

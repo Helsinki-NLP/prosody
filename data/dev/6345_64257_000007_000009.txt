@@ -1,0 +1,10 @@
+She	0	0
+was	0	0
+out	1	0
+of	0	1
+place	2	2
+,	NA	NA
+and	1	0
+much	0	0
+unwelcome	1	2
+.	NA	NA

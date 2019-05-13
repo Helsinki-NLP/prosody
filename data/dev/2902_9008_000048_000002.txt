@@ -1,0 +1,13 @@
+Here	1	0
+is	0	1
+the	0	0
+precious	1	0
+document	2	2
+do	0	0
+look	1	0
+at	0	0
+it	0	1
+,	NA	NA
+in	0	0
+pity	2	2
+.	NA	NA

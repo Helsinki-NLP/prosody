@@ -1,0 +1,12 @@
+As	0	0
+soon	0	0
+as	0	0
+the	0	0
+soldiers	2	0
+return	1	0
+with	0	1
+Tiggle	2	2
+,	NA	NA
+said	1	0
+he	0	2
+.	NA	NA

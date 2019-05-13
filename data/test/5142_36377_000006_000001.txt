@@ -1,0 +1,12 @@
+On	0	0
+his	0	0
+right	1	0
+hand	1	0
+side	0	1
+sat	0	0
+his	0	2
+sad	2	0
+and	0	1
+silent	1	1
+daughter	1	2
+.	NA	NA

@@ -1,0 +1,4 @@
+It's	1	0
+your	1	0
+trick	1	2
+.	NA	NA

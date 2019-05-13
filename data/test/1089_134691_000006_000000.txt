@@ -1,0 +1,14 @@
+Whose	0	0
+feet	0	0
+are	2	0
+as	0	1
+the	0	0
+feet	1	0
+of	0	0
+harts	2	1
+and	0	0
+underneath	2	2
+the	0	0
+everlasting	2	1
+arms	1	2
+.	NA	NA

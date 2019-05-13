@@ -1,0 +1,9 @@
+The	0	1
+Word	2	0
+of	0	0
+our	1	1
+God	1	2
+shall	1	0
+stand	1	0
+forever	1	2
+.	NA	NA

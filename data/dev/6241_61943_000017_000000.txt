@@ -1,0 +1,9 @@
+The	0	1
+voyage	2	0
+offered	2	1
+no	2	0
+incident	0	1
+worthy	1	0
+of	0	1
+record	2	2
+.	NA	NA

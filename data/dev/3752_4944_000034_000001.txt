@@ -1,0 +1,6 @@
+It	2	0
+is	0	0
+a	0	1
+brutal	1	1
+punishment	1	2
+.	NA	NA

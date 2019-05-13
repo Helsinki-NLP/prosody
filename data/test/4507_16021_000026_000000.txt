@@ -1,0 +1,10 @@
+To	0	0
+this	2	0
+we	0	1
+reply	1	1
+in	0	0
+one	0	0
+word	1	2
+,	NA	NA
+only	2	2
+.	NA	NA

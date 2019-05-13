@@ -1,0 +1,6 @@
+Stop	2	0
+it	0	0
+and	0	1
+behave	1	0
+yourself	1	2
+.	NA	NA

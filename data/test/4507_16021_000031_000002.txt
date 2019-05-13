@@ -1,0 +1,7 @@
+In	1	0
+this	0	1
+guise	2	0
+it	0	1
+becomes	0	1
+horrible	2	2
+.	NA	NA

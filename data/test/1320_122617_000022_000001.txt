@@ -1,0 +1,8 @@
+Still	2	0
+they	0	1
+betrayed	1	1
+no	2	0
+intention	0	0
+to	0	1
+depart	2	2
+.	NA	NA

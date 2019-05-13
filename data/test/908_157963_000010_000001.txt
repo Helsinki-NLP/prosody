@@ -1,0 +1,9 @@
+born	1	0
+but	1	0
+to	0	1
+smile	1	0
+and	0	1
+fall	1	2
+.	NA	NA
+Ah	2	2
+!	NA	NA

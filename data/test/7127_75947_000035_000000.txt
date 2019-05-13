@@ -1,0 +1,10 @@
+Quite	1	0
+true	2	2
+,	NA	NA
+and	0	0
+I	2	0
+believe	0	1
+you	0	0
+are	0	0
+right	1	2
+.	NA	NA

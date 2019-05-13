@@ -1,0 +1,9 @@
+Well	2	2
+,	NA	NA
+why	2	0
+don't	0	0
+you	0	1
+go	0	0
+into	0	0
+something	0	2
+?	NA	NA

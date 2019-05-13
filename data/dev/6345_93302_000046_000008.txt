@@ -1,0 +1,3 @@
+But	1	1
+how	1	2
+?	NA	NA

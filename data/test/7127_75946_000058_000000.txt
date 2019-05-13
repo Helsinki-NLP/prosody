@@ -1,0 +1,17 @@
+Every	2	0
+word	1	0
+fell	0	0
+distinctly	1	2
+,	NA	NA
+in	0	0
+perfect	2	0
+harmony	0	0
+and	0	0
+eloquence	0	2
+,	NA	NA
+upon	2	0
+Louis	0	0
+the	0	0
+fourteenth's	0	0
+ears	1	2
+.	NA	NA

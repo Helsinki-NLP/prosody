@@ -1,0 +1,10 @@
+The	1	0
+Queen	0	0
+gazed	2	1
+upon	1	0
+our	0	2
+friends	0	0
+with	0	0
+evident	0	0
+interest	1	2
+.	NA	NA

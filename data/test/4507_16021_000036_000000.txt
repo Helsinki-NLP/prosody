@@ -1,0 +1,9 @@
+Are	2	0
+you	0	0
+what	0	0
+is	1	1
+called	2	0
+a	0	1
+happy	1	0
+man	1	2
+?	NA	NA

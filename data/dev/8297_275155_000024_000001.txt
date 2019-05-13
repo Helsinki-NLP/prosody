@@ -1,0 +1,12 @@
+And	0	0
+you	0	0
+would	0	0
+have	0	1
+condemned	2	0
+your	1	1
+poor	2	0
+little	0	1
+daughter	2	1
+to	0	0
+solitude	2	2
+?	NA	NA

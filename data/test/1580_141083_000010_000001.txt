@@ -1,0 +1,8 @@
+The	0	1
+proof	2	1
+was	0	0
+in	0	1
+three	0	0
+long	1	0
+slips	1	2
+.	NA	NA

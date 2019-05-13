@@ -1,0 +1,6 @@
+I	0	0
+was	1	0
+thinking	2	0
+of	0	1
+French	2	2
+.	NA	NA

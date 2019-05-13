@@ -1,0 +1,14 @@
+I	0	0
+somehow	2	0
+believed	0	1
+that	0	0
+I	1	0
+could	0	0
+take	0	1
+all	2	0
+the	0	1
+bad	1	1
+consequences	1	1
+for	0	0
+you	2	2
+.	NA	NA

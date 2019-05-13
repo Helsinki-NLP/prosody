@@ -1,0 +1,16 @@
+The	0	1
+crowd	2	0
+immediately	1	1
+flocked	2	1
+to	0	0
+them	1	0
+,	NA	NA
+but	0	0
+the	0	1
+compartment	2	1
+for	0	0
+the	0	0
+nobility	1	0
+remained	0	0
+empty	2	2
+.	NA	NA

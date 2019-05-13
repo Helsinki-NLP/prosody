@@ -1,0 +1,9 @@
+All	1	0
+you	0	0
+need	2	1
+is	0	0
+a	0	0
+touch	2	1
+to	0	0
+win	2	2
+!	NA	NA

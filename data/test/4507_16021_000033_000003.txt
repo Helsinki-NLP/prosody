@@ -1,0 +1,7 @@
+One	2	0
+thinks	0	1
+one	1	0
+hears	0	1
+hydras	2	1
+talking	0	2
+.	NA	NA

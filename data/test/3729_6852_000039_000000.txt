@@ -1,0 +1,6 @@
+The	0	0
+milk	2	0
+is	0	1
+very	1	1
+good	2	2
+.	NA	NA

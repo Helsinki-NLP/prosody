@@ -1,0 +1,6 @@
+No	2	0
+,	NA	NA
+sir	0	1
+certainly	2	1
+not	1	2
+.	NA	NA

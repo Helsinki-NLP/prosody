@@ -1,0 +1,8 @@
+I	1	0
+struggle	2	1
+,	NA	NA
+but	0	0
+I	0	0
+am	0	1
+weak	1	2
+.	NA	NA

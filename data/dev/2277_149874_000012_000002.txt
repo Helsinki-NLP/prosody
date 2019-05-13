@@ -1,0 +1,14 @@
+A	0	0
+pleasant	2	1
+side	2	0
+to	0	1
+his	0	0
+nature	0	0
+came	0	0
+out	0	0
+here	1	2
+.	NA	NA
+He	2	0
+was	2	1
+patient	1	2
+.	NA	NA

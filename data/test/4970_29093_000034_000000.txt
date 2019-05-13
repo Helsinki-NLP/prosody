@@ -1,0 +1,8 @@
+Well	2	2
+,	NA	NA
+I'm	1	0
+going	0	0
+as	0	0
+an	0	1
+engineer	2	2
+.	NA	NA

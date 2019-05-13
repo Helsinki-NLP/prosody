@@ -1,0 +1,14 @@
+Above	1	0
+all	2	0
+things	0	0
+,	NA	NA
+I	0	1
+desire	1	0
+to	0	1
+settle	1	0
+the	0	0
+matter	0	2
+quietly	2	0
+and	0	1
+discreetly	2	2
+.	NA	NA

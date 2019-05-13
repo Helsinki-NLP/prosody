@@ -1,0 +1,14 @@
+He	0	0
+found	2	0
+it	0	0
+a	0	1
+delightful	2	1
+little	0	1
+place	1	2
+and	1	0
+he	0	0
+met	0	0
+charming	1	1
+people	0	0
+there	1	2
+.	NA	NA

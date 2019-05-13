@@ -1,0 +1,6 @@
+A	0	0
+great	2	1
+soldier	1	0
+of	0	2
+God	2	2
+!	NA	NA

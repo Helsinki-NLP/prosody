@@ -1,0 +1,13 @@
+But	0	0
+the	0	0
+general	1	1
+distinction	0	1
+is	0	0
+not	1	0
+on	0	0
+that	0	1
+account	2	1
+to	0	0
+be	1	0
+overlooked	1	2
+.	NA	NA

@@ -1,0 +1,6 @@
+Make	2	2
+the	1	0
+Best	2	0
+of	0	0
+It	0	2
+.	NA	NA

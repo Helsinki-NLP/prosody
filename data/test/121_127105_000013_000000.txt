@@ -1,0 +1,11 @@
+Oh	2	0
+,	NA	NA
+how	0	1
+delicious	2	2
+!	NA	NA
+cried	2	0
+one	0	0
+of	0	0
+the	0	0
+women	1	2
+.	NA	NA

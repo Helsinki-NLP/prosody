@@ -1,0 +1,11 @@
+It	1	0
+was	1	0
+plain	2	0
+that	0	1
+together	2	2
+we	1	0
+should	0	0
+manage	0	0
+most	0	0
+comfortably	1	2
+.	NA	NA

@@ -1,0 +1,5 @@
+I	0	0
+shout	2	1
+,	NA	NA
+See	1	2
+?	NA	NA

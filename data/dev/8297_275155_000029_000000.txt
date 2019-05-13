@@ -1,0 +1,6 @@
+Randal	2	1
+decided	2	1
+on	0	0
+leaving	0	0
+her	1	2
+.	NA	NA

@@ -1,0 +1,5 @@
+In	1	0
+the	0	1
+Metal	0	1
+Forest	2	2
+.	NA	NA

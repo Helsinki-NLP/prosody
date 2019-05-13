@@ -1,0 +1,7 @@
+I	2	0
+was	0	0
+on	0	0
+the	0	1
+skirmish	2	0
+line	0	2
+.	NA	NA

@@ -1,0 +1,8 @@
+It	1	0
+was	0	0
+almost	1	2
+the	0	0
+tone	1	1
+of	0	0
+hope	2	2
+.	NA	NA

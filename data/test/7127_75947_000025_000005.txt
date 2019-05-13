@@ -1,0 +1,7 @@
+Heaven	2	2
+!	NA	NA
+he	0	0
+exclaimed	0	0
+,	NA	NA
+suddenly	1	2
+.	NA	NA

@@ -1,0 +1,7 @@
+I	2	1
+suppose	2	0
+it's	0	1
+the	0	0
+wet	1	1
+season	1	2
+.	NA	NA

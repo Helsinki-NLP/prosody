@@ -1,0 +1,8 @@
+You	0	1
+got	1	0
+conked	2	0
+by	0	1
+a	0	1
+falling	1	1
+timber	1	2
+.	NA	NA

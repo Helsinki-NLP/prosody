@@ -1,0 +1,15 @@
+We	2	0
+will	0	0
+go	1	0
+in	0	1
+here	2	0
+,	NA	NA
+said	0	1
+Hansel	1	1
+,	NA	NA
+and	0	0
+have	0	0
+a	0	2
+glorious	2	1
+feast	1	2
+.	NA	NA

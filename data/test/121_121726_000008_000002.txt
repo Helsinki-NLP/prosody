@@ -1,0 +1,6 @@
+Hence	2	1
+,	NA	NA
+full	2	0
+of	0	1
+strains	1	2
+.	NA	NA

@@ -1,0 +1,5 @@
+Bannister's	2	0
+face	1	1
+was	0	0
+ghastly	2	2
+.	NA	NA

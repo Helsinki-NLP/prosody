@@ -1,0 +1,13 @@
+Oh	2	0
+,	NA	NA
+what	0	0
+a	0	1
+grand	1	0
+thing	0	1
+to	0	0
+happen	2	0
+on	0	0
+a	0	2
+raw	2	1
+day	1	2
+!	NA	NA

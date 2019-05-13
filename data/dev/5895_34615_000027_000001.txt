@@ -1,0 +1,13 @@
+Gwynplaine	2	1
+,	NA	NA
+beautiful	2	1
+in	0	0
+figure	1	2
+,	NA	NA
+had	1	0
+probably	1	0
+been	0	0
+beautiful	0	1
+in	0	0
+face	2	2
+.	NA	NA

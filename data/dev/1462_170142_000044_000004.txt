@@ -1,0 +1,7 @@
+And	1	0
+I've	0	0
+got	0	0
+nobody	2	1
+but	0	0
+you	1	2
+.	NA	NA

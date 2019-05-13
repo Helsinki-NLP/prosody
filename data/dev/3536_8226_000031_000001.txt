@@ -1,0 +1,11 @@
+He	0	0
+cursed	2	0
+and	0	2
+swore	2	0
+as	0	1
+made	0	0
+even	0	0
+me	0	0
+feel	0	0
+bad	1	2
+.	NA	NA

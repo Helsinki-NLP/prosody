@@ -1,0 +1,9 @@
+Let	1	0
+him	0	0
+out	2	1
+,	NA	NA
+watchman	1	1
+!	NA	NA
+said	0	1
+North	1	2
+.	NA	NA

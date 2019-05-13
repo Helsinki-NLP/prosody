@@ -1,0 +1,9 @@
+She's	0	0
+at	2	0
+her	0	1
+best	2	2
+in	0	0
+the	0	0
+second	0	0
+act	1	2
+.	NA	NA

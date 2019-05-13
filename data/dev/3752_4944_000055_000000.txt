@@ -1,0 +1,14 @@
+Oh	2	0
+,	NA	NA
+this	1	0
+must	0	1
+be	0	0
+stopped	2	2
+,	NA	NA
+cried	2	0
+North	1	1
+,	NA	NA
+in	0	0
+great	0	0
+alarm	1	2
+.	NA	NA

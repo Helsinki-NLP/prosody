@@ -1,0 +1,13 @@
+The	0	0
+firelight	2	1
+flickered	1	0
+on	0	0
+the	0	2
+hewn	0	0
+logs	1	1
+that	0	0
+supported	0	0
+the	0	1
+thatch	1	0
+overhead	2	2
+.	NA	NA

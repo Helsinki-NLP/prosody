@@ -1,0 +1,12 @@
+But	0	1
+why	1	0
+NOW	1	0
+?	NA	NA
+she	1	0
+asked	0	2
+piteously	1	1
+,	NA	NA
+wringing	1	0
+her	0	0
+hands	2	2
+.	NA	NA

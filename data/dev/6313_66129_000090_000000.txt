@@ -1,0 +1,6 @@
+Then	2	0
+Chunky	0	1
+essayed	2	0
+the	0	1
+feat	0	2
+.	NA	NA

@@ -1,0 +1,11 @@
+Marie	2	1
+clasped	2	2
+her	1	0
+hands	0	0
+and	0	1
+started	2	0
+up	0	1
+from	0	0
+her	0	0
+seat	1	2
+.	NA	NA

@@ -1,0 +1,12 @@
+Besides	2	2
+,	NA	NA
+the	1	0
+thing	2	0
+is	0	1
+coming	0	0
+back	1	1
+again	0	0
+as	0	0
+chicken	1	0
+directly	1	2
+.	NA	NA

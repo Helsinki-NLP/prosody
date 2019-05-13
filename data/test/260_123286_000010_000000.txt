@@ -1,0 +1,10 @@
+One	0	0
+might	2	1
+be	2	2
+,	NA	NA
+with	0	0
+less	1	0
+reason	1	0
+than	0	1
+now	1	2
+.	NA	NA

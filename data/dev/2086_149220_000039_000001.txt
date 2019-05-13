@@ -1,0 +1,11 @@
+How	2	0
+wonderfully	0	1
+responsive	2	2
+to	0	0
+every	0	0
+emotion	2	0
+of	0	1
+the	0	0
+human	0	0
+soul	2	2
+!	NA	NA

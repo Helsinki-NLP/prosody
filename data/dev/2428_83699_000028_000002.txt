@@ -1,0 +1,16 @@
+If	0	0
+they	0	0
+have	2	2
+,	NA	NA
+there's	0	0
+a	0	1
+bell	2	0
+on	0	0
+your	0	1
+right	1	2
+,	NA	NA
+if	1	0
+it	0	0
+isn't	0	0
+broken	1	2
+.	NA	NA

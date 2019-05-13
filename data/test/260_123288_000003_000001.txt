@@ -1,0 +1,15 @@
+The	0	0
+wind	1	0
+has	0	0
+risen	2	2
+,	NA	NA
+and	0	0
+has	0	0
+rapidly	2	1
+carried	2	0
+us	0	1
+away	2	1
+from	0	0
+Axel	1	0
+Island	2	2
+.	NA	NA

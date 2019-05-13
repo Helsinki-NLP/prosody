@@ -1,0 +1,9 @@
+What	2	0
+do	0	1
+you	0	0
+make	0	0
+of	1	0
+it	0	2
+,	NA	NA
+Gryce	2	2
+?	NA	NA

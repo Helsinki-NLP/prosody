@@ -1,0 +1,11 @@
+I	1	0
+wish	0	0
+I	2	0
+had	0	0
+an	0	1
+athlete	1	2
+to	0	0
+mow	1	0
+my	0	0
+orchard	2	2
+.	NA	NA

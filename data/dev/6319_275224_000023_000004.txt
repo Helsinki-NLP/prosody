@@ -1,0 +1,16 @@
+It's	1	1
+all	0	0
+over	0	0
+with	1	1
+them	1	0
+,	NA	NA
+I	0	1
+fear	2	2
+;	NA	NA
+and	1	0
+the	0	0
+gardener	0	0
+went	0	0
+his	0	0
+way	1	2
+.	NA	NA

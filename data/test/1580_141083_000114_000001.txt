@@ -1,0 +1,8 @@
+He	0	0
+was	0	0
+looking	0	0
+very	0	1
+bad	2	2
+quite	1	0
+ghastly	1	2
+.	NA	NA

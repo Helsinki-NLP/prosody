@@ -1,0 +1,7 @@
+But	1	0
+his	0	1
+mother	2	1
+hugged	1	0
+him	0	1
+close	2	2
+.	NA	NA

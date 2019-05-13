@@ -1,0 +1,6 @@
+It	0	0
+has	2	0
+made	1	0
+me	0	1
+heartsick	1	2
+.	NA	NA

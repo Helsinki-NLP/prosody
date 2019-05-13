@@ -1,0 +1,10 @@
+Mother	1	1
+!	NA	NA
+dear	1	0
+father	2	2
+!	NA	NA
+do	0	0
+you	0	0
+hear	1	0
+me	0	2
+?	NA	NA

@@ -1,0 +1,8 @@
+The	0	1
+condition	1	0
+of	0	0
+those	1	1
+dormitories	1	0
+is	1	2
+infamous	2	2
+.	NA	NA

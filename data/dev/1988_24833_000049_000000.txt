@@ -1,0 +1,12 @@
+Goodness	2	1
+,	NA	NA
+who	0	0
+could	0	0
+that	1	0
+be	0	1
+so	0	0
+late	1	2
+?	NA	NA
+says	2	0
+Mom	1	2
+.	NA	NA

@@ -1,0 +1,14 @@
+He	0	0
+puts	1	0
+on	1	1
+white	2	2
+to	0	0
+make	0	0
+himself	2	1
+look	1	0
+like	0	1
+an	0	0
+angel	0	0
+of	0	1
+light	2	2
+.	NA	NA

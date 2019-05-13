@@ -1,0 +1,5 @@
+Look	0	0
+out	2	1
+for	0	0
+what	2	2
+?	NA	NA

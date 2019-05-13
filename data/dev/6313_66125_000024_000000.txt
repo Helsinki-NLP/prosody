@@ -1,0 +1,15 @@
+Why	0	0
+not	2	1
+get	0	0
+a	0	0
+rope	0	0
+and	0	0
+let	0	0
+it	0	2
+down	1	1
+to	0	0
+him	2	1
+,	NA	NA
+suggested	0	1
+Tad	2	2
+.	NA	NA

@@ -1,0 +1,3 @@
+Absolutely	1	0
+nothing	0	2
+!	NA	NA

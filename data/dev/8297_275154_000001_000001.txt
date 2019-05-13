@@ -1,0 +1,9 @@
+Nothing	2	0
+was	0	1
+known	1	0
+of	0	2
+the	0	0
+Captain's	2	0
+movements	0	1
+there	2	2
+.	NA	NA

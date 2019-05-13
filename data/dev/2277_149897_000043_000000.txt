@@ -1,0 +1,8 @@
+Nevertheless	2	2
+,	NA	NA
+his	0	0
+rousing	1	0
+availed	1	0
+him	0	1
+nothing	1	2
+.	NA	NA

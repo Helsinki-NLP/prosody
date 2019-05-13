@@ -1,0 +1,10 @@
+I	0	0
+say	2	2
+,	NA	NA
+whether	1	0
+color	1	0
+be	0	1
+gay	1	0
+or	0	1
+sad	1	2
+.	NA	NA

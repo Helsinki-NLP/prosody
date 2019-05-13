@@ -1,0 +1,4 @@
+We	0	0
+entered	1	1
+softly	1	2
+.	NA	NA

@@ -1,0 +1,10 @@
+The	0	1
+falsehood	2	0
+of	0	2
+his	0	0
+position	1	0
+did	0	0
+not	1	1
+pain	1	0
+him	2	2
+.	NA	NA

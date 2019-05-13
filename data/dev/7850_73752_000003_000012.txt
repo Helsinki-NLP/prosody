@@ -1,0 +1,11 @@
+What	1	0
+man	1	0
+in	0	0
+the	0	1
+world	0	0
+had	0	1
+friends	2	0
+like	0	2
+Ferdinand	2	1
+Armine	2	2
+?	NA	NA

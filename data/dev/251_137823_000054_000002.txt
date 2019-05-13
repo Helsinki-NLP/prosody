@@ -1,0 +1,11 @@
+The	0	0
+two	0	0
+girls	2	1
+were	0	0
+as	0	1
+much	1	1
+upset	2	0
+as	0	1
+Tom's	1	1
+mother	2	2
+.	NA	NA

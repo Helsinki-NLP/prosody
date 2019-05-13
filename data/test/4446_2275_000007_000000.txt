@@ -1,0 +1,7 @@
+There's	1	0
+something	0	1
+troubling	2	2
+you	0	0
+,	NA	NA
+Bartley	1	2
+.	NA	NA

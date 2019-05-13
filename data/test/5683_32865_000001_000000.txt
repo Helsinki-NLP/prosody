@@ -1,0 +1,5 @@
+THE	0	0
+ACE	2	1
+OF	0	0
+HEARTS	2	2
+.	NA	NA

@@ -1,0 +1,5 @@
+He	0	0
+not	2	0
+look	1	1
+good	2	2
+.	NA	NA

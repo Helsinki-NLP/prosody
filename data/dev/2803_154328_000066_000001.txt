@@ -1,0 +1,9 @@
+She	0	0
+felt	1	1
+stronger	2	0
+and	0	1
+commenced	2	1
+her	0	0
+perilous	2	1
+descent	1	2
+.	NA	NA

@@ -1,0 +1,3 @@
+She	2	0
+laughed	0	2
+.	NA	NA

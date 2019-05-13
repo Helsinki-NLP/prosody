@@ -1,0 +1,16 @@
+The	0	0
+Poles	2	0
+were	0	1
+quashed	1	0
+with	0	1
+a	0	0
+violence	2	1
+that	0	0
+appalled	2	1
+not	0	0
+only	0	0
+Verne	2	2
+but	0	0
+all	2	0
+Europe	1	2
+.	NA	NA

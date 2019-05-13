@@ -1,0 +1,6 @@
+I	1	0
+quite	2	1
+feel	1	0
+for	0	0
+you	1	2
+!	NA	NA

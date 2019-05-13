@@ -1,0 +1,8 @@
+Let	2	0
+us	0	1
+be	0	0
+practical	1	2
+,	NA	NA
+said	1	0
+he	1	2
+.	NA	NA

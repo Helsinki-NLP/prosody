@@ -1,0 +1,9 @@
+Many	2	0
+of	0	0
+the	0	1
+soldiers	2	1
+made	0	0
+huts	1	0
+for	0	1
+themselves	2	2
+.	NA	NA

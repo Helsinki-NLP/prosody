@@ -1,0 +1,10 @@
+Every	2	0
+one	0	1
+at	0	0
+Lady	1	1
+Walford's	2	1
+was	0	0
+looking	1	0
+at	0	0
+it	1	2
+.	NA	NA

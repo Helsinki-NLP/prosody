@@ -1,0 +1,17 @@
+Why	2	0
+,	NA	NA
+I	0	1
+thought	2	1
+,	NA	NA
+said	0	0
+mrs	0	0
+Grey	1	1
+,	NA	NA
+that	1	0
+you	0	1
+Southerners	1	0
+rather	1	1
+disapproved	2	1
+or	1	1
+at	0	0
+least	2	2

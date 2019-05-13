@@ -1,0 +1,6 @@
+The	0	1
+boys	2	0
+were	0	0
+in	0	1
+clover	2	2
+.	NA	NA

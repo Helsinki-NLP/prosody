@@ -1,0 +1,9 @@
+And	0	0
+he	0	0
+deserves	2	0
+a	0	1
+term	2	0
+in	0	1
+state's	1	1
+prison	2	2
+.	NA	NA

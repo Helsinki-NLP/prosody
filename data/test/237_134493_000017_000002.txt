@@ -1,0 +1,8 @@
+He	0	0
+felt	2	0
+it	0	1
+rather	2	1
+than	0	0
+saw	2	0
+it	0	2
+.	NA	NA

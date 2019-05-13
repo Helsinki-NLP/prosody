@@ -1,0 +1,17 @@
+He	0	0
+reached	1	0
+it	0	0
+at	0	0
+length	1	2
+,	NA	NA
+and	1	0
+opening	2	0
+the	0	0
+cupboard	1	2
+,	NA	NA
+pulled	2	0
+out	1	0
+what	0	1
+he	0	0
+sought	2	2
+.	NA	NA

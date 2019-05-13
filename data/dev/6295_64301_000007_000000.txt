@@ -1,0 +1,16 @@
+When	0	0
+he	0	0
+reached	0	0
+Mary's	0	0
+shop	2	2
+,	NA	NA
+he	0	0
+turned	2	0
+into	0	0
+the	0	1
+court	2	1
+to	0	0
+the	0	0
+kitchen	0	0
+door	1	2
+.	NA	NA

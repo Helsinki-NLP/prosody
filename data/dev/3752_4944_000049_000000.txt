@@ -1,0 +1,14 @@
+You	0	0
+won't	2	0
+have	0	0
+a	0	0
+nip	0	0
+of	0	2
+brandy	1	0
+before	1	0
+you	0	1
+start	2	2
+?	NA	NA
+asked	1	1
+Burgess	1	2
+.	NA	NA

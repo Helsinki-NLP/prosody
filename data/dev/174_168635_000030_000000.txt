@@ -1,0 +1,10 @@
+Moreover	2	2
+,	NA	NA
+Jean	2	0
+Valjean	1	1
+had	0	0
+chosen	1	1
+his	0	0
+refuge	0	0
+well	1	2
+.	NA	NA

@@ -1,0 +1,5 @@
+How	2	0
+we	0	0
+must	0	1
+simplify	2	2
+!	NA	NA

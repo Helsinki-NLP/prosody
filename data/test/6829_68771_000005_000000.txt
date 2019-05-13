@@ -1,0 +1,7 @@
+The	0	0
+campaign	1	2
+was	0	0
+now	1	0
+growing	0	0
+warm	2	2
+.	NA	NA

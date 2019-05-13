@@ -1,0 +1,12 @@
+Sir	0	0
+Harry	2	0
+Towne	1	2
+,	0	0
+mr	NA	NA
+Bartley	1	0
+Alexander	0	2
+,	NA	NA
+the	0	0
+American	1	0
+engineer	0	2
+.	NA	NA

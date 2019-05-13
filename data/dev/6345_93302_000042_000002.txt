@@ -1,0 +1,16 @@
+She	2	0
+could	0	0
+have	0	1
+snapped	1	1
+off	1	0
+a	0	1
+blossoming	1	0
+branch	1	1
+and	2	2
+and	0	0
+made	2	1
+play	1	0
+with	0	0
+it	0	1
+somehow	2	2
+.	NA	NA

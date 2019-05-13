@@ -1,0 +1,9 @@
+Would	1	0
+you	0	0
+like	2	1
+to	0	0
+be	0	0
+at	1	0
+its	0	2
+mercy	2	2
+?	NA	NA

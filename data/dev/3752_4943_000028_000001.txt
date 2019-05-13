@@ -1,0 +1,10 @@
+You	0	0
+can	0	0
+guess	2	1
+what	0	0
+that	1	0
+unhappy	1	0
+boy	2	0
+has	0	1
+suffered	1	2
+.	NA	NA

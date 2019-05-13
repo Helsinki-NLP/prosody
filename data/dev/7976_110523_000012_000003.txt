@@ -1,0 +1,8 @@
+Take	1	0
+care	2	0
+,	NA	NA
+and	0	1
+remember	0	1
+your	0	0
+legs	2	2
+.	NA	NA

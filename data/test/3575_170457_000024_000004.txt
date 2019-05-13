@@ -1,0 +1,12 @@
+I	0	0
+am	1	1
+afraid	2	1
+,	NA	NA
+sir	1	2
+,	NA	NA
+you	0	0
+think	1	0
+me	0	0
+very	1	0
+foolish	1	2
+.	NA	NA

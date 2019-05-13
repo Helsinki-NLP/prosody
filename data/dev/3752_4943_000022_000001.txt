@@ -1,0 +1,5 @@
+North	1	1
+!	NA	NA
+screamed	0	0
+Kirkland	1	2
+.	NA	NA

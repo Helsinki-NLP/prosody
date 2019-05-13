@@ -1,0 +1,17 @@
+The	0	0
+Boolooroo	2	1
+stared	1	0
+a	0	0
+moment	0	1
+and	1	0
+then	0	0
+he	0	0
+fell	0	0
+back	1	0
+in	0	1
+his	0	0
+throne	2	2
+,	NA	NA
+laughing	2	0
+boisterously	1	2
+.	NA	NA

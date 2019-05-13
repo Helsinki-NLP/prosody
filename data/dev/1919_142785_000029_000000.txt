@@ -1,0 +1,5 @@
+DUTCH	2	0
+SAUCE	0	1
+FOR	0	0
+FISH	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+What	2	0
+is	1	0
+it	0	1
+?	NA	NA
+demanded	0	2
+the	0	0
+Professor	2	1
+breathlessly	2	2
+.	NA	NA

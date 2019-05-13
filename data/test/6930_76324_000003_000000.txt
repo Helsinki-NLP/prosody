@@ -1,0 +1,8 @@
+The	0	1
+poor	2	0
+little	0	1
+things	2	0
+!	NA	NA
+cried	0	1
+Cynthia	0	2
+.	NA	NA

@@ -1,0 +1,13 @@
+But	2	2
+I'm	2	1
+the	0	0
+Ruler	1	1
+here	0	0
+,	NA	NA
+and	0	0
+I'll	0	1
+do	1	0
+as	0	1
+I	0	1
+please	2	2
+.	NA	NA

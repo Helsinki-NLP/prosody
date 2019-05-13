@@ -1,0 +1,6 @@
+But	2	0
+you	0	0
+have	0	1
+been	1	0
+together	2	2
+.	NA	NA

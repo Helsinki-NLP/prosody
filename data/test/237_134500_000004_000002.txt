@@ -1,0 +1,9 @@
+The	0	0
+orchard	1	0
+was	0	1
+sparkling	2	1
+and	0	0
+rippling	2	0
+in	0	1
+the	0	0
+sun	2	2

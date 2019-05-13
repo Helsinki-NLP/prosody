@@ -1,0 +1,5 @@
+Presently	2	0
+the	0	1
+groom	1	1
+screamed	2	2
+.	NA	NA

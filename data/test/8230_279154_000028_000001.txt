@@ -1,0 +1,15 @@
+This	0	0
+knowledge	1	0
+is	1	2
+memory	2	0
+in	0	0
+one	0	0
+sense	0	2
+,	NA	NA
+though	1	0
+in	0	0
+another	1	0
+it	0	0
+is	0	1
+not	1	2
+.	NA	NA

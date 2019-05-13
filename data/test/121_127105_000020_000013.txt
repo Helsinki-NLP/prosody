@@ -1,0 +1,8 @@
+I	0	0
+was	0	0
+sure	1	2
+;	NA	NA
+I	0	0
+could	1	0
+see	1	2
+.	NA	NA

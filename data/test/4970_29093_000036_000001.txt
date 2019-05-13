@@ -1,0 +1,14 @@
+You	0	0
+can	1	0
+begin	0	0
+by	1	1
+carrying	1	1
+a	0	0
+rod	2	0
+,	NA	NA
+and	0	2
+putting	0	0
+down	2	0
+the	0	1
+figures	1	2
+.	NA	NA

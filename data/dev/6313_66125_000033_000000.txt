@@ -1,0 +1,9 @@
+Has	2	0
+he	0	1
+gone	2	1
+?	NA	NA
+asked	2	0
+the	0	1
+Professor	1	0
+weakly	0	2
+.	NA	NA

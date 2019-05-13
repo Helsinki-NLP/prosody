@@ -1,0 +1,8 @@
+Wait	2	0
+a	0	0
+minute	0	1
+,	NA	NA
+cautioned	2	0
+the	0	1
+mountaineer	2	2
+.	NA	NA

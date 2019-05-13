@@ -1,0 +1,6 @@
+Pop	2	0
+,	NA	NA
+it's	0	1
+a	0	0
+course	2	2
+.	NA	NA

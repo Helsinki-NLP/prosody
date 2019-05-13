@@ -1,0 +1,7 @@
+So	0	0
+the	2	0
+soliloquy	1	1
+came	0	0
+into	0	0
+being	1	2
+.	NA	NA

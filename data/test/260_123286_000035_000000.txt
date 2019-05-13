@@ -1,0 +1,13 @@
+I	0	0
+look	2	1
+at	0	0
+our	0	1
+guns	2	2
+and	0	0
+see	0	0
+that	0	0
+they	0	0
+are	0	1
+all	1	0
+right	1	2
+.	NA	NA

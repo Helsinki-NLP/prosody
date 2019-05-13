@@ -1,0 +1,8 @@
+But	0	1
+why	2	0
+did	0	1
+you	0	0
+change	1	0
+your	0	1
+purpose	2	2
+?	NA	NA

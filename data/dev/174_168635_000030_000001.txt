@@ -1,0 +1,6 @@
+There	2	1
+he	0	0
+seemed	0	0
+perfectly	1	1
+secure	2	2
+.	NA	NA

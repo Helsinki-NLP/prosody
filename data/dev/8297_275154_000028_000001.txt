@@ -1,0 +1,7 @@
+Will	1	0
+you	1	0
+give	1	1
+her	1	0
+a	0	1
+message	2	2
+?	NA	NA

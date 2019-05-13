@@ -1,0 +1,11 @@
+You	0	0
+do	0	0
+not	1	1
+know	2	0
+Louise	0	1
+,	NA	NA
+count	1	2
+,	NA	NA
+said	1	0
+Raoul	1	2
+.	NA	NA

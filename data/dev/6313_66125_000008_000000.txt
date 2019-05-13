@@ -1,0 +1,17 @@
+Where	2	0
+is	1	0
+he	0	2
+?	NA	NA
+stammered	2	1
+the	0	0
+Professor	2	1
+,	NA	NA
+not	2	0
+observing	1	0
+that	0	1
+the	0	0
+guide	2	0
+had	0	0
+left	1	0
+them	1	2
+.	NA	NA

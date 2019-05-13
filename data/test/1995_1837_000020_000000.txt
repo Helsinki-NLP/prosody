@@ -1,0 +1,13 @@
+Up	2	0
+in	0	0
+the	0	1
+sick	2	0
+room	0	1
+Zora	1	0
+lay	1	0
+on	0	2
+the	0	0
+little	0	0
+white	1	1
+bed	2	2
+.	NA	NA

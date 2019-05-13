@@ -1,0 +1,15 @@
+Why	2	0
+should	0	0
+a	0	1
+perfectly	1	0
+honest	1	1
+man	0	2
+Well	2	0
+,	NA	NA
+well	0	0
+,	NA	NA
+here's	0	1
+a	0	0
+large	1	0
+stationer's	1	2
+.	NA	NA

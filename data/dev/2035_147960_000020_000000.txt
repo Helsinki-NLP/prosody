@@ -1,0 +1,5 @@
+Otto	2	0
+winked	0	1
+at	0	0
+me	1	2
+.	NA	NA

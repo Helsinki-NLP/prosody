@@ -1,0 +1,13 @@
+In	1	0
+the	0	0
+first	2	1
+,	NA	NA
+I	0	0
+tell	1	1
+,	NA	NA
+in	0	0
+order	1	0
+,	NA	NA
+this	0	1
+imagination	2	2
+.	NA	NA

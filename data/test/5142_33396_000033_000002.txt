@@ -1,0 +1,10 @@
+There	0	0
+were	1	1
+benches	2	0
+for	0	1
+twenty	0	0
+men	1	0
+along	0	1
+each	0	0
+side	2	2
+.	NA	NA

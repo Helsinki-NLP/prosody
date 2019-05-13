@@ -1,0 +1,3 @@
+THE	1	0
+FORGED	1	1
+CHECK	1	2

@@ -1,0 +1,4 @@
+Fly	1	1
+,	NA	NA
+john	1	2
+?	NA	NA

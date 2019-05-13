@@ -1,0 +1,9 @@
+I	1	0
+was	0	0
+absent	2	2
+rather	2	0
+more	0	0
+than	0	1
+an	0	0
+hour	1	2
+.	NA	NA

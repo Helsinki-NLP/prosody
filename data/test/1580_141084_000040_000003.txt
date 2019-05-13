@@ -1,0 +1,4 @@
+Look	1	0
+at	0	1
+that	2	2
+!	NA	NA

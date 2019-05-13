@@ -1,0 +1,5 @@
+Gwynplaine	2	1
+had	0	0
+yellow	0	0
+hair	2	2
+.	NA	NA

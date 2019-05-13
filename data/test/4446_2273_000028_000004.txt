@@ -1,0 +1,8 @@
+Do	0	0
+you	0	0
+remember	1	0
+how	0	1
+sweet	1	1
+they	1	1
+smelled	2	2
+?	NA	NA

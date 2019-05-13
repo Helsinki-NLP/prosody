@@ -1,0 +1,13 @@
+At	0	0
+least	2	0
+I	0	1
+fancied	2	1
+so	1	2
+,	NA	NA
+but	1	0
+I	1	0
+soon	0	0
+found	1	0
+my	0	0
+mistake	2	2
+.	NA	NA

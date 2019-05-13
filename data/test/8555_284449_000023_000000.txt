@@ -1,0 +1,10 @@
+Here's	2	0
+a	0	1
+pretty	0	0
+howdy	0	0
+do	1	2
+You	1	0
+haven't	0	0
+any	0	1
+Boolooroo	2	2
+!	NA	NA

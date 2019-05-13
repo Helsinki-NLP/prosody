@@ -1,0 +1,8 @@
+He	0	0
+looked	2	1
+at	0	0
+her	1	0
+with	0	1
+twinkling	0	0
+eyes	2	2
+.	NA	NA

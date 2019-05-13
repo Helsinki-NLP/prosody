@@ -1,0 +1,10 @@
+Then	1	0
+we	0	0
+aren't	0	0
+returning	0	0
+to	0	1
+Paris	1	2
+?	NA	NA
+Conseil	1	0
+asked	2	2
+.	NA	NA

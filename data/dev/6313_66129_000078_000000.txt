@@ -1,0 +1,8 @@
+Got	1	0
+your	0	0
+life	1	1
+insured	1	1
+?	NA	NA
+asked	2	1
+Ned	2	2
+.	NA	NA

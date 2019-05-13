@@ -1,0 +1,8 @@
+ARRIVAL	2	1
+FROM	0	0
+MARYLAND	1	1
+,	NA	NA
+eighteen	0	0
+fifty	0	0
+eight	2	2
+.	NA	NA

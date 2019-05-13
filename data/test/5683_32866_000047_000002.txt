@@ -1,0 +1,11 @@
+I	1	0
+was	0	0
+not	2	0
+a	0	0
+bit	0	1
+afraid	2	0
+of	0	2
+being	0	0
+found	1	0
+out	2	2
+.	NA	NA

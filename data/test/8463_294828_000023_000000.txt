@@ -1,0 +1,13 @@
+Conseil	2	1
+!	NA	NA
+I	0	0
+repeated	1	2
+,	NA	NA
+while	2	0
+feverishly	0	0
+beginning	0	0
+my	0	0
+preparations	1	1
+for	0	0
+departure	1	2
+.	NA	NA

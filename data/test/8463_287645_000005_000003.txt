@@ -1,0 +1,15 @@
+This	1	0
+was	0	0
+what	2	1
+did	2	0
+the	0	1
+mischief	0	1
+so	1	0
+far	1	0
+as	0	1
+the	0	0
+running	0	0
+away	2	0
+was	0	1
+concerned	2	2
+.	NA	NA

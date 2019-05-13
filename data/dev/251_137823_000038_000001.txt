@@ -1,0 +1,8 @@
+Right	2	0
+where	0	1
+we	0	0
+landed	2	1
+our	0	0
+Whirling	1	1
+Duck	2	2
+!	NA	NA

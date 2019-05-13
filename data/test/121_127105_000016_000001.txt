@@ -1,0 +1,10 @@
+Then	1	0
+as	0	0
+he	0	0
+faced	0	0
+us	0	1
+again	1	2
+I	2	1
+can't	2	1
+begin	1	2
+.	NA	NA

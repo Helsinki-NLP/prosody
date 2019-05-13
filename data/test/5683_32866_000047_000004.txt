@@ -1,0 +1,6 @@
+I	2	1
+boldly	1	0
+lighted	0	1
+my	0	0
+cheroot	1	2
+.	NA	NA

@@ -1,0 +1,5 @@
+How	1	2
+quickly	1	0
+he	0	1
+disappeared	2	2
+!	NA	NA

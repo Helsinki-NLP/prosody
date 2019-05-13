@@ -1,0 +1,17 @@
+I	0	0
+counted	1	1
+seven	2	1
+in	0	0
+a	0	0
+distance	1	2
+,	NA	NA
+I	2	0
+am	0	0
+convinced	1	1
+,	NA	NA
+of	0	0
+less	1	0
+than	0	1
+twenty	0	0
+miles	1	2
+.	NA	NA

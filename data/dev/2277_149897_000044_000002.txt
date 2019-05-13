@@ -1,0 +1,11 @@
+He	0	0
+did	0	0
+not	2	1
+go	1	0
+within	0	0
+a	0	1
+block	2	0
+of	0	1
+the	0	0
+house	1	2
+.	NA	NA

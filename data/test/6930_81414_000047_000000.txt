@@ -1,0 +1,6 @@
+My	0	0
+position	2	1
+was	0	0
+too	0	0
+terrible	1	2
+.	NA	NA

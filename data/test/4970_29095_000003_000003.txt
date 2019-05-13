@@ -1,0 +1,7 @@
+She	0	0
+was	0	1
+tired	2	1
+of	0	0
+other	2	0
+things	1	2
+.	NA	NA

@@ -1,0 +1,14 @@
+In	0	0
+that	2	0
+case	1	0
+my	0	1
+subjects	2	1
+would	0	0
+justly	2	0
+grow	0	0
+envious	1	0
+of	0	1
+my	0	0
+superior	0	0
+station	2	2
+.	NA	NA

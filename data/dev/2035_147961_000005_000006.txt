@@ -1,0 +1,8 @@
+We	0	0
+lay	2	1
+still	1	0
+and	0	1
+did	0	0
+not	0	1
+talk	2	2
+.	NA	NA

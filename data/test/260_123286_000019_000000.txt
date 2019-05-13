@@ -1,0 +1,7 @@
+But	0	0
+I	2	0
+don't	0	1
+care	2	0
+for	0	1
+prospects	1	2
+.	NA	NA

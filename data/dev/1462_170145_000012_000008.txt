@@ -1,0 +1,6 @@
+They	0	0
+never	2	0
+did	0	1
+to	0	0
+me	1	2
+.	NA	NA

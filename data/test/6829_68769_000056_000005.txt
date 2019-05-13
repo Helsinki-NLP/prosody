@@ -1,0 +1,15 @@
+I	1	0
+discovered	1	0
+and	0	1
+put	0	0
+out	0	0
+a	0	1
+fire	2	2
+that	2	0
+would	0	0
+have	0	1
+destroyed	2	0
+the	0	1
+whole	0	1
+plant	2	2
+.	NA	NA

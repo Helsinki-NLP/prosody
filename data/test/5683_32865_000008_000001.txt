@@ -1,0 +1,5 @@
+I'm	2	0
+bad	1	0
+at	0	1
+genealogies	1	2
+.	NA	NA

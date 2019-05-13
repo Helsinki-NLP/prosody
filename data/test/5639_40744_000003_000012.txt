@@ -1,0 +1,17 @@
+It	1	0
+is	0	1
+the	0	0
+only	2	0
+amends	0	1
+I	0	0
+ask	1	1
+of	0	0
+you	0	0
+for	0	0
+the	0	1
+wrong	2	0
+you	0	1
+have	0	0
+done	2	0
+me	0	2
+.	NA	NA

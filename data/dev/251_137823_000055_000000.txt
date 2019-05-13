@@ -1,0 +1,3 @@
+Tom	1	0
+laughed	1	2
+.	NA	NA

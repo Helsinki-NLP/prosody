@@ -1,0 +1,10 @@
+A	0	0
+tall	2	1
+boy	1	0
+behind	0	1
+Stephen	1	1
+rubbed	2	0
+his	0	1
+hands	2	1
+and	0	0
+said	2	2

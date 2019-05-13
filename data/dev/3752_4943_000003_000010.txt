@@ -1,0 +1,10 @@
+You	0	0
+blank	1	1
+blank	2	2
+,	NA	NA
+is	0	0
+that	2	0
+your	0	1
+blank	0	1
+game	1	2
+?	NA	NA

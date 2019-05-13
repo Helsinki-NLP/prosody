@@ -1,0 +1,11 @@
+The	0	0
+first	2	0
+was	0	2
+sort	2	0
+of	0	0
+in	0	1
+play	1	0
+,	NA	NA
+wasn't	0	0
+it	1	2
+?	NA	NA

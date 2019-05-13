@@ -1,0 +1,4 @@
+It	1	0
+is	0	0
+nothing	1	2
+.	NA	NA

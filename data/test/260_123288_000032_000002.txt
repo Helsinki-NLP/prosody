@@ -1,0 +1,12 @@
+We	1	0
+have	0	0
+made	1	1
+two	1	0
+hundred	0	0
+leagues	1	1
+since	1	2
+we	0	0
+left	2	1
+Axel	1	0
+Island	1	2
+.	NA	NA

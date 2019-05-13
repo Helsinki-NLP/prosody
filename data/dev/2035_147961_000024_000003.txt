@@ -1,0 +1,13 @@
+He	0	0
+saw	2	0
+his	0	1
+father's	2	1
+sledge	0	0
+overturned	0	1
+,	NA	NA
+with	0	0
+his	0	0
+mother	1	0
+and	0	1
+sisters	2	2
+.	NA	NA

@@ -1,0 +1,17 @@
+At	1	0
+another	0	0
+spot	2	2
+one	1	0
+hundred	0	0
+eighty	0	0
+two	0	0
+Rebel	0	0
+corpses	1	2
+lay	2	0
+in	0	0
+a	0	0
+row	1	0
+covered	0	0
+by	0	0
+tarpaulins	0	2
+.	NA	NA

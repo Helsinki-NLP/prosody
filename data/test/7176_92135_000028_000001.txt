@@ -1,0 +1,9 @@
+Which	2	1
+strikes	2	1
+me	0	0
+as	0	1
+rather	1	0
+sweet	0	1
+and	1	0
+natural	2	2
+.	NA	NA

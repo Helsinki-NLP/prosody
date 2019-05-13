@@ -1,0 +1,5 @@
+Didn't	1	0
+it	0	1
+blow	1	0
+dreadfully	2	2
+?	NA	NA

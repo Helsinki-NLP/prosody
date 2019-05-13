@@ -1,0 +1,5 @@
+The	0	0
+Gift	1	0
+of	0	1
+Prophecy	2	2
+.	NA	NA

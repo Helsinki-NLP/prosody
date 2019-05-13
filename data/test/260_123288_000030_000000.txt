@@ -1,0 +1,4 @@
+The	0	0
+heat	1	0
+increases	1	2
+.	NA	NA

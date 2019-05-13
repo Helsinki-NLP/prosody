@@ -1,0 +1,10 @@
+Then	2	0
+it	0	0
+must	1	0
+be	0	1
+somewhere	1	0
+in	0	0
+the	0	1
+Blue	0	0
+Forest	1	2
+.	NA	NA

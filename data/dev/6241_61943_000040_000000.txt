@@ -1,0 +1,17 @@
+Sometimes	2	1
+they	0	0
+gave	0	0
+vent	0	0
+to	0	0
+a	0	1
+convulsive	1	0
+laugh	1	1
+,	NA	NA
+but	1	0
+by	0	0
+no	1	0
+chance	0	0
+did	0	1
+they	0	0
+smile	1	2
+.	NA	NA

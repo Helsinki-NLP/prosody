@@ -1,0 +1,11 @@
+He	1	0
+is	0	1
+old	2	0
+as	0	1
+well	1	0
+as	0	2
+poor	2	0
+,	NA	NA
+she	0	1
+said	1	2
+.	NA	NA

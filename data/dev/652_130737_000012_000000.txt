@@ -1,0 +1,7 @@
+Amontillado	1	1
+,	2	1
+Montilo	NA	NA
+and	0	0
+Olorosa	1	0
+sherries	0	2
+.	NA	NA

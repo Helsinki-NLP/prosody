@@ -1,0 +1,10 @@
+I	0	0
+thought	2	0
+it	0	0
+had	0	0
+been	1	2
+torn	2	1
+from	0	0
+my	0	0
+shoulder	1	2
+.	NA	NA

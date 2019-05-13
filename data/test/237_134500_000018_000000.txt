@@ -1,0 +1,10 @@
+Do	0	0
+you	1	0
+like	0	1
+mr	1	0
+Linstrum	1	2
+?	NA	NA
+Marie	2	0
+asked	1	1
+suddenly	1	2
+.	NA	NA

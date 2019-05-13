@@ -1,0 +1,13 @@
+Gwynplaine	2	0
+was	0	1
+a	0	0
+gift	0	1
+of	0	0
+Providence	2	1
+to	0	0
+dispel	2	0
+the	0	1
+sadness	2	1
+of	0	0
+man	2	2
+.	NA	NA

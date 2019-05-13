@@ -1,0 +1,5 @@
+Very	2	0
+truly	0	0
+yours	1	2
+,	NA	NA
+etc	2	2

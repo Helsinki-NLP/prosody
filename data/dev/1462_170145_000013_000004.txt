@@ -1,0 +1,6 @@
+Then	2	0
+I	0	0
+wouldn't	0	0
+have	0	1
+come	2	2
+.	NA	NA

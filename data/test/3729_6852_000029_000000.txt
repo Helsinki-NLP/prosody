@@ -1,0 +1,6 @@
+I	2	0
+have	1	1
+it	0	0
+,	NA	NA
+sir	1	2
+.	NA	NA

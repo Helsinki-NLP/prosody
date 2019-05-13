@@ -1,0 +1,14 @@
+I	0	1
+took	0	0
+that	1	1
+HERE	2	1
+he	0	0
+tapped	1	0
+his	0	0
+heart	1	2
+.	NA	NA
+I've	2	0
+never	1	0
+lost	0	0
+it	0	2
+.	NA	NA

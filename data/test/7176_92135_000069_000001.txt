@@ -1,0 +1,12 @@
+Then	2	0
+is	0	0
+the	0	0
+time	1	1
+to	0	0
+introduce	1	2
+a	0	0
+meal	1	0
+on	0	0
+the	0	2
+stage	2	2
+.	NA	NA

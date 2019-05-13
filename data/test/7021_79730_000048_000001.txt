@@ -1,0 +1,5 @@
+By	0	0
+Reason	2	2
+and	1	0
+Affection	1	2
+.	NA	NA

@@ -1,0 +1,13 @@
+Do	2	0
+,	NA	NA
+if	0	1
+you	0	0
+please	1	1
+,	NA	NA
+my	0	0
+dear	0	0
+child	1	1
+,	NA	NA
+answered	1	0
+Hepzibah	1	2
+.	NA	NA

@@ -1,0 +1,14 @@
+It	2	0
+was	0	1
+kind	1	0
+of	0	0
+you	0	0
+to	0	1
+spend	1	1
+so	2	0
+much	0	1
+time	2	0
+in	0	1
+our	0	0
+behalf	2	2
+.	NA	NA

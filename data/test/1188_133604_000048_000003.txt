@@ -1,0 +1,5 @@
+Thus	2	1
+,	NA	NA
+in	0	0
+Chaucer's	2	0
+Dream	1	2

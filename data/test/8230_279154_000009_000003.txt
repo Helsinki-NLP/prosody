@@ -1,0 +1,11 @@
+But	0	0
+I	2	0
+do	0	0
+not	1	1
+think	0	0
+such	1	0
+an	0	1
+inference	1	2
+is	1	0
+warranted	1	2
+.	NA	NA

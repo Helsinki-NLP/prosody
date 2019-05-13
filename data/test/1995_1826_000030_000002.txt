@@ -1,0 +1,11 @@
+I	1	0
+suppose	2	1
+,	NA	NA
+though	1	0
+,	NA	NA
+it's	0	2
+too	0	0
+early	2	1
+for	0	0
+them	1	2
+.	NA	NA

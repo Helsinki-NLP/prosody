@@ -1,0 +1,17 @@
+Don't	1	0
+mind	0	1
+him	0	0
+,	NA	NA
+Cap'n	1	2
+,	NA	NA
+said	1	0
+Trot	2	2
+,	NA	NA
+but	2	0
+fetch	1	1
+him	0	0
+along	1	0
+to	0	0
+the	0	1
+frame	1	2
+.	NA	NA

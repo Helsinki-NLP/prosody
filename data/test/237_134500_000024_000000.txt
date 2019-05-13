@@ -1,0 +1,5 @@
+Marie	2	0
+shrugged	0	1
+her	0	0
+shoulders	1	2
+.	NA	NA

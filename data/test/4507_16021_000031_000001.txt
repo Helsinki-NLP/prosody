@@ -1,0 +1,12 @@
+There	2	0
+it	0	1
+clothes	2	1
+itself	1	0
+in	0	1
+word	0	0
+masks	1	2
+,	NA	NA
+in	1	0
+metaphor	0	0
+rags	1	2
+.	NA	NA

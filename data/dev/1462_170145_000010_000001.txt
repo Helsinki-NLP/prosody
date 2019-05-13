@@ -1,0 +1,16 @@
+Is	0	0
+this	2	1
+the	0	0
+way	2	1
+you	0	0
+mean	0	1
+to	0	0
+answer	0	0
+it	1	2
+,	NA	NA
+Hilda	2	2
+?	NA	NA
+he	2	0
+asked	0	1
+unsteadily	1	2
+.	NA	NA

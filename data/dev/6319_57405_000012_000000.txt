@@ -1,0 +1,10 @@
+Is	0	0
+there	2	0
+anything	0	0
+that	0	1
+you	0	0
+wish	2	2
+?	NA	NA
+he	0	0
+asked	1	2
+.	NA	NA

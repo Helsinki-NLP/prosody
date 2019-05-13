@@ -1,0 +1,8 @@
+I'll	2	0
+teach	0	0
+my	1	0
+prisoners	1	1
+to	0	0
+attempt	0	0
+suicide	2	2
+!	NA	NA

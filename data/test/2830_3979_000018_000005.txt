@@ -1,0 +1,6 @@
+My	0	0
+galatians	2	1
+,	NA	NA
+for	0	0
+instance	1	2
+.	NA	NA

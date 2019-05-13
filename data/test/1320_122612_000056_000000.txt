@@ -1,0 +1,11 @@
+In	1	0
+the	0	0
+next	2	0
+moment	1	1
+he	0	0
+was	0	2
+concealed	2	1
+by	1	0
+the	0	0
+leaves	2	2
+.	NA	NA

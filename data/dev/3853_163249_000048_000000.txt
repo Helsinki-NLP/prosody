@@ -1,0 +1,9 @@
+Come	1	0
+and	0	0
+walk	2	1
+a	0	0
+little	0	0
+in	0	1
+the	0	0
+lane	1	2
+.	NA	NA

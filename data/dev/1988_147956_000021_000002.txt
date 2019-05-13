@@ -1,0 +1,8 @@
+She	0	0
+was	1	1
+quick	2	2
+,	NA	NA
+and	0	0
+very	2	0
+eager	1	2
+.	NA	NA

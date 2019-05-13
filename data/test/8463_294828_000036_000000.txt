@@ -1,0 +1,7 @@
+They'll	2	0
+feed	0	0
+it	0	1
+during	0	0
+our	0	0
+absence	1	2
+.	NA	NA

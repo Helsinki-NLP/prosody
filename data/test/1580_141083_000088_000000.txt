@@ -1,0 +1,13 @@
+We	1	0
+are	0	0
+investigating	2	1
+this	0	0
+unhappy	1	0
+business	0	1
+,	NA	NA
+Bannister	1	2
+,	NA	NA
+said	1	0
+his	0	0
+master	2	2
+.	NA	NA

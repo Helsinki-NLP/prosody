@@ -1,0 +1,11 @@
+He	0	0
+might	1	0
+be	0	0
+enchanted	1	2
+,	NA	NA
+but	0	0
+that	2	0
+was	0	0
+the	0	0
+talisman	1	2
+.	NA	NA

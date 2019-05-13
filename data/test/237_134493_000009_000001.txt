@@ -1,0 +1,10 @@
+Please	2	0
+wait	0	1
+for	0	0
+me	0	0
+,	NA	NA
+Marie	2	2
+,	NA	NA
+Emil	2	0
+coaxed	1	2
+.	NA	NA

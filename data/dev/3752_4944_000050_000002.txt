@@ -1,0 +1,3 @@
+Good	1	1
+night	1	2
+.	NA	NA

@@ -1,0 +1,16 @@
+On	2	0
+the	0	0
+way	2	1
+his	0	0
+temper	1	1
+cooled	2	0
+as	1	1
+he	0	0
+thought	2	0
+of	0	0
+the	0	1
+details	1	0
+of	0	0
+the	0	1
+case	2	2
+.	NA	NA

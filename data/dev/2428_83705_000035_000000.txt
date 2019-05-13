@@ -1,0 +1,3 @@
+Her	1	0
+love	1	2
+.	NA	NA

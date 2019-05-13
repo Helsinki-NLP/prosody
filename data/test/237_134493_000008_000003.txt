@@ -1,0 +1,6 @@
+Alexandra	2	0
+lets	0	1
+you	0	0
+sleep	2	0
+late	0	2
+.	NA	NA

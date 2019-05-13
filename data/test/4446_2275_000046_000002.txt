@@ -1,0 +1,5 @@
+I	1	0
+must	1	1
+see	2	0
+you	0	2
+.	NA	NA

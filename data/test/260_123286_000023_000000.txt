@@ -1,0 +1,7 @@
+My	0	0
+uncle	2	0
+took	0	1
+soundings	1	1
+several	0	0
+times	2	2
+.	NA	NA

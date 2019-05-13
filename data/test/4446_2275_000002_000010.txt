@@ -1,0 +1,15 @@
+I	0	0
+thought	1	0
+it	0	1
+might	2	1
+be	0	0
+Sister	0	0
+Kate	1	0
+or	0	0
+Cousin	0	1
+Mike	2	0
+would	0	1
+be	0	0
+happening	1	1
+along	2	2
+.	NA	NA

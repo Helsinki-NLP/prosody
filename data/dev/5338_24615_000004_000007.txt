@@ -1,0 +1,11 @@
+Stables	2	0
+and	0	0
+other	0	0
+offices	1	1
+occupied	1	1
+another	0	0
+side	0	0
+of	0	0
+the	0	1
+square	2	2
+.	NA	NA

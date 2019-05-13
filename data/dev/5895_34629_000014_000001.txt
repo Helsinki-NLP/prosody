@@ -1,0 +1,8 @@
+We	0	0
+must	2	1
+be	0	1
+prepared	2	1
+for	0	0
+the	0	0
+gentry	0	2
+.	NA	NA

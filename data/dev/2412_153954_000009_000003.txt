@@ -1,0 +1,14 @@
+They	2	0
+seemed	2	1
+concerned	2	1
+and	0	0
+uneasy	0	0
+as	0	1
+soon	0	0
+as	0	0
+they	0	0
+got	0	0
+hold	1	0
+of	0	0
+it	2	2
+.	NA	NA

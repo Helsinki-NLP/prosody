@@ -1,0 +1,14 @@
+Lodged	2	0
+in	0	2
+the	0	0
+branches	2	0
+of	0	0
+a	0	0
+pinyon	1	1
+tree	0	0
+,	NA	NA
+I	0	0
+think	0	0
+it	0	1
+is	2	2
+.	NA	NA

@@ -1,0 +1,10 @@
+What	0	0
+master	1	0
+does	1	1
+,	NA	NA
+I'll	2	0
+do	0	1
+,	NA	NA
+Conseil	1	0
+replied	1	2
+.	NA	NA

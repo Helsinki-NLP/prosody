@@ -1,0 +1,6 @@
+He	0	0
+could	0	0
+not	2	2
+contain	1	0
+himself	0	2
+.	NA	NA

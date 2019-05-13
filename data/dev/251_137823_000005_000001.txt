@@ -1,0 +1,14 @@
+Inside	2	2
+,	NA	NA
+a	0	0
+secret	0	0
+rocket	2	1
+telemetering	0	1
+device	2	1
+was	0	0
+mounted	1	1
+on	0	0
+its	0	0
+test	1	0
+stand	1	2
+.	NA	NA

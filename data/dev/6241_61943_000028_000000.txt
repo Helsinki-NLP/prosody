@@ -1,0 +1,12 @@
+How	2	0
+the	0	0
+worse	0	1
+difficulty	1	0
+over	1	0
+?	NA	NA
+I	0	1
+cried	2	0
+in	0	1
+fresh	1	0
+amazement	2	2
+.	NA	NA

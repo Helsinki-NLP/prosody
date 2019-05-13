@@ -1,0 +1,12 @@
+Pedestrians	2	1
+had	0	0
+turned	1	0
+up	0	1
+collars	2	0
+,	NA	NA
+and	0	1
+trousers	1	0
+at	0	1
+the	0	0
+bottom	2	2
+.	NA	NA

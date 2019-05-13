@@ -1,0 +1,8 @@
+It's	0	0
+just	2	0
+like	1	0
+him	0	1
+!	NA	NA
+he	0	0
+murmured	2	2
+.	NA	NA

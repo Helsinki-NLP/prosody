@@ -1,0 +1,7 @@
+mr	1	0
+Cresswell	0	0
+inclined	2	0
+his	0	1
+head	1	0
+courteously	2	2
+.	NA	NA

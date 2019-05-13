@@ -1,0 +1,5 @@
+june	1	0
+ninth	2	2
+eighteen	2	0
+seventy	0	0
+two	1	2

@@ -1,0 +1,13 @@
+Again	1	0
+Alice	0	1
+laid	0	0
+out	0	1
+the	0	0
+dead	1	2
+,	NA	NA
+Mary	2	0
+helping	0	1
+with	0	0
+reverent	0	0
+fear	2	2
+.	NA	NA

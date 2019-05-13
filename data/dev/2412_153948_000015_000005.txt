@@ -1,0 +1,15 @@
+I	2	0
+would	0	1
+try	1	0
+the	0	1
+nearer	1	0
+range	0	1
+,	NA	NA
+and	0	0
+see	0	0
+how	1	1
+far	1	0
+I	0	0
+could	0	1
+go	2	2
+.	NA	NA

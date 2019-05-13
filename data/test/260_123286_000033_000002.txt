@@ -1,0 +1,7 @@
+No	1	1
+;	NA	NA
+surely	2	0
+it	0	1
+cannot	1	0
+be	0	2
+!	NA	NA

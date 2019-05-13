@@ -1,0 +1,8 @@
+A	0	0
+loud	2	0
+laugh	1	2
+followed	2	0
+at	0	1
+Chunky's	0	0
+expense	2	2
+.	NA	NA

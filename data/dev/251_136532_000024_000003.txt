@@ -1,0 +1,8 @@
+Positions	2	1
+,	NA	NA
+with	0	0
+impressive	1	0
+titles	2	1
+and	0	0
+salaries	2	2
+.	NA	NA

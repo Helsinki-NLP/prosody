@@ -1,0 +1,6 @@
+No	2	0
+,	NA	NA
+I	0	1
+see	0	0
+nothing	1	2
+.	NA	NA

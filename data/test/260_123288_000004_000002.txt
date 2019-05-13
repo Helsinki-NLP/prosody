@@ -1,0 +1,12 @@
+The	0	1
+clouds	2	0
+are	0	1
+sinking	0	0
+lower	2	2
+,	NA	NA
+and	1	0
+assume	0	0
+an	0	0
+olive	1	0
+hue	0	2
+.	NA	NA

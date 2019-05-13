@@ -1,0 +1,9 @@
+Why	2	0
+should	0	1
+he	0	0
+not	1	2
+be	0	0
+as	1	0
+other	1	1
+men	1	2
+?	NA	NA

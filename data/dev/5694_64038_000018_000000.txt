@@ -1,0 +1,7 @@
+We	0	0
+marched	2	0
+from	0	1
+Decatur	2	2
+to	0	0
+Florence	2	2
+.	NA	NA

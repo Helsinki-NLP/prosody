@@ -1,0 +1,4 @@
+But	0	0
+this	0	0
+rascal	2	2
+?	NA	NA

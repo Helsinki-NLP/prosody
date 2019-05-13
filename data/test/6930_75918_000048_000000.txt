@@ -1,0 +1,5 @@
+Do	0	0
+you	1	2
+wish	0	0
+it	1	2
+?	NA	NA

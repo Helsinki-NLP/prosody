@@ -1,0 +1,14 @@
+They	2	0
+were	0	1
+big	2	0
+and	0	1
+heavy	2	2
+,	NA	NA
+but	1	0
+her	0	0
+great	2	1
+fear	1	0
+gave	0	1
+her	0	0
+strength	1	2
+.	NA	NA

@@ -1,0 +1,8 @@
+We	0	0
+were	2	0
+ordered	0	2
+forward	2	1
+to	0	0
+the	0	0
+attack	1	2
+.	NA	NA

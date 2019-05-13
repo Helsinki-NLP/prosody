@@ -1,0 +1,8 @@
+You	2	0
+must	0	1
+be	0	0
+right	1	1
+,	NA	NA
+admitted	0	0
+Cynthia	2	2
+.	NA	NA

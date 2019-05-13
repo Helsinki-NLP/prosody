@@ -1,0 +1,16 @@
+To	0	0
+teach	0	0
+reading	0	0
+,	NA	NA
+means	0	1
+to	0	0
+light	2	0
+the	0	1
+fire	2	2
+;	NA	NA
+every	2	1
+syllable	2	1
+spelled	1	1
+out	1	1
+sparkles	1	2
+.	NA	NA

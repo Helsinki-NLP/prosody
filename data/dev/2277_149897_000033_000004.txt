@@ -1,0 +1,16 @@
+The	0	0
+thought	2	0
+that	0	1
+this	0	0
+letter	2	0
+would	0	1
+probably	1	0
+not	1	0
+reach	0	0
+her	0	1
+until	1	0
+Monday	0	0
+chafed	1	0
+him	0	1
+exceedingly	2	2
+.	NA	NA

@@ -1,0 +1,8 @@
+The	1	0
+foul	1	0
+mouthed	1	1
+fellow	1	0
+at	0	1
+the	0	0
+top	2	2
+.	NA	NA

@@ -1,0 +1,17 @@
+If	0	0
+any	0	0
+boys	2	0
+have	0	1
+special	1	1
+confessors	2	1
+perhaps	2	1
+it	0	0
+will	1	0
+be	0	0
+better	1	0
+for	0	0
+them	0	0
+not	1	1
+to	0	0
+change	2	2
+.	NA	NA

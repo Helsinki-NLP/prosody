@@ -1,0 +1,13 @@
+On	0	0
+myself	1	2
+,	NA	NA
+I	0	0
+need	1	0
+hardly	2	0
+say	1	0
+that	0	0
+it	0	0
+would	0	1
+be	1	2
+inoperative	1	2
+.	NA	NA

@@ -1,0 +1,15 @@
+There	0	0
+was	1	1
+William	1	0
+Henry	0	2
+,	NA	NA
+john	2	0
+Frank	0	2
+,	NA	NA
+Ferdinand	2	0
+Augustus	0	2
+,	NA	NA
+and	1	0
+Stephen	1	0
+Arthur	0	2
+.	NA	NA

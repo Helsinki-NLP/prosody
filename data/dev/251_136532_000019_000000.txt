@@ -1,0 +1,4 @@
+Yes	1	1
+;	NA	NA
+charcoal	2	2
+.	NA	NA

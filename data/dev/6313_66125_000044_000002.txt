@@ -1,0 +1,7 @@
+I'll	2	0
+go	0	1
+down	0	1
+,	0	0
+mr	NA	NA
+Thomas	1	2
+.	NA	NA

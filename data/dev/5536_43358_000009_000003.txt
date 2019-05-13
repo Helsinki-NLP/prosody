@@ -1,0 +1,6 @@
+The	0	1
+Paradox	2	0
+of	0	1
+Christian	0	0
+Civilization	1	2
+.	NA	NA

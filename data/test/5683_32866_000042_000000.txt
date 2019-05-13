@@ -1,0 +1,14 @@
+To	0	0
+my	0	0
+mind	2	1
+there	0	0
+has	0	0
+always	2	0
+been	0	0
+something	1	1
+inexpressibly	2	1
+awful	2	1
+in	0	0
+family	1	0
+feuds	2	2
+.	NA	NA

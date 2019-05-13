@@ -1,0 +1,13 @@
+Why	2	0
+not	0	1
+allow	1	0
+the	0	1
+healthy	0	0
+Rose	1	1
+Tree	1	1
+its	1	0
+free	2	0
+and	0	1
+glorious	2	1
+growth	2	2
+?	NA	NA

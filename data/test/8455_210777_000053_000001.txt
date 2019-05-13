@@ -1,0 +1,8 @@
+Lieutenant	2	1
+Crosstrees	2	1
+is	0	0
+a	0	0
+very	2	0
+gallant	0	1
+officer	2	2
+.	NA	NA

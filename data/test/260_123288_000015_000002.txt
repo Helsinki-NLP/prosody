@@ -1,0 +1,9 @@
+Let	2	0
+the	0	1
+wind	1	1
+catch	1	0
+us	0	0
+if	0	1
+it	0	0
+will	2	2
+!	NA	NA

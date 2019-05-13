@@ -1,0 +1,10 @@
+How	1	0
+long	0	0
+ago	0	0
+were	0	1
+you	0	0
+arrested	1	2
+?	NA	NA
+asked	2	1
+Beth	2	2
+.	NA	NA

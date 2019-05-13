@@ -1,0 +1,8 @@
+There	0	1
+was	0	1
+no	2	0
+rest	1	1
+for	0	0
+the	0	0
+weary	1	2
+.	NA	NA

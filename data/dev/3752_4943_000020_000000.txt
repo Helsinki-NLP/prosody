@@ -1,0 +1,10 @@
+Can't	2	1
+sir	2	2
+,	NA	NA
+without	1	0
+an	0	0
+order	1	0
+from	0	1
+the	0	0
+Commandant	1	2
+.	NA	NA

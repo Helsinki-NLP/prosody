@@ -1,0 +1,9 @@
+He	0	0
+must	2	1
+get	1	0
+some	0	1
+speedier	0	0
+method	1	2
+but	1	0
+how	2	2
+?	NA	NA

@@ -1,0 +1,14 @@
+After	2	0
+he	0	0
+met	2	1
+Winifred	1	1
+Pemberton	0	1
+he	0	0
+seemed	2	0
+to	0	1
+himself	2	1
+like	0	0
+a	0	1
+different	0	0
+man	2	2
+.	NA	NA

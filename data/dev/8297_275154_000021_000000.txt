@@ -1,0 +1,12 @@
+The	0	0
+poor	1	0
+wretch	0	0
+sank	1	0
+under	0	1
+Randal's	0	0
+firm	2	1
+voice	2	0
+and	0	1
+steady	1	0
+eye	2	2
+.	NA	NA

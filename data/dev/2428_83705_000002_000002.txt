@@ -1,0 +1,13 @@
+Her	1	0
+father	2	0
+is	0	1
+a	0	0
+most	1	0
+remarkable	1	1
+person	2	1
+,	NA	NA
+to	0	0
+say	0	0
+the	0	0
+least	1	2
+.	NA	NA

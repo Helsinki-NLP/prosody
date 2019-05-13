@@ -1,0 +1,15 @@
+Then	2	0
+he	0	0
+went	0	1
+to	0	0
+the	1	0
+bed	1	0
+of	0	0
+the	0	1
+second	2	1
+sister	1	2
+and	2	0
+did	0	0
+the	0	1
+same	2	2
+.	NA	NA

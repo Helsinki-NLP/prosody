@@ -1,0 +1,6 @@
+The	0	0
+count	2	1
+shook	0	0
+his	0	0
+head	2	2
+.	NA	NA

@@ -1,0 +1,11 @@
+How	2	0
+long	0	0
+will	0	0
+the	0	1
+voyage	0	0
+last	2	2
+?	NA	NA
+asked	2	0
+my	0	0
+uncle	1	2
+.	NA	NA

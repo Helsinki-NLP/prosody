@@ -1,0 +1,13 @@
+Keep	0	0
+away	1	0
+if	0	1
+you	0	0
+wish	1	2
+;	NA	NA
+when	2	0
+have	0	0
+I	0	0
+ever	0	1
+followed	1	0
+you	0	2
+?	NA	NA

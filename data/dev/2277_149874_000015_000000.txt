@@ -1,0 +1,10 @@
+Carrie	2	0
+noticed	1	1
+that	0	0
+Hanson	0	0
+had	0	1
+said	2	0
+nothing	0	1
+to	0	0
+this	2	2
+.	NA	NA

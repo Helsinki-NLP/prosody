@@ -1,0 +1,12 @@
+His	0	0
+death	2	2
+,	NA	NA
+in	1	0
+this	0	0
+conjuncture	2	2
+,	NA	NA
+was	0	0
+a	0	0
+public	1	0
+misfortune	1	2
+.	NA	NA

@@ -1,0 +1,16 @@
+The	0	0
+only	1	0
+thing	0	1
+necessary	1	0
+was	0	0
+to	0	1
+fix	2	0
+Seth	1	1
+Reynolds	2	1
+,	NA	NA
+and	0	0
+this	2	1
+Hopkins	2	0
+arranged	1	1
+personally	1	2
+.	NA	NA

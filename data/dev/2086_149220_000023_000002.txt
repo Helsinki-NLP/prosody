@@ -1,0 +1,8 @@
+And	0	0
+you	0	0
+judge	2	1
+favorably	1	0
+of	0	0
+the	0	1
+face	2	2
+?	NA	NA

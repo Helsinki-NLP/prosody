@@ -1,0 +1,5 @@
+I'll	1	0
+be	0	0
+back	2	1
+shortly	1	2
+.	NA	NA

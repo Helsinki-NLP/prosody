@@ -1,0 +1,10 @@
+Only	2	0
+two	0	0
+thirds	2	0
+of	0	1
+the	0	0
+walls	2	1
+were	0	0
+still	0	0
+standing	2	2
+.	NA	NA

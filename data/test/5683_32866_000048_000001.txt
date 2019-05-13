@@ -1,0 +1,15 @@
+A	0	0
+little	1	0
+bit	0	0
+of	0	1
+plaster	2	0
+tumbled	0	0
+down	1	0
+the	0	1
+chimney	1	2
+,	NA	NA
+and	0	0
+startled	2	0
+me	0	1
+confoundedly	2	2
+.	NA	NA

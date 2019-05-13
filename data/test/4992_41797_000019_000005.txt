@@ -1,0 +1,10 @@
+They	1	0
+couldn't	0	0
+run	0	1
+nor	0	0
+move	2	1
+;	NA	NA
+they're	0	0
+just	1	2
+pasteboard	2	2
+.	NA	NA

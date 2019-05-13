@@ -1,0 +1,10 @@
+'What	2	0
+the	1	1
+d	1	0
+has	1	1
+he	0	0
+come	1	0
+down	1	0
+here	0	1
+for	2	2
+?	NA	NA

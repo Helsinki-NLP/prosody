@@ -1,0 +1,8 @@
+Never	2	0
+had	0	0
+any	0	0
+act	1	2
+seemed	0	1
+so	0	0
+impossible	2	2
+.	NA	NA

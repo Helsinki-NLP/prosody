@@ -1,0 +1,6 @@
+I	1	1
+can	0	0
+not	1	1
+find	2	0
+you	0	2
+.	NA	NA

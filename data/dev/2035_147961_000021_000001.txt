@@ -1,0 +1,10 @@
+There	2	0
+are	0	0
+only	0	1
+three	0	0
+sledges	0	1
+left	1	1
+,	NA	NA
+he	0	1
+whispered	2	2
+.	NA	NA

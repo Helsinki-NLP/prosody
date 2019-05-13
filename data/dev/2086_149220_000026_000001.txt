@@ -1,0 +1,7 @@
+You	0	0
+mistake	2	0
+it	0	1
+for	0	0
+some	0	0
+other	2	2
+.	NA	NA

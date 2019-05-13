@@ -1,0 +1,6 @@
+Don't	1	1
+talk	2	0
+like	0	0
+an	0	1
+idiot	2	2
+!	NA	NA

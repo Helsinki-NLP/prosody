@@ -1,0 +1,13 @@
+Does	2	0
+your	0	0
+excellency	1	2
+,	NA	NA
+or	1	0
+this	0	0
+proud	1	0
+bishop	2	2
+,	NA	NA
+govern	1	0
+Alexandria	1	2
+?	NA	NA
+'	NA	NA

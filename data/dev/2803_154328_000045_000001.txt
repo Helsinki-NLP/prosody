@@ -1,0 +1,12 @@
+I	1	1
+stole	2	1
+this	0	0
+knife	1	0
+and	0	1
+rope	2	1
+out	0	0
+of	0	0
+the	0	0
+desert	1	1
+hut	2	2
+.	NA	NA

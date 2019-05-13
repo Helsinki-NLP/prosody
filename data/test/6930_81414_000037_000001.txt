@@ -1,0 +1,13 @@
+Have	1	0
+we	0	1
+been	0	0
+together	2	2
+?	NA	NA
+That's	2	0
+his	0	1
+knife	1	1
+,	NA	NA
+at	0	0
+any	0	0
+rate	2	2
+.	NA	NA

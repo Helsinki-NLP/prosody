@@ -1,0 +1,5 @@
+What	2	0
+does	0	0
+that	1	1
+signify	1	2
+?	NA	NA

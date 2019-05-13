@@ -1,0 +1,13 @@
+You	0	0
+may	1	0
+wonder	2	1
+to	0	0
+hear	2	0
+me	0	1
+speak	1	0
+thus	1	2
+,	NA	NA
+being	2	0
+so	0	0
+young	1	2
+.	NA	NA

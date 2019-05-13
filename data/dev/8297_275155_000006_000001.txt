@@ -1,0 +1,11 @@
+Randal	2	0
+looked	0	1
+again	2	0
+at	0	1
+the	0	0
+first	1	0
+words	1	0
+in	0	2
+the	0	0
+paragraph	2	2
+.	NA	NA

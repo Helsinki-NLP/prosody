@@ -1,0 +1,15 @@
+It	1	0
+was	0	0
+on	0	0
+the	0	1
+Quai	2	0
+we	0	1
+met	2	1
+that	1	0
+woman	0	0
+who	0	0
+was	0	1
+crying	2	1
+so	1	0
+bitterly	1	2
+.	NA	NA

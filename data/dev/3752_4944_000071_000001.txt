@@ -1,0 +1,7 @@
+I	2	0
+hope	2	1
+you	0	0
+will	1	0
+be	0	0
+comfortable	0	2
+.	NA	NA

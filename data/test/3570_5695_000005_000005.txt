@@ -1,0 +1,12 @@
+Usage	2	1
+has	0	0
+answered	1	1
+this	0	0
+question	1	1
+in	0	0
+different	1	0
+ways	0	0
+under	0	0
+different	0	0
+circumstances	1	2
+.	NA	NA

@@ -1,0 +1,8 @@
+The	0	0
+hotel	2	0
+will	0	1
+keep	0	0
+them	0	2
+for	2	0
+us	0	2
+.	NA	NA

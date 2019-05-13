@@ -1,0 +1,16 @@
+The	0	0
+grain	2	0
+is	0	1
+so	0	0
+heavy	2	1
+that	1	0
+it	0	1
+bends	2	1
+toward	1	0
+the	0	1
+blade	2	1
+and	0	0
+cuts	2	1
+like	0	0
+velvet	2	2
+.	NA	NA

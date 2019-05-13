@@ -1,0 +1,11 @@
+All	2	0
+this	0	1
+while	2	0
+we	0	1
+were	0	0
+advancing	2	1
+at	0	0
+a	0	0
+rapid	1	1
+pace	2	2
+.	NA	NA

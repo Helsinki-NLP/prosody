@@ -1,0 +1,14 @@
+Is	0	0
+there	1	0
+any	0	1
+particular	2	1
+priest	0	1
+you	0	0
+wish	0	0
+to	0	1
+pray	2	0
+with	0	1
+Valentine	1	2
+?	NA	NA
+asked	2	1
+.	NA	NA

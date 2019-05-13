@@ -1,0 +1,6 @@
+I	2	0
+am	0	1
+stricken	0	0
+by	0	1
+fate	2	2
+.	NA	NA

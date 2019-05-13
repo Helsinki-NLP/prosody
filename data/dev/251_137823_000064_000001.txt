@@ -1,0 +1,5 @@
+Wow	2	1
+!	NA	NA
+Bud	0	0
+gasped	0	2
+.	NA	NA

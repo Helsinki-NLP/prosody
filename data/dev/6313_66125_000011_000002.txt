@@ -1,0 +1,3 @@
+Walt's	0	1
+alive	2	2
+!	NA	NA

@@ -1,0 +1,9 @@
+He	0	0
+reacted	2	1
+but	0	0
+his	0	1
+blade	2	1
+just	0	0
+met	0	0
+air	1	2
+.	NA	NA

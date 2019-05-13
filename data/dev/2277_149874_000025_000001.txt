@@ -1,0 +1,6 @@
+He	1	0
+could	1	0
+not	1	1
+come	1	1
+here	2	2
+.	NA	NA

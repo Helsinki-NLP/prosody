@@ -1,0 +1,10 @@
+What	0	0
+about	2	0
+master's	0	1
+collections	1	1
+?	NA	NA
+Conseil	2	0
+ventured	0	1
+to	0	0
+observe	2	2
+.	NA	NA

@@ -1,0 +1,10 @@
+LEAGUE	2	1
+In	0	0
+Verne's	2	0
+context	1	2
+,	NA	NA
+two	2	0
+point	1	0
+one	0	0
+six	0	0
+miles	1	2

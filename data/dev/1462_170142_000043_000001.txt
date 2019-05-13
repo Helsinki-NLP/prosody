@@ -1,0 +1,12 @@
+Yes	2	1
+,	NA	NA
+I	0	0
+know	1	0
+I'm	0	1
+cowardly	1	2
+.	NA	NA
+I'm	0	0
+afraid	2	0
+of	0	1
+myself	1	2
+.	NA	NA

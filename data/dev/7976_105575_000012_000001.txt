@@ -1,0 +1,11 @@
+Never	2	0
+will	0	0
+I	0	1
+forget	1	0
+the	0	2
+horrible	2	0
+scenes	0	1
+of	0	0
+that	1	0
+night	1	2
+.	NA	NA

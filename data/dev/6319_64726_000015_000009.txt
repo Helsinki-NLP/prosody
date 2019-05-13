@@ -1,0 +1,16 @@
+His	1	1
+steps	2	1
+resounded	2	0
+as	0	2
+he	0	0
+passed	2	0
+over	1	0
+the	0	0
+marble	0	0
+pavement	1	1
+and	0	0
+up	0	1
+the	0	0
+marble	0	1
+staircase	2	2
+.	NA	NA

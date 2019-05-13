@@ -1,0 +1,3 @@
+That	1	0
+depends	2	2
+.	NA	NA

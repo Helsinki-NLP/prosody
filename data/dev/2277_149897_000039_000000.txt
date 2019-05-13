@@ -1,0 +1,12 @@
+Then	2	0
+he	0	1
+folded	0	0
+it	0	0
+up	2	2
+and	1	0
+put	0	0
+it	0	0
+in	0	0
+his	0	1
+pocket	1	2
+.	NA	NA

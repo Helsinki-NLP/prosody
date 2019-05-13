@@ -1,0 +1,9 @@
+You	1	0
+there	2	0
+,	NA	NA
+if	0	0
+you	0	2
+please	0	0
+,	NA	NA
+Soames	1	2
+!	NA	NA

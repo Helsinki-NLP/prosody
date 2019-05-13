@@ -1,0 +1,13 @@
+It	1	0
+was	0	1
+not	2	1
+great	1	0
+enough	0	1
+yet	1	0
+to	0	1
+re	1	0
+echo	0	1
+throughout	2	1
+the	0	0
+city	1	2
+.	NA	NA

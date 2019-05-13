@@ -1,0 +1,12 @@
+You	0	0
+will	1	1
+take	2	0
+them	0	1
+from	0	0
+my	0	1
+private	1	0
+treasure	2	2
+.	NA	NA
+Colbert	1	0
+bowed	2	2
+.	NA	NA

@@ -1,0 +1,10 @@
+Immediately	1	0
+over	0	0
+his	0	1
+outstretched	1	2
+gleaming	0	0
+head	1	1
+flew	0	0
+the	0	0
+hawk	2	2
+.	NA	NA

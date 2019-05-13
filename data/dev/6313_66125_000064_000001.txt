@@ -1,0 +1,16 @@
+Better	2	0
+lie	1	0
+down	1	2
+so	0	0
+you	0	0
+,	NA	NA
+too	1	0
+,	NA	NA
+don't	0	0
+take	1	0
+a	0	1
+notion	1	1
+to	0	0
+fall	0	0
+off	2	2
+.	NA	NA

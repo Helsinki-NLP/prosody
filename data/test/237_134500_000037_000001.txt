@@ -1,0 +1,9 @@
+Emil	0	0
+stood	0	0
+defiant	1	2
+,	NA	NA
+gazing	2	1
+down	2	0
+at	0	1
+her	0	2
+.	NA	NA

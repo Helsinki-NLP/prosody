@@ -1,0 +1,8 @@
+I	1	0
+hope	2	1
+he	1	0
+is	0	0
+,	NA	NA
+said	0	1
+North	2	2
+.	NA	NA

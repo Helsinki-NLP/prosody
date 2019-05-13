@@ -1,0 +1,9 @@
+If	1	1
+this	2	1
+is	0	0
+one	1	0
+of	0	0
+your	0	2
+jokes	2	1
+,	NA	NA
+ma'am	1	2

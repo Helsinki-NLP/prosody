@@ -1,0 +1,11 @@
+And	1	0
+will	0	0
+you	0	0
+direct	2	0
+us	1	2
+?	NA	NA
+exclaimed	2	1
+the	0	0
+young	0	0
+man	1	2
+.	NA	NA

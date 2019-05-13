@@ -1,0 +1,6 @@
+It	0	0
+tortures	0	1
+me	0	0
+every	2	0
+minute	1	2
+.	NA	NA

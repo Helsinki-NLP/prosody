@@ -1,0 +1,7 @@
+You	0	0
+mean	1	0
+the	0	1
+Colonel	2	1
+,	NA	NA
+sir	2	2
+.	NA	NA

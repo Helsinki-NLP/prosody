@@ -1,0 +1,5 @@
+Footnote	2	2
+See	2	0
+Note	0	0
+seven	0	2
+.	NA	NA

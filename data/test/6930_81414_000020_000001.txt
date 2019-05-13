@@ -1,0 +1,5 @@
+A	0	1
+flash	2	1
+of	0	0
+light	1	2
+.	NA	NA

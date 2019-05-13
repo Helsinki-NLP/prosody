@@ -1,0 +1,8 @@
+I	0	0
+must	2	0
+go	0	1
+somewhere	1	0
+,	NA	NA
+mustn't	0	1
+I	2	2
+?	NA	NA

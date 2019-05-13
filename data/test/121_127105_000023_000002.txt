@@ -1,0 +1,5 @@
+She	0	0
+was	0	0
+in	0	1
+love	2	2
+.	NA	NA

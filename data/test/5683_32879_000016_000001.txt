@@ -1,0 +1,6 @@
+'You	0	0
+have	2	1
+been	0	0
+very	2	0
+kind	1	2
+.	NA	NA

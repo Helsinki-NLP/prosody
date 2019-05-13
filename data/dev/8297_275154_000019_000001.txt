@@ -1,0 +1,15 @@
+Go	0	0
+back	1	0
+to	0	0
+your	0	1
+chair	1	1
+;	NA	NA
+fierce	2	0
+looks	0	0
+and	0	1
+clinched	0	0
+fists	1	2
+don't	2	0
+frighten	1	1
+me	1	2
+.	NA	NA

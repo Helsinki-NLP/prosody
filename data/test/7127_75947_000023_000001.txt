@@ -1,0 +1,6 @@
+De	0	0
+Guiche	2	1
+had	0	0
+overheard	1	1
+everything	2	2
+.	NA	NA

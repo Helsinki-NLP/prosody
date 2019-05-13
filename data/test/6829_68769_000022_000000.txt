@@ -1,0 +1,7 @@
+He	2	0
+unlocked	0	1
+the	0	0
+door	1	0
+,	NA	NA
+and	0	1
+called	2	2

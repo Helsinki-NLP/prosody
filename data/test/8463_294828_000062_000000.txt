@@ -1,0 +1,8 @@
+Aye	2	0
+,	NA	NA
+sir	1	0
+,	NA	NA
+the	0	1
+engineer	0	0
+replied	1	2
+.	NA	NA

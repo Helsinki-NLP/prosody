@@ -1,0 +1,7 @@
+How	1	1
+queer	1	1
+everything	0	0
+is	2	1
+to	0	0
+day	2	2
+!	NA	NA

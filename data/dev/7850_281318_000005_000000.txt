@@ -1,0 +1,14 @@
+But	0	1
+presently	2	1
+a	0	0
+sharp	0	0
+eyed	1	1
+Sparrow	2	1
+spied	2	1
+Mother	0	0
+Magpie	1	2
+sitting	2	0
+in	0	0
+her	0	0
+nest	1	2
+.	NA	NA

@@ -1,0 +1,6 @@
+Then	2	1
+Anders	1	0
+felt	0	1
+brave	1	0
+again	2	2
+.	NA	NA

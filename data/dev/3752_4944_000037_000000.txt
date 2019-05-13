@@ -1,0 +1,11 @@
+Nothing	2	0
+,	NA	NA
+said	0	1
+North	2	2
+,	NA	NA
+recovering	2	1
+himself	1	0
+with	0	1
+an	0	0
+effort	2	2
+.	NA	NA

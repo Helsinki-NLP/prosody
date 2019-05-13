@@ -1,0 +1,16 @@
+In	0	0
+that	2	0
+I	0	1
+can	0	0
+also	1	0
+choose	0	0
+what	0	1
+metropolitan	2	1
+area	0	0
+I	0	0
+want	1	0
+to	0	2
+be	0	0
+stationed	2	0
+in	2	2
+.	NA	NA

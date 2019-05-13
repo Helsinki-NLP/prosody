@@ -1,0 +1,11 @@
+She	1	0
+closed	2	0
+her	0	0
+eyes	1	2
+;	NA	NA
+her	0	0
+lips	2	1
+and	0	0
+eyelids	1	1
+trembled	1	2
+.	NA	NA

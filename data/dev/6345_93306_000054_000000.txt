@@ -1,0 +1,3 @@
+An	1	0
+adventuress	1	2
+!	NA	NA

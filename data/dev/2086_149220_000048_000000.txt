@@ -1,0 +1,13 @@
+Goodnight	2	0
+,	NA	NA
+cousin	0	1
+,	NA	NA
+said	0	0
+Phoebe	1	2
+,	NA	NA
+strangely	2	0
+affected	0	1
+by	0	0
+Hepzibah's	0	0
+manner	1	2
+.	NA	NA

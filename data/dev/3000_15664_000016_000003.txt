@@ -1,0 +1,15 @@
+While	1	0
+traveling	2	0
+with	0	0
+a	0	1
+company	0	0
+of	0	0
+hunters	1	2
+I	1	0
+saw	2	0
+about	1	2
+fifty	2	1
+in	0	0
+one	0	0
+flock	2	2
+.	NA	NA

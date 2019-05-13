@@ -1,0 +1,9 @@
+Don't	2	0
+let	1	0
+me	0	0
+hear	0	0
+the	0	1
+name	1	1
+again	2	2
+!	NA	NA
+'	NA	NA

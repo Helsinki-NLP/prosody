@@ -1,0 +1,3 @@
+Too	0	1
+bad	2	2
+!	NA	NA

@@ -1,0 +1,4 @@
+Better	2	0
+ring	0	1
+again	2	2
+.	NA	NA

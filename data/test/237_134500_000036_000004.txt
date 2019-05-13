@@ -1,0 +1,4 @@
+That	2	0
+won't	0	1
+last	1	2
+.	NA	NA

@@ -1,0 +1,12 @@
+The	0	0
+boy	2	0
+from	0	0
+the	0	1
+house	2	2
+is	0	0
+coming	1	0
+up	1	1
+for	0	0
+the	0	0
+rector	2	2
+.	NA	NA

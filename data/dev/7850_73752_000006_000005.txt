@@ -1,0 +1,8 @@
+And	0	0
+now	2	0
+all	1	0
+had	0	1
+ended	1	1
+so	0	0
+happily	1	2
+!	NA	NA

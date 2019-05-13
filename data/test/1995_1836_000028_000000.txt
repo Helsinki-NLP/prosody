@@ -1,0 +1,5 @@
+mrs	1	1
+Grey	1	0
+wanted	1	1
+particulars	2	2
+.	NA	NA

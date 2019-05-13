@@ -1,0 +1,9 @@
+He	0	0
+read	2	0
+the	0	1
+paragraph	2	1
+in	0	0
+which	0	0
+it	0	1
+appeared	2	2
+.	NA	NA

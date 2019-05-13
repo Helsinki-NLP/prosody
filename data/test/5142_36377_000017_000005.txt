@@ -1,0 +1,16 @@
+A	0	0
+more	1	1
+dreary	2	0
+and	0	2
+more	0	1
+disunited	2	1
+family	1	1
+party	2	0
+I	0	1
+never	0	0
+sat	1	0
+at	0	1
+the	0	0
+table	1	0
+with	1	2
+.	NA	NA

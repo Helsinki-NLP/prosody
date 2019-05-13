@@ -1,0 +1,16 @@
+The	0	0
+story	1	1
+WON'T	2	2
+tell	2	1
+,	NA	NA
+said	0	0
+Douglas	1	2
+;	NA	NA
+not	2	0
+in	0	0
+any	0	0
+literal	0	0
+,	NA	NA
+vulgar	0	0
+way	1	2
+.	NA	NA

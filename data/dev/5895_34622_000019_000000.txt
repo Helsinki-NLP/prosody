@@ -1,0 +1,15 @@
+What	2	0
+a	0	0
+good	1	1
+turn	2	0
+they	0	0
+did	0	1
+you	0	0
+there	1	0
+,	NA	NA
+my	0	1
+boy	2	2
+!	NA	NA
+said	0	0
+Ursus	1	2
+.	NA	NA

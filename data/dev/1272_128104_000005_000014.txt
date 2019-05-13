@@ -1,0 +1,14 @@
+It	0	0
+is	1	0
+really	2	1
+impossible	1	1
+not	2	0
+to	0	1
+be	0	0
+touched	1	0
+by	1	1
+so	2	1
+charming	2	1
+a	0	0
+description	1	2
+.	NA	NA

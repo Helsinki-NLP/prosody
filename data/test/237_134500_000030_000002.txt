@@ -1,0 +1,5 @@
+Almost	2	0
+anything	0	1
+you	0	0
+choose	2	2
+.	NA	NA

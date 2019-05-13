@@ -1,0 +1,12 @@
+I	2	0
+am	0	1
+free	2	0
+to	0	0
+admit	1	1
+that	0	0
+I	1	0
+am	0	1
+hungry	0	0
+,	NA	NA
+too	2	2
+.	NA	NA

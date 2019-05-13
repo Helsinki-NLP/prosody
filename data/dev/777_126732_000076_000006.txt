@@ -1,0 +1,8 @@
+It's	0	1
+silly	2	0
+reading	1	1
+that's	1	0
+what	0	0
+it	0	1
+is	2	2
+.	NA	NA

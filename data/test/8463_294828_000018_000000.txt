@@ -1,0 +1,5 @@
+Conseil	2	0
+was	0	1
+my	0	0
+manservant	1	2
+.	NA	NA

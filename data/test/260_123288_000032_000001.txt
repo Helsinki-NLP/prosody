@@ -1,0 +1,16 @@
+But	0	0
+Hans	2	0
+is	0	0
+as	0	0
+usual	1	2
+.	NA	NA
+The	0	0
+raft	2	1
+bears	1	0
+on	0	1
+still	1	0
+to	0	0
+the	0	1
+south	2	1
+east	0	2
+.	NA	NA

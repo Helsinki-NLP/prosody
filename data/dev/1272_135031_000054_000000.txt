@@ -1,0 +1,14 @@
+They	2	0
+agreed	0	0
+that	0	0
+it	0	1
+did	2	2
+,	NA	NA
+but	0	0
+no	2	0
+one	0	1
+could	0	0
+explain	0	1
+the	0	0
+mystery	1	2
+.	NA	NA

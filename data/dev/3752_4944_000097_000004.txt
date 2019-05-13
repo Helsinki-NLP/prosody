@@ -1,0 +1,15 @@
+He	0	0
+mixed	1	0
+a	0	1
+teaspoonful	2	1
+of	0	0
+this	2	0
+in	0	0
+a	0	1
+pannikin	1	1
+of	0	0
+water	2	2
+and	1	0
+drank	2	0
+it	0	2
+.	NA	NA

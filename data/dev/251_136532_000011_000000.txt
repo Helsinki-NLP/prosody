@@ -1,0 +1,6 @@
+Where	2	2
+?	NA	NA
+they	0	0
+asked	1	0
+together	0	2
+.	NA	NA

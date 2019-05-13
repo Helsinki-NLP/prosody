@@ -1,0 +1,6 @@
+An	0	0
+earthquake	2	2
+!	NA	NA
+Tom	1	0
+gasped	1	2
+.	NA	NA

@@ -1,0 +1,6 @@
+I	1	0
+nearly	0	1
+fainted	2	1
+,	NA	NA
+sir	1	2
+.	NA	NA

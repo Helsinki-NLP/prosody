@@ -1,0 +1,8 @@
+The	0	0
+fact	2	1
+was	0	0
+kept	2	1
+from	0	0
+the	0	1
+troops	2	2
+.	NA	NA

@@ -1,0 +1,12 @@
+Antonia	2	0
+reached	0	1
+him	0	0
+first	2	2
+,	NA	NA
+took	2	0
+his	0	0
+hand	0	1
+and	0	0
+kissed	2	0
+it	1	2
+.	NA	NA

@@ -1,0 +1,9 @@
+Very	1	0
+glad	1	1
+,	NA	NA
+very	0	0
+glad	2	2
+!	NA	NA
+she	0	0
+ejaculated	1	2
+.	NA	NA

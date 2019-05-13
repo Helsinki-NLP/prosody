@@ -1,0 +1,11 @@
+The	0	0
+allusion	1	0
+to	0	1
+Bennydeck	2	1
+was	0	0
+too	1	0
+plain	1	0
+to	0	1
+be	0	0
+mistaken	2	2
+.	NA	NA

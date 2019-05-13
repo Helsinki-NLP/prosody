@@ -1,0 +1,12 @@
+I	1	0
+shall	0	0
+find	1	0
+my	0	1
+portmanteau	1	0
+in	0	1
+my	0	0
+room	2	2
+,	NA	NA
+you	0	0
+said	2	2
+.	NA	NA

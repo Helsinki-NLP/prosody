@@ -1,0 +1,12 @@
+This	2	0
+I	0	0
+read	0	0
+with	0	1
+great	0	0
+attention	1	2
+,	NA	NA
+while	2	0
+they	0	0
+sat	1	0
+silent	1	2
+.	NA	NA

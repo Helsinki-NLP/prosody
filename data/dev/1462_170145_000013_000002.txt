@@ -1,0 +1,6 @@
+Did	1	0
+you	0	0
+write	2	1
+to	0	0
+me	2	2
+?	NA	NA

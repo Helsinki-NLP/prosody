@@ -1,0 +1,13 @@
+Why	2	0
+not	0	0
+allow	1	0
+your	0	1
+silver	1	0
+tufts	0	1
+to	0	0
+luxuriate	2	2
+in	1	0
+a	0	0
+natural	2	0
+manner	0	2
+?	NA	NA

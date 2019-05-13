@@ -1,0 +1,5 @@
+A	0	0
+MAN	1	0
+IN	0	0
+THE	0	1
+WELL	1	2

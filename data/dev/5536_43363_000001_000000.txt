@@ -1,0 +1,5 @@
+Death	2	0
+and	0	1
+Funeral	0	0
+Customs	1	2
+.	NA	NA

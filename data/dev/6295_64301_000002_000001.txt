@@ -1,0 +1,14 @@
+It	0	0
+was	1	0
+the	0	0
+afternoon	1	0
+of	0	1
+a	0	0
+holiday	2	2
+,	NA	NA
+and	0	0
+she	1	0
+had	0	1
+closed	1	0
+early	1	2
+.	NA	NA

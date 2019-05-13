@@ -1,0 +1,17 @@
+You	0	0
+will	0	0
+find	2	0
+a	0	1
+beautiful	2	1
+print	1	0
+of	0	0
+it	0	1
+just	2	0
+opposite	1	1
+yon	1	0
+rock	1	2
+,	NA	NA
+agin	1	0
+the	0	1
+hillside	1	2
+.	NA	NA

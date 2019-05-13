@@ -1,0 +1,12 @@
+But	2	0
+in	0	0
+other	0	0
+parts	0	1
+of	0	0
+Oz	0	0
+the	0	2
+people	1	0
+favor	0	0
+different	1	1
+colors	1	2
+.	NA	NA

@@ -1,0 +1,15 @@
+Here	2	0
+,	NA	NA
+Polly	0	1
+,	NA	NA
+hold	0	0
+your	0	0
+arms	2	2
+,	NA	NA
+he	2	0
+had	0	0
+only	0	0
+strength	0	1
+to	0	0
+gasp	2	2
+.	NA	NA

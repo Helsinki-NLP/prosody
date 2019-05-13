@@ -1,0 +1,7 @@
+One	0	0
+gets	0	0
+angry	2	2
+like	2	0
+an	0	1
+animal	2	2
+.	NA	NA

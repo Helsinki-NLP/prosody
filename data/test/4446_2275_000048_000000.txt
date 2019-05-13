@@ -1,0 +1,9 @@
+Don't	0	1
+cry	2	1
+,	NA	NA
+don't	2	0
+cry	0	0
+,	NA	NA
+he	0	0
+whispered	2	2
+.	NA	NA

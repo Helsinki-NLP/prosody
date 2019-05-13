@@ -1,0 +1,8 @@
+Marie's	2	0
+face	0	1
+fell	2	0
+under	0	0
+his	0	1
+brooding	0	0
+gaze	2	2
+.	NA	NA

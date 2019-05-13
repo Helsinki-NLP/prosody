@@ -1,0 +1,13 @@
+Tell	0	0
+them	1	2
+oh	2	1
+,	NA	NA
+tell	2	0
+them	0	0
+,	NA	NA
+that	0	1
+corpse	1	1
+belongs	2	1
+to	0	0
+me	1	2
+!	NA	NA

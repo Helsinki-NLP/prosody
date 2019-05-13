@@ -1,0 +1,7 @@
+That's	2	0
+funny	1	1
+,	NA	NA
+remarked	0	0
+Betsy	0	0
+thoughtfully	2	2
+.	NA	NA

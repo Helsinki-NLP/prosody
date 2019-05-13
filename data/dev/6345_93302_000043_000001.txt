@@ -1,0 +1,8 @@
+He	0	0
+had	1	0
+never	1	0
+been	0	0
+like	0	0
+this	0	1
+before	2	2
+.	NA	NA

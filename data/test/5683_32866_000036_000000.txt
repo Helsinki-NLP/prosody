@@ -1,0 +1,11 @@
+Miss	0	0
+Rachel	1	0
+only	0	0
+glanced	1	2
+across	2	0
+her	0	1
+mufflers	1	0
+on	1	0
+his	0	0
+face	1	2
+.	NA	NA

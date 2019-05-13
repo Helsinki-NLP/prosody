@@ -1,0 +1,14 @@
+We	1	0
+are	0	0
+ordered	0	0
+off	0	1
+at	0	0
+once	1	2
+,	NA	NA
+and	0	0
+go	1	0
+at	0	1
+four	1	0
+this	0	1
+afternoon	1	2
+.	NA	NA

@@ -1,0 +1,16 @@
+mr	1	0
+Soames	2	1
+was	0	0
+a	0	0
+tall	1	1
+,	NA	NA
+spare	2	0
+man	0	1
+,	NA	NA
+of	0	0
+a	0	0
+nervous	2	0
+and	0	1
+excitable	2	0
+temperament	0	2
+.	NA	NA

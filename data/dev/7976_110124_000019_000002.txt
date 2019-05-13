@@ -1,0 +1,16 @@
+We	0	0
+can	2	0
+give	1	0
+this	0	1
+poor	1	0
+beggar	1	0
+some	0	2
+alms	2	0
+and	0	1
+send	2	1
+him	0	0
+away	1	0
+with	0	0
+a	0	1
+blessing	0	2
+.	NA	NA

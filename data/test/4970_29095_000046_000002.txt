@@ -1,0 +1,12 @@
+Father	2	1
+,	NA	NA
+I	2	0
+should	0	0
+like	0	0
+to	0	1
+break	2	1
+things	1	0
+and	1	1
+get	1	0
+loose	2	2
+!	NA	NA

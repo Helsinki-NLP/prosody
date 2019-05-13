@@ -1,0 +1,5 @@
+The	2	0
+others	0	1
+were	0	0
+invisible	1	2
+.	NA	NA

@@ -1,0 +1,8 @@
+I	0	0
+sat	2	1
+high	1	0
+in	0	0
+the	0	2
+pilot's	2	1
+seat	1	2
+.	NA	NA

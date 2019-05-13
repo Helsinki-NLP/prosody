@@ -1,0 +1,5 @@
+Where	1	0
+is	0	1
+your	0	0
+home	2	2
+?	NA	NA

@@ -1,0 +1,6 @@
+Quite	2	0
+one	0	1
+of	0	0
+my	1	0
+favourites	1	2
+.	NA	NA

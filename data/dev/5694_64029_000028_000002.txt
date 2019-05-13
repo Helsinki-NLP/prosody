@@ -1,0 +1,9 @@
+His	0	0
+face	2	0
+was	0	0
+as	0	2
+white	2	0
+as	0	1
+a	0	0
+sheet	1	2
+.	NA	NA

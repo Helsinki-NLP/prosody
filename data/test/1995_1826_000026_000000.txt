@@ -1,0 +1,15 @@
+What	1	0
+is	0	1
+planted	1	0
+over	0	1
+there	2	2
+?	NA	NA
+she	1	0
+asked	0	1
+,	NA	NA
+although	1	0
+she	0	1
+really	1	0
+didn't	0	1
+care	2	2
+.	NA	NA

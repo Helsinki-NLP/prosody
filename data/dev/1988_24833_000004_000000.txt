@@ -1,0 +1,10 @@
+The	0	0
+two	2	1
+stray	1	0
+kittens	0	2
+gradually	2	0
+make	0	1
+themselves	1	0
+at	0	1
+home	2	2
+.	NA	NA

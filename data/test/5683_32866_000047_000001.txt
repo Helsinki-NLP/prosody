@@ -1,0 +1,7 @@
+My	1	0
+cigar	2	0
+case	0	1
+was	0	0
+a	0	0
+resource	1	2
+.	NA	NA

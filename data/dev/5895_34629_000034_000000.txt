@@ -1,0 +1,13 @@
+This	0	0
+connoisseur	1	0
+was	0	1
+suddenly	0	0
+fascinated	2	2
+,	NA	NA
+and	0	0
+had	0	0
+adopted	2	0
+the	0	0
+Laughing	0	0
+Man	1	2
+.	NA	NA

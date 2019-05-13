@@ -1,0 +1,5 @@
+Twenty	1	1
+,	NA	NA
+thirty	1	0
+enough	2	2
+.	NA	NA

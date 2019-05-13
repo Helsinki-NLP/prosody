@@ -1,0 +1,3 @@
+She	0	1
+paused	2	2
+.	NA	NA

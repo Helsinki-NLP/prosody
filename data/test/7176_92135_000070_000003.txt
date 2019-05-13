@@ -1,0 +1,6 @@
+This	2	0
+is	0	1
+how	1	0
+it	0	1
+should	0	1
+go	2	2

@@ -1,0 +1,10 @@
+p	2	0
+s	0	1
+The	1	0
+cards	2	1
+are	0	0
+out	0	1
+for	0	0
+the	0	0
+wedding	0	2
+.	NA	NA

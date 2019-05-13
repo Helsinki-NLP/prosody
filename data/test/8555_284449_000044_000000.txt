@@ -1,0 +1,10 @@
+How	1	2
+dare	2	0
+you	0	1
+people	0	0
+give	0	0
+orders	0	0
+in	0	0
+my	1	1
+palace	2	2
+?	NA	NA

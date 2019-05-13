@@ -1,0 +1,17 @@
+This	0	0
+seems	1	1
+a	0	0
+very	2	0
+pleasant	0	1
+place	2	2
+,	NA	NA
+and	0	0
+I	2	0
+think	0	0
+I	0	0
+shall	0	1
+enjoy	1	0
+myself	0	1
+very	2	0
+much	1	2
+.	NA	NA

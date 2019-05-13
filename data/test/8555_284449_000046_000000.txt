@@ -1,0 +1,5 @@
+The	0	1
+former	2	1
+Boolooroo	1	1
+groaned	2	2
+.	NA	NA

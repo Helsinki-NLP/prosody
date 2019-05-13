@@ -1,0 +1,16 @@
+Hilda's	2	0
+face	1	1
+quivered	1	2
+,	NA	NA
+but	1	0
+she	0	0
+whispered	2	2
+Yes	2	1
+,	NA	NA
+I	0	0
+think	0	0
+it	0	0
+must	1	0
+have	0	1
+been	0	2
+.	NA	NA

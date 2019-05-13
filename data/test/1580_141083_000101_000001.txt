@@ -1,0 +1,14 @@
+I	0	0
+thought	2	0
+I	0	0
+would	0	1
+come	0	0
+back	2	0
+for	0	0
+the	0	1
+key	2	1
+.	NA	NA
+Then	1	0
+I	0	1
+forgot	1	2
+.	NA	NA

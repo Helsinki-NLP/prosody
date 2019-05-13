@@ -1,0 +1,6 @@
+I'm	1	1
+sorry	2	1
+,	NA	NA
+said	0	0
+Beth	1	2
+.	NA	NA

@@ -1,0 +1,12 @@
+We	0	0
+were	1	0
+resolved	2	1
+not	2	0
+to	0	2
+present	1	0
+this	0	1
+entire	2	0
+mass	0	1
+of	0	0
+exegesis	1	2
+.	NA	NA

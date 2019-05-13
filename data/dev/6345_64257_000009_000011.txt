@@ -1,0 +1,8 @@
+Everything	2	0
+is	0	1
+an	0	0
+empty	0	0
+dream	0	0
+of	0	1
+loss	2	2
+.	NA	NA

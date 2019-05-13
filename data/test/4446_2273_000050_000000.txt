@@ -1,0 +1,16 @@
+She	0	0
+caught	2	0
+his	0	1
+handkerchief	2	1
+from	0	0
+her	0	1
+throat	2	0
+and	0	1
+thrust	2	0
+it	0	0
+at	0	0
+him	0	1
+without	2	0
+turning	0	1
+round	2	2
+.	NA	NA

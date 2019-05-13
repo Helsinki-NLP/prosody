@@ -1,0 +1,6 @@
+It	1	0
+was	0	0
+written	2	1
+in	0	0
+Latin	2	2
+.	NA	NA

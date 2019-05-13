@@ -1,0 +1,15 @@
+She	0	1
+slammed	2	0
+the	0	1
+phone	1	0
+back	2	0
+on	0	1
+its	0	0
+hook	2	2
+,	NA	NA
+rushing	2	0
+away	1	1
+ahead	1	0
+of	0	1
+them	0	2
+.	NA	NA

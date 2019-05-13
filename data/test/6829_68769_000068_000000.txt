@@ -1,0 +1,10 @@
+The	0	0
+mill	2	0
+was	0	0
+at	0	1
+the	0	1
+outskirts	1	0
+of	1	1
+the	0	0
+town	2	2
+.	NA	NA

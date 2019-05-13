@@ -1,0 +1,17 @@
+Already	2	0
+a	0	1
+North	1	0
+and	0	1
+a	0	0
+South	2	1
+were	0	0
+talked	2	0
+of	1	2
+why	1	0
+not	0	0
+set	0	0
+up	0	1
+also	0	0
+a	0	0
+West	2	2
+?	NA	NA

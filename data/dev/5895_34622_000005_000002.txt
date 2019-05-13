@@ -1,0 +1,14 @@
+In	1	0
+Gwynplaine	2	1
+evil	0	0
+thoughts	1	1
+never	0	0
+ripened	1	2
+,	NA	NA
+and	0	0
+he	0	0
+had	2	0
+therefore	0	0
+no	0	0
+remorse	0	2
+.	NA	NA

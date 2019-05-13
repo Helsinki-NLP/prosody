@@ -1,0 +1,17 @@
+We	0	0
+stood	0	0
+amazed	1	2
+,	NA	NA
+thunderstruck	2	2
+,	NA	NA
+at	0	0
+the	0	0
+presence	1	1
+of	0	0
+such	0	1
+a	0	0
+herd	2	0
+of	0	1
+marine	0	0
+monsters	1	2
+.	NA	NA

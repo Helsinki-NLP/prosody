@@ -1,0 +1,7 @@
+I	2	0
+should	0	0
+have	0	1
+told	2	0
+the	0	1
+truth	1	2
+.	NA	NA

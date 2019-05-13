@@ -1,0 +1,8 @@
+Finally	1	0
+says	0	0
+I	1	2
+,	NA	NA
+Let's	2	0
+play	0	1
+quits	2	2
+.	NA	NA

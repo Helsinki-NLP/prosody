@@ -1,0 +1,11 @@
+Never	2	1
+fear	1	0
+;	NA	NA
+you	0	2
+shall	1	0
+see	0	0
+him	0	0
+again	2	0
+to	0	1
+morrow	2	2
+.	NA	NA

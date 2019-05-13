@@ -1,0 +1,8 @@
+How	1	0
+about	0	0
+witches	1	2
+?	NA	NA
+asked	2	0
+Button	0	0
+Bright	1	2
+.	NA	NA

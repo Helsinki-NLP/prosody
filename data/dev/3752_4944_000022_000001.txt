@@ -1,0 +1,5 @@
+The	0	1
+devil	2	1
+he	0	0
+is	1	2
+!	NA	NA

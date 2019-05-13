@@ -1,0 +1,12 @@
+I	0	1
+glanced	2	1
+round	1	1
+for	0	0
+Wylder	2	2
+,	NA	NA
+but	0	0
+he	0	0
+was	0	0
+not	1	0
+there	1	2
+.	NA	NA

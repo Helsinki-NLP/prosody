@@ -1,0 +1,9 @@
+Holmes	2	0
+halted	2	2
+and	0	0
+looked	0	0
+earnestly	1	0
+at	0	1
+the	0	0
+window	1	2
+.	NA	NA

@@ -1,0 +1,9 @@
+Surely	2	0
+there	0	0
+is	0	2
+another	1	1
+alternative	2	1
+,	0	0
+mr	NA	NA
+Holmes	1	2
+.	NA	NA

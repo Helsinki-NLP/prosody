@@ -1,0 +1,15 @@
+Roll	0	0
+out	2	2
+!	NA	NA
+he	0	0
+roared	1	0
+,	NA	NA
+bringing	0	0
+the	0	1
+sleepy	0	0
+cowpunchers	1	0
+grumbling	1	1
+to	0	0
+their	0	0
+feet	0	2
+.	NA	NA

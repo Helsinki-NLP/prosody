@@ -1,0 +1,8 @@
+His	0	0
+flogging	2	0
+wouldn't	0	0
+have	0	1
+killed	1	0
+a	0	1
+flea	2	2
+.	NA	NA

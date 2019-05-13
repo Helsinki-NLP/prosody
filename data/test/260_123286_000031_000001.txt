@@ -1,0 +1,7 @@
+The	0	0
+world	2	0
+then	1	1
+belonged	2	0
+to	0	1
+reptiles	1	2
+.	NA	NA

@@ -1,0 +1,15 @@
+Rachel's	1	1
+pale	1	1
+and	0	0
+sharpened	1	0
+features	1	1
+and	0	0
+dilated	1	1
+eye	2	2
+struck	2	0
+her	0	0
+with	0	1
+a	0	0
+painful	1	0
+surprise	2	2
+.	NA	NA

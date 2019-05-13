@@ -1,0 +1,7 @@
+I	0	0
+can	0	0
+see	0	1
+its	0	0
+great	1	1
+fins	2	2
+.	NA	NA

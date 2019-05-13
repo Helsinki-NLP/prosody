@@ -1,0 +1,7 @@
+I	2	0
+think	1	0
+it	0	0
+is	0	1
+clear	0	0
+enough	1	2
+.	NA	NA

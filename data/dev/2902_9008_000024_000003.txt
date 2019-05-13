@@ -1,0 +1,8 @@
+But	2	1
+how	2	0
+go	0	0
+on	1	2
+the	0	0
+schools	1	2
+?	NA	NA
+'	NA	NA

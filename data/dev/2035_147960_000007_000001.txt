@@ -1,0 +1,10 @@
+I	2	1
+suppose	2	0
+I	0	0
+looked	0	0
+as	0	1
+sick	1	0
+as	0	0
+I	0	1
+felt	2	2
+.	NA	NA

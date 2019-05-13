@@ -1,0 +1,17 @@
+He's	1	0
+a	0	0
+fellow	1	1
+who's	0	0
+all	2	0
+the	0	1
+time	2	0
+making	1	1
+trouble	1	0
+,	NA	NA
+isn't	0	0
+he	0	2
+?	NA	NA
+asked	2	1
+Stacy	0	0
+innocently	2	2
+.	NA	NA

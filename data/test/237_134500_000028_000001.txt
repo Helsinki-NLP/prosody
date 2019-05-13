@@ -1,0 +1,8 @@
+She	2	0
+looked	0	1
+down	1	0
+at	0	1
+his	0	0
+wet	1	0
+leggings	2	2
+.	NA	NA

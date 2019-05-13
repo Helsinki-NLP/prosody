@@ -1,0 +1,6 @@
+The	0	0
+Professor	1	0
+made	2	1
+no	0	0
+answer	1	2
+.	NA	NA

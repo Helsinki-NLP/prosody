@@ -1,0 +1,11 @@
+Will	0	0
+you	0	0
+leave	2	0
+us	0	2
+alone	2	0
+,	NA	NA
+please	0	1
+,	0	0
+mr	NA	NA
+Markham	1	2
+?	NA	NA

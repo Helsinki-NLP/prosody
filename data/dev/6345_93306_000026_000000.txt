@@ -1,0 +1,10 @@
+He	0	0
+hurriedly	2	1
+cut	0	0
+cake	1	0
+and	0	1
+pressed	1	1
+it	0	0
+upon	1	0
+her	1	2
+.	NA	NA

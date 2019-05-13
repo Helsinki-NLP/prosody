@@ -1,0 +1,6 @@
+Are	2	0
+you	0	1
+joking	1	1
+,	NA	NA
+Hilda	2	2
+?	NA	NA

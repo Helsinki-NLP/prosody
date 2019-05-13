@@ -1,0 +1,15 @@
+But	2	2
+,	NA	NA
+if	0	0
+you	1	1
+come	2	0
+to	0	1
+me	0	0
+,	NA	NA
+I'll	0	1
+do	1	0
+as	0	0
+I	0	1
+see	0	0
+fit	2	2
+.	NA	NA

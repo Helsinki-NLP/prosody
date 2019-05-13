@@ -1,0 +1,13 @@
+The	0	0
+two	2	1
+offices	0	0
+last	2	2
+named	0	1
+suggest	1	0
+a	0	1
+principle	1	0
+of	0	1
+some	0	0
+general	0	0
+bearing	2	2
+.	NA	NA

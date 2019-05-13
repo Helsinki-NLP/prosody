@@ -1,0 +1,10 @@
+Do	0	1
+you	0	0
+think	2	0
+that	0	0
+you	0	0
+could	0	1
+manage	1	1
+,	NA	NA
+Tidy	2	2
+?	NA	NA

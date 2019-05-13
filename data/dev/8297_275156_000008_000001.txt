@@ -1,0 +1,13 @@
+It	0	0
+was	2	2
+not	2	0
+the	0	1
+newspaper	1	0
+which	0	0
+he	0	0
+had	0	1
+bought	2	0
+at	1	0
+the	0	1
+station	1	2
+.	NA	NA

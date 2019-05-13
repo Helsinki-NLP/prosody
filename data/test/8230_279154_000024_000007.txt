@@ -1,0 +1,12 @@
+It	0	1
+is	0	0
+this	2	2
+that	1	0
+is	0	0
+of	0	0
+interest	1	1
+to	0	0
+theory	1	0
+of	0	0
+knowledge	1	2
+.	NA	NA

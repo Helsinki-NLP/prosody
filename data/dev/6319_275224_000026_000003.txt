@@ -1,0 +1,12 @@
+But	2	0
+I	2	1
+cannot	1	1
+say	2	1
+so	1	1
+,	NA	NA
+now	1	0
+I	0	1
+see	0	0
+the	0	0
+result	2	2
+.	NA	NA

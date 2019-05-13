@@ -1,0 +1,6 @@
+Why	2	0
+not	0	0
+send	0	0
+a	0	1
+car	2	2
+?	NA	NA

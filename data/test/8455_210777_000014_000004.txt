@@ -1,0 +1,17 @@
+We	0	0
+had	2	0
+received	1	0
+details	1	0
+of	0	2
+the	0	0
+whole	1	0
+affair	1	0
+by	0	1
+water	2	0
+telegram	1	2
+before	1	0
+the	0	1
+john	1	0
+Bright	0	1
+started	2	2
+.	NA	NA

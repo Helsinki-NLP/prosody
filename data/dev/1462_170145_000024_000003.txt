@@ -1,0 +1,16 @@
+It's	2	1
+because	2	1
+they	0	0
+can't	2	1
+be	0	0
+at	1	1
+the	0	0
+mercy	2	0
+of	0	1
+the	0	0
+man	1	1
+they	0	0
+love	2	1
+any	0	0
+longer	1	2
+.	NA	NA

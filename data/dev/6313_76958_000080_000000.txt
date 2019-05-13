@@ -1,0 +1,10 @@
+A	0	0
+wrangler's	1	1
+a	0	0
+wrangler	1	2
+,	NA	NA
+answered	1	0
+Big	0	0
+foot	0	1
+stolidly	2	2
+.	NA	NA

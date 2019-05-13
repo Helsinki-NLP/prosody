@@ -1,0 +1,14 @@
+Pop	2	1
+fills	2	0
+little	0	1
+glasses	2	1
+for	0	0
+them	2	0
+and	0	1
+raises	1	0
+his	2	1
+to	0	0
+Tom	1	0
+and	0	1
+Hilda	2	2
+.	NA	NA

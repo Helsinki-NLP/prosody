@@ -1,0 +1,8 @@
+After	1	0
+all	1	2
+,	NA	NA
+we	0	0
+were	1	0
+awfully	1	1
+young	1	2
+.	NA	NA

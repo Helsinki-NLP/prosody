@@ -1,0 +1,10 @@
+Here	1	1
+?	NA	NA
+replied	1	0
+the	0	0
+king	1	1
+,	NA	NA
+frowning	1	2
+,	NA	NA
+here	2	2
+?	NA	NA

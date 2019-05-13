@@ -1,0 +1,11 @@
+Some	2	0
+are	0	0
+wonderfully	1	0
+wrought	1	2
+,	NA	NA
+pretty	2	0
+little	0	0
+homes	0	1
+for	0	0
+birdikins	1	2
+.	NA	NA

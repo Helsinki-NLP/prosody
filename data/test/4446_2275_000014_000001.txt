@@ -1,0 +1,7 @@
+I	0	0
+can't	2	0
+stand	1	1
+seeing	1	0
+you	0	1
+miserable	1	2
+.	NA	NA

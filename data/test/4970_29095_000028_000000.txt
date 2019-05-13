@@ -1,0 +1,11 @@
+The	0	0
+sight	2	1
+seers	1	0
+returned	1	1
+in	0	0
+high	2	1
+spirits	1	1
+from	0	0
+the	0	0
+city	1	2
+.	NA	NA

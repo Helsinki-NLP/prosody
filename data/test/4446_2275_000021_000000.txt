@@ -1,0 +1,5 @@
+He	2	0
+ignored	0	0
+her	0	1
+question	2	2
+.	NA	NA

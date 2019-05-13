@@ -1,0 +1,6 @@
+He	0	0
+drank	2	1
+the	0	0
+wine	0	1
+greedily	2	2
+.	NA	NA

@@ -1,0 +1,12 @@
+The	0	0
+full	2	0
+grown	0	0
+bucks	2	2
+weigh	2	0
+nearly	0	1
+three	0	0
+hundred	0	0
+and	0	1
+fifty	1	0
+pounds	2	2
+.	NA	NA

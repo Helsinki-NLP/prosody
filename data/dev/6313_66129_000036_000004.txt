@@ -1,0 +1,12 @@
+Next	2	0
+thing	0	1
+we	0	0
+know	2	0
+you'll	0	0
+be	0	1
+providing	2	0
+us	1	0
+with	0	1
+bear	1	0
+steak	1	2
+.	NA	NA

@@ -1,0 +1,14 @@
+The	0	0
+darkness	2	0
+deepens	1	2
+;	NA	NA
+scarcely	2	1
+can	0	0
+I	0	0
+jot	1	0
+down	0	0
+a	0	1
+few	0	0
+hurried	1	0
+notes	0	2
+.	NA	NA

@@ -1,0 +1,9 @@
+Up	2	0
+at	0	1
+daylight	2	0
+,	NA	NA
+I	0	1
+suppose	2	0
+,	NA	NA
+again	1	2
+.	NA	NA

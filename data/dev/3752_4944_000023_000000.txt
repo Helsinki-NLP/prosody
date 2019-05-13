@@ -1,0 +1,8 @@
+Miss	2	0
+Vickers	1	1
+,	NA	NA
+a	0	0
+charming	2	1
+young	0	0
+person	1	2
+.	NA	NA

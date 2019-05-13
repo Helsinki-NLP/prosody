@@ -1,0 +1,5 @@
+Breakfast	1	1
+?	NA	NA
+jeered	1	0
+Lumpy	1	2
+.	NA	NA

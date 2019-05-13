@@ -1,0 +1,14 @@
+No	2	0
+carriage	0	1
+rolled	0	0
+along	0	0
+the	0	1
+center	1	2
+,	NA	NA
+no	2	0
+footfarer	2	0
+walked	0	0
+on	0	1
+the	0	0
+side	2	2
+.	NA	NA

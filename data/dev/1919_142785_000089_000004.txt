@@ -1,0 +1,7 @@
+Mushrooms	2	1
+or	0	0
+truffles	0	1
+may	0	0
+be	0	0
+added	2	2
+.	NA	NA

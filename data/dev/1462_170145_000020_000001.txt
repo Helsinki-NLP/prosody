@@ -1,0 +1,4 @@
+One	2	0
+of	0	1
+them	1	2
+.	NA	NA

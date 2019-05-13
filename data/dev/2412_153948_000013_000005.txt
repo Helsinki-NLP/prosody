@@ -1,0 +1,11 @@
+Aha	2	2
+!	NA	NA
+they	0	0
+see	2	1
+,	NA	NA
+and	1	0
+rush	0	0
+towards	0	0
+each	0	0
+other	0	2
+.	NA	NA

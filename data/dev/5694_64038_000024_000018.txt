@@ -1,0 +1,8 @@
+A	0	0
+regiment	2	1
+was	0	0
+sent	0	1
+to	0	0
+the	1	0
+attack	1	2
+.	NA	NA

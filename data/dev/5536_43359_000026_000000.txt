@@ -1,0 +1,11 @@
+Friendship	2	0
+is	0	1
+held	2	0
+to	0	1
+be	0	0
+the	0	1
+severest	1	1
+test	2	1
+of	0	0
+character	2	2
+.	NA	NA

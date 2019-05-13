@@ -1,0 +1,9 @@
+A	0	0
+cold	2	1
+lucid	0	1
+indifference	1	1
+reigned	2	0
+in	0	1
+his	0	0
+soul	2	2
+.	NA	NA

@@ -1,0 +1,11 @@
+No	0	0
+doubt	2	2
+,	NA	NA
+in	0	0
+process	1	0
+of	0	0
+time	1	2
+the	1	0
+ladies	1	0
+will	0	0
+follow	1	2

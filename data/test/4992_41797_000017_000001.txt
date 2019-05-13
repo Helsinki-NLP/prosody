@@ -1,0 +1,10 @@
+She	1	0
+is	0	1
+wild	2	2
+to	0	0
+know	0	0
+how	0	1
+to	0	0
+do	1	0
+things	1	2
+.	NA	NA

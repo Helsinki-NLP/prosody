@@ -1,0 +1,14 @@
+The	0	0
+information	2	0
+was	0	1
+greeted	2	0
+with	0	1
+what	1	1
+sounded	2	1
+uncommonly	1	0
+like	0	0
+a	0	1
+chorus	2	0
+of	0	1
+laughter	2	2
+.	NA	NA

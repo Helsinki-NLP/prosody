@@ -1,0 +1,8 @@
+Please	2	1
+tell	0	0
+me	0	0
+one	0	1
+thing	1	1
+,	NA	NA
+Bartley	2	2
+.	NA	NA

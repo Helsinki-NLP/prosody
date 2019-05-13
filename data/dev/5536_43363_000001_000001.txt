@@ -1,0 +1,13 @@
+The	0	0
+Sacred	0	0
+Lock	1	0
+of	0	1
+Hair	2	2
+.	NA	NA
+Reincarnation	1	0
+and	0	1
+the	0	0
+Converse	1	1
+of	0	0
+Spirits	2	2
+.	NA	NA

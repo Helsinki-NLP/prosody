@@ -1,0 +1,10 @@
+'Now	0	1
+start	1	0
+up	0	1
+the	0	0
+fire	2	0
+,	NA	NA
+'	NA	NA
+I	0	1
+said	1	2
+.	NA	NA

@@ -1,0 +1,6 @@
+INGREDIENTS	1	1
+.	NA	NA
+Cucumbers	2	1
+,	NA	NA
+salt	1	2
+.	NA	NA

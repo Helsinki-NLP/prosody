@@ -1,0 +1,15 @@
+When	0	0
+mr	0	0
+Soames	1	1
+returned	1	1
+and	0	0
+called	2	1
+for	0	0
+you	0	1
+,	NA	NA
+you	0	0
+were	0	0
+very	1	0
+much	1	1
+disturbed	2	2
+?	NA	NA

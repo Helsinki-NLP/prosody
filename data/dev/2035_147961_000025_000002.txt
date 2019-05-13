@@ -1,0 +1,16 @@
+Beside	1	0
+a	0	0
+frozen	1	0
+pond	0	1
+something	0	0
+happened	1	1
+to	0	0
+the	0	0
+other	0	1
+sledge	1	2
+;	NA	NA
+peter	2	0
+saw	0	0
+it	0	1
+plainly	1	2
+.	NA	NA

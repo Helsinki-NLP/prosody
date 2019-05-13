@@ -1,0 +1,13 @@
+Don't	2	0
+worry	0	1
+,	NA	NA
+Sizzle	0	0
+dear	1	2
+;	NA	NA
+it'll	2	0
+all	0	1
+come	0	0
+right	1	0
+pretty	0	1
+soon	2	2
+.	NA	NA

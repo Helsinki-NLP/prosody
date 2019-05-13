@@ -1,0 +1,8 @@
+He	0	1
+could	0	0
+not	2	1
+stay	1	0
+in	0	1
+one	0	0
+place	2	2
+.	NA	NA

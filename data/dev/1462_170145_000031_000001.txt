@@ -1,0 +1,17 @@
+Don't	1	0
+do	0	0
+anything	1	0
+like	0	1
+that	0	0
+rashly	1	2
+.	NA	NA
+His	0	0
+face	2	0
+grew	0	0
+troubled	1	2
+.	NA	NA
+You	0	0
+wouldn't	2	0
+be	0	0
+happy	1	2
+.	NA	NA

@@ -1,0 +1,5 @@
+But	1	0
+he	0	0
+only	0	1
+said	2	2
+,	NA	NA

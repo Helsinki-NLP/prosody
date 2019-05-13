@@ -1,0 +1,5 @@
+But	0	1
+I	1	0
+ain't	0	1
+sure	2	2
+.	NA	NA

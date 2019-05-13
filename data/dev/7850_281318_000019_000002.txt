@@ -1,0 +1,5 @@
+Tell	2	0
+us	0	0
+something	0	1
+new	2	2
+.	NA	NA

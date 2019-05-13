@@ -1,0 +1,3 @@
+God	1	1
+forbid	2	2
+!	NA	NA

@@ -1,0 +1,13 @@
+Thy	2	0
+ways	1	1
+greatly	2	0
+try	1	0
+me	0	1
+,	NA	NA
+ruth	0	1
+,	NA	NA
+and	1	0
+all	2	0
+thy	0	1
+relations	0	2
+.	NA	NA

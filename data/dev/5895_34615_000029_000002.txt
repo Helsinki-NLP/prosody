@@ -1,0 +1,13 @@
+In	0	0
+appropriating	1	0
+him	0	0
+to	0	0
+the	0	1
+profession	2	0
+of	0	1
+mountebank	1	2
+nothing	2	0
+had	0	0
+been	0	0
+neglected	1	2
+.	NA	NA

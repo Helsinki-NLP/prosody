@@ -1,0 +1,17 @@
+We	0	0
+had	2	1
+two	2	0
+wire	0	0
+underground	1	0
+feeders	2	2
+,	NA	NA
+sent	2	0
+without	0	0
+any	0	0
+plans	0	0
+or	0	1
+specifications	1	1
+for	0	0
+their	0	0
+installation	2	2
+.	NA	NA

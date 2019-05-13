@@ -1,0 +1,10 @@
+Driven	1	1
+forward	2	0
+with	0	1
+a	0	0
+swiftness	2	2
+that	0	0
+cannot	2	0
+be	0	0
+measured	1	2
+.	NA	NA

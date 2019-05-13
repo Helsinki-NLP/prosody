@@ -1,0 +1,15 @@
+Nothing	2	0
+,	NA	NA
+however	0	1
+,	NA	NA
+has	0	0
+changed	2	0
+since	0	0
+then	0	2
+;	NA	NA
+on	2	0
+the	0	0
+contrary	2	1
+,	NA	NA
+indeed	2	2
+.	NA	NA

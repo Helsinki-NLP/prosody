@@ -1,0 +1,9 @@
+Dear	2	1
+me	0	1
+,	NA	NA
+why	2	0
+did	0	0
+you	0	1
+do	0	0
+that	2	2
+?	NA	NA

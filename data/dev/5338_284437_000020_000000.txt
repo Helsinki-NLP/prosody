@@ -1,0 +1,10 @@
+No	2	0
+,	NA	NA
+your	0	0
+Majesty	0	2
+,	NA	NA
+he	0	0
+replied	1	2
+;	NA	NA
+I'm	2	0
+only	1	2

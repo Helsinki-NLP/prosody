@@ -1,0 +1,4 @@
+Am	2	0
+I	0	1
+flighty	1	2
+?	NA	NA

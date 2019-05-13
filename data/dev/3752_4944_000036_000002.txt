@@ -1,0 +1,8 @@
+Hullo	0	0
+,	NA	NA
+North	2	2
+!	NA	NA
+what's	0	0
+the	0	0
+matter	2	2
+?	NA	NA

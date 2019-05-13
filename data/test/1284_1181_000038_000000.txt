@@ -1,0 +1,8 @@
+It	0	1
+truly	2	0
+is	0	2
+,	NA	NA
+asserted	1	0
+the	0	1
+Magician	1	2
+.	NA	NA

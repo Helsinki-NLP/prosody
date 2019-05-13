@@ -1,0 +1,9 @@
+Very	2	0
+soon	0	0
+after	0	1
+dinner	0	0
+Charles	1	0
+Smith	1	1
+excused	1	0
+himself	2	2
+.	NA	NA

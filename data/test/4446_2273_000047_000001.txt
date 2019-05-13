@@ -1,0 +1,12 @@
+But	2	0
+perhaps	2	1
+,	NA	NA
+as	0	0
+I'm	0	0
+so	1	0
+warm	1	2
+give	2	0
+me	0	0
+your	0	1
+handkerchief	1	2
+.	NA	NA

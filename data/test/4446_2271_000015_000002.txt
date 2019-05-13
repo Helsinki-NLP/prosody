@@ -1,0 +1,12 @@
+He's	0	0
+been	1	0
+wanting	0	1
+to	0	0
+marry	0	0
+Hilda	1	0
+these	0	2
+three	1	0
+years	2	0
+and	0	1
+more	2	2
+.	NA	NA

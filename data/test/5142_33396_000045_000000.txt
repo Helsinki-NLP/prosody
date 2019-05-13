@@ -1,0 +1,12 @@
+'I	0	0
+like	2	1
+this	0	0
+little	0	0
+taste	1	1
+of	0	0
+your	0	1
+hospitality	2	1
+,	NA	NA
+friend	0	1
+farmer	2	2
+.	NA	NA

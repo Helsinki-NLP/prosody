@@ -1,0 +1,12 @@
+You	0	0
+have	2	1
+not	1	1
+been	0	0
+long	2	0
+in	0	0
+the	0	1
+colony	2	1
+,	1	0
+mr	NA	NA
+Meekin	1	2
+.	NA	NA

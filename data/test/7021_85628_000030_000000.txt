@@ -1,0 +1,11 @@
+He	0	0
+smiled	2	2
+when	1	0
+he	0	0
+saw	0	0
+Anders	0	0
+in	0	1
+the	0	0
+gilt	1	1
+chair	1	2
+.	NA	NA

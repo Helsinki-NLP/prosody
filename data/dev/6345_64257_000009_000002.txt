@@ -1,0 +1,9 @@
+But	1	0
+not	1	0
+a	0	1
+throb	1	0
+went	0	1
+through	0	0
+her	0	0
+heart	2	2
+.	NA	NA

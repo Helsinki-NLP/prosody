@@ -1,0 +1,17 @@
+Literature	1	1
+cannot	1	1
+be	0	0
+the	0	0
+business	0	0
+of	0	1
+a	0	0
+woman's	0	0
+life	2	2
+,	NA	NA
+and	1	0
+it	0	0
+ought	2	0
+not	1	0
+to	0	1
+be	1	2
+.	NA	NA

@@ -1,0 +1,16 @@
+Against	2	1
+these	0	0
+boasting	2	2
+,	NA	NA
+false	2	0
+apostles	1	2
+,	NA	NA
+Paul	2	0
+boldly	0	0
+defends	1	0
+his	0	1
+apostolic	1	0
+authority	1	0
+and	0	1
+ministry	1	2
+.	NA	NA

@@ -1,0 +1,5 @@
+He'd	0	0
+rather	1	0
+kill	0	1
+himself	1	2
+.	NA	NA

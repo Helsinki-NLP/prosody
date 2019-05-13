@@ -1,0 +1,7 @@
+Yes	2	0
+,	NA	NA
+sir	1	0
+,	NA	NA
+said	1	1
+Troke	2	2
+.	NA	NA

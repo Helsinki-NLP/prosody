@@ -1,0 +1,10 @@
+So	0	0
+that's	2	1
+what	0	0
+we've	0	0
+been	0	1
+talking	2	1
+about	1	0
+all	0	0
+evening	1	2
+.	NA	NA

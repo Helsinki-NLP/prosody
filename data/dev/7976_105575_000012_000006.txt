@@ -1,0 +1,16 @@
+Go	0	0
+back	2	1
+to	0	0
+the	1	0
+regiment	0	1
+,	NA	NA
+he	0	0
+said	0	1
+,	NA	NA
+smiling	1	2
+,	NA	NA
+all	2	0
+will	0	0
+be	0	0
+needed	1	2
+.	NA	NA

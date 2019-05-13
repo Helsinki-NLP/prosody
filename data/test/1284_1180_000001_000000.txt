@@ -1,0 +1,3 @@
+The	0	0
+Crooked	1	1
+Magician	2	2

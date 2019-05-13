@@ -1,0 +1,4 @@
+Illustration	2	1
+LONG	2	0
+PEPPER	0	2
+.	NA	NA

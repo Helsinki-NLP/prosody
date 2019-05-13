@@ -1,0 +1,7 @@
+METER	2	1
+Roughly	1	0
+one	0	0
+yard	0	1
+,	NA	NA
+three	0	0
+inches	1	2

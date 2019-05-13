@@ -1,0 +1,7 @@
+I	0	0
+don't	1	0
+trust	2	1
+myself	1	1
+any	0	0
+more	2	2
+.	NA	NA

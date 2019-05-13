@@ -1,0 +1,16 @@
+It	0	0
+only	2	1
+requires	1	0
+to	0	1
+obliterate	1	1
+the	0	0
+root	2	0
+of	0	1
+the	0	0
+nose	2	0
+and	0	1
+to	0	0
+flatten	2	0
+the	0	1
+nostrils	2	2
+.	NA	NA

@@ -1,0 +1,12 @@
+Five	2	0
+of	0	1
+my	0	0
+eight	1	0
+messmates	1	0
+of	0	1
+the	0	0
+day	1	0
+before	1	0
+were	0	1
+shot	2	2
+.	NA	NA

@@ -1,0 +1,10 @@
+The	0	0
+ship	2	0
+could	0	1
+not	2	0
+have	0	1
+been	1	0
+in	0	1
+better	1	0
+hands	1	2
+.	NA	NA

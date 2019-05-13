@@ -1,0 +1,13 @@
+Andrews	2	0
+skipped	0	1
+from	1	0
+under	0	2
+;	NA	NA
+he	0	0
+obeyed	2	0
+orders	1	2
+;	NA	NA
+I	2	0
+did	0	0
+not	1	2
+.	NA	NA

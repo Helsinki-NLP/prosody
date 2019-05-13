@@ -1,0 +1,13 @@
+The	0	0
+odds	2	1
+,	NA	NA
+however	0	2
+,	NA	NA
+were	0	0
+now	2	0
+laid	0	1
+heavily	1	0
+against	1	1
+the	0	0
+fugitive	2	2
+.	NA	NA

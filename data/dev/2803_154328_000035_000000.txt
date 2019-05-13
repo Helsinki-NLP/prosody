@@ -1,0 +1,7 @@
+Is	1	0
+it	0	1
+Robert	1	2
+?	NA	NA
+whispered	2	0
+Glenarvan	2	2
+.	NA	NA

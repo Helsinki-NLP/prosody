@@ -1,0 +1,15 @@
+This	1	0
+cabin	2	0
+was	1	0
+his	0	2
+hermitage	1	0
+until	0	1
+the	0	0
+winter	1	1
+snows	1	1
+penned	1	0
+him	0	0
+in	0	0
+his	0	1
+cave	2	2
+.	NA	NA

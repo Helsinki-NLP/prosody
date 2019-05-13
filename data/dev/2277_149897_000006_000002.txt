@@ -1,0 +1,14 @@
+How	2	0
+could	0	0
+things	0	1
+have	0	0
+taken	1	0
+such	0	1
+a	0	0
+violent	1	1
+turn	2	2
+,	NA	NA
+and	0	0
+so	1	0
+quickly	2	2
+?	NA	NA

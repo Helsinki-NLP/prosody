@@ -1,0 +1,11 @@
+Oh	2	2
+,	NA	NA
+did	0	0
+she	0	0
+have	1	0
+an	0	1
+accident	2	1
+?	NA	NA
+asked	1	0
+Beth	1	2
+.	NA	NA

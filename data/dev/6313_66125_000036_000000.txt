@@ -1,0 +1,4 @@
+Fainted	1	1
+,	NA	NA
+probably	2	2
+.	NA	NA

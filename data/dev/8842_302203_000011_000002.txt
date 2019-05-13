@@ -1,0 +1,11 @@
+In	1	0
+the	0	1
+second	2	1
+,	NA	NA
+I	1	1
+say	0	0
+how	0	1
+I	0	0
+told	2	0
+them	1	2
+.	NA	NA

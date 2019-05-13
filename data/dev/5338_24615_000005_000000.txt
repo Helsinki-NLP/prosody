@@ -1,0 +1,8 @@
+Nor	2	0
+was	0	1
+the	0	0
+court	1	0
+without	1	0
+its	0	1
+ornaments	2	2
+.	NA	NA

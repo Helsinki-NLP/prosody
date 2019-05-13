@@ -1,0 +1,13 @@
+Pass	1	0
+the	0	1
+charm	1	0
+out	2	1
+to	0	0
+me	0	0
+,	NA	NA
+then	1	2
+,	NA	NA
+said	0	0
+the	0	0
+robber	2	2
+.	NA	NA

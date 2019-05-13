@@ -1,0 +1,14 @@
+'I	1	0
+like	2	0
+you	0	1
+still	0	0
+,	NA	NA
+Rachel	1	2
+;	NA	NA
+I'm	2	0
+sure	0	0
+I'll	0	0
+always	1	1
+like	0	0
+you	1	2
+.	NA	NA

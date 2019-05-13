@@ -1,0 +1,5 @@
+We	0	0
+suffer	1	0
+stifling	1	0
+pains	1	2
+.	NA	NA

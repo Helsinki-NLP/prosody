@@ -1,0 +1,8 @@
+Strain	2	0
+,	NA	NA
+and	0	1
+bottle	0	0
+off	0	1
+for	0	0
+use	1	2
+.	NA	NA

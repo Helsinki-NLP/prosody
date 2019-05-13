@@ -1,0 +1,13 @@
+Things	2	1
+were	2	0
+progressing	0	0
+,	NA	NA
+Captain	0	1
+Battleax	2	1
+,	NA	NA
+pretty	1	0
+well	2	0
+before	0	1
+this	0	0
+morning	1	2
+.	NA	NA

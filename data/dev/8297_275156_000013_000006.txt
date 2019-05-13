@@ -1,0 +1,6 @@
+Have	1	0
+you	0	0
+seen	1	1
+Catherine	1	1
+lately	2	2
+?	NA	NA

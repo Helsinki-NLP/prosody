@@ -1,0 +1,3 @@
+Any	1	1
+answer	2	2
+?	NA	NA

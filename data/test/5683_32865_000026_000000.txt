@@ -1,0 +1,17 @@
+'Fie	2	0
+,	NA	NA
+Lake	0	1
+,	NA	NA
+there's	2	0
+no	0	0
+poetry	0	1
+in	0	0
+you	1	1
+,	NA	NA
+'	NA	NA
+said	1	0
+Lord	1	1
+Chelford	0	0
+,	NA	NA
+laughing	1	2
+.	NA	NA

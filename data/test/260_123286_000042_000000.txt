@@ -1,0 +1,16 @@
+Yes	2	0
+,	NA	NA
+replied	1	0
+my	0	0
+uncle	0	2
+,	NA	NA
+and	0	0
+there	2	0
+is	0	0
+a	0	1
+sea	0	0
+lizard	1	1
+of	0	0
+vast	2	1
+size	2	2
+.	NA	NA

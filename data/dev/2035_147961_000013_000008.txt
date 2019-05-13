@@ -1,0 +1,14 @@
+Antonia's	2	1
+father	1	0
+uncovered	1	0
+one	0	0
+of	0	2
+his	0	0
+long	2	0
+bony	0	0
+legs	1	1
+and	0	0
+rubbed	2	0
+it	0	1
+rhythmically	2	2
+.	NA	NA

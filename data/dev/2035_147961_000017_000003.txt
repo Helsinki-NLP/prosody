@@ -1,0 +1,16 @@
+At	2	0
+midnight	1	2
+the	0	0
+parents	2	1
+of	0	0
+the	0	1
+bride	2	1
+said	0	0
+good	0	1
+bye	2	1
+to	0	0
+her	1	0
+and	0	1
+blessed	1	1
+her	2	2
+.	NA	NA

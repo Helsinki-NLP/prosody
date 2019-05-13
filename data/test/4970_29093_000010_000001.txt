@@ -1,0 +1,13 @@
+Will	2	0
+there	0	0
+not	1	0
+always	0	1
+be	0	0
+rosin	0	0
+enough	2	2
+for	0	0
+the	0	0
+squeaking	1	1
+fiddle	0	0
+bow	2	2
+?	NA	NA

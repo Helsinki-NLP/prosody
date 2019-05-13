@@ -1,0 +1,7 @@
+But	0	0
+then	2	2
+there	1	0
+was	0	1
+Henrietta's	0	0
+letter	1	2
+.	NA	NA

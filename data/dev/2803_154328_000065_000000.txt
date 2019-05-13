@@ -1,0 +1,11 @@
+Glenarvan	2	1
+and	0	0
+Lady	0	0
+Helena	2	2
+immediately	1	0
+ventured	1	0
+out	1	0
+of	0	0
+the	0	0
+grotto	2	2
+.	NA	NA

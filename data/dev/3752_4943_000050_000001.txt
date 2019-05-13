@@ -1,0 +1,9 @@
+But	0	1
+Kirkland	2	0
+kept	1	1
+steadily	1	0
+on	0	1
+for	0	0
+the	0	0
+river	2	2
+.	NA	NA

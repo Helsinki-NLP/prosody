@@ -1,0 +1,11 @@
+The	0	0
+thralls	2	0
+were	0	1
+bringing	0	0
+in	0	0
+a	0	1
+great	1	1
+pot	2	0
+of	0	1
+meat	0	2
+.	NA	NA

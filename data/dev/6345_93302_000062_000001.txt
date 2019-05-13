@@ -1,0 +1,8 @@
+Then	0	0
+how	1	0
+can	0	1
+I	0	0
+ever	1	0
+trust	1	1
+you	2	2
+?	NA	NA

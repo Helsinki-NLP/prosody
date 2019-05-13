@@ -1,0 +1,6 @@
+Do	0	1
+you	0	0
+know	1	0
+Captain	1	1
+Frere	2	2
+?	NA	NA

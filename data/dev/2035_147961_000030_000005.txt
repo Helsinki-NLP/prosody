@@ -1,0 +1,16 @@
+Pavel	2	0
+knocked	1	1
+him	0	0
+over	2	0
+the	0	1
+side	0	0
+of	0	0
+the	0	1
+sledge	1	0
+and	0	2
+threw	1	0
+the	0	0
+girl	0	0
+after	1	0
+him	0	2
+.	NA	NA

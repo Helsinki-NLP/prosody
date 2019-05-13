@@ -1,0 +1,5 @@
+Illustration	2	2
+PESTLE	2	0
+AND	0	0
+MORTAR	0	2
+.	NA	NA

@@ -1,0 +1,16 @@
+And	1	0
+,	NA	NA
+if	0	0
+you	0	0
+meet	1	0
+with	0	1
+anything	0	0
+unlooked	1	1
+for	2	2
+,	NA	NA
+let	2	1
+me	0	0
+know	0	0
+at	0	1
+once	2	2
+.	NA	NA

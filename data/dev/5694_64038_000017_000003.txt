@@ -1,0 +1,14 @@
+We	0	0
+jumped	2	0
+over	1	0
+the	0	1
+fence	1	0
+,	NA	NA
+and	0	2
+commenced	2	1
+grabbling	2	1
+for	0	0
+the	0	0
+sweet	1	1
+potatoes	1	2
+.	NA	NA

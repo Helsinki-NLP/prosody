@@ -1,0 +1,12 @@
+The	0	0
+electrical	1	0
+work	2	1
+had	1	0
+to	0	1
+be	0	0
+done	2	0
+in	0	1
+forty	1	0
+eight	0	0
+hours	2	2
+!	NA	NA

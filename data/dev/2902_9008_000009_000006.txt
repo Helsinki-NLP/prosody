@@ -1,0 +1,12 @@
+Did	0	0
+not	2	1
+you	0	0
+work	2	1
+the	0	0
+sum	1	0
+out	0	0
+once	0	1
+,	NA	NA
+Hypatia	2	2
+?	NA	NA
+'	NA	NA

@@ -1,0 +1,11 @@
+It	0	0
+was	1	0
+a	0	1
+terrible	2	0
+effort	0	0
+,	NA	NA
+and	0	2
+an	0	0
+insupportable	1	0
+tension	1	2
+.	NA	NA

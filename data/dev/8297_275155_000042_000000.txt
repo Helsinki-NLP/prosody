@@ -1,0 +1,4 @@
+Where	2	1
+is	1	0
+he	0	2
+?	NA	NA

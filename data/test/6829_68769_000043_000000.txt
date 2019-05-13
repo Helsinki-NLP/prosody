@@ -1,0 +1,10 @@
+Yes	2	2
+;	NA	NA
+she'll	2	0
+worry	0	0
+about	0	0
+me	0	1
+,	NA	NA
+I	0	0
+know	2	2
+.	NA	NA

@@ -1,0 +1,14 @@
+That	0	0
+is	1	0
+her	0	1
+name	2	1
+,	NA	NA
+and	0	0
+it	0	0
+is	2	1
+sufficient	2	2
+,	NA	NA
+said	2	0
+the	0	0
+woman	2	2
+.	NA	NA

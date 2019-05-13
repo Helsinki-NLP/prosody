@@ -1,0 +1,13 @@
+The	0	1
+cloud	2	0
+of	0	1
+Rebels	1	0
+we	0	0
+had	0	1
+seen	0	0
+divided	2	0
+itself	1	0
+into	0	1
+three	1	0
+columns	1	2
+.	NA	NA

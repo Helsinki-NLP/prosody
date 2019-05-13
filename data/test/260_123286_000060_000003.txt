@@ -1,0 +1,8 @@
+We	0	0
+remain	1	0
+motionless	1	2
+,	NA	NA
+ready	1	0
+to	0	1
+fire	2	2
+.	NA	NA

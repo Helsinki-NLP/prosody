@@ -1,0 +1,9 @@
+Why	1	0
+aren't	0	1
+they	2	0
+up	0	0
+in	0	1
+the	0	0
+Catholic	2	1
+graveyard	1	2
+?	NA	NA

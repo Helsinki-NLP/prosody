@@ -1,0 +1,14 @@
+I've	1	0
+heard	2	0
+of	0	1
+your	0	0
+coming	2	0
+here	0	2
+,	NA	NA
+and	0	0
+sending	1	1
+,	NA	NA
+so	2	0
+often	0	2
+.	NA	NA
+'	NA	NA

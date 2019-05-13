@@ -1,0 +1,6 @@
+Do	0	0
+you	0	0
+not	2	1
+,	NA	NA
+father	1	2
+?	NA	NA

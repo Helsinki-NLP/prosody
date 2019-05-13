@@ -1,0 +1,10 @@
+About	2	0
+that	2	1
+time	1	1
+mr	0	0
+Andrews	1	1
+and	0	0
+I	0	0
+came	1	0
+together	1	2
+.	NA	NA

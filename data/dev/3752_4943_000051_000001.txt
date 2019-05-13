@@ -1,0 +1,9 @@
+You'll	2	0
+see	0	0
+if	0	2
+you	0	0
+won't	1	1
+remember	0	0
+this	1	1
+day	2	2
+.	NA	NA

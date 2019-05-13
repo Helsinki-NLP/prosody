@@ -1,0 +1,14 @@
+He	0	0
+slapped	2	1
+Texas	1	1
+sharply	2	0
+on	0	0
+the	0	0
+flank	1	0
+with	0	1
+the	0	0
+flat	2	0
+of	0	1
+his	0	0
+hand	2	2
+.	NA	NA

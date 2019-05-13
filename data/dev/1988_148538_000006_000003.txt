@@ -1,0 +1,12 @@
+There	2	0
+is	0	1
+one	1	0
+sort	0	0
+of	0	1
+ignorance	0	0
+which	0	1
+originates	2	1
+in	0	0
+extreme	1	0
+publicity	2	2
+.	NA	NA

@@ -1,0 +1,14 @@
+Quite	1	0
+the	0	0
+reverse	2	2
+,	NA	NA
+for	2	0
+it	0	0
+was	0	1
+a	0	0
+cunning	0	1
+artifice	2	1
+on	0	0
+her	0	0
+part	1	2
+.	NA	NA

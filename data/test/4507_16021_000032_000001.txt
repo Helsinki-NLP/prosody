@@ -1,0 +1,12 @@
+Is	1	0
+it	0	0
+really	2	0
+the	0	1
+French	0	0
+tongue	2	2
+,	NA	NA
+the	0	0
+great	2	2
+human	1	0
+tongue	1	2
+?	NA	NA

@@ -1,0 +1,12 @@
+Mary	1	0
+Ann	0	0
+was	0	1
+silent	2	1
+for	0	0
+some	0	0
+time	2	2
+;	NA	NA
+then	1	0
+she	0	0
+quietly	1	0
+remarked	1	2

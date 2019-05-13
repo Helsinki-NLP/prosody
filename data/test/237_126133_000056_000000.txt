@@ -1,0 +1,12 @@
+So	1	0
+her	0	0
+mother	0	0
+was	0	0
+willing	2	2
+?	NA	NA
+asked	2	1
+his	0	0
+daughter	2	1
+,	NA	NA
+curiously	1	2
+.	NA	NA

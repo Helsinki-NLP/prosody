@@ -1,0 +1,12 @@
+It	0	0
+seemed	1	0
+as	0	1
+though	0	0
+I	1	0
+were	0	1
+treated	1	2
+with	0	0
+almost	1	1
+royal	0	0
+honour	2	2
+.	NA	NA

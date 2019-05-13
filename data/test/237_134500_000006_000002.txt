@@ -1,0 +1,6 @@
+What	2	0
+makes	1	1
+you	1	0
+so	0	1
+flighty	2	2
+?	NA	NA

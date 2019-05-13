@@ -1,0 +1,13 @@
+At	2	0
+his	0	1
+sale	2	0
+we	0	0
+bought	1	1
+Peter's	2	1
+wheelbarrow	1	2
+and	0	0
+some	1	0
+of	0	0
+his	0	0
+harness	1	2
+.	NA	NA

@@ -1,0 +1,4 @@
+Here's	2	1
+to	0	0
+Cat	2	2
+!	NA	NA

@@ -1,0 +1,7 @@
+Why	2	0
+did	0	1
+Lord	0	0
+Arthur	1	1
+Fluffinose	1	1
+enter	1	2
+?	NA	NA

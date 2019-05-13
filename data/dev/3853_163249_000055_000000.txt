@@ -1,0 +1,4 @@
+Yes	2	1
+,	NA	NA
+Christie	1	2
+.	NA	NA

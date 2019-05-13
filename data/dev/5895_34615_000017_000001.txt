@@ -1,0 +1,7 @@
+He	0	0
+showed	2	0
+himself	1	0
+on	0	1
+the	0	0
+platform	2	2
+.	NA	NA

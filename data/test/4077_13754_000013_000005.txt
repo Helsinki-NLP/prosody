@@ -1,0 +1,12 @@
+Yet	0	1
+the	0	0
+two	2	0
+have	0	1
+often	2	0
+been	0	1
+confused	2	0
+in	0	1
+the	0	0
+popular	2	0
+mind	1	2
+.	NA	NA

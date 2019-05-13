@@ -1,0 +1,11 @@
+Phoebe	2	0
+merely	0	1
+glanced	2	1
+at	0	0
+it	0	1
+,	NA	NA
+and	0	0
+gave	1	0
+it	0	1
+back	2	2
+.	NA	NA

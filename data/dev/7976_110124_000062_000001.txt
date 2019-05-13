@@ -1,0 +1,12 @@
+Great	1	0
+danger	1	1
+threatened	1	0
+us	0	1
+while	0	0
+you	0	0
+were	0	0
+away	2	2
+,	NA	NA
+she	0	0
+said	1	2
+.	NA	NA

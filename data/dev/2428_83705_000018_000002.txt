@@ -1,0 +1,17 @@
+There	2	0
+she	0	0
+owns	0	0
+a	0	1
+cottage	2	2
+,	NA	NA
+or	2	0
+it	0	1
+may	0	0
+be	0	0
+a	0	1
+pigstye	1	1
+for	0	0
+all	0	0
+I	0	0
+know	0	2
+.	NA	NA

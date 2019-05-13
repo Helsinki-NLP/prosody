@@ -1,0 +1,9 @@
+How	2	1
+brown	1	0
+you've	0	1
+got	1	0
+since	0	1
+you	0	0
+came	0	0
+home	2	2
+.	NA	NA

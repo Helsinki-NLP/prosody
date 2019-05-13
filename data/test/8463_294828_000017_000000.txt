@@ -1,0 +1,9 @@
+Conseil	1	0
+!	NA	NA
+I	2	1
+called	1	0
+in	0	0
+an	0	1
+impatient	1	0
+voice	1	2
+.	NA	NA

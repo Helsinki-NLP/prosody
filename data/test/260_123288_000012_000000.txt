@@ -1,0 +1,15 @@
+There's	1	0
+a	0	0
+heavy	0	1
+storm	1	0
+coming	0	0
+on	1	2
+,	NA	NA
+I	0	0
+cried	2	2
+,	NA	NA
+pointing	1	0
+towards	0	1
+the	0	0
+horizon	1	2
+.	NA	NA

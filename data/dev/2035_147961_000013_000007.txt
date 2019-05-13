@@ -1,0 +1,13 @@
+He	0	0
+lay	2	0
+patiently	0	0
+fighting	0	0
+for	0	0
+breath	1	2
+,	NA	NA
+like	2	0
+a	0	0
+child	2	1
+with	0	0
+croup	2	2
+.	NA	NA

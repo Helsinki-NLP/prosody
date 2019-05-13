@@ -1,0 +1,5 @@
+Are	0	1
+the	0	0
+people	1	1
+mad	2	2
+?	NA	NA

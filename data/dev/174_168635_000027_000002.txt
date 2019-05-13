@@ -1,0 +1,9 @@
+One	2	1
+,	NA	NA
+in	0	0
+fact	2	2
+,	NA	NA
+completed	2	1
+the	0	0
+other	1	2
+.	NA	NA

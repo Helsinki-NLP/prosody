@@ -1,0 +1,8 @@
+He	0	1
+saw	1	0
+the	0	0
+great	0	0
+hawk	1	0
+swoop	0	1
+savagely	2	2
+.	NA	NA

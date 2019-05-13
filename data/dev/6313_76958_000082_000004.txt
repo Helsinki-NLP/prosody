@@ -1,0 +1,13 @@
+He's	1	0
+a	0	0
+trouble	0	1
+curer	2	2
+,	NA	NA
+not	2	0
+a	0	1
+troublemaker	2	1
+,	NA	NA
+except	1	0
+for	0	1
+himself	2	2
+.	NA	NA

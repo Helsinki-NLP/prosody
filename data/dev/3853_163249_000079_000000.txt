@@ -1,0 +1,15 @@
+Of	1	0
+course	2	1
+he	0	0
+has	0	1
+!	NA	NA
+any	0	0
+man	1	0
+with	0	0
+the	0	2
+spirit	2	0
+of	0	0
+a	0	1
+muskeeter	0	0
+would	1	2
+.	NA	NA

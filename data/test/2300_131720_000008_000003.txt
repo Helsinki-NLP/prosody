@@ -1,0 +1,8 @@
+It	0	0
+had	1	0
+been	0	0
+stepped	2	0
+on	0	2
+and	0	0
+flattened	2	2
+.	NA	NA

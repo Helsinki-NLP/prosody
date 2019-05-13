@@ -1,0 +1,11 @@
+And	1	1
+,	NA	NA
+now	2	2
+,	NA	NA
+Sydney's	2	0
+taken	0	0
+away	0	0
+from	0	0
+me	0	0
+next	2	2
+.	NA	NA

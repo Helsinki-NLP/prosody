@@ -1,0 +1,13 @@
+I	2	0
+examined	2	1
+him	0	0
+closely	2	2
+,	NA	NA
+and	0	0
+found	2	0
+him	0	1
+hardly	2	0
+able	0	0
+to	0	1
+breathe	1	2
+.	NA	NA

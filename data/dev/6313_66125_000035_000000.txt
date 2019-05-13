@@ -1,0 +1,16 @@
+What	1	0
+do	0	0
+you	0	0
+think	0	1
+has	0	0
+happened	2	1
+to	0	0
+him	0	2
+?	NA	NA
+asked	1	1
+Tad	2	0
+in	0	1
+a	0	0
+troubled	1	1
+voice	2	2
+.	NA	NA

@@ -1,0 +1,7 @@
+When	2	0
+did	1	1
+you	1	0
+enter	0	1
+the	0	0
+room	1	2
+?	NA	NA

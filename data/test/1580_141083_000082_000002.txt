@@ -1,0 +1,16 @@
+He	0	0
+is	2	1
+well	2	0
+up	0	0
+in	0	1
+his	0	0
+work	2	2
+,	NA	NA
+though	1	0
+his	0	1
+Greek	2	1
+is	0	0
+his	1	0
+weak	0	0
+subject	1	2
+.	NA	NA

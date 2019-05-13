@@ -1,0 +1,5 @@
+Don't	2	0
+I	1	1
+,	NA	NA
+though	0	2
+!	NA	NA

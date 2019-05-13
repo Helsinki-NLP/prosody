@@ -1,0 +1,10 @@
+I	2	0
+wouldn't	0	1
+trust	1	1
+him	0	0
+to	0	0
+doctor	1	0
+a	0	2
+sick	1	1
+cat	2	2
+.	NA	NA

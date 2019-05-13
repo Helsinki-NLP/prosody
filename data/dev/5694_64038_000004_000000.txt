@@ -1,0 +1,9 @@
+Yank	1	0
+says	1	2
+,	NA	NA
+What	1	0
+you	0	0
+doing	2	1
+,	NA	NA
+Johnny	1	2
+?	NA	NA

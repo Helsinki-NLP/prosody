@@ -1,0 +1,11 @@
+He	0	0
+came	1	0
+towards	1	0
+her	1	2
+;	NA	NA
+he	0	0
+was	2	0
+five	0	0
+minutes	0	1
+late	2	2
+.	NA	NA

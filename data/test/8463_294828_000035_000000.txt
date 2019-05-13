@@ -1,0 +1,6 @@
+What	2	0
+about	0	1
+master's	0	0
+live	1	1
+babirusa	2	2
+?	NA	NA

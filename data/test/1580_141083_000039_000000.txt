@@ -1,0 +1,6 @@
+Holmes	2	2
+gave	1	0
+an	0	0
+enigmatic	0	1
+smile	1	2
+.	NA	NA

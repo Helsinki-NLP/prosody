@@ -1,0 +1,13 @@
+On	0	1
+the	0	0
+palm	2	0
+were	0	1
+three	0	0
+little	0	0
+pyramids	1	0
+of	0	1
+black	2	2
+,	NA	NA
+doughy	2	1
+clay	2	2
+.	NA	NA

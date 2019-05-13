@@ -1,0 +1,12 @@
+On	1	0
+the	0	0
+next	1	0
+morning	2	1
+we	0	0
+got	1	0
+into	0	1
+my	0	0
+dragon	2	0
+and	0	1
+started	2	2
+.	NA	NA

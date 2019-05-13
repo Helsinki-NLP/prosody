@@ -1,0 +1,4 @@
+In	0	0
+what	0	0
+way	1	2
+?	NA	NA

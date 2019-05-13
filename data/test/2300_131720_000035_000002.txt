@@ -1,0 +1,16 @@
+After	2	0
+that	2	1
+they	0	0
+were	0	0
+shown	1	1
+the	0	0
+meters	2	2
+by	2	0
+which	0	0
+the	0	1
+consumption	1	0
+of	0	1
+current	1	1
+was	0	0
+measured	1	2
+.	NA	NA

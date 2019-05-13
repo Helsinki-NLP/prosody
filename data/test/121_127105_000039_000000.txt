@@ -1,0 +1,7 @@
+Forty	1	1
+years	2	1
+!	NA	NA
+Griffin	1	0
+put	0	0
+in	1	2
+.	NA	NA

@@ -1,0 +1,5 @@
+I	2	0
+can	0	1
+do	0	0
+that	1	2
+.	NA	NA

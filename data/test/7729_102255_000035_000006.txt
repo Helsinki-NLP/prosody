@@ -1,0 +1,17 @@
+The	0	0
+military	2	0
+force	1	2
+,	NA	NA
+partly	2	0
+rabble	1	2
+,	NA	NA
+partly	2	0
+organized	0	1
+,	NA	NA
+had	0	0
+meanwhile	0	0
+moved	0	0
+into	0	0
+the	0	0
+town	1	2
+.	NA	NA

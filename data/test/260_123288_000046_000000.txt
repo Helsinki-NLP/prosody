@@ -1,0 +1,6 @@
+A	0	0
+fresh	1	1
+noise	2	0
+is	0	1
+heard	2	2
+!	NA	NA

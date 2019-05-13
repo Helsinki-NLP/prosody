@@ -1,0 +1,8 @@
+Well	2	1
+,	NA	NA
+it's	0	0
+not	1	0
+just	0	1
+the	0	0
+pay	2	2
+.	NA	NA

@@ -1,0 +1,8 @@
+Fall	2	0
+River	0	2
+is	0	0
+a	0	0
+very	2	0
+remarkable	0	0
+stream	1	2
+.	NA	NA

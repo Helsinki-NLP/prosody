@@ -1,0 +1,12 @@
+Alas	2	1
+,	NA	NA
+said	0	0
+,	NA	NA
+she	0	0
+is	1	0
+indeed	0	0
+dead	1	2
+,	NA	NA
+poor	1	0
+child	1	2
+!	NA	NA

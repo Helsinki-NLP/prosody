@@ -1,0 +1,5 @@
+Then	2	0
+came	0	0
+the	0	1
+explosion	2	2
+.	NA	NA

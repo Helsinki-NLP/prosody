@@ -1,0 +1,8 @@
+Let	2	0
+us	0	1
+ask	1	1
+her	0	1
+to	0	0
+teach	1	0
+us	1	2
+!	NA	NA

@@ -1,0 +1,7 @@
+Don't	1	1
+make	1	0
+such	0	0
+a	0	1
+bally	1	1
+racket	2	2
+!	NA	NA

@@ -1,0 +1,8 @@
+He	0	0
+gazed	2	0
+about	1	1
+,	NA	NA
+perplexed	2	1
+,	NA	NA
+astonished	2	2
+.	NA	NA

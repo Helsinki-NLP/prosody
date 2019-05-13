@@ -1,0 +1,17 @@
+And	1	0
+the	0	0
+lectures	1	1
+,	NA	NA
+and	1	0
+the	0	0
+dissecting	1	0
+rooms	0	2
+,	NA	NA
+has	2	0
+thee	0	0
+thought	2	2
+of	1	0
+the	0	0
+dissecting	1	0
+rooms	2	2
+?	NA	NA

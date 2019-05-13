@@ -1,0 +1,4 @@
+I	1	0
+hope	1	1
+so	2	2
+.	NA	NA

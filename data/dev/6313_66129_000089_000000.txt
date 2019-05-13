@@ -1,0 +1,8 @@
+He's	0	0
+got	1	0
+to	0	1
+learn	2	1
+,	NA	NA
+declared	0	1
+Tad	2	2
+.	NA	NA

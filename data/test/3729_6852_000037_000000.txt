@@ -1,0 +1,8 @@
+Excellent	2	2
+,	NA	NA
+I	0	0
+made	0	0
+it	0	0
+myself	0	0
+yesterday	1	2
+.	NA	NA

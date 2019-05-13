@@ -1,0 +1,12 @@
+Is	1	0
+blue	1	0
+the	0	0
+only	0	0
+respectable	0	1
+color	0	0
+,	NA	NA
+then	2	2
+?	NA	NA
+inquired	1	0
+Ojo	2	2
+.	NA	NA

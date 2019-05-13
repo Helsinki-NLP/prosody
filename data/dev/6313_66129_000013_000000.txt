@@ -1,0 +1,4 @@
+We	0	0
+did	1	1
+not	2	2
+.	NA	NA

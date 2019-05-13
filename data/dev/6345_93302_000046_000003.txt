@@ -1,0 +1,12 @@
+The	2	0
+girl	0	0
+in	0	0
+the	0	1
+orchard	2	1
+would	1	0
+have	1	1
+known	0	0
+at	1	0
+a	1	1
+glance	2	2
+.	NA	NA

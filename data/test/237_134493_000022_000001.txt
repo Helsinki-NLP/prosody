@@ -1,0 +1,16 @@
+One	2	0
+room	0	0
+is	0	0
+papered	0	1
+,	NA	NA
+carpeted	2	2
+,	NA	NA
+over	2	0
+furnished	1	2
+;	NA	NA
+the	0	0
+next	2	0
+is	0	0
+almost	0	1
+bare	2	2
+.	NA	NA

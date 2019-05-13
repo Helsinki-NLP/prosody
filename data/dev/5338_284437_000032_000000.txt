@@ -1,0 +1,15 @@
+Oh	2	0
+,	NA	NA
+no	0	1
+,	NA	NA
+responded	0	0
+Tourmaline	0	0
+quickly	1	2
+;	NA	NA
+that	2	0
+would	0	0
+indeed	0	1
+be	0	0
+very	0	0
+wrong	2	2
+.	NA	NA

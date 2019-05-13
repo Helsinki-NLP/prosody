@@ -1,0 +1,7 @@
+The	0	0
+student	2	0
+had	0	1
+drawn	2	1
+himself	1	0
+erect	2	2
+.	NA	NA

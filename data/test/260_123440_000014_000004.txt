@@ -1,0 +1,12 @@
+I	0	0
+am	0	0
+so	2	1
+VERY	2	1
+tired	1	0
+of	0	1
+being	0	0
+all	2	0
+alone	1	1
+here	1	2
+!	NA	NA
+'	NA	NA

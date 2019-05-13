@@ -1,0 +1,9 @@
+Bartley	2	1
+smiled	1	0
+and	0	1
+yawned	1	1
+and	0	0
+went	1	1
+to	0	0
+bed	2	2
+.	NA	NA

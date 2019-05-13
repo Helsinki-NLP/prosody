@@ -1,0 +1,11 @@
+The	0	0
+rudder	2	1
+stands	0	0
+motionless	2	1
+in	0	0
+a	0	0
+sluggish	2	1
+,	NA	NA
+waveless	2	0
+sea	1	2
+.	NA	NA

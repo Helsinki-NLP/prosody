@@ -1,0 +1,17 @@
+If	1	0
+the	0	1
+proofs	2	1
+were	0	0
+in	0	0
+a	0	1
+roll	2	2
+,	NA	NA
+he	0	0
+could	0	0
+not	1	1
+possibly	2	1
+know	0	0
+what	0	1
+they	0	0
+were	2	2
+.	NA	NA

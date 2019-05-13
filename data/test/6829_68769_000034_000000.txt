@@ -1,0 +1,9 @@
+Why	2	0
+did	0	1
+you	0	0
+do	1	0
+it	0	2
+?	NA	NA
+asked	2	1
+Beth	1	2
+.	NA	NA

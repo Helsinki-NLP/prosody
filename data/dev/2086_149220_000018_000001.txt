@@ -1,0 +1,11 @@
+But	0	0
+there	1	1
+certainly	2	1
+is	0	1
+truth	2	1
+in	0	0
+what	0	0
+you	0	0
+have	0	1
+said	2	2
+.	NA	NA

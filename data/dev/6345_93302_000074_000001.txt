@@ -1,0 +1,3 @@
+Good	0	0
+bye	1	2
+!	NA	NA

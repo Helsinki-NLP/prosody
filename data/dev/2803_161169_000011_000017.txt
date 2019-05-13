@@ -1,0 +1,15 @@
+Don't	2	0
+you	0	1
+see	0	0
+how	0	0
+many	0	1
+uses	1	0
+we	0	0
+have	0	1
+found	2	0
+for	0	1
+this	0	0
+refuse	1	1
+coal	1	0
+tar	2	2
+?	NA	NA

@@ -1,0 +1,17 @@
+You	0	0
+seem	2	0
+to	0	0
+have	0	1
+forgotten	2	0
+that	0	1
+the	0	0
+woman	1	0
+at	0	2
+Buck's	1	0
+Hotel	1	0
+is	0	1
+described	2	1
+as	2	0
+a	0	1
+Widow	2	2
+.	NA	NA

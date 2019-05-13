@@ -1,0 +1,7 @@
+No	2	0
+,	NA	NA
+its	0	1
+not	1	0
+too	0	0
+soon	0	2
+.	NA	NA

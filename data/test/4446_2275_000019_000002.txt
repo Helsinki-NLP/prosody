@@ -1,0 +1,3 @@
+It's	0	1
+unbearable	2	2
+.	NA	NA

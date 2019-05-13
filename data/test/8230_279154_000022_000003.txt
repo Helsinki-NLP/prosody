@@ -1,0 +1,7 @@
+The	0	0
+recollection	2	1
+alone	1	2
+is	0	0
+true	1	0
+memory	0	2
+.	NA	NA

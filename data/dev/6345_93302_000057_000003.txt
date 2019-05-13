@@ -1,0 +1,9 @@
+What	2	0
+was	0	0
+it	0	1
+,	NA	NA
+compared	1	0
+with	0	0
+her	0	2
+fears	2	2
+?	NA	NA

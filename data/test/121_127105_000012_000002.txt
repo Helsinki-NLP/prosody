@@ -1,0 +1,4 @@
+For	0	0
+dreadful	1	1
+dreadfulness	2	2
+!	NA	NA

@@ -1,0 +1,10 @@
+The	0	0
+sharp	2	1
+smell	1	0
+of	0	1
+spirits	2	1
+went	2	1
+through	0	0
+the	0	0
+room	2	2
+.	NA	NA

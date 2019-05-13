@@ -1,0 +1,15 @@
+'I	0	0
+don't	0	0
+know	2	2
+;	NA	NA
+but	0	0
+I	1	0
+think	0	0
+he	0	0
+mentioned	1	2
+Larkins's	2	0
+house	0	1
+,	NA	NA
+didn't	0	0
+he	0	2
+?	NA	NA

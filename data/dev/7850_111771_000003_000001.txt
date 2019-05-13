@@ -1,0 +1,14 @@
+Thomas	1	1
+l	2	0
+Hamer	0	2
+he	0	0
+was	0	0
+admitted	2	0
+at	0	1
+West	0	0
+Point	0	0
+in	0	0
+eighteen	0	0
+thirty	0	0
+nine	2	2
+.	NA	NA

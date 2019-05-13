@@ -1,0 +1,6 @@
+The	0	1
+door	2	0
+opened	0	1
+once	0	0
+more	1	2
+.	NA	NA

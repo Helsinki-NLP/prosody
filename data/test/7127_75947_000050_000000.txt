@@ -1,0 +1,11 @@
+In	0	0
+other	2	0
+words	0	1
+,	NA	NA
+said	0	0
+Montalais	0	1
+,	NA	NA
+she	2	0
+is	0	2
+insupportable	2	2
+.	NA	NA

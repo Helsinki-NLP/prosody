@@ -1,0 +1,17 @@
+Be	0	0
+still	2	2
+,	NA	NA
+said	1	0
+Jappy	1	0
+warningly	1	1
+,	NA	NA
+while	2	0
+Phronsie	1	1
+stood	0	0
+surveying	2	1
+them	0	0
+all	1	0
+with	0	1
+grave	0	0
+eyes	1	2
+.	NA	NA

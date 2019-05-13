@@ -1,0 +1,7 @@
+I	0	0
+would	0	0
+not	1	0
+give	0	0
+him	0	1
+pills	2	2
+.	NA	NA

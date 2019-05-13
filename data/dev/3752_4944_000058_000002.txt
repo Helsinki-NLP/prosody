@@ -1,0 +1,9 @@
+I	2	0
+wonder	0	1
+Burgess	2	1
+didn't	0	0
+give	0	0
+him	0	0
+a	0	0
+hundred	2	2
+.	NA	NA

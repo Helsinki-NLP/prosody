@@ -1,0 +1,6 @@
+Who	0	0
+may	2	0
+condemn	1	0
+his	0	1
+superstition	2	2
+?	NA	NA

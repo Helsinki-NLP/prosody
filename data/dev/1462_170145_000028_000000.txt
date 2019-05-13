@@ -1,0 +1,12 @@
+Hilda	2	2
+you'd	0	0
+better	2	0
+think	0	1
+a	0	0
+while	1	0
+longer	0	0
+before	0	0
+you	0	1
+do	0	0
+that	2	2
+.	NA	NA

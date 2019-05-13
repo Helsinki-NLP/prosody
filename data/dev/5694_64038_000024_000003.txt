@@ -1,0 +1,16 @@
+Hood's	2	0
+army	0	0
+was	0	1
+taking	1	1
+up	0	0
+every	1	0
+able	0	0
+bodied	1	1
+man	1	0
+and	0	1
+conscripting	2	0
+him	0	1
+into	0	0
+the	0	0
+army	1	2
+.	NA	NA

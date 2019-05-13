@@ -1,0 +1,12 @@
+You	0	0
+young	1	1
+vermin	2	1
+you	0	0
+shall	0	0
+pay	2	1
+for	0	0
+this	2	1
+,	NA	NA
+cries	1	1
+Troke	2	2
+.	NA	NA

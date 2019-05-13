@@ -1,0 +1,6 @@
+Then	2	1
+,	NA	NA
+darkness	2	1
+like	0	0
+death	2	2
+.	NA	NA

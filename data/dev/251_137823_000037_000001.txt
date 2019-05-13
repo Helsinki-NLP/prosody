@@ -1,0 +1,8 @@
+There	0	0
+would've	2	1
+been	0	0
+a	0	0
+lot	2	1
+more	1	1
+casualties	2	2
+.	NA	NA

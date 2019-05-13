@@ -1,0 +1,12 @@
+Do	0	0
+you	2	1
+,	NA	NA
+who	0	0
+are	0	0
+so	1	1
+clever	2	1
+,	NA	NA
+finish	1	1
+for	2	0
+me	1	2
+.	NA	NA

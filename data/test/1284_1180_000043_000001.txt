@@ -1,0 +1,11 @@
+He	0	0
+said	1	0
+his	0	1
+wife	2	0
+wanted	0	0
+it	0	1
+for	0	0
+some	1	1
+especial	1	1
+purpose	2	2
+.	NA	NA

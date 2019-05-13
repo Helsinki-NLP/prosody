@@ -1,0 +1,14 @@
+However	2	2
+,	NA	NA
+he	0	0
+who	1	0
+says	0	0
+light	1	1
+does	1	0
+not	0	1
+,	NA	NA
+necessarily	2	1
+,	NA	NA
+say	0	0
+joy	2	2
+.	NA	NA

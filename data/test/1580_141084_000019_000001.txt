@@ -1,0 +1,7 @@
+The	2	0
+Indian	0	1
+still	1	0
+paced	1	1
+his	0	0
+room	1	2
+.	NA	NA

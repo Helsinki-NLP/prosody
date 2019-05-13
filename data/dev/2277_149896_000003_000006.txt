@@ -1,0 +1,13 @@
+She	1	0
+would	0	0
+find	1	0
+out	0	0
+at	0	1
+once	2	2
+just	1	0
+what	1	0
+advantages	1	0
+she	0	1
+could	0	0
+gain	2	2
+.	NA	NA

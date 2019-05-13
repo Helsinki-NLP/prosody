@@ -1,0 +1,6 @@
+TO	0	0
+MAKE	1	1
+YEAST	1	1
+FOR	0	0
+BREAD	2	2
+.	NA	NA

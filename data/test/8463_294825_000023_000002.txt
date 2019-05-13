@@ -1,0 +1,8 @@
+And	0	1
+Verne's	2	1
+marine	1	0
+engineering	0	0
+proves	1	1
+especially	1	0
+authoritative	2	2
+.	NA	NA

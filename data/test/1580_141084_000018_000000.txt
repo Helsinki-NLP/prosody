@@ -1,0 +1,9 @@
+You	2	0
+can	0	0
+be	0	1
+perfectly	1	0
+easy	0	1
+in	0	0
+your	0	0
+mind	2	2
+.	NA	NA

@@ -1,0 +1,13 @@
+It	0	0
+was	0	0
+automatic	2	2
+,	NA	NA
+and	0	0
+the	0	0
+more	2	0
+irresistible	0	0
+because	0	0
+it	0	1
+seemed	0	0
+petrified	2	2
+.	NA	NA

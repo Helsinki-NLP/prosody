@@ -1,0 +1,15 @@
+Suddenly	2	2
+there	2	0
+was	2	0
+a	0	0
+noise	0	0
+in	0	0
+the	0	1
+corridor	2	2
+and	0	0
+evidence	2	0
+of	0	1
+scuffling	2	0
+and	0	0
+struggling	1	2
+.	NA	NA

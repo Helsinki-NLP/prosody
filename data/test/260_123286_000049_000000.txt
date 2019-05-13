@@ -1,0 +1,11 @@
+At	1	0
+three	1	0
+hundred	0	0
+yards	1	1
+from	0	0
+us	2	2
+the	0	0
+battle	2	0
+was	0	1
+fought	2	2
+.	NA	NA

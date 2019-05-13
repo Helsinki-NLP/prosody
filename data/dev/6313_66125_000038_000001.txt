@@ -1,0 +1,6 @@
+But	2	0
+talking	0	1
+won't	0	1
+do	0	0
+it	2	2
+.	NA	NA

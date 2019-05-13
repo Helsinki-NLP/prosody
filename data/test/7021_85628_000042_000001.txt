@@ -1,0 +1,16 @@
+He	1	0
+knew	0	0
+well	1	0
+enough	0	2
+that	1	0
+mother's	1	0
+cap	1	1
+was	1	0
+the	0	1
+best	2	0
+cap	2	2
+in	1	1
+all	2	0
+the	0	0
+world	1	2
+.	NA	NA

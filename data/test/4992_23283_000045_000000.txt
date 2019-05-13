@@ -1,0 +1,16 @@
+I	2	0
+will	0	0
+make	1	1
+no	1	0
+unjust	1	1
+use	1	1
+of	0	0
+what	1	0
+I	0	0
+know	2	0
+,	NA	NA
+he	0	1
+replied	1	0
+with	0	1
+firmness	1	2
+.	NA	NA

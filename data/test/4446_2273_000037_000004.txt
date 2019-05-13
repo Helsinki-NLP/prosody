@@ -1,0 +1,7 @@
+You	0	0
+see	1	0
+,	NA	NA
+I'm	0	0
+coming	0	1
+on	2	2
+.	NA	NA

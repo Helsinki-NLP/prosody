@@ -1,0 +1,12 @@
+So	0	0
+choose	1	0
+for	0	1
+yourself	2	2
+to	0	0
+make	0	0
+a	0	0
+rush	1	2
+or	0	0
+tarry	1	0
+here	1	2
+.	NA	NA

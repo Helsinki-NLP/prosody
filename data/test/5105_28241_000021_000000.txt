@@ -1,0 +1,17 @@
+Is	1	0
+it	0	0
+not	2	1
+impossible	2	1
+,	NA	NA
+he	0	0
+murmured	1	0
+aloud	2	2
+,	NA	NA
+that	1	0
+any	1	0
+city	0	0
+should	0	1
+disappear	1	0
+so	1	0
+completely	1	2
+?	NA	NA

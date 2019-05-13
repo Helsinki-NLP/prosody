@@ -1,0 +1,6 @@
+Quite	2	0
+satisfied	1	1
+,	NA	NA
+said	0	0
+Eva	1	2
+.	NA	NA

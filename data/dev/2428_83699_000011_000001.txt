@@ -1,0 +1,9 @@
+All	1	0
+night	2	2
+it	0	0
+had	0	0
+been	0	1
+blowing	1	0
+and	0	1
+raining	1	2
+.	NA	NA

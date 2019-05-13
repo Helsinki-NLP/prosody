@@ -1,0 +1,10 @@
+'The	0	1
+priests	1	1
+and	1	0
+their	0	1
+clamor	2	2
+!	NA	NA
+'	NA	NA
+she	0	0
+exclaimed	1	2
+.	NA	NA

@@ -1,0 +1,4 @@
+Grandmother	2	0
+nodded	0	1
+consolingly	1	2
+.	NA	NA

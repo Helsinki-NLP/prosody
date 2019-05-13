@@ -1,0 +1,13 @@
+The	0	1
+boy's	2	1
+made	0	0
+his	0	1
+bed	2	0
+,	NA	NA
+and	0	1
+he	0	0
+must	1	1
+lie	1	0
+on	0	0
+it	0	2
+.	NA	NA

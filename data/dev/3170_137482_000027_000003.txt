@@ -1,0 +1,13 @@
+He	0	0
+received	2	0
+it	0	1
+with	0	0
+many	1	0
+thanks	1	2
+,	NA	NA
+and	0	0
+enquired	2	1
+where	0	0
+I	0	0
+lived	2	2
+.	NA	NA

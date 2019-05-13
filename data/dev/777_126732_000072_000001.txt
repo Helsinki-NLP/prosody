@@ -1,0 +1,6 @@
+He	0	1
+believes	2	1
+it's	0	0
+all	2	1
+true	2	2
+.	NA	NA

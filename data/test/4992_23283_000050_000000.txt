@@ -1,0 +1,8 @@
+But	2	0
+she	0	0
+would	1	1
+account	1	0
+it	0	1
+an	0	0
+injury	1	2
+.	NA	NA

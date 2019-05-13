@@ -1,0 +1,13 @@
+Bartley	2	0
+leaned	0	1
+his	0	0
+head	2	0
+in	0	1
+his	0	0
+hands	2	0
+and	0	1
+spoke	2	1
+through	0	0
+his	0	1
+teeth	2	2
+.	NA	NA

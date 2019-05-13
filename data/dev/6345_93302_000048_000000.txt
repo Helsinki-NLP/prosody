@@ -1,0 +1,8 @@
+Yes	2	1
+,	NA	NA
+isn't	0	0
+it	1	1
+?	NA	NA
+he	0	0
+said	2	2
+.	NA	NA

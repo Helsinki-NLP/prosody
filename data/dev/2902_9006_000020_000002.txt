@@ -1,0 +1,8 @@
+But	0	1
+now	1	0
+the	0	0
+main	0	1
+body	2	1
+had	0	0
+arrived	2	2
+.	NA	NA

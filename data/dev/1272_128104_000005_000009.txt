@@ -1,0 +1,13 @@
+As	1	0
+for	0	0
+etchings	1	2
+,	NA	NA
+they	0	0
+are	0	0
+of	0	1
+two	1	0
+kinds	0	2
+British	2	1
+and	0	0
+foreign	1	2
+.	NA	NA

@@ -1,0 +1,8 @@
+By	0	0
+Harry	1	0
+Quilter	0	1
+,	NA	NA
+m	1	0
+a	2	2
+Isbister	2	2
+.	NA	NA

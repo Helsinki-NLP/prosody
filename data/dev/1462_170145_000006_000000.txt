@@ -1,0 +1,15 @@
+He	0	0
+was	1	0
+standing	2	0
+behind	0	0
+the	0	1
+table	1	2
+,	NA	NA
+turning	1	0
+over	2	0
+a	0	1
+pile	1	0
+of	0	1
+blueprints	1	1
+nervously	2	2
+.	NA	NA

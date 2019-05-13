@@ -1,0 +1,7 @@
+Both	2	1
+boys	1	1
+were	0	0
+amazed	1	0
+and	0	1
+excited	2	2
+.	NA	NA

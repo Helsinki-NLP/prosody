@@ -1,0 +1,7 @@
+Glenarvan	2	1
+shook	0	0
+his	0	0
+head	2	0
+in	0	0
+dissent	2	2
+.	NA	NA

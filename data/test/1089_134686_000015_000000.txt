@@ -1,0 +1,4 @@
+That	2	0
+was	0	1
+strange	2	2
+.	NA	NA

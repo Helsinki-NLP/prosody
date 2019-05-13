@@ -1,0 +1,9 @@
+He	0	0
+just	2	1
+likes	2	2
+to	0	0
+boss	2	0
+everything	0	1
+I	0	0
+do	2	2
+.	NA	NA

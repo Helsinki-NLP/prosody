@@ -1,0 +1,14 @@
+No	2	0
+,	NA	NA
+my	0	0
+Lord	1	2
+;	NA	NA
+but	2	1
+is	1	0
+he	0	0
+not	1	0
+here	2	2
+?	NA	NA
+inquired	1	1
+Robert	1	2
+.	NA	NA

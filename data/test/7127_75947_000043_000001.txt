@@ -1,0 +1,10 @@
+We	0	0
+thought	2	0
+we	0	0
+should	0	1
+be	0	0
+first	2	1
+at	0	0
+the	0	0
+rendezvous	1	2
+.	NA	NA

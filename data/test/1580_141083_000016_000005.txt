@@ -1,0 +1,10 @@
+A	0	1
+broken	2	0
+tip	0	0
+of	0	1
+lead	2	0
+was	0	2
+lying	1	1
+there	0	0
+also	1	2
+.	NA	NA

@@ -1,0 +1,8 @@
+We	0	0
+were	0	0
+jubilant	2	2
+;	NA	NA
+we	0	0
+were	0	0
+triumphant	1	2
+.	NA	NA

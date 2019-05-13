@@ -1,0 +1,10 @@
+Is	1	0
+this	0	0
+woman	1	1
+mad	1	2
+?	NA	NA
+he	0	0
+said	1	0
+to	0	1
+himself	2	2
+.	NA	NA

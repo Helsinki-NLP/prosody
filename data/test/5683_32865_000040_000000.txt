@@ -1,0 +1,8 @@
+'He's	2	0
+not	1	0
+a	0	0
+man	1	1
+for	0	0
+country	1	1
+quarters	1	2
+!	NA	NA

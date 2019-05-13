@@ -1,0 +1,7 @@
+That's	2	0
+it	0	2
+;	NA	NA
+on	1	0
+your	0	0
+account	2	2
+.	NA	NA

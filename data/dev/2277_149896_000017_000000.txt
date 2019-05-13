@@ -1,0 +1,10 @@
+Later	2	0
+,	NA	NA
+however	0	1
+,	NA	NA
+his	0	0
+old	1	0
+discretion	1	0
+asserted	0	0
+itself	1	2
+.	NA	NA

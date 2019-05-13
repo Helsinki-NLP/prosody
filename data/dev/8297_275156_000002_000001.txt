@@ -1,0 +1,10 @@
+Suspicion	2	0
+overclouded	1	1
+his	0	0
+face	2	0
+as	0	0
+he	0	2
+put	1	0
+the	0	0
+question	2	2
+.	NA	NA

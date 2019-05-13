@@ -1,0 +1,12 @@
+On	0	1
+Friday	2	2
+confession	2	0
+will	0	1
+be	0	0
+heard	2	0
+all	0	0
+the	0	0
+afternoon	0	1
+after	0	0
+beads	1	2
+.	NA	NA

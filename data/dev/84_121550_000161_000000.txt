@@ -1,0 +1,4 @@
+Purgatorio	1	0
+Canto	0	1
+thirty	0	0
+one	1	2

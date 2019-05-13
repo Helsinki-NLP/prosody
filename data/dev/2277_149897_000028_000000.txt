@@ -1,0 +1,7 @@
+She	1	0
+said	2	0
+it	0	0
+was	0	1
+high	1	1
+time	1	2
+.	NA	NA

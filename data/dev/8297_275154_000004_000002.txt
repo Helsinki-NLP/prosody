@@ -1,0 +1,9 @@
+Captain	1	1
+Bennydeck	2	0
+has	0	0
+got	1	1
+tired	2	0
+of	0	1
+the	0	0
+sea	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+Then	2	0
+he	0	1
+comes	2	1
+to	0	0
+the	0	1
+beak	2	0
+of	1	0
+it	1	2
+.	NA	NA

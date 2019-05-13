@@ -1,0 +1,5 @@
+AN	0	0
+old	1	0
+fashioned	2	1
+CHRISTMAS	1	2
+.	NA	NA

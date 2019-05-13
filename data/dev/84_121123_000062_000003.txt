@@ -1,0 +1,11 @@
+For	1	0
+some	2	0
+temperaments	0	2
+work	2	0
+is	0	0
+a	1	0
+remedy	0	1
+for	1	0
+all	0	1
+afflictions	1	2
+.	NA	NA

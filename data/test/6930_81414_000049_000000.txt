@@ -1,0 +1,4 @@
+He's	1	0
+better	0	0
+now	2	2
+.	NA	NA

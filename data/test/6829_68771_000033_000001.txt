@@ -1,0 +1,10 @@
+I	2	0
+obtained	1	0
+the	0	1
+situation	1	1
+only	1	0
+a	0	0
+few	0	0
+days	2	0
+ago	1	2
+.	NA	NA

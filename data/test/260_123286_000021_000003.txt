@@ -1,0 +1,4 @@
+The	0	0
+wind	2	0
+freshens	1	2
+.	NA	NA

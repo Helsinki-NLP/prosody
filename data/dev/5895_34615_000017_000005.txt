@@ -1,0 +1,12 @@
+One	2	0
+day	0	0
+the	0	1
+executioner	1	1
+came	1	1
+,	NA	NA
+and	0	0
+Gwynplaine	2	0
+made	0	1
+him	0	0
+laugh	2	2
+.	NA	NA

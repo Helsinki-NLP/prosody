@@ -1,0 +1,6 @@
+There's	1	0
+no	0	1
+sale	1	1
+for	0	0
+it	2	2
+.	NA	NA

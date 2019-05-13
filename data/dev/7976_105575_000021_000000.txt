@@ -1,0 +1,12 @@
+For	0	0
+some	2	0
+reason	0	2
+the	1	0
+dead	2	0
+at	0	1
+Hatchie	1	1
+Bridge	1	1
+were	0	0
+not	0	0
+buried	1	2
+.	NA	NA

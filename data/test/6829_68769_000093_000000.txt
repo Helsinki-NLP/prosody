@@ -1,0 +1,10 @@
+Beth	2	1
+,	NA	NA
+uneasy	1	0
+at	0	0
+his	0	1
+silence	1	1
+,	NA	NA
+nudged	2	0
+him	0	2
+.	NA	NA

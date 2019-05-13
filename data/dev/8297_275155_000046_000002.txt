@@ -1,0 +1,14 @@
+Will	2	0
+it	0	1
+be	1	0
+of	0	0
+any	1	1
+use	1	0
+if	0	1
+we	0	1
+invite	2	1
+you	0	0
+to	0	0
+the	0	1
+marriage	2	2
+?	NA	NA

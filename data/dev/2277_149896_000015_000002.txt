@@ -1,0 +1,9 @@
+You	0	0
+can	1	1
+stay	1	0
+away	1	0
+if	0	1
+you	0	0
+want	1	1
+to	2	2
+.	NA	NA

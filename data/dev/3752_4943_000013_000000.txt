@@ -1,0 +1,11 @@
+A	0	0
+prisoner	2	1
+refractory	2	1
+,	NA	NA
+your	0	0
+reverence	0	0
+,	NA	NA
+said	0	0
+the	0	1
+watchman	2	2
+.	NA	NA

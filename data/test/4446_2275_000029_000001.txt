@@ -1,0 +1,9 @@
+I	0	0
+meant	1	0
+to	1	2
+,	NA	NA
+but	1	0
+somehow	1	0
+I	0	0
+couldn't	1	2
+.	NA	NA

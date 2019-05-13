@@ -1,0 +1,17 @@
+An	0	0
+appeal	2	0
+was	0	1
+made	0	0
+to	0	0
+the	0	0
+executive	1	0
+of	0	0
+the	0	1
+state	2	2
+,	NA	NA
+but	2	0
+little	0	0
+encouragement	1	1
+was	0	0
+returned	2	2
+.	NA	NA

@@ -1,0 +1,14 @@
+Heavenly	2	1
+God	2	2
+!	NA	NA
+cried	2	0
+Stephen's	0	0
+soul	1	2
+,	NA	NA
+in	0	0
+an	0	0
+outburst	2	0
+of	0	1
+profane	1	0
+joy	2	2
+.	NA	NA

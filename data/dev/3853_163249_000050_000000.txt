@@ -1,0 +1,12 @@
+You've	0	0
+something	2	0
+to	0	1
+tell	2	0
+me	0	2
+I	2	0
+see	0	0
+it	0	0
+in	0	0
+your	0	1
+face	2	2
+.	NA	NA

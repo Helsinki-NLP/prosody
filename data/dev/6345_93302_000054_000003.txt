@@ -1,0 +1,6 @@
+I	1	0
+haven't	1	0
+answered	0	1
+her	0	0
+letter	2	2
+.	NA	NA

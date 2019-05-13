@@ -1,0 +1,16 @@
+I	2	0
+had	0	0
+to	0	1
+stand	0	0
+by	0	0
+Lucy	1	2
+she's	2	0
+so	1	0
+sweet	1	1
+and	0	0
+gentle	2	0
+,	NA	NA
+and	0	1
+so	0	0
+sensitive	2	2
+.	NA	NA

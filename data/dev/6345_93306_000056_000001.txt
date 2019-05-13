@@ -1,0 +1,4 @@
+He	2	0
+answered	0	1
+nothing	1	2
+.	NA	NA

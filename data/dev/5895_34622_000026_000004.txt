@@ -1,0 +1,9 @@
+Ursus	2	1
+and	0	0
+Homo	2	1
+took	0	0
+charge	1	0
+of	0	1
+each	0	0
+other	2	2
+.	NA	NA

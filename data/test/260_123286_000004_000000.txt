@@ -1,0 +1,13 @@
+My	0	0
+head	2	0
+is	0	1
+still	0	0
+stupefied	1	2
+with	0	0
+the	0	0
+vivid	1	0
+reality	1	1
+of	0	0
+my	0	0
+dream	1	2
+.	NA	NA

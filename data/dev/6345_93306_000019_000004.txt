@@ -1,0 +1,14 @@
+Here	2	1
+,	NA	NA
+signorina	0	0
+,	NA	NA
+ecco	1	2
+,	2	1
+prendi	NA	NA
+vino	1	0
+gatto	2	1
+No	1	0
+,	NA	NA
+gatto's	0	0
+cat	1	2
+.	NA	NA

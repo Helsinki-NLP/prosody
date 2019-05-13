@@ -1,0 +1,13 @@
+They	2	0
+don't	0	1
+talk	1	0
+of	0	2
+any	2	0
+one	0	1
+else	1	1
+as	0	0
+they	1	0
+do	0	0
+of	0	1
+you	2	2
+.	NA	NA

@@ -1,0 +1,16 @@
+Don't	1	0
+know	2	2
+;	NA	NA
+'most	1	0
+everything	1	0
+she	0	0
+says	2	1
+sounds	1	0
+like	0	1
+the	0	0
+Bible	1	0
+or	0	0
+Shakespeare	2	1
+to	0	0
+me	2	2
+.	NA	NA

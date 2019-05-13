@@ -1,0 +1,14 @@
+There	2	0
+is	0	1
+,	NA	NA
+for	1	0
+example	1	2
+,	NA	NA
+a	0	0
+habit	2	0
+of	0	1
+remembering	0	1
+a	0	0
+unique	0	0
+event	1	2
+.	NA	NA

@@ -1,0 +1,8 @@
+Well	0	0
+!	NA	NA
+what	1	1
+for	2	2
+?	NA	NA
+he	0	0
+demanded	2	2
+.	NA	NA

@@ -1,0 +1,14 @@
+Hence	2	0
+arise	2	1
+good	1	0
+manners	0	2
+in	0	0
+the	0	0
+way	1	1
+pointed	1	0
+out	1	1
+in	0	0
+an	0	0
+earlier	1	0
+chapter	2	2
+.	NA	NA

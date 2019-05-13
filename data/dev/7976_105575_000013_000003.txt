@@ -1,0 +1,15 @@
+God	2	0
+could	0	2
+not	1	0
+answer	0	1
+the	1	1
+prayers	2	0
+of	0	1
+the	0	0
+men	0	0
+in	0	2
+both	2	0
+armies	0	1
+that	1	0
+night	1	2
+.	NA	NA

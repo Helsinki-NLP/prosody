@@ -1,0 +1,16 @@
+So	2	0
+that	0	1
+,	NA	NA
+as	0	0
+Mary	1	0
+Ann	0	0
+says	1	2
+,	NA	NA
+our	2	0
+honeymoon	0	2
+need	1	0
+cost	2	0
+us	0	1
+practically	1	0
+nothing	1	2
+.	NA	NA

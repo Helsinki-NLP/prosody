@@ -1,0 +1,16 @@
+Our	1	0
+mouths	1	1
+open	1	1
+,	NA	NA
+our	0	0
+lips	1	0
+move	1	2
+,	NA	NA
+but	0	0
+not	1	0
+a	0	0
+word	2	0
+can	0	1
+be	0	0
+heard	1	2
+.	NA	NA

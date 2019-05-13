@@ -1,0 +1,7 @@
+It	0	0
+relieved	2	0
+him	0	1
+for	0	0
+a	0	0
+while	1	2
+.	NA	NA

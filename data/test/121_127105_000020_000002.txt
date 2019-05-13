@@ -1,0 +1,8 @@
+She	0	0
+has	0	1
+been	0	0
+dead	2	0
+these	0	2
+twenty	1	0
+years	1	2
+.	NA	NA

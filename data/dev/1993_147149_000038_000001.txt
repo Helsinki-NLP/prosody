@@ -1,0 +1,7 @@
+They	0	0
+took	1	0
+worse	0	0
+about	1	1
+two	0	0
+o'clock	2	2
+.	NA	NA

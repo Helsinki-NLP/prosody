@@ -1,0 +1,4 @@
+Isn't	0	1
+anybody	0	0
+going	1	2
+?	NA	NA

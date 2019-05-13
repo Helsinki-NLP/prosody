@@ -1,0 +1,14 @@
+Curiosity	1	1
+,	NA	NA
+applause	2	1
+,	NA	NA
+receipts	2	1
+,	NA	NA
+crowds	2	1
+,	NA	NA
+the	0	0
+Laughing	1	0
+Man	0	0
+monopolized	1	1
+everything	1	2
+.	NA	NA

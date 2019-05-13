@@ -1,0 +1,5 @@
+Well	2	0
+then	0	1
+;	NA	NA
+after	1	0
+dinner	2	2

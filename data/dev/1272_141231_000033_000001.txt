@@ -1,0 +1,4 @@
+Brion	1	0
+wasn't	0	1
+tiring	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+I	1	0
+am	2	2
+,	NA	NA
+spoke	1	0
+up	0	1
+Shorty	0	0
+Savage	1	0
+promptly	2	2
+.	NA	NA

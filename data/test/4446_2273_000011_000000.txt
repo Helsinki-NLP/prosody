@@ -1,0 +1,11 @@
+Lady	2	0
+Westmere	1	0
+sent	0	1
+them	0	0
+to	0	0
+me	0	0
+from	0	1
+Rome	2	0
+last	0	1
+Christmas	0	2
+.	NA	NA

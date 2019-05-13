@@ -1,0 +1,15 @@
+Infirmities	2	1
+induced	1	1
+by	0	0
+over	2	0
+indulgence	0	1
+are	0	0
+among	0	0
+some	0	0
+peoples	0	1
+freely	2	0
+recognised	1	1
+as	0	0
+manly	0	0
+attributes	1	2
+.	NA	NA

@@ -1,0 +1,8 @@
+Her	0	0
+little	2	0
+foot	0	0
+tapped	1	2
+the	0	0
+gravel	1	0
+impatiently	1	2
+.	NA	NA

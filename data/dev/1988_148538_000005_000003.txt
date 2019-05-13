@@ -1,0 +1,9 @@
+No	2	0
+men	0	0
+are	0	1
+fonder	1	0
+of	0	1
+their	0	0
+own	1	0
+condition	2	2
+.	NA	NA

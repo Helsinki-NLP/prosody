@@ -1,0 +1,11 @@
+Being	1	0
+a	0	0
+natural	1	0
+man	1	2
+,	NA	NA
+the	1	0
+Indian	0	0
+was	0	1
+intensely	0	0
+poetical	1	2
+.	NA	NA

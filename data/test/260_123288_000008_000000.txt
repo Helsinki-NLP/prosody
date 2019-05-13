@@ -1,0 +1,12 @@
+At	1	0
+ten	0	0
+in	0	0
+the	0	0
+morning	2	2
+the	0	0
+symptoms	2	1
+of	0	0
+storm	1	1
+become	0	0
+aggravated	2	2
+.	NA	NA

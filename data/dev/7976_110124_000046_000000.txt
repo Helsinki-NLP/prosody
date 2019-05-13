@@ -1,0 +1,12 @@
+I	2	0
+do	0	0
+not	0	0
+trust	1	0
+your	0	1
+promises	2	2
+,	NA	NA
+replied	1	0
+the	0	0
+little	0	0
+maid	2	2
+.	NA	NA

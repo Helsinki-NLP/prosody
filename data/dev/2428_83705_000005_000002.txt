@@ -1,0 +1,5 @@
+It	0	0
+is	0	0
+most	2	1
+delightful	2	2
+.	NA	NA

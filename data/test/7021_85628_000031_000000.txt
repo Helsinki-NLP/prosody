@@ -1,0 +1,12 @@
+That	2	1
+is	0	0
+a	0	2
+very	2	1
+fine	1	0
+cap	1	1
+you	0	0
+have	1	1
+,	NA	NA
+he	0	0
+said	2	2
+.	NA	NA

@@ -1,0 +1,10 @@
+He	0	0
+could	1	1
+examine	1	1
+the	0	0
+papers	1	0
+in	0	1
+his	0	0
+own	2	1
+office	1	2
+.	NA	NA

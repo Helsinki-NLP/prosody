@@ -1,0 +1,16 @@
+I	2	0
+attend	1	1
+to	0	0
+the	1	0
+household	1	0
+mending	1	1
+,	NA	NA
+you	0	0
+know	2	2
+,	NA	NA
+and	2	0
+care	1	1
+for	0	0
+the	0	0
+linen	2	2
+.	NA	NA

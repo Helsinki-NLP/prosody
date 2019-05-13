@@ -1,0 +1,5 @@
+All	2	0
+except	0	1
+Mother	0	0
+Magpie	2	2
+!	NA	NA

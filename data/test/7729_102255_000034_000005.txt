@@ -1,0 +1,17 @@
+Ten	0	0
+days	2	0
+were	0	1
+consumed	1	0
+in	0	0
+these	0	1
+negotiations	1	2
+;	NA	NA
+but	1	0
+the	0	0
+spirit	2	1
+of	0	0
+vengeance	1	0
+refused	0	1
+to	0	0
+yield	2	2
+.	NA	NA

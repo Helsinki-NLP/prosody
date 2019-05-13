@@ -1,0 +1,8 @@
+He	0	0
+has	1	0
+the	0	1
+strangest	1	1
+fits	1	0
+at	0	1
+times	2	2
+.	NA	NA

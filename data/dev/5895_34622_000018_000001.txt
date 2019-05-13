@@ -1,0 +1,9 @@
+The	0	1
+passers	2	1
+by	1	0
+were	0	1
+immediately	1	0
+struck	1	1
+with	0	0
+wonder	2	2
+.	NA	NA

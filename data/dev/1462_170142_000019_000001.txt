@@ -1,0 +1,5 @@
+But	2	0
+it's	0	1
+worse	2	1
+now	1	2
+.	NA	NA

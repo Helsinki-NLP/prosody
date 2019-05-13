@@ -1,0 +1,9 @@
+But	1	0
+he's	0	0
+given	1	0
+me	0	0
+some	0	2
+good	0	0
+Irish	2	1
+songs	1	2
+.	NA	NA

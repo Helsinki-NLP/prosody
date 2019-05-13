@@ -1,0 +1,15 @@
+No	1	0
+time	2	0
+or	0	1
+distance	0	0
+,	NA	NA
+however	2	2
+,	NA	NA
+would	1	1
+ever	2	0
+lessen	0	1
+his	0	0
+interest	0	0
+in	0	0
+her	2	2
+.	NA	NA

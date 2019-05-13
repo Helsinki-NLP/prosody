@@ -1,0 +1,5 @@
+Say	2	1
+,	NA	NA
+don't	0	0
+you	1	2
+?	NA	NA

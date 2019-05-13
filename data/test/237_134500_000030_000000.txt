@@ -1,0 +1,6 @@
+That's	2	0
+so	2	1
+,	NA	NA
+Marie	0	0
+sighed	1	2
+.	NA	NA

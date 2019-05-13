@@ -1,0 +1,14 @@
+I	2	0
+have	0	0
+a	0	0
+new	0	0
+writing	1	0
+table	0	0
+with	0	0
+a	0	2
+fine	2	0
+surface	1	1
+of	0	0
+red	0	0
+leather	1	2
+.	NA	NA

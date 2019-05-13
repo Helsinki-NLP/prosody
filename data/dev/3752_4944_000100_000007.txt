@@ -1,0 +1,13 @@
+He	0	0
+saw	2	0
+in	0	0
+the	0	0
+darkness	1	1
+the	0	0
+brandy	1	0
+bottle	1	2
+vulgar	2	1
+and	1	0
+terrible	1	0
+apparition	0	2
+!	NA	NA

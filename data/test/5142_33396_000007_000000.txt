@@ -1,0 +1,13 @@
+The	0	0
+night	2	1
+that	1	0
+it	0	0
+was	0	1
+finished	2	1
+I	0	0
+went	0	1
+to	0	0
+my	1	1
+father's	2	1
+feast	1	2
+.	NA	NA

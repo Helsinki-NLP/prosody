@@ -1,0 +1,13 @@
+Our	2	0
+own	1	0
+loss	1	2
+had	0	0
+been	0	0
+two	0	0
+thousand	2	1
+two	1	0
+hundred	0	0
+dead	0	0
+and	0	1
+wounded	1	2
+.	NA	NA

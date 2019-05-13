@@ -1,0 +1,16 @@
+Can	0	0
+you	0	0
+slip	0	0
+it	0	0
+over	1	1
+your	0	0
+shoulders	1	0
+and	0	1
+under	0	0
+your	0	0
+arms	2	2
+?	NA	NA
+called	2	1
+the	0	0
+guide	2	2
+.	NA	NA

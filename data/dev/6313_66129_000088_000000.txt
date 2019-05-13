@@ -1,0 +1,8 @@
+Be	0	0
+careful	2	0
+,	NA	NA
+Chunky	0	0
+,	NA	NA
+warned	0	1
+Walter	2	2
+.	NA	NA

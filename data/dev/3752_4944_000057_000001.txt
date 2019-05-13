@@ -1,0 +1,8 @@
+He	1	0
+tried	0	1
+to	0	0
+drown	2	1
+himself	1	1
+this	0	0
+morning	2	2
+.	NA	NA

@@ -1,0 +1,7 @@
+Johnny	1	0
+says	2	2
+,	NA	NA
+We	2	0
+are	0	0
+flanking	0	2
+.	NA	NA

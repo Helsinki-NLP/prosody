@@ -1,0 +1,6 @@
+and	1	1
+you	0	0
+won't	2	1
+give	0	0
+it	2	2
+?	NA	NA

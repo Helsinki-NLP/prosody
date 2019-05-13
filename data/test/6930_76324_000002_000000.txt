@@ -1,0 +1,11 @@
+They	0	0
+were	0	0
+certainly	2	1
+no	2	0
+nearer	0	0
+the	0	1
+solution	2	0
+of	0	1
+their	0	0
+problem	2	2
+.	NA	NA

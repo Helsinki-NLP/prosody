@@ -1,0 +1,13 @@
+Can	0	1
+you	1	0
+see	0	0
+where	0	0
+he	0	0
+has	0	1
+put	1	0
+his	0	1
+rifle	2	1
+or	0	0
+his	0	2
+bow	2	2
+?	NA	NA

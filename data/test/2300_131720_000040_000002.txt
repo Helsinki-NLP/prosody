@@ -1,0 +1,14 @@
+A	0	0
+model	2	0
+of	0	1
+this	0	0
+station	0	0
+is	1	1
+preserved	2	0
+in	0	0
+the	0	1
+Deutschen	2	1
+Museum	0	0
+at	0	0
+Munich	2	2
+.	NA	NA

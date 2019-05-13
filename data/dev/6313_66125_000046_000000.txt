@@ -1,0 +1,13 @@
+And	2	0
+he	0	1
+most	0	0
+certainly	1	0
+will	2	1
+,	NA	NA
+interrupted	0	1
+Tad	2	0
+,	NA	NA
+advancing	1	1
+a	0	0
+step	2	2
+.	NA	NA

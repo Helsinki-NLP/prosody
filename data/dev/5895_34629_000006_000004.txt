@@ -1,0 +1,9 @@
+He	2	0
+entered	0	0
+heaven	0	1
+only	2	1
+by	0	0
+the	0	0
+artists'	1	1
+door	2	2
+.	NA	NA

@@ -1,0 +1,11 @@
+The	0	0
+Indian	1	0
+was	0	0
+a	0	1
+religious	2	1
+man	0	0
+from	0	0
+his	0	1
+mother's	0	0
+womb	2	2
+.	NA	NA

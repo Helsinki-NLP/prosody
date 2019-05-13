@@ -1,0 +1,7 @@
+Guess	2	1
+I	1	0
+know	0	0
+how	0	1
+to	0	0
+ride	2	2
+.	NA	NA

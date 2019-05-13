@@ -1,0 +1,13 @@
+What	2	0
+sort	2	0
+of	0	1
+business	1	1
+can	0	0
+a	0	0
+young	2	0
+man	1	0
+go	1	1
+into	0	0
+without	1	1
+capital	2	2
+?	NA	NA

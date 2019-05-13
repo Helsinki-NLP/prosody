@@ -1,0 +1,12 @@
+It	0	0
+ain't	2	1
+to	0	1
+be	0	0
+done	2	0
+,	NA	NA
+you	0	1
+know	0	0
+,	NA	NA
+said	0	1
+Bozzle	1	2
+.	NA	NA

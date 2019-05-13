@@ -1,0 +1,9 @@
+If	0	0
+she	1	1
+hadn't	2	1
+she	1	1
+wouldn't	0	0
+have	0	1
+told	2	0
+me	1	2
+.	NA	NA

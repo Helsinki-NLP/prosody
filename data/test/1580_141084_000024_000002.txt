@@ -1,0 +1,10 @@
+Pencils	2	1
+,	NA	NA
+too	2	0
+,	NA	NA
+and	0	1
+knives	1	1
+all	1	0
+was	0	1
+satisfactory	1	2
+.	NA	NA

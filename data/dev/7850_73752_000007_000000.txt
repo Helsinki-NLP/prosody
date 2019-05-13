@@ -1,0 +1,17 @@
+In	0	0
+the	0	0
+present	1	0
+unsettled	0	2
+,	NA	NA
+though	2	0
+hopeful	0	1
+state	1	0
+of	0	0
+affairs	1	2
+,	NA	NA
+Ferdinand	2	1
+would	0	0
+not	1	0
+go	0	0
+home	1	2
+.	NA	NA

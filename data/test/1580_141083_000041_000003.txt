@@ -1,0 +1,10 @@
+Above	2	0
+were	0	1
+three	0	0
+students	1	1
+,	NA	NA
+one	0	0
+on	0	1
+each	0	0
+story	2	2
+.	NA	NA

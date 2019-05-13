@@ -1,0 +1,13 @@
+He	0	0
+was	0	1
+nearly	1	2
+expelled	2	0
+over	0	1
+a	0	0
+card	2	1
+scandal	0	0
+in	0	1
+his	0	0
+first	1	0
+year	1	2
+.	NA	NA

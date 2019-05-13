@@ -1,0 +1,16 @@
+Holmes	2	1
+held	1	0
+it	0	0
+out	1	0
+on	0	1
+his	0	0
+open	1	1
+palm	2	0
+in	0	1
+the	0	0
+glare	1	0
+of	0	1
+the	0	0
+electric	0	1
+light	2	2
+.	NA	NA

@@ -1,0 +1,10 @@
+And	0	0
+,	NA	NA
+besides	2	2
+,	NA	NA
+suppose	2	0
+thee	0	0
+does	2	1
+learn	0	0
+medicine	0	2
+?	NA	NA

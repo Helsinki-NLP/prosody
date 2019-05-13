@@ -1,0 +1,12 @@
+Meekin	2	2
+ever	2	0
+softly	2	0
+at	0	1
+his	0	0
+ease	0	0
+was	0	1
+the	0	0
+first	2	1
+to	0	0
+speak	1	2
+.	NA	NA

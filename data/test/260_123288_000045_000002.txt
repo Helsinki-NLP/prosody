@@ -1,0 +1,7 @@
+Are	1	0
+we	0	1
+still	2	0
+under	0	0
+the	0	1
+sea	2	2
+?	NA	NA

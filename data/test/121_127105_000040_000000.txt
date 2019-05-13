@@ -1,0 +1,6 @@
+With	1	0
+this	1	0
+outbreak	1	1
+at	0	0
+last	2	2
+.	NA	NA

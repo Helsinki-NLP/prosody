@@ -1,0 +1,6 @@
+Now	2	1
+,	NA	NA
+be	0	0
+very	2	0
+careful	1	2
+.	NA	NA

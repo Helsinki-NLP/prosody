@@ -1,0 +1,7 @@
+Sweet	2	1
+are	1	0
+the	0	0
+uses	0	1
+of	0	0
+publicity	2	2
+.	NA	NA

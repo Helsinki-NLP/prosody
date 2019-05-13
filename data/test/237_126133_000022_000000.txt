@@ -1,0 +1,3 @@
+Here	1	0
+I'm	2	2
+!	NA	NA

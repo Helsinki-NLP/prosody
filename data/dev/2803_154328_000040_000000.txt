@@ -1,0 +1,8 @@
+Watch	2	0
+the	0	1
+savages	2	1
+outside	2	1
+,	NA	NA
+said	0	0
+Robert	1	2
+.	NA	NA

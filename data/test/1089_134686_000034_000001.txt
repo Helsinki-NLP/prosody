@@ -1,0 +1,11 @@
+Ten	1	0
+thousand	2	1
+souls	1	0
+won	0	1
+for	0	0
+God	2	0
+in	0	0
+a	0	1
+single	1	0
+month	2	2
+!	NA	NA

@@ -1,0 +1,6 @@
+Under	1	0
+such	0	1
+circumstances	0	0
+,	NA	NA
+infinitely	1	2
+!	NA	NA

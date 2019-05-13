@@ -1,0 +1,14 @@
+When	2	0
+the	0	0
+mixture	0	0
+was	1	1
+complete	1	1
+there	1	0
+was	0	1
+scarcely	2	0
+a	0	1
+handful	1	1
+,	NA	NA
+all	0	0
+told	2	2
+.	NA	NA

@@ -1,0 +1,14 @@
+All	2	0
+the	0	1
+night	0	0
+we	0	0
+lay	0	0
+there	1	0
+under	0	0
+the	0	2
+brightest	2	1
+moonlight	1	0
+I	0	1
+ever	1	0
+saw	2	2
+.	NA	NA

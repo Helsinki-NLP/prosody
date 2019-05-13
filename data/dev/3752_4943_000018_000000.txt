@@ -1,0 +1,13 @@
+But	0	0
+Kirkland	2	0
+could	0	1
+do	0	0
+nothing	1	0
+but	0	1
+cry	1	2
+,	NA	NA
+Oh	2	0
+,	0	1
+mr	NA	NA
+North	2	2
+!	NA	NA

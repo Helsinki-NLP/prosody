@@ -1,0 +1,16 @@
+By	0	0
+the	0	0
+time	1	0
+the	0	0
+streets	1	1
+were	0	0
+like	2	1
+so	0	0
+many	0	1
+skating	2	0
+rinks	0	0
+it	0	1
+commenced	2	1
+to	0	0
+snow	2	2
+.	NA	NA

@@ -1,0 +1,14 @@
+A	0	1
+misfortune	2	0
+of	0	0
+birth	2	1
+placed	2	2
+me	0	0
+here	0	0
+and	0	0
+I	0	1
+cannot	1	1
+escape	1	1
+my	0	0
+fate	2	2
+.	NA	NA

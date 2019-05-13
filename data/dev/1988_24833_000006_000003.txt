@@ -1,0 +1,12 @@
+I'm	1	0
+not	2	1
+fixing	1	1
+to	0	0
+start	2	0
+an	0	0
+annex	1	2
+to	0	0
+Kate's	1	1
+cat	2	0
+home	1	2
+!	NA	NA

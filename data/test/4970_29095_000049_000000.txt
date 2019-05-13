@@ -1,0 +1,15 @@
+I	0	0
+want	2	1
+to	0	0
+be	2	0
+something	0	2
+,	NA	NA
+to	0	0
+make	2	0
+myself	0	0
+something	0	1
+,	NA	NA
+to	1	1
+do	2	0
+something	1	2
+.	NA	NA

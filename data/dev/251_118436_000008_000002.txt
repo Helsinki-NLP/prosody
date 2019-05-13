@@ -1,0 +1,10 @@
+Nay	1	2
+,	NA	NA
+he	0	0
+dies	2	1
+and	0	0
+none	0	0
+can	0	0
+say	0	0
+why	2	2
+.	NA	NA

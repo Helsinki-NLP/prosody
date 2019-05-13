@@ -1,0 +1,14 @@
+He	0	1
+had	1	1
+told	2	1
+her	1	0
+of	0	2
+the	0	0
+thing	2	0
+as	1	1
+one	0	0
+tells	0	0
+of	0	0
+a	0	1
+crime	1	2
+.	NA	NA

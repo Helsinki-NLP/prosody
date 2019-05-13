@@ -1,0 +1,9 @@
+Because	2	0
+the	0	1
+thing	1	0
+had	0	1
+been	1	0
+such	1	0
+a	0	2
+scare	2	2
+?	NA	NA

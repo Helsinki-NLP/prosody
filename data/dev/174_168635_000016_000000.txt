@@ -1,0 +1,9 @@
+Some	2	0
+new	0	0
+thing	2	2
+had	0	0
+come	2	1
+into	0	0
+his	0	0
+soul	2	2
+.	NA	NA

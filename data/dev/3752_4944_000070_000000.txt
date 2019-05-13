@@ -1,0 +1,5 @@
+Cancer	1	0
+in	0	1
+the	0	0
+stomach	2	2
+!	NA	NA

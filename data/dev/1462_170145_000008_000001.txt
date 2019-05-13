@@ -1,0 +1,9 @@
+Sit	2	0
+down	0	1
+,	NA	NA
+Hilda	0	1
+;	NA	NA
+you're	0	0
+wet	2	1
+through	1	2
+.	NA	NA

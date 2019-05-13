@@ -1,0 +1,8 @@
+Eighteen	2	0
+of	0	0
+them	0	2
+,	NA	NA
+around	2	0
+a	0	1
+long	1	0
+table	0	2

@@ -1,0 +1,10 @@
+He's	1	0
+a	0	0
+very	1	1
+gentlemanlike	0	0
+fellow	2	2
+and	1	0
+your	0	0
+cousin	2	2
+.	NA	NA
+'	NA	NA

@@ -1,0 +1,13 @@
+Oh	2	0
+that	0	1
+she	0	0
+were	0	0
+once	1	1
+more	1	1
+climbing	1	0
+up	0	2
+the	0	0
+friendly	1	1
+fir	2	1
+pole	1	2
+!	NA	NA

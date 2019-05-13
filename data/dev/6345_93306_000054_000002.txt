@@ -1,0 +1,13 @@
+And	0	0
+he	1	0
+sat	1	0
+there	2	1
+thinking	1	1
+,	NA	NA
+till	0	0
+his	0	1
+mother's	1	1
+voice	1	1
+roused	2	1
+him	1	2
+.	NA	NA

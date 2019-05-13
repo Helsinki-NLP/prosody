@@ -1,0 +1,4 @@
+Ha	1	1
+,	NA	NA
+ha	2	2
+!	NA	NA

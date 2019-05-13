@@ -1,0 +1,11 @@
+I	1	0
+saw	2	0
+them	0	1
+tried	1	0
+at	0	2
+Hobart	2	1
+Town	0	0
+,	NA	NA
+said	0	1
+Meekin	2	2
+.	NA	NA

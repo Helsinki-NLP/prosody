@@ -1,0 +1,8 @@
+This	1	0
+was	0	1
+carried	2	0
+out	1	2
+to	0	0
+the	0	0
+letter	2	2
+.	NA	NA

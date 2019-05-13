@@ -1,0 +1,8 @@
+On	1	0
+Christmas	1	0
+Eve	0	1
+the	0	0
+weather	1	0
+was	0	1
+abominable	2	2
+.	NA	NA

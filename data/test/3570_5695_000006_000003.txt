@@ -1,0 +1,12 @@
+This	2	0
+is	0	1
+especially	2	1
+true	2	0
+during	0	1
+the	0	0
+later	1	1
+,	NA	NA
+peaceable	1	0
+economic	0	1
+stage	2	2
+.	NA	NA

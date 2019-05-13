@@ -1,0 +1,10 @@
+It's	1	0
+delightful	2	1
+to	0	0
+hear	2	0
+it	0	0
+in	0	0
+a	0	1
+London	0	1
+theatre	2	2
+.	NA	NA

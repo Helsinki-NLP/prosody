@@ -1,0 +1,15 @@
+For	0	0
+some	1	0
+reason	0	1
+he	0	0
+felt	1	1
+pleased	2	0
+and	0	2
+flattered	2	0
+by	0	0
+the	0	1
+enthusiasm	2	1
+of	0	0
+the	0	0
+audience	2	2
+.	NA	NA

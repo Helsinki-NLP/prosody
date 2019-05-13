@@ -1,0 +1,8 @@
+A	0	0
+little	2	0
+attack	0	1
+of	0	0
+nerves	2	1
+,	NA	NA
+possibly	2	2
+.	NA	NA

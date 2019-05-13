@@ -1,0 +1,17 @@
+In	0	0
+his	0	0
+table	2	0
+talks	1	1
+the	0	0
+saying	2	0
+is	0	0
+recorded	1	2
+The	0	0
+Epistle	2	1
+to	0	0
+the	0	0
+galatians	0	1
+is	0	0
+my	2	0
+epistle	0	2
+.	NA	NA

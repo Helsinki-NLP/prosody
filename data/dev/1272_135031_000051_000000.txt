@@ -1,0 +1,7 @@
+Do	0	0
+you	0	0
+suppose	2	2
+Ruggedo	2	1
+destroyed	0	0
+them	1	2
+?	NA	NA

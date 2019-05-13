@@ -1,0 +1,16 @@
+At	2	0
+times	2	2
+,	NA	NA
+he	1	0
+reflected	1	0
+with	0	1
+a	0	0
+sort	1	0
+of	0	1
+joy	2	2
+that	2	0
+she	0	0
+would	0	1
+be	0	0
+ugly	2	2
+.	NA	NA

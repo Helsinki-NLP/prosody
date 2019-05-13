@@ -1,0 +1,4 @@
+You	1	1
+ARE	2	1
+acute	0	2
+.	NA	NA

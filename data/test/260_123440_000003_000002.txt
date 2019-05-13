@@ -1,0 +1,8 @@
+And	0	0
+how	2	0
+odd	1	0
+the	0	2
+directions	1	1
+will	0	0
+look	1	2
+!	NA	NA

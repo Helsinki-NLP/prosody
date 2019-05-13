@@ -1,0 +1,8 @@
+The	1	0
+pencil	2	0
+was	0	1
+not	1	0
+an	0	1
+ordinary	1	0
+one	1	2
+.	NA	NA

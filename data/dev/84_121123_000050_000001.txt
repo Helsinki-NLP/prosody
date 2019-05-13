@@ -1,0 +1,12 @@
+Morrel	2	1
+suffered	0	0
+an	0	1
+exclamation	2	0
+of	0	1
+horror	2	0
+and	0	1
+surprise	1	1
+to	0	0
+escape	2	0
+him	0	2
+.	NA	NA

@@ -1,0 +1,5 @@
+Whatever	2	0
+detour	0	0
+master	0	1
+wishes	1	2
+.	NA	NA

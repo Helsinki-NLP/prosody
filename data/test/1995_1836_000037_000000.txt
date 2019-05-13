@@ -1,0 +1,7 @@
+Yes	2	1
+,	NA	NA
+indeed	1	1
+,	NA	NA
+Cresswell	1	0
+agreed	0	2
+.	NA	NA

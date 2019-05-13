@@ -1,0 +1,13 @@
+There	1	0
+are	0	1
+so	2	0
+many	0	0
+people	1	1
+that	0	0
+we	0	0
+can't	1	0
+give	1	0
+them	0	1
+proper	1	1
+attention	2	2
+.	NA	NA

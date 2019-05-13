@@ -1,0 +1,14 @@
+We	0	0
+might	2	0
+get	0	0
+some	0	0
+puppies	1	2
+,	NA	NA
+or	1	0
+owl	2	0
+eggs	0	1
+,	NA	NA
+or	1	0
+snake	1	0
+skins	0	2
+.	NA	NA

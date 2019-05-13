@@ -1,0 +1,8 @@
+Give	0	0
+'em	0	0
+your	0	1
+Greek	1	0
+and	0	2
+study	2	1
+Cotton	2	2
+.	NA	NA

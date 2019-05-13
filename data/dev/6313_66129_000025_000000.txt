@@ -1,0 +1,10 @@
+Yes	2	1
+;	NA	NA
+wild	1	1
+plum	0	0
+jam	1	1
+,	NA	NA
+answered	1	1
+the	0	0
+guide	2	2
+.	NA	NA

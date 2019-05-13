@@ -1,0 +1,8 @@
+He	1	0
+tilted	0	1
+his	0	0
+head	2	2
+to	0	0
+look	0	0
+up	2	2
+.	NA	NA

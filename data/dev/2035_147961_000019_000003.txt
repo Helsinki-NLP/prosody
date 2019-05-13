@@ -1,0 +1,9 @@
+The	0	0
+drivers	2	2
+stood	1	0
+up	0	1
+and	0	0
+lashed	1	1
+their	0	0
+horses	2	2
+.	NA	NA

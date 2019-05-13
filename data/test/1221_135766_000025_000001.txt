@@ -1,0 +1,6 @@
+I	0	0
+have	2	0
+no	0	1
+Heavenly	0	1
+Father	2	2
+!	NA	NA

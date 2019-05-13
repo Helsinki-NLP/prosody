@@ -1,0 +1,6 @@
+You	2	2
+took	1	1
+the	0	0
+thing	1	1
+down	1	2
+?	NA	NA

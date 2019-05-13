@@ -1,0 +1,6 @@
+It's	0	1
+an	0	0
+awful	2	1
+queer	1	0
+world	1	2
+!	NA	NA

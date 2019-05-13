@@ -1,0 +1,13 @@
+Cold	1	1
+water	2	0
+is	0	2
+the	0	0
+most	0	1
+nourishing	1	0
+thing	1	0
+we've	0	1
+touched	2	0
+since	0	1
+last	2	0
+night	1	2
+.	NA	NA

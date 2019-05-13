@@ -1,0 +1,7 @@
+You	0	1
+have	1	0
+given	1	0
+him	0	1
+time	2	1
+enough	2	2
+.	NA	NA

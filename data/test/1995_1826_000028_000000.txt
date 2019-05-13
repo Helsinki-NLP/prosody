@@ -1,0 +1,4 @@
+Goobers	1	1
+?	NA	NA
+uncomprehendingly	0	2
+.	NA	NA

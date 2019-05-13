@@ -1,0 +1,14 @@
+But	1	1
+to	0	0
+disappear	1	0
+like	0	1
+that	2	0
+seems	0	1
+like	0	0
+magic	2	2
+;	NA	NA
+now	0	0
+,	NA	NA
+doesn't	2	0
+it	0	2
+?	NA	NA

@@ -1,0 +1,13 @@
+He	0	0
+was	0	0
+a	0	0
+tall	2	0
+man	0	2
+,	NA	NA
+compactly	2	1
+built	1	1
+,	NA	NA
+and	1	0
+richly	0	0
+clad	2	2
+.	NA	NA

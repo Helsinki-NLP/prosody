@@ -1,0 +1,11 @@
+Nobody	2	0
+but	0	1
+me	0	0
+,	NA	NA
+till	0	0
+now	1	0
+,	NA	NA
+has	0	1
+ever	0	0
+heard	2	2
+.	NA	NA

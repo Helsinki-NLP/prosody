@@ -1,0 +1,9 @@
+It	1	0
+makes	2	0
+a	1	1
+different	1	0
+thing	0	0
+of	0	0
+it	0	1
+altogether	2	2
+.	NA	NA

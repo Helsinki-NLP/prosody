@@ -1,0 +1,10 @@
+Through	1	0
+force	2	0
+of	0	1
+circumstances	2	1
+it	0	0
+has	0	0
+fallen	2	0
+into	0	0
+disuse	1	2
+.	NA	NA

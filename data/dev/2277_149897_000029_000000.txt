@@ -1,0 +1,4 @@
+Hurstwood	2	1
+scowled	1	0
+fiercely	1	2
+.	NA	NA

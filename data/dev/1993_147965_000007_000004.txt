@@ -1,0 +1,13 @@
+The	0	0
+prayers	1	0
+of	0	1
+all	0	0
+good	0	1
+people	0	0
+are	0	0
+good	2	2
+,	NA	NA
+he	0	0
+said	1	1
+quietly	1	2
+.	NA	NA

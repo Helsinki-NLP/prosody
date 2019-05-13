@@ -1,0 +1,16 @@
+Haste	2	2
+,	NA	NA
+lest	2	0
+you	0	1
+damn	2	0
+me	0	1
+to	0	0
+spend	1	1
+eternity	2	1
+as	0	0
+a	1	1
+filthy	1	1
+gaunt	2	0
+of	0	1
+darkness	1	2
+.	NA	NA

@@ -1,0 +1,7 @@
+So	1	0
+I	0	0
+wrote	1	1
+to	0	0
+the	0	1
+advertiser	1	2
+.	NA	NA

@@ -1,0 +1,8 @@
+We	0	0
+cannot	2	0
+be	0	0
+happy	0	1
+without	0	1
+mr	0	0
+Popham	2	2
+.	NA	NA

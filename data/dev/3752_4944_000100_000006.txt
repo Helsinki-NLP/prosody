@@ -1,0 +1,10 @@
+The	0	0
+taste	2	0
+of	0	0
+the	0	0
+liquor	0	1
+maddened	2	1
+him	0	1
+for	0	0
+more	2	2
+.	NA	NA

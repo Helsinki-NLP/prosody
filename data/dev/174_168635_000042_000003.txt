@@ -1,0 +1,11 @@
+The	0	0
+best	2	1
+of	0	0
+us	1	1
+are	0	0
+not	2	0
+exempt	1	1
+from	1	0
+egotistical	0	0
+thoughts	2	2
+.	NA	NA

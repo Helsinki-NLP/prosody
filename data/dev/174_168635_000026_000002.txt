@@ -1,0 +1,14 @@
+Nothing	1	0
+is	0	1
+so	0	0
+charming	2	2
+as	0	0
+the	0	0
+coloring	1	0
+reflection	1	2
+of	1	0
+happiness	2	1
+on	0	0
+a	0	0
+garret	2	2
+.	NA	NA

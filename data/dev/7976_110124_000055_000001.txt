@@ -1,0 +1,6 @@
+You	0	1
+are	2	0
+making	0	1
+it	0	0
+up	1	2
+.	NA	NA

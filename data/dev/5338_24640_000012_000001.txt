@@ -1,0 +1,12 @@
+They	1	0
+take	0	0
+their	1	0
+name	0	1
+from	0	0
+their	0	0
+leader	2	2
+,	NA	NA
+Richard	2	0
+Cameron	1	2
+.	NA	NA
+'	NA	NA

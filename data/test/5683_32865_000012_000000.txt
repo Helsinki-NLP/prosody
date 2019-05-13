@@ -1,0 +1,17 @@
+'Shake	1	0
+hands	0	0
+with	0	1
+your	0	0
+cousin	1	0
+,	NA	NA
+my	0	1
+dear	1	2
+,	NA	NA
+'	NA	NA
+said	1	0
+old	2	0
+Lady	0	1
+Chelford	2	2
+,	NA	NA
+peremptorily	2	2
+.	NA	NA

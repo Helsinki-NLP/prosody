@@ -1,0 +1,9 @@
+I	1	1
+suppose	2	0
+she	0	0
+is	0	1
+as	0	0
+handsome	2	1
+as	0	0
+ever	2	2
+.	NA	NA

@@ -1,0 +1,7 @@
+Why	2	0
+on	0	0
+earth	1	1
+didn't	0	0
+he	0	1
+speak	1	2
+?	NA	NA

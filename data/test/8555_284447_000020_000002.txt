@@ -1,0 +1,15 @@
+These	2	0
+plumes	0	0
+waved	1	1
+gracefully	1	0
+in	0	0
+the	0	0
+air	1	0
+with	0	1
+every	2	0
+mincing	0	0
+step	1	0
+the	0	1
+Princesses	1	0
+took	2	2
+.	NA	NA

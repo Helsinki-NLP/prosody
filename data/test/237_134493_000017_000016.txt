@@ -1,0 +1,13 @@
+They	2	0
+think	0	1
+you're	1	0
+proud	2	1
+because	2	0
+you've	0	1
+been	0	0
+away	1	0
+to	0	1
+school	1	0
+or	0	0
+something	0	2
+.	NA	NA

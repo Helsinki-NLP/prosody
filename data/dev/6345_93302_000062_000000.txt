@@ -1,0 +1,4 @@
+Couldn't	0	1
+help	1	0
+it	1	2
+?	NA	NA

@@ -1,5 +1,4 @@
 import os
-import sys
 import errno
 import numpy as np
 import random
@@ -52,19 +51,16 @@ parser.add_argument('--log_every',
                     default=10)
 parser.add_argument('--learning_rate',
                     type=float,
-                    default=0.00005)
+                    default=0.0001)
 parser.add_argument('--weight_decay',
                     type=float,
                     default=0)
 parser.add_argument('--gpu',
                     type=int,
                     default=0)
-parser.add_argument('--number_of_sents',
-                    type=int,
-                    default=500)
-parser.add_argument('--test_and_dev_split',
+parser.add_argument('--percentage_of_sents',
                     type=float,
-                    default=.1)
+                    default=0.02)
 parser.add_argument("--optimizer",
                     type=str,
                     choices=['rprop',
@@ -130,7 +126,7 @@ def main():
     else:
         raise Exception('Unknown optimization optimizer: "%s"' % config.optimizer)
 
-    train_data, test_data, dev_data, tag_to_index, index_to_tag, vocab_size = prosody_dataset.load_dataset(config)
+    splits, tag_to_index, index_to_tag, vocab_size = prosody_dataset.load_dataset(config)
 
     if config.model == "BertUncased" or config.model == "BertCased":
         model = Bert(device, config, labels=len(tag_to_index))
@@ -144,9 +140,9 @@ def main():
     model.to(device)
     model = nn.DataParallel(model)
 
-    train_dataset = Dataset(train_data, tag_to_index)
-    eval_dataset = Dataset(dev_data, tag_to_index)
-    test_dataset = Dataset(test_data, tag_to_index)
+    train_dataset = Dataset(splits["train"], tag_to_index)
+    eval_dataset = Dataset(splits["dev"], tag_to_index)
+    test_dataset = Dataset(splits["test"], tag_to_index)
 
     train_iter = data.DataLoader(dataset=train_dataset,
                                  batch_size=config.batch_size,
@@ -176,6 +172,7 @@ def main():
     params = sum([p.numel() for p in model.parameters()])
     print('Parameters: {}'.format(params))
 
+    # TODO: implement word embeddings
     if config.word_embedding:
         pretrained_embedding = os.path.join(os.getcwd(),
                                             '.vector_cache/' + config.corpus + '_' + config.word_embedding + '.pt')

@@ -1,0 +1,16 @@
+Their	2	0
+banter	0	0
+was	0	0
+not	1	0
+new	0	0
+to	0	0
+him	1	2
+and	0	0
+now	2	0
+it	0	1
+flattered	2	0
+his	0	1
+mild	2	2
+proud	1	1
+sovereignty	2	2
+.	NA	NA

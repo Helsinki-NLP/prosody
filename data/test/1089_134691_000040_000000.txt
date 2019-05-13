@@ -1,0 +1,6 @@
+He	0	0
+looked	1	0
+northward	1	1
+towards	1	0
+Howth	2	2
+.	NA	NA

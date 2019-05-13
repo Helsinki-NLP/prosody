@@ -1,0 +1,16 @@
+You	0	0
+see	2	2
+,	NA	NA
+loving	2	0
+some	1	1
+one	0	0
+as	0	0
+I	1	0
+love	0	0
+you	0	0
+makes	0	1
+the	0	0
+whole	1	0
+world	0	1
+different	2	2
+.	NA	NA

@@ -1,0 +1,15 @@
+A	1	0
+powerful	2	1
+ruler	0	0
+ought	1	0
+to	0	2
+be	0	0
+rich	2	1
+and	0	0
+to	0	0
+live	1	0
+in	0	0
+a	0	1
+splendid	1	1
+palace	1	2
+.	NA	NA

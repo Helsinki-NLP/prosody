@@ -1,0 +1,6 @@
+I'll	0	1
+go	1	0
+and	0	1
+ask	2	1
+her	2	2
+.	NA	NA

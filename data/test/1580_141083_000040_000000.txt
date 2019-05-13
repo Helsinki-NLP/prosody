@@ -1,0 +1,10 @@
+Well	2	1
+,	NA	NA
+said	0	0
+he	0	2
+,	NA	NA
+let	2	0
+us	0	0
+go	0	0
+round	0	2
+.	NA	NA

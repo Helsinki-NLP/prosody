@@ -1,0 +1,8 @@
+KNOT	2	1
+one	2	0
+point	0	1
+one	0	0
+five	1	1
+miles	1	1
+per	0	0
+hour	2	2

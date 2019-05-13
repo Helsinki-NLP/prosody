@@ -1,0 +1,13 @@
+On	1	0
+this	0	1
+occasion	2	1
+,	NA	NA
+with	0	0
+older	1	0
+and	0	1
+wiser	0	0
+heads	2	2
+,	NA	NA
+he	1	0
+succeeded	2	2
+.	NA	NA

@@ -1,0 +1,12 @@
+When	2	0
+did	0	0
+you	1	2
+first	2	0
+begin	1	0
+to	0	1
+feel	2	0
+like	0	1
+this	0	0
+,	NA	NA
+Bartley	1	2
+?	NA	NA

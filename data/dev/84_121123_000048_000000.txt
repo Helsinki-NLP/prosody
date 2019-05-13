@@ -1,0 +1,12 @@
+But	2	1
+,	NA	NA
+said	0	0
+Morrel	1	1
+,	NA	NA
+the	0	0
+culprit	2	2
+the	0	0
+murderer	2	0
+the	0	0
+assassin	1	2
+.	NA	NA

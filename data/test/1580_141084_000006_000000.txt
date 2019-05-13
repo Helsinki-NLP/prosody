@@ -1,0 +1,14 @@
+It	1	0
+was	0	0
+the	0	0
+Indian	1	2
+,	NA	NA
+whose	0	0
+dark	2	0
+silhouette	1	1
+appeared	0	0
+suddenly	2	0
+upon	1	0
+his	0	1
+blind	1	2
+.	NA	NA

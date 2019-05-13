@@ -1,0 +1,6 @@
+North	2	1
+pursed	1	0
+up	0	1
+his	0	0
+lips	2	2
+.	NA	NA

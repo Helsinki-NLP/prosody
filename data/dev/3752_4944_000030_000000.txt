@@ -1,0 +1,8 @@
+A	0	1
+great	1	1
+rascal	1	1
+,	NA	NA
+put	0	0
+in	0	1
+North	2	2
+.	NA	NA

@@ -1,0 +1,14 @@
+An	2	0
+instant	0	0
+of	0	2
+calm	2	0
+observation	1	1
+served	2	1
+to	0	0
+assure	1	0
+Duncan	1	1
+that	0	0
+he	0	0
+was	0	0
+undiscovered	2	2
+.	NA	NA

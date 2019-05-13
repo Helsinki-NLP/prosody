@@ -1,0 +1,7 @@
+They're	0	1
+quite	2	1
+unusual	1	1
+,	NA	NA
+aren't	0	0
+they	2	2
+?	NA	NA

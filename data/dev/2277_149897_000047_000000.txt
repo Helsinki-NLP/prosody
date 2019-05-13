@@ -1,0 +1,14 @@
+On	2	0
+Wednesday	0	1
+he	0	0
+received	0	0
+another	0	1
+polite	2	0
+note	1	2
+from	0	0
+McGregor	2	0
+,	NA	NA
+james	1	1
+and	0	0
+Hay	2	2
+.	NA	NA

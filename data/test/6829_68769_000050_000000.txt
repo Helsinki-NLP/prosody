@@ -1,0 +1,11 @@
+Her	0	0
+husband	2	1
+didn't	0	0
+tell	2	0
+us	0	1
+that	1	2
+,	NA	NA
+said	1	0
+the	0	1
+girl	2	2
+.	NA	NA

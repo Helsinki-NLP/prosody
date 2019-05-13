@@ -1,0 +1,17 @@
+The	2	0
+wind	0	1
+was	0	0
+flapping	2	1
+her	0	0
+big	0	0
+hat	2	2
+and	2	0
+teasing	0	0
+a	0	0
+curl	1	0
+of	0	1
+her	0	0
+chestnut	2	1
+colored	1	1
+hair	1	2
+.	NA	NA

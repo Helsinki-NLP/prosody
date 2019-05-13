@@ -1,0 +1,14 @@
+In	0	0
+the	0	0
+narrower	2	1
+sphere	1	0
+of	0	2
+vicarious	1	1
+leisure	1	0
+a	0	1
+similar	2	0
+change	1	0
+has	0	1
+gone	0	0
+forward	2	2
+.	NA	NA

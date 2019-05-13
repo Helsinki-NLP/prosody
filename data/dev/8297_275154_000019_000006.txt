@@ -1,0 +1,8 @@
+And	0	0
+,	NA	NA
+once	0	0
+again	0	1
+,	NA	NA
+sit	1	1
+down	2	2
+.	NA	NA

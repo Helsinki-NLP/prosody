@@ -1,0 +1,16 @@
+The	0	1
+burying	2	0
+party	0	0
+the	0	1
+next	0	0
+morning	0	0
+found	0	1
+nineteen	0	0
+dead	1	0
+Rebels	1	2
+lying	2	0
+together	1	0
+at	0	0
+one	0	0
+place	1	2
+.	NA	NA

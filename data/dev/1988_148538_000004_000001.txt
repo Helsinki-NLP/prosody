@@ -1,0 +1,15 @@
+This	2	0
+is	0	0
+more	0	0
+especially	2	0
+the	0	1
+case	0	1
+amongst	1	1
+those	2	0
+free	0	0
+nations	2	2
+which	0	0
+form	1	0
+democratic	0	1
+communities	1	2
+.	NA	NA

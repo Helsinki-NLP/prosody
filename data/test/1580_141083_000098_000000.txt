@@ -1,0 +1,10 @@
+Did	1	0
+you	0	0
+look	1	0
+at	0	0
+these	0	1
+papers	2	1
+on	0	1
+the	0	0
+table	2	2
+?	NA	NA

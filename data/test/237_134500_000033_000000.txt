@@ -1,0 +1,7 @@
+Thank	2	0
+you	0	2
+,	NA	NA
+he	0	0
+returned	1	0
+shortly	1	2
+.	NA	NA

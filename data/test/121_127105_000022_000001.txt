@@ -1,0 +1,9 @@
+You'll	1	0
+easily	0	1
+judge	1	2
+,	NA	NA
+he	0	0
+repeated	2	1
+YOU	1	0
+will	0	2
+.	NA	NA

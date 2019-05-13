@@ -1,0 +1,14 @@
+The	0	0
+very	1	1
+question	2	1
+which	0	0
+Randal	1	0
+had	0	2
+promised	1	0
+to	0	0
+ask	1	0
+in	0	1
+his	0	0
+brother's	1	0
+interests	2	2
+!	NA	NA

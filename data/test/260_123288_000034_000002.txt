@@ -1,0 +1,15 @@
+We	0	0
+cannot	2	0
+even	0	0
+make	0	0
+ourselves	0	1
+heard	2	1
+by	0	2
+approaching	2	0
+our	0	0
+mouth	1	1
+close	2	1
+to	0	0
+the	0	1
+ear	2	2
+.	NA	NA

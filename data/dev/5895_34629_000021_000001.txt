@@ -1,0 +1,5 @@
+That	2	0
+success	1	1
+was	0	0
+prodigious	1	2
+.	NA	NA

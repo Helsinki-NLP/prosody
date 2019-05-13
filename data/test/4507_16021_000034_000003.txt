@@ -1,0 +1,13 @@
+Obscurity	2	1
+in	0	0
+the	0	0
+atmosphere	1	1
+,	NA	NA
+obscurity	2	0
+in	0	1
+acts	1	1
+,	NA	NA
+obscurity	2	1
+in	0	0
+voices	1	2
+.	NA	NA

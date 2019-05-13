@@ -1,0 +1,6 @@
+I	2	0
+must	0	1
+know	0	1
+about	2	0
+you	1	2
+.	NA	NA

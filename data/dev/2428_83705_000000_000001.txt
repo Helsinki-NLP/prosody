@@ -1,0 +1,5 @@
+WHITING	1	2
+AND	0	0
+MARY	1	0
+ANN	0	2
+.	NA	NA

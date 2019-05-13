@@ -1,0 +1,3 @@
+Without	1	0
+milk	1	2
+!	NA	NA

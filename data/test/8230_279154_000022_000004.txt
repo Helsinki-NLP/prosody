@@ -1,0 +1,10 @@
+This	2	0
+distinction	0	0
+is	0	1
+vital	2	2
+to	0	0
+the	1	0
+understanding	0	1
+of	0	0
+memory	1	2
+.	NA	NA

@@ -1,0 +1,9 @@
+What	2	0
+could	0	0
+be	0	0
+the	0	1
+trouble	2	0
+in	0	1
+that	1	2
+quarter	2	2
+?	NA	NA

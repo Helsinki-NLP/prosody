@@ -1,0 +1,3 @@
+ITALIAN	2	0
+RUSKS	0	2
+.	NA	NA

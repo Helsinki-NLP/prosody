@@ -1,0 +1,10 @@
+You	0	0
+don't	2	1
+smoke	2	2
+,	NA	NA
+do	0	0
+you	0	0
+,	0	0
+mr	NA	NA
+Forbes	2	2
+?	NA	NA

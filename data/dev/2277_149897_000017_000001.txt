@@ -1,0 +1,4 @@
+Hurry	1	0
+right	0	1
+back	2	2
+.	NA	NA

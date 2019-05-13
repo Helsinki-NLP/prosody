@@ -1,0 +1,7 @@
+North	2	1
+returned	1	0
+home	2	1
+in	0	0
+great	1	0
+agitation	0	2
+.	NA	NA

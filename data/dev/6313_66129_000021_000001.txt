@@ -1,0 +1,14 @@
+Why	2	0
+,	0	0
+mr	NA	NA
+Thomas	1	1
+,	NA	NA
+where	1	0
+did	0	0
+you	0	1
+get	2	0
+honey	2	1
+?	NA	NA
+asked	1	0
+Walter	2	2
+.	NA	NA

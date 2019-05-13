@@ -1,0 +1,7 @@
+What	2	0
+sort	1	1
+of	0	0
+evidence	2	1
+is	0	0
+there	1	2
+?	NA	NA

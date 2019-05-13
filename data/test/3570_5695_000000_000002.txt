@@ -1,0 +1,16 @@
+In	0	0
+a	0	0
+general	2	0
+way	1	2
+,	NA	NA
+though	0	0
+not	2	1
+wholly	2	0
+nor	0	1
+consistently	0	0
+,	NA	NA
+these	0	0
+two	0	0
+groups	1	1
+coincide	2	2
+.	NA	NA

@@ -1,0 +1,5 @@
+I	0	0
+sounded	2	0
+another	0	1
+peal	2	2
+.	NA	NA

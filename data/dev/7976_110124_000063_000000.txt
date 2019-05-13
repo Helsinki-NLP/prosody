@@ -1,0 +1,14 @@
+Our	2	0
+little	0	1
+sister	1	0
+was	0	1
+wiser	1	0
+than	0	0
+we	0	0
+were	2	2
+,	NA	NA
+said	1	0
+the	0	0
+middle	0	0
+daughter	1	2
+.	NA	NA

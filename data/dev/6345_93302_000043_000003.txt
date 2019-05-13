@@ -1,0 +1,10 @@
+How	2	0
+warm	1	1
+it	0	0
+would	0	0
+have	1	1
+been	1	0
+in	0	2
+the	0	0
+orchard	2	2
+!	NA	NA

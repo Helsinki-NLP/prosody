@@ -1,0 +1,5 @@
+Never	0	0
+mind	1	1
+the	0	0
+map	2	2
+.	NA	NA

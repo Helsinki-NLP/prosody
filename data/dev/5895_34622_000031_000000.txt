@@ -1,0 +1,13 @@
+The	0	0
+caravan	1	0
+was	0	0
+divided	1	0
+into	0	1
+three	0	0
+compartments	2	2
+,	NA	NA
+partitioned	2	1
+from	0	0
+each	0	0
+other	2	2
+.	NA	NA

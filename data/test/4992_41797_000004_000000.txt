@@ -1,0 +1,10 @@
+The	0	1
+Carey	2	0
+children	0	1
+had	1	0
+only	0	0
+found	1	0
+it	0	1
+by	1	0
+accident	1	2
+.	NA	NA

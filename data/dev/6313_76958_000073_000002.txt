@@ -1,0 +1,4 @@
+Take	1	0
+your	0	1
+time	2	2
+.	NA	NA

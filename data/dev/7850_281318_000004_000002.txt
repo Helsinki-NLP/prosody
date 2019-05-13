@@ -1,0 +1,11 @@
+What	2	0
+would	0	1
+they	0	0
+not	2	0
+give	0	1
+for	0	0
+a	0	0
+nest	2	1
+like	1	1
+mine	1	2
+!	NA	NA

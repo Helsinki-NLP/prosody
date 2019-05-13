@@ -1,0 +1,16 @@
+Go	2	2
+!	NA	NA
+do	0	0
+you	0	0
+hear	2	2
+?	NA	NA
+said	0	0
+Villefort	1	1
+,	NA	NA
+while	0	0
+advanced	0	1
+to	0	0
+lead	0	0
+Morrel	0	0
+out	0	2
+.	NA	NA

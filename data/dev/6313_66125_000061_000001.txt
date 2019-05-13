@@ -1,0 +1,15 @@
+As	2	0
+he	0	0
+did	2	0
+so	1	2
+,	NA	NA
+Tad	2	0
+felt	0	0
+himself	1	0
+gradually	0	0
+sinking	0	1
+into	0	0
+the	0	0
+sombre	0	0
+depths	2	2
+.	NA	NA

@@ -1,0 +1,11 @@
+Be	0	0
+it	0	0
+as	2	0
+it	0	1
+may	2	2
+,	NA	NA
+we	0	0
+can	2	0
+face	1	1
+death	2	2
+!	NA	NA

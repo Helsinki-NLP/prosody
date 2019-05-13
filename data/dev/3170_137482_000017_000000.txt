@@ -1,0 +1,5 @@
+Where	2	0
+is	0	1
+my	0	0
+husband	1	2
+?	NA	NA

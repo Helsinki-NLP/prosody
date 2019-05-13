@@ -1,0 +1,14 @@
+However	2	0
+it	0	0
+may	0	0
+have	0	0
+been	1	2
+,	NA	NA
+the	0	0
+manipulation	2	0
+of	0	1
+Gwynplaine	0	2
+had	2	0
+succeeded	0	0
+admirably	2	2
+.	NA	NA

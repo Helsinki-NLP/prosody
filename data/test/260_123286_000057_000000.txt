@@ -1,0 +1,5 @@
+Hans	2	0
+had	0	1
+spoken	1	0
+truly	0	2
+.	NA	NA

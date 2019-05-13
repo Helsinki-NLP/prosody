@@ -1,0 +1,16 @@
+But	2	0
+wisdom	1	0
+came	1	0
+to	0	0
+him	0	2
+just	2	0
+in	0	1
+time	2	2
+,	NA	NA
+and	0	0
+he	0	0
+did	0	0
+not	2	1
+strike	1	0
+home	2	2
+.	NA	NA

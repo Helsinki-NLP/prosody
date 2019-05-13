@@ -1,0 +1,4 @@
+This	1	0
+was	0	1
+allowed	2	2
+.	NA	NA

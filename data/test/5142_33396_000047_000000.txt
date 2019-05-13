@@ -1,0 +1,13 @@
+'Come	2	0
+,	NA	NA
+'	NA	NA
+they	0	1
+cried	0	1
+,	NA	NA
+'thank	2	0
+him	0	0
+for	0	0
+that	0	1
+,	NA	NA
+farmer	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+That	2	0
+is	0	0
+why	0	0
+we	0	1
+cry	0	0
+Education	1	2
+!	NA	NA
+science	2	2
+!	NA	NA

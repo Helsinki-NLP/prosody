@@ -1,0 +1,17 @@
+But	2	1
+do	0	0
+you	2	0
+imagine	1	0
+that	0	1
+sensible	1	0
+children	1	1
+,	NA	NA
+after	0	0
+one	1	0
+such	1	1
+discovery	1	1
+,	NA	NA
+would	0	0
+rest	1	0
+satisfied	2	2
+?	NA	NA

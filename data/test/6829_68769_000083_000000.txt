@@ -1,0 +1,7 @@
+In	1	0
+what	0	1
+way	2	0
+,	0	1
+mr	NA	NA
+Forbes	2	2
+?	NA	NA

@@ -1,0 +1,11 @@
+He	0	0
+could	1	0
+hardly	1	0
+realise	1	2
+how	0	0
+it	0	0
+had	0	0
+all	1	1
+come	0	0
+about	2	2
+.	NA	NA

@@ -1,0 +1,11 @@
+So	1	0
+I	0	1
+set	2	1
+guards	2	1
+over	1	2
+every	1	0
+one	0	0
+in	0	0
+that	0	1
+house	1	2
+.	NA	NA

@@ -1,0 +1,16 @@
+I	1	0
+think	0	0
+I'll	2	0
+ride	1	1
+my	0	0
+own	0	1
+pony	1	0
+and	0	0
+let	1	0
+the	0	1
+dog	1	1
+walk	1	1
+,	NA	NA
+announced	1	1
+Ned	2	2
+.	NA	NA

@@ -1,0 +1,14 @@
+We	0	0
+ought	2	0
+to	0	0
+have	0	1
+seen	0	0
+the	0	0
+lights	2	1
+of	0	0
+Auckland	2	1
+thirty	1	0
+six	0	1
+hours	2	1
+ago	2	2
+.	NA	NA

@@ -1,0 +1,6 @@
+I'll	2	0
+keep	1	0
+it	0	1
+,	NA	NA
+David	2	2
+.	NA	NA

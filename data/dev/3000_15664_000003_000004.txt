@@ -1,0 +1,8 @@
+Only	2	0
+a	0	1
+little	0	0
+food	1	1
+will	0	0
+be	0	1
+required	2	2
+.	NA	NA

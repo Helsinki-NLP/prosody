@@ -1,0 +1,9 @@
+Oh	2	0
+,	NA	NA
+for	0	0
+God's	1	1
+sake	2	1
+,	0	0
+mr	NA	NA
+North	0	2
+!	NA	NA

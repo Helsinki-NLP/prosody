@@ -1,0 +1,12 @@
+Thee	0	0
+has	2	1
+another	0	0
+letter	1	1
+from	0	0
+young	0	1
+Sterling	2	2
+,	NA	NA
+said	0	0
+Eli	1	0
+Bolton	2	2
+.	NA	NA

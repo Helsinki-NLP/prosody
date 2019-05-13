@@ -1,0 +1,9 @@
+Otto	2	1
+Fuchs	0	1
+was	0	0
+the	0	0
+first	2	1
+one	0	0
+we	0	0
+met	1	2
+.	NA	NA

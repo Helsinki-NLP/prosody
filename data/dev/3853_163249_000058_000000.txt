@@ -1,0 +1,11 @@
+I've	1	0
+done	1	0
+it	0	1
+,	NA	NA
+mother	2	2
+tell	2	0
+me	0	0
+you're	0	0
+not	0	1
+sorry	2	2
+.	NA	NA

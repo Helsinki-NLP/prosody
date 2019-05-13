@@ -1,0 +1,11 @@
+Her	0	0
+voice	2	1
+died	2	0
+at	0	2
+the	0	0
+utter	2	1
+vacancy	1	0
+of	0	1
+his	0	0
+face	2	2
+.	NA	NA

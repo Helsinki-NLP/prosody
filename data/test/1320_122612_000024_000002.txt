@@ -1,0 +1,15 @@
+Run	2	0
+back	1	1
+,	NA	NA
+Uncas	0	0
+,	NA	NA
+and	0	1
+bring	1	0
+me	0	0
+the	0	1
+size	2	0
+of	0	1
+the	0	0
+singer's	0	0
+foot	2	2
+.	NA	NA

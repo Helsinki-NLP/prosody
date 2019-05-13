@@ -1,0 +1,7 @@
+There	0	0
+may	2	0
+be	0	1
+something	2	1
+to	0	0
+that	2	2
+.	NA	NA

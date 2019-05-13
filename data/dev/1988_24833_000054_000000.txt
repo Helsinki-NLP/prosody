@@ -1,0 +1,12 @@
+Hilda	2	0
+sits	0	0
+on	0	1
+the	0	0
+sofa	2	2
+,	NA	NA
+where	0	0
+Cat	2	1
+is	0	0
+curled	0	0
+up	1	2
+.	NA	NA

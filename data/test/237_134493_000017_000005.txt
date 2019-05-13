@@ -1,0 +1,7 @@
+Amedee	2	0
+will	0	0
+be	0	1
+a	0	0
+handsome	2	1
+bridegroom	2	2
+.	NA	NA

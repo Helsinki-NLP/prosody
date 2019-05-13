@@ -1,0 +1,10 @@
+She	0	0
+leaned	2	1
+her	0	0
+head	1	0
+against	1	1
+his	0	0
+arm	1	0
+and	0	2
+spoke	2	0
+softly	2	2

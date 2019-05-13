@@ -1,0 +1,12 @@
+We	0	0
+lay	2	0
+there	0	2
+,	NA	NA
+our	1	0
+blood	2	0
+running	0	0
+cold	2	2
+with	0	0
+unspeakable	0	0
+terror	2	2
+.	NA	NA

@@ -1,0 +1,5 @@
+Good	0	0
+man	1	1
+,	NA	NA
+Towser	2	2
+!	NA	NA

@@ -1,0 +1,8 @@
+Well	2	1
+,	NA	NA
+it	1	0
+was	1	0
+not	0	1
+too	0	0
+late	1	2
+.	NA	NA

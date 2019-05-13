@@ -1,0 +1,7 @@
+Where	2	0
+does	0	1
+that	1	1
+door	1	0
+lead	0	1
+to	2	2
+?	NA	NA

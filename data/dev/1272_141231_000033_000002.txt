@@ -1,0 +1,9 @@
+If	0	0
+anything	1	2
+,	NA	NA
+he	0	0
+was	1	1
+pressing	2	1
+the	0	0
+attack	2	2
+.	NA	NA

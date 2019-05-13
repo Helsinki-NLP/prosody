@@ -1,0 +1,8 @@
+No	2	0
+,	NA	NA
+Robert	1	1
+!	NA	NA
+answered	0	0
+Mary	0	0
+Grant	1	2
+.	NA	NA

@@ -1,0 +1,13 @@
+I	0	0
+thought	2	1
+that	0	0
+all	1	0
+this	0	1
+night's	1	1
+work	2	0
+would	0	2
+be	0	0
+my	1	0
+death	1	2
+.	NA	NA
+'	NA	NA

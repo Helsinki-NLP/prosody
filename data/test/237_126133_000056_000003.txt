@@ -1,0 +1,14 @@
+At	2	0
+last	2	1
+he	0	0
+came	0	0
+out	2	0
+of	0	2
+them	0	1
+,	NA	NA
+and	0	0
+wiped	2	0
+his	0	1
+face	0	1
+vigorously	1	2
+.	NA	NA

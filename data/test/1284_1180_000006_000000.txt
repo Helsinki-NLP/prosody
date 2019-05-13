@@ -1,0 +1,5 @@
+Ojo	2	0
+was	0	1
+well	1	0
+pleased	0	2
+.	NA	NA

@@ -1,0 +1,6 @@
+Fine	2	1
+,	NA	NA
+chorused	0	1
+the	0	0
+boys	2	2
+.	NA	NA

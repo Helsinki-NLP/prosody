@@ -1,0 +1,12 @@
+The	0	0
+Latter	2	0
+day	0	0
+Saints	1	2
+were	0	0
+long	2	1
+regarded	1	1
+as	1	0
+a	0	2
+polygamous	1	0
+people	1	2
+.	NA	NA

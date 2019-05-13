@@ -1,0 +1,4 @@
+Again	2	0
+she	0	1
+hesitated	1	2
+.	NA	NA

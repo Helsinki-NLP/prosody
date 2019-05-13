@@ -1,0 +1,12 @@
+Well	2	0
+,	NA	NA
+sir	1	2
+,	NA	NA
+to	0	0
+a	0	0
+certain	1	0
+extent	0	1
+you	0	0
+are	0	0
+right	1	2
+.	NA	NA

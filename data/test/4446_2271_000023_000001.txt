@@ -1,0 +1,8 @@
+But	2	0
+I	0	0
+never	1	1
+thought	1	0
+she'd	0	1
+do	2	1
+anything	1	2
+.	NA	NA

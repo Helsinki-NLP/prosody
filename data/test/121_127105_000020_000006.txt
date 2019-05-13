@@ -1,0 +1,12 @@
+It	0	0
+was	0	0
+long	1	0
+ago	1	2
+,	NA	NA
+and	2	0
+this	0	0
+episode	1	1
+was	0	0
+long	0	0
+before	1	2
+.	NA	NA

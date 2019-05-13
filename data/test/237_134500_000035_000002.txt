@@ -1,0 +1,7 @@
+That's	2	1
+what	1	0
+you	0	0
+miss	1	1
+,	NA	NA
+Marie	1	2
+.	NA	NA

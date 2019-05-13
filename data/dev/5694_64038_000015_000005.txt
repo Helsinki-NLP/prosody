@@ -1,0 +1,12 @@
+I	0	1
+called	2	0
+,	NA	NA
+and	0	1
+called	2	0
+,	NA	NA
+but	0	1
+could	0	0
+get	0	0
+no	1	0
+answer	0	2
+.	NA	NA

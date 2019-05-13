@@ -1,0 +1,11 @@
+Do	0	1
+you	0	0
+not	2	1
+think	2	1
+we	0	0
+shall	0	1
+be	0	0
+merry	1	1
+company	2	2
+?	NA	NA
+'	NA	NA

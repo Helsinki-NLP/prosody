@@ -1,0 +1,8 @@
+The	0	1
+Federal	2	0
+army	0	1
+was	0	0
+concentrating	1	0
+at	0	1
+Nashville	1	2
+.	NA	NA

@@ -1,0 +1,16 @@
+Dearest	1	1
+,	NA	NA
+teach	1	0
+me	0	0
+so	2	0
+To	0	1
+pour	2	0
+out	0	1
+gratitude	1	2
+,	NA	NA
+as	0	0
+thou	2	0
+dost	0	1
+,	NA	NA
+good	2	2
+!	NA	NA

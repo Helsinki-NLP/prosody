@@ -1,0 +1,14 @@
+They	0	1
+seem	1	0
+very	0	0
+ignorant	1	2
+,	NA	NA
+poor	1	0
+things	1	2
+!	NA	NA
+said	2	0
+another	2	0
+,	NA	NA
+in	0	0
+reply	1	2
+.	NA	NA

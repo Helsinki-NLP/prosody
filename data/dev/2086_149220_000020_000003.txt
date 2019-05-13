@@ -1,0 +1,9 @@
+I	0	0
+don't	2	0
+think	0	0
+him	0	1
+improved	2	1
+by	0	0
+your	0	1
+alterations	2	2
+.	NA	NA

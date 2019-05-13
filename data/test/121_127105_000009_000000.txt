@@ -1,0 +1,15 @@
+We	0	0
+say	1	0
+,	NA	NA
+of	0	1
+course	2	2
+,	NA	NA
+somebody	2	0
+exclaimed	1	2
+,	NA	NA
+that	0	0
+they	0	0
+give	1	1
+two	1	0
+turns	1	2
+!	NA	NA

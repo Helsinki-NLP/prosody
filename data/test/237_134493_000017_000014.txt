@@ -1,0 +1,9 @@
+You	0	0
+must	2	1
+dance	1	1
+with	0	0
+all	2	0
+the	0	1
+French	2	0
+girls	1	2
+.	NA	NA

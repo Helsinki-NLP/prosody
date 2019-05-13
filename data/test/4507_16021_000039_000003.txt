@@ -1,0 +1,14 @@
+To	0	0
+burn	1	0
+without	0	0
+ceasing	0	1
+to	0	0
+fly	2	2
+,	NA	NA
+therein	2	0
+lies	0	1
+the	0	0
+marvel	0	0
+of	0	1
+genius	0	2
+.	NA	NA

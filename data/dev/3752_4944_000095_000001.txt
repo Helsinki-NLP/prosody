@@ -1,0 +1,10 @@
+They	0	0
+shall	0	0
+not	2	1
+flog	2	0
+that	0	1
+boy	1	0
+,	NA	NA
+he	0	1
+said	2	2
+.	NA	NA

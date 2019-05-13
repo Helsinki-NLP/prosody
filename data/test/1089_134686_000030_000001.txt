@@ -1,0 +1,15 @@
+Stephen's	2	0
+heart	2	1
+began	1	1
+slowly	2	1
+to	0	0
+fold	2	0
+and	0	1
+fade	2	0
+with	0	1
+fear	2	2
+like	0	0
+a	0	0
+withering	1	1
+flower	2	2
+.	NA	NA

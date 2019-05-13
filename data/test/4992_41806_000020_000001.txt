@@ -1,0 +1,16 @@
+Thou	2	0
+who	0	0
+settest	1	2
+the	0	0
+solitary	1	0
+in	0	0
+families	0	2
+,	NA	NA
+bless	2	0
+the	0	0
+life	1	1
+that	0	0
+is	0	0
+sheltered	0	0
+here	1	2
+.	NA	NA

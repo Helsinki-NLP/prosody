@@ -1,0 +1,16 @@
+Indeed	2	1
+you	0	0
+are	0	0
+not	2	2
+,	NA	NA
+said	2	0
+the	0	0
+other	0	0
+soldier	1	2
+,	NA	NA
+and	2	0
+put	1	0
+his	0	0
+foot	0	0
+forward	1	2
+.	NA	NA

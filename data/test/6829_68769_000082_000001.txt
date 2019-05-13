@@ -1,0 +1,12 @@
+Nevertheless	1	2
+,	NA	NA
+I	2	0
+should	0	0
+like	0	0
+to	0	0
+save	1	0
+him	0	1
+,	NA	NA
+said	1	0
+Kenneth	1	2
+.	NA	NA

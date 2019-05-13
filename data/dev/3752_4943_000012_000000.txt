@@ -1,0 +1,8 @@
+What's	2	1
+the	0	0
+matter	2	1
+here	0	1
+?	NA	NA
+he	0	0
+asked	2	2
+.	NA	NA

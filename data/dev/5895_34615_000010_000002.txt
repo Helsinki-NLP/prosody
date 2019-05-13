@@ -1,0 +1,6 @@
+Had	1	0
+she	0	0
+not	2	0
+been	0	1
+assisted	2	2
+?	NA	NA

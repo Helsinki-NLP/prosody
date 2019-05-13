@@ -1,0 +1,9 @@
+They	1	0
+made	0	0
+a	0	1
+gold	1	0
+ribbon	1	1
+across	2	2
+the	0	0
+prairie	2	2
+.	NA	NA

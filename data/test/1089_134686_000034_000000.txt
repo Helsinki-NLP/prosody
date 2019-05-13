@@ -1,0 +1,10 @@
+He	0	0
+had	2	0
+the	0	1
+faith	2	0
+in	0	1
+him	1	0
+that	0	0
+moves	0	1
+mountains	2	2
+.	NA	NA

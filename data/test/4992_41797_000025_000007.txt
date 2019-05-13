@@ -1,0 +1,14 @@
+There	0	0
+never	0	0
+was	1	0
+anybody	0	0
+needed	0	0
+you	0	1
+so	0	0
+much	1	1
+as	0	0
+she	0	0
+does	2	2
+,	NA	NA
+never	2	2
+.	NA	NA

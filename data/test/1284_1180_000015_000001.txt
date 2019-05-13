@@ -1,0 +1,11 @@
+We	0	0
+have	1	0
+come	2	0
+from	0	0
+a	0	2
+far	1	0
+lonelier	0	1
+place	1	1
+than	0	0
+this	2	2
+.	NA	NA

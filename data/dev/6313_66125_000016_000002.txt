@@ -1,0 +1,6 @@
+Can	0	1
+you	0	0
+make	1	0
+it	0	1
+out	2	2
+?	NA	NA

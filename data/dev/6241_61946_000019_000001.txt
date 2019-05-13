@@ -1,0 +1,11 @@
+The	0	0
+country	2	1
+we	0	0
+had	0	0
+reached	0	1
+was	0	0
+already	2	0
+nearly	0	0
+a	0	1
+desert	2	2
+.	NA	NA

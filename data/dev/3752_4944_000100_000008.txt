@@ -1,0 +1,17 @@
+He	0	0
+saw	2	0
+its	0	1
+amber	1	1
+fluid	0	0
+sparkle	1	2
+.	NA	NA
+He	0	0
+heard	1	0
+it	0	1
+gurgle	2	0
+as	0	0
+he	0	1
+poured	1	0
+it	0	0
+out	1	2
+.	NA	NA

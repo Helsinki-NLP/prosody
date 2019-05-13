@@ -1,0 +1,16 @@
+I	2	0
+,	NA	NA
+too	0	0
+,	NA	NA
+have	0	1
+prepared	2	1
+for	1	0
+it	1	1
+,	NA	NA
+and	1	0
+even	0	1
+spoken	2	0
+to	0	1
+mrs	1	0
+Amory	1	2
+.	NA	NA

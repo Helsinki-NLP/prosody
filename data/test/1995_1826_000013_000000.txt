@@ -1,0 +1,10 @@
+And	0	1
+so	2	1
+,	NA	NA
+howsoever	0	0
+reluctantly	1	2
+,	NA	NA
+she	0	0
+had	0	0
+gone	1	2
+.	NA	NA

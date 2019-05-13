@@ -1,0 +1,11 @@
+This	0	0
+is	0	0
+o	0	0
+k	2	0
+with	0	0
+the	0	1
+school	2	2
+but	2	0
+not	0	0
+with	0	1
+pop	1	2

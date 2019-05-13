@@ -1,0 +1,4 @@
+It's	2	0
+different	0	1
+now	2	2
+.	NA	NA

@@ -1,0 +1,8 @@
+We've	1	0
+tortured	2	1
+each	0	0
+other	1	0
+enough	1	1
+for	0	0
+tonight	2	2
+.	NA	NA

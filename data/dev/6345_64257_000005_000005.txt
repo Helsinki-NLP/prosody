@@ -1,0 +1,14 @@
+At	0	0
+last	2	1
+she	0	0
+fell	0	0
+asleep	1	2
+,	NA	NA
+and	0	0
+in	2	0
+a	0	0
+moment	0	0
+was	0	1
+dreaming	0	0
+diligently	1	2
+.	NA	NA

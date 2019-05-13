@@ -1,0 +1,7 @@
+She	0	0
+was	2	1
+indeed	1	0
+a	0	2
+clever	2	0
+bird	1	2
+!	NA	NA

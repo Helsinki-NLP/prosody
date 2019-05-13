@@ -1,0 +1,6 @@
+During	1	0
+his	0	1
+watch	1	1
+I	2	0
+slept	1	2
+.	NA	NA

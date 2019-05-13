@@ -1,0 +1,6 @@
+But	0	0
+can	1	0
+he	0	1
+understand	2	0
+you	0	2
+?	NA	NA

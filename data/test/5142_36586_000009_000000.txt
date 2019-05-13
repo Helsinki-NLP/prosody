@@ -1,0 +1,14 @@
+Whether	1	0
+external	1	0
+conditions	1	1
+produce	0	2
+any	2	0
+other	0	0
+direct	1	1
+effect	1	0
+on	0	0
+man	1	0
+is	0	1
+not	1	0
+known	2	2
+.	NA	NA

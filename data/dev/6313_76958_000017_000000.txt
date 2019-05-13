@@ -1,0 +1,11 @@
+The	0	0
+pony	2	1
+did	1	0
+most	1	0
+of	0	1
+it	0	0
+,	NA	NA
+admitted	0	1
+the	0	0
+lad	2	2
+.	NA	NA

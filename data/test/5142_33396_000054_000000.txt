@@ -1,0 +1,8 @@
+'I	2	0
+heard	0	0
+a	0	1
+cuckoo	1	0
+to	0	1
+day	1	2
+!	NA	NA
+'	NA	NA

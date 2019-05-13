@@ -1,0 +1,5 @@
+Colonel	2	0
+Kenton	0	0
+writes	0	1
+wisely	2	2
+.	NA	NA

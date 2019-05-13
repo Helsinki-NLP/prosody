@@ -1,0 +1,11 @@
+As	1	0
+how	2	2
+?	NA	NA
+he	1	0
+asked	0	1
+,	NA	NA
+stepping	0	0
+from	0	0
+the	0	0
+frame	1	2
+.	NA	NA

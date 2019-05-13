@@ -1,0 +1,11 @@
+Our	1	0
+scandalous	2	1
+proceedings	1	1
+often	2	1
+exposed	2	0
+us	0	2
+to	0	0
+the	0	0
+greatest	2	0
+danger	1	2
+.	NA	NA

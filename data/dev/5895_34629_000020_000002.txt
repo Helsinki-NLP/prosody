@@ -1,0 +1,9 @@
+Nothing	2	1
+was	0	0
+thought	2	0
+of	0	1
+but	0	0
+the	0	0
+Green	0	0
+Box	1	2
+.	NA	NA

@@ -1,0 +1,5 @@
+TO	0	0
+MAKE	1	2
+DRY	1	0
+TOAST	2	2
+.	NA	NA

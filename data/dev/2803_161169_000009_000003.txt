@@ -1,0 +1,16 @@
+Do	0	0
+you	0	0
+see	2	0
+the	0	1
+delicate	2	1
+tracery	2	0
+of	0	1
+ferns	2	2
+,	NA	NA
+more	1	1
+beautiful	1	0
+than	0	0
+the	0	1
+fairest	1	1
+drawing	2	2
+.	NA	NA

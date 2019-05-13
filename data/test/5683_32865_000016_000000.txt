@@ -1,0 +1,10 @@
+'Now	0	1
+,	NA	NA
+here's	2	0
+a	0	1
+thing	1	0
+worth	1	2
+your	2	0
+looking	0	0
+at	0	2
+!	NA	NA

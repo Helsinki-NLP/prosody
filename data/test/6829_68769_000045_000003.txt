@@ -1,0 +1,7 @@
+I	2	0
+don't	0	1
+say	1	0
+I	0	1
+did	0	0
+right	1	2
+.	NA	NA

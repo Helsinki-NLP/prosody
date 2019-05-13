@@ -1,0 +1,5 @@
+Athenais	1	1
+began	2	1
+to	0	0
+laugh	2	2
+.	NA	NA

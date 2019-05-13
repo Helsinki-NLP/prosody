@@ -1,0 +1,15 @@
+The	0	0
+youngest	2	0
+one	0	0
+was	0	1
+so	1	0
+frightened	2	2
+that	0	0
+she	1	0
+could	0	0
+not	0	0
+sleep	1	0
+a	0	1
+single	1	0
+wink	0	2
+.	NA	NA

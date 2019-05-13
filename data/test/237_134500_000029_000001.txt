@@ -1,0 +1,11 @@
+Alexandra	2	1
+can	0	0
+run	0	2
+the	0	0
+farm	2	1
+all	0	0
+right	0	0
+,	NA	NA
+without	1	0
+me	1	2
+.	NA	NA

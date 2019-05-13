@@ -1,0 +1,6 @@
+Walter	2	0
+Perkins	2	1
+won	0	0
+the	0	0
+heat	1	2
+.	NA	NA

@@ -1,0 +1,8 @@
+I	0	0
+went	1	1
+inside	2	2
+;	NA	NA
+it	1	0
+was	0	0
+time	2	2
+.	NA	NA

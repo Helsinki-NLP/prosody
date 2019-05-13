@@ -1,0 +1,6 @@
+That	2	0
+was	0	0
+all	0	0
+she	0	1
+said	2	2
+.	NA	NA

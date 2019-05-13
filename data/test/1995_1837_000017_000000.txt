@@ -1,0 +1,10 @@
+Miss	0	0
+Smith	2	1
+!	NA	NA
+he	0	0
+gasped	1	1
+,	NA	NA
+and	0	0
+then	2	1
+darkness	1	2
+.	NA	NA

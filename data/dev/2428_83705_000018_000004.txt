@@ -1,0 +1,8 @@
+The	0	0
+matter	2	0
+was	0	1
+talked	2	1
+about	1	0
+at	0	1
+dinner	2	2
+.	NA	NA

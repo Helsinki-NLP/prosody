@@ -1,0 +1,8 @@
+This	2	0
+sent	1	0
+a	0	1
+pang	2	1
+through	0	0
+his	0	1
+heart	2	2
+.	NA	NA

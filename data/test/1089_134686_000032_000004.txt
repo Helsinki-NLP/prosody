@@ -1,0 +1,14 @@
+He	0	0
+is	0	1
+called	2	0
+,	NA	NA
+as	0	1
+you	0	0
+know	2	2
+,	NA	NA
+the	1	1
+apostle	2	0
+of	0	0
+the	0	0
+Indies	1	2
+.	NA	NA

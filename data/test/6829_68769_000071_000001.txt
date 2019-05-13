@@ -1,0 +1,17 @@
+Forbes	2	0
+,	NA	NA
+of	0	1
+Elmhurst	2	2
+?	NA	NA
+he	2	0
+asked	0	2
+,	NA	NA
+glancing	2	1
+at	0	0
+the	0	0
+card	1	1
+Kenneth	0	0
+had	0	1
+sent	1	0
+in	2	2
+.	NA	NA

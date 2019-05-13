@@ -1,0 +1,16 @@
+Where	1	0
+he	0	0
+is	0	0
+every	0	0
+day	2	2
+,	NA	NA
+about	1	0
+this	0	0
+time	2	2
+out	2	1
+driving	2	0
+with	0	1
+Catherine	1	1
+and	0	0
+Kitty	1	2
+.	NA	NA

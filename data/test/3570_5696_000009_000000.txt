@@ -1,0 +1,14 @@
+The	0	0
+use	2	0
+of	0	1
+the	0	0
+term	1	1
+waste	2	2
+is	0	0
+in	0	0
+one	1	0
+respect	0	0
+an	0	1
+unfortunate	2	0
+one	1	2
+.	NA	NA

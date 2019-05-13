@@ -1,0 +1,15 @@
+Subsequent	2	1
+experiences	1	1
+with	0	0
+rattlesnakes	0	1
+taught	2	0
+me	0	0
+that	0	1
+my	0	0
+first	1	0
+encounter	0	1
+was	0	0
+fortunate	2	1
+in	0	0
+circumstance	2	2
+.	NA	NA

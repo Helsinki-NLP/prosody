@@ -1,0 +1,5 @@
+It's	2	0
+a	0	1
+tough	2	1
+job	1	2
+.	NA	NA

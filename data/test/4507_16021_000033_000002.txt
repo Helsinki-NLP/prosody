@@ -1,0 +1,17 @@
+It	2	1
+is	0	0
+slang	2	1
+.	NA	NA
+The	0	0
+words	2	0
+are	0	1
+misshapen	2	0
+and	0	1
+stamped	2	0
+with	0	1
+an	0	0
+indescribable	1	0
+and	0	0
+fantastic	2	1
+bestiality	2	2
+.	NA	NA

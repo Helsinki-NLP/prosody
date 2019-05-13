@@ -1,0 +1,12 @@
+The	0	0
+soft	2	1
+black	2	0
+earth	0	2
+stood	0	0
+out	2	0
+in	0	1
+patches	1	0
+along	0	0
+the	0	1
+roadsides	2	2
+.	NA	NA

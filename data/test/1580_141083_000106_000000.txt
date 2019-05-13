@@ -1,0 +1,8 @@
+Anyone	2	0
+in	0	0
+the	0	1
+room	0	0
+could	0	1
+get	0	0
+out	2	2
+?	NA	NA

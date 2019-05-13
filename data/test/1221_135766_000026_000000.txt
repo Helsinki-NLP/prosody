@@ -1,0 +1,6 @@
+Hush	1	0
+,	NA	NA
+Pearl	0	1
+,	NA	NA
+hush	2	2
+!	NA	NA

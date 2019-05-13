@@ -1,0 +1,5 @@
+Glenarvan	2	1
+struck	0	0
+his	0	0
+forehead	2	2
+.	NA	NA

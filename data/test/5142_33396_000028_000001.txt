@@ -1,0 +1,17 @@
+It	0	0
+was	0	1
+so	2	0
+dark	1	1
+that	0	0
+I	0	0
+could	0	1
+see	0	0
+nothing	1	0
+but	0	0
+a	0	1
+few	0	0
+sparks	1	0
+on	0	0
+the	0	1
+hearth	2	2
+.	NA	NA

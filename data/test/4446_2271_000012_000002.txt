@@ -1,0 +1,15 @@
+Dear	2	0
+me	0	0
+,	NA	NA
+Mac	1	1
+,	NA	NA
+the	0	0
+girl	1	0
+couldn't	0	1
+possibly	2	1
+be	0	0
+better	2	0
+,	NA	NA
+you	0	1
+know	1	2
+.	NA	NA

@@ -1,0 +1,8 @@
+Oh	2	0
+,	NA	NA
+God	1	0
+,	NA	NA
+give	0	1
+me	0	0
+strength	2	2
+!	NA	NA

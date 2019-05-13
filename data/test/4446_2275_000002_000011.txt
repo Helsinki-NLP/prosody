@@ -1,0 +1,10 @@
+I	2	0
+never	2	0
+dreamed	1	0
+it	0	0
+would	0	2
+be	0	0
+you	1	0
+,	NA	NA
+Bartley	1	2
+.	NA	NA

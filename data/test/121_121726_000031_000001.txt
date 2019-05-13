@@ -1,0 +1,5 @@
+The	0	0
+Scottish	1	1
+National	1	0
+Hymn	2	2
+.	NA	NA

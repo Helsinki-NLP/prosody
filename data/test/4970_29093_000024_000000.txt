@@ -1,0 +1,6 @@
+Well	1	1
+,	NA	NA
+make	1	0
+it	0	1
+that	2	2
+.	NA	NA

@@ -1,0 +1,11 @@
+Am	0	0
+I	2	0
+really	0	0
+to	0	1
+understand	1	1
+,	0	0
+mrs	2	1
+Presty	NA	NA
+,	NA	NA
+that	1	1
+Catherine	2	2

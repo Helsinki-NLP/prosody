@@ -1,0 +1,13 @@
+The	0	0
+death	2	0
+of	0	0
+Theophilus	2	2
+expanded	1	0
+and	0	0
+realized	1	1
+the	0	0
+hopes	1	0
+of	0	1
+his	0	0
+nephew	1	2
+.	NA	NA

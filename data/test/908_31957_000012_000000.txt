@@ -1,0 +1,2 @@
+thirty	0	0
+six	2	2

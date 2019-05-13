@@ -1,0 +1,10 @@
+My	0	0
+uncle	0	0
+notices	0	0
+it	0	2
+,	NA	NA
+and	0	0
+looks	2	0
+on	1	1
+approvingly	1	2
+.	NA	NA

@@ -1,0 +1,4 @@
+The	0	1
+Savage	2	1
+Philosopher	1	2
+.	NA	NA

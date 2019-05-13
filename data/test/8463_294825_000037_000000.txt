@@ -1,0 +1,7 @@
+one	1	0
+hundred	1	0
+degrees	0	1
+centigrade	2	1
+equals	0	0
+boiling	2	0
+water	1	2

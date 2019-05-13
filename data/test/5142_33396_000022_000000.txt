@@ -1,0 +1,7 @@
+So	0	0
+we	0	1
+set	2	0
+off	0	1
+for	1	0
+it	0	2
+.	NA	NA

@@ -1,0 +1,16 @@
+Repent	2	1
+;	NA	NA
+be	0	0
+wise	2	1
+!	NA	NA
+Man	1	0
+fights	2	1
+but	0	0
+ill	1	0
+with	0	1
+Him	0	0
+who	0	0
+rules	0	0
+the	0	1
+skies	2	2
+.	NA	NA

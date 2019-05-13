@@ -1,0 +1,7 @@
+You've	0	0
+only	2	0
+to	0	2
+tell	1	0
+me	0	0
+now	2	2
+.	NA	NA

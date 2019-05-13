@@ -1,0 +1,16 @@
+His	0	0
+face	2	0
+was	0	0
+of	0	1
+a	0	0
+greenish	2	0
+tint	1	2
+,	NA	NA
+and	2	0
+wore	1	0
+an	0	1
+expression	2	0
+of	0	1
+bewildered	2	1
+horror	2	2
+.	NA	NA

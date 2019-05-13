@@ -1,0 +1,12 @@
+That	2	1
+incorrigible	1	0
+old	0	1
+woman	0	0
+treated	1	0
+him	0	0
+with	0	2
+affectionate	2	1
+familiarity	1	1
+in	0	0
+return	2	2
+.	NA	NA

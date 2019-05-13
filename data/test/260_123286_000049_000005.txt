@@ -1,0 +1,6 @@
+He	0	0
+shakes	2	1
+his	0	0
+head	1	1
+negatively	1	2
+.	NA	NA

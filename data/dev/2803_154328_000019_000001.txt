@@ -1,0 +1,8 @@
+Thick	1	0
+darkness	2	1
+had	0	0
+settled	2	0
+on	0	0
+the	0	0
+mountain	1	2
+.	NA	NA

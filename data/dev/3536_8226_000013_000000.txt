@@ -1,0 +1,14 @@
+It	0	0
+ain't	2	1
+to	0	0
+be	0	0
+done	1	0
+anyways	0	2
+;	NA	NA
+not	2	0
+in	0	1
+my	2	0
+way	0	0
+of	0	1
+business	1	2
+.	NA	NA

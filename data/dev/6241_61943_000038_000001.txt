@@ -1,0 +1,15 @@
+Though	0	0
+not	2	0
+very	0	0
+large	1	2
+,	NA	NA
+it	1	0
+appeared	1	0
+not	0	0
+likely	1	0
+to	0	1
+be	0	0
+filled	1	1
+for	0	0
+centuries	1	2
+.	NA	NA

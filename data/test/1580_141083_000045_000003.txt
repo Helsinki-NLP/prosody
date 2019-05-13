@@ -1,0 +1,3 @@
+Which	0	1
+chair	2	2
+?	NA	NA

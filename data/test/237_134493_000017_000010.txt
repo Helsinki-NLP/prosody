@@ -1,0 +1,14 @@
+All	2	0
+Angelique's	0	1
+folks	2	1
+are	0	0
+baking	2	0
+for	0	0
+it	0	1
+,	NA	NA
+and	0	0
+all	2	0
+Amedee's	0	1
+twenty	1	0
+cousins	2	2
+.	NA	NA

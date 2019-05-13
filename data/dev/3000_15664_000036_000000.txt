@@ -1,0 +1,13 @@
+The	0	0
+volcanic	2	0
+region	0	1
+about	1	0
+Lassen's	1	1
+Butte	0	1
+I	1	0
+have	0	0
+already	2	0
+in	0	1
+part	1	0
+described	2	2
+.	NA	NA

@@ -1,0 +1,9 @@
+Free	2	0
+thinkers	0	2
+,	NA	NA
+replied	2	1
+the	0	0
+young	0	0
+woman	0	0
+laconically	1	2
+.	NA	NA

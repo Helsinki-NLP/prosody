@@ -1,0 +1,9 @@
+We	1	0
+can	0	0
+be	0	1
+perfectly	1	1
+frank	2	2
+with	0	0
+each	2	0
+other	1	2
+.	NA	NA

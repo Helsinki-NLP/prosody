@@ -1,0 +1,10 @@
+You	0	0
+know	2	2
+my	2	0
+uncle	0	0
+is	0	0
+a	0	1
+great	1	0
+railroad	0	0
+man	1	2
+.	NA	NA

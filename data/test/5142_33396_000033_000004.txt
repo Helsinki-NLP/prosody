@@ -1,0 +1,14 @@
+On	1	0
+a	0	1
+bench	2	0
+in	0	1
+a	0	0
+far	2	1
+corner	1	0
+were	0	0
+a	0	2
+dozen	2	0
+people	1	1
+huddled	0	1
+together	2	2
+.	NA	NA

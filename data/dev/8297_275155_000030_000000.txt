@@ -1,0 +1,10 @@
+Catherine	0	0
+submits	0	1
+to	0	0
+circumstances	2	2
+,	NA	NA
+like	2	0
+a	0	0
+sensible	1	0
+woman	1	2
+.	NA	NA

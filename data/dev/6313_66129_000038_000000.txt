@@ -1,0 +1,9 @@
+I	2	0
+reckon	0	1
+there	0	0
+are	1	1
+,	NA	NA
+smiled	1	2
+the	0	0
+guide	2	2
+.	NA	NA

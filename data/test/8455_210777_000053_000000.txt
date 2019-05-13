@@ -1,0 +1,17 @@
+Lieutenant	2	0
+Crosstrees	1	2
+has	1	0
+sealed	1	0
+orders	2	2
+,	NA	NA
+and	0	0
+is	0	0
+practically	2	0
+acquainted	1	0
+with	0	1
+the	0	0
+mechanism	1	1
+of	0	0
+the	0	0
+gun	2	2
+.	NA	NA

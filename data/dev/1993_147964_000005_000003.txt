@@ -1,0 +1,15 @@
+She	0	0
+cut	1	1
+squares	1	0
+of	0	1
+cotton	1	0
+cloth	1	2
+and	1	0
+we	0	0
+sewed	2	0
+them	0	1
+together	1	1
+into	0	0
+a	0	0
+book	2	2
+.	NA	NA

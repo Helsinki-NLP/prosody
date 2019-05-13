@@ -1,0 +1,15 @@
+But	0	0
+the	0	0
+actual	2	0
+course	1	0
+of	0	2
+development	2	1
+has	0	0
+been	1	0
+somewhat	0	0
+different	1	1
+from	0	0
+this	0	0
+ideal	0	0
+scheme	2	2
+.	NA	NA

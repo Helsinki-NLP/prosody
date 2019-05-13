@@ -1,0 +1,5 @@
+David	2	1
+Sterlin'	1	0
+has	0	0
+enlisted	1	2
+!	NA	NA

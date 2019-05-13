@@ -1,0 +1,13 @@
+At	0	0
+last	2	1
+I	0	0
+write	0	0
+down	0	0
+the	0	0
+words	1	2
+Let	1	0
+us	0	0
+lower	1	0
+the	0	1
+sail	1	2
+.	NA	NA

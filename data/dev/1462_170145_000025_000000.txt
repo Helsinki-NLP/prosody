@@ -1,0 +1,4 @@
+Alexander	1	1
+flushed	0	0
+angrily	2	2
+.	NA	NA

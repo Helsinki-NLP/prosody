@@ -1,0 +1,9 @@
+Have	0	0
+you	0	0
+been	0	0
+in	2	0
+it	0	2
+since	0	0
+your	1	1
+adventure	2	2
+?	NA	NA

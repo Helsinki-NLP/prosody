@@ -1,0 +1,6 @@
+Pop	1	0
+goes	2	0
+to	0	2
+the	0	0
+door	2	2
+.	NA	NA

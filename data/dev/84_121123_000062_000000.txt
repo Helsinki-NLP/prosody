@@ -1,0 +1,7 @@
+I	2	0
+only	0	0
+wish	0	1
+to	0	0
+be	0	0
+alone	1	2
+.	NA	NA

@@ -1,0 +1,7 @@
+Doesn't	1	1
+pay	0	0
+enough	2	1
+?	NA	NA
+Pop	0	0
+asks	2	2
+.	NA	NA

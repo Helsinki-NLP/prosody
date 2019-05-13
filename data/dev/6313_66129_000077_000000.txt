@@ -1,0 +1,8 @@
+I	2	0
+will	1	1
+,	NA	NA
+replied	0	0
+Chunky	0	1
+,	NA	NA
+confidently	2	2
+.	NA	NA

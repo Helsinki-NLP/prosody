@@ -1,0 +1,17 @@
+When	2	0
+Hurstwood	1	1
+got	2	0
+back	1	0
+to	0	2
+his	0	0
+office	1	0
+again	0	1
+he	0	0
+was	1	0
+in	0	0
+a	0	1
+greater	2	1
+quandary	1	1
+than	0	0
+ever	2	2
+.	NA	NA

@@ -1,0 +1,11 @@
+I	0	0
+have	0	0
+been	0	0
+on	0	0
+a	0	1
+far	1	0
+journey	0	2
+and	1	0
+I	0	0
+understand	1	2
+.	NA	NA

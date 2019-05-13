@@ -1,0 +1,8 @@
+And	0	0
+all	1	0
+work	1	1
+had	0	0
+ceased	2	1
+with	0	0
+him	1	2
+.	NA	NA

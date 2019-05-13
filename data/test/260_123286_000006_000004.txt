@@ -1,0 +1,10 @@
+Is	0	0
+not	2	0
+the	0	0
+raft	2	1
+spinning	1	0
+along	0	0
+with	0	2
+marvellous	2	1
+speed	1	2
+?	NA	NA

@@ -1,0 +1,5 @@
+It	1	0
+was	0	1
+no	1	1
+go	2	2
+.	NA	NA

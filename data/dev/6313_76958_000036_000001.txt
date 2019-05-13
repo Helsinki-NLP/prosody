@@ -1,0 +1,10 @@
+Do	0	0
+you	0	0
+want	1	1
+to	0	0
+wake	2	0
+up	0	1
+the	0	0
+whole	1	1
+outfit	2	2
+?	NA	NA

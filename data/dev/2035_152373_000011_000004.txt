@@ -1,0 +1,17 @@
+The	0	0
+tribute	0	0
+was	2	0
+,	NA	NA
+at	0	0
+this	0	1
+period	1	1
+,	NA	NA
+enormous	1	2
+;	NA	NA
+fifteen	1	0
+thousand	1	0
+head	0	0
+of	0	1
+cattle	0	0
+annually	1	2
+.	NA	NA

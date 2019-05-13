@@ -1,0 +1,4 @@
+He	1	0
+is	1	1
+dead	2	2
+.	NA	NA

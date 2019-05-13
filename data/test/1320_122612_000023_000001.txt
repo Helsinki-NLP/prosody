@@ -1,0 +1,7 @@
+Not	2	0
+a	0	0
+leaf	1	1
+was	0	0
+left	1	1
+unturned	1	2
+.	NA	NA

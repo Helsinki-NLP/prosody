@@ -1,0 +1,6 @@
+No	2	1
+!	NA	NA
+I'm	1	0
+not	0	0
+faint	0	2
+.	NA	NA

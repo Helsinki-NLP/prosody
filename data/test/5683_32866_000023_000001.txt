@@ -1,0 +1,8 @@
+Something	2	1
+may	0	0
+be	0	0
+made	0	0
+of	0	1
+Mark	1	1
+Wylder	2	2
+.	NA	NA

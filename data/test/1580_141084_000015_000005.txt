@@ -1,0 +1,6 @@
+The	0	1
+situation	2	0
+must	0	1
+be	0	0
+faced	2	2
+.	NA	NA

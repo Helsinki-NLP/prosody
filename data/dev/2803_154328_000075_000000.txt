@@ -1,0 +1,9 @@
+john	2	0
+signaled	1	1
+to	0	0
+Glenarvan	2	2
+to	0	0
+resume	1	0
+his	0	0
+descent	2	2
+.	NA	NA

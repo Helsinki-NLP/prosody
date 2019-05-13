@@ -1,0 +1,7 @@
+Such	2	0
+an	0	1
+assurance	2	1
+was	0	0
+most	1	0
+satisfactory	2	2
+.	NA	NA

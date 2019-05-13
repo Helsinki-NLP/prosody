@@ -1,0 +1,15 @@
+I	0	0
+did	1	0
+not	0	0
+know	1	0
+that	0	0
+my	0	1
+cousin	0	0
+Hepzibah's	0	1
+garden	2	2
+was	0	0
+under	0	0
+another	0	0
+person's	2	1
+care	2	2
+.	NA	NA

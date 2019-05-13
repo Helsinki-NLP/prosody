@@ -1,0 +1,12 @@
+The	0	1
+parliament	2	2
+and	1	0
+the	0	0
+Scots	1	1
+laid	1	0
+their	0	1
+proposals	2	1
+before	1	0
+the	0	0
+king	2	2
+.	NA	NA

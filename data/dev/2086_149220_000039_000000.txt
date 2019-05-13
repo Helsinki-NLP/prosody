@@ -1,0 +1,8 @@
+What	2	0
+an	0	1
+instrument	1	1
+is	0	0
+the	0	0
+human	0	1
+voice	2	2
+!	NA	NA

@@ -1,0 +1,15 @@
+But	0	0
+it	1	0
+was	0	0
+not	1	0
+so	2	0
+easy	0	1
+to	0	0
+overlook	2	1
+or	0	0
+to	0	1
+excuse	2	1
+national	0	0
+bad	1	1
+faith	2	2
+.	NA	NA

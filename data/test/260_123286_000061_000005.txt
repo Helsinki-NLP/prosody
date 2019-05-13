@@ -1,0 +1,6 @@
+The	0	1
+spray	2	0
+almost	0	1
+blinds	1	0
+us	1	2
+.	NA	NA

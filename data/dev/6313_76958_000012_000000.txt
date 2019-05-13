@@ -1,0 +1,14 @@
+Bob	2	0
+thinks	0	1
+it	0	0
+might	1	0
+stampede	1	1
+the	0	0
+herd	2	1
+,	NA	NA
+spoke	1	0
+up	0	0
+Big	1	1
+foot	0	0
+Sanders	1	2
+.	NA	NA

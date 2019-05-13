@@ -1,0 +1,8 @@
+No	0	0
+references	1	1
+were	0	0
+offered	0	1
+or	1	0
+asked	0	1
+for	1	2
+.	NA	NA

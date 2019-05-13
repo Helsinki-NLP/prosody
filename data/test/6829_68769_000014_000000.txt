@@ -1,0 +1,10 @@
+We	2	0
+wish	0	1
+to	0	0
+talk	2	1
+with	0	0
+him	1	2
+,	NA	NA
+answered	2	0
+Kenneth	1	2
+.	NA	NA
