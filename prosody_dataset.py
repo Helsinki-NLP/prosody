@@ -60,8 +60,13 @@ def load_dataset(config):
                 sent = []
                 for line in lines:
                     split_line = line.split('\t')
-                    sent.append((split_line[0], split_line[1]))
-                    vocab.append(split_line[0])
+                    if not config.punctuation:
+                        if split_line[1] != 'NA':
+                            sent.append((split_line[0], split_line[1]))
+                            vocab.append(split_line[0])
+                    else:
+                        sent.append((split_line[0], split_line[1]))
+                        vocab.append(split_line[0])
                 tagged_sents.append(sent)
         slice = len(tagged_sents) * config.fraction_of_sentences
         tagged_sents = tagged_sents[0:int(slice)]

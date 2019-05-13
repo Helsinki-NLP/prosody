@@ -12,7 +12,7 @@ class Bert(nn.Module):
         else:
             self.bert = BertModel.from_pretrained('bert-base-uncased')
 
-        self.fc = nn.Linear(768, labels)
+        self.fc = nn.Linear(768, labels).to(device)
         self.device = device
 
     def forward(self, x, y):
@@ -30,7 +30,7 @@ class Bert(nn.Module):
                 encoded_layers, _ = self.bert(x)
                 enc = encoded_layers[-1]
 
-        logits = self.fc(enc)
+        logits = self.fc(enc).to(self.device)
         y_hat = logits.argmax(-1)
         return logits, y, y_hat
 

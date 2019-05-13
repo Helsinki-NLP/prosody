@@ -22,7 +22,7 @@ parser.add_argument('--batch_size',
                     default=16)
 parser.add_argument('--epochs',
                     type=int,
-                    default=3)
+                    default=5)
 parser.add_argument('--model',
                     type=str,
                     choices=['BertUncased',
@@ -57,10 +57,11 @@ parser.add_argument('--weight_decay',
                     default=0)
 parser.add_argument('--gpu',
                     type=int,
-                    default=0)
+                    default=None)
 parser.add_argument('--fraction_of_sentences',
                     type=float,
-                    default=1)
+                    default=0.01
+                    )
 parser.add_argument("--optimizer",
                     type=str,
                     choices=['rprop',
@@ -72,6 +73,9 @@ parser.add_argument("--optimizer",
                              'adam',
                              'sgd'],
                     default='adam')
+parser.add_argument('--ignore_punctuation',
+                    action='store_false',
+                    dest='punctuation')
 parser.add_argument('--seed',
                     type=int,
                     default=1234)
@@ -96,13 +100,14 @@ def main():
     torch.manual_seed(config.seed)
     random.seed(config.seed)
 
-    if torch.cuda.is_available():
+    if config.gpu is not None:
         torch.cuda.set_device(config.gpu)
         device = torch.device('cuda:{}'.format(config.gpu))
         torch.cuda.manual_seed(config.seed)
-        print("\nTraining on GPU[{}]".format(config.gpu))
+        print("\nTraining on GPU[{}] (torch.device({})).".format(config.gpu, device))
     else:
-        print("GPU not available. Training on CPU.")
+        device = torch.device('cpu')
+        print("GPU not available so training on CPU (torch.device({})).".format(device))
         device = 'cpu'
 
 
@@ -138,7 +143,7 @@ def main():
         raise NotImplementedError("Model option not supported.")
 
     model.to(device)
-    model = nn.DataParallel(model)
+    #model = nn.DataParallel(model)
 
     train_dataset = Dataset(splits["train"], tag_to_index)
     eval_dataset = Dataset(splits["dev"], tag_to_index)
@@ -192,17 +197,19 @@ def main():
     print('\nTraining started...\n')
     for epoch in range(config.epochs):
         print("Epoch: {}".format(epoch+1))
-        train(model, train_iter, optimizer, criterion, config)
-        valid(model, dev_iter, criterion, tag_to_index, index_to_tag, config)
+        train(model, train_iter, optimizer, criterion, device, config)
+        valid(model, dev_iter, criterion, tag_to_index, index_to_tag, device, config)
 
-    test(model, test_iter, criterion, tag_to_index, index_to_tag, config)
+    test(model, test_iter, criterion, tag_to_index, index_to_tag, device, config)
 
 
-def train(model, iterator, optimizer, criterion, config):
+def train(model, iterator, optimizer, criterion, device, config):
     model.train()
     for i, batch in enumerate(iterator):
         words, x, is_main_piece, tags, y, seqlens = batch
         optimizer.zero_grad()
+        x = x.to(device)
+        y = y.to(device)
         logits, y, _ = model(x, y) # logits: (N, T, VOCAB), y: (N, T)
 
         if config.model == 'Regression':
@@ -210,7 +217,7 @@ def train(model, iterator, optimizer, criterion, config):
         else:
             logits = logits.view(-1, logits.shape[-1]) # (N*T, VOCAB)
             y = y.view(-1)  # (N*T,)
-            loss = criterion(logits, y)
+            loss = criterion(logits.to(device), y.to(device))
 
         loss.backward()
 
@@ -220,7 +227,7 @@ def train(model, iterator, optimizer, criterion, config):
             print("Training step: {}/{}, loss: {:<.4f}".format(i+1, len(iterator), loss.item()))
 
 
-def valid(model, iterator, criterion, tag_to_index, index_to_tag, config):
+def valid(model, iterator, criterion, tag_to_index, index_to_tag, device, config):
 
     model.eval()
     dev_losses = []
@@ -228,18 +235,19 @@ def valid(model, iterator, criterion, tag_to_index, index_to_tag, config):
     with torch.no_grad():
         for i, batch in enumerate(iterator):
             words, x, is_main_piece, tags, y, seqlens = batch
-
+            x = x.to(device)
+            y = y.to(device)
             logits, labels, y_hat = model(x, y)  # y_hat: (N, T)
             logits = logits.view(-1, logits.shape[-1])  # (N*T, VOCAB)
             labels = labels.view(-1)  # (N*T,)
 
-            loss = criterion(logits, labels)
+            loss = criterion(logits.to(device), labels.to(device))
             dev_losses.append(loss.item())
 
             Words.extend(words)
             Is_main_piece.extend(is_main_piece)
             Tags.extend(tags)
-            Y.extend(y.numpy().tolist())
+            Y.extend(y.cpu().numpy().tolist())
             Y_hat.extend(y_hat.cpu().numpy().tolist())
 
     true = []
@@ -263,7 +271,7 @@ def valid(model, iterator, criterion, tag_to_index, index_to_tag, config):
     print('Validation accuracy: {:<5.2f}%, Validation loss: {:<.4f}\n'.format(round(acc, 2), np.mean(dev_losses)))
 
 
-def test(model, iterator, criterion, tag_to_index, index_to_tag, config):
+def test(model, iterator, criterion, tag_to_index, index_to_tag, device, config):
     print('Calculating test accuracy and printing predictions to file {}'.format(config.save_path))
     print("Output file structure: <word>\t <tag>\t <prediction>\n")
 
@@ -274,7 +282,8 @@ def test(model, iterator, criterion, tag_to_index, index_to_tag, config):
     with torch.no_grad():
         for i, batch in enumerate(iterator):
             words, x, is_main_piece, tags, y, seqlens = batch
-
+            x = x.to(device)
+            y = y.to(device)
             logits, labels, y_hat = model(x, y)  # y_hat: (N, T)
             logits = logits.view(-1, logits.shape[-1])  # (N*T, VOCAB)
             labels = labels.view(-1)  # (N*T,)
@@ -285,7 +294,7 @@ def test(model, iterator, criterion, tag_to_index, index_to_tag, config):
             Words.extend(words)
             Is_main_piece.extend(is_main_piece)
             Tags.extend(tags)
-            Y.extend(y.numpy().tolist())
+            Y.extend(y.cpu().numpy().tolist())
             Y_hat.extend(y_hat.cpu().numpy().tolist())
 
     true = []
