@@ -11,7 +11,7 @@ pip3 install -r requirements.txt
 
 To download the word embeddings for the LSTM model run:
 ```console
-./download_data.sh
+./download_embeddings.sh
 ```
 
 Run training by executing:
