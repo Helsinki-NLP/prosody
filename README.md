@@ -99,7 +99,7 @@ Atlas 2 2
 ## Experiments
 
 * BERT (DONE)
-* Words embeddings + LSTM (Aarne)
+* Words embeddings + LSTM (DONE)
 * BERT + LSTM (Aarne)
 * Regression (Ongoing)
 * Majority for each word (Hande)
