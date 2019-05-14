@@ -9,6 +9,7 @@ from torch.utils import data
 import torch.optim as optim
 import prosody_dataset
 from prosody_dataset import Dataset
+from prosody_dataset import load_embeddings
 from model import Bert, LSTM
 from regression_model import RegressionModel
 from argparse import ArgumentParser
@@ -29,21 +30,23 @@ parser.add_argument('--model',
                     choices=['BertUncased',
                              'BertCased',
                              'LSTM',
-                             'BiLSTM',
                              'Regression'],
-                    default='BertUncased')
+                    default='LSTM')
+parser.add_argument('--no_brnn',
+                    action='store_false',
+                    dest='bidirectional')
 parser.add_argument('--embed_dim',
                     type=int,
                     default=300)
 parser.add_argument('--hidden_dim',
                     type=int,
-                    default=1200)
-parser.add_argument('--word_embedding',
+                    default=600)
+parser.add_argument('--embedding_file',
                     type=str,
-                    default=None)
+                    default='embeddings/glove.840B.300d.txt')
 parser.add_argument('--layers',
                     type=int,
-                    default=3)
+                    default=1)
 parser.add_argument('--save_path',
                     type=str,
                     default='results.txt')
@@ -61,7 +64,7 @@ parser.add_argument('--gpu',
                     default=None)
 parser.add_argument('--fraction_of_sentences',
                     type=float,
-                    default=0.01
+                    default=0.02
                     )
 parser.add_argument("--optimizer",
                     type=str,
@@ -74,9 +77,9 @@ parser.add_argument("--optimizer",
                              'adam',
                              'sgd'],
                     default='adam')
-parser.add_argument('--ignore_punctuation',
+parser.add_argument('--include_punctuation',
                     action='store_false',
-                    dest='punctuation')
+                    dest='ignore_punctuation')
 parser.add_argument('--seed',
                     type=int,
                     default=1234)
@@ -132,23 +135,22 @@ def main():
     else:
         raise Exception('Unknown optimization optimizer: "%s"' % config.optimizer)
 
-    splits, tag_to_index, index_to_tag, vocab_size = prosody_dataset.load_dataset(config)
+    splits, tag_to_index, index_to_tag, vocab = prosody_dataset.load_dataset(config)
 
     if config.model == "BertUncased" or config.model == "BertCased":
         model = Bert(device, config, labels=len(tag_to_index))
-    elif config.model == "LSTM" or config.model == "BiLSTM":
-        model = LSTM(device, config, vocab_size=vocab_size, labels=len(tag_to_index))
+    elif config.model == "LSTM":
+        model = LSTM(device, config, vocab_size=len(vocab), labels=len(tag_to_index))
     elif config.model == "Regression":
         model = RegressionModel(device, config)
     else:
         raise NotImplementedError("Model option not supported.")
 
     model.to(device)
-    #model = nn.DataParallel(model)
 
-    train_dataset = Dataset(splits["train"], tag_to_index)
-    eval_dataset = Dataset(splits["dev"], tag_to_index)
-    test_dataset = Dataset(splits["test"], tag_to_index)
+    train_dataset = Dataset(splits["train"], tag_to_index, config)
+    eval_dataset = Dataset(splits["dev"], tag_to_index, config)
+    test_dataset = Dataset(splits["test"], tag_to_index, config)
 
     train_iter = data.DataLoader(dataset=train_dataset,
                                  batch_size=config.batch_size,
@@ -179,20 +181,13 @@ def main():
     print('Parameters: {}'.format(params))
 
     # TODO: implement word embeddings
-    if config.word_embedding:
-        pretrained_embedding = os.path.join(os.getcwd(),
-                                            '.vector_cache/' + config.corpus + '_' + config.word_embedding + '.pt')
-        if os.path.isfile(pretrained_embedding):
-            inputs.vocab.vectors = torch.load(pretrained_embedding, map_location=device)
-        else:
-            print('Downloading pretrained {} word embeddings\n'.format(config.word_embedding))
-            inputs.vocab.load_vectors(config.word_embedding)
-            make_dirs(os.path.dirname(pretrained_embedding))
-            torch.save(inputs.vocab.vectors, pretrained_embedding)
+    if config.model == 'LSTM':
+        weights = load_embeddings(config, vocab)
+        model.word_embedding.weight.data = torch.Tensor(weights).to(device)
 
     config.cells = config.layers
 
-    if config.model == 'BiLSMT':
+    if config.bidirectional:
         config.cells *= 2
 
     print('\nTraining started...\n')
@@ -263,8 +258,14 @@ def valid(model, iterator, criterion, tag_to_index, index_to_tag, device, config
             preds = [index_to_tag[max(min(int(hat), 4), 0)] for hat in y_hat]
         else:
             preds = [index_to_tag[hat] for hat in y_hat]
-        assert len(preds) == len(words.split()) == len(tags.split())
-        for t, p in zip(tags.split()[1:-1], preds[1:-1]):
+        if config.model != 'LSTM':
+            tagslice = tags.split()[1:-1]
+            predsslice = preds[1:-1]
+            assert len(preds) == len(words.split()) == len(tags.split())
+        else:
+            tagslice = tags.split()
+            predsslice = preds
+        for t, p in zip(tagslice, predsslice):
             true.append(tag_to_index[t])
             predictions.append(tag_to_index[p])
 
@@ -312,12 +313,20 @@ def test(model, iterator, criterion, tag_to_index, index_to_tag, device, config)
     with open(config.save_path, 'w') as results:
         for words, is_main_piece, tags, y_hat in zip(Words, Is_main_piece, Tags, Y_hat):
             y_hat = [hat for head, hat in zip(is_main_piece, y_hat) if head == 1]
-            if config.model=='Regression':
+            if config.model == 'Regression':
                 preds = [index_to_tag[max(min(int(hat), 4), 0)] for hat in y_hat]
             else:
                 preds = [index_to_tag[hat] for hat in y_hat]
-            assert len(preds) == len(words.split()) == len(tags.split())
-            for w, t, p in zip(words.split()[1:-1], tags.split()[1:-1], preds[1:-1]):
+            if config.model != 'LSTM':
+                tagslice = tags.split()[1:-1]
+                predsslice = preds[1:-1]
+                wordslice = words.split()[1:-1]
+                assert len(preds) == len(words.split()) == len(tags.split())
+            else:
+                tagslice = tags.split()
+                predsslice = preds
+                wordslice = words.split()
+            for w, t, p in zip(wordslice, tagslice, predsslice):
                 results.write("{} {} {}\n".format(w, t, p))
                 true.append(tag_to_index[t])
                 predictions.append(tag_to_index[p])
