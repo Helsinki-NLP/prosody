@@ -43,7 +43,7 @@ class LSTM(nn.Module):
         self.device = device
         hidden_dim = config.hidden_dim*2 if config.bidirectional else config.hidden_dim
         self.fc = nn.Linear(hidden_dim, labels)
-        self.word_embedding = nn.Embedding(vocab_size, config.embed_dim)
+        self.word_embedding = nn.Embedding(vocab_size, 300)
         self.lstm = nn.LSTM(input_size=config.embed_dim,
                            hidden_size=config.hidden_dim,
                            num_layers=config.layers,

@@ -14,9 +14,10 @@ To download the word embeddings for the LSTM model run:
 ./download_embeddings.sh
 ```
 
-Run training by executing:
+For the *BERT* model run training by executing:
 
 ```console
+# Train BERT-Uncased
 python3 main.py \
     --model BertUncased \
     --batch_size 16 \
@@ -30,6 +31,26 @@ python3 main.py \
     --optimizer adam \
     --seed 1234
 ```
+
+For the *LSTM* model run training by executing:
+```console
+# Train 1-lauyer BiLSTM
+python3 main.py \
+    --model LSTM \
+    --layers 1 \
+    --hidden_dim 600 \
+    --batch_size 64 \
+    --epochs 10 \
+    --save_path results.txt \
+    --log_every 50 \
+    --learning_rate 0.00005 \
+    --weight_decay 0 \
+    --gpu 0 \
+    --fraction_of_sentences 1 \
+    --optimizer adam \
+    --seed 1234
+```
+
 
 ## Output
 

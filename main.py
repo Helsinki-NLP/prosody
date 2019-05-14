@@ -35,9 +35,6 @@ parser.add_argument('--model',
 parser.add_argument('--no_brnn',
                     action='store_false',
                     dest='bidirectional')
-parser.add_argument('--embed_dim',
-                    type=int,
-                    default=300)
 parser.add_argument('--hidden_dim',
                     type=int,
                     default=600)
