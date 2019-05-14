@@ -14,7 +14,7 @@ To download the word embeddings for the LSTM model run:
 ./download_embeddings.sh
 ```
 
-For the *BERT* model run training by executing:
+For the **BERT** model run training by executing:
 
 ```console
 # Train BERT-Uncased
@@ -32,7 +32,7 @@ python3 main.py \
     --seed 1234
 ```
 
-For the *LSTM* model run training by executing:
+For the **LSTM** model run training by executing:
 ```console
 # Train 1-layer BiLSTM
 python3 main.py \
