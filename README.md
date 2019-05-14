@@ -82,6 +82,7 @@ Atlas 2 2
 * BERT-base Uncased
 * BERT-base Cased
 * [Minitagger](https://github.com/karlstratos/minitagger) SVM trained using GloVe word embeddings. Paper: https://www.aclweb.org/anthology/W15-1511
+* 3-layer Bidirectional LSTM
 
 ## Results
 
@@ -91,6 +92,9 @@ Atlas 2 2
 | BERT-base uncased | 72.5%                       | 68.7%                    |
 | BERT-base cased   |                             |                          |
 | Minitagger (SVM)  | 69.8%                       | 65.6%                    |
+| BiLSTM (3 layers) | 70.5%                       | 64.1%                    |
+
+
 
 ## Experiments
 
