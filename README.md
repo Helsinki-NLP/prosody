@@ -34,7 +34,7 @@ python3 main.py \
 
 For the *LSTM* model run training by executing:
 ```console
-# Train 1-lauyer BiLSTM
+# Train 1-layer BiLSTM
 python3 main.py \
     --model LSTM \
     --layers 1 \
