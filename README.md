@@ -37,10 +37,10 @@ For the **LSTM** model run training by executing:
 # Train 1-layer BiLSTM
 python3 main.py \
     --model LSTM \
-    --layers 1 \
+    --layers 3 \
     --hidden_dim 600 \
     --batch_size 64 \
-    --epochs 10 \
+    --epochs 5 \
     --save_path results.txt \
     --log_every 50 \
     --learning_rate 0.001 \
