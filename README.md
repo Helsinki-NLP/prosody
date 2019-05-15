@@ -104,6 +104,14 @@ Sample analyses (to be reproduced for the paper)
 
 ![Bert-uncased](images/confusion_matrix-BertUncased.png)
 
+|                 |precision   |  recall     |f1-score    |  support   |
+| ---             | ---        | ---         | ---        | ---        |
+|    label 0      |  0.8200    | 0.8210      | 0.8205     | 45818      |
+|    label 1      | 0.4770     | 0.5897      | 0.5274     | 24168      |
+|    label 2      | 0.6288     |  0.4483     | 0.5234     | 20087      |
+| **avg / total** | **0.6854** |  **0.6758** | **0.6756** |  **90073** |
+
+
 
 ![Bert-uncased](images/confusion_matrix-BertUncased-punct.png)
 
