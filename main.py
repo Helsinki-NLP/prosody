@@ -361,7 +361,8 @@ def test(model, iterator, criterion, tag_to_index, index_to_tag, device, config)
     print('Recall: {}'.format(round(100. * recall, 2)))
     print('Precision: {}'.format(round(100. * precision, 2)))
 
-    print(classification_report(y_true, y_pred, digits=4))
+    target_names = ['label 0', 'label 1' 'label 2'] if config.ignore_punctuation else ['label 0', 'label 1', 'label 2', 'label NA']
+    print(classification_report(y_true, y_pred, target_names=target_names, digits=4))
 
     # acc = 100. * (y_true == y_pred).astype(np.int32).sum() / len(y_true)
     # print('Test accuracy: {:<5.2f}%, Test loss: {:<.4f} after {} epochs.\n'.format(round(acc, 2), np.mean(test_losses), config.epochs))

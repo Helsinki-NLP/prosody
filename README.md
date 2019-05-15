@@ -90,16 +90,16 @@ Atlas 2 2
 
 | Model             | Test acc (incl punctuation) | Test acc (no punctuation) |
 | ---               |  ---                        | ---                       |
-| BERT-base uncased | 72.5%                       | 68.7%                     |
+| BERT-base uncased | **72.5%**                   | **68.7%**                 |
 | BERT-base cased   | 70.4%                       | 65.8%                     |
 | Minitagger (SVM)  | 69.8%                       | 65.6%                     |
 | LSTM (1 layers)   | 69.2%                       | 63.6%                     |
 | BiLSTM (3 layers) | 70.5%                       | 64.6%                     |
-| Majority class    |                             | 50.9%                     |
+| Majority class    | 44.0%                       | 50.9%                     |
 
 ## Analysis
 
-Sample analyses (to be reproduced to the paper)
+Sample analyses (to be reproduced for the paper)
 
 ![Bert-uncased](images/confusion_matrix-BertUncased.png)
 
