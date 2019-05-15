@@ -265,21 +265,21 @@ def valid(model, iterator, criterion, tag_to_index, index_to_tag, device, config
             tagslice = tags.split()
             predsslice = preds
         for t, p in zip(tagslice, predsslice):
-            true.append(tag_to_index[t])
-            predictions.append(tag_to_index[p])
+            true.append(t)
+            predictions.append(p)
 
     # calc metric
 
-    # y_true = np.array(true)
-    # y_pred = np.array(predictions)
+    y_true = np.array(true)
+    y_pred = np.array(predictions)
     # acc = 100. * (y_true == y_pred).astype(np.int32).sum() / len(y_true)
 
-    true_labels = np.array([index_to_tag[index] for index in true])
-    predicted_labels = np.array([index_to_tag[index] for index in predictions])
+    #true_labels = np.array([index_to_tag[index] for index in true])
+    #predicted_labels = np.array([index_to_tag[index] for index in predictions])
 
-    accuracy = accuracy_score(true_labels, predicted_labels)
+    accuracy = accuracy_score(y_true, y_pred)
 
-    print('Validation accuracy: {:<5.2f}%, Validation loss: {:<.4f}\n'.format(round(accuracy, 2), np.mean(dev_losses)))
+    print('Validation accuracy: {:<5.2f}%, Validation loss: {:<.4f}\n'.format(round(100. * accuracy, 2), np.mean(dev_losses)))
 
 
 def test(model, iterator, criterion, tag_to_index, index_to_tag, device, config):
@@ -333,27 +333,27 @@ def test(model, iterator, criterion, tag_to_index, index_to_tag, device, config)
                 wordslice = words.split()
             for w, t, p in zip(wordslice, tagslice, predsslice):
                 results.write("{}\t{}\t{}\n".format(w, t, p))
-                true.append(tag_to_index[t])
-                predictions.append(tag_to_index[p])
+                true.append(t)
+                predictions.append(p)
             results.write("\n")
 
     # calc metric
-    # y_true = np.array(true)
-    # y_pred = np.array(predictions)
+    y_true = np.array(true)
+    y_pred = np.array(predictions)
 
-    true_labels = np.array([index_to_tag[index] for index in true])
-    predicted_labels = np.array([index_to_tag[index] for index in predictions])
+    #y_true = np.array([index_to_tag[index] for index in true])
+    #y_pred = np.array([index_to_tag[index] for index in predictions])
 
     classes = ['0', '1', '2'] if config.ignore_punctuation else ['0', '1', '2', 'NA']
 
     np.set_printoptions(precision=1)
-    plot_confusion_matrix(true_labels, predicted_labels, classes, title='Confusion Matrix - ' + config.model)
+    plot_confusion_matrix(y_true, y_pred, classes, title='Confusion Matrix - ' + config.model)
     plt.savefig('confusion_matrix-'+ config.model+'.png')
 
-    accuracy = accuracy_score(true_labels, predicted_labels)
-    f1 = f1_score(true_labels, predicted_labels, average='macro')
-    recall = recall_score(true_labels, predicted_labels, average='macro')
-    precision = precision_score(true_labels, predicted_labels, average='macro')
+    accuracy = accuracy_score(y_true, y_pred)
+    f1 = f1_score(y_true, y_pred, average='macro')
+    recall = recall_score(y_true, y_pred, average='macro')
+    precision = precision_score(y_true, y_pred, average='macro')
 
 
     print('\nAccuracy: {}'.format(round(100. * accuracy, 2)))
@@ -361,7 +361,7 @@ def test(model, iterator, criterion, tag_to_index, index_to_tag, device, config)
     print('Recall: {}'.format(round(100. * recall, 2)))
     print('Precision: {}'.format(round(100. * precision, 2)))
 
-    print(classification_report(true_labels, predicted_labels))
+    print(classification_report(y_true, y_pred))
 
     # acc = 100. * (y_true == y_pred).astype(np.int32).sum() / len(y_true)
     # print('Test accuracy: {:<5.2f}%, Test loss: {:<.4f} after {} epochs.\n'.format(round(acc, 2), np.mean(test_losses), config.epochs))

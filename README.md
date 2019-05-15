@@ -100,6 +100,15 @@ Atlas 2 2
 
 ![Bert-uncased](images/confusion_matrix-BertUncased.png)
 
+
+|            | precision |   recall | f1-score  | support |
+| ---        | ---       |  ---     | ---       | ---     |
+|         0  |     0.79  |    0.85  |    0.82   |  45818  |
+|         1  |     0.49  |    0.47  |    0.48   |  24168  |
+|         2  |     0.58  |    0.52  |    0.55   |  20087  |
+| ---        | ---       |  ---     | ---       | ---     |
+| avg / total|     0.67  |    0.67  |    0.67   |  90073  |
+
 ## TODO
 
 * BERT (DONE)
