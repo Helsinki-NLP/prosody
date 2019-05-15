@@ -13,7 +13,7 @@ from prosody_dataset import load_embeddings
 from model import Bert, LSTM, RegressionModel
 from argparse import ArgumentParser
 import matplotlib.pyplot as plt
-from sklearn.metrics import confusion_matrix, precision_score, recall_score, confusion_matrix, accuracy_score, f1_score
+from sklearn.metrics import precision_score, recall_score, confusion_matrix, accuracy_score, f1_score
 from sklearn.utils.multiclass import unique_labels
 
 parser = ArgumentParser(description='Prosody prediction')
@@ -332,14 +332,16 @@ def test(model, iterator, criterion, tag_to_index, index_to_tag, device, config)
             results.write("\n")
 
     # calc metric
-    y_true = np.array(true)
-    y_pred = np.array(predictions)
+    # y_true = np.array(true)
+    # y_pred = np.array(predictions)
 
     true_labels = np.array([index_to_tag[index] for index in true])
     predicted_labes = np.array([index_to_tag[index] for index in predictions])
 
+    classes = ['0', '1', '2', 'NA'] if config.include_punctuation else ['0', '1', '2']
+
     np.set_printoptions(precision=1)
-    plot_confusion_matrix(true_labels, predicted_labes, ['0', '1', '2'], title='Confusion Matrix - ' + config.model)
+    plot_confusion_matrix(true_labels, predicted_labes, classes, title='Confusion Matrix - ' + config.model)
     plt.savefig('confusion_matrix-'+ config.model+'.png')
 
     print('\nAccuracy: {}'.format(accuracy_score(true_labels, predicted_labes)))
@@ -347,8 +349,8 @@ def test(model, iterator, criterion, tag_to_index, index_to_tag, device, config)
     print('Recall: {}'.format(recall_score(true_labels, predicted_labes, average='macro')))
     print('Precision: {}'.format(precision_score(true_labels, predicted_labes, average='macro')))
 
-    acc = 100. * (y_true == y_pred).astype(np.int32).sum() / len(y_true)
-    print('Test accuracy: {:<5.2f}%, Test loss: {:<.4f} after {} epochs.\n'.format(round(acc, 2), np.mean(test_losses), config.epochs))
+    # acc = 100. * (y_true == y_pred).astype(np.int32).sum() / len(y_true)
+    # print('Test accuracy: {:<5.2f}%, Test loss: {:<.4f} after {} epochs.\n'.format(round(acc, 2), np.mean(test_losses), config.epochs))
 
 
 def plot_confusion_matrix(y_true, y_pred, classes,
