@@ -45,13 +45,14 @@ class LSTM(nn.Module):
         self.config = config
         self.bidirectional = config.bidirectional
         self.device = device
+        self.dropout = 0 if config.layers == 1 else 0.2
         hidden_dim = config.hidden_dim*2 if config.bidirectional else config.hidden_dim
         self.fc = nn.Linear(hidden_dim, labels)
         self.word_embedding = nn.Embedding(vocab_size, 300)
         self.lstm = nn.LSTM(input_size=300,
                            hidden_size=config.hidden_dim,
                            num_layers=config.layers,
-                           dropout=0.2,
+                           dropout=self.dropout,
                            bidirectional=self.bidirectional)
 
     def forward(self, x, y):

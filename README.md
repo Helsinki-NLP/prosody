@@ -90,12 +90,37 @@ Atlas 2 2
 
 | Model             | Test acc (incl punctuation) | Test acc (no punctuation) |
 | ---               |  ---                        | ---                       |
-| BERT-base uncased | 72.5%                       | 68.7%                     |
-| BERT-base cased   | 70.4%                       |                           |
+| BERT-base uncased | **72.5%**                   | **68.7%**                 |
+| BERT-base cased   | 70.4%                       | 65.8%                     |
 | Minitagger (SVM)  | 69.8%                       | 65.6%                     |
 | LSTM (1 layers)   | 69.2%                       | 63.6%                     |
 | BiLSTM (3 layers) | 70.5%                       | 64.6%                     |
 | Majority per word | 54.4%                       | 61.8%                     |
+| Majority class    | 44.0%                       | 50.9%                     |
+
+## Analysis
+
+Sample analyses (to be reproduced for the paper)
+
+![Bert-uncased](images/confusion_matrix-BertUncased.png)
+
+|                 |precision   |  recall     |f1-score    |  support   |
+| ---             | ---        | ---         | ---        | ---        |
+|    label 0      |  0.8200    | 0.8210      | 0.8205     | 45818      |
+|    label 1      | 0.4770     | 0.5897      | 0.5274     | 24168      |
+|    label 2      | 0.6288     |  0.4483     | 0.5234     | 20087      |
+| **avg / total** | **0.6854** |  **0.6758** | **0.6756** |  **90073** |
+
+
+**Majority Vote Per Word**
+![WordMajority](images/confusion_matrix-WordMajorityno_NA.png)
+
+|                 |precision   |  recall     |f1-score    |  support   |
+| ---             | ---        | ---         | ---        | ---        |
+|     label 0     | 0.6493     | 0.8497      | 0.7361     | 45818      |
+|     label 1     | 0.4259     | 0.4160      | 0.4209     | 24168      |
+|     label 2     | 0.3620     | 0.3343      | 0.3476     | 20087      |
+| **avg / total** | **0.4903** | **0.5439**  | **0.4981** | **102663** |
 
 
 ## TODO

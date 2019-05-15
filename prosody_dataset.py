@@ -91,6 +91,8 @@ def load_dataset(config):
     #+++HANDE
     tags.sort()
     tags = tags + ["<pad>"]
+    # original:
+    # tags = ["<pad>"] + tags
     #---HANDE
 
     tag_to_index = {tag: index for index, tag in enumerate(tags)}
