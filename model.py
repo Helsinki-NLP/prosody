@@ -97,14 +97,15 @@ class RegressionModel(nn.Module):
 
 
 class WordMajority(nn.Module):
-    def __init__(self, device, config, tag_to_index):
+    def __init__(self, device, config, index_to_tag):
         super().__init__()
         self.device = device
         self.config = config
-        self.tag_to_index = tag_to_index
-        self.nr_classes = len(tag_to_index)
+        self.index_to_tag = index_to_tag
+        self.nr_classes = len(index_to_tag)
         self.majorityClass = dict()
         self.stats_file = self.config.datadir + '/train.classes.json'
+        self.valid_classes = [1,2,3]
 
     def load_stats(self):
         if os.path.isfile(self.stats_file):
@@ -125,8 +126,11 @@ class WordMajority(nn.Module):
             word_idx = str(x_list[idx])
             class_idx = str(y_list[idx])
 
+            if int(class_idx) not in self.valid_classes: # a couple of pads come along here. why? data problem?
+                continue
+
             if word_idx not in self.majorityClass.keys():
-                self.majorityClass[word_idx] = {str(cls): 0 for cls in range(self.nr_classes)}
+                self.majorityClass[word_idx] = {str(cls): 0 for cls in self.valid_classes}
 
             try:
                 self.majorityClass[word_idx][class_idx] += 1
@@ -155,7 +159,7 @@ class WordMajority(nn.Module):
             if word_idx_str in self.majorityClass.keys():
                 preds.append(int(max(self.majorityClass[word_idx_str], key=self.majorityClass[word_idx_str].get)))
             else:
-                preds.append(0)
+                preds.append(1)
 
         logits[np.arange(x.shape[0]*x.shape[1]), preds] = 1
         logits = logits.view(x.shape[0], x.shape[1], self.nr_classes).to(self.device)

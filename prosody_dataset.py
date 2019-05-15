@@ -88,12 +88,7 @@ def load_dataset(config):
             vocab.append(token)
     vocab = set(vocab)
     tags = list(set(word_tag[1] for sent in all_sents for word_tag in sent))
-    #+++HANDE
-    tags.sort()
-    tags = tags + ["<pad>"]
-    # original:
-    # tags = ["<pad>"] + tags
-    #---HANDE
+    tags = ["<pad>"] + tags
 
     tag_to_index = {tag: index for index, tag in enumerate(tags)}
     index_to_tag = {index: tag for index, tag in enumerate(tags)}

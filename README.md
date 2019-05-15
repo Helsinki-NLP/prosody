@@ -112,15 +112,14 @@ Sample analyses (to be reproduced for the paper)
 | **avg / total** | **0.6854** |  **0.6758** | **0.6756** |  **90073** |
 
 
-**Majority Vote Per Word**
-![WordMajority](images/confusion_matrix-WordMajorityno_NA.png)
+![WordMajority](images/confusion_matrix-WordMajority.png)
 
 |                 |precision   |  recall     |f1-score    |  support   |
 | ---             | ---        | ---         | ---        | ---        |
-|     label 0     | 0.6493     | 0.8497      | 0.7361     | 45818      |
-|     label 1     | 0.4259     | 0.4160      | 0.4209     | 24168      |
-|     label 2     | 0.3620     | 0.3343      | 0.3476     | 20087      |
-| **avg / total** | **0.4903** | **0.5439**  | **0.4981** | **102663** |
+|     label 0     | 0.7298     | 0.8498      | 0.7852     | 45818      |
+|     label 1     | 0.4419     | 0.4206      | 0.4310     | 24168      |
+|     label 2     | 0.4946     | 0.3379      | 0.4015     | 20087      |
+| **avg / total** | **0.6205** | **0.6205**  | **0.6205** | **90073** |
 
 
 ## TODO

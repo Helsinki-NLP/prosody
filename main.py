@@ -144,7 +144,7 @@ def main():
     elif config.model == "Regression":
         model = RegressionModel(device, config)
     elif config.model == "WordMajority":
-        model = WordMajority(device, config, tag_to_index)
+        model = WordMajority(device, config, index_to_tag)
     else:
         raise NotImplementedError("Model option not supported.")
 
@@ -371,13 +371,13 @@ def test(model, iterator, criterion, tag_to_index, index_to_tag, device, config)
     np.set_printoptions(precision=1)
     plot_confusion_matrix(y_true, y_pred, classes, title='Confusion Matrix - ' + config.model)
 
-    plot_name = 'confusion_matrix-'+ config.model+'.png' if config.ignore_punctuation else 'confusion_matrix-'+ config.model+'no_NA.png'
+    plot_name = 'images/confusion_matrix-'+ config.model+'.png' if config.ignore_punctuation else 'confusion_matrix-'+ config.model+'no_NA.png'
     plt.savefig(plot_name)
 
     accuracy = accuracy_score(y_true, y_pred)
-    f1 = f1_score(y_true, y_pred, average='macro')
-    recall = recall_score(y_true, y_pred, average='macro')
-    precision = precision_score(y_true, y_pred, average='macro')
+    f1 = f1_score(y_true, y_pred, average='weighted')
+    recall = recall_score(y_true, y_pred, average='weighted')
+    precision = precision_score(y_true, y_pred, average='weighted')
 
 
     print('\nAccuracy: {}'.format(round(100. * accuracy, 2)))
