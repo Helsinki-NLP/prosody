@@ -113,19 +113,6 @@ Sample analyses (to be reproduced for the paper)
 
 
 
-![Bert-uncased](images/confusion_matrix-BertUncased-punct.png)
-
-|             | precision | recall  | f1-score| support   |
-| ---         | ---       | ---     | ---     | ---        |
-|    label 0  |    0.7891     |    0.8606     |    0.8233    | 45818     |
-|    label 1  |     0.5072     |    0.4365     |    0.4692    |     24168     |
-|    label 2  |    0.5909     |    0.5679     |    0.5792    |     20087     |
-|   label NA  |     0.9979     |    0.9978     |    0.9979    |     12590     |
-| **avg / total** | **0.7095** |    **0.7203** |    **0.7136** |    **102663** |
-
-
-
-
 ## TODO
 
 * BERT (DONE)
