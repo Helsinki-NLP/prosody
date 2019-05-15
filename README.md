@@ -96,6 +96,9 @@ Atlas 2 2
 | LSTM (1 layers)   | 69.2%                       | 63.6%                     |
 | BiLSTM (3 layers) | 70.5%                       | 64.6%                     |
 
+## Analysis
+
+![Bert-uncased](images/confusion_matrix-BertUncased.png)
 
 ## TODO
 
