@@ -102,6 +102,9 @@ Atlas 2 2
 
 Sample analyses (to be reproduced for the paper)
 
+![Bert-uncased](images/confusion_matrix-BertUncased.png)
+
+
 ![Bert-uncased](images/confusion_matrix-BertUncased-punct.png)
 
 |             | precision | recall  | f1-score| support   |
@@ -112,9 +115,6 @@ Sample analyses (to be reproduced for the paper)
 |   label NA  |     0.9979     |    0.9978     |    0.9979    |     12590     |
 | **avg / total** | **0.7095** |    **0.7203** |    **0.7136** |    **102663** |
 
-
-
-![Bert-uncased](images/confusion_matrix-BertUncased.png)
 
 
 
