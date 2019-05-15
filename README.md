@@ -87,6 +87,8 @@ Atlas 2 2
 
 ## Results
 
+**Results (excluding NA tag)**
+
 | Model             | accuracy    |precision   |  recall     |f1-score    |
 | ---               | ---         | ---        | ---         | ---        |
 | BERT-base uncased |  0.6758     |  0.6854    |  0.6758     | 0.6756     |
@@ -95,18 +97,7 @@ Atlas 2 2
 | LSTM (1 layers)   |  0.6376     |  0.6230    |  0.6376     | 0.6270     |
 | Minitagger (SVM)  |  0.6455     |  0.6402    |  0.6455     | 0.6426     |
 | Majority per word |  0.6180     |  0.6205    |  0.6205     | 0.6205     |
-
-
-
-| Model             | Test acc (incl punctuation) | Test acc (no punctuation) |
-| ---               |  ---                        | ---                       |
-| BERT-base uncased | **72.5%**                   | **68.7%**                 |
-| BERT-base cased   | 70.4%                       | 65.8%                     |
-| Minitagger (SVM)  | 69.8%                       | 65.6%                     |
-| LSTM (1 layers)   | 69.2%                       | 63.6%                     |
-| BiLSTM (3 layers) | 70.5%                       | 64.6%                     |
-| Majority per word | 54.4%                       | 61.8%                     |
-| Majority class    | 44.0%                       | 50.9%                     |
+| Majority class    |  0.5087     |  0.2588    |  0.5087     | 0.3430     |
 
 
 ## Analysis
@@ -130,6 +121,17 @@ Sample analyses (to be reproduced for the paper)
 |     label 1     | 0.4419     | 0.4206      | 0.4310     | 24168      |
 |     label 2     | 0.4946     | 0.3379      | 0.4015     | 20087      |
 | **avg / total** | **0.6205** | **0.6205**  | **0.6205** | **90073** |
+
+
+| Model             | Test acc (incl punctuation) | Test acc (no punctuation) |
+| ---               |  ---                        | ---                       |
+| BERT-base uncased | **72.5%**                   | **68.7%** (not able to reproduce) |
+| BERT-base cased   | 70.4%                       | 65.8%                     |
+| Minitagger (SVM)  | 69.8%                       | 65.6%                     |
+| LSTM (1 layers)   | 69.2%                       | 63.6%                     |
+| BiLSTM (3 layers) | 70.5%                       | 64.6%                     |
+| Majority per word | 54.4%                       | 61.8%                     |
+| Majority class    | 44.0%                       | 50.9%                     |
 
 
 ## TODO
