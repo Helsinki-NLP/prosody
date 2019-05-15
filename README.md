@@ -95,6 +95,7 @@ Atlas 2 2
 | Minitagger (SVM)  | 69.8%                       | 65.6%                     |
 | LSTM (1 layers)   | 69.2%                       | 63.6%                     |
 | BiLSTM (3 layers) | 70.5%                       | 64.6%                     |
+| Majority per word | 54.4%                       | 61.8%                     |
 
 
 ## TODO
@@ -103,9 +104,10 @@ Atlas 2 2
 * Words embeddings + LSTM (DONE)
 * BERT + LSTM (Aarne)
 * Regression (Ongoing)
-* Majority for each word (Hande)
+* Majority for each word (DONE)
 * Class-encodings for ordinal class labels (Hande)
 * Context model (neighbours) (Hande)
 * CRF (Hande)
 * BERT + position encoding
 * Other pre-trained models (GPT, ELMo etc)
+* Sort sentences before forming batches? (Hande)
