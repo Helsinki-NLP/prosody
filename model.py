@@ -39,25 +39,22 @@ class LSTM(nn.Module):
     def __init__(self, device, config, vocab_size, labels=None):
         super().__init__()
         self.config = config
-        self.bidirectional = True if config.model == 'BiLSTM' else False
+        self.bidirectional = config.bidirectional
         self.device = device
-        self.linear = nn.Linear(1, config.embed_dim)
-        self.fc = nn.Linear(config.hidden_dim*2, labels)
-        self.word_embedding = nn.Embedding(vocab_size, config.embed_dim)
-        self.lstm = nn.LSTM(input_size=config.embed_dim,
+        hidden_dim = config.hidden_dim*2 if config.bidirectional else config.hidden_dim
+        self.fc = nn.Linear(hidden_dim, labels)
+        self.word_embedding = nn.Embedding(vocab_size, 300)
+        self.lstm = nn.LSTM(input_size=300,
                            hidden_size=config.hidden_dim,
                            num_layers=config.layers,
-                           dropout=0,
+                           dropout=0.2,
                            bidirectional=self.bidirectional)
 
-
     def forward(self, x, y):
-        x = x.to(self.device)
+        x = x.permute(1, 0).to(self.device)
         y = y.to(self.device)
-        input = x.type(torch.FloatTensor).to(self.device)
-        input = input.unsqueeze(2).permute(1, 0, 2)
-        input = self.linear(input)
-        enc = self.lstm(input)[0]
+        emb = self.word_embedding(x)
+        enc = self.lstm(emb)[0]
         enc = enc.permute(1, 0, 2)
         logits = self.fc(enc)
         y_hat = logits.argmax(-1)

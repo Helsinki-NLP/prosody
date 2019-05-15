@@ -9,9 +9,15 @@ To install the requirements run:
 pip3 install -r requirements.txt
 ```
 
-Run training by executing:
+To download the word embeddings for the LSTM model run:
+```console
+./download_embeddings.sh
+```
+
+For the **BERT** model run training by executing:
 
 ```console
+# Train BERT-Uncased
 python3 main.py \
     --model BertUncased \
     --batch_size 16 \
@@ -21,10 +27,30 @@ python3 main.py \
     --learning_rate 0.00005 \
     --weight_decay 0 \
     --gpu 0 \
-    --fraction_of_sentences 1 \ # Use this to select only a subset of examples (float)
+    --fraction_of_sentences 1 \
     --optimizer adam \
     --seed 1234
 ```
+
+For the **LSTM** model run training by executing:
+```console
+# Train 3-layer BiLSTM
+python3 main.py \
+    --model LSTM \
+    --layers 3 \
+    --hidden_dim 600 \
+    --batch_size 64 \
+    --epochs 5 \
+    --save_path results.txt \
+    --log_every 50 \
+    --learning_rate 0.001 \
+    --weight_decay 0 \
+    --gpu 0 \
+    --fraction_of_sentences 1 \
+    --optimizer adam \
+    --seed 1234
+```
+
 
 ## Output
 
@@ -53,23 +79,28 @@ Atlas 2 2
 
 ## Models
 
-* BERT-base Uncased
-* BERT-base Cased
-* [Minitagger](https://github.com/karlstratos/minitagger) SVM trained using GloVe word embeddings. Paper: https://www.aclweb.org/anthology/W15-1511
+* [BERT](https://arxiv.org/abs/1810.04805)-base Uncased
+* [BERT](https://arxiv.org/abs/1810.04805)-base Cased
+* [Minitagger](https://github.com/karlstratos/minitagger) A multi-class SVM trained using GloVe word embeddings. Paper: https://www.aclweb.org/anthology/W15-1511
+* 1-layer 600D LSTM
+* 3-layer 600D Bidirectional LSTM
 
 ## Results
 
 
-| Model             |  Test acc (incl punctuation) |Test acc (no punctuation) |
-| ---               |  ---                         | ---                      |
-| BERT-base uncased | 72.49%                       | 68.69%                   |
-| BERT-base cased   |                              |                          |
-| Minitagger (SVM)  | 69.80%                       | 65.60%                   |
+| Model             | Test acc (incl punctuation) | Test acc (no punctuation) |
+| ---               |  ---                        | ---                       |
+| BERT-base uncased | 72.5%                       | 68.7%                     |
+| BERT-base cased   | 70.4%                       |                           |
+| Minitagger (SVM)  | 69.8%                       | 65.6%                     |
+| LSTM (1 layers)   | 69.2%                       | 63.6%                     |
+| BiLSTM (3 layers) | 70.5%                       | 64.6%                     |
 
-## Experiments
+
+## TODO
 
 * BERT (DONE)
-* Words embeddings + LSTM (Aarne)
+* Words embeddings + LSTM (DONE)
 * BERT + LSTM (Aarne)
 * Regression (Ongoing)
 * Majority for each word (Hande)
