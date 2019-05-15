@@ -363,7 +363,7 @@ def test(model, iterator, criterion, tag_to_index, index_to_tag, device, config)
     print('Recall: {}'.format(round(100. * recall, 2)))
     print('Precision: {}'.format(round(100. * precision, 2)))
 
-    target_names = ['label 0', 'label 1' 'label 2'] if config.ignore_punctuation else ['label 0', 'label 1', 'label 2', 'label NA']
+    target_names = ['label 0', 'label 1', 'label 2'] if config.ignore_punctuation else ['label 0', 'label 1', 'label 2', 'label NA']
     print(classification_report(y_true, y_pred, target_names=target_names, digits=4))
 
     # acc = 100. * (y_true == y_pred).astype(np.int32).sum() / len(y_true)
