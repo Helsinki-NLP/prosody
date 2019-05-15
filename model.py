@@ -47,7 +47,7 @@ class LSTM(nn.Module):
         self.lstm = nn.LSTM(input_size=300,
                            hidden_size=config.hidden_dim,
                            num_layers=config.layers,
-                           dropout=0,
+                           dropout=0.2,
                            bidirectional=self.bidirectional)
 
     def forward(self, x, y):

@@ -93,9 +93,9 @@ def load_dataset(config):
     tag_to_index = {tag: index for index, tag in enumerate(tags)}
     index_to_tag = {index: tag for index, tag in enumerate(tags)}
 
-    print('Training data: {}'.format(len(splits["train"])))
-    print('Dev data: {}'.format(len(splits["dev"])))
-    print('Test data: {}'.format(len(splits["test"])))
+    print('Training examples: {}'.format(len(splits["train"])))
+    print('Dev examples: {}'.format(len(splits["dev"])))
+    print('Test examples: {}'.format(len(splits["test"])))
 
     return splits, tag_to_index, index_to_tag, vocab
 

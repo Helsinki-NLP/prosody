@@ -31,7 +31,7 @@ parser.add_argument('--model',
                              'BertCased',
                              'LSTM',
                              'Regression'],
-                    default='LSTM')
+                    default='BertUncased')
 parser.add_argument('--no_brnn',
                     action='store_false',
                     dest='bidirectional')
@@ -52,7 +52,7 @@ parser.add_argument('--log_every',
                     default=10)
 parser.add_argument('--learning_rate',
                     type=float,
-                    default=0.001)
+                    default=0.00005)
 parser.add_argument('--weight_decay',
                     type=float,
                     default=0)
@@ -61,7 +61,7 @@ parser.add_argument('--gpu',
                     default=None)
 parser.add_argument('--fraction_of_sentences',
                     type=float,
-                    default=0.02
+                    default=1
                     )
 parser.add_argument("--optimizer",
                     type=str,
