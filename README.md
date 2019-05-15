@@ -27,14 +27,14 @@ python3 main.py \
     --learning_rate 0.00005 \
     --weight_decay 0 \
     --gpu 0 \
-    --fraction_of_sentences 1 \ # Use this to select only a subset of examples (float)
+    --fraction_of_sentences 1 \
     --optimizer adam \
     --seed 1234
 ```
 
 For the **LSTM** model run training by executing:
 ```console
-# Train 1-layer BiLSTM
+# Train 3-layer BiLSTM
 python3 main.py \
     --model LSTM \
     --layers 3 \
