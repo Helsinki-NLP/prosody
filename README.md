@@ -92,7 +92,7 @@ Atlas 2 2
 | BERT-base uncased | 72.5%                       | 68.7%                    |
 | BERT-base cased   |                             |                          |
 | Minitagger (SVM)  | 69.8%                       | 65.6%                    |
-| BiLSTM (3 layers) | 70.5%                       | 64.1%                    |
+| BiLSTM (3 layers) | 70.5%                       | 64.6%                    |
 
 
 
