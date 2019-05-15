@@ -10,8 +10,7 @@ import torch.optim as optim
 import prosody_dataset
 from prosody_dataset import Dataset
 from prosody_dataset import load_embeddings
-from model import Bert, LSTM
-from regression_model import RegressionModel
+from model import Bert, LSTM, RegressionModel
 from argparse import ArgumentParser
 
 parser = ArgumentParser(description='Prosody prediction')
