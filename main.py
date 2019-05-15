@@ -353,9 +353,9 @@ def test(model, iterator, criterion, tag_to_index, index_to_tag, device, config)
     plt.savefig(plot_name)
 
     accuracy = accuracy_score(y_true, y_pred)
-    f1 = f1_score(y_true, y_pred, average='macro')
-    recall = recall_score(y_true, y_pred, average='macro')
-    precision = precision_score(y_true, y_pred, average='macro')
+    f1 = f1_score(y_true, y_pred, average='weighted')
+    recall = recall_score(y_true, y_pred, average='weighted')
+    precision = precision_score(y_true, y_pred, average='weighted')
 
 
     print('\nAccuracy: {}'.format(round(100. * accuracy, 2)))

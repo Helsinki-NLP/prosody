@@ -87,6 +87,24 @@ Atlas 2 2
 
 ## Results
 
+| Model             | accuracy    |precision   |  recall     |f1-score    |
+| ---               | ---         | ---        | ---         | ---        |
+| BERT-base uncased |  **0.6754** | **0.6863** |  **0.6754** | **0.6768** |
+| BERT-base cased   |  0.6754     |            |  0.6754     |            |
+| BiLSTM (3 layers) |  0.6472     |  0.6388    |  0.6472     | 0.6424     |
+| LSTM (1 layers)   |  0.6376     |  0.6230    |  0.6376     | 0.6270     |
+| Minitagger (SVM)  |  0.6455     |  0.6402    |  0.6455     | 0.6426     |
+
+Accuracy: 0.6754
+F1 score: 0.6768
+Recall: 0.6754
+Precision: 0.6863
+
+Accuracy: 67.92
+F1 score: 67.58
+Recall: 67.92
+Precision: 67.54
+
 
 | Model             | Test acc (incl punctuation) | Test acc (no punctuation) |
 | ---               |  ---                        | ---                       |
@@ -98,6 +116,7 @@ Atlas 2 2
 | Majority class    | 44.0%                       | 50.9%                     |
 
 
+
 ## Analysis
 
 Sample analyses (to be reproduced for the paper)
@@ -106,11 +125,10 @@ Sample analyses (to be reproduced for the paper)
 
 |                 |precision   |  recall     |f1-score    |  support   |
 | ---             | ---        | ---         | ---        | ---        |
-|    label 0      |  0.8200    | 0.8210      | 0.8205     | 45818      |
-|    label 1      | 0.4770     | 0.5897      | 0.5274     | 24168      |
-|    label 2      | 0.6288     |  0.4483     | 0.5234     | 20087      |
-| **avg / total** | **0.6854** |  **0.6758** | **0.6756** |  **90073** |
-
+|    label 0      |  0.8271    | 0.8131      | 0.8200     | 45818      |
+|    label 1      | 0.4754     | 0.5883      | 0.5259     | 24168      |
+|    label 2      | 0.6190     |  0.4660     | 0.5317     | 20087      |
+| **avg / total** | **0.6863** |  **0.6754** | **0.6768** |  **90073** |
 
 
 ## TODO
