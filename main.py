@@ -13,6 +13,9 @@ from prosody_dataset import load_embeddings
 from model import Bert, LSTM
 from regression_model import RegressionModel
 from argparse import ArgumentParser
+import matplotlib.pyplot as plt
+from sklearn.metrics import confusion_matrix, precision_score, recall_score, confusion_matrix, accuracy_score, f1_score
+from sklearn.utils.multiclass import unique_labels
 
 parser = ArgumentParser(description='Prosody prediction')
 
@@ -21,10 +24,10 @@ parser.add_argument('--datadir',
                     default='./data')
 parser.add_argument('--batch_size',
                     type=int,
-                    default=64)
+                    default=16)
 parser.add_argument('--epochs',
                     type=int,
-                    default=5)
+                    default=2)
 parser.add_argument('--model',
                     type=str,
                     choices=['BertUncased',
@@ -324,7 +327,7 @@ def test(model, iterator, criterion, tag_to_index, index_to_tag, device, config)
                 predsslice = preds
                 wordslice = words.split()
             for w, t, p in zip(wordslice, tagslice, predsslice):
-                results.write("{} {} {}\n".format(w, t, p))
+                results.write("{}\t{}\t{}\n".format(w, t, p))
                 true.append(tag_to_index[t])
                 predictions.append(tag_to_index[p])
             results.write("\n")
@@ -332,8 +335,78 @@ def test(model, iterator, criterion, tag_to_index, index_to_tag, device, config)
     # calc metric
     y_true = np.array(true)
     y_pred = np.array(predictions)
+
+    true_labels = np.array([index_to_tag[index] for index in true])
+    predicted_labes = np.array([index_to_tag[index] for index in predictions])
+
+    np.set_printoptions(precision=1)
+    plot_confusion_matrix(true_labels, predicted_labes, ['0', '1', '2'], title='Confusion Matrix - ' + config.model)
+    plt.savefig('confusion_matrix-'+ config.model+'.png')
+
+    print('\nAccuracy: {}'.format(accuracy_score(true_labels, predicted_labes)))
+    print('F1 score: {}'.format(f1_score(true_labels, predicted_labes, average='macro')))
+    print('Recall: {}'.format(recall_score(true_labels, predicted_labes, average='macro')))
+    print('Precision: {}'.format(precision_score(true_labels, predicted_labes, average='macro')))
+
     acc = 100. * (y_true == y_pred).astype(np.int32).sum() / len(y_true)
     print('Test accuracy: {:<5.2f}%, Test loss: {:<.4f} after {} epochs.\n'.format(round(acc, 2), np.mean(test_losses), config.epochs))
+
+
+def plot_confusion_matrix(y_true, y_pred, classes,
+                          normalize=False,
+                          title=None,
+                          cmap=plt.cm.Blues):
+    """
+    This function prints and plots the confusion matrix.
+    Normalization can be applied by setting `normalize=True`.
+    """
+    if not title:
+        if normalize:
+            title = 'Normalized confusion matrix'
+        else:
+            title = 'Confusion matrix, without normalization'
+
+    # Compute confusion matrix
+    cm = confusion_matrix(y_true, y_pred)
+    # Only use the labels that appear in the data
+    #classes = classes[unique_labels(y_true, y_pred)]
+    if not title:
+        if normalize:
+            cm = cm.astype('float') / cm.sum(axis=1)[:, np.newaxis]
+            print("Normalized confusion matrix")
+        else:
+            print('Confusion matrix, without normalization')
+    else:
+        print(title)
+
+    print(cm)
+
+    fig, ax = plt.subplots()
+    im = ax.imshow(cm, interpolation='nearest', cmap=cmap)
+    ax.figure.colorbar(im, ax=ax)
+    # We want to show all ticks...
+    ax.set(xticks=np.arange(cm.shape[1]),
+           yticks=np.arange(cm.shape[0]),
+           # ... and label them with the respective list entries
+           xticklabels=classes, yticklabels=classes,
+           title=title,
+           ylabel='True label',
+           xlabel='Predicted label')
+
+    # Rotate the tick labels and set their alignment.
+    plt.setp(ax.get_xticklabels(), ha="right",
+             rotation_mode="anchor")
+
+    # Loop over data dimensions and create text annotations.
+    fmt = '.2f' if normalize else 'd'
+    thresh = cm.max() / 2.
+    for i in range(cm.shape[0]):
+        for j in range(cm.shape[1]):
+            ax.text(j, i, format(cm[i, j], fmt),
+                    ha="center", va="center",
+                    color="white" if cm[i, j] > thresh else "black")
+    fig.tight_layout()
+    return ax
 
 
 if __name__ == "__main__":
