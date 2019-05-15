@@ -348,7 +348,9 @@ def test(model, iterator, criterion, tag_to_index, index_to_tag, device, config)
 
     np.set_printoptions(precision=1)
     plot_confusion_matrix(y_true, y_pred, classes, title='Confusion Matrix - ' + config.model)
-    plt.savefig('confusion_matrix-'+ config.model+'.png')
+
+    plot_name = 'confusion_matrix-'+ config.model+'.png' if config.ignore_punctuation else 'confusion_matrix-'+ config.model+'no_NA.png'
+    plt.savefig(plot_name)
 
     accuracy = accuracy_score(y_true, y_pred)
     f1 = f1_score(y_true, y_pred, average='macro')
