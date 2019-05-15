@@ -10,7 +10,7 @@ import torch.optim as optim
 import prosody_dataset
 from prosody_dataset import Dataset
 from prosody_dataset import load_embeddings
-from model import Bert, LSTM, RegressionModel
+from model import Bert, LSTM, RegressionModel, WordMajority
 from argparse import ArgumentParser
 import matplotlib.pyplot as plt
 from sklearn.metrics import precision_score, recall_score, confusion_matrix, accuracy_score, f1_score, classification_report
@@ -32,7 +32,8 @@ parser.add_argument('--model',
                     choices=['BertUncased',
                              'BertCased',
                              'LSTM',
-                             'Regression'],
+                             'Regression',
+                             'WordMajority'],
                     default='BertUncased')
 parser.add_argument('--no_brnn',
                     action='store_false',
@@ -142,6 +143,8 @@ def main():
         model = LSTM(device, config, vocab_size=len(vocab), labels=len(tag_to_index))
     elif config.model == "Regression":
         model = RegressionModel(device, config)
+    elif config.model == "WordMajority":
+        model = WordMajority(device, config, index_to_tag)
     else:
         raise NotImplementedError("Model option not supported.")
 
@@ -167,9 +170,12 @@ def main():
                                 num_workers=1,
                                 collate_fn=prosody_dataset.pad)
 
-    optimizer = optim_algorithm(model.parameters(),
-                                lr=config.learning_rate,
-                                weight_decay=config.weight_decay)
+    if config.model in ["WordMajority"]:
+        optimizer = None
+    else:
+        optimizer = optim_algorithm(model.parameters(),
+                                    lr=config.learning_rate,
+                                    weight_decay=config.weight_decay)
 
     if config.model == 'Regression':
         criterion = nn.MSELoss()
@@ -189,6 +195,9 @@ def main():
     if config.bidirectional:
         config.cells *= 2
 
+    if config.model == 'WordMajority': # 1 pass over the dataset is enough to collect stats
+        config.epochs = 1
+
     print('\nTraining started...\n')
     for epoch in range(config.epochs):
         print("Epoch: {}".format(epoch+1))
@@ -199,9 +208,17 @@ def main():
 
 
 def train(model, iterator, optimizer, criterion, device, config):
+    if config.model == 'WordMajority' and model.load_stats():
+        return
+
     model.train()
     for i, batch in enumerate(iterator):
         words, x, is_main_piece, tags, y, seqlens = batch
+
+        if config.model == 'WordMajority':
+            model.collect_stats(x, y)
+            continue
+
         optimizer.zero_grad()
         x = x.to(device)
         y = y.to(device)
@@ -221,8 +238,13 @@ def train(model, iterator, optimizer, criterion, device, config):
         if i % config.log_every == 0 or i+1 == len(iterator):
             print("Training step: {}/{}, loss: {:<.4f}".format(i+1, len(iterator), loss.item()))
 
+    if config.model == 'WordMajority':
+        model.save_stats()
+
 
 def valid(model, iterator, criterion, tag_to_index, index_to_tag, device, config):
+    if config.model == 'WordMajority':
+        return
 
     model.eval()
     dev_losses = []
@@ -297,7 +319,7 @@ def test(model, iterator, criterion, tag_to_index, index_to_tag, device, config)
             y = y.to(device)
             logits, labels, y_hat = model(x, y)  # y_hat: (N, T)
 
-            if config.model == 'Regression':
+            if config.model in ['Regression']:
                 loss = criterion(logits, labels.float())
             else:
                 logits = logits.view(-1, logits.shape[-1])  # (N*T, VOCAB)
@@ -349,7 +371,7 @@ def test(model, iterator, criterion, tag_to_index, index_to_tag, device, config)
     np.set_printoptions(precision=1)
     plot_confusion_matrix(y_true, y_pred, classes, title='Confusion Matrix - ' + config.model)
 
-    plot_name = 'confusion_matrix-'+ config.model+'.png' if config.ignore_punctuation else 'confusion_matrix-'+ config.model+'no_NA.png'
+    plot_name = 'images/confusion_matrix-'+ config.model+'.png' if config.ignore_punctuation else 'confusion_matrix-'+ config.model+'no_NA.png'
     plt.savefig(plot_name)
 
     accuracy = accuracy_score(y_true, y_pred)
