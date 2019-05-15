@@ -95,13 +95,16 @@ Atlas 2 2
 | Minitagger (SVM)  | 69.8%                       | 65.6%                     |
 | LSTM (1 layers)   | 69.2%                       | 63.6%                     |
 | BiLSTM (3 layers) | 70.5%                       | 64.6%                     |
+| Majority class    |                             | 50.9%                     |
 
 ## Analysis
+
+Sample analyses (to be reproduced to the paper)
 
 ![Bert-uncased](images/confusion_matrix-BertUncased.png)
 
 
-|               | precision |   recall  | f1-score  | support    |
+|    label      | precision |   recall  | f1-score  | support    |
 | ---           | ---       |  ---      | ---       | ---        |
 |         0     |     0.79  |    0.85   |    0.82   |  45818     |
 |         1     |     0.49  |    0.47   |    0.48   |  24168     |
