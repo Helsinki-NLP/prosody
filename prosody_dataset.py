@@ -60,10 +60,10 @@ def load_dataset(config):
     splits = dict()
     words = []
     all_sents = []
-
-    for split in [config.train_set, 'dev', 'test']:
+    for split in ['train', 'dev', 'test']:
         tagged_sents = []
-        with open(config.datadir+'/'+split+'.txt') as f:
+        filename = config.train_set if split == 'train' else split
+        with open(config.datadir+'/'+filename+'.txt') as f:
             sentences = f.read().split("\n\n")
             for sentence in sentences:
                 lines = sentence.splitlines()
