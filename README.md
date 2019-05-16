@@ -91,13 +91,15 @@ Atlas 2 2
 
 | Model             | accuracy    |precision   |  recall     |f1-score    |
 | ---               | ---         | ---        | ---         | ---        |
-| BERT-base uncased | **0.6849**  | **0.6813** | **0.6849**  | **0.6824** |
+| BERT-base uncased (train-360) | **0.6955**  | **0.6877** | **0.6877**  | **0.6909** |
+| BERT-base uncased |  0.6849     |  0.6813    |  0.6849     | 0.6824     |
 | BERT-base cased   |  0.6849     |  0.6712    |  0.6849     | 0.6756     |
 | BiLSTM (3 layers) |  0.6648     |  0.6577    |  0.6648     | 0.6608     |
 | LSTM (1 layers)   |  0.6460     |  0.6380    |  0.6460     | 0.6414     |
 | Minitagger (SVM)  |  0.6455     |  0.6402    |  0.6455     | 0.6426     |
 | Majority per word |  0.6180     |  0.6205    |  0.6205     | 0.6205     |
 | Majority class    |  0.5087     |  0.2588    |  0.5087     | 0.3430     |
+
 
 ## Analysis
 
