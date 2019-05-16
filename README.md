@@ -87,7 +87,7 @@ Atlas 2 2
 
 ## Results
 
-**Results (excluding NA tag)**
+**Results (excluding NA tag - OLD WAY!!!)**
 
 | Model             | accuracy    |precision   |  recall     |f1-score    |
 | ---               | ---         | ---        | ---         | ---        |
@@ -99,6 +99,20 @@ Atlas 2 2
 | Majority per word |  0.6180     |  0.6205    |  0.6205     | 0.6205     |
 | Majority class    |  0.5087     |  0.2588    |  0.5087     | 0.3430     |
 
+**Results (excluding NA tag - NEW)**
+
+| Model             | accuracy    |precision   |  recall     |f1-score    |
+| ---               | ---         | ---        | ---         | ---        |
+| BERT-base cased   |  0.6849     |  0.6712    |  0.6849     | 0.6756     |
+| BERT-base uncased |  0.6849     |  0.6813    |  0.6849     | 0.6824     |
+| BiLSTM (3 layers) |  0.     |  0.    |  0.     | 0.     |
+| LSTM (1 layers)   |  0.     |  0.    |  0.     | 0.     |
+| Minitagger (SVM)  |  0.6455     |  0.6402    |  0.6455     | 0.6426     |
+| Majority per word |  0.     |  0.    |  0.     | 0.     |
+| Majority class    |  0.5087     |  0.2588    |  0.5087     | 0.3430     |
+
+
+
 
 ## Analysis
 
@@ -106,12 +120,7 @@ Sample analyses (to be reproduced for the paper)
 
 ![Bert-uncased](images/confusion_matrix-BertUncased.png)
 
-|                 |precision   |  recall     |f1-score    |  support   |
-| ---             | ---        | ---         | ---        | ---        |
-|    label 0      |  0.8271    | 0.8131      | 0.8200     | 45818      |
-|    label 1      | 0.4754     | 0.5883      | 0.5259     | 24168      |
-|    label 2      | 0.6190     |  0.4660     | 0.5317     | 20087      |
-| **avg / total** | **0.6863** |  **0.6754** | **0.6768** |  **90073** |
+![Bert-uncased](images/confusion_matrix-BertCased.png)
 
 ![WordMajority](images/confusion_matrix-WordMajority.png)
 
