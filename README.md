@@ -87,7 +87,7 @@ Atlas 2 2
 
 ## Results
 
-**Results (excluding NA tag)**
+**Results (excluding NA tag - OLD WAY!!!)**
 
 | Model             | accuracy    |precision   |  recall     |f1-score    |
 | ---               | ---         | ---        | ---         | ---        |
@@ -98,6 +98,19 @@ Atlas 2 2
 | Minitagger (SVM)  |  0.6455     |  0.6402    |  0.6455     | 0.6426     |
 | Majority per word |  0.6180     |  0.6205    |  0.6205     | 0.6205     |
 | Majority class    |  0.5087     |  0.2588    |  0.5087     | 0.3430     |
+
+**Results (excluding NA tag - NEW)**
+
+| Model             | accuracy    |precision   |  recall     |f1-score    |
+| ---               | ---         | ---        | ---         | ---        |
+| BERT-base cased   |  0. |  0.    |  0. | 0. |
+| BERT-base uncased |  0.6849     | 0.6813 |  0.6849     | 0.6824     |
+| BiLSTM (3 layers) |  0.     |  0.    |  0.     | 0.     |
+| LSTM (1 layers)   |  0.     |  0.    |  0.     | 0.     |
+| Minitagger (SVM)  |  0.6455     |  0.6402    |  0.6455     | 0.6426     |
+| Majority per word |  0.     |  0.    |  0.     | 0.     |
+| Majority class    |  0.5087     |  0.2588    |  0.5087     | 0.3430     |
+
 
 
 ## Analysis
