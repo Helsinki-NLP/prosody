@@ -21,7 +21,7 @@ For the **BERT** model run training by executing:
 python3 main.py \
     --model BertUncased \
     --batch_size 16 \
-    --epochs 5 \
+    --epochs 1 \
     --save_path results.txt \
     --log_every 50 \
     --learning_rate 0.00005 \
@@ -87,30 +87,17 @@ Atlas 2 2
 
 ## Results
 
-**Results (excluding NA tag - OLD WAY!!!)**
-
-| Model             | accuracy    |precision   |  recall     |f1-score    |
-| ---               | ---         | ---        | ---         | ---        |
-| BERT-base cased   |  **0.6792** |  0.6754    |  **0.6792** | **0.6758** |
-| BERT-base uncased |  0.6758     | **0.6854** |  0.6758     | 0.6756     |
-| BiLSTM (3 layers) |  0.6472     |  0.6388    |  0.6472     | 0.6424     |
-| LSTM (1 layers)   |  0.6376     |  0.6230    |  0.6376     | 0.6270     |
-| Minitagger (SVM)  |  0.6455     |  0.6402    |  0.6455     | 0.6426     |
-| Majority per word |  0.6180     |  0.6205    |  0.6205     | 0.6205     |
-| Majority class    |  0.5087     |  0.2588    |  0.5087     | 0.3430     |
-
 **Results (excluding NA tag - NEW)**
 
 | Model             | accuracy    |precision   |  recall     |f1-score    |
 | ---               | ---         | ---        | ---         | ---        |
+| BERT-base uncased | **0.6849**  | **0.6813** | **0.6849**  | **0.6824** |
 | BERT-base cased   |  0.6849     |  0.6712    |  0.6849     | 0.6756     |
-| BERT-base uncased |  0.6849     |  0.6813    |  0.6849     | 0.6824     |
-| BiLSTM (3 layers) |  0.     |  0.    |  0.     | 0.     |
-| LSTM (1 layers)   |  0.     |  0.    |  0.     | 0.     |
+| BiLSTM (3 layers) |  0.6648     |  0.6577    |  0.6648     | 0.6608     |
+| LSTM (1 layers)   |  0.6460     |  0.6380    |  0.6460     | 0.6414     |
 | Minitagger (SVM)  |  0.6455     |  0.6402    |  0.6455     | 0.6426     |
-| Majority per word |  0.     |  0.    |  0.     | 0.     |
+| Majority per word |  0.6180     |  0.6205    |  0.6205     | 0.6205     |
 | Majority class    |  0.5087     |  0.2588    |  0.5087     | 0.3430     |
-
 
 
 
@@ -120,7 +107,9 @@ Sample analyses (to be reproduced for the paper)
 
 ![Bert-uncased](images/confusion_matrix-BertUncased.png)
 
-![Bert-uncased](images/confusion_matrix-BertCased.png)
+![Bert-cased](images/confusion_matrix-BertCased.png)
+
+![BiLSTM](images/confusion_matrix-BiLSTM.png)
 
 ![WordMajority](images/confusion_matrix-WordMajority.png)
 
