@@ -145,3 +145,4 @@ Sample analyses (to be reproduced for the paper)
 * BERT + position encoding
 * Other pre-trained models (GPT, ELMo etc)
 * Sort sentences before forming batches? (Hande)
+* Using all layers of BERT for representation (Hande)
