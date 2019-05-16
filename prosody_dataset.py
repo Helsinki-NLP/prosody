@@ -69,6 +69,8 @@ def load_dataset(config):
                 sent = []
                 for line in lines:
                     split_line = line.split('\t')
+                    if len(split_line) < 2:
+                        print("here")
                     sent.append((split_line[0], split_line[1]))
                     words.append(split_line[0])
                 tagged_sents.append(sent)
