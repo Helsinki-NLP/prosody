@@ -287,8 +287,13 @@ def valid(model, iterator, criterion, tag_to_index, index_to_tag, device, config
             tagslice = tags.split()
             predsslice = preds
         for t, p in zip(tagslice, predsslice):
-            true.append(t)
-            predictions.append(p)
+            if config.ignore_punctuation:
+                if t != 'NA':
+                    true.append(t)
+                    predictions.append(p)
+            else:
+                true.append(t)
+                predictions.append(p)
 
     # calc metric
 
@@ -355,8 +360,13 @@ def test(model, iterator, criterion, tag_to_index, index_to_tag, device, config)
                 wordslice = words.split()
             for w, t, p in zip(wordslice, tagslice, predsslice):
                 results.write("{}\t{}\t{}\n".format(w, t, p))
-                true.append(t)
-                predictions.append(p)
+                if config.ignore_punctuation:
+                    if t != 'NA':
+                        true.append(t)
+                        predictions.append(p)
+                else:
+                    true.append(t)
+                    predictions.append(p)
             results.write("\n")
 
     # calc metric
@@ -366,7 +376,9 @@ def test(model, iterator, criterion, tag_to_index, index_to_tag, device, config)
     #y_true = np.array([index_to_tag[index] for index in true])
     #y_pred = np.array([index_to_tag[index] for index in predictions])
 
-    classes = ['0', '1', '2'] if config.ignore_punctuation else ['0', '1', '2', 'NA']
+    #classes = ['0', '1', '2'] if config.ignore_punctuation else ['0', '1', '2', 'NA']
+    classes = ['0', '1', '2', 'NA']
+
 
     np.set_printoptions(precision=1)
     plot_confusion_matrix(y_true, y_pred, classes, title='Confusion Matrix - ' + config.model)
@@ -385,7 +397,8 @@ def test(model, iterator, criterion, tag_to_index, index_to_tag, device, config)
     print('Recall: {}'.format(round(recall, 4)))
     print('Precision: {}'.format(round(precision, 4)))
 
-    target_names = ['label 0', 'label 1', 'label 2'] if config.ignore_punctuation else ['label 0', 'label 1', 'label 2', 'label NA']
+    #target_names = ['label 0', 'label 1', 'label 2'] if config.ignore_punctuation else ['label 0', 'label 1', 'label 2', 'label NA']
+    target_names = ['label 0', 'label 1', 'label 2']
     print(classification_report(y_true, y_pred, target_names=target_names, digits=4))
 
     # acc = 100. * (y_true == y_pred).astype(np.int32).sum() / len(y_true)
