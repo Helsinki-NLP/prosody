@@ -10,7 +10,7 @@ import torch.optim as optim
 import prosody_dataset
 from prosody_dataset import Dataset
 from prosody_dataset import load_embeddings
-from model import Bert, LSTM, RegressionModel, WordMajority
+from model import Bert, LSTM, RegressionModel, WordMajority, ClassEncodings
 from argparse import ArgumentParser
 import matplotlib.pyplot as plt
 from sklearn.metrics import precision_score, recall_score, confusion_matrix, accuracy_score, f1_score, classification_report
@@ -33,7 +33,8 @@ parser.add_argument('--model',
                              'BertCased',
                              'LSTM',
                              'Regression',
-                             'WordMajority'],
+                             'WordMajority',
+                             'ClassEncodings'],
                     default='BertUncased')
 parser.add_argument('--no_brnn',
                     action='store_false',
@@ -145,6 +146,8 @@ def main():
         model = RegressionModel(device, config)
     elif config.model == "WordMajority":
         model = WordMajority(device, config, index_to_tag)
+    elif config.model == "ClassEncodings":
+        model = ClassEncodings(device, config, index_to_tag)
     else:
         raise NotImplementedError("Model option not supported.")
 
@@ -179,6 +182,8 @@ def main():
 
     if config.model == 'Regression':
         criterion = nn.MSELoss()
+    elif config.model == 'ClassEncodings':
+        criterion = nn.BCELoss()
     else:
         criterion = nn.CrossEntropyLoss(ignore_index=0)
 
@@ -226,6 +231,10 @@ def train(model, iterator, optimizer, criterion, device, config):
 
         if config.model == 'Regression':
             loss = criterion(logits, y.float())
+        elif config.model == 'ClassEncodings':
+            logits = logits.view(-1, logits.shape[-1])  # (N*T, VOCAB)
+            y = y.view(-1, y.shape[-1])  # also (N*T, VOCAB)
+            loss = criterion(logits.to(device), y.to(device))
         else:
             logits = logits.view(-1, logits.shape[-1]) # (N*T, VOCAB)
             y = y.view(-1)  # (N*T,)
@@ -258,6 +267,10 @@ def valid(model, iterator, criterion, tag_to_index, index_to_tag, device, config
 
             if config.model == 'Regression':
                 loss = criterion(logits, labels.float())
+            elif config.model == 'ClassEncodings':
+                logits = logits.view(-1, logits.shape[-1])  # (N*T, VOCAB)
+                y = y.view(-1, y.shape[-1])  # also (N*T, VOCAB)
+                loss = criterion(logits.to(device), y.to(device))
             else:
                 logits = logits.view(-1, logits.shape[-1])  # (N*T, VOCAB)
                 labels = labels.view(-1)  # (N*T,)
@@ -321,6 +334,10 @@ def test(model, iterator, criterion, tag_to_index, index_to_tag, device, config)
 
             if config.model in ['Regression']:
                 loss = criterion(logits, labels.float())
+            elif config.model == 'ClassEncodings':
+                logits = logits.view(-1, logits.shape[-1])  # (N*T, VOCAB)
+                y = y.view(-1, y.shape[-1])  # also (N*T, VOCAB)
+                loss = criterion(logits.to(device), y.to(device))
             else:
                 logits = logits.view(-1, logits.shape[-1])  # (N*T, VOCAB)
                 labels = labels.view(-1)  # (N*T,)
