@@ -36,7 +36,7 @@ For the **LSTM** model run training by executing:
 ```console
 # Train 3-layer BiLSTM
 python3 main.py \
-    --model LSTM \
+    --model BiLSTM \
     --layers 3 \
     --hidden_dim 600 \
     --batch_size 64 \
@@ -98,8 +98,6 @@ Atlas 2 2
 | Minitagger (SVM)  |  0.6455     |  0.6402    |  0.6455     | 0.6426     |
 | Majority per word |  0.6180     |  0.6205    |  0.6205     | 0.6205     |
 | Majority class    |  0.5087     |  0.2588    |  0.5087     | 0.3430     |
-
-
 
 ## Analysis
 

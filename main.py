@@ -21,6 +21,11 @@ parser = ArgumentParser(description='Prosody prediction')
 parser.add_argument('--datadir',
                     type=str,
                     default='./data')
+parser.add_argument('--train_set',
+                    type=str,
+                    choices=['train_100',
+                             'train_360'],
+                    default='BertUncased')
 parser.add_argument('--batch_size',
                     type=int,
                     default=16)
@@ -32,13 +37,11 @@ parser.add_argument('--model',
                     choices=['BertUncased',
                              'BertCased',
                              'LSTM',
+                             'BiLSTM',
                              'Regression',
                              'WordMajority',
                              'ClassEncodings'],
                     default='BertUncased')
-parser.add_argument('--no_brnn',
-                    action='store_false',
-                    dest='bidirectional')
 parser.add_argument('--hidden_dim',
                     type=int,
                     default=600)
@@ -140,7 +143,7 @@ def main():
 
     if config.model == "BertUncased" or config.model == "BertCased":
         model = Bert(device, config, labels=len(tag_to_index))
-    elif config.model == "LSTM":
+    elif config.model == "LSTM" or config.model == "BiLSTM":
         model = LSTM(device, config, vocab_size=len(vocab), labels=len(tag_to_index))
     elif config.model == "Regression":
         model = RegressionModel(device, config)
@@ -191,13 +194,13 @@ def main():
     print('Parameters: {}'.format(params))
 
     # TODO: implement word embeddings
-    if config.model == 'LSTM':
+    if config.model == 'LSTM' or config.model == 'BiLSTM':
         weights = load_embeddings(config, vocab)
         model.word_embedding.weight.data = torch.Tensor(weights).to(device)
 
     config.cells = config.layers
 
-    if config.bidirectional:
+    if config.model == 'BiLSTM':
         config.cells *= 2
 
     if config.model == 'WordMajority': # 1 pass over the dataset is enough to collect stats
@@ -292,7 +295,7 @@ def valid(model, iterator, criterion, tag_to_index, index_to_tag, device, config
             preds = [index_to_tag[max(min(int(hat), 4), 0)] for hat in y_hat]
         else:
             preds = [index_to_tag[hat] for hat in y_hat]
-        if config.model != 'LSTM':
+        if config.model != 'LSTM' and config.model != 'BiLSTM':
             tagslice = tags.split()[1:-1]
             predsslice = preds[1:-1]
             assert len(preds) == len(words.split()) == len(tags.split())
@@ -366,7 +369,7 @@ def test(model, iterator, criterion, tag_to_index, index_to_tag, device, config)
                 preds = [index_to_tag[max(min(int(hat), 4), 0)] for hat in y_hat]
             else:
                 preds = [index_to_tag[hat] for hat in y_hat]
-            if config.model != 'LSTM':
+            if config.model != 'LSTM' and config.model != 'BiLSTM':
                 tagslice = tags.split()[1:-1]
                 predsslice = preds[1:-1]
                 wordslice = words.split()[1:-1]

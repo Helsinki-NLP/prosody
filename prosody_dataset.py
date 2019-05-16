@@ -11,7 +11,7 @@ class Dataset(data.Dataset):
         for sent in tagged_sents:
             words = [word_tag[0] for word_tag in sent]
             tags = [word_tag[1] for word_tag in sent]
-            if self.config.model != 'LSTM':
+            if self.config.model != 'LSTM' and self.config.model != 'BiLSTM':
                 sents.append(["[CLS]"] + words + ["[SEP]"])
                 tags_li.append(["<pad>"] + tags + ["<pad>"])
             else:
@@ -60,7 +60,7 @@ def load_dataset(config):
     splits = dict()
     words = []
     all_sents = []
-    for split in ['train', 'dev', 'test']:
+    for split in [config.train_set, 'dev', 'test']:
         tagged_sents = []
         with open(config.datadir+'/'+split+'.txt') as f:
             sentences = f.read().split("\n\n")
