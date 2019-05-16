@@ -233,7 +233,7 @@ def train(model, iterator, optimizer, criterion, device, config):
         logits, y, _ = model(x, y) # logits: (N, T, VOCAB), y: (N, T)
 
         if config.model == 'Regression':
-            loss = criterion(logits, y.float())
+            loss = criterion(logits.to(device), y.float().to(device))
         elif config.model == 'ClassEncodings':
             logits = logits.view(-1, logits.shape[-1])  # (N*T, VOCAB)
             y = y.view(-1, y.shape[-1])  # also (N*T, VOCAB)
@@ -269,11 +269,11 @@ def valid(model, iterator, criterion, tag_to_index, index_to_tag, device, config
             logits, labels, y_hat = model(x, y)  # y_hat: (N, T)
 
             if config.model == 'Regression':
-                loss = criterion(logits, labels.float())
+                loss = criterion(logits.to(device), labels.float().to(device))
             elif config.model == 'ClassEncodings':
                 logits = logits.view(-1, logits.shape[-1])  # (N*T, VOCAB)
-                y = y.view(-1, y.shape[-1])  # also (N*T, VOCAB)
-                loss = criterion(logits.to(device), y.to(device))
+                labels = labels.view(-1, labels.shape[-1])  # also (N*T, VOCAB)
+                loss = criterion(logits.to(device), labels.to(device))
             else:
                 logits = logits.view(-1, logits.shape[-1])  # (N*T, VOCAB)
                 labels = labels.view(-1)  # (N*T,)
@@ -341,11 +341,11 @@ def test(model, iterator, criterion, tag_to_index, index_to_tag, device, config)
             logits, labels, y_hat = model(x, y)  # y_hat: (N, T)
 
             if config.model in ['Regression']:
-                loss = criterion(logits, labels.float())
+                loss = criterion(logits.to(device), labels.float().to(device))
             elif config.model == 'ClassEncodings':
                 logits = logits.view(-1, logits.shape[-1])  # (N*T, VOCAB)
-                y = y.view(-1, y.shape[-1])  # also (N*T, VOCAB)
-                loss = criterion(logits.to(device), y.to(device))
+                labels = labels.view(-1, labels.shape[-1])  # also (N*T, VOCAB)
+                loss = criterion(logits.to(device), labels.to(device))
             else:
                 logits = logits.view(-1, logits.shape[-1])  # (N*T, VOCAB)
                 labels = labels.view(-1)  # (N*T,)
