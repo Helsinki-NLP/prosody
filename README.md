@@ -113,25 +113,6 @@ Sample analyses (to be reproduced for the paper)
 
 ![WordMajority](images/confusion_matrix-WordMajority.png)
 
-|                 |precision   |  recall     |f1-score    |  support   |
-| ---             | ---        | ---         | ---        | ---        |
-|     label 0     | 0.7298     | 0.8498      | 0.7852     | 45818      |
-|     label 1     | 0.4419     | 0.4206      | 0.4310     | 24168      |
-|     label 2     | 0.4946     | 0.3379      | 0.4015     | 20087      |
-| **avg / total** | **0.6205** | **0.6205**  | **0.6205** | **90073** |
-
-
-| Model             | Test acc (incl punctuation) | Test acc (no punctuation) |
-| ---               |  ---                        | ---                       |
-| BERT-base uncased | **72.5%**                   | **68.7%** (not able to reproduce) |
-| BERT-base cased   | 70.4%                       | 65.8%                     |
-| Minitagger (SVM)  | 69.8%                       | 65.6%                     |
-| LSTM (1 layers)   | 69.2%                       | 63.6%                     |
-| BiLSTM (3 layers) | 70.5%                       | 64.6%                     |
-| Majority per word | 54.4%                       | 61.8%                     |
-| Majority class    | 44.0%                       | 50.9%                     |
-
-
 ## TODO
 
 * BERT (DONE)
