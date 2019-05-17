@@ -3,6 +3,17 @@ Prosody prediction using BERT
 
 ## Usage
 
+To use the system following dependencies need to be installed:
+
+* Python 3
+* torch>=1.0
+* argparse
+* pytorch_pretrained_bert
+* numpy
+* matplotlib
+* sklearn
+
+
 To install the requirements run:
 
 ```console
@@ -89,7 +100,7 @@ Atlas 2 2
 
 **Results (excluding NA tag - NEW)**
 
-| Model             |  Train data | accuracy    |precision   |  recall     |f1-score    |
+| Model             |  Train data | accuracy    |precision   |  recall     | f1-score   |
 | ---               | ---         | ---         | ---        | ---         | ---        |
 | BERT-base uncased | train-360   | **0.6955**  | **0.6877** | **0.6877**  | **0.6909** |
 | BERT-base cased   | train-360   |  0.6947     |  0.6936    |  0.6947     | 0.6937     |
