@@ -11,7 +11,7 @@ class Dataset(data.Dataset):
         for sent in tagged_sents:
             words = [word_tag[0] for word_tag in sent]
             tags = [word_tag[1] for word_tag in sent]
-            if self.config.model != 'LSTM':
+            if self.config.model != 'LSTM' and self.config.model != 'BiLSTM':
                 sents.append(["[CLS]"] + words + ["[SEP]"])
                 tags_li.append(["<pad>"] + tags + ["<pad>"])
             else:
@@ -62,7 +62,8 @@ def load_dataset(config):
     all_sents = []
     for split in ['train', 'dev', 'test']:
         tagged_sents = []
-        with open(config.datadir+'/'+split+'.txt') as f:
+        filename = config.train_set if split == 'train' else split
+        with open(config.datadir+'/'+filename+'.txt') as f:
             sentences = f.read().split("\n\n")
             for sentence in sentences:
                 lines = sentence.splitlines()
@@ -72,7 +73,10 @@ def load_dataset(config):
                     sent.append((split_line[0], split_line[1]))
                     words.append(split_line[0])
                 tagged_sents.append(sent)
-        slice = len(tagged_sents) * config.fraction_of_sentences
+        if config.fraction_of_train_sentences < 1 and split == 'train':
+            slice = len(tagged_sents) * config.fraction_of_train_sentences
+        else:
+            slice = len(tagged_sents) * config.fraction_of_sentences
         tagged_sents = tagged_sents[0:int(slice)]
         splits[split] = tagged_sents
         all_sents = all_sents + tagged_sents
@@ -88,9 +92,9 @@ def load_dataset(config):
     tag_to_index = {tag: index for index, tag in enumerate(tags)}
     index_to_tag = {index: tag for index, tag in enumerate(tags)}
 
-    print('Training examples: {}'.format(len(splits["train"])))
-    print('Dev examples: {}'.format(len(splits["dev"])))
-    print('Test examples: {}'.format(len(splits["test"])))
+    print('Training sentences: {}'.format(len(splits["train"])))
+    print('Dev sentences: {}'.format(len(splits["dev"])))
+    print('Test sentences: {}'.format(len(splits["test"])))
 
     return splits, tag_to_index, index_to_tag, vocab
 

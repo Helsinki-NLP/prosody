@@ -44,10 +44,10 @@ class LSTM(nn.Module):
     def __init__(self, device, config, vocab_size, labels=None):
         super().__init__()
         self.config = config
-        self.bidirectional = config.bidirectional
+        self.bidirectional = True if config.model == 'BiLSTM' else False
         self.device = device
         self.dropout = 0 if config.layers == 1 else 0.2
-        hidden_dim = config.hidden_dim*2 if config.bidirectional else config.hidden_dim
+        hidden_dim = config.hidden_dim*2 if config.model == 'BiLSTM' else config.hidden_dim
         self.fc = nn.Linear(hidden_dim, labels)
         self.word_embedding = nn.Embedding(vocab_size, 300)
         self.lstm = nn.LSTM(input_size=300,
