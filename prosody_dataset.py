@@ -73,7 +73,10 @@ def load_dataset(config):
                     sent.append((split_line[0], split_line[1]))
                     words.append(split_line[0])
                 tagged_sents.append(sent)
-        slice = len(tagged_sents) * config.fraction_of_sentences
+        if config.fraction_of_train_sentences < 1 and split == 'train':
+            slice = len(tagged_sents) * config.fraction_of_train_sentences
+        else:
+            slice = len(tagged_sents) * config.fraction_of_sentences
         tagged_sents = tagged_sents[0:int(slice)]
         splits[split] = tagged_sents
         all_sents = all_sents + tagged_sents

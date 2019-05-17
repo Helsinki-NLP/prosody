@@ -70,6 +70,10 @@ parser.add_argument('--fraction_of_sentences',
                     type=float,
                     default=1
                     )
+parser.add_argument('--fraction_of_train_sentences',
+                    type=float,
+                    default=1
+                    )
 parser.add_argument("--optimizer",
                     type=str,
                     choices=['rprop',
