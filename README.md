@@ -31,6 +31,7 @@ For the **BERT** model run training by executing:
 # Train BERT-Uncased
 python3 main.py \
     --model BertUncased \
+    --train_set train_360 \
     --batch_size 16 \
     --epochs 1 \
     --save_path results.txt \
@@ -48,6 +49,7 @@ For the **LSTM** model run training by executing:
 # Train 3-layer BiLSTM
 python3 main.py \
     --model BiLSTM \
+    --train_set train_360 \
     --layers 3 \
     --hidden_dim 600 \
     --batch_size 64 \
