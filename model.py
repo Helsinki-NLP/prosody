@@ -170,29 +170,42 @@ class WordMajority(nn.Module):
 
 
 class ClassEncodings(nn.Module):
-    def __init__(self, device, config, index_to_tag):
+    def __init__(self, device, config, index_to_tag, tag_to_index):
         super().__init__()
 
         self.bert = BertModel.from_pretrained('bert-base-uncased')
 
-        self.FIXED_NR_OUTPUTS = 5 # FIXME: We may want to make this dynamic?
+        self.FIXED_NR_OUTPUTS = 8 # FIXME: We may want to make this dynamic?
                                   # For now it is handcoded to the mapping below.
 
         self.fc = nn.Linear(768, self.FIXED_NR_OUTPUTS).to(device)
+
         self.device = device
 
         self.index_to_tag = index_to_tag
-        self.mapping = {'0'    : [1, 0, 0, 0, 0], # prosody value 0
-                        '1'    : [1, 1, 1, 0, 0], # prosody value 1
-                        '2'    : [1, 1, 1, 0, 0], # prosody value 2
-                        '<pad>': [0, 0, 0, 1, 0], # <pad>
-                        'NA'   : [0, 0, 0, 0, 1]} # NA
+        self.tag_to_index = tag_to_index
 
+        self.mapping = {'<pad>': [0, 0, 0, 0, 0, 0, 1, 1],  # <pad>
+                        'NA'   : [0, 0, 0, 0, 1, 1, 0, 0],  # NA
+                        '2'    : [0, 0, 1, 1, 0, 0, 0, 0],  # prosody value 2
+                        '0'    : [1, 1, 0, 0, 0, 0, 0, 0],  # prosody value 0
+                        '1'    : [0, 1, 1, 0, 0, 0, 0, 0]}  # prosody value 1
+
+
+    def get_encoding(self, index):
+        return self.mapping[self.index_to_tag[index]]
+
+    def get_tag(self, encoding):
+        distance = lambda L1,L2: sum([abs(L1[i]-L2[i]) for i in range(len(L1))])
+        distances_to_classes = {tag:distance(self.mapping[tag], encoding) for tag in self.mapping.keys()}
+        return min(distances_to_classes, key=distances_to_classes.get)
 
     def forward(self, x, y):
-
         x = x.to(self.device)
         y = y.to(self.device)
+
+        batch_size = x.shape[0]
+        seq_length = x.shape[1]
 
         if self.training:
             self.bert.train()
@@ -204,11 +217,14 @@ class ClassEncodings(nn.Module):
                 encoded_layers, _ = self.bert(x)
                 enc = encoded_layers[-1]
 
-        logits = F.sigmoid(self.fc(enc).to(self.device))
+        logits = F.sigmoid(self.fc(enc)).to(self.device)
 
-        y_hat = logits.argmax(-1)
+        y_hat = torch.LongTensor([self.tag_to_index[self.get_tag(logit)]\
+                                                                for logit in logits.view(batch_size * seq_length, -1)])\
+                                                                .view(batch_size, seq_length).to(self.device)
 
-        class_encodings = torch.FloatTensor([self.mapping[self.index_to_tag[label.item()]] for label in y.view(-1)])
-        class_encodings = class_encodings.view(y.shape[0], y.shape[1], self.FIXED_NR_OUTPUTS)
+        class_encodings = torch.FloatTensor([self.get_encoding(label.item()) for label in y.view(-1)])
+        class_encodings = class_encodings.view(batch_size, seq_length, self.FIXED_NR_OUTPUTS).to(self.device)
 
         return logits, class_encodings, y_hat
+

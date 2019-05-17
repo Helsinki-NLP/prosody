@@ -147,7 +147,7 @@ def main():
     elif config.model == "WordMajority":
         model = WordMajority(device, config, index_to_tag)
     elif config.model == "ClassEncodings":
-        model = ClassEncodings(device, config, index_to_tag)
+        model = ClassEncodings(device, config, index_to_tag, tag_to_index)
     else:
         raise NotImplementedError("Model option not supported.")
 
