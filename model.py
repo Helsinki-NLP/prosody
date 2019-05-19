@@ -228,3 +228,35 @@ class ClassEncodings(nn.Module):
 
         return logits, class_encodings, y_hat
 
+
+
+class BertAllLayers(nn.Module):
+    def __init__(self, device, config, labels=None):
+        super().__init__()
+
+        if config.model == "BertCased":
+            self.bert = BertModel.from_pretrained('bert-base-cased')
+        else:
+            self.bert = BertModel.from_pretrained('bert-base-uncased')
+
+        self.fc = nn.Linear(768*12, labels).to(device)
+        self.device = device
+
+    def forward(self, x, y):
+
+        x = x.to(self.device)
+        y = y.to(self.device)
+
+        if self.training:
+            self.bert.train()
+            encoded_layers, _ = self.bert(x)
+            enc = torch.cat([encoded_layers[i] for i in range(len(encoded_layers))], dim=2)
+        else:
+            self.bert.eval()
+            with torch.no_grad():
+                encoded_layers, _ = self.bert(x)
+                enc = torch.cat([encoded_layers[i] for i in range(len(encoded_layers))], dim = 2)
+
+        logits = self.fc(enc).to(self.device)
+        y_hat = logits.argmax(-1)
+        return logits, y, y_hat

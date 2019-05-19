@@ -10,7 +10,7 @@ import torch.optim as optim
 import prosody_dataset
 from prosody_dataset import Dataset
 from prosody_dataset import load_embeddings
-from model import Bert, LSTM, RegressionModel, WordMajority, ClassEncodings
+from model import Bert, LSTM, RegressionModel, WordMajority, ClassEncodings, BertAllLayers
 from argparse import ArgumentParser
 import matplotlib.pyplot as plt
 from sklearn.metrics import precision_score, recall_score, confusion_matrix, accuracy_score, f1_score, classification_report
@@ -40,7 +40,8 @@ parser.add_argument('--model',
                              'BiLSTM',
                              'Regression',
                              'WordMajority',
-                             'ClassEncodings'],
+                             'ClassEncodings',
+                             'BertAllLayers'],
                     default='BertUncased')
 parser.add_argument('--hidden_dim',
                     type=int,
@@ -155,6 +156,8 @@ def main():
         model = WordMajority(device, config, index_to_tag)
     elif config.model == "ClassEncodings":
         model = ClassEncodings(device, config, index_to_tag, tag_to_index)
+    elif config.model == "BertAllLayers":
+        model = BertAllLayers(device, config, labels=len(tag_to_index))
     else:
         raise NotImplementedError("Model option not supported.")
 
