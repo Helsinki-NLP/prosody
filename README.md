@@ -114,7 +114,7 @@ Atlas 2 2
 | BiLSTM (3 layers) | train-100   |  0.6648     |  0.6577    |  0.6648     | 0.6608     |
 | LSTM (1 layers)   | train-100   |  0.6460     |  0.6380    |  0.6460     | 0.6414     |
 | Minitagger (SVM)  | train-100   |  0.6455     |  0.6402    |  0.6455     | 0.6426     |
-| Majority per word | train-100   |  0.6180     |  0.6205    |  0.6205     | 0.6205     |
+| Majority per word | train-100   |  0.6210     |  0.5995    |  0.6210     | 0.6057     |
 | Majority class    |             |  0.5087     |  0.2588    |  0.5087     | 0.3430     |
 
 
