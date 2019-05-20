@@ -17,12 +17,41 @@ class Bert(nn.Module):
         else:
             self.bert = BertModel.from_pretrained('bert-base-uncased')
 
+        self.fc = nn.Linear(768, labels).to(device)
+        self.device = device
+
+    def forward(self, x, y):
+
+        x = x.to(self.device)
+        y = y.to(self.device)
+
+        if self.training:
+            self.bert.train()
+            encoded_layers, _ = self.bert(x)
+            enc = encoded_layers[-1]
+        else:
+            self.bert.eval()
+            with torch.no_grad():
+                encoded_layers, _ = self.bert(x)
+                enc = encoded_layers[-1]
+
+        logits = self.fc(enc).to(self.device)
+        y_hat = logits.argmax(-1)
+        return logits, y, y_hat
+
+
+class BertLSTM(nn.Module):
+    def __init__(self, device, config, labels=None):
+        super().__init__()
+
+        self.bert = BertModel.from_pretrained('bert-base-uncased')
+
         self.fc = nn.Linear(1536, labels).to(device)
         self.device = device
         self.lstm = nn.LSTM(input_size=768,
                             hidden_size=768,
-                            num_layers=3,
-                            dropout=0.2,
+                            num_layers=1,
+                            dropout=0,
                             bidirectional=True)
 
     def forward(self, x, y):

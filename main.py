@@ -10,7 +10,7 @@ import torch.optim as optim
 import prosody_dataset
 from prosody_dataset import Dataset
 from prosody_dataset import load_embeddings
-from model import Bert, LSTM, RegressionModel, WordMajority, ClassEncodings, BertAllLayers
+from model import Bert, BertLSTM, LSTM, RegressionModel, WordMajority, ClassEncodings, BertAllLayers
 from argparse import ArgumentParser
 import matplotlib.pyplot as plt
 from sklearn.metrics import precision_score, recall_score, confusion_matrix, accuracy_score, f1_score, classification_report
@@ -25,7 +25,7 @@ parser.add_argument('--train_set',
                     type=str,
                     choices=['train_100',
                              'train_360'],
-                    default='BertUncased')
+                    default='train_360')
 parser.add_argument('--batch_size',
                     type=int,
                     default=16)
@@ -36,6 +36,7 @@ parser.add_argument('--model',
                     type=str,
                     choices=['BertUncased',
                              'BertCased',
+                             'BertLSTM'
                              'LSTM',
                              'BiLSTM',
                              'Regression',
@@ -148,6 +149,8 @@ def main():
 
     if config.model == "BertUncased" or config.model == "BertCased":
         model = Bert(device, config, labels=len(tag_to_index))
+    elif config.model == "BertLSTM":
+        model = BertLSTM(device, config, labels=len(tag_to_index))
     elif config.model == "LSTM" or config.model == "BiLSTM":
         model = LSTM(device, config, vocab_size=len(vocab), labels=len(tag_to_index))
     elif config.model == "Regression":
@@ -473,7 +476,6 @@ def plot_confusion_matrix(y_true, y_pred, classes,
            ylabel='True label',
            xlabel='Predicted label')
 
-    # Rotate the tick labels and set their alignment.
     plt.setp(ax.get_xticklabels(), ha="right",
              rotation_mode="anchor")
 
