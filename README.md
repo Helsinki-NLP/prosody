@@ -104,8 +104,8 @@ Atlas 2 2
 
 | Model                                           |  Train data | accuracy    |precision   |  recall     | f1-score   |
 | ---                                             | ---         | ---         | ---        | ---         | ---        |
-| BERT-base uncased                               | train-360   | **0.6955**  |  0.6877    | **0.6877**  | **0.6909** |
-| BERT-base cased                                 | train-360   |  0.6947     | **0.6936** |  0.6947     | 0.6937     |
+| BERT-base uncased                               | train-360   | **0.6955**  |  0.6877    |  0.6877     | 0.6909     |
+| BERT-base cased                                 | train-360   |  0.6947     | **0.6936** | **0.6947**  | **0.6937** |
 | BiLSTM (3 layers)                               | train-360   |  0.6771     |  0.6690    |  0.6771     | 0.6714     |
 | LSTM (1 layers)                                 | train-360   |  0.6587     |  0.6487    |  0.6587     | 0.6506     |
 | Majority per word                               | train-360   |  0.6055     |  0.4897    |  0.6055     | 0.5394     |
