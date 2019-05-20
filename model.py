@@ -17,8 +17,13 @@ class Bert(nn.Module):
         else:
             self.bert = BertModel.from_pretrained('bert-base-uncased')
 
-        self.fc = nn.Linear(768, labels).to(device)
+        self.fc = nn.Linear(1536, labels).to(device)
         self.device = device
+        self.lstm = nn.LSTM(input_size=768,
+                            hidden_size=768,
+                            num_layers=3,
+                            dropout=0.2,
+                            bidirectional=True)
 
     def forward(self, x, y):
 
@@ -35,6 +40,9 @@ class Bert(nn.Module):
                 encoded_layers, _ = self.bert(x)
                 enc = encoded_layers[-1]
 
+        enc = enc.permute(1, 0, 2)
+        enc = self.lstm(enc)[0]
+        enc = enc.permute(1, 0, 2)
         logits = self.fc(enc).to(self.device)
         y_hat = logits.argmax(-1)
         return logits, y, y_hat
