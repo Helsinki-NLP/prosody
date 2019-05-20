@@ -102,20 +102,26 @@ Atlas 2 2
 
 **Results (excluding NA tag - NEW)**
 
-| Model             |  Train data | accuracy    |precision   |  recall     | f1-score   |
-| ---               | ---         | ---         | ---        | ---         | ---        |
-| BERT-base uncased | train-360   | **0.6955**  | **0.6877** | **0.6877**  | **0.6909** |
-| BERT-base cased   | train-360   |  0.6947     |  0.6936    |  0.6947     | 0.6937     |
-| BiLSTM (3 layers) | train-360   |  0.6771     |  0.6690    |  0.6771     | 0.6714     |
-| LSTM (1 layers)   | train-360   |  0.6587     |  0.6487    |  0.6587     | 0.6506     |
-| Majority per word | train-360   |  0.6055     |  0.4897    |  0.6055     | 0.5394     |
-| BERT-base uncased | train-100   |  0.6849     |  0.6813    |  0.6849     | 0.6824     |
-| BERT-base cased   | train-100   |  0.6849     |  0.6712    |  0.6849     | 0.6756     |
-| BiLSTM (3 layers) | train-100   |  0.6648     |  0.6577    |  0.6648     | 0.6608     |
-| LSTM (1 layers)   | train-100   |  0.6460     |  0.6380    |  0.6460     | 0.6414     |
-| Minitagger (SVM)  | train-100   |  0.6455     |  0.6402    |  0.6455     | 0.6426     |
-| Majority per word | train-100   |  0.6210     |  0.5995    |  0.6210     | 0.6057     |
-| Majority class    |             |  0.5087     |  0.2588    |  0.5087     | 0.3430     |
+| Model                                           |  Train data | accuracy    |precision   |  recall     | f1-score   |
+| ---                                             | ---         | ---         | ---        | ---         | ---        |
+| BERT-base uncased                               | train-360   | **0.6955**  | **0.6877** | **0.6877**  | **0.6909** |
+| BERT-base cased                                 | train-360   |  0.6947     |  0.6936    |  0.6947     | 0.6937     |
+| BiLSTM (3 layers)                               | train-360   |  0.6771     |  0.6690    |  0.6771     | 0.6714     |
+| LSTM (1 layers)                                 | train-360   |  0.6587     |  0.6487    |  0.6587     | 0.6506     |
+| Majority per word                               | train-360   |  0.6055     |  0.4897    |  0.6055     | 0.5394     |
+| Minitagger (SVM) + word embeddings (GloVe)      | train-360   |  0.6645     |  0.6493    |  0.6645     | 0.6535     |
+| Minitagger (SVM) + voice embeddings (voice2vec) | train-360   |  0.6647     |  0.6489    |  0.6647     | 0.6534     |
+| Minitagger (SVM)                                | train-360   |  0.6548     |  0.6384    |  0.6548     | 0.6435     |
+| BERT-base uncased                               | train-100   |  0.6849     |  0.6813    |  0.6849     | 0.6824     |
+| BERT-base cased                                 | train-100   |  0.6849     |  0.6712    |  0.6849     | 0.6756     |
+| BiLSTM (3 layers)                               | train-100   |  0.6648     |  0.6577    |  0.6648     | 0.6608     |
+| LSTM (1 layers)                                 | train-100   |  0.6460     |  0.6380    |  0.6460     | 0.6414     |
+| Minitagger (SVM) + word embeddings              | train-100   |  0.6455     |  0.6402    |  0.6455     | 0.6426     |
+| Majority per word                               | train-100   |  0.6210     |  0.5995    |  0.6210     | 0.6057     |
+| Majority class                                  |             |  0.5087     |  0.2588    |  0.5087     | 0.3430     |
+
+
+
 
 
 ## Analysis
