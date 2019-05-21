@@ -110,7 +110,7 @@ Atlas 2 2
 | LSTM (1 layers)                                 | train-360   |  0.6587     |  0.6487    |  0.6587     | 0.6506     |
 | Majority per word                               | train-360   |  0.6055     |  0.4897    |  0.6055     | 0.5394     |
 | Minitagger (SVM) + word embeddings (GloVe)      | train-360   |  0.6645     |  0.6493    |  0.6645     | 0.6535     |
-| Minitagger (SVM) + voice embeddings (voice2vec) | train-360   |  0.6647     |  0.6489    |  0.6647     | 0.6534     |
+| Minitagger (SVM) + word embeddings (Speech2Vec) | train-360   |  0.6647     |  0.6489    |  0.6647     | 0.6534     |
 | Minitagger (SVM)                                | train-360   |  0.6548     |  0.6384    |  0.6548     | 0.6435     |
 
 
