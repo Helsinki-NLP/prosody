@@ -43,7 +43,7 @@ UDTAG = 4
 ## model to be used and number of max iterations in training
 # MODEL = multiclass
 MODEL = multitron
-MAXITER = 100
+MAXITER = 25
 
 
 # UDPIPE = udpipe/src/udpipe
@@ -56,10 +56,38 @@ UDPIPE = ${BINDIR}/udpipe
 UDPIPE_MODEL = english-ewt-ud-2.3-181115.udpipe
 
 
+all: test.${TRAIN}.l${LABEL}.${FEAT}.${MODEL}.eval
+
+
 data: train_${TRAIN}.l${LABEL}.${FEAT} test.l${LABEL}.bigram
 train: train_${TRAIN}.l${LABEL}.${FEAT}.${MODEL}
 test: test.${TRAIN}.l${LABEL}.${FEAT}.${MODEL}.predict
 eval: test.${TRAIN}.l${LABEL}.${FEAT}.${MODEL}.eval
+
+
+run:
+	make FEAT=unigram LABEL=2 TRAIN=360 eval
+	make FEAT=bigram LABEL=2 TRAIN=360 eval
+	make FEAT=trigram LABEL=2 TRAIN=360 eval
+	make UDTAG=3 FEAT=ud3.trigram LABEL=2 TRAIN=360 eval
+	make UDTAG=4 FEAT=ud4.trigram LABEL=2 TRAIN=360 eval
+	make UDTAG=5 FEAT=ud5.trigram LABEL=2 TRAIN=360 eval
+	make FEAT=unigram LABEL=3 TRAIN=360 eval
+	make FEAT=bigram LABEL=3 TRAIN=360 eval
+	make FEAT=trigram LABEL=3 TRAIN=360 eval
+	make UDTAG=3 FEAT=ud3.trigram LABEL=3 TRAIN=360 eval
+	make UDTAG=4 FEAT=ud4.trigram LABEL=3 TRAIN=360 eval
+	make UDTAG=5 FEAT=ud5.trigram LABEL=3 TRAIN=360 eval
+	make FEAT=unigram LABEL=23 TRAIN=360 eval
+	make FEAT=bigram LABEL=23 TRAIN=360 eval
+	make FEAT=trigram LABEL=23 TRAIN=360 eval
+	make UDTAG=3 FEAT=ud3.trigram LABEL=23 TRAIN=360 eval
+	make UDTAG=4 FEAT=ud4.trigram LABEL=23 TRAIN=360 eval
+	make UDTAG=5 FEAT=ud5.trigram LABEL=23 TRAIN=360 eval
+	make FEAT=ud2+ud3+ud4.trigram TRAIN=360 LABEL=2 eval
+	make FEAT=ud2+ud3+ud4.trigram TRAIN=360 LABEL=3 eval
+	make FEAT=ud2+ud3+ud4.trigram TRAIN=360 LABEL=23 eval
+
 
 
 
