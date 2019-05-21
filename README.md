@@ -115,6 +115,7 @@ Atlas 2 2
 | Minitagger (SVM)                                | train-360   |  0.6548     |  0.6384    |  0.6548     | 0.6435     |
 
 
+
 **Results (excluding NA tag - test_100)**
 
 | Model                                           |  Train data | accuracy    |precision   |  recall     | f1-score   |

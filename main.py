@@ -36,7 +36,7 @@ parser.add_argument('--model',
                     type=str,
                     choices=['BertUncased',
                              'BertCased',
-                             'BertLSTM'
+                             'BertLSTM',
                              'LSTM',
                              'BiLSTM',
                              'Regression',
