@@ -105,7 +105,8 @@ Atlas 2 2
 | Model                                           |  Train data | accuracy    |precision   |  recall     | f1-score   |
 | ---                                             | ---         | ---         | ---        | ---         | ---        |
 | BERT-base uncased                               | train-360   | **0.6955**  |  0.6877    |  0.6877     | 0.6909     |
-| BERT-base cased                                 | train-360   |  0.6947     | **0.6936** | **0.6947**  | **0.6937** |
+| BERT-base cased                                 | train-360   |  0.6947     | **0.6936** |  0.6947     | **0.6937** |
+| BERT-base uncased + 3-layer BiLSTM              | train-360   |  0.6954     |  0.6932    | **0.6954**  | 0.6919     |
 | BiLSTM (3 layers)                               | train-360   |  0.6771     |  0.6690    |  0.6771     | 0.6714     |
 | LSTM (1 layers)                                 | train-360   |  0.6587     |  0.6487    |  0.6587     | 0.6506     |
 | Majority per word                               | train-360   |  0.6055     |  0.4897    |  0.6055     | 0.5394     |
@@ -144,7 +145,7 @@ Sample analyses (to be reproduced for the paper)
 
 * BERT (DONE)
 * Words embeddings + LSTM (DONE)
-* BERT + LSTM (Aarne)
+* BERT + LSTM (DONE)
 * Regression (Need to debug for time and run on new data)
 * Majority for each word (DONE)
 * Class-encodings for ordinal class labels (Running on taito)
