@@ -5,6 +5,7 @@ Software:
 
 * megam: http://users.umiacs.umd.edu/~hal/megam/version0_3
 * udpipe: http://ufal.mff.cuni.cz/udpipe
+* marmot: http://cistern.cis.lmu.de/marmot/
 
 The experiments are run using the Makefile in this directory and various variables can be set to adjust the setup, features and data sets. Right now, there are binaries included for Mac OSX. If you want to use the software compiled on your machine then you need to set MEGAM and UDPIPE in the Makefile. Here are some other important variables:
 
@@ -19,7 +20,7 @@ The variables that manipulate the experiments can be set directly when calling t
 ```
 make FEAT=unigram TRAIN=100 eval
 make FEAT=bigram TRAIN=360 eval
-# make FEAT=trigram TRAIN=360 LABEL=23 eval
+make FEAT=trigram TRAIN=360 LABEL=23 eval
 ```
 
 The mode can also use annotation coming from UDpipe. In that case, the FEAT variable needs to start with the prefix `udX.` where X is the column to be used from the UD annotation file. Note that UDTAG needs to be set to the same column number. Here some examples:
@@ -51,8 +52,9 @@ All experiments use 25 iterations and multiclass average perceptron as the model
 | 360   | l2    | ud3.trigram           | 69.333   | 65.273     | 80.481 |
 | 360   | l2    | ud4.trigram           | 65.105   | 60.437     | 76.816 |
 | 360   | l2    | ud5.trigram           | 65.268   | 60.622     | 76.612 |
-| 360   | l2    | ud2+ud3+ud4.trigram   | 69.820   | 65.824     | 
-
+| 360   | l2    | ud2+ud3+ud4.trigram   | 69.820   | 65.824     | 80.756 |
+| 100   | l2    | marmot CRF            |          | 65.642     |        |
+| 360   | l2    | marmot CRF            |          | 66.436     |        |
 
 
 
@@ -81,13 +83,6 @@ All experiments use 25 iterations and multiclass average perceptron as the model
 | 360   | l23   | ud4.trigram           | 50.279   | 43.511     |
 | 360   | l23   | ud5.trigram           | 50.443   | 43.698     |
 | 360   | l23   | ud2+ud3+ud4.trigram   | 54.574   | 48.413     |
-
-test.360.l23.bigram.multitron.eval-no-NA: accuracy 42.742 (38495/90063)
-test.360.l23.trigram.multitron.eval-no-NA:	   accuracy	48.182 (43394/90063)
-test.360.l23.ud3.trigram.multitron.eval-no-NA:	   accuracy	47.930 (43167/90063)
-test.360.l23.ud4.trigram.multitron.eval-no-NA:	   accuracy	43.511 (39187/90063)
-test.360.l23.ud5.trigram.multitron.eval-no-NA:	   accuracy	43.698 (39356/90063)
-test.360.l23.unigram.multitron.eval-no-NA:	   accuracy	40.966 (36895/90063)
 
 
 
