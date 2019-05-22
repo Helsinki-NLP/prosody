@@ -78,3 +78,15 @@ All experiments use 25 iterations and multiclass average perceptron as the model
 | 360   | l23   | ud4.trigram           | 50.279   |
 | 360   | l23   | ud5.trigram           | 50.443   |
 | 360   | l23   | ud2+ud3+ud4.trigram   | 54.574   |
+
+
+
+* If we know about the boundary labels and predict prosody labels:
+
+| train | label | features              | accuracy |
+|-------|-------|-----------------------|----------|
+| 360   | l2    | l3.unigram            | 59.967   |
+| 360   | l2    | l3.bigram             | 61.208   |
+| 360   | l2    | l3.trigram            | 61.509   |
+| 360   | l2    | ud2+l3.trigram        | 71.181   |
+

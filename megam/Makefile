@@ -104,6 +104,7 @@ run:
 
 ## combined features
 
+## word + lemma + UPOS trigrams
 %.l${LABEL}.ud2+ud3+ud4.trigram:
 	${MAKE} UDTAG=2 ${@:ud2+ud3+ud4.trigram=ud2.trigram}
 	${MAKE} UDTAG=3 ${@:ud2+ud3+ud4.trigram=ud3.trigram}
@@ -115,6 +116,51 @@ run:
 	paste -d ' ' $@.feat2 $@.feat3 $@.feat4 > $@.feat
 	paste $@.labels $@.feat > $@
 	rm -f $@.feat2 $@.feat3 $@.feat4 $@.feat $@.labels
+
+## word + boundary label trigrams
+%.l${LABEL}.ud2+l3.trigram:
+	${MAKE} UDTAG=2 ${@:ud2+l3.trigram=ud2.trigram}
+	${MAKE} ${@:ud2+l3.trigram=l3.trigram}
+	cut -f1 ${@:ud2+l3.trigram=ud2.trigram} > $@.labels
+	cut -f2 ${@:ud2+l3.trigram=ud2.trigram} > $@.feat2
+	cut -f2 ${@:ud2+l3.trigram=l3.trigram} > $@.feat3
+	paste -d ' ' $@.feat2 $@.feat3 > $@.feat
+	paste $@.labels $@.feat > $@
+	rm -f $@.feat2 $@.feat3 $@.feat $@.labels
+
+
+# %.l2.ud2+l3.trigram: ../data/%.txt %.l2 %.l3
+# 	${MAKE} UDTAG=2 ${@:ud2+ud3+ud4.trigram=ud2.trigram}
+# 	cut -f2 ${@:ud2+ud3+ud4.trigram=ud2.trigram} > $@.ud2
+# 	paste -d ' ' $@.ud2 ${word 3,$^} > $@.feats
+# 	paste ${word 2,$^} $@.feats | sed 's/NA/0/' | egrep "^[0-9]\t" > $@
+# 	rm -f $@.ud2 $@.feats
+
+
+
+# boundary labels as features
+
+%.l2.l3.unigram: %.l2 %.l3
+	paste $^ | sed 's/NA/0/' | egrep "^[0-9]\t" > $@
+
+%.l2.l3.bigram: %.l3 %.l2 
+	echo 'w0_START' > $@.tags1
+	cat $< | sed 's/^ *$$/START/' | sed '$$d' | sed 's/^/w0_/' >> $@.tags1
+	cat $< | sed 's/^/w1_/' > $@.tags2
+	paste -d ' ' $@.tags1 $@.tags2  > $@.feats
+	paste ${word 2,$^} $@.feats | sed 's/NA/0/' | egrep "^[0-9]\t" > $@
+	rm -f $@.tags1 $@.tags2 $@.feats
+
+%.l2.l3.trigram: %.l3 %.l2
+	echo 'w0_START' > $@.tags1
+	grep -v '^# ' $< | sed 's/^ *$$/START/' | sed '$$d' | sed 's/^/w0_/' >> $@.tags1
+	grep -v '^# ' $< | sed 's/^/w1_/' > $@.tags2
+	grep -v '^# ' $< | sed 's/^ *$$/END/' | tail -n +2 | sed 's/^/w2_/' > $@.tags3
+	echo 'w2_END' >> $@.tags3
+	paste -d ' ' $@.tags1 $@.tags2 $@.tags3 > $@.feats
+	paste ${word 2,$^} $@.feats | sed 's/NA/0/' | egrep "^[0-9]\t" > $@
+	rm -f $@.tags1 $@.tags2 $@.tags3 $@.feats
+
 
 
 ## UD tag n-grams
