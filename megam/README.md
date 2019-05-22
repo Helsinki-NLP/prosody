@@ -59,9 +59,11 @@ All experiments use 25 iterations and multiclass average perceptron as the model
 | train | label | features              | accuracy |
 |-------|-------|-----------------------|----------|
 | 360   | l3    | unigram               | 67.132   |
-| 360   | l3    | bigram                |          |
-| 360   | l3    | trigram               |          |
-| 360   | l3    | ud4.trigram           |          |
+| 360   | l3    | bigram                | 67.937   |
+| 360   | l3    | trigram               | 76.039   |
+| 360   | l3    | ud3.trigram           | 75.953   |
+| 360   | l3    | ud4.trigram           | 74.303   |
+| 360   | l3    | ud5.trigram           | 74.416   |
 | 360   | l3    | ud2+ud3+ud4.trigram   | 76.076   |
 
 
@@ -70,7 +72,9 @@ All experiments use 25 iterations and multiclass average perceptron as the model
 | train | label | features              | accuracy |
 |-------|-------|-----------------------|----------|
 | 360   | l23   | unigram               |          |
-| 360   | l23   | bigram                |          |
-| 360   | l23   | trigram               |          |
+| 360   | l23   | bigram                | 49.603   |
+| 360   | l23   | trigram               | 54.373   |
+| 360   | l23   | ud3.trigram           | 54.145   |
 | 360   | l23   | ud4.trigram           | 50.279   |
+| 360   | l23   | ud5.trigram           | 50.443   |
 | 360   | l23   | ud2+ud3+ud4.trigram   | 54.574   |

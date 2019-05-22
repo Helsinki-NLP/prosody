@@ -190,3 +190,14 @@ run:
 
 %.${TRAIN}.l${LABEL}.${FEAT}.${MODEL}.eval: %.l${LABEL} %.${TRAIN}.l${LABEL}.${FEAT}.${MODEL}.predict
 	perl eval.pl $< < ${word 2,$^} > $@
+
+GOLDPREDICT = ${patsubst %.predict,%.gold+predict,${wildcard *.predict}}
+goldpredict: ${GOLDPREDICT}
+
+
+%.gold+predict: %.predict ../data/test.txt
+	grep . ${word 2,$^} | cut -f1,${LABEL} > $@.gold
+	cut -f1 $< > $@.sys
+	paste -d ' ' $@.gold $@.sys > $@
+	rm -f $@.gold $@.sys
+
