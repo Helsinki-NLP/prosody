@@ -43,50 +43,60 @@ All experiments use 25 iterations and multiclass average perceptron as the model
 
 * Predicting prosody (3 classes + NA):
 
-| train | label | features              | accuracy |
-|-------|-------|-----------------------|----------|
-| 360   | l2    | unigram               | 66.988   |
-| 360   | l2    | bigram                | 68.768   |
-| 360   | l2    | trigram               | 69.634   |
-| 360   | l2    | ud3.trigram           | 69.333   |
-| 360   | l2    | ud4.trigram           | 65.105   |
-| 360   | l2    | ud5.trigram           | 65.268   |
-| 360   | l2    | ud2+ud3+ud4.trigram   | 69.820   |
+| train | label | features              | accuracy | without NA | binary |
+|-------|-------|-----------------------|----------|------------|--------|
+| 360   | l2    | unigram               | 66.988   | 62.585     | 78.465 |
+| 360   | l2    | bigram                | 68.768   | 64.627     | 79.062 |
+| 360   | l2    | trigram               | 69.634   | 65.616     | 80.167 |
+| 360   | l2    | ud3.trigram           | 69.333   | 65.273     | 80.481 |
+| 360   | l2    | ud4.trigram           | 65.105   | 60.437     | 76.816 |
+| 360   | l2    | ud5.trigram           | 65.268   | 60.622     | 76.612 |
+| 360   | l2    | ud2+ud3+ud4.trigram   | 69.820   | 65.824     | 
+
+
 
 
 * Predicting boundary labels (3 classes + NA):
 
-| train | label | features              | accuracy |
-|-------|-------|-----------------------|----------|
-| 360   | l3    | unigram               | 67.132   |
-| 360   | l3    | bigram                | 67.937   |
-| 360   | l3    | trigram               | 76.039   |
-| 360   | l3    | ud3.trigram           | 75.953   |
-| 360   | l3    | ud4.trigram           | 74.303   |
-| 360   | l3    | ud5.trigram           | 74.416   |
-| 360   | l3    | ud2+ud3+ud4.trigram   | 76.076   |
+| train | label | features              | accuracy | without NA |
+|-------|-------|-----------------------|----------|------------|
+| 360   | l3    | unigram               | 67.132   | 62.793     |
+| 360   | l3    | bigram                | 67.937   | 63.708     |
+| 360   | l3    | trigram               | 76.039   | 72.949     |
+| 360   | l3    | ud3.trigram           | 75.953   | 72.852     |
+| 360   | l3    | ud4.trigram           | 74.303   | 70.967     |
+| 360   | l3    | ud5.trigram           | 74.416   | 71.100     |
+| 360   | l3    | ud2+ud3+ud4.trigram   | 76.076   | 72.988     |
+
 
 
 * Predicting combined labels (9 classes + NA):
 
-| train | label | features              | accuracy |
-|-------|-------|-----------------------|----------|
-| 360   | l23   | unigram               |          |
-| 360   | l23   | bigram                | 49.603   |
-| 360   | l23   | trigram               | 54.373   |
-| 360   | l23   | ud3.trigram           | 54.145   |
-| 360   | l23   | ud4.trigram           | 50.279   |
-| 360   | l23   | ud5.trigram           | 50.443   |
-| 360   | l23   | ud2+ud3+ud4.trigram   | 54.574   |
+| train | label | features              | accuracy | without NA |
+|-------|-------|-----------------------|----------|------------|
+| 360   | l23   | unigram               |          | 40.966     |
+| 360   | l23   | bigram                | 49.603   | 42.742     |
+| 360   | l23   | trigram               | 54.373   | 48.182     |
+| 360   | l23   | ud3.trigram           | 54.145   | 47.930     |
+| 360   | l23   | ud4.trigram           | 50.279   | 43.511     |
+| 360   | l23   | ud5.trigram           | 50.443   | 43.698     |
+| 360   | l23   | ud2+ud3+ud4.trigram   | 54.574   | 48.413     |
+
+test.360.l23.bigram.multitron.eval-no-NA: accuracy 42.742 (38495/90063)
+test.360.l23.trigram.multitron.eval-no-NA:	   accuracy	48.182 (43394/90063)
+test.360.l23.ud3.trigram.multitron.eval-no-NA:	   accuracy	47.930 (43167/90063)
+test.360.l23.ud4.trigram.multitron.eval-no-NA:	   accuracy	43.511 (39187/90063)
+test.360.l23.ud5.trigram.multitron.eval-no-NA:	   accuracy	43.698 (39356/90063)
+test.360.l23.unigram.multitron.eval-no-NA:	   accuracy	40.966 (36895/90063)
 
 
 
 * If we know about the boundary labels and predict prosody labels:
 
-| train | label | features              | accuracy |
-|-------|-------|-----------------------|----------|
-| 360   | l2    | l3.unigram            | 59.967   |
-| 360   | l2    | l3.bigram             | 61.208   |
-| 360   | l2    | l3.trigram            | 61.509   |
-| 360   | l2    | ud2+l3.trigram        | 71.181   |
+| train | label | features              | accuracy | without NA |
+|-------|-------|-----------------------|----------|------------|
+| 360   | l2    | l3.unigram            | 59.967   | 54.555     |
+| 360   | l2    | l3.bigram             | 61.208   | 55.980     |
+| 360   | l2    | l3.trigram            | 61.509   | 56.336     |
+| 360   | l2    | ud2+l3.trigram        | 71.181   | 67.396     |
 

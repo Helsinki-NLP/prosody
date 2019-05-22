@@ -1,4 +1,13 @@
 #!/usr/bin/env perl
+#
+# OPTIONS:
+#
+#  -n ...... ignore NA
+#  -b ...... binary ( >1 = 1 )
+#
+
+use Getopt::Std;
+getopts('bn');
 
 my $goldfile = shift(@ARGV) || die "no gold standard file given!\n";
 open G,"<$goldfile" || die "cannot read from $goldfile!\n";
@@ -12,6 +21,17 @@ while (<>){
     unless ($gold=~/\S/){$gold = <G>};
     chomp($gold);
     my ($gold) = split(/\s/,$gold);
+
+    ## ignore NA if -n is set
+    if ($opt_n){
+	next if ($gold eq 'NA');
+	$label = 0 if ($label eq 'NA');
+    }
+    ## binary: >1 --> 1
+    if ($opt_b){
+	$gold = 1 if ($gold > 1);
+	$label = 1 if ($label > 1);
+    }
 
     $totalAll++;
     $totalGold{$gold}++;

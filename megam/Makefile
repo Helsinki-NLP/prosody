@@ -61,8 +61,8 @@ all: test.${TRAIN}.l${LABEL}.${FEAT}.${MODEL}.eval
 
 data: train_${TRAIN}.l${LABEL}.${FEAT} test.l${LABEL}.bigram
 train: train_${TRAIN}.l${LABEL}.${FEAT}.${MODEL}
-test: test.${TRAIN}.l${LABEL}.${FEAT}.${MODEL}.predict
-eval: test.${TRAIN}.l${LABEL}.${FEAT}.${MODEL}.eval
+test: test.${TRAIN}.l${LABEL}.${FEAT}.${MODEL}.predict-no-NA
+eval: test.${TRAIN}.l${LABEL}.${FEAT}.${MODEL}.eval-no-NA
 
 
 run:
@@ -87,7 +87,10 @@ run:
 	make FEAT=ud2+ud3+ud4.trigram TRAIN=360 LABEL=2 eval
 	make FEAT=ud2+ud3+ud4.trigram TRAIN=360 LABEL=3 eval
 	make FEAT=ud2+ud3+ud4.trigram TRAIN=360 LABEL=23 eval
-
+	make FEAT=l3.unigram TRAIN=360 LABEL=2 eval
+	make FEAT=l3.bigram TRAIN=360 LABEL=2 eval
+	make FEAT=l3.trigram TRAIN=360 LABEL=2 eval
+	make FEAT=ud2+l3.trigram TRAIN=360 LABEL=2 eval
 
 
 
@@ -127,14 +130,6 @@ run:
 	paste -d ' ' $@.feat2 $@.feat3 > $@.feat
 	paste $@.labels $@.feat > $@
 	rm -f $@.feat2 $@.feat3 $@.feat $@.labels
-
-
-# %.l2.ud2+l3.trigram: ../data/%.txt %.l2 %.l3
-# 	${MAKE} UDTAG=2 ${@:ud2+ud3+ud4.trigram=ud2.trigram}
-# 	cut -f2 ${@:ud2+ud3+ud4.trigram=ud2.trigram} > $@.ud2
-# 	paste -d ' ' $@.ud2 ${word 3,$^} > $@.feats
-# 	paste ${word 2,$^} $@.feats | sed 's/NA/0/' | egrep "^[0-9]\t" > $@
-# 	rm -f $@.ud2 $@.feats
 
 
 
@@ -227,6 +222,11 @@ run:
 %.multiclass: %
 	${MEGAM} -maxi ${MAXITER} multiclass $< > $@
 
+%.binary: %
+	sed 's/^[2-9]/1/' < $< > $@.train
+	${MEGAM} -maxi ${MAXITER} binary $@.train > $@
+	rm -f $@.train
+
 
 %.${TRAIN}.l${LABEL}.${FEAT}.${MODEL}.predict: %.l${LABEL}.${FEAT} train_${TRAIN}.l${LABEL}.${FEAT}.${MODEL} ../data/%.txt
 	${MEGAM} -predict ${word 2,$^} ${MODEL} $< > $@.raw
@@ -235,7 +235,26 @@ run:
 	rm -f $@.raw $@.words
 
 %.${TRAIN}.l${LABEL}.${FEAT}.${MODEL}.eval: %.l${LABEL} %.${TRAIN}.l${LABEL}.${FEAT}.${MODEL}.predict
+ifeq (${MODEL},binary)
+	perl eval.pl -b $< < ${word 2,$^} > $@
+else
 	perl eval.pl $< < ${word 2,$^} > $@
+endif
+
+## don't post-process to get NA labels
+%.${TRAIN}.l${LABEL}.${FEAT}.${MODEL}.predict-no-NA: %.l${LABEL}.${FEAT} train_${TRAIN}.l${LABEL}.${FEAT}.${MODEL} ../data/%.txt
+	${MEGAM} -predict ${word 2,$^} ${MODEL} $< > $@.raw
+	cut -f1 ${word 3,$^} | grep . > $@.words
+	paste -d ' ' $@.words $@.raw | cut -f2 -d' ' > $@
+	rm -f $@.raw $@.words
+
+%.${TRAIN}.l${LABEL}.${FEAT}.${MODEL}.eval-no-NA: %.l${LABEL} %.${TRAIN}.l${LABEL}.${FEAT}.${MODEL}.predict-no-NA
+ifeq (${MODEL},binary)
+	perl eval.pl -b -n $< < ${word 2,$^} > $@
+else
+	perl eval.pl -n $< < ${word 2,$^} > $@
+endif
+
 
 GOLDPREDICT = ${patsubst %.predict,%.gold+predict,${wildcard *.predict}}
 goldpredict: ${GOLDPREDICT}
@@ -247,3 +266,10 @@ goldpredict: ${GOLDPREDICT}
 	paste -d ' ' $@.gold $@.sys > $@
 	rm -f $@.gold $@.sys
 
+
+EVAL2 = ${patsubst %.predict,%.eval2,${wildcard *.predict}}
+eval2: ${EVAL2}
+
+
+%.eval2: test.l${LABEL} %.predict
+	perl eval2.pl $< < ${word 2,$^} > $@
