@@ -69,11 +69,7 @@ parser.add_argument('--weight_decay',
 parser.add_argument('--gpu',
                     type=int,
                     default=None)
-parser.add_argument('--fraction_of_sentences',
-                    type=float,
-                    default=1
-                    )
-parser.add_argument('--fraction_of_train_sentences',
+parser.add_argument('--fraction_of_train_data',
                     type=float,
                     default=1
                     )
@@ -412,18 +408,17 @@ def test(model, iterator, criterion, index_to_tag, device, config):
     y_true = np.array(true)
     y_pred = np.array(predictions)
 
-    classes = ['0', '1', '2', 'NA']
+    acc = 100. * (y_true == y_pred).astype(np.int32).sum() / len(y_true)
+    print('Test accuracy: {:<5.2f}%, Test loss: {:<.4f} after {} epochs.\n'.format(round(acc, 2), np.mean(test_losses),
+                                                                                   config.epochs))
 
+    classes = ['0', '1', '2', 'NA']
 
     np.set_printoptions(precision=1)
     plot_confusion_matrix(y_true, y_pred, classes, title='Confusion Matrix - ' + config.model)
 
     plot_name = 'images/confusion_matrix-'+ config.model+'.png' if config.ignore_punctuation else 'confusion_matrix-'+ config.model+'no_NA.png'
     plt.savefig(plot_name)
-
-    acc = 100. * (y_true == y_pred).astype(np.int32).sum() / len(y_true)
-    print('Test accuracy: {:<5.2f}%, Test loss: {:<.4f} after {} epochs.\n'.format(round(acc, 2), np.mean(test_losses),
-                                                                                   config.epochs))
 
     final_snapshot_path = 'final_model_{}_testacc_{}_epoch_{}.pt'.format(config.model,
                                                                  round(acc, 2), config.epochs)
