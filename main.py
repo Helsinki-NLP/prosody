@@ -90,6 +90,9 @@ parser.add_argument("--optimizer",
 parser.add_argument('--include_punctuation',
                     action='store_false',
                     dest='ignore_punctuation')
+parser.add_argument('--sorted_batches',
+                    action='store_true',
+                    dest='sorted_batches')
 parser.add_argument('--seed',
                     type=int,
                     default=1234)
@@ -155,6 +158,7 @@ def main():
         model = LSTM(device, config, vocab_size=len(vocab), labels=len(tag_to_index))
     elif config.model == "Regression":
         model = RegressionModel(device, config)
+        config.ignore_punctuation = True #HANDE: I'm not using non-numeric labels for Regression. Shall we?
     elif config.model == "WordMajority":
         model = WordMajority(device, config, index_to_tag)
     elif config.model == "ClassEncodings":
@@ -172,7 +176,7 @@ def main():
 
     train_iter = data.DataLoader(dataset=train_dataset,
                                  batch_size=config.batch_size,
-                                 shuffle=True,
+                                 shuffle=not(config.sorted_batches), # will manually shuffle if sorted_batches desired
                                  num_workers=1,
                                  collate_fn=prosody_dataset.pad)
     dev_iter = data.DataLoader(dataset=eval_dataset,
@@ -216,6 +220,11 @@ def main():
     if config.model == 'WordMajority': # 1 pass over the dataset is enough to collect stats
         config.epochs = 1
 
+    if config.model == 'Regression':
+        train = train_cont
+        valid = valid_cont
+        test = test_cont
+
     print('\nTraining started...\n')
     for epoch in range(config.epochs):
         print("Epoch: {}".format(epoch+1))
@@ -225,13 +234,16 @@ def main():
     test(model, test_iter, criterion, tag_to_index, index_to_tag, device, config)
 
 
+
+# --------------- FUNCTIONS FOR DISCRETE MODELS --------------------
+
 def train(model, iterator, optimizer, criterion, device, config):
     if config.model == 'WordMajority' and model.load_stats():
         return
 
     model.train()
     for i, batch in enumerate(iterator):
-        words, x, is_main_piece, tags, y, seqlens = batch
+        words, x, is_main_piece, tags, y, values, seqlens = batch
 
         if config.model == 'WordMajority':
             model.collect_stats(x, y)
@@ -240,11 +252,10 @@ def train(model, iterator, optimizer, criterion, device, config):
         optimizer.zero_grad()
         x = x.to(device)
         y = y.to(device)
+
         logits, y, _ = model(x, y) # logits: (N, T, VOCAB), y: (N, T)
 
-        if config.model == 'Regression':
-            loss = criterion(logits.to(device), y.float().to(device))
-        elif config.model == 'ClassEncodings':
+        if config.model == 'ClassEncodings':
             logits = logits.view(-1, logits.shape[-1])  # (N*T, VOCAB)
             y = y.view(-1, y.shape[-1])  # also (N*T, VOCAB)
             loss = criterion(logits.to(device), y.to(device))
@@ -254,7 +265,6 @@ def train(model, iterator, optimizer, criterion, device, config):
             loss = criterion(logits.to(device), y.to(device))
 
         loss.backward()
-
         optimizer.step()
 
         if i % config.log_every == 0 or i+1 == len(iterator):
@@ -273,14 +283,13 @@ def valid(model, iterator, criterion, tag_to_index, index_to_tag, device, config
     Words, Is_main_piece, Tags, Y, Y_hat = [], [], [], [], []
     with torch.no_grad():
         for i, batch in enumerate(iterator):
-            words, x, is_main_piece, tags, y, seqlens = batch
+            words, x, is_main_piece, tags, y, values, seqlens = batch
             x = x.to(device)
             y = y.to(device)
+
             logits, labels, y_hat = model(x, y)  # y_hat: (N, T)
 
-            if config.model == 'Regression':
-                loss = criterion(logits.to(device), labels.float().to(device))
-            elif config.model == 'ClassEncodings':
+            if config.model == 'ClassEncodings':
                 logits = logits.view(-1, logits.shape[-1])  # (N*T, VOCAB)
                 labels = labels.view(-1, labels.shape[-1])  # also (N*T, VOCAB)
                 loss = criterion(logits.to(device), labels.to(device))
@@ -301,10 +310,8 @@ def valid(model, iterator, criterion, tag_to_index, index_to_tag, device, config
     predictions = []
     for words, is_main_piece, tags, y_hat in zip(Words, Is_main_piece, Tags, Y_hat):
         y_hat = [hat for head, hat in zip(is_main_piece, y_hat) if head == 1]
-        if config.model=='Regression':
-            preds = [index_to_tag[max(min(int(hat), 4), 0)] for hat in y_hat]
-        else:
-            preds = [index_to_tag[hat] for hat in y_hat]
+        preds = [index_to_tag[hat] for hat in y_hat]
+
         if config.model != 'LSTM' and config.model != 'BiLSTM':
             tagslice = tags.split()[1:-1]
             predsslice = preds[1:-1]
@@ -345,14 +352,13 @@ def test(model, iterator, criterion, tag_to_index, index_to_tag, device, config)
     Words, Is_main_piece, Tags, Y, Y_hat = [], [], [], [], []
     with torch.no_grad():
         for i, batch in enumerate(iterator):
-            words, x, is_main_piece, tags, y, seqlens = batch
+            words, x, is_main_piece, tags, y, values, seqlens = batch
             x = x.to(device)
             y = y.to(device)
+
             logits, labels, y_hat = model(x, y)  # y_hat: (N, T)
 
-            if config.model in ['Regression']:
-                loss = criterion(logits.to(device), labels.float().to(device))
-            elif config.model == 'ClassEncodings':
+            if config.model == 'ClassEncodings':
                 logits = logits.view(-1, logits.shape[-1])  # (N*T, VOCAB)
                 labels = labels.view(-1, labels.shape[-1])  # also (N*T, VOCAB)
                 loss = criterion(logits.to(device), labels.to(device))
@@ -375,10 +381,7 @@ def test(model, iterator, criterion, tag_to_index, index_to_tag, device, config)
     with open(config.save_path, 'w') as results:
         for words, is_main_piece, tags, y_hat in zip(Words, Is_main_piece, Tags, Y_hat):
             y_hat = [hat for head, hat in zip(is_main_piece, y_hat) if head == 1]
-            if config.model == 'Regression':
-                preds = [index_to_tag[max(min(int(hat), 4), 0)] for hat in y_hat]
-            else:
-                preds = [index_to_tag[hat] for hat in y_hat]
+            preds = [index_to_tag[hat] for hat in y_hat]
             if config.model != 'LSTM' and config.model != 'BiLSTM':
                 tagslice = tags.split()[1:-1]
                 predsslice = preds[1:-1]
@@ -434,6 +437,157 @@ def test(model, iterator, criterion, tag_to_index, index_to_tag, device, config)
     # acc = 100. * (y_true == y_pred).astype(np.int32).sum() / len(y_true)
     # print('Test accuracy: {:<5.2f}%, Test loss: {:<.4f} after {} epochs.\n'.format(round(acc, 2), np.mean(test_losses), config.epochs))
 
+
+
+# ---------------- FUNCTIONS FOR CONTINUOUS MODELS ------------------
+''' This includes only the Regression Model for now '''
+
+def train_cont(model, iterator, optimizer, criterion, device, config):
+
+    model.train()
+    for i, batch in enumerate(iterator):
+        words, x, is_main_piece, tags, y, values, seqlens = batch
+
+        optimizer.zero_grad()
+        x = x.to(device)
+        values = values.to(device)
+
+        predictions, true = model(x, values)
+        loss = criterion(predictions.to(device), true.float().to(device))
+        loss.backward()
+        optimizer.step()
+
+        if i % config.log_every == 0 or i+1 == len(iterator):
+            print("Training step: {}/{}, loss: {:<.4f}".format(i+1, len(iterator), loss.item()))
+
+
+def valid_cont(model, iterator, criterion, tag_to_index, index_to_tag, device, config):
+    model.eval()
+    dev_losses = []
+    Words, Is_main_piece, Tags, Y, Predictions, Values = [], [], [], [], [], []
+    with torch.no_grad():
+        for i, batch in enumerate(iterator):
+            words, x, is_main_piece, tags, y, values, seqlens = batch
+            x = x.to(device)
+            values = values.to(device)
+
+            predictions, true = model(x, values)
+            loss = criterion(predictions.to(device), true.float().to(device))
+
+            dev_losses.append(loss.item())
+
+            Words.extend(words)
+            Is_main_piece.extend(is_main_piece)
+            Tags.extend(tags)
+            Y.extend(y.cpu().numpy().tolist())
+            Predictions.extend(predictions.cpu().numpy().tolist())
+            Values.extend(values.cpu().numpy().tolist())
+
+    '''
+    # Accuracy calculations, obsolete for continuous variables:
+    true = []
+    preds_to_eval = []
+    for words, is_main_piece, preds, values in zip(Words, Is_main_piece, Predictions, Values):
+        valid_preds = [p for head, p in zip(is_main_piece, preds) if head == 1]
+
+        predsslice = valid_preds[1:-1]
+        valuesslice = values[1:-1]
+        assert len(preds) == len(words.split()) == len(values.split())
+
+        for v, p in zip(valuesslice, predsslice):
+            if v != '-1':
+                true.append(v)
+                preds_to_eval.append(p)
+
+    y_true = np.array(true)
+    y_pred = np.array(preds_to_eval)
+    '''
+
+    print('Validation loss: {:<.4f}\n'.format(np.mean(dev_losses)))
+
+
+def test_cont(model, iterator, criterion, tag_to_index, index_to_tag, device, config):
+    print('Calculating test accuracy and printing predictions to file {}'.format(config.save_path))
+    print("Output file structure: <word>\t <tag>\t <prediction>\n")
+
+    model.eval()
+    test_losses = []
+
+    Words, Is_main_piece, Tags, Y, Predictions, Values = [], [], [], [], [], []
+    with torch.no_grad():
+        for i, batch in enumerate(iterator):
+            words, x, is_main_piece, tags, y, values, seqlens = batch
+            x = x.to(device)
+            values = values.to(device)
+
+            predictions, true = model(x, values)
+            loss = criterion(predictions.to(device), true.float().to(device))
+
+            test_losses.append(loss.item())
+
+            Words.extend(words)
+            Is_main_piece.extend(is_main_piece)
+            Tags.extend(tags)
+            Y.extend(y.cpu().numpy().tolist())
+            Predictions.extend(predictions.cpu().numpy().tolist())
+            Values.extend(values.cpu().numpy().tolist())
+
+    true = []
+    preds_to_eval = []
+    # gets results and save
+    with open(config.save_path, 'w') as results:
+        for words, is_main_piece, tags, preds, values in zip(Words, Is_main_piece, Tags, Predictions, Values):
+            valid_preds = [p for head, p in zip(is_main_piece, preds) if head == 1]
+
+            predsslice = valid_preds[1:-1]
+            valuesslice = values[1:-1]
+            wordslice = words.split()[1:-1]
+            #assert len(preds) == len(words.split()) == len(tags.split())
+
+            #print(valuesslice)
+            for w, v, p in zip(wordslice, valuesslice, predsslice):
+                results.write("{}\t{}\t{}\n".format(w, v, p))
+                #print(v)
+                if v != -1:
+                    true.append(v)
+                    preds_to_eval.append(p)
+            results.write("\n")
+    # calc metric
+    y_true = np.array(true)
+    y_pred = np.array(preds_to_eval)
+
+    print('Test loss: {:<.4f}\n'.format(np.mean(test_losses)))
+
+
+    ''' No confusion matrix for continuous variables:
+    
+    np.set_printoptions(precision=1)
+    plot_confusion_matrix(y_true, y_pred, classes, title='Confusion Matrix - ' + config.model)
+    plot_name = 'images/confusion_matrix-'+ config.model+'.png' if config.ignore_punctuation else 'confusion_matrix-'+ config.model+'no_NA.png'
+    plt.savefig(plot_name)
+
+    accuracy = accuracy_score(y_true, y_pred)
+    f1 = f1_score(y_true, y_pred, average='weighted')
+    recall = recall_score(y_true, y_pred, average='weighted')
+    precision = precision_score(y_true, y_pred, average='weighted')
+
+    print('\nAccuracy: {}'.format(round(accuracy, 4)))
+    print('F1 score: {}'.format(round(f1, 4)))
+    print('Recall: {}'.format(round(recall, 4)))
+    print('Precision: {}'.format(round(precision, 4)))
+
+    # target_names = ['label 0', 'label 1', 'label 2'] if config.ignore_punctuation else ['label 0', 'label 1', 'label 2', 'label NA']
+    # target_names = ['label 0', 'label 1', 'label 2']
+    # print(classification_report(y_true, y_pred, target_names=target_names, digits=4))
+
+    # acc = 100. * (y_true == y_pred).astype(np.int32).sum() / len(y_true)
+    # print('Test accuracy: {:<5.2f}%, Test loss: {:<.4f} after {} epochs.\n'.format(round(acc, 2), np.mean(test_losses), config.epochs))
+
+    '''
+
+
+
+# ---------- AUXILARY FUNCTIONS -------------
 
 def plot_confusion_matrix(y_true, y_pred, classes,
                           normalize=False,
