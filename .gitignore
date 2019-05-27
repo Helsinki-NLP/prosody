@@ -3,3 +3,4 @@
 __pycache__
 results.txt
 glove.840B.300d.txt
+*.pt

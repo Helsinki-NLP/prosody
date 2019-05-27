@@ -1,6 +1,7 @@
 import os
 import sys
 import errno
+import glob
 import numpy as np
 import random
 import torch
@@ -13,7 +14,7 @@ from prosody_dataset import load_embeddings
 from model import Bert, BertLSTM, LSTM, RegressionModel, WordMajority, ClassEncodings, BertAllLayers
 from argparse import ArgumentParser
 import matplotlib.pyplot as plt
-from sklearn.metrics import precision_score, recall_score, confusion_matrix, accuracy_score, f1_score, classification_report
+from sklearn.metrics import confusion_matrix
 
 
 parser = ArgumentParser(description='Prosody prediction')
@@ -36,7 +37,7 @@ parser.add_argument('--model',
                     type=str,
                     choices=['BertUncased',
                              'BertCased',
-                             'BertLSTM'
+                             'BertLSTM',
                              'LSTM',
                              'BiLSTM',
                              'Regression',
@@ -226,12 +227,14 @@ def main():
         test = test_cont
 
     print('\nTraining started...\n')
+    best_dev_acc = 0
+    best_dev_epoch = 0
     for epoch in range(config.epochs):
         print("Epoch: {}".format(epoch+1))
         train(model, train_iter, optimizer, criterion, device, config)
-        valid(model, dev_iter, criterion, tag_to_index, index_to_tag, device, config)
+        valid(model, dev_iter, criterion, index_to_tag, device, config, best_dev_acc, best_dev_epoch, epoch+1)
 
-    test(model, test_iter, criterion, tag_to_index, index_to_tag, device, config)
+    test(model, test_iter, criterion, index_to_tag, device, config)
 
 
 
@@ -274,7 +277,7 @@ def train(model, iterator, optimizer, criterion, device, config):
         model.save_stats()
 
 
-def valid(model, iterator, criterion, tag_to_index, index_to_tag, device, config):
+def valid(model, iterator, criterion, index_to_tag, device, config, best_dev_acc, best_dev_epoch, epoch):
     if config.model == 'WordMajority':
         return
 
@@ -332,17 +335,23 @@ def valid(model, iterator, criterion, tag_to_index, index_to_tag, device, config
 
     y_true = np.array(true)
     y_pred = np.array(predictions)
-    # acc = 100. * (y_true == y_pred).astype(np.int32).sum() / len(y_true)
+    acc = 100. * (y_true == y_pred).astype(np.int32).sum() / len(y_true)
 
-    #true_labels = np.array([index_to_tag[index] for index in true])
-    #predicted_labels = np.array([index_to_tag[index] for index in predictions])
+    if acc > best_dev_acc:
+        best_dev_acc = acc
+        best_dev_epoch = epoch
+        dev_snapshot_path = 'best_model_{}_devacc_{}_epoch_{}.pt'.format(config.model, round(best_dev_acc, 2), best_dev_epoch)
 
-    accuracy = accuracy_score(y_true, y_pred)
+        # save model, delete previous snapshot
+        torch.save(model, dev_snapshot_path)
+        for f in glob.glob('best_model_*'):
+            if f != dev_snapshot_path:
+                os.remove(f)
 
-    print('Validation accuracy: {:<5.2f}%, Validation loss: {:<.4f}\n'.format(round(100. * accuracy, 2), np.mean(dev_losses)))
+    print('Validation accuracy: {:<5.2f}%, Validation loss: {:<.4f}\n'.format(round(acc, 2), np.mean(dev_losses)))
 
 
-def test(model, iterator, criterion, tag_to_index, index_to_tag, device, config):
+def test(model, iterator, criterion, index_to_tag, device, config):
     print('Calculating test accuracy and printing predictions to file {}'.format(config.save_path))
     print("Output file structure: <word>\t <tag>\t <prediction>\n")
 
@@ -406,10 +415,6 @@ def test(model, iterator, criterion, tag_to_index, index_to_tag, device, config)
     y_true = np.array(true)
     y_pred = np.array(predictions)
 
-    #y_true = np.array([index_to_tag[index] for index in true])
-    #y_pred = np.array([index_to_tag[index] for index in predictions])
-
-    #classes = ['0', '1', '2'] if config.ignore_punctuation else ['0', '1', '2', 'NA']
     classes = ['0', '1', '2', 'NA']
 
 
@@ -419,23 +424,13 @@ def test(model, iterator, criterion, tag_to_index, index_to_tag, device, config)
     plot_name = 'images/confusion_matrix-'+ config.model+'.png' if config.ignore_punctuation else 'confusion_matrix-'+ config.model+'no_NA.png'
     plt.savefig(plot_name)
 
-    accuracy = accuracy_score(y_true, y_pred)
-    f1 = f1_score(y_true, y_pred, average='weighted')
-    recall = recall_score(y_true, y_pred, average='weighted')
-    precision = precision_score(y_true, y_pred, average='weighted')
+    acc = 100. * (y_true == y_pred).astype(np.int32).sum() / len(y_true)
+    print('Test accuracy: {:<5.2f}%, Test loss: {:<.4f} after {} epochs.\n'.format(round(acc, 2), np.mean(test_losses),
+                                                                                   config.epochs))
 
-
-    print('\nAccuracy: {}'.format(round(accuracy, 4)))
-    print('F1 score: {}'.format(round(f1, 4)))
-    print('Recall: {}'.format(round(recall, 4)))
-    print('Precision: {}'.format(round(precision, 4)))
-
-    # target_names = ['label 0', 'label 1', 'label 2'] if config.ignore_punctuation else ['label 0', 'label 1', 'label 2', 'label NA']
-    # target_names = ['label 0', 'label 1', 'label 2']
-    # print(classification_report(y_true, y_pred, target_names=target_names, digits=4))
-
-    # acc = 100. * (y_true == y_pred).astype(np.int32).sum() / len(y_true)
-    # print('Test accuracy: {:<5.2f}%, Test loss: {:<.4f} after {} epochs.\n'.format(round(acc, 2), np.mean(test_losses), config.epochs))
+    final_snapshot_path = 'final_model_{}_testacc_{}_epoch_{}.pt'.format(config.model,
+                                                                 round(acc, 2), config.epochs)
+    torch.save(model, final_snapshot_path)
 
 
 
