@@ -72,20 +72,20 @@ def load_dataset(config):
         tagged_sents = []
         filename = config.train_set if split == 'train' else split
         with open(config.datadir+'/'+filename+'.txt') as f:
-            sentences = f.read().split("\n\n")
-            for sentence in sentences:
-                lines = sentence.splitlines()
-                sent = []
-                for line in lines:
+            lines = f.readlines()
+            if config.fraction_of_train_data < 1 and split == 'train':
+                slice = len(lines) * config.fraction_of_train_data
+                lines = lines[0:int(round(slice))]
+            sent = []
+            for i, line in enumerate(lines):
+                if line != "\n":
                     split_line = line.split('\t')
                     sent.append((split_line[0], split_line[1], split_line[2], split_line[3], split_line[4]))
                     words.append(split_line[0])
-                tagged_sents.append(sent)
-        if config.fraction_of_train_sentences < 1 and split == 'train':
-            slice = len(tagged_sents) * config.fraction_of_train_sentences
-        else:
-            slice = len(tagged_sents) * config.fraction_of_sentences
-        tagged_sents = tagged_sents[0:int(slice)]
+                elif line == "\n" or i+1 == len(lines):
+                    tagged_sents.append(sent)
+                    sent = []
+
         splits[split] = tagged_sents
         all_sents = all_sents + tagged_sents
 
