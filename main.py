@@ -11,7 +11,7 @@ import torch.optim as optim
 import prosody_dataset
 from prosody_dataset import Dataset
 from prosody_dataset import load_embeddings
-from model import Bert, BertLSTM, LSTM, RegressionModel, WordMajority, ClassEncodings, BertAllLayers
+from model import Bert, BertLSTM, LSTM, BertRegression, LSTMRegression, WordMajority, ClassEncodings, BertAllLayers
 from argparse import ArgumentParser
 import matplotlib.pyplot as plt
 from sklearn.metrics import confusion_matrix
@@ -40,7 +40,8 @@ parser.add_argument('--model',
                              'BertLSTM',
                              'LSTM',
                              'BiLSTM',
-                             'Regression',
+                             'BertRegression',
+                             'LSTMRegression',
                              'WordMajority',
                              'ClassEncodings',
                              'BertAllLayers'],
@@ -94,6 +95,12 @@ parser.add_argument('--include_punctuation',
 parser.add_argument('--sorted_batches',
                     action='store_true',
                     dest='sorted_batches')
+parser.add_argument('--mask_invalid_grads',
+                    action='store_true',
+                    dest='mask_invalid_grads')
+parser.add_argument('--invalid_set_to',
+                    type=int,
+                    default=-1)
 parser.add_argument('--seed',
                     type=int,
                     default=1234)
@@ -157,9 +164,12 @@ def main():
         model = BertLSTM(device, config, labels=len(tag_to_index))
     elif config.model == "LSTM" or config.model == "BiLSTM":
         model = LSTM(device, config, vocab_size=len(vocab), labels=len(tag_to_index))
-    elif config.model == "Regression":
-        model = RegressionModel(device, config)
+    elif config.model == "BertRegression":
+        model = BertRegression(device, config)
         config.ignore_punctuation = True #HANDE: I'm not using non-numeric labels for Regression. Shall we?
+    elif config.model == "LSTMRegression":
+        model = LSTMRegression(device, config, vocab_size=len(vocab))
+        config.ignore_punctuation = True
     elif config.model == "WordMajority":
         model = WordMajority(device, config, index_to_tag)
     elif config.model == "ClassEncodings":
@@ -181,10 +191,10 @@ def main():
                                  num_workers=1,
                                  collate_fn=prosody_dataset.pad)
     dev_iter = data.DataLoader(dataset=eval_dataset,
-                                batch_size=config.batch_size,
-                                shuffle=False,
-                                num_workers=1,
-                                collate_fn=prosody_dataset.pad)
+                               batch_size=config.batch_size,
+                               shuffle=False,
+                               num_workers=1,
+                               collate_fn=prosody_dataset.pad)
     test_iter = data.DataLoader(dataset=test_dataset,
                                 batch_size=config.batch_size,
                                 shuffle=False,
@@ -198,7 +208,7 @@ def main():
                                     lr=config.learning_rate,
                                     weight_decay=config.weight_decay)
 
-    if config.model == 'Regression':
+    if config.model in ['BertRegression', 'LSTMRegression']:
         criterion = nn.MSELoss()
     elif config.model == 'ClassEncodings':
         criterion = nn.BCELoss()
@@ -221,7 +231,7 @@ def main():
     if config.model == 'WordMajority': # 1 pass over the dataset is enough to collect stats
         config.epochs = 1
 
-    if config.model == 'Regression':
+    if config.model in ['BertRegression', 'LSTMRegression']:
         train = train_cont
         valid = valid_cont
         test = test_cont
@@ -238,6 +248,7 @@ def main():
 
 
 
+
 # --------------- FUNCTIONS FOR DISCRETE MODELS --------------------
 
 def train(model, iterator, optimizer, criterion, device, config):
@@ -246,7 +257,7 @@ def train(model, iterator, optimizer, criterion, device, config):
 
     model.train()
     for i, batch in enumerate(iterator):
-        words, x, is_main_piece, tags, y, values, seqlens = batch
+        words, x, is_main_piece, tags, y, seqlens, _, _ = batch
 
         if config.model == 'WordMajority':
             model.collect_stats(x, y)
@@ -286,7 +297,7 @@ def valid(model, iterator, criterion, index_to_tag, device, config, best_dev_acc
     Words, Is_main_piece, Tags, Y, Y_hat = [], [], [], [], []
     with torch.no_grad():
         for i, batch in enumerate(iterator):
-            words, x, is_main_piece, tags, y, values, seqlens = batch
+            words, x, is_main_piece, tags, y, seqlens, _, _ = batch
             x = x.to(device)
             y = y.to(device)
 
@@ -361,7 +372,7 @@ def test(model, iterator, criterion, index_to_tag, device, config):
     Words, Is_main_piece, Tags, Y, Y_hat = [], [], [], [], []
     with torch.no_grad():
         for i, batch in enumerate(iterator):
-            words, x, is_main_piece, tags, y, values, seqlens = batch
+            words, x, is_main_piece, tags, y, seqlens, _, _ = batch
             x = x.to(device)
             y = y.to(device)
 
@@ -441,7 +452,7 @@ def train_cont(model, iterator, optimizer, criterion, device, config):
 
     model.train()
     for i, batch in enumerate(iterator):
-        words, x, is_main_piece, tags, y, values, seqlens = batch
+        words, x, is_main_piece, tags, y, seqlens, values, invalid_set_to = batch
 
         optimizer.zero_grad()
         x = x.to(device)
@@ -456,13 +467,13 @@ def train_cont(model, iterator, optimizer, criterion, device, config):
             print("Training step: {}/{}, loss: {:<.4f}".format(i+1, len(iterator), loss.item()))
 
 
-def valid_cont(model, iterator, criterion, tag_to_index, index_to_tag, device, config):
+def valid_cont(model, iterator, criterion, index_to_tag, device, config, best_dev_acc, best_dev_epoch, epoch):
     model.eval()
     dev_losses = []
     Words, Is_main_piece, Tags, Y, Predictions, Values = [], [], [], [], [], []
     with torch.no_grad():
         for i, batch in enumerate(iterator):
-            words, x, is_main_piece, tags, y, values, seqlens = batch
+            words, x, is_main_piece, tags, y, seqlens, values, invalid_set_to = batch
             x = x.to(device)
             values = values.to(device)
 
@@ -478,30 +489,10 @@ def valid_cont(model, iterator, criterion, tag_to_index, index_to_tag, device, c
             Predictions.extend(predictions.cpu().numpy().tolist())
             Values.extend(values.cpu().numpy().tolist())
 
-    '''
-    # Accuracy calculations, obsolete for continuous variables:
-    true = []
-    preds_to_eval = []
-    for words, is_main_piece, preds, values in zip(Words, Is_main_piece, Predictions, Values):
-        valid_preds = [p for head, p in zip(is_main_piece, preds) if head == 1]
-
-        predsslice = valid_preds[1:-1]
-        valuesslice = values[1:-1]
-        assert len(preds) == len(words.split()) == len(values.split())
-
-        for v, p in zip(valuesslice, predsslice):
-            if v != '-1':
-                true.append(v)
-                preds_to_eval.append(p)
-
-    y_true = np.array(true)
-    y_pred = np.array(preds_to_eval)
-    '''
-
     print('Validation loss: {:<.4f}\n'.format(np.mean(dev_losses)))
 
 
-def test_cont(model, iterator, criterion, tag_to_index, index_to_tag, device, config):
+def test_cont(model, iterator, criterion, index_to_tag, device, config):
     print('Calculating test accuracy and printing predictions to file {}'.format(config.save_path))
     print("Output file structure: <word>\t <tag>\t <prediction>\n")
 
@@ -511,7 +502,7 @@ def test_cont(model, iterator, criterion, tag_to_index, index_to_tag, device, co
     Words, Is_main_piece, Tags, Y, Predictions, Values = [], [], [], [], [], []
     with torch.no_grad():
         for i, batch in enumerate(iterator):
-            words, x, is_main_piece, tags, y, values, seqlens = batch
+            words, x, is_main_piece, tags, y, seqlens, values, invalid_set_to = batch
             x = x.to(device)
             values = values.to(device)
 
@@ -537,13 +528,10 @@ def test_cont(model, iterator, criterion, tag_to_index, index_to_tag, device, co
             predsslice = valid_preds[1:-1]
             valuesslice = values[1:-1]
             wordslice = words.split()[1:-1]
-            #assert len(preds) == len(words.split()) == len(tags.split())
 
-            #print(valuesslice)
             for w, v, p in zip(wordslice, valuesslice, predsslice):
                 results.write("{}\t{}\t{}\n".format(w, v, p))
-                #print(v)
-                if v != -1:
+                if v != invalid_set_to:
                     true.append(v)
                     preds_to_eval.append(p)
             results.write("\n")
@@ -552,34 +540,7 @@ def test_cont(model, iterator, criterion, tag_to_index, index_to_tag, device, co
     y_pred = np.array(preds_to_eval)
 
     print('Test loss: {:<.4f}\n'.format(np.mean(test_losses)))
-
-
-    ''' No confusion matrix for continuous variables:
-    
-    np.set_printoptions(precision=1)
-    plot_confusion_matrix(y_true, y_pred, classes, title='Confusion Matrix - ' + config.model)
-    plot_name = 'images/confusion_matrix-'+ config.model+'.png' if config.ignore_punctuation else 'confusion_matrix-'+ config.model+'no_NA.png'
-    plt.savefig(plot_name)
-
-    accuracy = accuracy_score(y_true, y_pred)
-    f1 = f1_score(y_true, y_pred, average='weighted')
-    recall = recall_score(y_true, y_pred, average='weighted')
-    precision = precision_score(y_true, y_pred, average='weighted')
-
-    print('\nAccuracy: {}'.format(round(accuracy, 4)))
-    print('F1 score: {}'.format(round(f1, 4)))
-    print('Recall: {}'.format(round(recall, 4)))
-    print('Precision: {}'.format(round(precision, 4)))
-
-    # target_names = ['label 0', 'label 1', 'label 2'] if config.ignore_punctuation else ['label 0', 'label 1', 'label 2', 'label NA']
-    # target_names = ['label 0', 'label 1', 'label 2']
-    # print(classification_report(y_true, y_pred, target_names=target_names, digits=4))
-
-    # acc = 100. * (y_true == y_pred).astype(np.int32).sum() / len(y_true)
-    # print('Test accuracy: {:<5.2f}%, Test loss: {:<.4f} after {} epochs.\n'.format(round(acc, 2), np.mean(test_losses), config.epochs))
-
-    '''
-
+    # Correlation is calculated afterwards with a separate script.
 
 
 # ---------- AUXILARY FUNCTIONS -------------

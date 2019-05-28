@@ -1,24 +1,30 @@
 import os
+import random
 from torch.utils import data
 from pytorch_pretrained_bert import BertTokenizer
 import torch
 import numpy as np
 
+INVALID = -1 # used to represent non-numeric data in regression models
+
 class Dataset(data.Dataset):
     def __init__(self, tagged_sents, tag_to_index, config):
-        sents, tags_li = [], [] # list of lists
+        sents, tags_li,values_li = [], [], [] # list of lists
         self.config = config
         for sent in tagged_sents:
             words = [word_tag[0] for word_tag in sent]
             tags = [word_tag[1] for word_tag in sent]
+            values = [word_tag[3] for word_tag in sent] #+++HANDE
             if self.config.model != 'LSTM' and self.config.model != 'BiLSTM':
                 sents.append(["[CLS]"] + words + ["[SEP]"])
                 tags_li.append(["<pad>"] + tags + ["<pad>"])
+                values_li.append(["<pad>"] + values + ["<pad>"])
             else:
                 sents.append(words)
                 tags_li.append(tags)
+                values_li.append(values)
 
-        self.sents, self.tags_li = sents, tags_li
+        self.sents, self.tags_li, self.values_li = sents, tags_li, values_li
         if self.config.model == 'BertUncased':
             self.tokenizer = BertTokenizer.from_pretrained('bert-base-uncased', do_lower_case=True)
         else:
@@ -29,11 +35,11 @@ class Dataset(data.Dataset):
         return len(self.sents)
 
     def __getitem__(self, id):
-        words, tags = self.sents[id], self.tags_li[id] # words, tags: string list
+        words, tags, values_li = self.sents[id], self.tags_li[id], self.values_li[id] # words, tags, values: string list
 
-        x, y = [], [] # list of ids
+        x, y, values = [], [], [] # list of ids
         is_main_piece = [] # only score the main piece of each word
-        for w, t in zip(words, tags):
+        for w, t, v in zip(words, tags, values_li):
             tokens = self.tokenizer.tokenize(w) if w not in ("[CLS]", "[SEP]") else [w]
             xx = self.tokenizer.convert_tokens_to_ids(tokens)
 
@@ -41,7 +47,7 @@ class Dataset(data.Dataset):
             yy = [self.tag_to_index[each] for each in t]  # (T,)
 
             head = [1] + [0]*(len(tokens) - 1) # identify the main piece of each word
-
+            
             x.extend(xx)
             is_main_piece.extend(head)
             y.extend(yy)
@@ -53,7 +59,9 @@ class Dataset(data.Dataset):
         # to string
         words = " ".join(words)
         tags = " ".join(tags)
-        return words, x, is_main_piece, tags, y, seqlen
+        values = [float(v) if v not in ['<pad>','NA'] else self.config.invalid_set_to for v in values_li]
+
+        return words, x, is_main_piece, tags, y, seqlen, values, self.config.invalid_set_to
 
 
 def load_dataset(config):
@@ -70,7 +78,7 @@ def load_dataset(config):
                 sent = []
                 for line in lines:
                     split_line = line.split('\t')
-                    sent.append((split_line[0], split_line[1]))
+                    sent.append((split_line[0], split_line[1], split_line[2], split_line[3], split_line[4]))
                     words.append(split_line[0])
                 tagged_sents.append(sent)
         if config.fraction_of_train_sentences < 1 and split == 'train':
@@ -96,6 +104,10 @@ def load_dataset(config):
     print('Dev sentences: {}'.format(len(splits["dev"])))
     print('Test sentences: {}'.format(len(splits["test"])))
 
+    if config.sorted_batches:
+        random.shuffle(splits["train"])
+        splits["train"].sort(key=len)
+
     return splits, tag_to_index, index_to_tag, vocab
 
 
@@ -105,16 +117,19 @@ def pad(batch):
     words = f(0)
     is_main_piece = f(2)
     tags = f(3)
-    seqlens = f(-1)
+    seqlens = f(5)
     maxlen = np.array(seqlens).max()
+    invalid_set_to = f(7)
 
     f = lambda x, seqlen: [sample[x] + [0] * (seqlen - len(sample[x])) for sample in batch] # 0: <pad>
     x = f(1, maxlen)
-    y = f(-2, maxlen)
+    y = f(4, maxlen)
+
+    f = lambda x, seqlen: [sample[x] + [invalid_set_to] * (seqlen - len(sample[x])) for sample in batch] #invalid values are NA and <pad>
+    values = f(6, maxlen)
 
     f = torch.LongTensor
-
-    return words, f(x), is_main_piece, tags, f(y), seqlens
+    return words, f(x), is_main_piece, tags, f(y), seqlens, torch.FloatTensor(values), invalid_set_to
 
 
 def load_embeddings(config, vocab):
