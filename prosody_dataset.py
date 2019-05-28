@@ -5,8 +5,6 @@ from pytorch_pretrained_bert import BertTokenizer
 import torch
 import numpy as np
 
-INVALID = -1 # used to represent non-numeric data in regression models
-
 class Dataset(data.Dataset):
     def __init__(self, tagged_sents, tag_to_index, config):
         sents, tags_li,values_li = [], [], [] # list of lists

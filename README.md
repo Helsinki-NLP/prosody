@@ -144,7 +144,7 @@ Atlas 2 2
 
 | Model                                           |  Train data | correlation   | 
 | ---                                             | ---         | ---           |
-| Regression on BERT-base uncased                 | train-100   | **0.64737**   |
+| Regression on BERT-base uncased                 | train-100   |               |
 | Regression on BiLSTM (3 layers)                 | train-100   |               |
 
 
@@ -159,6 +159,10 @@ Sample analyses (to be reproduced for the paper)
 ![BiLSTM](images/confusion_matrix-BiLSTM.png)
 
 ![WordMajority](images/confusion_matrix-WordMajority.png)
+
+![Regression on Bert-uncased](images/scatterplot_Regression-BertUncased.png)
+
+
 
 ## TODO
 
