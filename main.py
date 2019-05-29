@@ -29,7 +29,7 @@ parser.add_argument('--train_set',
                     default='train_360')
 parser.add_argument('--batch_size',
                     type=int,
-                    default=16)
+                    default=32)
 parser.add_argument('--epochs',
                     type=int,
                     default=2)
@@ -413,7 +413,6 @@ def test(model, iterator, criterion, index_to_tag, device, config):
                                                                                    config.epochs))
 
     classes = ['0', '1', '2', 'NA']
-
     np.set_printoptions(precision=1)
     plot_confusion_matrix(y_true, y_pred, classes, title='Confusion Matrix - ' + config.model)
 
