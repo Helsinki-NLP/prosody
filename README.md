@@ -32,8 +32,8 @@ For the **BERT** model run training by executing:
 python3 main.py \
     --model BertUncased \
     --train_set train_360 \
-    --batch_size 16 \
-    --epochs 1 \
+    --batch_size 32 \
+    --epochs 2 \
     --save_path results.txt \
     --log_every 50 \
     --learning_rate 0.00005 \
