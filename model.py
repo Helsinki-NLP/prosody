@@ -104,13 +104,40 @@ class LSTM(nn.Module):
         return logits, y, y_hat
 
 
-class RegressionModel(nn.Module):
+class RegressionHook():
+    def __init__(self, module, backward=True):
+        if backward==False:
+            self.hook = module.register_forward_hook(self.forward_hook_fn)
+        else:
+            self.hook = module.register_backward_hook(self.backward_hook_fn)
+
+    def forward_hook_fn(self, module, input, output):
+        self.input = input
+        self.output = output
+
+    def backward_hook_fn(self, module, grad_out, grad_in):
+        tmp_grad_out = grad_out[0].squeeze()
+        new_grad_out = torch.mul(tmp_grad_out, 1-module.mask.float())
+        new_grad_out = new_grad_out.unsqueeze(2)
+        return (new_grad_out,)
+
+    def close(self):
+        self.hook.remove()
+
+
+class BertRegression(nn.Module):
     def __init__(self, device, config):
         super().__init__()
         self.bert = BertModel.from_pretrained('bert-base-uncased')
 
         self.fc = nn.Linear(768, 1)
         self.device = device
+        self.mask_invalid_grads = config.mask_invalid_grads
+        self.invalid_set_to = config.invalid_set_to
+
+        # One way to mask gradients. Another is commented out below.
+        if self.mask_invalid_grads:
+            hookB = RegressionHook(self, backward=True)
 
     def forward(self, x, y):
         '''
@@ -131,7 +158,51 @@ class RegressionModel(nn.Module):
                 enc = encoded_layers[-1]
 
         out = self.fc(enc).squeeze()
-        return out, y, out
+
+        if self.mask_invalid_grads and self.training:
+            self.mask = (y == self.invalid_set_to)
+            # Another way to mask gradients would be this:
+            # h = out.register_hook(lambda grad: torch.mul(out.float(), 1-self.mask.float()))
+
+        return out, y
+
+
+class LSTMRegression(nn.Module):
+    def __init__(self, device, config, vocab_size):
+        super().__init__()
+        self.config = config
+        self.bidirectional = True
+        self.device = device
+        self.mask_invalid_grads = config.mask_invalid_grads
+        self.invalid_set_to = config.invalid_set_to
+        self.dropout = 0 if config.layers == 1 else 0.2
+        hidden_dim = config.hidden_dim*2 if self.bidirectional else config.hidden_dim
+        self.fc = nn.Linear(hidden_dim, 1)
+        self.word_embedding = nn.Embedding(vocab_size, 300)
+        self.lstm = nn.LSTM(input_size=300,
+                           hidden_size=config.hidden_dim,
+                           num_layers=config.layers,
+                           dropout=self.dropout,
+                           bidirectional=self.bidirectional)
+
+        # One way to mask gradients. Another is commented out below.
+        if self.mask_invalid_grads:
+            hookB = RegressionHook(self, backward=True)
+
+    def forward(self, x, y):
+        x = x.permute(1, 0).to(self.device)
+        y = y.to(self.device)
+        emb = self.word_embedding(x)
+        enc = self.lstm(emb)[0]
+        enc = enc.permute(1, 0, 2)
+        out = self.fc(enc).squeeze()
+
+        if self.mask_invalid_grads and self.training:
+            self.mask = (y == self.invalid_set_to)
+            # Another way to mask gradients would be this:
+            # h = out.register_hook(lambda grad: torch.mul(out.float(), 1-self.mask.float()))
+
+        return out, y
 
 
 class WordMajority(nn.Module):
@@ -205,7 +276,6 @@ class WordMajority(nn.Module):
         y_hat = logits.argmax(-1)
         return logits, y, y_hat
 
-
 class ClassEncodings(nn.Module):
     def __init__(self, device, config, index_to_tag, tag_to_index):
         super().__init__()
@@ -264,8 +334,6 @@ class ClassEncodings(nn.Module):
         class_encodings = class_encodings.view(batch_size, seq_length, self.FIXED_NR_OUTPUTS).to(self.device)
 
         return logits, class_encodings, y_hat
-
-
 
 class BertAllLayers(nn.Module):
     def __init__(self, device, config, labels=None):

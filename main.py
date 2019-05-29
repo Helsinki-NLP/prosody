@@ -11,7 +11,7 @@ import torch.optim as optim
 import prosody_dataset
 from prosody_dataset import Dataset
 from prosody_dataset import load_embeddings
-from model import Bert, BertLSTM, LSTM, RegressionModel, WordMajority, ClassEncodings, BertAllLayers
+from model import Bert, BertLSTM, LSTM, BertRegression, LSTMRegression, WordMajority, ClassEncodings, BertAllLayers
 from argparse import ArgumentParser
 import matplotlib.pyplot as plt
 from sklearn.metrics import confusion_matrix
@@ -40,7 +40,8 @@ parser.add_argument('--model',
                              'BertLSTM',
                              'LSTM',
                              'BiLSTM',
-                             'Regression',
+                             'BertRegression',
+                             'LSTMRegression',
                              'WordMajority',
                              'ClassEncodings',
                              'BertAllLayers'],
@@ -87,6 +88,15 @@ parser.add_argument("--optimizer",
 parser.add_argument('--include_punctuation',
                     action='store_false',
                     dest='ignore_punctuation')
+parser.add_argument('--sorted_batches',
+                    action='store_true',
+                    dest='sorted_batches')
+parser.add_argument('--mask_invalid_grads',
+                    action='store_true',
+                    dest='mask_invalid_grads')
+parser.add_argument('--invalid_set_to',
+                    type=int,
+                    default=-1)
 parser.add_argument('--seed',
                     type=int,
                     default=1234)
@@ -150,8 +160,12 @@ def main():
         model = BertLSTM(device, config, labels=len(tag_to_index))
     elif config.model == "LSTM" or config.model == "BiLSTM":
         model = LSTM(device, config, vocab_size=len(vocab), labels=len(tag_to_index))
-    elif config.model == "Regression":
-        model = RegressionModel(device, config)
+    elif config.model == "BertRegression":
+        model = BertRegression(device, config)
+        config.ignore_punctuation = True #HANDE: I'm not using non-numeric labels for Regression. Shall we?
+    elif config.model == "LSTMRegression":
+        model = LSTMRegression(device, config, vocab_size=len(vocab))
+        config.ignore_punctuation = True
     elif config.model == "WordMajority":
         model = WordMajority(device, config, index_to_tag)
     elif config.model == "ClassEncodings":
@@ -169,14 +183,14 @@ def main():
 
     train_iter = data.DataLoader(dataset=train_dataset,
                                  batch_size=config.batch_size,
-                                 shuffle=True,
+                                 shuffle=not(config.sorted_batches), # will manually shuffle if sorted_batches desired
                                  num_workers=1,
                                  collate_fn=prosody_dataset.pad)
     dev_iter = data.DataLoader(dataset=eval_dataset,
-                                batch_size=config.batch_size,
-                                shuffle=False,
-                                num_workers=1,
-                                collate_fn=prosody_dataset.pad)
+                               batch_size=config.batch_size,
+                               shuffle=False,
+                               num_workers=1,
+                               collate_fn=prosody_dataset.pad)
     test_iter = data.DataLoader(dataset=test_dataset,
                                 batch_size=config.batch_size,
                                 shuffle=False,
@@ -190,7 +204,7 @@ def main():
                                     lr=config.learning_rate,
                                     weight_decay=config.weight_decay)
 
-    if config.model == 'Regression':
+    if config.model in ['BertRegression', 'LSTMRegression']:
         criterion = nn.MSELoss()
     elif config.model == 'ClassEncodings':
         criterion = nn.BCELoss()
@@ -213,6 +227,11 @@ def main():
     if config.model == 'WordMajority': # 1 pass over the dataset is enough to collect stats
         config.epochs = 1
 
+    if config.model in ['BertRegression', 'LSTMRegression']:
+        train = train_cont
+        valid = valid_cont
+        test = test_cont
+
     print('\nTraining started...\n')
     best_dev_acc = 0
     best_dev_epoch = 0
@@ -224,13 +243,17 @@ def main():
     test(model, test_iter, criterion, index_to_tag, device, config)
 
 
+
+
+# --------------- FUNCTIONS FOR DISCRETE MODELS --------------------
+
 def train(model, iterator, optimizer, criterion, device, config):
     if config.model == 'WordMajority' and model.load_stats():
         return
 
     model.train()
     for i, batch in enumerate(iterator):
-        words, x, is_main_piece, tags, y, seqlens = batch
+        words, x, is_main_piece, tags, y, seqlens, _, _ = batch
 
         if config.model == 'WordMajority':
             model.collect_stats(x, y)
@@ -239,11 +262,10 @@ def train(model, iterator, optimizer, criterion, device, config):
         optimizer.zero_grad()
         x = x.to(device)
         y = y.to(device)
+
         logits, y, _ = model(x, y) # logits: (N, T, VOCAB), y: (N, T)
 
-        if config.model == 'Regression':
-            loss = criterion(logits.to(device), y.float().to(device))
-        elif config.model == 'ClassEncodings':
+        if config.model == 'ClassEncodings':
             logits = logits.view(-1, logits.shape[-1])  # (N*T, VOCAB)
             y = y.view(-1, y.shape[-1])  # also (N*T, VOCAB)
             loss = criterion(logits.to(device), y.to(device))
@@ -253,7 +275,6 @@ def train(model, iterator, optimizer, criterion, device, config):
             loss = criterion(logits.to(device), y.to(device))
 
         loss.backward()
-
         optimizer.step()
 
         if i % config.log_every == 0 or i+1 == len(iterator):
@@ -272,14 +293,13 @@ def valid(model, iterator, criterion, index_to_tag, device, config, best_dev_acc
     Words, Is_main_piece, Tags, Y, Y_hat = [], [], [], [], []
     with torch.no_grad():
         for i, batch in enumerate(iterator):
-            words, x, is_main_piece, tags, y, seqlens = batch
+            words, x, is_main_piece, tags, y, seqlens, _, _ = batch
             x = x.to(device)
             y = y.to(device)
+
             logits, labels, y_hat = model(x, y)  # y_hat: (N, T)
 
-            if config.model == 'Regression':
-                loss = criterion(logits.to(device), labels.float().to(device))
-            elif config.model == 'ClassEncodings':
+            if config.model == 'ClassEncodings':
                 logits = logits.view(-1, logits.shape[-1])  # (N*T, VOCAB)
                 labels = labels.view(-1, labels.shape[-1])  # also (N*T, VOCAB)
                 loss = criterion(logits.to(device), labels.to(device))
@@ -300,10 +320,8 @@ def valid(model, iterator, criterion, index_to_tag, device, config, best_dev_acc
     predictions = []
     for words, is_main_piece, tags, y_hat in zip(Words, Is_main_piece, Tags, Y_hat):
         y_hat = [hat for head, hat in zip(is_main_piece, y_hat) if head == 1]
-        if config.model=='Regression':
-            preds = [index_to_tag[max(min(int(hat), 4), 0)] for hat in y_hat]
-        else:
-            preds = [index_to_tag[hat] for hat in y_hat]
+        preds = [index_to_tag[hat] for hat in y_hat]
+
         if config.model != 'LSTM' and config.model != 'BiLSTM':
             tagslice = tags.split()[1:-1]
             predsslice = preds[1:-1]
@@ -350,14 +368,13 @@ def test(model, iterator, criterion, index_to_tag, device, config):
     Words, Is_main_piece, Tags, Y, Y_hat = [], [], [], [], []
     with torch.no_grad():
         for i, batch in enumerate(iterator):
-            words, x, is_main_piece, tags, y, seqlens = batch
+            words, x, is_main_piece, tags, y, seqlens, _, _ = batch
             x = x.to(device)
             y = y.to(device)
+
             logits, labels, y_hat = model(x, y)  # y_hat: (N, T)
 
-            if config.model in ['Regression']:
-                loss = criterion(logits.to(device), labels.float().to(device))
-            elif config.model == 'ClassEncodings':
+            if config.model == 'ClassEncodings':
                 logits = logits.view(-1, logits.shape[-1])  # (N*T, VOCAB)
                 labels = labels.view(-1, labels.shape[-1])  # also (N*T, VOCAB)
                 loss = criterion(logits.to(device), labels.to(device))
@@ -380,10 +397,7 @@ def test(model, iterator, criterion, index_to_tag, device, config):
     with open(config.save_path, 'w') as results:
         for words, is_main_piece, tags, y_hat in zip(Words, Is_main_piece, Tags, Y_hat):
             y_hat = [hat for head, hat in zip(is_main_piece, y_hat) if head == 1]
-            if config.model == 'Regression':
-                preds = [index_to_tag[max(min(int(hat), 4), 0)] for hat in y_hat]
-            else:
-                preds = [index_to_tag[hat] for hat in y_hat]
+            preds = [index_to_tag[hat] for hat in y_hat]
             if config.model != 'LSTM' and config.model != 'BiLSTM':
                 tagslice = tags.split()[1:-1]
                 predsslice = preds[1:-1]
@@ -423,6 +437,107 @@ def test(model, iterator, criterion, index_to_tag, device, config):
                                                                  round(acc, 2), config.epochs)
     torch.save(model, final_snapshot_path)
 
+
+
+# ---------------- FUNCTIONS FOR CONTINUOUS MODELS ------------------
+''' This includes only the Regression Model for now '''
+
+def train_cont(model, iterator, optimizer, criterion, device, config):
+
+    model.train()
+    for i, batch in enumerate(iterator):
+        words, x, is_main_piece, tags, y, seqlens, values, invalid_set_to = batch
+
+        optimizer.zero_grad()
+        x = x.to(device)
+        values = values.to(device)
+
+        predictions, true = model(x, values)
+        loss = criterion(predictions.to(device), true.float().to(device))
+        loss.backward()
+        optimizer.step()
+
+        if i % config.log_every == 0 or i+1 == len(iterator):
+            print("Training step: {}/{}, loss: {:<.4f}".format(i+1, len(iterator), loss.item()))
+
+
+def valid_cont(model, iterator, criterion, index_to_tag, device, config, best_dev_acc, best_dev_epoch, epoch):
+    model.eval()
+    dev_losses = []
+    Words, Is_main_piece, Tags, Y, Predictions, Values = [], [], [], [], [], []
+    with torch.no_grad():
+        for i, batch in enumerate(iterator):
+            words, x, is_main_piece, tags, y, seqlens, values, invalid_set_to = batch
+            x = x.to(device)
+            values = values.to(device)
+
+            predictions, true = model(x, values)
+            loss = criterion(predictions.to(device), true.float().to(device))
+
+            dev_losses.append(loss.item())
+
+            Words.extend(words)
+            Is_main_piece.extend(is_main_piece)
+            Tags.extend(tags)
+            Y.extend(y.cpu().numpy().tolist())
+            Predictions.extend(predictions.cpu().numpy().tolist())
+            Values.extend(values.cpu().numpy().tolist())
+
+    print('Validation loss: {:<.4f}\n'.format(np.mean(dev_losses)))
+
+
+def test_cont(model, iterator, criterion, index_to_tag, device, config):
+    print('Calculating test accuracy and printing predictions to file {}'.format(config.save_path))
+    print("Output file structure: <word>\t <tag>\t <prediction>\n")
+
+    model.eval()
+    test_losses = []
+
+    Words, Is_main_piece, Tags, Y, Predictions, Values = [], [], [], [], [], []
+    with torch.no_grad():
+        for i, batch in enumerate(iterator):
+            words, x, is_main_piece, tags, y, seqlens, values, invalid_set_to = batch
+            x = x.to(device)
+            values = values.to(device)
+
+            predictions, true = model(x, values)
+            loss = criterion(predictions.to(device), true.float().to(device))
+
+            test_losses.append(loss.item())
+
+            Words.extend(words)
+            Is_main_piece.extend(is_main_piece)
+            Tags.extend(tags)
+            Y.extend(y.cpu().numpy().tolist())
+            Predictions.extend(predictions.cpu().numpy().tolist())
+            Values.extend(values.cpu().numpy().tolist())
+
+    true = []
+    preds_to_eval = []
+    # gets results and save
+    with open(config.save_path, 'w') as results:
+        for words, is_main_piece, tags, preds, values in zip(Words, Is_main_piece, Tags, Predictions, Values):
+            valid_preds = [p for head, p in zip(is_main_piece, preds) if head == 1]
+
+            predsslice = valid_preds[1:-1]
+            valuesslice = values[1:-1]
+            wordslice = words.split()[1:-1]
+
+            for w, v, p in zip(wordslice, valuesslice, predsslice):
+                results.write("{}\t{}\t{}\n".format(w, v, p))
+                if v != invalid_set_to:
+                    true.append(v)
+                    preds_to_eval.append(p)
+            results.write("\n")
+    # calc metric
+    y_true = np.array(true)
+    y_pred = np.array(preds_to_eval)
+
+    print('Test loss: {:<.4f}\n'.format(np.mean(test_losses)))
+    # Correlation is calculated afterwards with a separate script.
+
+
+# ---------- AUXILARY FUNCTIONS -------------
 
 def plot_confusion_matrix(y_true, y_pred, classes,
                           normalize=False,

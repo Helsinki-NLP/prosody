@@ -132,6 +132,21 @@ Atlas 2 2
 | Majority class                                  |             |  0.5087     |  0.2588    |  0.5087     | 0.3430     |
 
 
+**Results (Regression - test_360)**
+
+| Model                                           |  Train data | correlation   | 
+| ---                                             | ---         | ---           |
+| Regression on BERT-base uncased                 | train-360   | **0.64737**   |
+| Regression on BiLSTM (3 layers)                 | train-360   |               |
+
+
+**Results (Regression - test_100)**
+
+| Model                                           |  Train data | correlation   | 
+| ---                                             | ---         | ---           |
+| Regression on BERT-base uncased                 | train-100   |               |
+| Regression on BiLSTM (3 layers)                 | train-100   |               |
+
 
 ## Analysis
 
@@ -144,6 +159,10 @@ Sample analyses (to be reproduced for the paper)
 ![BiLSTM](images/confusion_matrix-BiLSTM.png)
 
 ![WordMajority](images/confusion_matrix-WordMajority.png)
+
+![Regression on Bert-uncased](images/scatterplot_Regression-BertUncased.png)
+
+
 
 ## TODO
 
