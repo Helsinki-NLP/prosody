@@ -95,8 +95,8 @@ parser.add_argument('--mask_invalid_grads',
                     action='store_true',
                     dest='mask_invalid_grads')
 parser.add_argument('--invalid_set_to',
-                    type=int,
-                    default=-1)
+                    type=float,
+                    default=0) # -2 = log(0.01)
 parser.add_argument('--seed',
                     type=int,
                     default=1234)
@@ -227,20 +227,23 @@ def main():
     if config.model == 'WordMajority': # 1 pass over the dataset is enough to collect stats
         config.epochs = 1
 
-    if config.model in ['BertRegression', 'LSTMRegression']:
-        train = train_cont
-        valid = valid_cont
-        test = test_cont
-
     print('\nTraining started...\n')
     best_dev_acc = 0
     best_dev_epoch = 0
-    for epoch in range(config.epochs):
-        print("Epoch: {}".format(epoch+1))
-        train(model, train_iter, optimizer, criterion, device, config)
-        valid(model, dev_iter, criterion, index_to_tag, device, config, best_dev_acc, best_dev_epoch, epoch+1)
 
-    test(model, test_iter, criterion, index_to_tag, device, config)
+    if config.model in ['BertRegression', 'LSTMRegression']:
+        for epoch in range(config.epochs):
+            print("Epoch: {}".format(epoch + 1))
+            train_cont(model, train_iter, optimizer, criterion, device, config)
+            valid_cont(model, dev_iter, criterion, index_to_tag, device, config, best_dev_acc, best_dev_epoch, epoch + 1)
+        test_cont(model, test_iter, criterion, index_to_tag, device, config)
+
+    else:
+        for epoch in range(config.epochs):
+            print("Epoch: {}".format(epoch+1))
+            train(model, train_iter, optimizer, criterion, device, config)
+            valid(model, dev_iter, criterion, index_to_tag, device, config, best_dev_acc, best_dev_epoch, epoch+1)
+        test(model, test_iter, criterion, index_to_tag, device, config)
 
 
 
@@ -441,7 +444,7 @@ def test(model, iterator, criterion, index_to_tag, device, config):
 
 
 # ---------------- FUNCTIONS FOR CONTINUOUS MODELS ------------------
-''' This includes only the Regression Model for now '''
+''' These are used only the BertRegression and LSTMRegression models for now '''
 
 def train_cont(model, iterator, optimizer, criterion, device, config):
 
@@ -474,8 +477,11 @@ def valid_cont(model, iterator, criterion, index_to_tag, device, config, best_de
 
             predictions, true = model(x, values)
             loss = criterion(predictions.to(device), true.float().to(device))
-
             dev_losses.append(loss.item())
+
+            # Map back the values:
+            predictions = np.exp(predictions) - 1
+            values = np.exp(values) - 1
 
             Words.extend(words)
             Is_main_piece.extend(is_main_piece)
@@ -503,8 +509,11 @@ def test_cont(model, iterator, criterion, index_to_tag, device, config):
 
             predictions, true = model(x, values)
             loss = criterion(predictions.to(device), true.float().to(device))
-
             test_losses.append(loss.item())
+
+            # Map back the values:
+            predictions = np.exp(predictions) - 1
+            values = np.exp(values) - 1
 
             Words.extend(words)
             Is_main_piece.extend(is_main_piece)
