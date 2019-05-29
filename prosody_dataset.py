@@ -57,7 +57,9 @@ class Dataset(data.Dataset):
         # to string
         words = " ".join(words)
         tags = " ".join(tags)
-        values = [float(v) if v not in ['<pad>','NA'] else self.config.invalid_set_to for v in values_li]
+
+        # Use log-values to remove affects of 0-skewed value distribution
+        values = [np.log(float(v) + 1) if v not in ['<pad>','NA'] else self.config.invalid_set_to for v in values_li]
 
         return words, x, is_main_piece, tags, y, seqlen, values, self.config.invalid_set_to
 
@@ -117,7 +119,7 @@ def pad(batch):
     tags = f(3)
     seqlens = f(5)
     maxlen = np.array(seqlens).max()
-    invalid_set_to = f(7)
+    invalid_set_to = f(7)[0]
 
     f = lambda x, seqlen: [sample[x] + [0] * (seqlen - len(sample[x])) for sample in batch] # 0: <pad>
     x = f(1, maxlen)
