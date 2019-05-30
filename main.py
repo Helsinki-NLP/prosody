@@ -117,6 +117,7 @@ def make_dirs(name):
 def main():
 
     config = parser.parse_args()
+
     np.random.seed(config.seed)
     torch.manual_seed(config.seed)
     random.seed(config.seed)
@@ -177,9 +178,16 @@ def main():
 
     model.to(device)
 
-    train_dataset = Dataset(splits["train"], tag_to_index, config)
-    eval_dataset = Dataset(splits["dev"], tag_to_index, config)
-    test_dataset = Dataset(splits["test"], tag_to_index, config)
+    # TODO: implement word embeddings
+    if config.model == 'LSTM' or config.model == 'BiLSTM':
+        weights, word_to_embid = load_embeddings(config, vocab)
+        model.word_embedding.weight.data = torch.Tensor(weights).to(device)
+    else:
+        word_to_embid = None
+
+    train_dataset = Dataset(splits["train"], tag_to_index, config, word_to_embid)
+    eval_dataset = Dataset(splits["dev"], tag_to_index, config, word_to_embid)
+    test_dataset = Dataset(splits["test"], tag_to_index, config, word_to_embid)
 
     train_iter = data.DataLoader(dataset=train_dataset,
                                  batch_size=config.batch_size,
@@ -213,11 +221,6 @@ def main():
 
     params = sum([p.numel() for p in model.parameters()])
     print('Parameters: {}'.format(params))
-
-    # TODO: implement word embeddings
-    if config.model == 'LSTM' or config.model == 'BiLSTM':
-        weights = load_embeddings(config, vocab)
-        model.word_embedding.weight.data = torch.Tensor(weights).to(device)
 
     config.cells = config.layers
 

@@ -1,14 +1,18 @@
 import os
+import sys
 import random
 from torch.utils import data
 from pytorch_pretrained_bert import BertTokenizer
 import torch
 import numpy as np
+import nltk
+import gensim
 
 class Dataset(data.Dataset):
-    def __init__(self, tagged_sents, tag_to_index, config):
+    def __init__(self, tagged_sents, tag_to_index, config, word_to_embid=None):
         sents, tags_li,values_li = [], [], [] # list of lists
         self.config = config
+
         for sent in tagged_sents:
             words = [word_tag[0] for word_tag in sent]
             tags = [word_tag[1] for word_tag in sent]
@@ -27,10 +31,16 @@ class Dataset(data.Dataset):
             self.tokenizer = BertTokenizer.from_pretrained('bert-base-uncased', do_lower_case=True)
         else:
             self.tokenizer = BertTokenizer.from_pretrained('bert-base-cased', do_lower_case=False)
+
         self.tag_to_index = tag_to_index
+        self.word_to_embid = word_to_embid
 
     def __len__(self):
         return len(self.sents)
+
+    def convert_tokens_to_emb_ids(self, tokens):
+        UNK_id = self.word_to_embid.get('UNK')
+        return [self.word_to_embid.get(token, UNK_id) for token in tokens]
 
     def __getitem__(self, id):
         words, tags, values_li = self.sents[id], self.tags_li[id], self.values_li[id] # words, tags, values: string list
@@ -38,8 +48,12 @@ class Dataset(data.Dataset):
         x, y, values = [], [], [] # list of ids
         is_main_piece = [] # only score the main piece of each word
         for w, t, v in zip(words, tags, values_li):
-            tokens = self.tokenizer.tokenize(w) if w not in ("[CLS]", "[SEP]") else [w]
-            xx = self.tokenizer.convert_tokens_to_ids(tokens)
+            if self.config.model in ['LSTM', 'BiLSTM', 'LSTMRegression']:
+                tokens = [w]
+                xx = self.convert_tokens_to_emb_ids(tokens)
+            else:
+                tokens = self.tokenizer.tokenize(w) if w not in ("[CLS]", "[SEP]") else [w]
+                xx = self.tokenizer.convert_tokens_to_ids(tokens)
 
             t = [t] + ["<pad>"] * (len(tokens) - 1)  # <PAD>: no decision
             yy = [self.tag_to_index[each] for each in t]  # (T,)
@@ -133,6 +147,7 @@ def pad(batch):
 
 
 def load_embeddings(config, vocab):
+    vocab.add('UNK') #FIXME: Do I need to "augmente" vocab permanently with UNK? I think both ways is ok. Correct?
     word2id = {word: id for id, word in enumerate(vocab)}
     embed_size = 300
     vocab_size = len(vocab)
@@ -149,4 +164,4 @@ def load_embeddings(config, vocab):
             if id is not None and len(line) == 301:
                 weights[id] = np.array([float(val) for val in line[1:]])
 
-    return weights
+    return weights, word2id
