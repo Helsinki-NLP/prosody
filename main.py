@@ -13,9 +13,15 @@ from prosody_dataset import Dataset
 from prosody_dataset import load_embeddings
 from model import Bert, BertLSTM, LSTM, BertRegression, LSTMRegression, WordMajority, ClassEncodings, BertAllLayers
 from argparse import ArgumentParser
-import matplotlib.pyplot as plt
 from sklearn.metrics import confusion_matrix
 
+# Check if $DISPLAY is available for matplotlib:
+import matplotlib
+have_display = os.environ.get('DISPLAY', None)
+if have_display == None:    
+    matplotlib.use('Agg')
+import matplotlib.pyplot as plt
+    
 
 parser = ArgumentParser(description='Prosody prediction')
 
@@ -131,7 +137,6 @@ def main():
         device = torch.device('cpu')
         print("GPU not available so training on CPU (torch.device({})).".format(device))
         device = 'cpu'
-
 
     # Optimizer
     if config.optimizer == 'adadelta':
@@ -559,6 +564,7 @@ def plot_confusion_matrix(y_true, y_pred, classes,
     This function prints and plots the confusion matrix.
     Normalization can be applied by setting `normalize=True`.
     """
+    
     if not title:
         if normalize:
             title = 'Normalized confusion matrix'
