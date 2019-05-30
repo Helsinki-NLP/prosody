@@ -5,8 +5,6 @@ from torch.utils import data
 from pytorch_pretrained_bert import BertTokenizer
 import torch
 import numpy as np
-import nltk
-import gensim
 
 class Dataset(data.Dataset):
     def __init__(self, tagged_sents, tag_to_index, config, word_to_embid=None):
