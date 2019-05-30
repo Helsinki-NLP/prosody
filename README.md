@@ -125,8 +125,8 @@ Atlas 2 2
 | BERT-base cased                                 | train-100   |  0.6849     |  0.6712    |  0.6849     | 0.6756     |
 | BERT uncases + all layers                       | train-100   |  0.6709     |  0.6623    |  0.6709     | 0.6659     |
 | BERT uncased + class encodings                  | train-100   |  0.6667     |  0.6697    |  0.6667     | 0.6681     |
-| BiLSTM (3 layers)                               | train-100   |  0.6648     |  0.6577    |  0.6648     | 0.6608     |
-| LSTM (1 layers)                                 | train-100   |  0.6460     |  0.6380    |  0.6460     | 0.6414     |
+| BiLSTM (3 layers)                               | train-100   |  0.6596     |  0.6577    |  0.6648     | 0.6608     |
+| LSTM (1 layers)                                 | train-100   |  0.6498     |  0.6380    |  0.6460     | 0.6414     |
 | Minitagger (SVM) + word embeddings              | train-100   |  0.6455     |  0.6402    |  0.6455     | 0.6426     |
 | Majority per word                               | train-100   |  0.6210     |  0.5995    |  0.6210     | 0.6057     |
 | Majority class                                  |             |  0.5087     |  0.2588    |  0.5087     | 0.3430     |
