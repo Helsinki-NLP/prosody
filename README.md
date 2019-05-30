@@ -107,8 +107,8 @@ Atlas 2 2
 | BERT-base uncased                               | train-360   | **0.6955**  |  0.6877    |  0.6877     | 0.6909     |
 | BERT-base cased                                 | train-360   |  0.6947     | **0.6936** |  0.6947     | **0.6937** |
 | BERT-base uncased + 3-layer BiLSTM              | train-360   |  0.6954     |  0.6932    | **0.6954**  | 0.6919     |
-| BiLSTM (3 layers)                               | train-360   |  0.6771     |  0.6690    |  0.6771     | 0.6714     |
-| LSTM (1 layers)                                 | train-360   |  0.6513     |  0.6487    |  0.6587     | 0.6506     |
+| BiLSTM (3 layers)                               | train-360   |  0.6726     |  0.6690    |  0.6771     | 0.6714     |
+| LSTM (1 layers)                                 | train-360   |  0.6597     |  0.6487    |  0.6587     | 0.6506     |
 | Majority per word                               | train-360   |  0.6055     |  0.4897    |  0.6055     | 0.5394     |
 | Minitagger (SVM) + word embeddings (GloVe)      | train-360   |  0.6645     |  0.6493    |  0.6645     | 0.6535     |
 | Minitagger (SVM) + word embeddings (Speech2Vec) | train-360   |  0.6647     |  0.6489    |  0.6647     | 0.6534     |
@@ -125,8 +125,8 @@ Atlas 2 2
 | BERT-base cased                                 | train-100   |  0.6849     |  0.6712    |  0.6849     | 0.6756     |
 | BERT uncases + all layers                       | train-100   |  0.6709     |  0.6623    |  0.6709     | 0.6659     |
 | BERT uncased + class encodings                  | train-100   |  0.6667     |  0.6697    |  0.6667     | 0.6681     |
-| BiLSTM (3 layers)                               | train-100   |  0.6648     |  0.6577    |  0.6648     | 0.6608     |
-| LSTM (1 layers)                                 | train-100   |  0.6460     |  0.6380    |  0.6460     | 0.6414     |
+| BiLSTM (3 layers)                               | train-100   |  0.6596     |  0.6577    |  0.6648     | 0.6608     |
+| LSTM (1 layers)                                 | train-100   |  0.6498     |  0.6380    |  0.6460     | 0.6414     |
 | Minitagger (SVM) + word embeddings              | train-100   |  0.6455     |  0.6402    |  0.6455     | 0.6426     |
 | Majority per word                               | train-100   |  0.6210     |  0.5995    |  0.6210     | 0.6057     |
 | Majority class                                  |             |  0.5087     |  0.2588    |  0.5087     | 0.3430     |
