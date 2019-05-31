@@ -162,7 +162,9 @@ Sample analyses (to be reproduced for the paper)
 
 ![Regression on Bert-uncased](images/scatterplot_Regression-BertUncased.png)
 
+![Prosody values histogram train 360](images/values_histogram_train_360.png)
 
+![Prosody values histogram train 100](images/values_histogram_train_100.png)
 
 ## TODO
 
