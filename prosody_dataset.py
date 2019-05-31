@@ -1,6 +1,7 @@
 import os
 import sys
 import random
+import math
 from torch.utils import data
 from pytorch_pretrained_bert import BertTokenizer
 import torch
@@ -15,6 +16,7 @@ class Dataset(data.Dataset):
             words = [word_tag[0] for word_tag in sent]
             tags = [word_tag[1] for word_tag in sent]
             values = [word_tag[3] for word_tag in sent] #+++HANDE
+
             if self.config.model != 'LSTM' and self.config.model != 'BiLSTM':
                 sents.append(["[CLS]"] + words + ["[SEP]"])
                 tags_li.append(["<pad>"] + tags + ["<pad>"])
@@ -92,8 +94,21 @@ def load_dataset(config):
             for i, line in enumerate(lines):
                 if line != "\n":
                     split_line = line.split('\t')
-                    sent.append((split_line[0], split_line[1], split_line[2], split_line[3], split_line[4]))
-                    words.append(split_line[0])
+                    word = split_line[0]
+                    tag_prominence = split_line[1]
+                    tag_boundary = split_line[2]
+                    value_prominance = split_line[3]
+                    value_boundary = split_line[4]
+
+                    # Modify tag value if we specified a different config.nclasses
+                    # than default value of 3
+                    if config.nclasses == 2:
+                        if tag_prominence == '2': tag_prominence = '1' #Collapse the non-0 classes
+                    elif config.nclasses > 3:
+                        tag_prominence = rediscretize_tag(value_prominance, config.nclasses)
+
+                    sent.append((word, tag_prominence, tag_boundary, value_prominance, value_boundary))
+                    words.append(word)
                 elif line == "\n" or i+1 == len(lines):
                     tagged_sents.append(sent)
                     sent = []
@@ -106,6 +121,7 @@ def load_dataset(config):
         if token not in vocab:
             vocab.append(token)
     vocab = set(vocab)
+
     tags = list(set(word_tag[1] for sent in all_sents for word_tag in sent))
     tags = ["<pad>"] + tags
 
@@ -163,3 +179,12 @@ def load_embeddings(config, vocab):
                 weights[id] = np.array([float(val) for val in line[1:]])
 
     return weights, word2id
+
+def rediscretize_tag(value_prominance, nclasses):
+    if value_prominance == 'NA':
+        return 'NA'
+
+    # Simple dividing into bins:
+    SOFT_MAX_BOUND = 6.0
+    return str(int(min(float(value_prominance) * nclasses / SOFT_MAX_BOUND, nclasses)))
+

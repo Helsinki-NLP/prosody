@@ -52,6 +52,9 @@ parser.add_argument('--model',
                              'ClassEncodings',
                              'BertAllLayers'],
                     default='BertUncased')
+parser.add_argument('--nclasses',
+                    type=int,
+                    default=3)
 parser.add_argument('--hidden_dim',
                     type=int,
                     default=600)
@@ -486,7 +489,7 @@ def valid_cont(model, iterator, criterion, index_to_tag, device, config, best_de
             loss = criterion(predictions.to(device), true.float().to(device))
             dev_losses.append(loss.item())
 
-            # Map back the values:
+            # Map back the values (for printing):
             predictions = np.exp(predictions) - 1
             values = np.exp(values) - 1
 
@@ -518,7 +521,7 @@ def test_cont(model, iterator, criterion, index_to_tag, device, config):
             loss = criterion(predictions.to(device), true.float().to(device))
             test_losses.append(loss.item())
 
-            # Map back the values:
+            # Map back the values (for printing):
             predictions = np.exp(predictions) - 1
             values = np.exp(values) - 1
 
