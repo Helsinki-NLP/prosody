@@ -166,6 +166,10 @@ Sample analyses (to be reproduced for the paper)
 
 ![Prosody values histogram train 100](images/values_histogram_train_100.png)
 
+![Prosody values vs log values scatter train 360](images/values_vs_log_train_360.png)
+
+![Prosody values vs log values scatter train 100](images/values_vs_log_train_100.png)
+
 ## TODO
 
 * BERT (DONE)
