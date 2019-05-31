@@ -13,9 +13,15 @@ from prosody_dataset import Dataset
 from prosody_dataset import load_embeddings
 from model import Bert, BertLSTM, LSTM, BertRegression, LSTMRegression, WordMajority, ClassEncodings, BertAllLayers
 from argparse import ArgumentParser
-import matplotlib.pyplot as plt
 from sklearn.metrics import confusion_matrix
 
+# Check if $DISPLAY is available for matplotlib:
+import matplotlib
+have_display = os.environ.get('DISPLAY', None)
+if have_display == None:    
+    matplotlib.use('Agg')
+import matplotlib.pyplot as plt
+    
 
 parser = ArgumentParser(description='Prosody prediction')
 
@@ -46,6 +52,9 @@ parser.add_argument('--model',
                              'ClassEncodings',
                              'BertAllLayers'],
                     default='BertUncased')
+parser.add_argument('--nclasses',
+                    type=int,
+                    default=3)
 parser.add_argument('--hidden_dim',
                     type=int,
                     default=600)
@@ -117,6 +126,7 @@ def make_dirs(name):
 def main():
 
     config = parser.parse_args()
+
     np.random.seed(config.seed)
     torch.manual_seed(config.seed)
     random.seed(config.seed)
@@ -130,7 +140,6 @@ def main():
         device = torch.device('cpu')
         print("GPU not available so training on CPU (torch.device({})).".format(device))
         device = 'cpu'
-
 
     # Optimizer
     if config.optimizer == 'adadelta':
@@ -177,9 +186,16 @@ def main():
 
     model.to(device)
 
-    train_dataset = Dataset(splits["train"], tag_to_index, config)
-    eval_dataset = Dataset(splits["dev"], tag_to_index, config)
-    test_dataset = Dataset(splits["test"], tag_to_index, config)
+    # TODO: implement word embeddings
+    if config.model == 'LSTM' or config.model == 'BiLSTM':
+        weights, word_to_embid = load_embeddings(config, vocab)
+        model.word_embedding.weight.data = torch.Tensor(weights).to(device)
+    else:
+        word_to_embid = None
+
+    train_dataset = Dataset(splits["train"], tag_to_index, config, word_to_embid)
+    eval_dataset = Dataset(splits["dev"], tag_to_index, config, word_to_embid)
+    test_dataset = Dataset(splits["test"], tag_to_index, config, word_to_embid)
 
     train_iter = data.DataLoader(dataset=train_dataset,
                                  batch_size=config.batch_size,
@@ -213,11 +229,6 @@ def main():
 
     params = sum([p.numel() for p in model.parameters()])
     print('Parameters: {}'.format(params))
-
-    # TODO: implement word embeddings
-    if config.model == 'LSTM' or config.model == 'BiLSTM':
-        weights = load_embeddings(config, vocab)
-        model.word_embedding.weight.data = torch.Tensor(weights).to(device)
 
     config.cells = config.layers
 
@@ -478,7 +489,7 @@ def valid_cont(model, iterator, criterion, index_to_tag, device, config, best_de
             loss = criterion(predictions.to(device), true.float().to(device))
             dev_losses.append(loss.item())
 
-            # Map back the values:
+            # Map back the values (for printing):
             predictions = np.exp(predictions) - 1
             values = np.exp(values) - 1
 
@@ -510,7 +521,7 @@ def test_cont(model, iterator, criterion, index_to_tag, device, config):
             loss = criterion(predictions.to(device), true.float().to(device))
             test_losses.append(loss.item())
 
-            # Map back the values:
+            # Map back the values (for printing):
             predictions = np.exp(predictions) - 1
             values = np.exp(values) - 1
 
@@ -556,6 +567,7 @@ def plot_confusion_matrix(y_true, y_pred, classes,
     This function prints and plots the confusion matrix.
     Normalization can be applied by setting `normalize=True`.
     """
+    
     if not title:
         if normalize:
             title = 'Normalized confusion matrix'

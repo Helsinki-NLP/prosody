@@ -1,18 +1,22 @@
 import os
+import sys
 import random
+import math
 from torch.utils import data
 from pytorch_pretrained_bert import BertTokenizer
 import torch
 import numpy as np
 
 class Dataset(data.Dataset):
-    def __init__(self, tagged_sents, tag_to_index, config):
+    def __init__(self, tagged_sents, tag_to_index, config, word_to_embid=None):
         sents, tags_li,values_li = [], [], [] # list of lists
         self.config = config
+
         for sent in tagged_sents:
             words = [word_tag[0] for word_tag in sent]
             tags = [word_tag[1] for word_tag in sent]
             values = [word_tag[3] for word_tag in sent] #+++HANDE
+
             if self.config.model != 'LSTM' and self.config.model != 'BiLSTM':
                 sents.append(["[CLS]"] + words + ["[SEP]"])
                 tags_li.append(["<pad>"] + tags + ["<pad>"])
@@ -27,10 +31,16 @@ class Dataset(data.Dataset):
             self.tokenizer = BertTokenizer.from_pretrained('bert-base-uncased', do_lower_case=True)
         else:
             self.tokenizer = BertTokenizer.from_pretrained('bert-base-cased', do_lower_case=False)
+
         self.tag_to_index = tag_to_index
+        self.word_to_embid = word_to_embid
 
     def __len__(self):
         return len(self.sents)
+
+    def convert_tokens_to_emb_ids(self, tokens):
+        UNK_id = self.word_to_embid.get('UNK')
+        return [self.word_to_embid.get(token, UNK_id) for token in tokens]
 
     def __getitem__(self, id):
         words, tags, values_li = self.sents[id], self.tags_li[id], self.values_li[id] # words, tags, values: string list
@@ -38,8 +48,12 @@ class Dataset(data.Dataset):
         x, y, values = [], [], [] # list of ids
         is_main_piece = [] # only score the main piece of each word
         for w, t, v in zip(words, tags, values_li):
-            tokens = self.tokenizer.tokenize(w) if w not in ("[CLS]", "[SEP]") else [w]
-            xx = self.tokenizer.convert_tokens_to_ids(tokens)
+            if self.config.model in ['LSTM', 'BiLSTM', 'LSTMRegression']:
+                tokens = [w]
+                xx = self.convert_tokens_to_emb_ids(tokens)
+            else:
+                tokens = self.tokenizer.tokenize(w) if w not in ("[CLS]", "[SEP]") else [w]
+                xx = self.tokenizer.convert_tokens_to_ids(tokens)
 
             t = [t] + ["<pad>"] * (len(tokens) - 1)  # <PAD>: no decision
             yy = [self.tag_to_index[each] for each in t]  # (T,)
@@ -80,8 +94,21 @@ def load_dataset(config):
             for i, line in enumerate(lines):
                 if line != "\n":
                     split_line = line.split('\t')
-                    sent.append((split_line[0], split_line[1], split_line[2], split_line[3], split_line[4]))
-                    words.append(split_line[0])
+                    word = split_line[0]
+                    tag_prominence = split_line[1]
+                    tag_boundary = split_line[2]
+                    value_prominance = split_line[3]
+                    value_boundary = split_line[4]
+
+                    # Modify tag value if we specified a different config.nclasses
+                    # than default value of 3
+                    if config.nclasses == 2:
+                        if tag_prominence == '2': tag_prominence = '1' #Collapse the non-0 classes
+                    elif config.nclasses > 3:
+                        tag_prominence = rediscretize_tag(value_prominance, config.nclasses)
+
+                    sent.append((word, tag_prominence, tag_boundary, value_prominance, value_boundary))
+                    words.append(word)
                 elif line == "\n" or i+1 == len(lines):
                     tagged_sents.append(sent)
                     sent = []
@@ -94,6 +121,7 @@ def load_dataset(config):
         if token not in vocab:
             vocab.append(token)
     vocab = set(vocab)
+
     tags = list(set(word_tag[1] for sent in all_sents for word_tag in sent))
     tags = ["<pad>"] + tags
 
@@ -133,6 +161,7 @@ def pad(batch):
 
 
 def load_embeddings(config, vocab):
+    vocab.add('UNK') #FIXME: Do I need to "augmente" vocab permanently with UNK? I think both ways is ok. Correct?
     word2id = {word: id for id, word in enumerate(vocab)}
     embed_size = 300
     vocab_size = len(vocab)
@@ -149,4 +178,13 @@ def load_embeddings(config, vocab):
             if id is not None and len(line) == 301:
                 weights[id] = np.array([float(val) for val in line[1:]])
 
-    return weights
+    return weights, word2id
+
+def rediscretize_tag(value_prominance, nclasses):
+    if value_prominance == 'NA':
+        return 'NA'
+
+    # Simple dividing into bins:
+    SOFT_MAX_BOUND = 6.0
+    return str(int(min(float(value_prominance) * nclasses / SOFT_MAX_BOUND, nclasses)))
+
