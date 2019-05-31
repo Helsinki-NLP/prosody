@@ -11,6 +11,9 @@ LABEL = 1
 TRAIN = 360
 # TRAIN = 100
 
+## training steps for estimating learning curves
+STEPS = 0.01 0.05 0.1 0.5 1
+
 
 MARMOT = marmot-2015-10-22.jar
 
@@ -20,12 +23,35 @@ train: train_${TRAIN}.l${LABEL}.marmot
 test: test.${TRAIN}.l${LABEL}.predict
 eval: test.${TRAIN}.l${LABEL}.eval
 
+learning-curve:
+	for s in ${STEPS}; do \
+	  ${MAKE} TRAIN=360_$$s all; \
+	done
 
 %.l1: ../data/%.txt
 	cut -f2 $<  > $@
 
 %.l2: ../data/%.txt
 	cut -f3 $<  > $@
+
+
+## learning curves: growing amounts of data
+## line count of the train_360 data: 2494437
+
+../data/train_360_0.01.txt: ../data/train_360.txt
+	head -24944 $< > $@
+
+../data/train_360_0.05.txt: ../data/train_360.txt
+	head -124722 $< > $@
+
+../data/train_360_0.1.txt: ../data/train_360.txt
+	head -249444 $< > $@
+
+../data/train_360_0.5.txt: ../data/train_360.txt
+	head -1247219 $< > $@
+
+../data/train_360_1.txt: ../data/train_360.txt
+	cp $< $@
 
 
 # /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/java
