@@ -18,6 +18,7 @@ STEPS = 0.01 0.05 0.1 0.5 1
 MARMOT = marmot-2015-10-22.jar
 
 all: test.${TRAIN}.l${LABEL}.eval
+all-binary: test.${TRAIN}.l${LABEL}.eval-binary
 
 train: train_${TRAIN}.l${LABEL}.marmot
 test: test.${TRAIN}.l${LABEL}.predict
@@ -27,6 +28,12 @@ learning-curve:
 	for s in ${STEPS}; do \
 	  ${MAKE} TRAIN=360_$$s all; \
 	done
+
+learning-curve-binary:
+	for s in ${STEPS}; do \
+	  ${MAKE} TRAIN=360_$$s all-binary; \
+	done
+
 
 %.l1: ../data/%.txt
 	cut -f2 $<  > $@
@@ -72,3 +79,25 @@ learning-curve:
 
 %.${TRAIN}.l${LABEL}.eval: %.l${LABEL} %.${TRAIN}.l${LABEL}.predict
 	perl ../megam/eval.pl -n $< < ${word 2,$^} > $@
+
+
+
+## make it a binary classifier
+%.l${LABEL}.marmot-binary: ../data/%.txt
+	sed 's/	[2-9]	/	1	/g' < $< > $@.train
+	java -Xmx5G -cp ${MARMOT} marmot.morph.cmd.Trainer \
+		-train-file form-index=0,tag-index=${LABEL},$@.train \
+		-tag-morph false \
+		-model-file $@
+	rm -f $@.train
+
+%.${TRAIN}.l${LABEL}.predict-binary: ../data/%.txt train_${TRAIN}.l${LABEL}.marmot-binary
+	java -cp ${MARMOT} marmot.morph.cmd.Annotator \
+		--model-file ${word 2,$^} \
+		--test-file form-index=0,$< \
+		--pred-file $@.tmp
+	cut -f6 $@.tmp > $@
+	rm -f $@.tmp
+
+%.${TRAIN}.l${LABEL}.eval-binary: %.l${LABEL} %.${TRAIN}.l${LABEL}.predict-binary
+	perl ../megam/eval.pl -b -n $< < ${word 2,$^} > $@
