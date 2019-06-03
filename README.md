@@ -162,6 +162,8 @@ Sample analyses (to be reproduced for the paper)
 
 ![Regression on Bert-uncased](images/scatterplot_Regression-BertUncased.png)
 
+![Regression on Bert-uncased with log-values](images/scatterplot_Regression_log_values_10000samp.png)
+
 ![Prosody values histogram train 360](images/values_histogram_train_360.png)
 
 ![Prosody values histogram train 100](images/values_histogram_train_100.png)
