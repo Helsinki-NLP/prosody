@@ -117,7 +117,7 @@ def load_dataset(config):
                     sent = []
 
 
-        if config.shuffle_senteces:	
+        if config.shuffle_sentences:	
             random.shuffle(tagged_sents)
 
         splits[split] = tagged_sents
