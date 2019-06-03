@@ -29,6 +29,9 @@ LABEL = 2
 ## training data to be used (100 or 360)
 TRAIN = 360
 
+## training steps for estimating learning curves
+STEPS = 0.01 0.05 0.1 0.5 1
+
 ## features to be used
 FEAT = ud2+ud3+ud4.trigram
 
@@ -56,7 +59,7 @@ UDPIPE = ${BINDIR}/udpipe
 UDPIPE_MODEL = english-ewt-ud-2.3-181115.udpipe
 
 
-all: test.${TRAIN}.l${LABEL}.${FEAT}.${MODEL}.eval
+all: test.${TRAIN}.l${LABEL}.${FEAT}.${MODEL}.eval-no-NA
 
 
 data: train_${TRAIN}.l${LABEL}.${FEAT} test.l${LABEL}.bigram
@@ -65,32 +68,56 @@ test: test.${TRAIN}.l${LABEL}.${FEAT}.${MODEL}.predict-no-NA
 eval: test.${TRAIN}.l${LABEL}.${FEAT}.${MODEL}.eval-no-NA
 
 
+## run with growing amounts of data
+learning-curve:
+	for s in ${STEPS}; do \
+	  ${MAKE} TRAIN=360 FEAT=${FEAT}_$$s all; \
+	done
+
+run-learning-curves:
+	make FEAT=trigram learning-curve
+	make UDTAG=3 FEAT=ud3.trigram learning-curve
+	make UDTAG=4 FEAT=ud4.trigram learning-curve
+	make UDTAG=5 FEAT=ud5.trigram learning-curve
+	make FEAT=ud2+ud3+ud4.trigram learning-curve
+	make FEAT=ud2+l3.trigram TRAIN=360 learning-curve
+
+## run all settings for predicting label 2
 run:
 	make FEAT=unigram LABEL=2 TRAIN=360 eval
 	make FEAT=bigram LABEL=2 TRAIN=360 eval
 	make FEAT=trigram LABEL=2 TRAIN=360 eval
+	make UDTAG=3 FEAT=ud3.unigram LABEL=2 TRAIN=360 eval
+	make UDTAG=4 FEAT=ud4.unigram LABEL=2 TRAIN=360 eval
+	make UDTAG=5 FEAT=ud5.unigram LABEL=2 TRAIN=360 eval
 	make UDTAG=3 FEAT=ud3.trigram LABEL=2 TRAIN=360 eval
 	make UDTAG=4 FEAT=ud4.trigram LABEL=2 TRAIN=360 eval
 	make UDTAG=5 FEAT=ud5.trigram LABEL=2 TRAIN=360 eval
+	make FEAT=ud2+ud3+ud4.trigram TRAIN=360 LABEL=2 eval
+	make FEAT=l3.unigram TRAIN=360 LABEL=2 eval
+	make FEAT=l3.bigram TRAIN=360 LABEL=2 eval
+	make FEAT=l3.trigram TRAIN=360 LABEL=2 eval
+	make FEAT=ud2+l3.trigram TRAIN=360 LABEL=2 eval
+
+## run all settings for predicting label 3
+run3:
 	make FEAT=unigram LABEL=3 TRAIN=360 eval
 	make FEAT=bigram LABEL=3 TRAIN=360 eval
 	make FEAT=trigram LABEL=3 TRAIN=360 eval
 	make UDTAG=3 FEAT=ud3.trigram LABEL=3 TRAIN=360 eval
 	make UDTAG=4 FEAT=ud4.trigram LABEL=3 TRAIN=360 eval
 	make UDTAG=5 FEAT=ud5.trigram LABEL=3 TRAIN=360 eval
+	make FEAT=ud2+ud3+ud4.trigram TRAIN=360 LABEL=3 eval
+
+## run all settings for predicting label 2 and 3 together
+run23:
 	make FEAT=unigram LABEL=23 TRAIN=360 eval
 	make FEAT=bigram LABEL=23 TRAIN=360 eval
 	make FEAT=trigram LABEL=23 TRAIN=360 eval
 	make UDTAG=3 FEAT=ud3.trigram LABEL=23 TRAIN=360 eval
 	make UDTAG=4 FEAT=ud4.trigram LABEL=23 TRAIN=360 eval
 	make UDTAG=5 FEAT=ud5.trigram LABEL=23 TRAIN=360 eval
-	make FEAT=ud2+ud3+ud4.trigram TRAIN=360 LABEL=2 eval
-	make FEAT=ud2+ud3+ud4.trigram TRAIN=360 LABEL=3 eval
 	make FEAT=ud2+ud3+ud4.trigram TRAIN=360 LABEL=23 eval
-	make FEAT=l3.unigram TRAIN=360 LABEL=2 eval
-	make FEAT=l3.bigram TRAIN=360 LABEL=2 eval
-	make FEAT=l3.trigram TRAIN=360 LABEL=2 eval
-	make FEAT=ud2+l3.trigram TRAIN=360 LABEL=2 eval
 
 
 
@@ -104,6 +131,30 @@ run:
 %.l23: ../data/%.txt
 	cut -f2,3 $< | \
 	awk '{ if ( $$1 == "NA"){print "NA"} else if ($$1 == "") {print ""} else {print $$1+3*$$2} }' > $@
+
+
+## learning curves: growing amounts of data
+## this only works for the 360 data (hard coded line counts here)
+##
+## line count of the train_360 data: 2494437
+
+%_0.01: %
+	head -24944 $< > $@
+
+%_0.05: %
+	head -124722 $< > $@
+
+%_0.1: %
+	head -249444 $< > $@
+
+%_0.5: %
+	head -1247219 $< > $@
+
+%_1: %
+	cp $< $@
+
+
+
 
 ## combined features
 
