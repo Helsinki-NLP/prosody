@@ -69,7 +69,7 @@ class BertLSTM(nn.Module):
                 encoded_layers, _ = self.bert(x)
                 enc = encoded_layers[-1]
 
-        enc = enc.permute(1, 0, 2)
+        enc = enc.permute(1, 0, 2).to(self.device)
         enc = self.lstm(enc)[0]
         enc = enc.permute(1, 0, 2)
         logits = self.fc(enc).to(self.device)
@@ -94,7 +94,7 @@ class LSTM(nn.Module):
                            bidirectional=self.bidirectional)
 
     def forward(self, x, y):
-        x = x.permute(1, 0).to(self.device)
+        x = x.permute(1, 0)
         y = y.to(self.device)
         emb = self.word_embedding(x)
         enc = self.lstm(emb)[0]
