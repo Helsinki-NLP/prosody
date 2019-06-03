@@ -213,8 +213,8 @@ class WordMajority(nn.Module):
         self.index_to_tag = index_to_tag
         self.nr_classes = len(index_to_tag)
         self.majorityClass = dict()
-        self.stats_file = self.config.datadir + '/train.classes.json'
-        self.valid_classes = [1,2,3]
+        self.stats_file = self.config.datadir + '/' + self.config.train_set +'.classes.json'
+        self.valid_classes = list(self.index_to_tag.keys())
 
     def load_stats(self):
         if os.path.isfile(self.stats_file):
@@ -292,11 +292,11 @@ class ClassEncodings(nn.Module):
         self.index_to_tag = index_to_tag
         self.tag_to_index = tag_to_index
 
-        self.mapping = {'<pad>': [0, 0, 0, 0, 0, 0, 1, 1],  # <pad>
-                        'NA'   : [0, 0, 0, 0, 1, 1, 0, 0],  # NA
-                        '2'    : [0, 0, 1, 1, 0, 0, 0, 0],  # prosody value 2
-                        '0'    : [1, 1, 0, 0, 0, 0, 0, 0],  # prosody value 0
-                        '1'    : [0, 1, 1, 0, 0, 0, 0, 0]}  # prosody value 1
+        self.mapping = {'<pad>': [0, 0, 0, 0, 0, 0, 1, 0],  # <pad>
+                        'NA'   : [0, 0, 0, 0, 0, 1, 0, 0],  # NA
+                        '2'    : [1, 1, 1, 1, 1, 0, 0, 0],  # prosody value 2
+                        '0'    : [1, 1, 1, 0, 0, 0, 0, 0],  # prosody value 0
+                        '1'    : [1, 1, 1, 1, 0, 0, 0, 0]}  # prosody value 1
 
 
     def get_encoding(self, index):

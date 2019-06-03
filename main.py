@@ -105,7 +105,16 @@ parser.add_argument('--mask_invalid_grads',
                     dest='mask_invalid_grads')
 parser.add_argument('--invalid_set_to',
                     type=float,
-                    default=0) # -2 = log(0.01)
+                    default=-2) # -2 = log(0.01)
+parser.add_argument('--log_values',
+                    action='store_true',
+                    dest='log_values')
+parser.add_argument('--weighted_mse',
+                    action='store_true',
+                    dest='weighted_mse')
+parser.add_argument('--shuffle_sentences',
+                    action='store_true',
+                    dest='shuffle_sentences')
 parser.add_argument('--seed',
                     type=int,
                     default=1234)
@@ -121,6 +130,20 @@ def make_dirs(name):
         else:
             # a different error happened
             raise
+
+
+def weighted_mse_loss(input,target):
+    tgt_device = target.device
+    BUFFER = torch.Tensor([3.0]).to(tgt_device)
+    SOFT_MAX_BOUND = torch.Tensor([6.0]).to(tgt_device) + BUFFER
+    weights = (torch.min(target + BUFFER, SOFT_MAX_BOUND) / SOFT_MAX_BOUND)
+    weights = weights / torch.sum(weights)
+    weights = weights.cuda()
+    sq_err = (input-target)**2
+    weighted_err = sq_err * weights.expand_as(target)
+    loss = weighted_err.mean()
+    return loss
+
 
 
 def main():
@@ -221,7 +244,10 @@ def main():
                                     weight_decay=config.weight_decay)
 
     if config.model in ['BertRegression', 'LSTMRegression']:
-        criterion = nn.MSELoss()
+        if config.weighted_mse:
+            criterion = weighted_mse_loss
+        else:
+            criterion = nn.MSELoss()    
     elif config.model == 'ClassEncodings':
         criterion = nn.BCELoss()
     else:
@@ -262,8 +288,8 @@ def main():
 # --------------- FUNCTIONS FOR DISCRETE MODELS --------------------
 
 def train(model, iterator, optimizer, criterion, device, config):
-    if config.model == 'WordMajority' and model.load_stats():
-        return
+    #if config.model == 'WordMajority' and model.load_stats():
+    #    return
 
     model.train()
     for i, batch in enumerate(iterator):
@@ -490,8 +516,8 @@ def valid_cont(model, iterator, criterion, index_to_tag, device, config, best_de
             dev_losses.append(loss.item())
 
             # Map back the values (for printing):
-            predictions = np.exp(predictions) - 1
-            values = np.exp(values) - 1
+            # predictions = np.exp(predictions) - 1
+            # values = np.exp(values) - 1
 
             Words.extend(words)
             Is_main_piece.extend(is_main_piece)
@@ -522,8 +548,8 @@ def test_cont(model, iterator, criterion, index_to_tag, device, config):
             test_losses.append(loss.item())
 
             # Map back the values (for printing):
-            predictions = np.exp(predictions) - 1
-            values = np.exp(values) - 1
+            # predictions = np.exp(predictions) - 1
+            # values = np.exp(values) - 1
 
             Words.extend(words)
             Is_main_piece.extend(is_main_piece)
