@@ -14,13 +14,13 @@ If you use the corpus or the system, please cite:
 }
 ```
 
-## Dataset
+## Corpus
 
 The corpus is available in the *data* folder.  
 
-### Dataset statistics
+### Corpus statistics
 
-| sets (clean)  |  speakers  |  sentences  |  words     |  label: 0  |  label: 1 |  label: 2 |
+| datasesets    |  speakers  |  sentences  |  words     |  label: 0  |  label: 1 |  label: 2 |
 | ---           | ---        | ---         | ---        | ---        | ---       | ---       |
 | train-100     |  247       |   33,041    |  570,592   |  274,184   |  155,849  |  140,559  |
 | train-360     |  904       |  116,262    |  2,076,289 |  1,003,454 |  569,769  |  503,066  |
