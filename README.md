@@ -1,5 +1,5 @@
 # Predicting Prosodic Prominence from Text with Pre-trained Contextualized Word Representations
-This repository contains the dataset and code from the paper: [Link here]
+This repository contains the prosody corpus and code from the paper: [Link here]
 * Helsinki Prosody Corpus
 * System for predicting prosodic prominence
 
@@ -16,7 +16,7 @@ If you use the corpus or the system, please cite:
 
 ## Corpus
 
-The corpus is available in the *data* folder.  
+The corpus is available in the [data](https://github.com/Helsinki-NLP/prosody/tree/master/data) folder.  
 
 ### Corpus statistics
 
