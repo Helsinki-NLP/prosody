@@ -1,5 +1,5 @@
-# Predicting Prosodic Prominence from Text with Pre-trained Contextualized Word Representations
-This repository contains the prosody corpus and code from the paper: [Link here]
+# Predicting Prosodic Prominence from Text
+This repository contains the prosody corpus and code from the paper: [Predicting Prosodic Prominence from Text with Pre-trained Contextualized Word Representations]()
 * Helsinki Prosody Corpus
 * System for predicting prosodic prominence
 
