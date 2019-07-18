@@ -1,5 +1,5 @@
 # Predicting Prosodic Prominence from Text
-This repository contains the prosody corpus and code from the forthcoming [NoDaLiDa](https://nodalida2019.org/) paper: [Predicting Prosodic Prominence from Text with Pre-trained Contextualized Word Representations]()
+This repository contains the prosody corpus and the code from the forthcoming [NoDaLiDa](https://nodalida2019.org/) paper: [Predicting Prosodic Prominence from Text with Pre-trained Contextualized Word Representations]()
 * Helsinki Prosody Corpus
 * System for predicting prosodic prominence
 
