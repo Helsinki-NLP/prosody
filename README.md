@@ -20,13 +20,13 @@ This repository contains the largest annotated dataset with labels for prosodic 
 
 ### Corpus statistics
 
-| datasesets    |  speakers  |  sentences  |  words     |  label: 0  |  label: 1 |  label: 2 |
+| Datasesets    |  Speakers  |  Sentences  |  Words     |  Label: 0  |  Label: 1 |  Label: 2 |
 | ---           | ---        | ---         | ---        | ---        | ---       | ---       |
 | train-100     |  247       |   33,041    |  570,592   |  274,184   |  155,849  |  140,559  |
 | train-360     |  904       |  116,262    |  2,076,289 |  1,003,454 |  569,769  |  503,066  |
 | dev           |  40        |  5726       |  99,200    |  47,535    |  27,454   |  24,211   |
 | test          |  39        |  4821       |  90,063    |  43,234    |  24,543   |  22,286   |
-| **total:**        |  **1230**      |  **159,850**    |  **2,836,144** |  **1,368,407** |  **777,615**  |  **690,122**  |
+| **Total:**        |  **1230**      |  **159,850**    |  **2,836,144** |  **1,368,407** |  **777,615**  |  **690,122**  |
 
 ## Usage of the system
 
