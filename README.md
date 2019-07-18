@@ -16,7 +16,7 @@ If you use the corpus or the system, please cite:
 
 ## Corpus
 
-The corpus is available in the [data](https://github.com/Helsinki-NLP/prosody/tree/master/data) folder.  
+This repository contains the largest dataset with labels for prosodic prominence. The corpus is available in the [data](https://github.com/Helsinki-NLP/prosody/tree/master/data) folder.  
 
 ### Corpus statistics
 
