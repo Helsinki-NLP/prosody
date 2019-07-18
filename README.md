@@ -62,7 +62,7 @@ python3 main.py \
     --seed 1234
 ```
 
-For the **LSTM** model run training by executing:
+For the **Bidirectional LSTM** model run training by executing:
 ```console
 # Train 3-layer BiLSTM
 python3 main.py \
