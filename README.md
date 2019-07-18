@@ -16,7 +16,7 @@ If you use the corpus or the system, please cite:
 
 ## Corpus
 
-This repository contains the largest dataset with labels for prosodic prominence. The corpus is available in the [data](https://github.com/Helsinki-NLP/prosody/tree/master/data) folder.  
+This repository contains the largest annotated dataset with labels for prosodic prominence. The corpus is available in the [data](https://github.com/Helsinki-NLP/prosody/tree/master/data) folder.  
 
 ### Corpus statistics
 
@@ -125,6 +125,21 @@ Atlas  2     2
 ```
 
 ## Results
+
+Main experimental results from the paper using the *test360* dataset.
+
+|    Model                 |  Test accuracy (2-way)  |  Test accuracy (3-way) |
+| ---                      | ---                     | ---                    |
+| BERT-base                |  **83.2%**                  |  **68.6%**                 |
+| 3-layer BiLSTM           |  82.1%                  |  66.4%                 | 
+| CRF ([MarMoT](http://cistern.cis.lmu.de/marmot/)) |  81.8%                  |  66.4%                 |
+| SVM+GloVe ([Minitagger](https://github.com/karlstratos/minitagger))  |  80.8%                  |  65.4%                 |
+| Majority class per word  |  80.2%                  |  62.4%                 |
+| Majority class           |  52.0%                  |  48.0%                 |
+| Random                   |  49.0%                  |  39.5%                 |
+
+
+
 
 **Results (excluding NA tag - test_360)**
 
