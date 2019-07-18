@@ -12,7 +12,6 @@ If you use the corpus or the system, please cite:
   booktitle = {Proceeding of NoDaLiDa},
   year = {2019}
 }
-
 ```
 
 ## Dataset
@@ -41,7 +40,14 @@ pip3 install -r requirements.txt
 To download the word embeddings for the LSTM model run:
 ```console
 ./download_embeddings.sh
+
 ```
+
+### Models included:
+* BERT
+* LSTM
+* Majority class per word
+* See *model.py* for the complete list
 
 For the **BERT** model run training by executing:
 
