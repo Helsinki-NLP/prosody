@@ -126,7 +126,7 @@ Atlas  2     2
 
 ## Results
 
-Main experimental results from the paper using the *test360* dataset.
+Main experimental results from the paper using the *train-360* dataset.
 
 |    Model                 |  Test accuracy (2-way)  |  Test accuracy (3-way) |
 | ---                      | ---                     | ---                    |
