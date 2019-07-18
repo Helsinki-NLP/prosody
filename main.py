@@ -18,10 +18,10 @@ from sklearn.metrics import confusion_matrix
 # Check if $DISPLAY is available for matplotlib:
 import matplotlib
 have_display = os.environ.get('DISPLAY', None)
-if have_display == None:    
+if have_display == None:
     matplotlib.use('Agg')
 import matplotlib.pyplot as plt
-    
+
 
 parser = ArgumentParser(description='Prosody prediction')
 
@@ -194,7 +194,7 @@ def main():
         model = LSTM(device, config, vocab_size=len(vocab), labels=len(tag_to_index))
     elif config.model == "BertRegression":
         model = BertRegression(device, config)
-        config.ignore_punctuation = True #HANDE: I'm not using non-numeric labels for Regression. Shall we?
+        config.ignore_punctuation = True # HANDE: I'm not using non-numeric labels for Regression. Shall we?
     elif config.model == "LSTMRegression":
         model = LSTMRegression(device, config, vocab_size=len(vocab))
         config.ignore_punctuation = True
@@ -209,7 +209,7 @@ def main():
 
     model.to(device)
 
-    # TODO: implement word embeddings
+    # word embeddings
     if config.model == 'LSTM' or config.model == 'BiLSTM':
         weights, word_to_embid = load_embeddings(config, vocab)
         model.word_embedding.weight.data = torch.Tensor(weights).to(device)
@@ -247,7 +247,7 @@ def main():
         if config.weighted_mse:
             criterion = weighted_mse_loss
         else:
-            criterion = nn.MSELoss()    
+            criterion = nn.MSELoss()
     elif config.model == 'ClassEncodings':
         criterion = nn.BCELoss()
     else:
@@ -593,7 +593,7 @@ def plot_confusion_matrix(y_true, y_pred, classes,
     This function prints and plots the confusion matrix.
     Normalization can be applied by setting `normalize=True`.
     """
-    
+
     if not title:
         if normalize:
             title = 'Normalized confusion matrix'
@@ -603,7 +603,7 @@ def plot_confusion_matrix(y_true, y_pred, classes,
     # Compute confusion matrix
     cm = confusion_matrix(y_true, y_pred)
     # Only use the labels that appear in the data
-    #classes = classes[unique_labels(y_true, y_pred)]
+    # classes = classes[unique_labels(y_true, y_pred)]
     if not title:
         if normalize:
             cm = cm.astype('float') / cm.sum(axis=1)[:, np.newaxis]

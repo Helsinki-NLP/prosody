@@ -1,6 +1,6 @@
 torch>=1.0
 argparse
-pytorch_pretrained_bert
+pytorch_transformers
 numpy
 matplotlib
 sklearn

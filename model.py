@@ -5,7 +5,7 @@ import numpy as np
 import torch
 from torch import nn
 import torch.nn.functional as F
-from pytorch_pretrained_bert import BertModel
+from pytorch_transformers import BertModel
 
 
 class Bert(nn.Module):

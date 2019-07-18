@@ -1,17 +1,35 @@
-# BERT-prosody
-Prosody prediction using BERT
+# Predicting Prosodic Prominence from Text with Pre-trained Contextualized Word Representations
+This repository contains the dataset and code from the paper: [Link here]
+* Helsinki Prosody Corpus
+* System for predicting prosodic prominence
 
-## Usage
+If you use the corpus or the system, please cite: 
+
+```
+@inproceedings{helsinki_prosody_2019,
+  author = {Aarne Talman and Antti Suni and Hande Celikkanat and Sofoklis Kakouros and J\"org Tiedemann and Martti Vainio},
+  title = {Predicting Prosodic Prominence from Text with Pre-trained Contextualized Word Representations},
+  booktitle = {Proceeding of NoDaLiDa},
+  year = {2019}
+}
+
+```
+
+## Dataset
+
+The corpus is available in the *data* folder.  
+
+## Usage of the system
 
 To use the system following dependencies need to be installed:
 
 * Python 3
 * torch>=1.0
 * argparse
-* pytorch_pretrained_bert
+* pytorch_transformers
 * numpy
-* matplotlib
-* sklearn
+* matplotlib (only used for visualizations)
+* sklearn (only used for prediction metrics)
 
 
 To install the requirements run:
@@ -75,28 +93,20 @@ Output of the system is a text file with the following structure:
 
 Example output:
 ```
-And 0 0
-those 2 2
-who 0 0
-meet 1 2
-in 0 0
-the 0 0
-great 1 1
-hall 1 1
-with 0 0
-the 0 0
-white 2 1
-Atlas 2 2
-? NA NA
+And    0     0
+those  2     2
+who    0     0
+meet   1     2
+in     0     0
+the    0     0
+great  1     1
+hall   1     1
+with   0     0
+the    0     0
+white  2     1
+Atlas  2     2
+?      NA    NA
 ```
-
-## Models
-
-* [BERT](https://arxiv.org/abs/1810.04805)-base Uncased
-* [BERT](https://arxiv.org/abs/1810.04805)-base Cased
-* [Minitagger](https://github.com/karlstratos/minitagger) A multi-class SVM trained using GloVe word embeddings. Paper: https://www.aclweb.org/anthology/W15-1511
-* 1-layer 600D LSTM
-* 3-layer 600D Bidirectional LSTM
 
 ## Results
 
@@ -147,42 +157,3 @@ Atlas 2 2
 | Regression on BERT-base uncased                 | train-100   |               |
 | Regression on BiLSTM (3 layers)                 | train-100   |               |
 
-
-## Analysis
-
-Sample analyses (to be reproduced for the paper)
-
-![Bert-uncased](images/confusion_matrix-BertUncased.png)
-
-![Bert-cased](images/confusion_matrix-BertCased.png)
-
-![BiLSTM](images/confusion_matrix-BiLSTM.png)
-
-![WordMajority](images/confusion_matrix-WordMajority.png)
-
-![Regression on Bert-uncased](images/scatterplot_Regression-BertUncased.png)
-
-![Regression on Bert-uncased with log-values](images/scatterplot_Regression_log_values_10000samp.png)
-
-![Prosody values histogram train 360](images/values_histogram_train_360.png)
-
-![Prosody values histogram train 100](images/values_histogram_train_100.png)
-
-![Prosody values vs log values scatter train 360](images/values_vs_log_train_360.png)
-
-![Prosody values vs log values scatter train 100](images/values_vs_log_train_100.png)
-
-## TODO
-
-* BERT (DONE)
-* Words embeddings + LSTM (DONE)
-* BERT + LSTM (DONE)
-* Regression (Need to debug for time and run on new data)
-* Majority for each word (DONE)
-* Class-encodings for ordinal class labels (Running on taito)
-* Context model (neighbours) (Hande)
-* CRF (Hande)
-* BERT + position encoding
-* Other pre-trained models (GPT, ELMo etc)
-* Sort sentences before forming batches? (Hande, least priority)
-* Using all layers of BERT for representation (Running on taito)
