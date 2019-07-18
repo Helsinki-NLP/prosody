@@ -73,7 +73,7 @@ python3 main.py \
     --learning_rate 0.00005 \
     --weight_decay 0 \
     --gpu 0 \
-    --fraction_of_sentences 1 \
+    --fraction_of_train_data 1 \
     --optimizer adam \
     --seed 1234
 ```
@@ -93,7 +93,7 @@ python3 main.py \
     --learning_rate 0.001 \
     --weight_decay 0 \
     --gpu 0 \
-    --fraction_of_sentences 1 \
+    --fraction_of_train_data 1 \
     --optimizer adam \
     --seed 1234
 ```
