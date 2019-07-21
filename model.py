@@ -27,14 +27,11 @@ class Bert(nn.Module):
 
         if self.training:
             self.bert.train()
-            encoded_layers, _ = self.bert(x)
-            enc = encoded_layers[-1]
+            enc = self.bert(x)[0]
         else:
             self.bert.eval()
             with torch.no_grad():
-                encoded_layers, _ = self.bert(x)
-                enc = encoded_layers[-1]
-
+                enc = self.bert(x)[0]
         logits = self.fc(enc).to(self.device)
         y_hat = logits.argmax(-1)
         return logits, y, y_hat
@@ -61,13 +58,11 @@ class BertLSTM(nn.Module):
 
         if self.training:
             self.bert.train()
-            encoded_layers, _ = self.bert(x)
-            enc = encoded_layers[-1]
+            enc = self.bert(x)[0]
         else:
             self.bert.eval()
             with torch.no_grad():
-                encoded_layers, _ = self.bert(x)
-                enc = encoded_layers[-1]
+                enc = self.bert(x)[0]
 
         enc = enc.permute(1, 0, 2).to(self.device)
         enc = self.lstm(enc)[0]
@@ -149,13 +144,11 @@ class BertRegression(nn.Module):
 
         if self.training:
             self.bert.train()
-            encoded_layers, _ = self.bert(x)
-            enc = encoded_layers[-1]
+            enc = self.bert(x)[0]
         else:
             self.bert.eval()
             with torch.no_grad():
-                encoded_layers, _ = self.bert(x)
-                enc = encoded_layers[-1]
+                enc = self.bert(x)[0]
 
         out = self.fc(enc).squeeze()
 
@@ -316,13 +309,11 @@ class ClassEncodings(nn.Module):
 
         if self.training:
             self.bert.train()
-            encoded_layers, _ = self.bert(x)
-            enc = encoded_layers[-1]
+            enc = self.bert(x)[0]
         else:
             self.bert.eval()
             with torch.no_grad():
-                encoded_layers, _ = self.bert(x)
-                enc = encoded_layers[-1]
+                enc = self.bert(x)[0]
 
         logits = F.sigmoid(self.fc(enc)).to(self.device)
 
@@ -340,9 +331,9 @@ class BertAllLayers(nn.Module):
         super().__init__()
 
         if config.model == "BertCased":
-            self.bert = BertModel.from_pretrained('bert-base-cased')
+            self.bert = BertModel.from_pretrained('bert-base-cased', output_hidden_states=True)
         else:
-            self.bert = BertModel.from_pretrained('bert-base-uncased')
+            self.bert = BertModel.from_pretrained('bert-base-uncased', output_hidden_states=True)
 
         self.fc = nn.Linear(768*12, labels).to(device)
         self.device = device
@@ -354,12 +345,12 @@ class BertAllLayers(nn.Module):
 
         if self.training:
             self.bert.train()
-            encoded_layers, _ = self.bert(x)
+            encoded_layers = self.bert(x)[1]
             enc = torch.cat([encoded_layers[i] for i in range(len(encoded_layers))], dim=2)
         else:
             self.bert.eval()
             with torch.no_grad():
-                encoded_layers, _ = self.bert(x)
+                encoded_layers = self.bert(x)[1]
                 enc = torch.cat([encoded_layers[i] for i in range(len(encoded_layers))], dim = 2)
 
         logits = self.fc(enc).to(self.device)
