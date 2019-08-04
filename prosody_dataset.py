@@ -3,7 +3,7 @@ import sys
 import random
 import math
 from torch.utils import data
-from pytorch_pretrained_bert import BertTokenizer
+from pytorch_transformers import BertTokenizer
 import torch
 import numpy as np
 

@@ -145,7 +145,6 @@ def weighted_mse_loss(input,target):
     return loss
 
 
-
 def main():
 
     config = parser.parse_args()
