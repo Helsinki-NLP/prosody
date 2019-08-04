@@ -6,4 +6,3 @@ glove.840B.300d.txt
 *.pt
 venv/
 train.sh
-images/
