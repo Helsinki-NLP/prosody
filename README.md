@@ -1,5 +1,5 @@
 # Predicting Prosodic Prominence from Text
-This repository contains the prosody corpus and the code from the forthcoming [NoDaLiDa](https://nodalida2019.org/) paper: [Predicting Prosodic Prominence from Text with Pre-trained Contextualized Word Representations](). The code includes implementation of a system for prosody prediction from text using pretrained BERT and LSTM (see below for more details. 
+This repository contains the prosody corpus and the code from the forthcoming [NoDaLiDa](https://nodalida2019.org/) paper: [Predicting Prosodic Prominence from Text with Pre-trained Contextualized Word Representations](). The code includes implementation of a system for prosody prediction from text using a pretrained BERT model and an LSTM model (see below for more details). 
 
 If you find the corpus or the system useful, please cite: 
 
