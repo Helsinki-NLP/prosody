@@ -29,7 +29,7 @@ This repository contains the largest annotated dataset with labels for prosodic 
 | test        |  39        |  4821       |  90,063    |  43,234    |  24,543   |  22,286   |
 | **Total:**  |  **1230**  |  **159,850**    |  **2,836,144** |  **1,368,407** |  **777,615**  |  **690,122**  |
 
-## Usage of the system
+## System
 
 To use the system following dependencies need to be installed:
 
@@ -100,7 +100,7 @@ python3 main.py \
 ```
 
 
-## Output
+### Output
 
 Output of the system is a text file with the following structure:
 
@@ -125,7 +125,7 @@ Atlas  2     2
 ?      NA    NA
 ```
 
-## Results
+## Baseline Results
 
 Main experimental results from the paper using the *train-360* dataset.
 
