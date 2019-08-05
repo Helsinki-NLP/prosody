@@ -10,8 +10,10 @@ If you find the corpus or the system useful, please cite:
 
 ```
 @inproceedings{helsinki_prosody_2019,
-  author = {Aarne Talman and Antti Suni and Hande Celikkanat and Sofoklis Kakouros and J\"org Tiedemann and Martti Vainio},
-  title = {Predicting Prosodic Prominence from Text with Pre-trained Contextualized Word Representations},
+  author = {Aarne Talman and Antti Suni and Hande Celikkanat and Sofoklis Kakouros 
+            and J\"org Tiedemann and Martti Vainio},
+  title = {Predicting Prosodic Prominence from Text with Pre-trained Contextualized 
+           Word Representations},
   booktitle = {Proceedings of NoDaLiDa},
   year = {2019}
 }
