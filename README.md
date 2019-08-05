@@ -17,7 +17,7 @@ If you find the corpus or the system useful, please cite:
 }
 ```
 
-## Corpus
+## The Helsinki Prosody Corpus 1.0
 
 This repository contains the largest annotated dataset with labels for prosodic prominence. The corpus is available in the [data](https://github.com/Helsinki-NLP/prosody/tree/master/data) folder.  
 
@@ -32,6 +32,17 @@ The prosody corpus contains automatically generated, high quality prosodic annot
 | dev         |  40        |  5726       |  99,200    |  47,535    |  27,454   |  24,211   |
 | test        |  39        |  4821       |  90,063    |  43,234    |  24,543   |  22,286   |
 | **Total:**  |  **1230**  |  **159,850**    |  **2,836,144** |  **1,368,407** |  **777,615**  |  **690,122**  |
+
+### Format
+
+The corpus contains data in text files with one word per line and sentences
+separated with an empty line. Each word has five items separated with tabs in
+the following order:
+* word
+* discrete prominence label: 0, 1, 2, NA (for punctuation)
+* dicrete word boundary label (BETA)
+* real-valued prominence label
+* real-valued word boundary label (BETA)
 
 ## System
 
