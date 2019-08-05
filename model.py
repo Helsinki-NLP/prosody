@@ -228,7 +228,7 @@ class WordMajority(nn.Module):
             word_idx = str(x_list[idx])
             class_idx = str(y_list[idx])
 
-            if int(class_idx) not in self.valid_classes: # a couple of pads come along here. why? data problem?
+            if int(class_idx) not in self.valid_classes:
                 continue
 
             if word_idx not in self.majorityClass.keys():

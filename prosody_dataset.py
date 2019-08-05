@@ -59,7 +59,7 @@ class Dataset(data.Dataset):
             yy = [self.tag_to_index[each] for each in t]  # (T,)
 
             head = [1] + [0]*(len(tokens) - 1) # identify the main piece of each word
-            
+ 
             x.extend(xx)
             is_main_piece.extend(head)
             y.extend(yy)
@@ -167,7 +167,7 @@ def pad(batch):
 
 
 def load_embeddings(config, vocab):
-    vocab.add('UNK') #FIXME: Do I need to "augmente" vocab permanently with UNK? I think both ways is ok. Correct?
+    vocab.add('UNK')
     word2id = {word: id for id, word in enumerate(vocab)}
     embed_size = 300
     vocab_size = len(vocab)
