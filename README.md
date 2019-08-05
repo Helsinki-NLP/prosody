@@ -41,10 +41,10 @@ The corpus contains data in text files with one word per line and sentences
 separated with an empty line. Each non-empty line has five items separated with tabs in
 the following order:
 * word
-* discrete prominence label: 0, 1, 2, NA (for punctuation)
-* dicrete word boundary label (BETA)
-* real-valued prominence label
-* real-valued word boundary label (BETA)
+* discrete prominence label: 0, 1, 2 (NA for punctuation)
+* dicrete word boundary label **BETA** (NA for punctuation)
+* real-valued prominence label (NA for punctuation)
+* real-valued word boundary label **BETA** (NA for punctuation)
 
 ## System
 
