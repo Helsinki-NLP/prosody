@@ -62,9 +62,6 @@ To use the system following dependencies need to be installed:
 * argparse
 * pytorch_transformers
 * numpy
-* matplotlib (only used for visualizations)
-* sklearn (only used for prediction metrics)
-
 
 To install the requirements run:
 
