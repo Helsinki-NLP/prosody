@@ -90,7 +90,7 @@ python3 main.py \
     --train_set train_360 \
     --batch_size 32 \
     --epochs 2 \
-    --save_path results.txt \
+    --save_path results_bert.txt \
     --log_every 50 \
     --learning_rate 0.00005 \
     --weight_decay 0 \
@@ -110,7 +110,7 @@ python3 main.py \
     --hidden_dim 600 \
     --batch_size 64 \
     --epochs 5 \
-    --save_path results.txt \
+    --save_path results_bilstm.txt \
     --log_every 50 \
     --learning_rate 0.001 \
     --weight_decay 0 \
