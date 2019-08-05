@@ -1,6 +1,6 @@
 # Predicting Prosodic Prominence from Text with Pre-Trained Contextualized Word Representations
 
-This repository contains the Helsinki Prosody Corpus and the code from the [NoDaLiDa 2019](https://nodalida2019.org) paper:
+This repository contains the Helsinki Prosody Corpus and the code for the [NoDaLiDa 2019](https://nodalida2019.org) paper:
 
 Aarne Talman, Antti Suni, Hande Celikkanat, Sofoklis Kakouros, Jörg Tiedemann and Martti Vainio. 2019. [Predicting Prosodic Prominence from Text with Pre-trained Contextualized Word Representations](). Proceedings of NoDaLiDa. 
  
@@ -42,7 +42,7 @@ separated with an empty line. Each non-empty line has five items separated with 
 the following order:
 * word
 * discrete prominence label: 0, 1, 2 (NA for punctuation)
-* dicrete word boundary label: 0, 1, 2 (NA for punctuation) **BETA**
+* discrete word boundary label: 0, 1, 2 (NA for punctuation) **BETA**
 * real-valued prominence label (NA for punctuation)
 * real-valued word boundary label (NA for punctuation) **BETA**
 
