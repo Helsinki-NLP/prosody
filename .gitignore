@@ -1,5 +1,6 @@
 .idea
 .directory
+.DS_Store
 __pycache__
 results.txt
 glove.840B.300d.txt
