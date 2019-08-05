@@ -1,6 +1,6 @@
 # Predicting Prosodic Prominence from Text with Pre-Trained Contextualized Word Representations
 
-This repository contains the Helsinki Prosody Corpus and the code for the [NoDaLiDa 2019](https://nodalida2019.org) paper:
+This repository contains the Helsinki Prosody Corpus and the code for the paper:
 
 Aarne Talman, Antti Suni, Hande Celikkanat, Sofoklis Kakouros, Jörg Tiedemann and Martti Vainio. 2019 (forthcoming). [Predicting Prosodic Prominence from Text with Pre-trained Contextualized Word Representations](). *Proceedings of NoDaLiDa*. 
  
