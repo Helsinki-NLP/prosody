@@ -61,7 +61,7 @@ commercial    2    1    1.679    0.715
 To use the system following dependencies need to be installed:
 
 * Python 3
-* torch>=1.0
+* PyTorch>=1.0
 * argparse
 * pytorch_transformers
 * numpy
