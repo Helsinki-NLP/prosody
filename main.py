@@ -13,15 +13,6 @@ from prosody_dataset import Dataset
 from prosody_dataset import load_embeddings
 from model import Bert, BertLSTM, LSTM, BertRegression, LSTMRegression, WordMajority, ClassEncodings, BertAllLayers
 from argparse import ArgumentParser
-from sklearn.metrics import confusion_matrix
-
-# Check if $DISPLAY is available for matplotlib:
-import matplotlib
-have_display = os.environ.get('DISPLAY', None)
-if have_display == None:
-    matplotlib.use('Agg')
-import matplotlib.pyplot as plt
-
 
 parser = ArgumentParser(description='Prosody prediction')
 
@@ -193,7 +184,7 @@ def main():
         model = LSTM(device, config, vocab_size=len(vocab), labels=len(tag_to_index))
     elif config.model == "BertRegression":
         model = BertRegression(device, config)
-        config.ignore_punctuation = True # HANDE: I'm not using non-numeric labels for Regression. Shall we?
+        config.ignore_punctuation = True
     elif config.model == "LSTMRegression":
         model = LSTMRegression(device, config, vocab_size=len(vocab))
         config.ignore_punctuation = True
@@ -281,15 +272,9 @@ def main():
             valid(model, dev_iter, criterion, index_to_tag, device, config, best_dev_acc, best_dev_epoch, epoch+1)
         test(model, test_iter, criterion, index_to_tag, device, config)
 
-
-
-
 # --------------- FUNCTIONS FOR DISCRETE MODELS --------------------
 
 def train(model, iterator, optimizer, criterion, device, config):
-    #if config.model == 'WordMajority' and model.load_stats():
-    #    return
-
     model.train()
     for i, batch in enumerate(iterator):
         words, x, is_main_piece, tags, y, seqlens, _, _ = batch
@@ -378,7 +363,6 @@ def valid(model, iterator, criterion, index_to_tag, device, config, best_dev_acc
                 predictions.append(p)
 
     # calc metric
-
     y_true = np.array(true)
     y_pred = np.array(predictions)
     acc = 100. * (y_true == y_pred).astype(np.int32).sum() / len(y_true)
@@ -465,13 +449,6 @@ def test(model, iterator, criterion, index_to_tag, device, config):
     print('Test accuracy: {:<5.2f}%, Test loss: {:<.4f} after {} epochs.\n'.format(round(acc, 2), np.mean(test_losses),
                                                                                    config.epochs))
 
-    classes = ['0', '1', '2', 'NA']
-    np.set_printoptions(precision=1)
-    plot_confusion_matrix(y_true, y_pred, classes, title='Confusion Matrix - ' + config.model)
-
-    plot_name = 'images/confusion_matrix-'+ config.model+'.png' if config.ignore_punctuation else 'confusion_matrix-'+ config.model+'no_NA.png'
-    plt.savefig(plot_name)
-
     final_snapshot_path = 'final_model_{}_testacc_{}_epoch_{}.pt'.format(config.model,
                                                                  round(acc, 2), config.epochs)
     torch.save(model, final_snapshot_path)
@@ -514,10 +491,6 @@ def valid_cont(model, iterator, criterion, index_to_tag, device, config, best_de
             loss = criterion(predictions.to(device), true.float().to(device))
             dev_losses.append(loss.item())
 
-            # Map back the values (for printing):
-            # predictions = np.exp(predictions) - 1
-            # values = np.exp(values) - 1
-
             Words.extend(words)
             Is_main_piece.extend(is_main_piece)
             Tags.extend(tags)
@@ -545,10 +518,6 @@ def test_cont(model, iterator, criterion, index_to_tag, device, config):
             predictions, true = model(x, values)
             loss = criterion(predictions.to(device), true.float().to(device))
             test_losses.append(loss.item())
-
-            # Map back the values (for printing):
-            # predictions = np.exp(predictions) - 1
-            # values = np.exp(values) - 1
 
             Words.extend(words)
             Is_main_piece.extend(is_main_piece)
@@ -580,65 +549,6 @@ def test_cont(model, iterator, criterion, index_to_tag, device, config):
 
     print('Test loss: {:<.4f}\n'.format(np.mean(test_losses)))
     # Correlation is calculated afterwards with a separate script.
-
-
-# ---------- AUXILARY FUNCTIONS -------------
-
-def plot_confusion_matrix(y_true, y_pred, classes,
-                          normalize=False,
-                          title=None,
-                          cmap=plt.cm.Blues):
-    """
-    This function prints and plots the confusion matrix.
-    Normalization can be applied by setting `normalize=True`.
-    """
-
-    if not title:
-        if normalize:
-            title = 'Normalized confusion matrix'
-        else:
-            title = 'Confusion matrix, without normalization'
-
-    # Compute confusion matrix
-    cm = confusion_matrix(y_true, y_pred)
-    # Only use the labels that appear in the data
-    # classes = classes[unique_labels(y_true, y_pred)]
-    if not title:
-        if normalize:
-            cm = cm.astype('float') / cm.sum(axis=1)[:, np.newaxis]
-            print("Normalized confusion matrix")
-        else:
-            print('Confusion matrix, without normalization')
-    else:
-        print(title)
-
-    print(cm)
-
-    fig, ax = plt.subplots()
-    im = ax.imshow(cm, interpolation='nearest', cmap=cmap)
-    ax.figure.colorbar(im, ax=ax)
-    # We want to show all ticks...
-    ax.set(xticks=np.arange(cm.shape[1]),
-           yticks=np.arange(cm.shape[0]),
-           # ... and label them with the respective list entries
-           xticklabels=classes, yticklabels=classes,
-           title=title,
-           ylabel='True label',
-           xlabel='Predicted label')
-
-    plt.setp(ax.get_xticklabels(), ha="right",
-             rotation_mode="anchor")
-
-    # Loop over data dimensions and create text annotations.
-    fmt = '.2f' if normalize else 'd'
-    thresh = cm.max() / 2.
-    for i in range(cm.shape[0]):
-        for j in range(cm.shape[1]):
-            ax.text(j, i, format(cm[i, j], fmt),
-                    ha="center", va="center",
-                    color="white" if cm[i, j] > thresh else "black")
-    fig.tight_layout()
-    return ax
 
 
 if __name__ == "__main__":
