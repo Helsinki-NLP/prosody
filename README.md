@@ -28,7 +28,7 @@ This repository contains the largest annotated dataset with labels for prosodic 
 The prosody corpus contains automatically generated, high quality prosodic annotations for the recently published [LibriTTS corpus](https://arxiv.org/abs/1904.02882).
 
 ![Continuous Wavelet Transform Annotation method](images/cwt.png)
-Continuous Wavelet Transform Annotation method
+**Image**: Continuous Wavelet Transform Annotation method
 
 ### Corpus statistics
 
