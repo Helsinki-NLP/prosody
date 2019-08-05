@@ -46,6 +46,11 @@ the following order:
 * real-valued prominence label (NA for punctuation)
 * real-valued word boundary label (NA for punctuation) **BETA**
 
+**Example:**
+```
+commercial    2    1    1.679    0.715
+```
+
 ## System
 
 To use the system following dependencies need to be installed:
