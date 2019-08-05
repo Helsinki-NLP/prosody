@@ -42,9 +42,9 @@ separated with an empty line. Each non-empty line has five items separated with 
 the following order:
 * word
 * discrete prominence label: 0, 1, 2 (NA for punctuation)
-* dicrete word boundary label **BETA** (NA for punctuation)
+* dicrete word boundary label: 0, 1, 2 (NA for punctuation) **BETA**
 * real-valued prominence label (NA for punctuation)
-* real-valued word boundary label **BETA** (NA for punctuation)
+* real-valued word boundary label (NA for punctuation) **BETA**
 
 ## System
 
