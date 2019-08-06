@@ -27,7 +27,7 @@ This repository contains the largest annotated dataset with labels for prosodic 
 
 * **Download:** The corpus is available in the [data](https://github.com/Helsinki-NLP/prosody/tree/master/data) folder. Clone this repository or download the files separately.  
 
-The prosody corpus contains automatically generated, high quality prosodic annotations for the recently published [LibriTTS corpus](https://arxiv.org/abs/1904.02882) (Heiga et al. 2019) using the Continuous Wavelet Transform Annotation method (Suni et al. 2017) and the [Wavelet Prosody Analyzer toolkit](https://github.com/asuni/wavelet_prosody_toolkit).
+The prosody corpus contains automatically generated, high quality prosodic annotations for the recently published [LibriTTS corpus](https://arxiv.org/abs/1904.02882) (Zen et al. 2019) using the Continuous Wavelet Transform Annotation method (Suni et al. 2017) and the [Wavelet Prosody Analyzer toolkit](https://github.com/asuni/wavelet_prosody_toolkit).
 
 ![Continuous Wavelet Transform Annotation method](images/cwt.png)
 Image: Continuous Wavelet Transform Annotation method
