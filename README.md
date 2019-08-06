@@ -167,4 +167,7 @@ Main experimental results from the paper using the *train-360* dataset.
 | Majority class           |  52.0%                  |  48.0%                 |
 | Random                   |  49.0%                  |  39.5%                 |
 
+# Contact
 
+Aarne Talman
+[aarne.talman@helsinki.fi](mailto:aarne.talman@helsinki.fi)
