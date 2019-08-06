@@ -27,7 +27,7 @@ This repository contains the largest annotated dataset with labels for prosodic 
 
 * **Download:** The corpus is available in the [data](https://github.com/Helsinki-NLP/prosody/tree/master/data) folder. Clone this repository or download the files separately.  
 
-The prosody corpus contains automatically generated, high quality prosodic annotations for the recently published [LibriTTS corpus](https://arxiv.org/abs/1904.02882) using the Continuous Wavelet Transform Annotation method and the [Wavelet Prosody Analyzer toolkit](https://github.com/asuni/wavelet_prosody_toolkit).
+The prosody corpus contains automatically generated, high quality prosodic annotations for the recently published [LibriTTS corpus](https://arxiv.org/abs/1904.02882) (Heiga et al. 2019) using the Continuous Wavelet Transform Annotation method (Suni et al. 2017) and the [Wavelet Prosody Analyzer toolkit](https://github.com/asuni/wavelet_prosody_toolkit).
 
 ![Continuous Wavelet Transform Annotation method](images/cwt.png)
 Image: Continuous Wavelet Transform Annotation method
@@ -170,3 +170,10 @@ Main experimental results from the paper using the *train-360* dataset.
 ## Contact
 
 Aarne Talman: [aarne.talman@helsinki.fi](mailto:aarne.talman@helsinki.fi)
+
+
+## References
+
+[1] Heiga Zen, Viet Dang, Rob Clark, Yu Zhang, Ron J Weiss, Ye Jia, Zhifeng Chen, and YonghuiWu. 2019. LibriTTS: A corpus derived from LibriSpeech for text-to-speech.arXiv preprintarXiv:1904.02882.
+
+[2] Antti Suni, Juraj Šimko, Daniel Aalto, Martti Vainio, Hierarchical representation and estimation of prosody using continuous wavelet transform, Computer Speech & Language, Volume 45, 2017, Pages 123-136, ISSN 0885-2308, https://doi.org/10.1016/j.csl.2016.11.001.
