@@ -60,6 +60,8 @@ commercial    2    1    1.679    0.715
 
 ## System
 
+**License**: MIT
+
 To use the system following dependencies need to be installed:
 
 * Python 3
