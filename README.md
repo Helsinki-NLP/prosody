@@ -19,13 +19,15 @@ If you find the corpus or the system useful, please cite:
 }
 ```
 
-## The Helsinki Prosody Corpus 1.0
+## The Helsinki Prosody Corpus
+
+**License**: CC BY 4.0
 
 This repository contains the largest annotated dataset with labels for prosodic prominence. 
 
 * **Download:** The corpus is available in the [data](https://github.com/Helsinki-NLP/prosody/tree/master/data) folder. Clone this repository or download the files separately.  
 
-The prosody corpus contains automatically generated, high quality prosodic annotations for the recently published [LibriTTS corpus](https://arxiv.org/abs/1904.02882) using the Continuous Wavelet Transform Annotation method.
+The prosody corpus contains automatically generated, high quality prosodic annotations for the recently published [LibriTTS corpus](https://arxiv.org/abs/1904.02882) using the Continuous Wavelet Transform Annotation method and the [Wavelet Prosody Analyzer toolkit](https://github.com/asuni/wavelet_prosody_toolkit).
 
 ![Continuous Wavelet Transform Annotation method](images/cwt.png)
 Image: Continuous Wavelet Transform Annotation method
