@@ -174,6 +174,6 @@ Aarne Talman: [aarne.talman@helsinki.fi](mailto:aarne.talman@helsinki.fi)
 
 ## References
 
-[1] Heiga Zen, Viet Dang, Rob Clark, Yu Zhang, Ron J Weiss, Ye Jia, Zhifeng Chen and Yonghui Wu. 2019. LibriTTS: A corpus derived from LibriSpeech for text-to-speech.arXiv preprintarXiv:1904.02882.
+[1] Heiga Zen, Viet Dang, Rob Clark, Yu Zhang, Ron J Weiss, Ye Jia, Zhifeng Chen and Yonghui Wu. 2019. LibriTTS: A corpus derived from LibriSpeech for text-to-speech. arXiv preprint arXiv:1904.02882.
 
 [2] Antti Suni, Juraj Šimko, Daniel Aalto and Martti Vainio. 2017. Hierarchical representation and estimation of prosody using continuous wavelet transform. Computer Speech & Language. Volume 45. Pages 123-136. ISSN 0885-2308. https://doi.org/10.1016/j.csl.2016.11.001.
