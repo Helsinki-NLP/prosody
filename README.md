@@ -58,6 +58,9 @@ the following order:
 commercial    2    1    1.679    0.715
 ```
 
+### Tasks
+The dataset can be used for two different prosody prediction tasks: 2-way and 3-way prosody prediction. As the dataset is annotated with three labels, 3-way classification can be done directly with the data. To use the data for 2-way classification task map label 2 to label 1 to get two discrete classes 0 (non-promiment) and 1 (prominent).
+
 ## System
 
 **License**: MIT
