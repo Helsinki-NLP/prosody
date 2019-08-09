@@ -62,7 +62,7 @@ commercial    2    1    1.679    0.715
 
 **License**: MIT
 
-To use the system following dependencies need to be installed:
+This repository contains the code for our BERT and BiLSTM models for predicting prosodic prominence from written English text. To use the system following dependencies need to be installed:
 
 * Python 3
 * PyTorch>=1.0
