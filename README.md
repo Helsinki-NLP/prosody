@@ -21,7 +21,7 @@ If you find the corpus or the system useful, please cite:
 
 ## The Helsinki Prosody Corpus
 
-**License**: CC BY 4.0
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 This repository contains the largest annotated dataset of English language with labels for prosodic prominence. 
 
