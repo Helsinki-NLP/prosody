@@ -63,7 +63,7 @@ The dataset can be used for two different prosody prediction tasks: 2-way and 3-
 
 ## System
 
-**License**: MIT
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This repository contains the code for our BERT and BiLSTM models for predicting prosodic prominence from written English text. To use the system following dependencies need to be installed:
 
