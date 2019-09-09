@@ -1,5 +1,11 @@
 # Predicting Prosodic Prominence from Text with Pre-Trained Contextualized Word Representations
 
+**Update 9 September 2019:** 
+* Data files have been modified to include information about the source
+file in LibriTTS: Instead of an empty line before each sentence, there is now
+a line with `<file> file_name.txt`.
+* The code in `prosody_dataset.py` has been updated accordingly.
+
 This repository contains the Helsinki Prosody Corpus and the code for the paper:
 
 Aarne Talman, Antti Suni, Hande Celikkanat, Sofoklis Kakouros, Jörg Tiedemann and Martti Vainio. 2019 (forthcoming). [Predicting Prosodic Prominence from Text with Pre-trained Contextualized Word Representations](https://arxiv.org/abs/1908.02262). *Proceedings of NoDaLiDa*. 
@@ -45,10 +51,10 @@ Image: Continuous Wavelet Transform Annotation method
 ### Format
 
 The corpus contains data in text files with one word per line and sentences
-separated with an empty line. Each non-empty line has five items separated with tabs in
+separated with a line `<file> file_name.txt`, where the filename refers to the source file in LibriTTS. Each line in a sentence has five items separated with tabs in
 the following order:
 * word
-* discrete prominence label: 0, 1, 2 (NA for punctuation)
+* discrete prominence label: 0 (non-prominent), 1 (prominent), 2 (highly prominent), (NA for punctuation)
 * discrete word boundary label: 0, 1, 2 (NA for punctuation) **BETA**
 * real-valued prominence label (NA for punctuation)
 * real-valued word boundary label (NA for punctuation) **BETA**

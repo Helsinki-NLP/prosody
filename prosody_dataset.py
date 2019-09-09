@@ -59,7 +59,7 @@ class Dataset(data.Dataset):
             yy = [self.tag_to_index[each] for each in t]  # (T,)
 
             head = [1] + [0]*(len(tokens) - 1) # identify the main piece of each word
- 
+
             x.extend(xx)
             is_main_piece.extend(head)
             y.extend(yy)
@@ -95,8 +95,8 @@ def load_dataset(config):
                 lines = lines[0:int(round(slice))]
             sent = []
             for i, line in enumerate(lines):
-                if line != "\n":
-                    split_line = line.split('\t')
+                split_line = line.split('\t')
+                if i != 0 and split_line[0] != "<file>":
                     word = split_line[0]
                     tag_prominence = split_line[1]
                     tag_boundary = split_line[2]
@@ -112,7 +112,7 @@ def load_dataset(config):
 
                     sent.append((word, tag_prominence, tag_boundary, value_prominance, value_boundary))
                     words.append(word)
-                elif line == "\n" or i+1 == len(lines):
+                elif (i != 0 and split_line[0] == "<file>") or i+1 == len(lines):
                     tagged_sents.append(sent)
                     sent = []
 
