@@ -6,6 +6,8 @@ file in LibriTTS: Instead of an empty line before each sentence, there is now
 a line with `<file> file_name.txt`.
 * The code in `prosody_dataset.py` has been updated accordingly.
 
+-----
+
 This repository contains the Helsinki Prosody Corpus and the code for the paper:
 
 Aarne Talman, Antti Suni, Hande Celikkanat, Sofoklis Kakouros, Jörg Tiedemann and Martti Vainio. 2019 (forthcoming). [Predicting Prosodic Prominence from Text with Pre-trained Contextualized Word Representations](https://arxiv.org/abs/1908.02262). *Proceedings of NoDaLiDa*. 
