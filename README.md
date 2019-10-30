@@ -1,5 +1,8 @@
 # Predicting Prosodic Prominence from Text with Pre-Trained Contextualized Word Representations
 
+**Update 30 October 2019:**
+* Data files modified to include improved word boundary values.
+
 **Update 9 September 2019:** 
 * Data files have been modified to include information about the source
 file in LibriTTS: Instead of an empty line before each sentence, there is now
@@ -57,9 +60,9 @@ separated with a line `<file> file_name.txt`, where the filename refers to the s
 the following order:
 * word
 * discrete prominence label: 0 (non-prominent), 1 (prominent), 2 (highly prominent), (NA for punctuation)
-* discrete word boundary label: 0, 1, 2 (NA for punctuation) **BETA**
+* discrete word boundary label: 0, 1, 2 (NA for punctuation)
 * real-valued prominence label (NA for punctuation)
-* real-valued word boundary label (NA for punctuation) **BETA**
+* real-valued word boundary label (NA for punctuation)
 
 **Example:**
 ```
